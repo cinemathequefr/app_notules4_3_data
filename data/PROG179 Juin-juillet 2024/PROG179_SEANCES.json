@@ -1,0 +1,7411 @@
+{
+  "updatedAt": "2024-04-19T14:39:33.008Z",
+  "data": [
+    {
+      "idSeance": 128842,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3291
+        }
+      ],
+      "idEvenement": 29367,
+      "typeEvenement": 13,
+      "libelleEvenement": "UN PETIT FRÈRE",
+      "dateHeure": "2024-05-27T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 153643,
+          "titre": "UN PETIT FRÈRE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27573,
+              "duree": 116,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 128873,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 730,
+          "idCategorie": 3179
+        }
+      ],
+      "idEvenement": 30419,
+      "typeEvenement": 13,
+      "libelleEvenement": "FANTASTIC MR. FOX",
+      "dateHeure": "2024-05-29T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 110552,
+          "titre": "FANTASTIC MR. FOX",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 9461,
+              "duree": 87,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130780,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30614,
+      "typeEvenement": 13,
+      "libelleEvenement": "LAURÉAT (LE)",
+      "dateHeure": "2024-05-29T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "idFilm": 35461,
+          "titre": "LAURÉAT",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27785,
+              "duree": 102,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 130781,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30607,
+      "typeEvenement": 13,
+      "libelleEvenement": "CATCH 22",
+      "dateHeure": "2024-05-30T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 35456,
+          "titre": "CATCH 22",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27786,
+              "duree": 122,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130614,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 777,
+          "idCategorie": 3336
+        }
+      ],
+      "idEvenement": 30465,
+      "typeEvenement": 13,
+      "libelleEvenement": "ÉTÉ VIOLENT",
+      "dateHeure": "2024-05-30T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "idFilm": 43799,
+          "titre": "ETÉ VIOLENT",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27680,
+              "duree": 100,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 133555,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30618,
+      "typeEvenement": 13,
+      "libelleEvenement": "WORKING GIRL",
+      "dateHeure": "2024-05-30T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 35474,
+          "titre": "QUAND LES FEMMES S'EN MÊLENT",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27524,
+              "duree": 113,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130906,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30606,
+      "typeEvenement": 13,
+      "libelleEvenement": "BRÛLURE (LA)",
+      "dateHeure": "2024-05-31T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 35465,
+          "titre": "BRÛLURE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27791,
+              "duree": 108,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130666,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 777,
+          "idCategorie": 3336
+        },
+        {
+          "idCycle": 777,
+          "idCategorie": 3343
+        }
+      ],
+      "idEvenement": 30468,
+      "libelleEvenement": "JOURNAL INTIME + DIALOGUE AVEC JEAN-CHRISTOPHE FERRARI",
+      "dateHeure": "2024-05-31T19:00:00",
+      "idSalle": "HL",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "idFilm": 43787,
+          "titre": "JOURNAL INTIME",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27681,
+              "duree": 113,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idConf": 30567,
+          "titre": "DIALOGUE AVEC JEAN-CHRISTOPHE FERRARI",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 130907,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30616,
+      "typeEvenement": 13,
+      "libelleEvenement": "MYSTÈRE SILKWOOD (LE)",
+      "dateHeure": "2024-05-31T20:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 35468,
+          "titre": "MYSTÈRE SILKWOOD",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27790,
+              "duree": 131,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130629,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 741,
+          "idCategorie": 3235
+        }
+      ],
+      "idEvenement": 29886,
+      "typeEvenement": 13,
+      "libelleEvenement": "TERMINATOR",
+      "dateHeure": "2024-06-01T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 30824,
+          "titre": "TERMINATOR",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 9957,
+              "duree": 107,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130627,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 777,
+          "idCategorie": 3336
+        }
+      ],
+      "idEvenement": 30465,
+      "typeEvenement": 13,
+      "libelleEvenement": "ÉTÉ VIOLENT",
+      "dateHeure": "2024-06-01T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 43799,
+          "titre": "ETÉ VIOLENT",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27680,
+              "duree": 100,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130783,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30619,
+      "typeEvenement": 13,
+      "libelleEvenement": "QUI A PEUR DE VIRGINIA WOOLF ?",
+      "dateHeure": "2024-06-01T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 35470,
+          "titre": "QUI A PEUR DE VIRGINIA WOOLF ?",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 14585,
+              "duree": 130,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130735,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 777,
+          "idCategorie": 3336
+        }
+      ],
+      "idEvenement": 30462,
+      "typeEvenement": 13,
+      "libelleEvenement": "ASSIS À SA DROITE",
+      "dateHeure": "2024-06-01T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 43812,
+          "titre": "BLACK JESUS = ASSIS À SA DROITE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27740,
+              "duree": 89,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130784,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30613,
+      "typeEvenement": 13,
+      "libelleEvenement": "JOUR DU DAUPHIN (LE)",
+      "dateHeure": "2024-06-01T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 35458,
+          "titre": "JOUR DU DAUPHIN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27788,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Marc Olry"
+    },
+    {
+      "idSeance": 130668,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 777,
+          "idCategorie": 3336
+        }
+      ],
+      "idEvenement": 30467,
+      "typeEvenement": 13,
+      "libelleEvenement": "JEUNES FILLES DE SAN FREDIANO (LES)",
+      "dateHeure": "2024-06-01T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 43808,
+          "titre": "JEUNES FILLES DE SAN FREDIANO",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27682,
+              "duree": 114,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130905,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 741,
+          "idCategorie": 3235
+        }
+      ],
+      "idEvenement": 30020,
+      "typeEvenement": 13,
+      "libelleEvenement": "ABYSS VERSION LONGUE",
+      "dateHeure": "2024-06-02T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 30822,
+          "titre": "ABYSS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27261,
+              "duree": 171,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129016,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 730,
+          "idCategorie": 3179
+        }
+      ],
+      "idEvenement": 30421,
+      "typeEvenement": 13,
+      "libelleEvenement": "ALICE AU PAYS DES MERVEILLES",
+      "dateHeure": "2024-06-02T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 57070,
+          "titre": "ALICE AU PAYS DES MERVEILLES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 11703,
+              "duree": 75,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129018,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 777,
+          "idCategorie": 3336
+        }
+      ],
+      "idEvenement": 30464,
+      "typeEvenement": 13,
+      "libelleEvenement": "DÉSERT DES TARTARES (LE)",
+      "dateHeure": "2024-06-02T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 43139,
+          "titre": "DÉSERT DES TARTARES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 15799,
+              "duree": 140,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130667,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 777,
+          "idCategorie": 3336
+        }
+      ],
+      "idEvenement": 30469,
+      "typeEvenement": 13,
+      "libelleEvenement": "PROFESSEUR (LE)",
+      "dateHeure": "2024-06-02T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 61817,
+          "titre": "PROFESSEUR",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27678,
+              "duree": 127,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130787,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30609,
+      "typeEvenement": 13,
+      "libelleEvenement": "DE QUELLE PLANÈTE VIENS-TU ?",
+      "dateHeure": "2024-06-03T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 69553,
+          "titre": "DE QUELLE PLANÈTE VIENS-TU ?",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27794,
+              "duree": 104,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27989,
+              "duree": 104,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130916,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3361
+        }
+      ],
+      "idEvenement": 30699,
+      "typeEvenement": 13,
+      "libelleEvenement": "25 ANS! VIVE « PRENDS ÇA COURT » LIBRE!",
+      "dateHeure": "2024-06-03T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 154823,
+          "titre": "ETÉ 2000",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27876,
+              "duree": 20,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idFilm": 154819,
+          "titre": "CHAT MORT",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 27871,
+              "duree": 12,
+              "format": "8 mm"
+            }
+          ]
+        },
+        {
+          "idFilm": 154820,
+          "titre": "DINOSAURIA, WE",
+          "ordre": 3,
+          "copies": [
+            {
+              "idCopie": 27872,
+              "duree": 5,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idFilm": 154821,
+          "titre": "FAIRE UN ENFANT",
+          "ordre": 4,
+          "copies": [
+            {
+              "idCopie": 27874,
+              "duree": 19,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idFilm": 154822,
+          "titre": "TROU DANS LA POITRINE",
+          "ordre": 5,
+          "copies": [
+            {
+              "idCopie": 27875,
+              "duree": 11,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idFilm": 154824,
+          "titre": "FROID ET SOMBRE",
+          "ordre": 6,
+          "copies": [
+            {
+              "idCopie": 27884,
+              "duree": 30,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154825,
+          "titre": "FUCK YOU I'M MILLWALL!",
+          "ordre": 7,
+          "copies": [
+            {
+              "idCopie": 27885,
+              "duree": 16,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129024,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3040
+        }
+      ],
+      "idEvenement": 30676,
+      "typeEvenement": 13,
+      "libelleEvenement": "FRENTE A GUERNICA (DIRECTOR'S CUT)",
+      "dateHeure": "2024-06-03T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 43,
+      "items": [
+        {
+          "idFilm": 154803,
+          "titre": "FRENTE A GUERNICA",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27821,
+              "duree": 126,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STA",
+              "stDemande": true
+            }
+          ]
+        }
+      ],
+      "mention": "Avant-première. Séance présentée par Yervant Gianikian"
+    },
+    {
+      "idSeance": 130788,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30615,
+      "typeEvenement": 13,
+      "libelleEvenement": "MON COMBAT",
+      "dateHeure": "2024-06-03T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 141680,
+          "titre": "[MON COMBAT]",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27817,
+              "duree": 99,
+              "format": "Numérique",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130669,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 777,
+          "idCategorie": 3336
+        }
+      ],
+      "idEvenement": 30463,
+      "typeEvenement": 13,
+      "libelleEvenement": "DES FILLES POUR L'ARMÉE",
+      "dateHeure": "2024-06-05T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 59190,
+          "titre": "DES FILLES POUR L'ARMÉE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27679,
+              "duree": 120,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129062,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 780,
+          "idCategorie": 3341
+        }
+      ],
+      "idEvenement": 30542,
+      "typeEvenement": 13,
+      "libelleEvenement": "LES FANTÔMES",
+      "dateHeure": "2024-06-05T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154841,
+          "titre": "FANTÔMES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28028,
+              "duree": 106,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130789,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30611,
+      "typeEvenement": 13,
+      "libelleEvenement": "GILDA LIVE",
+      "dateHeure": "2024-06-05T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 68096,
+          "titre": "GILDA LIVE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27990,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129100,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 780,
+          "idCategorie": 3341
+        }
+      ],
+      "idEvenement": 30543,
+      "typeEvenement": 13,
+      "libelleEvenement": "BABY",
+      "dateHeure": "2024-06-06T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154845,
+          "titre": "BABY",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28032,
+              "duree": 107,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129097,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 525,
+          "idCategorie": 3359
+        },
+        {
+          "idCycle": 777,
+          "idCategorie": 3336
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3114
+        }
+      ],
+      "idEvenement": 30466,
+      "libelleEvenement": "FILLE À LA VALISE (LA) + DIALOGUE AVEC FRÉDÉRIC BONNAUD",
+      "dateHeure": "2024-06-06T19:00:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "idFilm": 43803,
+          "titre": "FILLE À LA VALISE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27677,
+              "duree": 121,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idConf": 30751,
+          "titre": "DIALOGUE AVEC FRÉDÉRIC BONNAUD",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 129101,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 780,
+          "idCategorie": 3341
+        }
+      ],
+      "idEvenement": 30544,
+      "typeEvenement": 13,
+      "libelleEvenement": "BLUE SUN PALACE",
+      "dateHeure": "2024-06-06T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154846,
+          "titre": "BLUE SUN PALACE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28033,
+              "duree": 116,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129187,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 780,
+          "idCategorie": 3341
+        }
+      ],
+      "idEvenement": 30550,
+      "typeEvenement": 13,
+      "libelleEvenement": "PROGRAMME DE COURTS MÉTRAGES 1",
+      "dateHeure": "2024-06-07T16:00:00",
+      "idSalle": "GF",
+      "theorique": true
+    },
+    {
+      "idSeance": 129140,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 780,
+          "idCategorie": 3341
+        }
+      ],
+      "idEvenement": 30545,
+      "typeEvenement": 13,
+      "libelleEvenement": "JULIE ZWIJGT",
+      "dateHeure": "2024-06-07T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154847,
+          "titre": "JULIE ZWIJGT",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28034,
+              "duree": 97,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130817,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 3338
+        }
+      ],
+      "idEvenement": 30506,
+      "typeEvenement": 13,
+      "libelleEvenement": "MOHAMED ZINET – SÉANCE 1 (07/06/2024)",
+      "dateHeure": "2024-06-07T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 50231,
+          "titre": "BOUGNOUL",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27674,
+              "duree": 102,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Nabil Djedouani"
+    },
+    {
+      "idSeance": 129144,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 777,
+          "idCategorie": 3336
+        }
+      ],
+      "idEvenement": 30464,
+      "typeEvenement": 13,
+      "libelleEvenement": "DÉSERT DES TARTARES (LE)",
+      "dateHeure": "2024-06-07T20:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 43139,
+          "titre": "DÉSERT DES TARTARES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 15799,
+              "duree": 140,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129141,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 780,
+          "idCategorie": 3341
+        }
+      ],
+      "idEvenement": 30546,
+      "typeEvenement": 13,
+      "libelleEvenement": "LOCUST",
+      "dateHeure": "2024-06-07T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154850,
+          "titre": "LOCUST",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28070,
+              "duree": 128,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130818,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 3338
+        }
+      ],
+      "idEvenement": 30507,
+      "typeEvenement": 13,
+      "libelleEvenement": "MOHAMED ZINET – SÉANCE 2 (07/06/2024)",
+      "dateHeure": "2024-06-07T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 154771,
+          "titre": "BOUGNOUL : BANDE ANNONCE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27675,
+              "duree": 4,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "idFilm": 79326,
+          "titre": "TROIS COUSINS",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 7998,
+              "duree": 21,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "idFilm": 65805,
+          "titre": "AJONCS",
+          "ordre": 3,
+          "copies": [
+            {
+              "idCopie": 8696,
+              "duree": 13,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "idFilm": 154772,
+          "titre": "ZINET, ALGER, LE BONHEUR",
+          "ordre": 4,
+          "copies": [
+            {
+              "idCopie": 27676,
+              "duree": 57,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Mohammed Latrèche et Olivier Hadouchi"
+    },
+    {
+      "idSeance": 129180,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 741,
+          "idCategorie": 3235
+        }
+      ],
+      "idEvenement": 30021,
+      "typeEvenement": 13,
+      "libelleEvenement": "ALIENS – LE RETOUR VERSION LONGUE",
+      "dateHeure": "2024-06-08T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 30809,
+          "titre": "ALIENS – LE RETOUR",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 5041,
+              "duree": 137,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133554,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        },
+        {
+          "idCycle": 782,
+          "idCategorie": 3365
+        }
+      ],
+      "idEvenement": 30608,
+      "libelleEvenement": "CE PLAISIR QU'ON DIT CHARNEL + DIALOGUE AVEC LÉO SOESANTO",
+      "dateHeure": "2024-06-08T15:00:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "idFilm": 35443,
+          "titre": "CE PLAISIR QU'ON DIT CHARNEL",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27787,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idConf": 30674,
+          "titre": "DIALOGUE AVEC LÉO SOESANTO",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 129181,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 780,
+          "idCategorie": 3341
+        }
+      ],
+      "idEvenement": 30547,
+      "typeEvenement": 13,
+      "libelleEvenement": "LA PAMPA",
+      "dateHeure": "2024-06-08T17:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154851,
+          "titre": "PAMPA",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28071,
+              "duree": 104,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130835,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 777,
+          "idCategorie": 3336
+        }
+      ],
+      "idEvenement": 30468,
+      "typeEvenement": 13,
+      "libelleEvenement": "JOURNAL INTIME",
+      "dateHeure": "2024-06-08T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 43787,
+          "titre": "JOURNAL INTIME",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27681,
+              "duree": 113,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130792,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30605,
+      "typeEvenement": 13,
+      "libelleEvenement": "BONS BAISERS D'HOLLYWOOD",
+      "dateHeure": "2024-06-08T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 35411,
+          "titre": "BONS BAISERS D'HOLLYWOOD",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27802,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129182,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 780,
+          "idCategorie": 3341
+        }
+      ],
+      "idEvenement": 30548,
+      "typeEvenement": 13,
+      "libelleEvenement": "THE BRINK OF DREAMS",
+      "dateHeure": "2024-06-08T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154852,
+          "titre": "RAFAAT EINY LL SAMA",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28072,
+              "duree": 0,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129198,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 780,
+          "idCategorie": 3341
+        }
+      ],
+      "idEvenement": 30549,
+      "typeEvenement": 13,
+      "libelleEvenement": "SIMON DE LA MONTAGNE",
+      "dateHeure": "2024-06-09T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154853,
+          "titre": "SIMON DE LA MONTAGNE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28074,
+              "duree": 96,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129202,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 730,
+          "idCategorie": 3179
+        }
+      ],
+      "idEvenement": 30424,
+      "typeEvenement": 13,
+      "libelleEvenement": "DRÔLE DE FRIMOUSSE",
+      "dateHeure": "2024-06-09T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 31344,
+          "titre": "DRÔLE DE FRIMOUSSE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 16587,
+              "duree": 103,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130848,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30607,
+      "typeEvenement": 13,
+      "libelleEvenement": "CATCH 22",
+      "dateHeure": "2024-06-09T15:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 35456,
+          "titre": "CATCH 22",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27786,
+              "duree": 122,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129200,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 780,
+          "idCategorie": 3341
+        }
+      ],
+      "idEvenement": 30553,
+      "typeEvenement": 13,
+      "libelleEvenement": "LA MER AU LOIN",
+      "dateHeure": "2024-06-09T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154842,
+          "titre": "MER AU LOIN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28029,
+              "duree": 112,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130793,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30620,
+      "typeEvenement": 13,
+      "libelleEvenement": "WOLF",
+      "dateHeure": "2024-06-09T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 50777,
+          "titre": "WOLF",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27796,
+              "duree": 125,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27797,
+              "duree": 125,
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130836,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 777,
+          "idCategorie": 3336
+        }
+      ],
+      "idEvenement": 30469,
+      "typeEvenement": 13,
+      "libelleEvenement": "PROFESSEUR (LE)",
+      "dateHeure": "2024-06-09T17:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 61817,
+          "titre": "PROFESSEUR",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27678,
+              "duree": 127,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133556,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30601,
+      "typeEvenement": 13,
+      "libelleEvenement": "A PROPOS D' HENRY",
+      "dateHeure": "2024-06-09T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 35339,
+          "titre": "A PROPOS D' HENRY",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27792,
+              "duree": 107,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130750,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 780,
+          "idCategorie": 3341
+        }
+      ],
+      "idEvenement": 30554,
+      "typeEvenement": 13,
+      "libelleEvenement": "LES REINES DU DRAME",
+      "dateHeure": "2024-06-09T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154843,
+          "titre": "REINES DU DRAME",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28030,
+              "duree": 114,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129252,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 780,
+          "idCategorie": 3341
+        }
+      ],
+      "idEvenement": 30551,
+      "typeEvenement": 13,
+      "libelleEvenement": "PROGRAMME DE COURTS MÉTRAGES 2",
+      "dateHeure": "2024-06-10T16:00:00",
+      "idSalle": "GF",
+      "theorique": true
+    },
+    {
+      "idSeance": 133618,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 780,
+          "idCategorie": 3341
+        }
+      ],
+      "idEvenement": 30924,
+      "typeEvenement": 13,
+      "libelleEvenement": "COURTS MÉTRAGES : SÉANCE SPÉCIALE",
+      "dateHeure": "2024-06-10T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 154868,
+          "titre": "1996 OU LES MALHEURS DE SOLVEIG",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28095,
+              "duree": 30,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idFilm": 154867,
+          "titre": "FIANCÉES DU SUD",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 28094,
+              "duree": 39,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154869,
+          "titre": "SANNAPÄIV",
+          "ordre": 3,
+          "copies": [
+            {
+              "idCopie": 28096,
+              "duree": 13,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130752,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 780,
+          "idCategorie": 3341
+        }
+      ],
+      "idEvenement": 30555,
+      "typeEvenement": 13,
+      "libelleEvenement": "ANIMALE",
+      "dateHeure": "2024-06-10T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 154844,
+          "titre": "ANIMALE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28031,
+              "duree": 98,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130795,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30612,
+      "typeEvenement": 13,
+      "libelleEvenement": "GUERRE SELON CHARLIE WILSON (LA)",
+      "dateHeure": "2024-06-12T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 103565,
+          "titre": "GUERRE SELON CHARLIE WILSON",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27795,
+              "duree": 97,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129248,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30497,
+      "typeEvenement": 13,
+      "libelleEvenement": "MA SŒUR EST DU TONNERRE",
+      "dateHeure": "2024-06-12T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "idFilm": 35594,
+          "titre": "MA SŒUR EST DU TONNERRE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27673,
+              "duree": 108,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 130796,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30610,
+      "typeEvenement": 13,
+      "libelleEvenement": "ENTRE ADULTES CONSENTANTS",
+      "dateHeure": "2024-06-12T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 94883,
+          "titre": "ENTRE ADULTES CONSENTANTS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27800,
+              "duree": 104,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130632,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30492,
+      "typeEvenement": 13,
+      "libelleEvenement": "BAL DES CINGLÉS (LE)",
+      "dateHeure": "2024-06-13T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 35597,
+          "titre": "BAL DES CINGLÉS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27717,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133586,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3356
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3111
+        }
+      ],
+      "idEvenement": 30763,
+      "libelleEvenement": "DIABLE PROBABLEMENT (LE) + DIALOGUE AVEC OLIVIER ASSAYAS",
+      "dateHeure": "2024-06-13T19:00:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "idFilm": 47122,
+          "titre": "DIABLE PROBABLEMENT",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 14603,
+              "duree": 95,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idConf": 30774,
+          "titre": "DIALOGUE AVEC OLIVIER ASSAYAS",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 129288,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30608,
+      "typeEvenement": 13,
+      "libelleEvenement": "CE PLAISIR QU'ON DIT CHARNEL",
+      "dateHeure": "2024-06-13T19:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 35443,
+          "titre": "CE PLAISIR QU'ON DIT CHARNEL",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27787,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129287,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30491,
+      "typeEvenement": 13,
+      "libelleEvenement": "ADORABLE VOISINE (L')",
+      "dateHeure": "2024-06-13T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 44912,
+          "titre": "ADORABLE VOISINE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 23708,
+              "duree": 102,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130908,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30604,
+      "typeEvenement": 13,
+      "libelleEvenement": "BONNE FORTUNE (LA)",
+      "dateHeure": "2024-06-14T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 35453,
+          "titre": "BONNE FORTUNE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27789,
+              "duree": 88,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130808,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 18,
+          "idCategorie": 1856
+        },
+        {
+          "idCycle": 18,
+          "idCategorie": 3355
+        },
+        {
+          "idCycle": 741,
+          "idCategorie": 3264
+        },
+        {
+          "idCycle": 18,
+          "idCategorie": 3355
+        },
+        {
+          "idCycle": 741,
+          "idCategorie": 3235
+        }
+      ],
+      "idEvenement": 29891,
+      "libelleEvenement": "LEÇON DE CINÉMA DE RUSSELL CARPENTER + TITANIC",
+      "dateHeure": "2024-06-14T18:30:00",
+      "idSalle": "HL",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "idConf": 30641,
+          "titre": "LEÇON DE CINÉMA DE RUSSELL CARPENTER",
+          "typeConference": "Leçon de cinéma",
+          "duree": 60,
+          "ordre": 1
+        },
+        {
+          "idFilm": 29089,
+          "titre": "TITANIC",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 27095,
+              "duree": 194,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129330,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30619,
+      "typeEvenement": 13,
+      "libelleEvenement": "QUI A PEUR DE VIRGINIA WOOLF ?",
+      "dateHeure": "2024-06-14T19:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 35470,
+          "titre": "QUI A PEUR DE VIRGINIA WOOLF ?",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 14585,
+              "duree": 130,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130909,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30617,
+      "typeEvenement": 13,
+      "libelleEvenement": "PRIMARY COLORS",
+      "dateHeure": "2024-06-14T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 29232,
+          "titre": "PRIMARY COLORS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 9565,
+              "duree": 143,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130813,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        },
+        {
+          "idCycle": 778,
+          "idCategorie": 3344
+        }
+      ],
+      "idEvenement": 30495,
+      "libelleEvenement": "DU PLOMB POUR L'INSPECTEUR + DIALOGUE AVEC SERGE CHAUVIN",
+      "dateHeure": "2024-06-15T14:30:00",
+      "idSalle": "HL",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "idFilm": 35906,
+          "titre": "DU PLOMB POUR L'INSPECTEUR",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27693,
+              "duree": 88,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idConf": 30642,
+          "titre": "DIALOGUE AVEC SERGE CHAUVIN",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 130797,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30614,
+      "typeEvenement": 13,
+      "libelleEvenement": "LAURÉAT (LE)",
+      "dateHeure": "2024-06-15T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 35461,
+          "titre": "LAURÉAT",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27785,
+              "duree": 102,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129371,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30603,
+      "typeEvenement": 13,
+      "libelleEvenement": "BIRDCAGE (THE)",
+      "dateHeure": "2024-06-15T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 59885,
+          "titre": "BIRDCAGE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27793,
+              "duree": 119,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129367,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30487,
+      "typeEvenement": 13,
+      "libelleEvenement": "INQUIÉTANTE DAME EN NOIR (L')",
+      "dateHeure": "2024-06-15T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 35948,
+          "titre": "INQUIÉTANTE DAME EN NOIR",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27689,
+              "duree": 122,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130927,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30687,
+      "typeEvenement": 13,
+      "libelleEvenement": "ANGELS IN AMERICA : MILLENIUM APPROACHES",
+      "dateHeure": "2024-06-15T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 154806,
+          "titre": "ANGELS IN AMERICA : MILLENIUM APPROACHES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27844,
+              "duree": 180,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129368,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30486,
+      "typeEvenement": 13,
+      "libelleEvenement": "DEUX TÊTES FOLLES",
+      "dateHeure": "2024-06-15T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 45860,
+          "titre": "DEUX TÊTES FOLLES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27691,
+              "duree": 111,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129383,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30485,
+      "typeEvenement": 13,
+      "libelleEvenement": "UNE VIERGE SUR CANAPÉ",
+      "dateHeure": "2024-06-16T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 35956,
+          "titre": "UNE VIERGE SUR CANAPÉ",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27688,
+              "duree": 114,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129388,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 730,
+          "idCategorie": 3179
+        }
+      ],
+      "idEvenement": 30420,
+      "typeEvenement": 13,
+      "libelleEvenement": "PRINCES ET PRINCESSES",
+      "dateHeure": "2024-06-16T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 66744,
+          "titre": "PRINCES ET PRINCESSES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 9272,
+              "duree": 70,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130928,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        },
+        {
+          "idCycle": 782,
+          "idCategorie": 3365
+        }
+      ],
+      "idEvenement": 30688,
+      "libelleEvenement": "ANGELS IN AMERICA : PERESTROIKA + DIALOGUE AVEC ARNAUD DESPLECHIN",
+      "dateHeure": "2024-06-16T17:00:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "idFilm": 154807,
+          "titre": "ANGELS IN AMERICA : PERESTROIKA",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27843,
+              "duree": 160,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "idConf": 30675,
+          "titre": "DIALOGUE AVEC ARNAUD DESPLECHIN",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 130633,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30484,
+      "typeEvenement": 13,
+      "libelleEvenement": "COMMENT TUER VOTRE FEMME",
+      "dateHeure": "2024-06-16T17:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 35445,
+          "titre": "COMMENT TUER VOTRE FEMME",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27702,
+              "duree": 120,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129385,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30488,
+      "typeEvenement": 13,
+      "libelleEvenement": "MONDE DE SUZIE WONG (LE)",
+      "dateHeure": "2024-06-16T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 35916,
+          "titre": "MONDE DE SUZY WONG",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27687,
+              "duree": 126,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130910,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30602,
+      "typeEvenement": 13,
+      "libelleEvenement": "BILOXI BLUES",
+      "dateHeure": "2024-06-17T17:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 35451,
+          "titre": "BILOXI BLUES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27988,
+              "duree": 107,
+              "format": "Numérique",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129398,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30505,
+      "typeEvenement": 13,
+      "libelleEvenement": "LEATHER GLOVES",
+      "dateHeure": "2024-06-17T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 73134,
+          "titre": "LEATHER GLOVES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27692,
+              "duree": 75,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130926,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3363
+        }
+      ],
+      "idEvenement": 30658,
+      "typeEvenement": 13,
+      "libelleEvenement": "LES MEUTES (SOIRÉE FONDATION GAN POUR LE CINÉMA)",
+      "dateHeure": "2024-06-17T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 154814,
+          "titre": "MEUTES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27861,
+              "duree": 94,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance suivie d'une discussion avec Kamal Lazraq"
+    },
+    {
+      "idSeance": 129396,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        },
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30660,
+      "typeEvenement": 13,
+      "libelleEvenement": "HORS DU TEMPS",
+      "dateHeure": "2024-06-17T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 43,
+      "items": [
+        {
+          "idFilm": 154801,
+          "titre": "HORS DU TEMPS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27955,
+              "duree": 105,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Avant-première. Séance présentée par Olivier Assayas"
+    },
+    {
+      "idSeance": 130737,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30502,
+      "typeEvenement": 13,
+      "libelleEvenement": "JOYEUX DÉBARQUEMENT (LE)",
+      "dateHeure": "2024-06-17T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 35433,
+          "titre": "JOYEUX DÉBARQUEMENT",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27718,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130850,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30766,
+      "typeEvenement": 13,
+      "libelleEvenement": "PARIS S'ÉVEILLE",
+      "dateHeure": "2024-06-19T18:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 56143,
+          "titre": "PARIS S'ÉVEILLE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27953,
+              "duree": 95,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Judith Godrèche"
+    },
+    {
+      "idSeance": 130814,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        },
+        {
+          "idCycle": 778,
+          "idCategorie": 3344
+        }
+      ],
+      "idEvenement": 30489,
+      "libelleEvenement": "LIAISONS SECRÈTES + DIALOGUE AVEC MURIELLE JOUDET",
+      "dateHeure": "2024-06-19T19:00:00",
+      "idSalle": "HL",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "idFilm": 45861,
+          "titre": "LIAISONS SECRÈTES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27779,
+              "duree": 117,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "Autres",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "idConf": 30568,
+          "titre": "DIALOGUE AVEC MURIELLE JOUDET",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 129437,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30438,
+      "typeEvenement": 13,
+      "libelleEvenement": "ENFANT DE L'HIVER (L')",
+      "dateHeure": "2024-06-19T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 46475,
+          "titre": "ENFANT DE L'HIVER",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28100,
+              "duree": 84,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Denis Lenoir"
+    },
+    {
+      "idSeance": 129472,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30490,
+      "typeEvenement": 13,
+      "libelleEvenement": "TRAIN, AMOUR ET CRUSTACÉS",
+      "dateHeure": "2024-06-20T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 35705,
+          "titre": "TRAIN, AMOUR ET CRUSTACÉS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27724,
+              "duree": 97,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133587,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3356
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3111
+        }
+      ],
+      "idEvenement": 30764,
+      "libelleEvenement": "IN GIRUM IMUS NOCTE ET CONSUMIMUR IGNI + DIALOGUE AVEC OLIVIER ASSAYAS",
+      "dateHeure": "2024-06-20T19:00:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "idFilm": 55468,
+          "titre": "IN GIRUM IMUS NOCTE ET CONSUMIMUR IGNI",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 1516,
+              "duree": 100,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idConf": 30775,
+          "titre": "DIALOGUE AVEC OLIVIER ASSAYAS",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 129473,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30513,
+      "typeEvenement": 13,
+      "libelleEvenement": "ÇA C'EST PARIS",
+      "dateHeure": "2024-06-20T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 73153,
+          "titre": "SO THIS IS PARIS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27701,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130912,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30616,
+      "typeEvenement": 13,
+      "libelleEvenement": "MYSTÈRE SILKWOOD (LE)",
+      "dateHeure": "2024-06-21T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 35468,
+          "titre": "MYSTÈRE SILKWOOD",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27790,
+              "duree": 131,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130738,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30504,
+      "typeEvenement": 13,
+      "libelleEvenement": "SUNNY SIDE OF THE STREET",
+      "dateHeure": "2024-06-21T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 73140,
+          "titre": "SUNNY SIDE OF THE STREET",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27738,
+              "duree": 65,
+              "format": "16 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130685,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30770,
+      "typeEvenement": 13,
+      "libelleEvenement": "IRMA VEP",
+      "dateHeure": "2024-06-21T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 55633,
+          "titre": "IRMA VEP",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27921,
+              "duree": 98,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Nathalie Richard"
+    },
+    {
+      "idSeance": 130913,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30479,
+      "typeEvenement": 13,
+      "libelleEvenement": "W",
+      "dateHeure": "2024-06-21T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 73167,
+          "titre": "W",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27784,
+              "duree": 95,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "Autres",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130874,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        },
+        {
+          "idCycle": 776,
+          "idCategorie": 3345
+        }
+      ],
+      "idEvenement": 30426,
+      "libelleEvenement": "APRÈS MAI + DIALOGUE AVEC OLIVIER ASSAYAS",
+      "dateHeure": "2024-06-22T14:30:00",
+      "idSalle": "HL",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "idFilm": 117618,
+          "titre": "APRÈS MAI",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27660,
+              "duree": 122,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idConf": 30570,
+          "titre": "DIALOGUE AVEC OLIVIER ASSAYAS",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 133542,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 782,
+          "idCategorie": 3350
+        }
+      ],
+      "idEvenement": 30617,
+      "typeEvenement": 13,
+      "libelleEvenement": "PRIMARY COLORS",
+      "dateHeure": "2024-06-22T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 29232,
+          "titre": "PRIMARY COLORS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 9565,
+              "duree": 143,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130739,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30494,
+      "typeEvenement": 13,
+      "libelleEvenement": "UNE CADILLAC EN OR MASSIF",
+      "dateHeure": "2024-06-22T18:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 35960,
+          "titre": "UNE CADILLAC EN OR MASSIF",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27722,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133600,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30453,
+      "typeEvenement": 13,
+      "libelleEvenement": "PERSONAL SHOPPER",
+      "dateHeure": "2024-06-22T18:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 131532,
+          "titre": "PERSONAL SHOPPER",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 26159,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130740,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30499,
+      "typeEvenement": 13,
+      "libelleEvenement": "DESTIN EST AU TOURNANT (LE)",
+      "dateHeure": "2024-06-22T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 35440,
+          "titre": "DESTIN EST AU TOURNANT]",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27720,
+              "duree": 83,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130675,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30436,
+      "typeEvenement": 13,
+      "libelleEvenement": "EAU FROIDE (L')",
+      "dateHeure": "2024-06-22T21:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 51846,
+          "titre": "EAU FROIDE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 10529,
+              "duree": 92,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Virginie Ledoyen"
+    },
+    {
+      "idSeance": 130665,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3345
+        }
+      ],
+      "idEvenement": 30569,
+      "typeEvenement": 14,
+      "libelleEvenement": "« ASSAYAS PAR ASSAYAS : DIALOGUE AUTOUR DE 4 EXTRAITS CHOISIS »",
+      "dateHeure": "2024-06-23T14:30:00",
+      "typeConference": "Leçon de cinéma",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 30569,
+          "titre": "« ASSAYAS PAR ASSAYAS : DIALOGUE AUTOUR DE 4 EXTRAITS CHOISIS »",
+          "typeConference": "Leçon de cinéma",
+          "duree": 60,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 129573,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30492,
+      "typeEvenement": 13,
+      "libelleEvenement": "BAL DES CINGLÉS (LE)",
+      "dateHeure": "2024-06-23T14:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 35597,
+          "titre": "BAL DES CINGLÉS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27717,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130754,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 741,
+          "idCategorie": 3235
+        }
+      ],
+      "idEvenement": 29893,
+      "typeEvenement": 13,
+      "libelleEvenement": "AVATAR",
+      "dateHeure": "2024-06-23T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 110101,
+          "titre": "AVATAR",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 4859,
+              "duree": 150,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129575,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30439,
+      "typeEvenement": 13,
+      "libelleEvenement": "FIN AOÛT, DÉBUT SEPTEMBRE",
+      "dateHeure": "2024-06-23T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 64147,
+          "titre": "FIN AOÛT, DÉBUT SEPTEMBRE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28101,
+              "duree": 112,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Virginie Ledoyen et Mathieu Amalric"
+    },
+    {
+      "idSeance": 130840,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30491,
+      "typeEvenement": 13,
+      "libelleEvenement": "ADORABLE VOISINE (L')",
+      "dateHeure": "2024-06-23T17:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 44912,
+          "titre": "ADORABLE VOISINE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 23708,
+              "duree": 102,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129570,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 741,
+          "idCategorie": 3235
+        }
+      ],
+      "idEvenement": 29975,
+      "typeEvenement": 13,
+      "libelleEvenement": "AVATAR : LA VOIE DE L'EAU",
+      "dateHeure": "2024-06-23T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154672,
+          "titre": "AVATAR : LA VOIE DE L'EAU",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27179,
+              "duree": 0,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130842,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30487,
+      "typeEvenement": 13,
+      "libelleEvenement": "INQUIÉTANTE DAME EN NOIR (L')",
+      "dateHeure": "2024-06-23T19:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 35948,
+          "titre": "INQUIÉTANTE DAME EN NOIR",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27689,
+              "duree": 122,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130676,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30434,
+      "typeEvenement": 13,
+      "libelleEvenement": "DESTINÉES SENTIMENTALES (LES)",
+      "dateHeure": "2024-06-23T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 68646,
+          "titre": "DESTINÉES SENTIMENTALES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28099,
+              "duree": 180,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Jacques Fieschi et Anaïs Romand"
+    },
+    {
+      "idSeance": 129584,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30768,
+      "typeEvenement": 13,
+      "libelleEvenement": "DEMONLOVER",
+      "dateHeure": "2024-06-24T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 79061,
+          "titre": "DEMONLOVER",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27946,
+              "duree": 120,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130873,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3362
+        }
+      ],
+      "idEvenement": 30659,
+      "typeEvenement": 13,
+      "libelleEvenement": "REPÉRAGES 2024 : QUATRE JEUNES CINÉASTES À DÉCOUVRIR",
+      "dateHeure": "2024-06-24T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 154815,
+          "titre": "NUIT PARTICULIÈRE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27866,
+              "duree": 27,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idFilm": 154818,
+          "titre": "TALK TO ME",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 27867,
+              "duree": 21,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154817,
+          "titre": "FEMME À LA MER",
+          "ordre": 3,
+          "copies": [
+            {
+              "idCopie": 27869,
+              "duree": 33,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idFilm": 154816,
+          "titre": "SONGE DE JOSEPH",
+          "ordre": 4,
+          "copies": [
+            {
+              "idCopie": 27870,
+              "duree": 23,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance suivie d'une discussion avec Céline Baril, François Hebert, Ribal Chedid et Enzo Martinez"
+    },
+    {
+      "idSeance": 130689,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30427,
+      "typeEvenement": 13,
+      "libelleEvenement": "BOARDING GATE",
+      "dateHeure": "2024-06-24T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 102024,
+          "titre": "BOARDING GATE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27661,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133544,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30478,
+      "typeEvenement": 13,
+      "libelleEvenement": "PRISONNIER DE ZENDA (LE)",
+      "dateHeure": "2024-06-26T17:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 35600,
+          "titre": "PRISONER OF ZENDA",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27991,
+              "duree": 108,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "Autres"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130875,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30433,
+      "typeEvenement": 13,
+      "libelleEvenement": "DÉSORDRE / WINSTON TONG EN STUDIO / LAISSÉ INACHEVÉ À TOKYO / RECTANGLE",
+      "dateHeure": "2024-06-26T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 71468,
+          "titre": "RECTANGLE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27734,
+              "duree": 8,
+              "format": "Vidéo"
+            }
+          ]
+        },
+        {
+          "idFilm": 105711,
+          "titre": "WINSTON TONG EN STUDIO",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 27736,
+              "duree": 10,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "idFilm": 71466,
+          "titre": "LAISSÉ INACHEVÉ À TOKYO",
+          "ordre": 3,
+          "copies": [
+            {
+              "idCopie": 27735,
+              "duree": 22,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idFilm": 58435,
+          "titre": "DÉSORDRE",
+          "ordre": 4,
+          "copies": [
+            {
+              "idCopie": 27919,
+              "duree": 91,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Lucas Belvaux et Denis Lenoir"
+    },
+    {
+      "idSeance": 133568,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30480,
+      "typeEvenement": 13,
+      "libelleEvenement": "GUERRE DES BOOTLEGGERS (LA)",
+      "dateHeure": "2024-06-26T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 35595,
+          "titre": "GUERRE DES BOOTLEGGERS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27704,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129620,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30404,
+      "typeEvenement": 13,
+      "libelleEvenement": "EN ROUTE POUR LA GLOIRE",
+      "dateHeure": "2024-06-26T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "idFilm": 30343,
+          "titre": "EN ROUTE POUR LA GLOIRE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 17709,
+              "duree": 147,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 133567,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30773,
+      "typeEvenement": 13,
+      "libelleEvenement": "CHACUN SON CINÉMA : RECRUDESCENCE / CLEAN / PARIS, JE T'AIME : QUARTIER DES ENFANTS ROUGES",
+      "dateHeure": "2024-06-26T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 102180,
+          "titre": "CHACUN SON CINÉMA : RECRUDESCENCE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27837,
+              "duree": 4,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idFilm": 99766,
+          "titre": "PARIS, JE T'AIME : QUARTIER DES ENFANTS ROUGES",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 27839,
+              "duree": 10,
+              "format": "Vidéo",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idFilm": 91443,
+          "titre": "CLEAN",
+          "ordre": 3,
+          "copies": [
+            {
+              "idCopie": 27995,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129658,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30389,
+      "typeEvenement": 13,
+      "libelleEvenement": "NEW YORK-MIAMI",
+      "dateHeure": "2024-06-27T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 30906,
+          "titre": "NEW YORK-MIAMI",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 19233,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133588,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3356
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3111
+        }
+      ],
+      "idEvenement": 30765,
+      "libelleEvenement": "TROUBLES D'ADALEN (LES) + DIALOGUE AVEC OLIVIER ASSAYAS",
+      "dateHeure": "2024-06-27T19:00:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "idFilm": 44980,
+          "titre": "TROUBLES D'ADALEN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27940,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idConf": 30776,
+          "titre": "DIALOGUE AVEC OLIVIER ASSAYAS",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 130829,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30489,
+      "typeEvenement": 13,
+      "libelleEvenement": "LIAISONS SECRÈTES",
+      "dateHeure": "2024-06-27T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 45861,
+          "titre": "LIAISONS SECRÈTES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27779,
+              "duree": 117,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "Autres",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129659,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30391,
+      "typeEvenement": 13,
+      "libelleEvenement": "RAISINS DE LA COLÈRE (LES)",
+      "dateHeure": "2024-06-27T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 32350,
+          "titre": "RAISINS DE LA COLÈRE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 3817,
+              "duree": 129,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133604,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3369
+        }
+      ],
+      "idEvenement": 30663,
+      "typeEvenement": 13,
+      "libelleEvenement": "PASSAGE SECRET / SCOPITONE",
+      "dateHeure": "2024-06-28T17:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 69546,
+          "titre": "SCOPITONE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27952,
+              "duree": 37,
+              "format": "16 mm"
+            }
+          ]
+        },
+        {
+          "idFilm": 52326,
+          "titre": "PASSAGE SECRET",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 27951,
+              "duree": 85,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Olivier Assayas"
+    },
+    {
+      "idSeance": 133599,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30395,
+      "typeEvenement": 13,
+      "libelleEvenement": "GENS DE LA PLUIE (LES)",
+      "dateHeure": "2024-06-28T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 32058,
+          "titre": "GENS DE LA PLUIE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 25618,
+              "duree": 101,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130677,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 741,
+          "idCategorie": 3235
+        }
+      ],
+      "idEvenement": 30020,
+      "typeEvenement": 13,
+      "libelleEvenement": "ABYSS VERSION LONGUE",
+      "dateHeure": "2024-06-28T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 30822,
+          "titre": "ABYSS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27261,
+              "duree": 171,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133601,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30460,
+      "typeEvenement": 13,
+      "libelleEvenement": "UNE NOUVELLE VIE",
+      "dateHeure": "2024-06-28T20:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 51847,
+          "titre": "UNE NOUVELLE VIE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27671,
+              "duree": 122,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Denis Lenoir"
+    },
+    {
+      "idSeance": 130843,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30485,
+      "typeEvenement": 13,
+      "libelleEvenement": "UNE VIERGE SUR CANAPÉ",
+      "dateHeure": "2024-06-28T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 35956,
+          "titre": "UNE VIERGE SUR CANAPÉ",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27688,
+              "duree": 114,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130880,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3368
+        }
+      ],
+      "idEvenement": 30560,
+      "typeEvenement": 13,
+      "libelleEvenement": "CARLOS – ÉPISODE 1 / CARLOS – ÉPISODE 2 / CARLOS – ÉPISODE 3",
+      "dateHeure": "2024-06-29T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 111190,
+          "titre": "CARLOS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27816,
+              "duree": 99,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154828,
+          "titre": "CARLOS – ÉPISODE 2",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 27924,
+              "duree": 107,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154829,
+          "titre": "CARLOS – ÉPISODE 3",
+          "ordre": 3,
+          "copies": [
+            {
+              "idCopie": 27925,
+              "duree": 118,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Sylvie Barthet"
+    },
+    {
+      "idSeance": 130798,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30392,
+      "typeEvenement": 13,
+      "libelleEvenement": "WILD BOYS OF THE ROAD",
+      "dateHeure": "2024-06-29T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 120878,
+          "titre": "WILD BOYS OF THE ROAD",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27654,
+              "duree": 68,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129743,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30393,
+      "typeEvenement": 13,
+      "libelleEvenement": "VOYAGES DE SULLIVAN (LES)",
+      "dateHeure": "2024-06-29T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 36309,
+          "titre": "VOYAGES DE SULLIVAN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 16533,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129745,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30497,
+      "typeEvenement": 13,
+      "libelleEvenement": "MA SŒUR EST DU TONNERRE",
+      "dateHeure": "2024-06-29T17:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 35594,
+          "titre": "MA SŒUR EST DU TONNERRE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27673,
+              "duree": 108,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130844,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30486,
+      "typeEvenement": 13,
+      "libelleEvenement": "DEUX TÊTES FOLLES",
+      "dateHeure": "2024-06-29T19:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 45860,
+          "titre": "DEUX TÊTES FOLLES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27691,
+              "duree": 111,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133598,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30455,
+      "typeEvenement": 13,
+      "libelleEvenement": "SILS MARIA",
+      "dateHeure": "2024-06-29T20:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 123301,
+          "titre": "SILS MARIA",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27959,
+              "duree": 123,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Juliette Binoche"
+    },
+    {
+      "idSeance": 130904,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 741,
+          "idCategorie": 3235
+        }
+      ],
+      "idEvenement": 29890,
+      "typeEvenement": 13,
+      "libelleEvenement": "TRUE LIES – LE CAMÉLÉON",
+      "dateHeure": "2024-06-29T20:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 59914,
+          "titre": "TRUE LIES – LE CAMÉLÉON",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 24364,
+              "duree": 141,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27635,
+              "duree": 141,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130730,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        },
+        {
+          "idCycle": 773,
+          "idCategorie": 3346
+        }
+      ],
+      "idEvenement": 30401,
+      "libelleEvenement": "EPOUVANTAIL (L') + DIALOGUE AVEC JEAN-BAPTISTE THORET",
+      "dateHeure": "2024-06-30T14:30:00",
+      "idSalle": "HL",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "idFilm": 36741,
+          "titre": "EPOUVANTAIL",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 9018,
+              "duree": 112,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idConf": 30571,
+          "titre": "DIALOGUE AVEC JEAN-BAPTISTE THORET",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 129760,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 730,
+          "idCategorie": 3179
+        }
+      ],
+      "idEvenement": 30425,
+      "typeEvenement": 13,
+      "libelleEvenement": "RATATOUILLE",
+      "dateHeure": "2024-06-30T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 102426,
+          "titre": "RATATOUILLE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27703,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129761,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3368
+        }
+      ],
+      "idEvenement": 30447,
+      "typeEvenement": 13,
+      "libelleEvenement": "IRMA VEP / ÉPISODE 1 (THE SEVERED HEAD) / IRMA VEP / ÉPISODE 2 (THE RING THAT KILLS) / IRMA VEP / ÉP",
+      "dateHeure": "2024-06-30T15:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 154082,
+          "titre": "IRMA VEP – 1) LA TÊTE COUPÉE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 24803,
+              "duree": 56,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154083,
+          "titre": "IRMA VEP – 2) LA BAGUE QUI TUE",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 24802,
+              "duree": 52,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154084,
+          "titre": "IRMA VEP – 3) L'ÉVASION DU MORT",
+          "ordre": 3,
+          "copies": [
+            {
+              "idCopie": 24804,
+              "duree": 56,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154085,
+          "titre": "IRMA VEP – 4) L'HOMME DES POISONS",
+          "ordre": 4,
+          "copies": [
+            {
+              "idCopie": 24805,
+              "duree": 55,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130774,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30481,
+      "typeEvenement": 13,
+      "libelleEvenement": "HÔTEL SAINT-GREGORY",
+      "dateHeure": "2024-06-30T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 44923,
+          "titre": "HÔTEL SAINT-GREGORY",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27686,
+              "duree": 124,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130799,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30398,
+      "typeEvenement": 13,
+      "libelleEvenement": "MACADAM À DEUX VOIES",
+      "dateHeure": "2024-06-30T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 33360,
+          "titre": "MACADAM À DEUX VOIES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27773,
+              "duree": 102,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129762,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3368
+        }
+      ],
+      "idEvenement": 30442,
+      "typeEvenement": 13,
+      "libelleEvenement": "IRMA VEP / ÉPISODE 5 (HYPNOTIC EYES) / IRMA VEP / ÉPISODE 6 (THE THUNDER MASTER) / IRMA VEP / ÉPISOD",
+      "dateHeure": "2024-06-30T19:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 154086,
+          "titre": "IRMA VEP – 5) LES YEUX QUI FASCINENT",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 24806,
+              "duree": 51,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154087,
+          "titre": "IRMA VEP – 6) LE MAÎTRE DE LA FOUDRE",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 24807,
+              "duree": 57,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154088,
+          "titre": "IRMA VEP – 7) LE SPECTRE",
+          "ordre": 3,
+          "copies": [
+            {
+              "idCopie": 24808,
+              "duree": 48,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idFilm": 154089,
+          "titre": "IRMA VEP – 8) LES NOCES SANGLANTES",
+          "ordre": 4,
+          "copies": [
+            {
+              "idCopie": 24809,
+              "duree": 56,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133545,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 778,
+          "idCategorie": 3337
+        }
+      ],
+      "idEvenement": 30493,
+      "typeEvenement": 13,
+      "libelleEvenement": "PLEINE DE VIE",
+      "dateHeure": "2024-06-30T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 42112,
+          "titre": "PLEINE DE VIE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27741,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "Autres",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130888,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30410,
+      "typeEvenement": 13,
+      "libelleEvenement": "UN MONDE PARFAIT",
+      "dateHeure": "2024-06-30T20:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 32183,
+          "titre": "UN MONDE PARFAIT",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 7699,
+              "duree": 137,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Bernard Benoliel"
+    },
+    {
+      "idSeance": 130766,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30430,
+      "typeEvenement": 13,
+      "libelleEvenement": "CUBAN NETWORK",
+      "dateHeure": "2024-07-01T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 143779,
+          "titre": "CUBAN NETWORK",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 24326,
+              "duree": 127,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Jürgen Doering et Simon Jacquet"
+    },
+    {
+      "idSeance": 133552,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3364
+        }
+      ],
+      "idEvenement": 30693,
+      "typeEvenement": 13,
+      "libelleEvenement": "FESTIVAL DU COURT MÉTRAGE DE BUSAN",
+      "dateHeure": "2024-07-01T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 154808,
+          "titre": "ANOTHER TOWN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27847,
+              "duree": 28,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STA",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "idFilm": 154809,
+          "titre": "MINT CONDITION",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 27848,
+              "duree": 19,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STA",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "idFilm": 154812,
+          "titre": "YOUTHFUL DAYS",
+          "ordre": 3,
+          "copies": [
+            {
+              "idCopie": 27850,
+              "duree": 17,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STA",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "idFilm": 154810,
+          "titre": "CUT AND PASTE",
+          "ordre": 4,
+          "copies": [
+            {
+              "idCopie": 27849,
+              "duree": 26,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STA",
+              "stDemande": true
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Sanghoon Lee"
+    },
+    {
+      "idSeance": 133595,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30399,
+      "typeEvenement": 13,
+      "libelleEvenement": "BALADE SAUVAGE (LA)",
+      "dateHeure": "2024-07-01T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 33679,
+          "titre": "BALLADE SAUVAGE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 25622,
+              "duree": 95,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Isaac Gaido-Daniel"
+    },
+    {
+      "idSeance": 130806,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30440,
+      "typeEvenement": 13,
+      "libelleEvenement": "HEURE D'ÉTÉ (L')",
+      "dateHeure": "2024-07-01T20:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 103544,
+          "titre": "HEURE D'ÉTÉ",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27668,
+              "duree": 100,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Dominique Reymond"
+    },
+    {
+      "idSeance": 129810,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30772,
+      "typeEvenement": 13,
+      "libelleEvenement": "ELDORADO, CRÉATION / SONNTAGS ABSCHIED",
+      "dateHeure": "2024-07-03T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 105192,
+          "titre": "ELDORADO, CRÉATION",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27667,
+              "duree": 90,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idFilm": 154870,
+          "titre": "SONNTAGS ABSCHIED",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 28097,
+              "duree": 42,
+              "format": "Numérique"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129808,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30396,
+      "typeEvenement": 13,
+      "libelleEvenement": "WANDA",
+      "dateHeure": "2024-07-03T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 34795,
+          "titre": "WANDA",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 4787,
+              "duree": 102,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Bernard Benoliel"
+    },
+    {
+      "idSeance": 130884,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30559,
+      "typeEvenement": 13,
+      "libelleEvenement": "RETOUR À LA 36ÈME CHAMBRE",
+      "dateHeure": "2024-07-03T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "idFilm": 154793,
+          "titre": "RETOUR À LA 36ÈME CHANBRE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27763,
+              "duree": 99,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 129809,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30402,
+      "typeEvenement": 13,
+      "libelleEvenement": "ALICE N'EST PLUS ICI",
+      "dateHeure": "2024-07-03T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 36042,
+          "titre": "ALICE N'EST PLUS ICI",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 7356,
+              "duree": 112,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130872,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30777,
+      "typeEvenement": 13,
+      "libelleEvenement": "NOISE",
+      "dateHeure": "2024-07-03T20:45:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 154800,
+          "titre": "NOISE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27920,
+              "duree": 120,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133594,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30411,
+      "typeEvenement": 13,
+      "libelleEvenement": "UNE HISTOIRE VRAIE",
+      "dateHeure": "2024-07-04T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 64318,
+          "titre": "UNE HISTOIRE VRAIE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27873,
+              "duree": 112,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130883,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30521,
+      "typeEvenement": 13,
+      "libelleEvenement": "CINQ MAÎTRES DE SHAOLIN",
+      "dateHeure": "2024-07-04T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154773,
+          "titre": "CINQ MAÎTRES DE SHAOLIN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27748,
+              "duree": 109,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130732,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30405,
+      "typeEvenement": 13,
+      "libelleEvenement": "STRANGER THAN PARADISE",
+      "dateHeure": "2024-07-04T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 52854,
+          "titre": "STRANGER THAN PARADISE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 5315,
+              "duree": 88,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133560,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30665,
+      "typeEvenement": 13,
+      "libelleEvenement": "HHH, UN PORTRAIT DE HOU HSIAO-HSIEN",
+      "dateHeure": "2024-07-04T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 48848,
+          "titre": "HHH, UN PORTRAIT DE HOU HSIAO-HSIEN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27956,
+              "duree": 92,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Jean-Michel Frodon"
+    },
+    {
+      "idSeance": 130744,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30520,
+      "typeEvenement": 13,
+      "libelleEvenement": "36ÈME CHAMBRE DE SHAOLIN (LA)",
+      "dateHeure": "2024-07-04T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 100989,
+          "titre": "TRENTE-SIXIÈME CHAMBRE DE SHAOLIN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27758,
+              "duree": 116,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129841,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30406,
+      "typeEvenement": 13,
+      "libelleEvenement": "PARIS, TEXAS",
+      "dateHeure": "2024-07-04T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 39315,
+          "titre": "PARIS, TEXAS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 10117,
+              "duree": 148,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130807,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 776,
+          "idCategorie": 3335
+        }
+      ],
+      "idEvenement": 30435,
+      "typeEvenement": 13,
+      "libelleEvenement": "DOUBLES VIES",
+      "dateHeure": "2024-07-04T20:45:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 140736,
+          "titre": "DOUBLES VIES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27665,
+              "duree": 107,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Nora Hamzawi"
+    },
+    {
+      "idSeance": 130886,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30516,
+      "typeEvenement": 13,
+      "libelleEvenement": "TEMPLE DE SHAOLIN (LE)",
+      "dateHeure": "2024-07-05T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 44205,
+          "titre": "TEMPLE DE SHAOLIN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27750,
+              "duree": 126,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 129888,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 3339
+        }
+      ],
+      "idEvenement": 30511,
+      "typeEvenement": 13,
+      "libelleEvenement": "PAULA DELSOL – SÉANCE 1",
+      "dateHeure": "2024-07-05T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 57541,
+          "titre": "DÉRIVE = UNE FILLE À LA DÉRIVE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 19998,
+              "duree": 82,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Eric Le Roy"
+    },
+    {
+      "idSeance": 130929,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 783,
+          "idCategorie": 3354
+        }
+      ],
+      "idEvenement": 30632,
+      "typeEvenement": 13,
+      "libelleEvenement": "SÉANCE D'OUVERTURE",
+      "dateHeure": "2024-07-05T20:00:00",
+      "idSalle": "GF",
+      "theorique": true
+    },
+    {
+      "idSeance": 130819,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 3339
+        }
+      ],
+      "idEvenement": 30512,
+      "typeEvenement": 13,
+      "libelleEvenement": "PAULA DELSOL – SÉANCE 2",
+      "dateHeure": "2024-07-05T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 55462,
+          "titre": "BEN ET BÉNÉDICT",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27683,
+              "duree": 96,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Aurore Renaut"
+    },
+    {
+      "idSeance": 130762,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 741,
+          "idCategorie": 3235
+        }
+      ],
+      "idEvenement": 29889,
+      "typeEvenement": 13,
+      "libelleEvenement": "TERMINATOR 2, LE JUGEMENT DERNIER",
+      "dateHeure": "2024-07-05T20:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 30829,
+          "titre": "TERMINATOR 2, LE JUGEMENT DERNIER",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 8975,
+              "duree": 136,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130894,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        },
+        {
+          "idCycle": 779,
+          "idCategorie": 3347
+        }
+      ],
+      "idEvenement": 30515,
+      "libelleEvenement": "JUSTICIER DE SHANGHAÏ (LE) = BRUTE, LE BONZE ET LE MÉCHANT (LA) + DIALOGUE AVEC CHRISTOPHE GANS",
+      "dateHeure": "2024-07-06T14:30:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "idFilm": 154794,
+          "titre": "BRUTE, LE BONZE ET LE MÉCHANT",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27747,
+              "duree": 134,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "idConf": 30574,
+          "titre": "DIALOGUE AVEC CHRISTOPHE GANS",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 133546,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 784,
+          "idCategorie": 3366
+        }
+      ],
+      "idEvenement": 30690,
+      "typeEvenement": 13,
+      "libelleEvenement": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 1 / NAPOLÉON VU PAR ABEL GANCE – PARTIE 2",
+      "dateHeure": "2024-07-06T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154798,
+          "titre": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 1",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27803,
+              "duree": 220,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idFilm": 154797,
+          "titre": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 2",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 27804,
+              "duree": 205,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Frédéric Bonnaud"
+    },
+    {
+      "idSeance": 130931,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 783,
+          "idCategorie": 3354
+        }
+      ],
+      "idEvenement": 30634,
+      "typeEvenement": 13,
+      "libelleEvenement": "PALMARÈS FID SÉANCE 2",
+      "dateHeure": "2024-07-06T15:00:00",
+      "idSalle": "JE",
+      "theorique": true
+    },
+    {
+      "idSeance": 133596,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30413,
+      "typeEvenement": 13,
+      "libelleEvenement": "AMERICAN HONEY",
+      "dateHeure": "2024-07-06T17:15:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 131531,
+          "titre": "AMERICAN HONEY",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27657,
+              "duree": 163,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130757,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30514,
+      "typeEvenement": 13,
+      "libelleEvenement": "MAIN DE FER (LA)",
+      "dateHeure": "2024-07-06T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 85878,
+          "titre": "MAIN DE FER",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27746,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Frédéric Ambroisine"
+    },
+    {
+      "idSeance": 133597,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30400,
+      "typeEvenement": 13,
+      "libelleEvenement": "DILLINGER",
+      "dateHeure": "2024-07-06T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 35293,
+          "titre": "DILLINGER",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27655,
+              "duree": 107,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Jean-François Rauger"
+    },
+    {
+      "idSeance": 130758,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30517,
+      "typeEvenement": 13,
+      "libelleEvenement": "EXECUTEUR DE SHAO LIN (L')",
+      "dateHeure": "2024-07-06T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 84713,
+          "titre": "EXECUTEUR DE SHAO LIN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27752,
+              "duree": 100,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133547,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 784,
+          "idCategorie": 3366
+        }
+      ],
+      "idEvenement": 30690,
+      "typeEvenement": 13,
+      "libelleEvenement": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 1 / NAPOLÉON VU PAR ABEL GANCE – PARTIE 2",
+      "dateHeure": "2024-07-07T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154798,
+          "titre": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 1",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27803,
+              "duree": 220,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idFilm": 154797,
+          "titre": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 2",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 27804,
+              "duree": 205,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Joël Daire"
+    },
+    {
+      "idSeance": 130898,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 730,
+          "idCategorie": 3179
+        }
+      ],
+      "idEvenement": 30666,
+      "typeEvenement": 13,
+      "libelleEvenement": "SPORTIF PAR AMOUR",
+      "dateHeure": "2024-07-07T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 53128,
+          "titre": "SPORTIF PAR AMOUR",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 6376,
+              "duree": 71,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130932,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 783,
+          "idCategorie": 3354
+        }
+      ],
+      "idEvenement": 30635,
+      "typeEvenement": 13,
+      "libelleEvenement": "PALMARÈS FID SÉANCE 3",
+      "dateHeure": "2024-07-07T15:00:00",
+      "idSalle": "JE",
+      "theorique": true
+    },
+    {
+      "idSeance": 130895,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        },
+        {
+          "idCycle": 779,
+          "idCategorie": 3347
+        }
+      ],
+      "idEvenement": 30526,
+      "libelleEvenement": "VENGEANCE DES INFIRMES (LA) + DIALOGUE AVEC STÉPHANE DU MESNILDOT",
+      "dateHeure": "2024-07-07T17:00:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "idFilm": 154778,
+          "titre": "VENGEANCE DES INFIRMES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27755,
+              "duree": 104,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "idConf": 30573,
+          "titre": "DIALOGUE AVEC STÉPHANE DU MESNILDOT",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 130933,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 783,
+          "idCategorie": 3354
+        }
+      ],
+      "idEvenement": 30636,
+      "typeEvenement": 13,
+      "libelleEvenement": "PALMARÈS FID SÉANCE 4",
+      "dateHeure": "2024-07-07T17:30:00",
+      "idSalle": "JE",
+      "theorique": true
+    },
+    {
+      "idSeance": 130761,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30523,
+      "typeEvenement": 13,
+      "libelleEvenement": "COMBAT DES MAÎTRES (LE)",
+      "dateHeure": "2024-07-07T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 154775,
+          "titre": "COMBAT DES MAÎTRES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27751,
+              "duree": 97,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130930,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30407,
+      "typeEvenement": 13,
+      "libelleEvenement": "ROUTE ONE / U.S.A.",
+      "dateHeure": "2024-07-08T18:00:00",
+      "idSalle": "GF",
+      "typeSeance": 44,
+      "items": [
+        {
+          "idFilm": 56969,
+          "titre": "ROUTE ONE/U.S.A.",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27865,
+              "duree": 248,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 130934,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 783,
+          "idCategorie": 3354
+        }
+      ],
+      "idEvenement": 30637,
+      "typeEvenement": 13,
+      "libelleEvenement": "PALMARÈS FID SÉANCE 5",
+      "dateHeure": "2024-07-08T18:00:00",
+      "idSalle": "JE",
+      "theorique": true
+    },
+    {
+      "idSeance": 129954,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30522,
+      "typeEvenement": 13,
+      "libelleEvenement": "DISCIPLES DE SHAOLIN (LES)",
+      "dateHeure": "2024-07-08T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154774,
+          "titre": "DISCIPLES DE SHAOLIN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27749,
+              "duree": 106,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130935,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 783,
+          "idCategorie": 3354
+        }
+      ],
+      "idEvenement": 30638,
+      "typeEvenement": 13,
+      "libelleEvenement": "PALMARÈS FID SÉANCE 6",
+      "dateHeure": "2024-07-08T20:15:00",
+      "idSalle": "JE",
+      "theorique": true
+    },
+    {
+      "idSeance": 130763,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30518,
+      "typeEvenement": 13,
+      "libelleEvenement": "DÉMONS DU KARATÉ (LES) = LES HÉROS DE L'ORIENT",
+      "dateHeure": "2024-07-08T20:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 44340,
+          "titre": "DÉMONS DU KARATÉ = LES HÉROS DE L'ORIENT",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27756,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Frédéric Ambroisine"
+    },
+    {
+      "idSeance": 129994,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30524,
+      "typeEvenement": 13,
+      "libelleEvenement": "CAÏD DE CHINATOWN (LE)",
+      "dateHeure": "2024-07-10T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 154776,
+          "titre": "CAÏD DE CHINATOWN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27753,
+              "duree": 117,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Frédéric Ambroisine"
+    },
+    {
+      "idSeance": 133573,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3334
+        }
+      ],
+      "idEvenement": 30579,
+      "typeEvenement": 13,
+      "libelleEvenement": "ANGÈLE",
+      "dateHeure": "2024-07-10T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "idFilm": 50481,
+          "titre": "ANGÈLE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 8948,
+              "duree": 135,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective. Séance présentée par Nicolas Pagnol"
+    },
+    {
+      "idSeance": 129995,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30529,
+      "typeEvenement": 13,
+      "libelleEvenement": "PRINCE ET L'ARNAQUEUR (LE) – (DIRTY HO)",
+      "dateHeure": "2024-07-10T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 154780,
+          "titre": "PRINCE ET L'ARNAQUEUR",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27770,
+              "duree": 93,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130890,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30390,
+      "typeEvenement": 13,
+      "libelleEvenement": "MAGICIEN D' OZ (LE)",
+      "dateHeure": "2024-07-11T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 31135,
+          "titre": "MAGICIEN D' OZ",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 16569,
+              "duree": 102,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133572,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3334
+        }
+      ],
+      "idEvenement": 30585,
+      "typeEvenement": 13,
+      "libelleEvenement": "REGAIN",
+      "dateHeure": "2024-07-11T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 50516,
+          "titre": "REGAIN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27833,
+              "duree": 127,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130030,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        },
+        {
+          "idCycle": 773,
+          "idCategorie": 3346
+        }
+      ],
+      "idEvenement": 30397,
+      "libelleEvenement": "POINT LIMITE ZÉRO + DIALOGUE AVEC ROBERT M. RUBIN",
+      "dateHeure": "2024-07-11T19:00:00",
+      "idSalle": "HL",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "idFilm": 60213,
+          "titre": "POINT LIMITE ZÉRO",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27971,
+              "duree": 98,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idConf": 30572,
+          "titre": "DIALOGUE AVEC ROBERT M. RUBIN",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 133574,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3334
+        }
+      ],
+      "idEvenement": 30582,
+      "typeEvenement": 13,
+      "libelleEvenement": "TOPAZE",
+      "dateHeure": "2024-07-11T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 50518,
+          "titre": "TOPAZE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27941,
+              "duree": 100,
+              "format": "16 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130821,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3334
+        }
+      ],
+      "idEvenement": 30591,
+      "typeEvenement": 13,
+      "libelleEvenement": "NAÏS",
+      "dateHeure": "2024-07-12T16:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 49774,
+          "titre": "NAÏS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27832,
+              "duree": 117,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130802,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30540,
+      "typeEvenement": 13,
+      "libelleEvenement": "DISCIPLES DE LA 36ÈME CHAMBRE (LES)",
+      "dateHeure": "2024-07-12T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154789,
+          "titre": "DISCIPLES DE LA 36ÈME CHAMBRE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27767,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133569,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3334
+        },
+        {
+          "idCycle": 775,
+          "idCategorie": 3348
+        }
+      ],
+      "idEvenement": 30580,
+      "libelleEvenement": "MERLUSSE + DIALOGUE AVEC MARCOS UZAL",
+      "dateHeure": "2024-07-12T19:00:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "idFilm": 50514,
+          "titre": "MERLUSSE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27831,
+              "duree": 72,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idConf": 30575,
+          "titre": "DIALOGUE AVEC MARCOS UZAL",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 130074,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3334
+        }
+      ],
+      "idEvenement": 30592,
+      "typeEvenement": 13,
+      "libelleEvenement": "BELLE MEUNIÈRE (LA)",
+      "dateHeure": "2024-07-12T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 50485,
+          "titre": "BELLE MEUNIÈRE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27936,
+              "duree": 103,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130778,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 741,
+          "idCategorie": 3235
+        }
+      ],
+      "idEvenement": 29890,
+      "typeEvenement": 13,
+      "libelleEvenement": "TRUE LIES – LE CAMÉLÉON",
+      "dateHeure": "2024-07-12T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 59914,
+          "titre": "TRUE LIES – LE CAMÉLÉON",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 24364,
+              "duree": 141,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27635,
+              "duree": 141,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133548,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 784,
+          "idCategorie": 3366
+        }
+      ],
+      "idEvenement": 30690,
+      "typeEvenement": 13,
+      "libelleEvenement": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 1 / NAPOLÉON VU PAR ABEL GANCE – PARTIE 2",
+      "dateHeure": "2024-07-13T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154798,
+          "titre": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 1",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27803,
+              "duree": 220,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idFilm": 154797,
+          "titre": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 2",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 27804,
+              "duree": 205,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Joël Daire"
+    },
+    {
+      "idSeance": 130892,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30412,
+      "typeEvenement": 13,
+      "libelleEvenement": "BROWN BUNNY (THE)",
+      "dateHeure": "2024-07-13T14:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 85514,
+          "titre": "BROWN BUNNY",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27994,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130900,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30403,
+      "typeEvenement": 13,
+      "libelleEvenement": "CANARDEUR (LE)",
+      "dateHeure": "2024-07-13T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 29629,
+          "titre": "CANARDEUR",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 10037,
+              "duree": 115,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130779,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30531,
+      "typeEvenement": 13,
+      "libelleEvenement": "FIVE SUPERFIGHTERS",
+      "dateHeure": "2024-07-13T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 154782,
+          "titre": "TANG SHAN WU HU",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27769,
+              "duree": 95,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133549,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 784,
+          "idCategorie": 3366
+        }
+      ],
+      "idEvenement": 30690,
+      "typeEvenement": 13,
+      "libelleEvenement": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 1 / NAPOLÉON VU PAR ABEL GANCE – PARTIE 2",
+      "dateHeure": "2024-07-14T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154798,
+          "titre": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 1",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27803,
+              "duree": 220,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idFilm": 154797,
+          "titre": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 2",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 27804,
+              "duree": 205,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Georges Mourier"
+    },
+    {
+      "idSeance": 133575,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3370
+        }
+      ],
+      "idEvenement": 30599,
+      "typeEvenement": 13,
+      "libelleEvenement": "MARIUS",
+      "dateHeure": "2024-07-14T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 49498,
+          "titre": "MARIUS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27830,
+              "duree": 138,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133576,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3370
+        }
+      ],
+      "idEvenement": 30600,
+      "typeEvenement": 13,
+      "libelleEvenement": "FANNY",
+      "dateHeure": "2024-07-14T17:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 46367,
+          "titre": "FANNY",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27825,
+              "duree": 140,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133577,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3370
+        }
+      ],
+      "idEvenement": 30584,
+      "typeEvenement": 13,
+      "libelleEvenement": "CÉSAR",
+      "dateHeure": "2024-07-14T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 50486,
+          "titre": "CÉSAR",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27823,
+              "duree": 138,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130902,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30408,
+      "typeEvenement": 13,
+      "libelleEvenement": "MY OWN PRIVATE IDAHO",
+      "dateHeure": "2024-07-15T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 37815,
+          "titre": "MY OWN PRIVATE IDAHO",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 8157,
+              "duree": 102,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130140,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30394,
+      "typeEvenement": 13,
+      "libelleEvenement": "EASY RIDER",
+      "dateHeure": "2024-07-15T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 33437,
+          "titre": "EASY RIDER",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 24643,
+              "duree": 94,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Bernard Benoliel"
+    },
+    {
+      "idSeance": 130142,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30528,
+      "typeEvenement": 13,
+      "libelleEvenement": "FUREUR DE SHAOLIN (LA)",
+      "dateHeure": "2024-07-15T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 154779,
+          "titre": "FUREUR DE SHAOLIN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27757,
+              "duree": 98,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130768,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 773,
+          "idCategorie": 3332
+        }
+      ],
+      "idEvenement": 30409,
+      "typeEvenement": 13,
+      "libelleEvenement": "THELMA ET LOUISE",
+      "dateHeure": "2024-07-15T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 45700,
+          "titre": "THELMA ET LOUISE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 8228,
+              "duree": 129,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130143,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30530,
+      "typeEvenement": 13,
+      "libelleEvenement": "SINGE FOU DU KUNG-FU (LE)",
+      "dateHeure": "2024-07-15T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 154781,
+          "titre": "SINGE FOU DU KUNG-FU",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27760,
+              "duree": 116,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130177,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30525,
+      "typeEvenement": 13,
+      "libelleEvenement": "CINQ VENINS MORTELS",
+      "dateHeure": "2024-07-17T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154777,
+          "titre": "CINQ VENINS MORTELS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27754,
+              "duree": 101,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130878,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3334
+        }
+      ],
+      "idEvenement": 30762,
+      "typeEvenement": 13,
+      "libelleEvenement": "CHANSONS DE MARSEILLE / JOFROI / ÎLE DE LUMIÈRE (L')",
+      "dateHeure": "2024-07-17T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 154831,
+          "titre": "CHANSONS DE MARSEILLE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27939,
+              "duree": 17,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idFilm": 154799,
+          "titre": "ÎLE DE LUMIÈRE",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 27813,
+              "duree": 31,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idFilm": 50511,
+          "titre": "JOFROI",
+          "ordre": 3,
+          "copies": [
+            {
+              "idCopie": 27814,
+              "duree": 52,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130887,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30559,
+      "typeEvenement": 13,
+      "libelleEvenement": "RETOUR À LA 36ÈME CHAMBRE",
+      "dateHeure": "2024-07-17T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154793,
+          "titre": "RETOUR À LA 36ÈME CHANBRE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27763,
+              "duree": 99,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130181,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3334
+        }
+      ],
+      "idEvenement": 30576,
+      "typeEvenement": 13,
+      "libelleEvenement": "GENDRE DE MONSIEUR POIRIER (LE)",
+      "dateHeure": "2024-07-17T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 50510,
+          "titre": "GENDRE DE MONSIEUR POIRIER",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27900,
+              "duree": 102,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130216,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30533,
+      "typeEvenement": 13,
+      "libelleEvenement": "MAGNIFICIENT RUFFIANS",
+      "dateHeure": "2024-07-18T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154783,
+          "titre": "MAI MING XIAO ZI",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27761,
+              "duree": 82,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133571,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3334
+        }
+      ],
+      "idEvenement": 30581,
+      "typeEvenement": 13,
+      "libelleEvenement": "CIGALON",
+      "dateHeure": "2024-07-18T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 50487,
+          "titre": "CIGALON",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27898,
+              "duree": 73,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130217,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30538,
+      "typeEvenement": 13,
+      "libelleEvenement": "LADY KUNG FU",
+      "dateHeure": "2024-07-18T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154787,
+          "titre": "ZHANG BEI",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27764,
+              "duree": 121,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Frédéric Ambroisine"
+    },
+    {
+      "idSeance": 133570,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3334
+        }
+      ],
+      "idEvenement": 30586,
+      "typeEvenement": 13,
+      "libelleEvenement": "SCHPOUNTZ (LE)",
+      "dateHeure": "2024-07-18T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 50517,
+          "titre": "SCHPOUNTZ",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27834,
+              "duree": 123,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133585,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30557,
+      "typeEvenement": 13,
+      "libelleEvenement": "MERCENARIES FROM HONG-KONG",
+      "dateHeure": "2024-07-19T16:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154792,
+          "titre": "LIE MO ZHE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27765,
+              "duree": 95,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133578,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3334
+        }
+      ],
+      "idEvenement": 30587,
+      "typeEvenement": 13,
+      "libelleEvenement": "FEMME DU BOULANGER (LA)",
+      "dateHeure": "2024-07-19T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 50488,
+          "titre": "FEMME DU BOULANGER",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 12283,
+              "duree": 133,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130834,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30541,
+      "typeEvenement": 13,
+      "libelleEvenement": "ARTS MARTIAUX DE SHAOLIN (LES)",
+      "dateHeure": "2024-07-19T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154790,
+          "titre": "ARTS MARTIAUX DE SHAOLIN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27768,
+              "duree": 95,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130257,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 18,
+          "idCategorie": 3355
+        },
+        {
+          "idCycle": 741,
+          "idCategorie": 3235
+        }
+      ],
+      "idEvenement": 29891,
+      "typeEvenement": 13,
+      "libelleEvenement": "TITANIC",
+      "dateHeure": "2024-07-19T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 29089,
+          "titre": "TITANIC",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 27095,
+              "duree": 194,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133579,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3334
+        }
+      ],
+      "idEvenement": 30589,
+      "typeEvenement": 13,
+      "libelleEvenement": "FILLE DU PUISATIER (LA)",
+      "dateHeure": "2024-07-19T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 50509,
+          "titre": "FILLE DU PUISATIER",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27826,
+              "duree": 146,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133550,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 784,
+          "idCategorie": 3366
+        }
+      ],
+      "idEvenement": 30690,
+      "typeEvenement": 13,
+      "libelleEvenement": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 1 / NAPOLÉON VU PAR ABEL GANCE – PARTIE 2",
+      "dateHeure": "2024-07-20T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154798,
+          "titre": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 1",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27803,
+              "duree": 220,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idFilm": 154797,
+          "titre": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 2",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 27804,
+              "duree": 205,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Thierry Lentz"
+    },
+    {
+      "idSeance": 133580,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3334
+        }
+      ],
+      "idEvenement": 30593,
+      "typeEvenement": 13,
+      "libelleEvenement": "MANON DES SOURCES",
+      "dateHeure": "2024-07-20T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 50513,
+          "titre": "MANON DES SOURCES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27829,
+              "duree": 117,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133584,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3334
+        }
+      ],
+      "idEvenement": 30761,
+      "typeEvenement": 13,
+      "libelleEvenement": "UGOLIN",
+      "dateHeure": "2024-07-20T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 154830,
+          "titre": "UGOLIN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27935,
+              "duree": 110,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130301,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30556,
+      "typeEvenement": 13,
+      "libelleEvenement": "KID WITH THE GOLDEN ARM (THE)",
+      "dateHeure": "2024-07-20T19:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 154791,
+          "titre": "JIN BI TONG",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27759,
+              "duree": 86,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133551,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 784,
+          "idCategorie": 3366
+        }
+      ],
+      "idEvenement": 30690,
+      "typeEvenement": 13,
+      "libelleEvenement": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 1 / NAPOLÉON VU PAR ABEL GANCE – PARTIE 2",
+      "dateHeure": "2024-07-21T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 154798,
+          "titre": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 1",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27803,
+              "duree": 220,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idFilm": 154797,
+          "titre": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 2",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 27804,
+              "duree": 205,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133581,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3334
+        }
+      ],
+      "idEvenement": 30583,
+      "typeEvenement": 13,
+      "libelleEvenement": "TOPAZE",
+      "dateHeure": "2024-07-21T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 50519,
+          "titre": "TOPAZE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27836,
+              "duree": 136,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130317,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 775,
+          "idCategorie": 3334
+        }
+      ],
+      "idEvenement": 30594,
+      "typeEvenement": 13,
+      "libelleEvenement": "LETTRES DE MON MOULIN (LES)",
+      "dateHeure": "2024-07-21T17:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 50512,
+          "titre": "LETTRES DE MON MOULIN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27828,
+              "duree": 199,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130320,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30537,
+      "typeEvenement": 13,
+      "libelleEvenement": "TEN TIGERS OF KWANTUNG",
+      "dateHeure": "2024-07-21T17:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 154786,
+          "titre": "GUANDONG SHI HU XING YU WU XI",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27762,
+              "duree": 91,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 130804,
+      "idProg": 179,
+      "idCyclesCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3340
+        }
+      ],
+      "idEvenement": 30539,
+      "typeEvenement": 13,
+      "libelleEvenement": "BOXER(S OMEN (THE)",
+      "dateHeure": "2024-07-21T19:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 154788,
+          "titre": "MO",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27766,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Frédéric Ambroisine"
+    }
+  ]
+}

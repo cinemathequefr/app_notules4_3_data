@@ -1,0 +1,742 @@
+{
+  "updatedAt": "2024-04-22T08:48:26.785Z",
+  "data": [
+    {
+      "idSeance": 130975,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367
+        }
+      ],
+      "idEvenement": 30718,
+      "typeEvenement": 13,
+      "libelleEvenement": "INDISCRÉTIONS",
+      "dateHeure": "2024-08-28T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "idFilm": 31506,
+          "titre": "INDISCRÉTIONS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 3728,
+              "duree": 115,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 131010,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367
+        }
+      ],
+      "idEvenement": 30712,
+      "typeEvenement": 13,
+      "libelleEvenement": "GRUMPY",
+      "dateHeure": "2024-08-29T18:00:00",
+      "idSalle": "GF"
+    },
+    {
+      "idSeance": 131013,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273
+        }
+      ],
+      "idEvenement": 30071,
+      "typeEvenement": 13,
+      "libelleEvenement": "PARADIS PERDU",
+      "dateHeure": "2024-08-29T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 133611,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367
+        }
+      ],
+      "idEvenement": 30738,
+      "typeEvenement": 13,
+      "libelleEvenement": "ROYAL FAMILY",
+      "dateHeure": "2024-08-29T20:30:00",
+      "idSalle": "GF"
+    },
+    {
+      "idSeance": 131053,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367
+        }
+      ],
+      "idEvenement": 30741,
+      "typeEvenement": 13,
+      "libelleEvenement": "SYLVIA SCARLETT",
+      "dateHeure": "2024-08-30T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 31521,
+          "titre": "SYLVIA SCARLETT",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 9274,
+              "duree": 97,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131055,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 787,
+          "idCategorie": 3372
+        }
+      ],
+      "idEvenement": 30874,
+      "typeEvenement": 13,
+      "libelleEvenement": "PEUR, PETIT CHASSEUR (LA) / PLUS QU'HIER, MOINS QUE DEMAIN",
+      "dateHeure": "2024-08-30T20:00:00",
+      "idSalle": "GF"
+    },
+    {
+      "idSeance": 131054,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367
+        }
+      ],
+      "idEvenement": 30736,
+      "typeEvenement": 13,
+      "libelleEvenement": "ROMAN DE MARGUERITE GAUTIER (LE)",
+      "dateHeure": "2024-08-30T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 31411,
+          "titre": "ROMAN DE MARGUERITE GAUTIER",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 15640,
+              "duree": 109,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133617,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273
+        }
+      ],
+      "idEvenement": 30072,
+      "typeEvenement": 13,
+      "libelleEvenement": "J'ACCUSE !",
+      "dateHeure": "2024-08-31T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 48679,
+          "titre": "J'ACCUSE !",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 3865,
+              "duree": 165,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131097,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 787,
+          "idCategorie": 3374
+        }
+      ],
+      "idEvenement": 30787,
+      "typeEvenement": 13,
+      "libelleEvenement": "LES COURTS MÉTRAGES DE LAURENT ACHARD",
+      "dateHeure": "2024-08-31T15:00:00",
+      "idSalle": "GF"
+    },
+    {
+      "idSeance": 131094,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367
+        }
+      ],
+      "idEvenement": 30745,
+      "typeEvenement": 13,
+      "libelleEvenement": "VACANCES",
+      "dateHeure": "2024-08-31T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 56960,
+          "titre": "VACANCES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 26417,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131098,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 787,
+          "idCategorie": 3372
+        }
+      ],
+      "idEvenement": 30786,
+      "typeEvenement": 13,
+      "libelleEvenement": "DERNIER DES FOUS (LE)",
+      "dateHeure": "2024-08-31T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 100438,
+          "titre": "DERNIER DES FOUS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 2291,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131095,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367
+        }
+      ],
+      "idEvenement": 30709,
+      "typeEvenement": 13,
+      "libelleEvenement": "FEMMES",
+      "dateHeure": "2024-08-31T19:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 31479,
+          "titre": "FEMMES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 17317,
+              "duree": 133,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133614,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273
+        }
+      ],
+      "idEvenement": 30068,
+      "typeEvenement": 13,
+      "libelleEvenement": "ROMAN D'UN JEUNE HOMME PAUVRE (LE)",
+      "dateHeure": "2024-08-31T19:45:00",
+      "idSalle": "GF"
+    },
+    {
+      "idSeance": 131100,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 787,
+          "idCategorie": 3375
+        }
+      ],
+      "idEvenement": 30872,
+      "typeEvenement": 13,
+      "libelleEvenement": "BRISSEAU, 251 RUE MARCADET",
+      "dateHeure": "2024-08-31T19:45:00",
+      "idSalle": "JE"
+    },
+    {
+      "idSeance": 131110,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 741,
+          "idCategorie": 3235
+        }
+      ],
+      "idEvenement": 29888,
+      "typeEvenement": 13,
+      "libelleEvenement": "ABYSS",
+      "dateHeure": "2024-09-01T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 30822,
+          "titre": "ABYSS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 3944,
+              "duree": 140,
+              "format": "70 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133613,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 787,
+          "idCategorie": 3372
+        }
+      ],
+      "idEvenement": 30873,
+      "typeEvenement": 13,
+      "libelleEvenement": "JEAN-FRANÇOIS STÉVENIN : SIMPLES MESSIEURS",
+      "dateHeure": "2024-09-01T15:00:00",
+      "idSalle": "JE"
+    },
+    {
+      "idSeance": 131111,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367
+        }
+      ],
+      "idEvenement": 30713,
+      "typeEvenement": 13,
+      "libelleEvenement": "HANTISE",
+      "dateHeure": "2024-09-01T17:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 31418,
+          "titre": "HANTISE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 22111,
+              "duree": 114,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131116,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 787,
+          "idCategorie": 3372
+        }
+      ],
+      "idEvenement": 30788,
+      "typeEvenement": 13,
+      "libelleEvenement": "DERNIÈRE SÉANCE",
+      "dateHeure": "2024-09-01T17:45:00",
+      "idSalle": "GF"
+    },
+    {
+      "idSeance": 131112,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367
+        }
+      ],
+      "idEvenement": 30726,
+      "typeEvenement": 13,
+      "libelleEvenement": "MADAME PORTE LA CULOTTE",
+      "dateHeure": "2024-09-01T19:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 31387,
+          "titre": "MADAME PORTE LA CULOTTE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 8505,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133615,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273
+        }
+      ],
+      "idEvenement": 30040,
+      "typeEvenement": 13,
+      "libelleEvenement": "LUCRÈCE BORGIA",
+      "dateHeure": "2024-09-01T20:15:00",
+      "idSalle": "GF"
+    },
+    {
+      "idSeance": 131114,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 787,
+          "idCategorie": 3375
+        }
+      ],
+      "idEvenement": 30789,
+      "typeEvenement": 13,
+      "libelleEvenement": "PATRICIA MAZUY : AVANT SATURNE",
+      "dateHeure": "2024-09-01T20:15:00",
+      "idSalle": "JE"
+    },
+    {
+      "idSeance": 131296,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 741,
+          "idCategorie": 3235
+        }
+      ],
+      "idEvenement": 29887,
+      "typeEvenement": 13,
+      "libelleEvenement": "ALIENS – LE RETOUR",
+      "dateHeure": "2024-09-08T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 30809,
+          "titre": "ALIENS – LE RETOUR",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 4979,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 21912,
+              "duree": 137,
+              "format": "70 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 5041,
+              "duree": 137,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133616,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371
+        }
+      ],
+      "idEvenement": 30841,
+      "typeEvenement": 13,
+      "libelleEvenement": "HUIT ET DEMI",
+      "dateHeure": "2024-09-11T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "idFilm": 45182,
+          "titre": "HUIT ET DEMI",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 16659,
+              "duree": 138,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 131495,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 794,
+          "idCategorie": 3383
+        },
+        {
+          "idCycle": 794,
+          "idCategorie": 3383
+        }
+      ],
+      "idEvenement": 30908,
+      "typeEvenement": 13,
+      "libelleEvenement": "MA VIE MA GUEULE",
+      "dateHeure": "2024-09-16T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 43,
+      "mention": "Avant-première"
+    },
+    {
+      "idSeance": 131681,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673
+        },
+        {
+          "idCycle": 624,
+          "idCategorie": 2673
+        }
+      ],
+      "idEvenement": 30534,
+      "typeEvenement": 13,
+      "libelleEvenement": "LINCEULS (LES)",
+      "dateHeure": "2024-09-23T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 43,
+      "items": [
+        {
+          "idFilm": 154784,
+          "titre": "SHROUDS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27696,
+              "duree": 119,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Avant-première"
+    },
+    {
+      "idSeance": 132091,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373
+        }
+      ],
+      "idEvenement": 30780,
+      "typeEvenement": 13,
+      "libelleEvenement": "KAÏRAT",
+      "dateHeure": "2024-10-09T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 132463,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21696,
+      "typeEvenement": 13,
+      "libelleEvenement": "NARCISSE NOIR (LE)",
+      "dateHeure": "2024-10-23T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "idFilm": 41789,
+          "titre": "NARCISSE NOIR",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 8430,
+              "duree": 100,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27059,
+              "duree": 100,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 132502,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 791,
+          "idCategorie": 3379
+        }
+      ],
+      "idEvenement": 30866,
+      "typeEvenement": 13,
+      "libelleEvenement": "TOP SECRET !",
+      "dateHeure": "2024-10-24T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "idFilm": 30105,
+          "titre": "TOP SECRET !",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28044,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 132983,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        },
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30900,
+      "typeEvenement": 13,
+      "libelleEvenement": "FINALEMENT",
+      "dateHeure": "2024-11-11T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 43,
+      "items": [
+        {
+          "idFilm": 154848,
+          "titre": "FINALEMENT",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28036,
+              "duree": 127,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Avant-première"
+    }
+  ]
+}
