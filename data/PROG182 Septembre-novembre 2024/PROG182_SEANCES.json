@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-22T14:17:23.136Z",
+  "updatedAt": "2024-04-22T15:00:59.849Z",
   "data": [
     {
       "idSeance": 130975,
@@ -641,6 +641,456 @@
       ]
     },
     {
+      "idSeance": 131125,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30044,
+      "typeEvenement": 13,
+      "libelleEvenement": "CAPITAINE FRACASSE (LE)",
+      "dateHeure": "2024-09-02T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 48587,
+          "titre": "CAPITAINE FRACASSE",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131126,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30050,
+      "typeEvenement": 13,
+      "libelleEvenement": "JÉRÔME PERREAU",
+      "dateHeure": "2024-09-02T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 48680,
+          "titre": "JÉRÔME PERREAU",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131160,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30703,
+      "typeEvenement": 13,
+      "libelleEvenement": "COMMENT L'ESPRIT VIENT AUX FEMMES",
+      "dateHeure": "2024-09-04T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 45492,
+          "titre": "COMMENT L'ESPRIT VIENT AUX FEMMES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 6050,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 14792,
+              "duree": 101,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131159,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30070,
+      "typeEvenement": 13,
+      "libelleEvenement": "UN GRAND AMOUR DE BEETHOVEN",
+      "dateHeure": "2024-09-04T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 48692,
+          "titre": "UN GRAND AMOUR DE BEETHOVEN",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 133633,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30744,
+      "typeEvenement": 13,
+      "libelleEvenement": "UNE FEMME QUI S'AFFICHE",
+      "dateHeure": "2024-09-04T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 31408,
+          "titre": "UNE FEMME QUI S'AFFICHE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27987,
+              "duree": 87,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131163,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30051,
+      "typeEvenement": 13,
+      "libelleEvenement": "J'ACCUSE",
+      "dateHeure": "2024-09-04T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 53617,
+          "titre": "J'ACCUSE",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131199,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30704,
+      "typeEvenement": 13,
+      "libelleEvenement": "CROISÉE DES DESTINS (LA)",
+      "dateHeure": "2024-09-05T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 31407,
+          "titre": "CROISÉE DES DESTINS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27976,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131196,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30075,
+      "typeEvenement": 13,
+      "libelleEvenement": "VOLEUR DE FEMMES (LE)",
+      "dateHeure": "2024-09-05T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 48694,
+          "titre": "VOLEUR DE FEMMES",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131200,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30708,
+      "typeEvenement": 13,
+      "libelleEvenement": "FEMME AUX DEUX VISAGES (LA)",
+      "dateHeure": "2024-09-05T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 31524,
+          "titre": "FEMME AUX DEUX VISAGES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27981,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133634,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30036,
+      "typeEvenement": 13,
+      "libelleEvenement": "LOUISE",
+      "dateHeure": "2024-09-05T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 48681,
+          "titre": "LOUISE",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131239,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30730,
+      "typeEvenement": 13,
+      "libelleEvenement": "MY FAIR LADY",
+      "dateHeure": "2024-09-06T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 31497,
+          "titre": "MY FAIR LADY",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 16625,
+              "duree": 170,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131279,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30743,
+      "typeEvenement": 13,
+      "libelleEvenement": "UNE ÉTOILE EST NÉE",
+      "dateHeure": "2024-09-07T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 31402,
+          "titre": "UNE ÉTOILE EST NÉE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 10526,
+              "duree": 176,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131283,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30047,
+      "typeEvenement": 13,
+      "libelleEvenement": "VÉNUS AVEUGLE",
+      "dateHeure": "2024-09-07T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 48693,
+          "titre": "VÉNUS AVEUGLE",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131280,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30722,
+      "typeEvenement": 13,
+      "libelleEvenement": "GIRLS (LES)",
+      "dateHeure": "2024-09-07T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 31422,
+          "titre": "LES GIRLS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 16567,
+              "duree": 114,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27983,
+              "duree": 114,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131281,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30728,
+      "typeEvenement": 13,
+      "libelleEvenement": "MILLIARDAIRE (LE)",
+      "dateHeure": "2024-09-07T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 31468,
+          "titre": "MILLIARDAIRE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 22735,
+              "duree": 119,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 131296,
       "idProg": 182,
       "idCyclesCategories": [
@@ -688,7 +1138,115 @@
       ]
     },
     {
-      "idSeance": 133616,
+      "idSeance": 131297,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30706,
+      "typeEvenement": 13,
+      "libelleEvenement": "DIABLESSE EN COLLANT ROSE (LA)",
+      "dateHeure": "2024-09-08T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 31437,
+          "titre": "DIABLESSE EN COLLANT ROSE",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131298,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30720,
+      "typeEvenement": 13,
+      "libelleEvenement": "JE RETOURNE CHEZ MAMAN",
+      "dateHeure": "2024-09-08T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 31488,
+          "titre": "JE RETOURNE CHEZ MAMAN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 27972,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131311,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30711,
+      "typeEvenement": 13,
+      "libelleEvenement": "GIRLS ABOUT TOWN",
+      "dateHeure": "2024-09-09T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 79003,
+          "titre": "GIRLS ABOUT TOWN",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131312,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30742,
+      "typeEvenement": 13,
+      "libelleEvenement": "TARNISHED LADY",
+      "dateHeure": "2024-09-09T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 80554,
+          "titre": "TARNISHED LADY",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 133635,
       "idProg": 182,
       "idCyclesCategories": [
         {
@@ -698,29 +1256,27 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30841,
+      "idEvenement": 30836,
       "typeEvenement": 13,
-      "libelleEvenement": "HUIT ET DEMI",
+      "libelleEvenement": "DOLCE VITA (LA)",
       "dateHeure": "2024-09-11T20:00:00",
       "idSalle": "HL",
-      "typeSeance": 44,
       "items": [
         {
-          "idFilm": 45182,
-          "titre": "HUIT ET DEMI",
+          "idFilm": 43326,
+          "titre": "DOUCEUR DE VIVRE",
           "ordre": 1,
           "copies": [
             {
-              "idCopie": 16659,
-              "duree": 138,
+              "idCopie": 10614,
+              "duree": 174,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
           ]
         }
-      ],
-      "mention": "Ouverture de la rétrospective"
+      ]
     },
     {
       "idSeance": 131495,

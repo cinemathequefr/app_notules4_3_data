@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2024-04-22T14:18:43.116Z",
+  "updatedAt": "2024-04-22T14:46:16.623Z",
   "data": [
-    {
-      "idSeance": 128842,
-      "idProg": 179,
-      "idCyclesCategories": [
-        {
-          "idCycle": 140,
-          "idCategorie": 3291,
-          "titreCycle": "Aujourd'hui le cinéma"
-        }
-      ],
-      "idEvenement": 29367,
-      "typeEvenement": 13,
-      "libelleEvenement": "UN PETIT FRÈRE",
-      "dateHeure": "2024-05-27T19:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "idFilm": 153643,
-          "titre": "UN PETIT FRÈRE",
-          "ordre": 1,
-          "copies": [
-            {
-              "idCopie": 27573,
-              "duree": 116,
-              "format": "DCP"
-            }
-          ]
-        }
-      ]
-    },
     {
       "idSeance": 128873,
       "idProg": 179,
@@ -2304,7 +2274,7 @@
           "copies": [
             {
               "idCopie": 27693,
-              "duree": 88,
+              "duree": 86,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
@@ -4195,7 +4165,17 @@
           "ordre": 2,
           "copies": [
             {
+              "idCopie": 27950,
+              "duree": 85,
+              "format": "35 mm"
+            },
+            {
               "idCopie": 27951,
+              "duree": 85,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 28103,
               "duree": 85,
               "format": "35 mm"
             }

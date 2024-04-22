@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2024-04-22T14:18:43.355Z",
+  "updatedAt": "2024-04-22T14:46:16.860Z",
   "data": [
-    {
-      "idSeance": 128842,
-      "idProg": 179,
-      "idCyclesCategories": [
-        {
-          "idCycle": 140,
-          "idCategorie": 3291,
-          "titreCycle": "Aujourd'hui le cinéma"
-        }
-      ],
-      "idEvenement": 29367,
-      "typeEvenement": 13,
-      "libelleEvenement": "UN PETIT FRÈRE",
-      "dateHeure": "2024-05-27T19:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 153643,
-          "realisateurs": "Léonor Serraille",
-          "titre": "Un petit frère",
-          "annee": 2021,
-          "generique": "Annabelle Lengronne, Stéphane Bak, Kenzo Sambin",
-          "synopsis": "Quand Rose arrive en France, elle emménage en banlieue parisienne avec ses deux fils, Jean et Ernest. Construction et déconstruction d'une famille, de la fin des années 80 jusqu'à nos jours.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 27573,
-              "duree": 116,
-              "format": "DCP"
-            }
-          ]
-        }
-      ]
-    },
     {
       "idSeance": 128873,
       "idProg": 179,
@@ -2760,7 +2725,7 @@
           "copies": [
             {
               "idCopie": 27693,
-              "duree": 88,
+              "duree": 86,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
@@ -5032,7 +4997,17 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 27950,
+              "duree": 85,
+              "format": "35 mm"
+            },
+            {
               "idCopie": 27951,
+              "duree": 85,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 28103,
               "duree": 85,
               "format": "35 mm"
             }
