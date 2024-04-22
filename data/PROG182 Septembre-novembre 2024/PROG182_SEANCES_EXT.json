@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-22T10:34:15.019Z",
+  "updatedAt": "2024-04-22T10:58:54.479Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1048,6 +1048,103 @@
         }
       ],
       "mention": "Avant-première"
+    },
+    {
+      "idSeance": 133023,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30884,
+      "typeEvenement": 13,
+      "libelleEvenement": "VIVRE POUR VIVRE",
+      "dateHeure": "2024-11-13T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49810,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Vivre pour vivre",
+          "annee": 1966,
+          "generique": "Yves Montand, Annie Girardot, Candice Bergen",
+          "synopsis": "Dans les années 1960, un reporter de guerre marié rencontre un jour une jeune femme dont il tombe amoureux. Son épouse, se sentant délaissée, décide de le quitter.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22953,
+              "duree": 131
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133024,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30886,
+      "typeEvenement": 13,
+      "libelleEvenement": "VIE, L'AMOUR, LA MORT (LA)",
+      "dateHeure": "2024-11-13T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49809,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Vie, l'amour, la mort",
+          "art": "La",
+          "annee": 1968,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28041,
+              "duree": 115
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133139,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30876,
+      "typeEvenement": 13,
+      "libelleEvenement": "AVENTURE, C'EST L'AVENTURE (L')",
+      "dateHeure": "2024-11-16T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49804,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Aventure, c'est l'aventure",
+          "art": "L'",
+          "annee": 1971,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28050,
+              "duree": 122
+            }
+          ]
+        }
+      ]
     }
   ]
 }
