@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-22T09:38:52.638Z",
+  "updatedAt": "2024-04-22T10:34:15.019Z",
   "data": [
     {
       "idSeance": 130975,
@@ -18,9 +18,18 @@
       "typeSeance": 44,
       "items": [
         {
-          "idFilm": 31506,
-          "titre": "INDISCRÉTIONS",
           "ordre": 1,
+          "idFilm": 31506,
+          "realisateurs": "George Cukor",
+          "titre": "Indiscrétions",
+          "titreVo": "Philadelphia Story",
+          "artVo": "The",
+          "annee": 1940,
+          "generique": "Katharine Hepburn, Cary Grant, James Stewart",
+          "adaptation": "D'après la pièce _The Philadelphia Story_ de Philip Barry.",
+          "synopsis": "Une séparation, des fiançailles, une rupture et trois prétendants. Une comédie alerte et enjouée parodiant les mœurs de la haute société américaine et ses scandales.",
+          "miniTexte": "Une référence de la comédie de remariage, flamboyant portrait de femme moderne qui signe le retour de Katharine Hepburn, tombée en disgrâce à Hollywood. Dialogues subtils, mise en scène raffinée, elle embrase l'écran face à Cary Grant et James Stewart – futur Oscar du meilleur acteur –, à l'apogée de leur drôlerie.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 3728,
@@ -50,9 +59,13 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 80552,
-          "titre": "GRUMPY",
           "ordre": 1,
+          "idFilm": 80552,
+          "realisateurs": "George Cukor, Cyril Gardner",
+          "titre": "Grumpy",
+          "annee": 1930,
+          "adaptation": "D'après la pièce _Grumpy, a play in four acts_ de Horace Hodges et Thomas Wigney Percyval.",
+          "status": 0,
           "copies": []
         }
       ]
@@ -74,9 +87,14 @@
       "typeSeance": 44,
       "items": [
         {
-          "idFilm": 48687,
-          "titre": "PARADIS PERDU",
           "ordre": 1,
+          "idFilm": 48687,
+          "realisateurs": "Abel Gance",
+          "titre": "Paradis perdu",
+          "annee": 1939,
+          "generique": "Fernand Gravey, Elvire Popesco, Micheline Presle",
+          "synopsis": "À Paris, en 1913, Pierre Leblanc, un peintre, rencontre Janine, employée dans une maison de couture. Il l'épouse puis part à la guerre alors qu'elle est enceinte.",
+          "status": 0,
           "copies": []
         }
       ],
@@ -98,9 +116,14 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 31517,
-          "titre": "ROYAL FAMILY",
           "ordre": 1,
+          "idFilm": 31517,
+          "realisateurs": "George Cukor, Cyril Gardner",
+          "titre": "Royal family",
+          "titreVo": "Royal Family of Broadway",
+          "artVo": "The",
+          "annee": 1931,
+          "status": 0,
           "copies": []
         }
       ]
@@ -121,9 +144,16 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 31521,
-          "titre": "SYLVIA SCARLETT",
           "ordre": 1,
+          "idFilm": 31521,
+          "realisateurs": "George Cukor",
+          "titre": "Sylvia Scarlett",
+          "annee": 1935,
+          "generique": "Katharine Hepburn, Cary Grant, Brian Aherne",
+          "adaptation": "D'après le roman _The Early Life and Adventures of Sylvia Scarlett_ de Compton Mackenzie.",
+          "synopsis": "Il suffit à la jeune Sylvia, d'allure un peu garçonne, de se couper les cheveux pour prétendre s'appeler Sylvestre et participer aux escroqueries de son père. Mais lorsqu'elle tombe amoureuse, tout cela ne l'intéresse plus autant.",
+          "miniTexte": "Dans un savant mélange des genres, véritable échec commercial à son époque, Cukor travestit Katharine Hepburn, son actrice fétiche, en héroïne avant-gardiste. Cinq ans avant _Indiscrétions_, elle envoûte Cary Grant durant une quête identitaire, qui oscille habilement du mélo à la comédie familiale rocambolesque.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 9274,
@@ -152,15 +182,26 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 91824,
-          "titre": "PEUR, PETIT CHASSEUR",
           "ordre": 1,
+          "idFilm": 91824,
+          "realisateurs": "Laurent Achard",
+          "titre": "Peur, petit chasseur",
+          "art": "La",
+          "annee": 2003,
+          "generique": "Mireille Roussel, Martin Buisson",
+          "synopsis": "À la campagne, un jour de novembre, un enfant recroquevillé n'ose pas rentrer dans sa maison. Il attend que sa mère le rejoigne dans le jardin.",
+          "status": 2,
           "copies": []
         },
         {
-          "idFilm": 64087,
-          "titre": "PLUS QU'HIER, MOINS QUE DEMAIN",
           "ordre": 2,
+          "idFilm": 64087,
+          "realisateurs": "Laurent Achard",
+          "titre": "Plus qu'hier, moins que demain",
+          "annee": 1998,
+          "generique": "Martin Mihelich, Laëtitia Legrix, Mireille Roussel",
+          "synopsis": "Après une assez longue absence, Sonia revient a l'improviste dans sa famille avec son bébé et son mari. Sonia va faire resurgir des souvenirs douloureux que tous préfèreraient oublier.",
+          "status": 0,
           "copies": []
         }
       ]
@@ -181,9 +222,17 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 31411,
-          "titre": "ROMAN DE MARGUERITE GAUTIER",
           "ordre": 1,
+          "idFilm": 31411,
+          "realisateurs": "George Cukor",
+          "titre": "Roman de Marguerite Gautier",
+          "art": "Le",
+          "titreVo": "Camille",
+          "annee": 1936,
+          "generique": "Greta Garbo, Robert Taylor, Lionel Barrymore",
+          "adaptation": "D'après le roman _La Dame aux camélias_ d'Alexandre Dumas fils.",
+          "synopsis": "« Cette élégance qui n'existe plus aujourd'hui dans la vie subsiste encore au cinéma grâce à George Cukor, à Mizoguchi : élégance du style, distinction des sujets traités, distinction des acteurs, politesse raffinée du découpage, un univers où tout est demi-teinte, où tout est suggéré, où rien n'est appuyé. »\n\n---\n\nUne demi-mondaine, entretenue, tombe follement amoureuse d'un fils de famille. Le père s'interpose : l'honneur du rang ne saurait tolérer pareille mésalliance.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 15640,
@@ -212,9 +261,14 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 48679,
-          "titre": "J'ACCUSE !",
           "ordre": 1,
+          "idFilm": 48679,
+          "realisateurs": "Abel Gance",
+          "titre": "J'accuse !",
+          "annee": 1918,
+          "generique": "Séverin-Mars, Romuald Joubé, Maxime Desjardins, Marise Dauvray",
+          "synopsis": "« Tragédie des temps modernes en trois époques » (Abel Gance) et plaidoyer contre la guerre.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 3865,
@@ -242,33 +296,53 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 76312,
-          "titre": "DIMANCHE OU LES FANTÔMES",
           "ordre": 1,
+          "idFilm": 76312,
+          "realisateurs": "Laurent Achard",
+          "titre": "Dimanche ou les fantômes",
+          "annee": 1994,
+          "status": 0,
           "copies": []
         },
         {
-          "idFilm": 91824,
-          "titre": "PEUR, PETIT CHASSEUR",
           "ordre": 2,
+          "idFilm": 91824,
+          "realisateurs": "Laurent Achard",
+          "titre": "Peur, petit chasseur",
+          "art": "La",
+          "annee": 2003,
+          "generique": "Mireille Roussel, Martin Buisson",
+          "synopsis": "À la campagne, un jour de novembre, un enfant recroquevillé n'ose pas rentrer dans sa maison. Il attend que sa mère le rejoigne dans le jardin.",
+          "status": 2,
           "copies": []
         },
         {
-          "idFilm": 75543,
-          "titre": "QU'EN SAVENT LES MORTS ?",
           "ordre": 3,
+          "idFilm": 75543,
+          "realisateurs": "Laurent Achard",
+          "titre": "Qu'en savent les morts ?",
+          "annee": 1990,
+          "status": 0,
           "copies": []
         },
         {
-          "idFilm": 121778,
-          "titre": "TABLEAU",
           "ordre": 4,
+          "idFilm": 121778,
+          "realisateurs": "Laurent Achard",
+          "titre": "Tableau",
+          "art": "Le",
+          "annee": 2012,
+          "synopsis": "Au crépuscule de leur vie, Odile et Marcèle s'aiment toujours. Atteinte d'une maladie incurable, Odile doit être hospitalisée. Le temps d'un dernier dimanche, ils revoient les gens qu'ils aiment.",
+          "status": 0,
           "copies": []
         },
         {
-          "idFilm": 76313,
-          "titre": "UNE ODEUR DE GÉRANIUM",
           "ordre": 5,
+          "idFilm": 76313,
+          "realisateurs": "Laurent Achard",
+          "titre": "Une odeur de géranium",
+          "annee": 1997,
+          "status": 0,
           "copies": []
         }
       ]
@@ -289,9 +363,16 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 56960,
-          "titre": "VACANCES",
           "ordre": 1,
+          "idFilm": 56960,
+          "realisateurs": "George Cukor",
+          "titre": "Vacances",
+          "titreVo": "Holiday",
+          "annee": 1938,
+          "generique": "Katharine Hepburn, Cary Grant, Doris Nolan",
+          "adaptation": "D'après la pièce _Holiday_ de Philip Barry.",
+          "miniTexte": "Huis clos théâtral désopilant, qui marque les retrouvailles de Cukor avec Cary Grant et Katharine Hepburn, trois ans après _Sylvia Scarlett_. Sur un scénario inventif, la mise en scène élégante souligne l'excellence des dialogues et une impeccable galerie de seconds rôles dans une critique acérée du capitalisme.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 26417,
@@ -320,9 +401,16 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 100438,
-          "titre": "DERNIER DES FOUS",
           "ordre": 1,
+          "idFilm": 100438,
+          "realisateurs": "Laurent Achard",
+          "titre": "Dernier des fous",
+          "art": "Le",
+          "annee": 2005,
+          "generique": "Julien Cochelin, Pascal Cervo, Annie Cordy",
+          "adaptation": "D'après le roman _The Last of the Crazy People_ de Timothy Findley.",
+          "synopsis": "Le jeune Martin assiste impuissant à la désintégration de sa famille, entre un père absent, une mère presque folle, et un grand frère dépressif. Il ne trouve de réconfort qu'auprès de son chat et de la bonne, jusqu'au jour où il décide d'agir.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 2291,
@@ -350,9 +438,18 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 31479,
-          "titre": "FEMMES",
           "ordre": 1,
+          "idFilm": 31479,
+          "realisateurs": "George Cukor",
+          "titre": "Femmes",
+          "titreVo": "Women",
+          "artVo": "The",
+          "annee": 1939,
+          "generique": "Norma Shearer, Joan Crawford, Rosalind Russell",
+          "adaptation": "D'après la pièce _The Women_ de Clare Boothe Luce.",
+          "synopsis": "Dans un institut de beauté, les conversations entre femmes portent sur les hommes : ceux qu'on aime, ceux qui trompent, ceux qui mentent, ceux à qui l'on pardonne. Médisances et calomnies conduisent l'une d'entre elles à divorcer un peu trop rapidement.",
+          "miniTexte": "Qu'elles parlent de l'homme qu'elles convoitent, qu'elles épousent ou qu'elles quittent, les femmes de Cukor sont jalouses, méchantes, coquettes ou arrivistes. Jeu stylisé et répliques assassines, le film, sorti en 1939, est une excellente peinture de mœurs portée par un casting exclusivement féminin. Une guerre des sexes, sans hommes, d'une éclatante subtilité.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 17317,
@@ -381,9 +478,13 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 48688,
-          "titre": "ROMAN D'UN JEUNE HOMME PAUVRE",
           "ordre": 1,
+          "idFilm": 48688,
+          "realisateurs": "Abel Gance",
+          "titre": "Roman d'un jeune homme pauvre",
+          "art": "Le",
+          "annee": 1935,
+          "status": 0,
           "copies": []
         }
       ]
@@ -404,9 +505,12 @@
       "idSalle": "JE",
       "items": [
         {
-          "idFilm": 154839,
-          "titre": "BRISSEAU, 251 RUE MARCADET",
           "ordre": 1,
+          "idFilm": 154839,
+          "realisateurs": "Laurent Achard",
+          "titre": "Brisseau, 251 rue Marcadet",
+          "annee": 2018,
+          "status": 0,
           "copies": []
         }
       ]
@@ -427,9 +531,16 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 30822,
-          "titre": "ABYSS",
           "ordre": 1,
+          "idFilm": 30822,
+          "realisateurs": "James Cameron",
+          "titre": "Abyss",
+          "titreVo": "Abyss",
+          "artVo": "The",
+          "annee": 1989,
+          "generique": "Ed Harris, Mary Elizabeth Mastrantonio, Michael Biehn",
+          "miniTexte": "Budget considérable, innovations technologiques, effets spéciaux enchanteurs : Cameron, au sommet à Hollywood après _Terminator_ et _Aliens, le retour_, déploie tout son génie dans un huis clos à plus de 7 000 mètres de fond. L'équipage d'une plateforme de forage est envoyé en mission de sauvetage auprès d'un sous-marin nucléaire en perdition au bord d'un abysse. Un blockbuster puissant et poétique, qui convoque Kubrick et _2001_, explore les peurs primales et fustige la bêtise humaine. Un sommet de science-fiction, pour une rencontre du troisième type en apnée.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 3944,
@@ -458,9 +569,12 @@
       "idSalle": "JE",
       "items": [
         {
-          "idFilm": 154840,
-          "titre": "JEAN-FRANÇOIS STÉVENIN : SIMPLES MESSIEURS",
           "ordre": 1,
+          "idFilm": 154840,
+          "realisateurs": "Laurent Achard",
+          "titre": "Jean-François Stévenin : Simples Messieurs",
+          "annee": 2020,
+          "status": 0,
           "copies": []
         }
       ]
@@ -481,9 +595,16 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 31418,
-          "titre": "HANTISE",
           "ordre": 1,
+          "idFilm": 31418,
+          "realisateurs": "George Cukor",
+          "titre": "Hantise",
+          "titreVo": "Gaslight",
+          "annee": 1943,
+          "generique": "Ingrid Bergman, Charles Boyer, Joseph Cotten",
+          "adaptation": "D'après la pièce _Angel Street_ de Patrick Hamilton.",
+          "synopsis": "Londres, 1875. Installée dans la maison où sa tante a été assassinée, avec le charmant pianiste qu'elle vient d'épouser, Paula doute bientôt de sa propre santé mentale. A-t-elle des hallucinations ?",
+          "status": 0,
           "copies": [
             {
               "idCopie": 22111,
@@ -512,9 +633,12 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 114854,
-          "titre": "DERNIÈRE SÉANCE",
           "ordre": 1,
+          "idFilm": 114854,
+          "realisateurs": "Laurent Achard",
+          "titre": "Dernière séance",
+          "annee": 2010,
+          "status": 0,
           "copies": []
         }
       ]
@@ -535,9 +659,15 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 31387,
-          "titre": "MADAME PORTE LA CULOTTE",
           "ordre": 1,
+          "idFilm": 31387,
+          "realisateurs": "George Cukor",
+          "titre": "Madame porte la culotte",
+          "titreVo": "Adam's Rib",
+          "annee": 1949,
+          "generique": "Spencer Tracy, Katharine Hepburn",
+          "synopsis": "Une avocate militant pour les droits des femmes se trouve opposée à son mari, juriste lui aussi, dans une affaire de crime passionnel.\n\n---\n\nUne avocate militant pour les droits des femmes se trouve opposée à son mari, juriste lui aussi, dans une affaire de crime passionnel.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 8505,
@@ -566,9 +696,14 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 48682,
-          "titre": "LUCRÈCE BORGIA",
           "ordre": 1,
+          "idFilm": 48682,
+          "realisateurs": "Abel Gance",
+          "titre": "Lucrèce Borgia",
+          "annee": 1935,
+          "generique": "Edwige Feuillère, Gabriel Gabrio, Roger Karl, Maurice Escande",
+          "synopsis": "César Borgia, fils du pape, suit les conseils du cruel Machiavel et décide de se servir de sa charmante sœur pour amadouer et éliminer ses principaux rivaux.",
+          "status": 0,
           "copies": []
         }
       ]
@@ -589,9 +724,13 @@
       "idSalle": "JE",
       "items": [
         {
-          "idFilm": 153932,
-          "titre": "PATRICIA MAZUY : AVANT SATURNE [TV]",
           "ordre": 1,
+          "idFilm": 153932,
+          "realisateurs": "Laurent Achard",
+          "titre": "Patricia Mazuy : avant Saturne",
+          "annee": 2022,
+          "synopsis": "À Caen, Laurent Achard suit Patricia Mazuy et son équipe dans les préparatifs de son film _Bowling Saturne_.",
+          "status": 2,
           "copies": []
         }
       ]
@@ -612,9 +751,16 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 30809,
-          "titre": "ALIENS – LE RETOUR",
           "ordre": 1,
+          "idFilm": 30809,
+          "realisateurs": "James Cameron",
+          "titre": "Aliens, le retour",
+          "titreVo": "Aliens",
+          "annee": 1985,
+          "generique": "Sigourney Weaver, Michael Biehn, Lance Henriksen",
+          "synopsis": "Ripley et un groupe de Marines retournent vers la planète où une créature monstrueuse a été découverte pour la première fois.",
+          "miniTexte": "Ripley revient ! Avec ce deuxième volet de la saga, Cameron s'empare du mythe installé par Ridley Scott et y pose sa griffe, lui donnant une ampleur inattendue : après une première partie très martiale (les Marines caricaturaux missionnés pour sauver des colons aux prises avec les xénomorphes), Ripley reprend la main, à la fois terrorisée (humaine) et déterminée (surhumaine). Elle renoue avec sa propre maternité, tendue vers un seul but, sauver une fillette, et trouve le chemin de la rédemption dans un affrontement final de mère à mère. Monstrueux, intense, éblouissant.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 4979,
@@ -658,9 +804,16 @@
       "typeSeance": 44,
       "items": [
         {
-          "idFilm": 45182,
-          "titre": "HUIT ET DEMI",
           "ordre": 1,
+          "idFilm": 45182,
+          "realisateurs": "Federico Fellini",
+          "titre": "8½",
+          "titreVo": "Otto e mezzo",
+          "annee": 1962,
+          "generique": "Marcello Mastroianni, Claudia Cardinale, Anouk Aimée",
+          "synopsis": "Le cinéaste Guido Anselmi, en cure dans une station thermale, éprouve la crise du créateur. Alors qu'il cherche l'inspiration pour son prochain film, il se trouve happé par ses souvenirs et ses fantasmes.",
+          "commentaire": "« Au moment du tournage de _8½_, il m'arriva une chose que je redoutais depuis longtemps. Je fus victime d'un blocage, comme les écrivains en ont parfois devant leur page blanche. » Le blocage de Fellini devint le sujet même du film. Les angoisses d'un cinéaste en mal d'inspiration et en mal de vivre tout court. Guido/Mastroianni, double notoire arborant tous les attributs felliniens (manteau noir, écharpe et Borsalino), se laisse porter par le souffle du vent à travers les fantasmes et les rêves du passé, jusqu'à la farandole finale, d'une beauté infinie, indissociable du thème légendaire de la fanfare de Nino Rota.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 16659,
@@ -695,9 +848,12 @@
       "typeSeance": 43,
       "items": [
         {
-          "idFilm": 154849,
-          "titre": "MA VIE MA GUEULE",
           "ordre": 1,
+          "idFilm": 154849,
+          "realisateurs": "Sophie Fillières",
+          "titre": "Ma vie, ma gueule",
+          "annee": 2023,
+          "status": 1,
           "copies": []
         }
       ],
@@ -724,9 +880,14 @@
       "typeSeance": 43,
       "items": [
         {
-          "idFilm": 154784,
-          "titre": "SHROUDS",
           "ordre": 1,
+          "idFilm": 154784,
+          "realisateurs": "David Cronenberg",
+          "titre": "Shrouds",
+          "art": "The",
+          "annee": 2024,
+          "synopsis": "Karsh, 50 ans, est un homme d'affaires renommé. Inconsolable depuis le décès de son épouse, il invente un système révolutionnaire et controversé, GraveTech, qui permet aux vivants de se connecter à leurs chers disparus dans leurs linceuls. Une nuit, plusieurs tombes, dont celle de sa femme, sont vandalisées. Karsh se met en quête des coupables.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 27696,
@@ -757,9 +918,12 @@
       "typeSeance": 44,
       "items": [
         {
-          "idFilm": 29079,
-          "titre": "KAÏRAT",
           "ordre": 1,
+          "idFilm": 29079,
+          "realisateurs": "Darejan Omirbaev",
+          "titre": "Kaïrat",
+          "annee": 1991,
+          "status": 0,
           "copies": []
         }
       ],
@@ -782,9 +946,16 @@
       "typeSeance": 44,
       "items": [
         {
-          "idFilm": 41789,
-          "titre": "NARCISSE NOIR",
           "ordre": 1,
+          "idFilm": 41789,
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "titre": "Narcisse noir",
+          "art": "Le",
+          "titreVo": "Black Narcissus",
+          "annee": 1947,
+          "generique": "Deborah Kerr, Sabu, David Farrar",
+          "synopsis": "Suite à l'ouverture d'un couvent sur les contreforts de l'Himalaya, cinq sœurs anglicanes rencontrent des difficultés à s'adapter à leur nouvel environnement.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 8430,
@@ -821,9 +992,12 @@
       "typeSeance": 44,
       "items": [
         {
-          "idFilm": 30105,
-          "titre": "TOP SECRET !",
           "ordre": 1,
+          "idFilm": 30105,
+          "realisateurs": "Jim Abrahams, David Zucker, Jerry Zucker",
+          "titre": "Top Secret!",
+          "annee": 1983,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28044,
@@ -858,9 +1032,12 @@
       "typeSeance": 43,
       "items": [
         {
-          "idFilm": 154848,
-          "titre": "FINALEMENT",
           "ordre": 1,
+          "idFilm": 154848,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Finalement",
+          "annee": 2024,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28036,
