@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-22T10:44:20.346Z",
+  "updatedAt": "2024-04-22T12:57:55.344Z",
   "data": [
     {
       "idSeance": 130975,
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "idSeance": 133617,
+      "idSeance": 133624,
       "idProg": 182,
       "idCyclesCategories": [
         {
@@ -274,37 +274,6 @@
       ]
     },
     {
-      "idSeance": 131094,
-      "idProg": 182,
-      "idCyclesCategories": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367
-        }
-      ],
-      "idEvenement": 30745,
-      "typeEvenement": 13,
-      "libelleEvenement": "VACANCES",
-      "dateHeure": "2024-08-31T17:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "idFilm": 56960,
-          "titre": "VACANCES",
-          "ordre": 1,
-          "copies": [
-            {
-              "idCopie": 26417,
-              "duree": 96,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 131098,
       "idProg": 182,
       "idCyclesCategories": [
@@ -335,7 +304,7 @@
       ]
     },
     {
-      "idSeance": 131095,
+      "idSeance": 131094,
       "idProg": 182,
       "idCyclesCategories": [
         {
@@ -343,20 +312,20 @@
           "idCategorie": 3367
         }
       ],
-      "idEvenement": 30709,
+      "idEvenement": 30745,
       "typeEvenement": 13,
-      "libelleEvenement": "FEMMES",
-      "dateHeure": "2024-08-31T19:15:00",
+      "libelleEvenement": "VACANCES",
+      "dateHeure": "2024-08-31T18:00:00",
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 31479,
-          "titre": "FEMMES",
+          "idFilm": 56960,
+          "titre": "VACANCES",
           "ordre": 1,
           "copies": [
             {
-              "idCopie": 17317,
-              "duree": 133,
+              "idCopie": 26417,
+              "duree": 96,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
@@ -408,6 +377,37 @@
           "titre": "BRISSEAU, 251 RUE MARCADET",
           "ordre": 1,
           "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131095,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367
+        }
+      ],
+      "idEvenement": 30709,
+      "typeEvenement": 13,
+      "libelleEvenement": "FEMMES",
+      "dateHeure": "2024-08-31T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 31479,
+          "titre": "FEMMES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 17317,
+              "duree": 133,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -766,6 +766,167 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 132171,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373
+        }
+      ],
+      "idEvenement": 30781,
+      "typeEvenement": 13,
+      "libelleEvenement": "KARDIOGRAMMA",
+      "dateHeure": "2024-10-11T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 60519,
+          "titre": "KARDIOGRAMMA",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 132172,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373
+        }
+      ],
+      "idEvenement": 30783,
+      "typeEvenement": 13,
+      "libelleEvenement": "TUEUR À GAGES",
+      "dateHeure": "2024-10-11T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 29437,
+          "titre": "TUEUR À GAGES",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 132213,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373
+        }
+      ],
+      "idEvenement": 30782,
+      "typeEvenement": 13,
+      "libelleEvenement": "ROUTE (LA)",
+      "dateHeure": "2024-10-12T14:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 76647,
+          "titre": "ROUTE",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 132214,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373
+        }
+      ],
+      "idEvenement": 30779,
+      "typeEvenement": 13,
+      "libelleEvenement": "CHOUGA",
+      "dateHeure": "2024-10-12T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 106346,
+          "titre": "CHOUGA",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 133631,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373
+        }
+      ],
+      "idEvenement": 30779,
+      "typeEvenement": 13,
+      "libelleEvenement": "CHOUGA",
+      "dateHeure": "2024-10-12T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 106346,
+          "titre": "CHOUGA",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 133632,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373
+        }
+      ],
+      "idEvenement": 30784,
+      "typeEvenement": 13,
+      "libelleEvenement": "ETUDIANT (L')",
+      "dateHeure": "2024-10-13T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 116510,
+          "titre": "ETUDIANT",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 132233,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373
+        }
+      ],
+      "idEvenement": 30785,
+      "typeEvenement": 13,
+      "libelleEvenement": "POÈTE (LE )",
+      "dateHeure": "2024-10-13T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 154832,
+          "titre": "POÈTE",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 132463,
       "idProg": 182,
       "idCyclesCategories": [
@@ -805,6 +966,29 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 133629,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21674,
+      "typeEvenement": 13,
+      "libelleEvenement": "MY FRIEND THE KING",
+      "dateHeure": "2024-10-24T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 107575,
+          "titre": "MY FRIEND THE KING",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 132502,
       "idProg": 182,
       "idCyclesCategories": [
@@ -836,6 +1020,270 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 133630,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21681,
+      "typeEvenement": 13,
+      "libelleEvenement": "TWO CROWDED HOURS",
+      "dateHeure": "2024-10-24T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 107603,
+          "titre": "TWO CROWDED HOURS",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 132581,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21695,
+      "typeEvenement": 13,
+      "libelleEvenement": "COLONEL BLIMP",
+      "dateHeure": "2024-10-26T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 42024,
+          "titre": "COLONEL BLIMP",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 20203,
+              "duree": 163,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 3199,
+              "duree": 163,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 20215,
+              "duree": 163,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132582,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21692,
+      "typeEvenement": 13,
+      "libelleEvenement": "CHAUSSONS ROUGES (LES)",
+      "dateHeure": "2024-10-26T17:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 42561,
+          "titre": "CHAUSSONS ROUGES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 20216,
+              "duree": 133,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132583,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21688,
+      "typeEvenement": 13,
+      "libelleEvenement": "RENARDE (LA)",
+      "dateHeure": "2024-10-26T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 41089,
+          "titre": "RENARDE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 20278,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 27063,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132687,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21665,
+      "typeEvenement": 13,
+      "libelleEvenement": "VOYEUR (LE)",
+      "dateHeure": "2024-10-31T19:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 35996,
+          "titre": "VOYEUR",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 20208,
+              "duree": 101,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132727,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21689,
+      "typeEvenement": 13,
+      "libelleEvenement": "A CANTERBURY TALE",
+      "dateHeure": "2024-11-01T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 41074,
+          "titre": "A CANTERBURY TALE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 20288,
+              "duree": 125,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 20234,
+              "duree": 125,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132728,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21700,
+      "typeEvenement": 13,
+      "libelleEvenement": "UNE QUESTION DE VIE OU DE MORT",
+      "dateHeure": "2024-11-01T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 41083,
+          "titre": "UNE QUESTION DE VIE OU DE MORT",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 20223,
+              "duree": 104,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132770,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21694,
+      "typeEvenement": 13,
+      "libelleEvenement": "CONTES D'HOFFMANN (LES)",
+      "dateHeure": "2024-11-02T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 42029,
+          "titre": "CONTES D'HOFFMANN",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 5915,
+              "duree": 123,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 132983,
@@ -929,6 +1377,62 @@
       ]
     },
     {
+      "idSeance": 133101,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30893,
+      "typeEvenement": 13,
+      "libelleEvenement": "UN HOMME QUI ME PLAÎT",
+      "dateHeure": "2024-11-15T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 49740,
+          "titre": "UN HOMME QUI ME PLAÎT",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28046,
+              "duree": 115
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133102,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30894,
+      "typeEvenement": 13,
+      "libelleEvenement": "VOYOU (LE)",
+      "dateHeure": "2024-11-15T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 49811,
+          "titre": "VOYOU",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28047,
+              "duree": 120
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133139,
       "idProg": 182,
       "idCyclesCategories": [
@@ -951,6 +1455,524 @@
             {
               "idCopie": 28050,
               "duree": 122
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133144,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30878,
+      "typeEvenement": 13,
+      "libelleEvenement": "BONNE ANNÉE (LA)",
+      "dateHeure": "2024-11-16T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 57973,
+          "titre": "BONNE ANNÉE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 14634,
+              "duree": 116,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133162,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30927,
+      "typeEvenement": 13,
+      "libelleEvenement": "MARIAGE",
+      "dateHeure": "2024-11-17T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 57892,
+          "titre": "MARIAGE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28102,
+              "duree": 98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133163,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30877,
+      "typeEvenement": 13,
+      "libelleEvenement": "BON ET LES MÉCHANTS (LE)",
+      "dateHeure": "2024-11-17T19:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 49805,
+          "titre": "BON ET LES MÉCHANTS",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28053,
+              "duree": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133171,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30892,
+      "typeEvenement": 13,
+      "libelleEvenement": "UN AUTRE HOMME, UNE AUTRE CHANCE",
+      "dateHeure": "2024-11-18T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 49822,
+          "titre": "UN AUTRE HOMME, UNE AUTRE CHANCE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 17094,
+              "duree": 136,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 16743,
+              "duree": 138
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133620,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30882,
+      "typeEvenement": 13,
+      "libelleEvenement": "PARTIR, REVENIR",
+      "dateHeure": "2024-11-18T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 49815,
+          "titre": "PARTIR, REVENIR",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28057,
+              "duree": 118
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133205,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30883,
+      "typeEvenement": 13,
+      "libelleEvenement": "EDITH ET MARCEL",
+      "dateHeure": "2024-11-20T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 49806,
+          "titre": "EDITH ET MARCEL",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28056,
+              "duree": 162
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133622,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30880,
+      "typeEvenement": 13,
+      "libelleEvenement": "UN HOMME ET UNE FEMME / PLUS BELLES ANNÉES D'UNE VIE (LES)",
+      "dateHeure": "2024-11-20T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 49686,
+          "titre": "UN HOMME ET UNE FEMME",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28039,
+              "duree": 102
+            }
+          ]
+        },
+        {
+          "idFilm": 142000,
+          "titre": "PLUS BELLES ANNÉES D'UNE VIE",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 28040,
+              "duree": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133626,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3382
+        }
+      ],
+      "idEvenement": 30885,
+      "typeEvenement": 13,
+      "libelleEvenement": "POUR UN MAILLOT JAUNE / TREIZE JOURS EN FRANCE / C'ÉTAIT UN RENDEZ-VOUS",
+      "dateHeure": "2024-11-21T17:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 79168,
+          "titre": "POUR UN MAILLOT JAUNE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28037,
+              "duree": 27
+            }
+          ]
+        },
+        {
+          "idFilm": 107860,
+          "titre": "C'ÉTAIT UN RENDEZ-VOUS",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 28038,
+              "duree": 9
+            }
+          ]
+        },
+        {
+          "idFilm": 62437,
+          "titre": "TREIZE JOURS EN FRANCE",
+          "ordre": 3,
+          "copies": [
+            {
+              "idCopie": 5658,
+              "duree": 115,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133245,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30891,
+      "typeEvenement": 13,
+      "libelleEvenement": "UNS ET LES AUTRES (LES)",
+      "dateHeure": "2024-11-21T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 49808,
+          "titre": "UNS ET LES AUTRES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28055,
+              "duree": 184
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133247,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30881,
+      "typeEvenement": 13,
+      "libelleEvenement": "D'UN FILM À L'AUTRE",
+      "dateHeure": "2024-11-21T20:15:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "idFilm": 113063,
+          "titre": "D'UN FILM À L'AUTRE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28062,
+              "duree": 133,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133623,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30888,
+      "typeEvenement": 13,
+      "libelleEvenement": "ROMAN DE GARE",
+      "dateHeure": "2024-11-22T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 101961,
+          "titre": "ROMAN DE GARE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28061,
+              "duree": 105,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133288,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30887,
+      "typeEvenement": 13,
+      "libelleEvenement": "IL Y A DES JOURS ET DES LUNES",
+      "dateHeure": "2024-11-22T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 49807,
+          "titre": "IL Y A DES JOURS ET DES LUNES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28059,
+              "duree": 117
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133329,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30890,
+      "typeEvenement": 13,
+      "libelleEvenement": "MISÉRABLES (LES)",
+      "dateHeure": "2024-11-23T14:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 52585,
+          "titre": "MISÉRABLES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28060,
+              "duree": 175
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133330,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30896,
+      "typeEvenement": 13,
+      "libelleEvenement": "UN + UNE",
+      "dateHeure": "2024-11-23T18:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 129283,
+          "titre": "UN + UNE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28063,
+              "duree": 113
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133331,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30889,
+      "typeEvenement": 13,
+      "libelleEvenement": "ITINÉRAIRE D'UN ENFANT GÂTÉ",
+      "dateHeure": "2024-11-23T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 49820,
+          "titre": "ITINÉRAIRE D'UN ENFANT GÂTÉ",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28058,
+              "duree": 124
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133625,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30898,
+      "typeEvenement": 13,
+      "libelleEvenement": "TOUTE UNE VIE",
+      "dateHeure": "2024-11-24T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 49821,
+          "titre": "TOUTE UNE VIE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28052,
+              "duree": 134
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133627,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30897,
+      "typeEvenement": 13,
+      "libelleEvenement": "SMIC, SMAC, SMOC",
+      "dateHeure": "2024-11-24T20:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 58209,
+          "titre": "SMIC, SMAC, SMOC",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28048,
+              "duree": 92
             }
           ]
         }

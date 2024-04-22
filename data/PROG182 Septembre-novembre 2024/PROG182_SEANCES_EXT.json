@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-22T10:58:54.479Z",
+  "updatedAt": "2024-04-22T13:10:03.173Z",
   "data": [
     {
       "idSeance": 130975,
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "idSeance": 133617,
+      "idSeance": 133624,
       "idProg": 182,
       "idCyclesCategories": [
         {
@@ -348,44 +348,6 @@
       ]
     },
     {
-      "idSeance": 131094,
-      "idProg": 182,
-      "idCyclesCategories": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367
-        }
-      ],
-      "idEvenement": 30745,
-      "typeEvenement": 13,
-      "libelleEvenement": "VACANCES",
-      "dateHeure": "2024-08-31T17:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 56960,
-          "realisateurs": "George Cukor",
-          "titre": "Vacances",
-          "titreVo": "Holiday",
-          "annee": 1938,
-          "generique": "Katharine Hepburn, Cary Grant, Doris Nolan",
-          "adaptation": "D'après la pièce _Holiday_ de Philip Barry.",
-          "miniTexte": "Huis clos théâtral désopilant, qui marque les retrouvailles de Cukor avec Cary Grant et Katharine Hepburn, trois ans après _Sylvia Scarlett_. Sur un scénario inventif, la mise en scène élégante souligne l'excellence des dialogues et une impeccable galerie de seconds rôles dans une critique acérée du capitalisme.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 26417,
-              "duree": 96,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 131098,
       "idProg": 182,
       "idCyclesCategories": [
@@ -423,7 +385,7 @@
       ]
     },
     {
-      "idSeance": 131095,
+      "idSeance": 131094,
       "idProg": 182,
       "idCyclesCategories": [
         {
@@ -431,29 +393,27 @@
           "idCategorie": 3367
         }
       ],
-      "idEvenement": 30709,
+      "idEvenement": 30745,
       "typeEvenement": 13,
-      "libelleEvenement": "FEMMES",
-      "dateHeure": "2024-08-31T19:15:00",
+      "libelleEvenement": "VACANCES",
+      "dateHeure": "2024-08-31T18:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 31479,
+          "idFilm": 56960,
           "realisateurs": "George Cukor",
-          "titre": "Femmes",
-          "titreVo": "Women",
-          "artVo": "The",
-          "annee": 1939,
-          "generique": "Norma Shearer, Joan Crawford, Rosalind Russell",
-          "adaptation": "D'après la pièce _The Women_ de Clare Boothe Luce.",
-          "synopsis": "Dans un institut de beauté, les conversations entre femmes portent sur les hommes : ceux qu'on aime, ceux qui trompent, ceux qui mentent, ceux à qui l'on pardonne. Médisances et calomnies conduisent l'une d'entre elles à divorcer un peu trop rapidement.",
-          "miniTexte": "Qu'elles parlent de l'homme qu'elles convoitent, qu'elles épousent ou qu'elles quittent, les femmes de Cukor sont jalouses, méchantes, coquettes ou arrivistes. Jeu stylisé et répliques assassines, le film, sorti en 1939, est une excellente peinture de mœurs portée par un casting exclusivement féminin. Une guerre des sexes, sans hommes, d'une éclatante subtilité.",
+          "titre": "Vacances",
+          "titreVo": "Holiday",
+          "annee": 1938,
+          "generique": "Katharine Hepburn, Cary Grant, Doris Nolan",
+          "adaptation": "D'après la pièce _Holiday_ de Philip Barry.",
+          "miniTexte": "Huis clos théâtral désopilant, qui marque les retrouvailles de Cukor avec Cary Grant et Katharine Hepburn, trois ans après _Sylvia Scarlett_. Sur un scénario inventif, la mise en scène élégante souligne l'excellence des dialogues et une impeccable galerie de seconds rôles dans une critique acérée du capitalisme.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 17317,
-              "duree": 133,
+              "idCopie": 26417,
+              "duree": 96,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
@@ -512,6 +472,46 @@
           "annee": 2018,
           "status": 0,
           "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131095,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367
+        }
+      ],
+      "idEvenement": 30709,
+      "typeEvenement": 13,
+      "libelleEvenement": "FEMMES",
+      "dateHeure": "2024-08-31T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31479,
+          "realisateurs": "George Cukor",
+          "titre": "Femmes",
+          "titreVo": "Women",
+          "artVo": "The",
+          "annee": 1939,
+          "generique": "Norma Shearer, Joan Crawford, Rosalind Russell",
+          "adaptation": "D'après la pièce _The Women_ de Clare Boothe Luce.",
+          "synopsis": "Dans un institut de beauté, les conversations entre femmes portent sur les hommes : ceux qu'on aime, ceux qui trompent, ceux qui mentent, ceux à qui l'on pardonne. Médisances et calomnies conduisent l'une d'entre elles à divorcer un peu trop rapidement.",
+          "miniTexte": "Qu'elles parlent de l'homme qu'elles convoitent, qu'elles épousent ou qu'elles quittent, les femmes de Cukor sont jalouses, méchantes, coquettes ou arrivistes. Jeu stylisé et répliques assassines, le film, sorti en 1939, est une excellente peinture de mœurs portée par un casting exclusivement féminin. Une guerre des sexes, sans hommes, d'une éclatante subtilité.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 17317,
+              "duree": 133,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -930,6 +930,198 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 132171,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373
+        }
+      ],
+      "idEvenement": 30781,
+      "typeEvenement": 13,
+      "libelleEvenement": "KARDIOGRAMMA",
+      "dateHeure": "2024-10-11T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 60519,
+          "realisateurs": "Darejan Omirbaev",
+          "titre": "Kardiogramma",
+          "annee": 1995,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 132172,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373
+        }
+      ],
+      "idEvenement": 30783,
+      "typeEvenement": 13,
+      "libelleEvenement": "TUEUR À GAGES",
+      "dateHeure": "2024-10-11T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 29437,
+          "realisateurs": "Darejan Omirbaev",
+          "titre": "Tueur à gages",
+          "titreVo": "Killer",
+          "annee": 1997,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 132213,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373
+        }
+      ],
+      "idEvenement": 30782,
+      "typeEvenement": 13,
+      "libelleEvenement": "ROUTE (LA)",
+      "dateHeure": "2024-10-12T14:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 76647,
+          "realisateurs": "Darejan Omirbaev",
+          "titre": "Route",
+          "art": "La",
+          "titreVo": "Jol",
+          "annee": 2000,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 132214,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373
+        }
+      ],
+      "idEvenement": 30779,
+      "typeEvenement": 13,
+      "libelleEvenement": "CHOUGA",
+      "dateHeure": "2024-10-12T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 106346,
+          "realisateurs": "Darejan Omirbaev",
+          "titre": "Chouga",
+          "titreVo": "Shuga",
+          "annee": 2007,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 133631,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373
+        }
+      ],
+      "idEvenement": 30779,
+      "typeEvenement": 13,
+      "libelleEvenement": "CHOUGA",
+      "dateHeure": "2024-10-12T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 106346,
+          "realisateurs": "Darejan Omirbaev",
+          "titre": "Chouga",
+          "titreVo": "Shuga",
+          "annee": 2007,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 133632,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373
+        }
+      ],
+      "idEvenement": 30784,
+      "typeEvenement": 13,
+      "libelleEvenement": "ETUDIANT (L')",
+      "dateHeure": "2024-10-13T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 116510,
+          "realisateurs": "Darezhan Omirbayev",
+          "titre": "Etudiant",
+          "art": "L'",
+          "titreVo": "Student",
+          "annee": 2011,
+          "adaptation": "D'après le roman _Crime et châtiment_ de Fiodor Mikhaïlovitch Dostoïevski.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 132233,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373
+        }
+      ],
+      "idEvenement": 30785,
+      "typeEvenement": 13,
+      "libelleEvenement": "POÈTE (LE )",
+      "dateHeure": "2024-10-13T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154832,
+          "realisateurs": "Darezhan Omirbaev",
+          "titre": "Poète",
+          "art": "Le",
+          "titreVo": "Akyn",
+          "annee": 2021,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 132463,
       "idProg": 182,
       "idCyclesCategories": [
@@ -976,6 +1168,33 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 133629,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21674,
+      "typeEvenement": 13,
+      "libelleEvenement": "MY FRIEND THE KING",
+      "dateHeure": "2024-10-24T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 107575,
+          "realisateurs": "Michael Powell",
+          "titre": "My Friend the King",
+          "annee": 1931,
+          "synopsis": "Jim, chauffeur de taxi, se lie d'amitié avec le jeune Roi Ludwig, alors en voyage à Londres. Il va alors se retrouver dans de folles aventures... (Attention : 1 seule source : WIKI ANG)",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 132502,
       "idProg": 182,
       "idCyclesCategories": [
@@ -1010,6 +1229,321 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 133630,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21681,
+      "typeEvenement": 13,
+      "libelleEvenement": "TWO CROWDED HOURS",
+      "dateHeure": "2024-10-24T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 107603,
+          "realisateurs": "Michael Powell",
+          "titre": "Two Crowded Hours",
+          "annee": 1931,
+          "synopsis": "Evadé de prison, un meurtrier cherche à éliminer ceux qui ont témoigné contre lui. Aidé par un conducteur de taxi, un policier se met à sa recherche.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 132581,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21695,
+      "typeEvenement": 13,
+      "libelleEvenement": "COLONEL BLIMP",
+      "dateHeure": "2024-10-26T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42024,
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "titre": "Colonel Blimp",
+          "titreVo": "Life and Death of Colonel Blimp",
+          "artVo": "The",
+          "annee": 1942,
+          "generique": "Anton Walbrook, Deborah Kerr, Roger Livesey, Roland Culver",
+          "synopsis": "A la suite d'un duel, Candy et Théo, respectivement anglais et allemand, se lient d'amitié l'un pour l'autre.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20203,
+              "duree": 163,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 3199,
+              "duree": 163,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 20215,
+              "duree": 163,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132582,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21692,
+      "typeEvenement": 13,
+      "libelleEvenement": "CHAUSSONS ROUGES (LES)",
+      "dateHeure": "2024-10-26T17:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42561,
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "titre": "Chaussons rouges",
+          "art": "Les",
+          "titreVo": "Red Shoes",
+          "artVo": "The",
+          "annee": 1947,
+          "adaptation": "D'après la nouvelle _De røde sko_ de Hans Christian Andersen.",
+          "synopsis": "Quand Victoria, danseuse étoile des « Chaussons rouges », tombe amoureuse du compositeur de l'opéra, le cruel directeur va tout faire pour, au nom de l'art, séparer les deux jeunes amoureux.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20216,
+              "duree": 133,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132583,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21688,
+      "typeEvenement": 13,
+      "libelleEvenement": "RENARDE (LA)",
+      "dateHeure": "2024-10-26T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41089,
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "titre": "Renarde",
+          "art": "La",
+          "titreVo": "Gone to Earth",
+          "annee": 1950,
+          "adaptation": "D'après le roman _Gone to earth_ de Mary Webb.",
+          "synopsis": "Au XIXe siecle, en Angleterre près du pays de Galles, Hazel Woodus vit en communion avec la nature. Elle a pour amie et confidente une renarde. Mais le châtelain, chasseur de renards, la poursuit, tandis que le pasteur du village la demande en mariage.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20278,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 27063,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132687,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21665,
+      "typeEvenement": 13,
+      "libelleEvenement": "VOYEUR (LE)",
+      "dateHeure": "2024-10-31T19:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35996,
+          "realisateurs": "Michael Powell",
+          "titre": "Voyeur",
+          "art": "Le",
+          "titreVo": "Peeping Tom",
+          "annee": 1959,
+          "generique": "Karlheinz Böhm, Anna Massey, Maxine Audley, Moira Shearer",
+          "synopsis": "Un photographe tue ses modèles avec un stylet installé dans son trépied. Il filme la scène, cherchant ainsi à capturer le visage de la peur.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20208,
+              "duree": 101,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132727,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21689,
+      "typeEvenement": 13,
+      "libelleEvenement": "A CANTERBURY TALE",
+      "dateHeure": "2024-11-01T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41074,
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "titre": "A Canterbury Tale",
+          "annee": 1944,
+          "synopsis": "Rencontrés par hasard à la sortie d'un train, un sergent américain en permission, un soldat anglais et une jeune volontaire se retrouvent à enquêter sur des agressions qui ont lieu dans ce village aux abords de Canterbury...",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20288,
+              "duree": 125,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 20234,
+              "duree": 125,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132728,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21700,
+      "typeEvenement": 13,
+      "libelleEvenement": "UNE QUESTION DE VIE OU DE MORT",
+      "dateHeure": "2024-11-01T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41083,
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "titre": "Une question de vie ou de mort",
+          "titreVo": "A Matter of Life and Death",
+          "annee": 1946,
+          "synopsis": "Alors que son bombardier prend feu, le commandant Peter Carter s'en sort indemne. Peu de temps après, son guide céleste vient néanmoins le trouver, lui expliquant qu'il n'est pas parvenu à le trouver dans le brouillard. Il tente alors de le convaincre de le suivre au paradis.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20223,
+              "duree": 104,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132770,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21694,
+      "typeEvenement": 13,
+      "libelleEvenement": "CONTES D'HOFFMANN (LES)",
+      "dateHeure": "2024-11-02T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42029,
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "titre": "Contes d'Hoffmann",
+          "art": "Les",
+          "titreVo": "Tales of Hoffmann",
+          "artVo": "The",
+          "annee": 1950,
+          "generique": "Robert Rounseville, Moira Shearer, Robert Helpmann, Léonide Massine",
+          "adaptation": "D'après le livret français _Les Contes d'Hoffmann_ de Jules Barbier.  \nD'après l'opéra _Les Contes d'Hoffmann_ de Jacques Offenbach.  \nD'après l'adaptation de l'opéra de Jacques Offenbach _Les Contes d'Hoffmann_ de Dennis Arundell.",
+          "synopsis": "Alors qu'il attend son nouvel amour à la sortie d'un ballet, le poète Hoffmann se remémore trois expériences sentimentales malheureuses.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 5915,
+              "duree": 123,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 132983,
@@ -1115,6 +1649,69 @@
       ]
     },
     {
+      "idSeance": 133101,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30893,
+      "typeEvenement": 13,
+      "libelleEvenement": "UN HOMME QUI ME PLAÎT",
+      "dateHeure": "2024-11-15T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49740,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Un homme qui me plaît",
+          "annee": 1969,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28046,
+              "duree": 115
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133102,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30894,
+      "typeEvenement": 13,
+      "libelleEvenement": "VOYOU (LE)",
+      "dateHeure": "2024-11-15T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49811,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Voyou",
+          "art": "Le",
+          "annee": 1970,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28047,
+              "duree": 120
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133139,
       "idProg": 182,
       "idCyclesCategories": [
@@ -1141,6 +1738,599 @@
             {
               "idCopie": 28050,
               "duree": 122
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133144,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30878,
+      "typeEvenement": 13,
+      "libelleEvenement": "BONNE ANNÉE (LA)",
+      "dateHeure": "2024-11-16T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 57973,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Bonne année",
+          "art": "La",
+          "annee": 1973,
+          "generique": "Lino Ventura, Françoise Fabian, Charles Gérard",
+          "synopsis": "Apres six ans de prison pour cambriolage, un homme cherche la femme dont il était tombé amoureux à l'époque du hold-up malheureux. Il retrouve une femme émancipée, et entreprend de la reconquérir.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 14634,
+              "duree": 116,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133162,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30927,
+      "typeEvenement": 13,
+      "libelleEvenement": "MARIAGE",
+      "dateHeure": "2024-11-17T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 57892,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Mariage",
+          "annee": 1974,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28102,
+              "duree": 98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133163,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30877,
+      "typeEvenement": 13,
+      "libelleEvenement": "BON ET LES MÉCHANTS (LE)",
+      "dateHeure": "2024-11-17T19:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49805,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Bon et les méchants",
+          "art": "Le",
+          "annee": 1975,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28053,
+              "duree": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133171,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30892,
+      "typeEvenement": 13,
+      "libelleEvenement": "UN AUTRE HOMME, UNE AUTRE CHANCE",
+      "dateHeure": "2024-11-18T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49822,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Un autre homme, une autre chance",
+          "annee": 1976,
+          "generique": "Geneviève Bujold, James Caan, Francis Huster",
+          "synopsis": "Jeanne et Francis tombent amoureux et décident de partir pour le Nouveau Monde. En Arizona, ils rencontrent David et sa femme Mary. Après de nombreuses années et de nombreux drames, Jeanne et David se retrouvent.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 17094,
+              "duree": 136,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 16743,
+              "duree": 138
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133620,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30882,
+      "typeEvenement": 13,
+      "libelleEvenement": "PARTIR, REVENIR",
+      "dateHeure": "2024-11-18T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49815,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Partir, revenir",
+          "annee": 1984,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28057,
+              "duree": 118
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133205,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30883,
+      "typeEvenement": 13,
+      "libelleEvenement": "EDITH ET MARCEL",
+      "dateHeure": "2024-11-20T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49806,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Edith et Marcel",
+          "annee": 1982,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28056,
+              "duree": 162
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133622,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30880,
+      "typeEvenement": 13,
+      "libelleEvenement": "UN HOMME ET UNE FEMME / PLUS BELLES ANNÉES D'UNE VIE (LES)",
+      "dateHeure": "2024-11-20T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49686,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Un homme et une femme",
+          "annee": 1965,
+          "generique": "Anouk Aimée, Jean-Louis Trintignant, Pierre Barouh",
+          "synopsis": "Un homme et une femme, veufs tous les deux, se rencontrent à Deauville et tombent amoureux l'un de l'autre.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28039,
+              "duree": 102
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 142000,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Plus belles années d'une vie",
+          "art": "Les",
+          "annee": 2018,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28040,
+              "duree": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133626,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3382
+        }
+      ],
+      "idEvenement": 30885,
+      "typeEvenement": 13,
+      "libelleEvenement": "POUR UN MAILLOT JAUNE / TREIZE JOURS EN FRANCE / C'ÉTAIT UN RENDEZ-VOUS",
+      "dateHeure": "2024-11-21T17:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 79168,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Pour un maillot jaune",
+          "annee": 1965,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28037,
+              "duree": 27
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 107860,
+          "realisateurs": "Claude Lelouch",
+          "titre": "C'était un rendez-vous",
+          "annee": 1976,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28038,
+              "duree": 9
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 62437,
+          "realisateurs": "Claude Lelouch, François Reichenbach, Willy Bogner, [etc.]",
+          "titre": "Treize jours en France",
+          "annee": 1968,
+          "synopsis": "Documentaire sur les Jeux Olympiques de Grenoble de 1968. Plus qu'aux compétitions sportives le film s'intéresse aux à-côtés qui entourent toute manifestation.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 5658,
+              "duree": 115,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133245,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30891,
+      "typeEvenement": 13,
+      "libelleEvenement": "UNS ET LES AUTRES (LES)",
+      "dateHeure": "2024-11-21T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49808,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Uns et les autres",
+          "art": "Les",
+          "annee": 1980,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28055,
+              "duree": 184
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133247,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30881,
+      "typeEvenement": 13,
+      "libelleEvenement": "D'UN FILM À L'AUTRE",
+      "dateHeure": "2024-11-21T20:15:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 113063,
+          "realisateurs": "Claude Lelouch",
+          "titre": "D'un film à l'autre",
+          "annee": 2010,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28062,
+              "duree": 133,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133623,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30888,
+      "typeEvenement": 13,
+      "libelleEvenement": "ROMAN DE GARE",
+      "dateHeure": "2024-11-22T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 101961,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Roman de gare",
+          "annee": 2006,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28061,
+              "duree": 105,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133288,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30887,
+      "typeEvenement": 13,
+      "libelleEvenement": "IL Y A DES JOURS ET DES LUNES",
+      "dateHeure": "2024-11-22T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49807,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Il y a des jours et des lunes",
+          "annee": 1989,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28059,
+              "duree": 117
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133329,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30890,
+      "typeEvenement": 13,
+      "libelleEvenement": "MISÉRABLES (LES)",
+      "dateHeure": "2024-11-23T14:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 52585,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Misérables",
+          "art": "Les",
+          "annee": 1994,
+          "adaptation": "D'après le roman _Les misérables_ de Victor Hugo.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28060,
+              "duree": 175
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133330,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30896,
+      "typeEvenement": 13,
+      "libelleEvenement": "UN + UNE",
+      "dateHeure": "2024-11-23T18:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 129283,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Un + une",
+          "annee": 2015,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28063,
+              "duree": 113
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133331,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30889,
+      "typeEvenement": 13,
+      "libelleEvenement": "ITINÉRAIRE D'UN ENFANT GÂTÉ",
+      "dateHeure": "2024-11-23T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49820,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Itinéraire d'un enfant gâté",
+          "annee": 1988,
+          "generique": "Jean-Paul Belmondo, Richard Anconina, Marie-Sophie L.",
+          "synopsis": "Sam a été élevé dans le milieu du cirque puis a fait une reconversion forcée comme chef d'entreprise. À la cinquantaine, il se lasse de ses responsabilités et décide de disparaître en Afrique.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28058,
+              "duree": 124
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133625,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30898,
+      "typeEvenement": 13,
+      "libelleEvenement": "TOUTE UNE VIE",
+      "dateHeure": "2024-11-24T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49821,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Toute une vie",
+          "annee": 1973,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28052,
+              "duree": 134
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133627,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381
+        }
+      ],
+      "idEvenement": 30897,
+      "typeEvenement": 13,
+      "libelleEvenement": "SMIC, SMAC, SMOC",
+      "dateHeure": "2024-11-24T20:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 58209,
+          "realisateurs": "Claude Lelouch",
+          "titre": "Smic, Smac, Smoc",
+          "annee": 1971,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28048,
+              "duree": 92
             }
           ]
         }
