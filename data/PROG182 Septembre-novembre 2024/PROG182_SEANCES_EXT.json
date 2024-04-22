@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-22T15:01:00.067Z",
+  "updatedAt": "2024-04-22T15:37:02.557Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1528,6 +1528,283 @@
       ]
     },
     {
+      "idSeance": 131385,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30834,
+      "typeEvenement": 13,
+      "libelleEvenement": "NUITS BLANCHES (LES)",
+      "dateHeure": "2024-09-12T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43892,
+          "realisateurs": "Luchino Visconti",
+          "titre": "Nuits blanches",
+          "art": "Les",
+          "titreVo": "Notti bianche",
+          "artVo": "Le",
+          "annee": 1957,
+          "generique": "Marcello Mastroianni, Maria Schell, Jean Marais",
+          "adaptation": "D'après le roman _Les Nuits blanches_ de Fiodor Mikhaïlovitch Dostoïevski.",
+          "synopsis": "Une nuit, un homme rencontre une jeune femme oubliée par son amant et qui vit dans l'espoir de son retour.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28065,
+              "duree": 107,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131386,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30835,
+      "typeEvenement": 13,
+      "libelleEvenement": "PIGEON (LE)",
+      "dateHeure": "2024-09-12T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43797,
+          "realisateurs": "Mario Monicelli",
+          "titre": "Pigeon",
+          "art": "Le",
+          "titreVo": "Soliti ignoti",
+          "artVo": "I",
+          "annee": 1958,
+          "generique": "Marcello Mastroianni, Vittorio Gassman, Totò, Claudia Cardinale",
+          "synopsis": "En prison, Cosimo révèle à Peppe les détails du gros coup infaillible qu'il se réserve pour sa sortie. Mais Peppe est libéré le premier et organise le casse avec les complices de Cosimo.",
+          "commentaire": "Enthousiasmés par le film de Jules Dassin, _Du rififi chez les hommes_, Monicelli et ses scénaristes. Cecchi D'Amico, Age et Scarpelli. imaginent une version italienne. Une bande de branquignols se mettent en tête d'organiser le casse du siècle, évidemment foireux. Au-delà de la cocasserie, le film reflète ce climat d'amertume et d'échec qui seront la marque de la comédie italienne. Ses interprètes s'y donnent de savoureuses répliques et campent des personnages aussi drôles que pittoresques. Artisans d'un fiasco flamboyant, ces clowns pitoyables contribuent à la magie de cette œuvre charnière, inspirant autant Louis Malle pour _Crackers_ que Bob Fosse à Broadway pour _Big Deal_.",
+          "status": 2,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131425,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30838,
+      "typeEvenement": 13,
+      "libelleEvenement": "NUIT (LA)",
+      "dateHeure": "2024-09-13T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42451,
+          "realisateurs": "Michelangelo Antonioni",
+          "titre": "Nuit",
+          "art": "La",
+          "titreVo": "Notte",
+          "artVo": "La",
+          "annee": 1960,
+          "generique": "Marcello Mastroianni, Jeanne Moreau, Monica Vitti",
+          "synopsis": "Les dernières heures vécues ensemble d'un couple d'intellectuels bourgeois, lors d'une soirée mondaine.",
+          "miniTexte": "Antonioni met en scène la destruction annoncée d'un couple, file la métaphore d'un urbanisme hostile pour figurer la fragilité des sentiments, amorce avec Mastroianni l'érosion de l'idéal mâle italien, et fait de Jeanne Moreau une égérie de la résignation. Il filme le vide, l'ennui, et invente une nouvelle forme qui à elle seule fait vaciller l'édifice du néoréalisme, et lui vaudra l'Ours d'or à Berlin.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 6223,
+              "duree": 122,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131426,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30839,
+      "typeEvenement": 13,
+      "libelleEvenement": "DIVORCE À L'ITALIENNE",
+      "dateHeure": "2024-09-13T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41959,
+          "realisateurs": "Pietro Germi",
+          "titre": "Divorce à l'italienne",
+          "titreVo": "Divorzio all'italiana",
+          "annee": 1961,
+          "generique": "Marcello Mastroianni, Daniela Rocca, Stefania Sandrelli",
+          "synopsis": "Un baron sicilien tombe amoureux de sa jeune cousine et cherche à se débarrasser de sa femme.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131465,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30842,
+      "typeEvenement": 13,
+      "libelleEvenement": "CAMARADES (LES)",
+      "dateHeure": "2024-09-14T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41255,
+          "realisateurs": "Mario Monicelli",
+          "titre": "Camarades",
+          "art": "Les",
+          "titreVo": "Compagni",
+          "artVo": "I",
+          "annee": 1963,
+          "generique": "Marcello Mastroianni, Renato Salvatori, Bernard Blier",
+          "synopsis": "Turin, fin du XIX<sup>e</sup> siècle. Dans une fabrique textile, trois ouvriers entrent en conflit avec le contremaître. Alors que des sanctions tombent, l'instituteur Sinigaglia, un militant socialiste fraîchement arrivé de Gênes, pousse les travailleurs à s'organiser.",
+          "commentaire": "À travers le récit d'une lutte ouvrière à la fin du XIX<sup>e</sup> siècle, Monicelli tisse une fresque sociale lyrique sur les conditions de travail à l'usine, et le quotidien de familles d'ouvriers exploités. Un tableau naturaliste, émaillé de scènes de comédie qui n'altèrent en rien la force du propos. La photographie charbonneuse de Giuseppe Rotunno (_Rocco et ses frères_, _Le Guépard_), l'ampleur romanesque du récit et la formidable distribution franco-italienne font du film un pamphlet puissant, humaniste et engagé.",
+          "status": 2,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131466,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30844,
+      "typeEvenement": 13,
+      "libelleEvenement": "FEMME DU PRÊTRE (LA)",
+      "dateHeure": "2024-09-14T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59446,
+          "realisateurs": "Dino Risi",
+          "titre": "Femme du prêtre",
+          "art": "La",
+          "titreVo": "Moglie del prete",
+          "artVo": "La",
+          "annee": 1970,
+          "generique": "Marcello Mastroianni, Sophia Loren, Venantino Venantini",
+          "synopsis": "Valeria, chanteuse de guinguette désespérée par un chagrin d'amour, appelle SOS Amitié. Après s'être confiée, elle tente de se suicider mais en réchappe. Une fois rétablie, elle se met à la recherche de celui qui l'a écoutée.",
+          "miniTexte": "Couple le plus sensuel du cinéma italien, Sophia Loren et Marcello Mastroianni se retrouvent pour un formidable numéro d'acteurs. Dino Risi, avec son art de capter les gestes et les regards, dévoile tout en nuances la psychologie des personnages et apporte à son histoire tout le mordant qui caractérise son cinéma. Le thème du célibat et de la sexualité des prêtres n'est bien sûr qu'un alibi pour mieux dénoncer les faux-semblants de l'Église. Humour noir et impertinence, Risi dans son meilleur registre.",
+          "status": 2,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131467,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30845,
+      "typeEvenement": 13,
+      "libelleEvenement": "DRAME DE LA JALOUSIE",
+      "dateHeure": "2024-09-14T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42393,
+          "realisateurs": "Ettore Scola",
+          "titre": "Drame de la jalousie",
+          "titreVo": "Dramma della gelosia",
+          "annee": 1970,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131483,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30847,
+      "typeEvenement": 13,
+      "libelleEvenement": "RAPT À L'ITALIENNE",
+      "dateHeure": "2024-09-15T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45957,
+          "realisateurs": "Dino Risi",
+          "titre": "Rapt à l'italienne",
+          "titreVo": "Mordi e fuggi",
+          "annee": 1972,
+          "generique": "Marcello Mastroianni, Nicoletta Machiavelli, Oliver Reed",
+          "synopsis": "Un industriel et sa maîtresse sont pris en otage par une bande de terroristes en fuite.",
+          "status": 2,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 131495,
       "idProg": 182,
       "idCyclesCategories": [
@@ -1562,6 +1839,46 @@
         }
       ],
       "mention": "Avant-première"
+    },
+    {
+      "idSeance": 131533,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30841,
+      "typeEvenement": 13,
+      "libelleEvenement": "HUIT ET DEMI",
+      "dateHeure": "2024-09-18T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45182,
+          "realisateurs": "Federico Fellini",
+          "titre": "8½",
+          "titreVo": "Otto e mezzo",
+          "annee": 1962,
+          "generique": "Marcello Mastroianni, Claudia Cardinale, Anouk Aimée",
+          "synopsis": "Le cinéaste Guido Anselmi, en cure dans une station thermale, éprouve la crise du créateur. Alors qu'il cherche l'inspiration pour son prochain film, il se trouve happé par ses souvenirs et ses fantasmes.",
+          "commentaire": "« Au moment du tournage de _8½_, il m'arriva une chose que je redoutais depuis longtemps. Je fus victime d'un blocage, comme les écrivains en ont parfois devant leur page blanche. » Le blocage de Fellini devint le sujet même du film. Les angoisses d'un cinéaste en mal d'inspiration et en mal de vivre tout court. Guido/Mastroianni, double notoire arborant tous les attributs felliniens (manteau noir, écharpe et Borsalino), se laisse porter par le souffle du vent à travers les fantasmes et les rêves du passé, jusqu'à la farandole finale, d'une beauté infinie, indissociable du thème légendaire de la fanfare de Nino Rota.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 16659,
+              "duree": 138,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 131681,

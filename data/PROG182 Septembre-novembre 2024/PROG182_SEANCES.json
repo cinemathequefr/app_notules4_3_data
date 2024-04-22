@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-22T15:00:59.849Z",
+  "updatedAt": "2024-04-22T15:37:02.305Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1279,6 +1279,222 @@
       ]
     },
     {
+      "idSeance": 131385,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30834,
+      "typeEvenement": 13,
+      "libelleEvenement": "NUITS BLANCHES (LES)",
+      "dateHeure": "2024-09-12T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 43892,
+          "titre": "NUITS BLANCHES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28065,
+              "duree": 107,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131386,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30835,
+      "typeEvenement": 13,
+      "libelleEvenement": "PIGEON (LE)",
+      "dateHeure": "2024-09-12T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 43797,
+          "titre": "PIGEON",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131425,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30838,
+      "typeEvenement": 13,
+      "libelleEvenement": "NUIT (LA)",
+      "dateHeure": "2024-09-13T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 42451,
+          "titre": "NUIT",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 6223,
+              "duree": 122,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131426,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30839,
+      "typeEvenement": 13,
+      "libelleEvenement": "DIVORCE À L'ITALIENNE",
+      "dateHeure": "2024-09-13T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 41959,
+          "titre": "DIVORCE À L'ITALIENNE",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131465,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30842,
+      "typeEvenement": 13,
+      "libelleEvenement": "CAMARADES (LES)",
+      "dateHeure": "2024-09-14T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 41255,
+          "titre": "CAMARADES",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131466,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30844,
+      "typeEvenement": 13,
+      "libelleEvenement": "FEMME DU PRÊTRE (LA)",
+      "dateHeure": "2024-09-14T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 59446,
+          "titre": "FEMME DU PRÊTRE",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131467,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30845,
+      "typeEvenement": 13,
+      "libelleEvenement": "DRAME DE LA JALOUSIE",
+      "dateHeure": "2024-09-14T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 42393,
+          "titre": "DRAME DE LA JALOUSIE",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131483,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30847,
+      "typeEvenement": 13,
+      "libelleEvenement": "RAPT À L'ITALIENNE",
+      "dateHeure": "2024-09-15T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 45957,
+          "titre": "RAPT À L'ITALIENNE",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 131495,
       "idProg": 182,
       "idCyclesCategories": [
@@ -1310,6 +1526,39 @@
         }
       ],
       "mention": "Avant-première"
+    },
+    {
+      "idSeance": 131533,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30841,
+      "typeEvenement": 13,
+      "libelleEvenement": "HUIT ET DEMI",
+      "dateHeure": "2024-09-18T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 45182,
+          "titre": "HUIT ET DEMI",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 16659,
+              "duree": 138,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 131681,
