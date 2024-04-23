@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-22T15:37:02.305Z",
+  "updatedAt": "2024-04-23T07:54:51.936Z",
   "data": [
     {
       "idSeance": 130975,
@@ -713,17 +713,11 @@
           "ordre": 1,
           "copies": [
             {
-              "idCopie": 6050,
-              "duree": 101,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 14792,
               "duree": 101,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
@@ -961,40 +955,7 @@
       ]
     },
     {
-      "idSeance": 131279,
-      "idProg": 182,
-      "idCyclesCategories": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30743,
-      "typeEvenement": 13,
-      "libelleEvenement": "UNE ÉTOILE EST NÉE",
-      "dateHeure": "2024-09-07T14:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "idFilm": 31402,
-          "titre": "UNE ÉTOILE EST NÉE",
-          "ordre": 1,
-          "copies": [
-            {
-              "idCopie": 10526,
-              "duree": 176,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 131283,
+      "idSeance": 131241,
       "idProg": 182,
       "idCyclesCategories": [
         {
@@ -1004,61 +965,53 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30047,
+      "idEvenement": 30672,
       "typeEvenement": 13,
-      "libelleEvenement": "VÉNUS AVEUGLE",
-      "dateHeure": "2024-09-07T15:00:00",
+      "libelleEvenement": "CYRANO ET D'ARTAGNAN",
+      "dateHeure": "2024-09-06T19:30:00",
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 48693,
-          "titre": "VÉNUS AVEUGLE",
+          "idFilm": 48588,
+          "titre": "CYRANO ET D'ARTAGNAN",
           "ordre": 1,
           "copies": []
         }
       ]
     },
     {
-      "idSeance": 131280,
+      "idSeance": 133636,
       "idProg": 182,
       "idCyclesCategories": [
         {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30722,
+      "idEvenement": 30078,
       "typeEvenement": 13,
-      "libelleEvenement": "GIRLS (LES)",
-      "dateHeure": "2024-09-07T18:00:00",
+      "libelleEvenement": "ROUE (LA)",
+      "dateHeure": "2024-09-07T14:30:00",
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 31422,
-          "titre": "LES GIRLS",
+          "idFilm": 48689,
+          "titre": "ROUE",
           "ordre": 1,
           "copies": [
             {
-              "idCopie": 16567,
-              "duree": 114,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 27983,
-              "duree": 114,
-              "format": "35 mm",
-              "version": "VO"
+              "idCopie": 28092,
+              "duree": 365,
+              "format": "DCP"
             }
           ]
         }
       ]
     },
     {
-      "idSeance": 131281,
+      "idSeance": 133638,
       "idProg": 182,
       "idCyclesCategories": [
         {
@@ -1068,23 +1021,88 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30728,
+      "idEvenement": 30748,
       "typeEvenement": 13,
-      "libelleEvenement": "MILLIARDAIRE (LE)",
-      "dateHeure": "2024-09-07T20:30:00",
-      "idSalle": "HL",
+      "libelleEvenement": "WHAT PRICE HOLLYWOOD?",
+      "dateHeure": "2024-09-07T15:00:00",
+      "idSalle": "GF",
       "items": [
         {
-          "idFilm": 31468,
-          "titre": "MILLIARDAIRE",
+          "idFilm": 31528,
+          "titre": "WHAT PRICE HOLLYWOOD ?",
           "ordre": 1,
           "copies": [
             {
-              "idCopie": 22735,
-              "duree": 119,
-              "format": "DCP",
+              "idCopie": 8506,
+              "duree": 88,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131284,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30733,
+      "typeEvenement": 13,
+      "libelleEvenement": "QUATRE FILLES DU DOCTEUR MARCH (LES)",
+      "dateHeure": "2024-09-07T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 31471,
+          "titre": "QUATRE FILLES DU DOCTEUR MARCH",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 25532,
+              "duree": 115,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131285,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30714,
+      "typeEvenement": 13,
+      "libelleEvenement": "HAUTE SOCIÉTÉ",
+      "dateHeure": "2024-09-07T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 80555,
+          "titre": "HAUTE SOCIÉTÉ",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 6936,
+              "duree": 83,
+              "format": "35 mm",
+              "version": "VO"
             }
           ]
         }
@@ -1350,7 +1368,7 @@
       "idEvenement": 30838,
       "typeEvenement": 13,
       "libelleEvenement": "NUIT (LA)",
-      "dateHeure": "2024-09-13T19:00:00",
+      "dateHeure": "2024-09-13T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1383,7 +1401,7 @@
       "idEvenement": 30839,
       "typeEvenement": 13,
       "libelleEvenement": "DIVORCE À L'ITALIENNE",
-      "dateHeure": "2024-09-13T21:00:00",
+      "dateHeure": "2024-09-13T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1395,77 +1413,45 @@
       ]
     },
     {
-      "idSeance": 131465,
+      "idSeance": 133639,
       "idProg": 182,
       "idCyclesCategories": [
         {
-          "idCycle": 786,
-          "idCategorie": 3371,
-          "titreCycle": "Marcello Mastroianni",
-          "titreSousCycle": "Les films"
+          "idCycle": 11,
+          "idCategorie": 3351,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Napoléon vu par Abel Gance"
         }
       ],
-      "idEvenement": 30842,
+      "idEvenement": 30629,
       "typeEvenement": 13,
-      "libelleEvenement": "CAMARADES (LES)",
+      "libelleEvenement": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 1 / NAPOLÉON VU PAR ABEL GANCE – PARTIE 2",
       "dateHeure": "2024-09-14T14:30:00",
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 41255,
-          "titre": "CAMARADES",
+          "idFilm": 154798,
+          "titre": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 1",
           "ordre": 1,
-          "copies": []
-        }
-      ]
-    },
-    {
-      "idSeance": 131466,
-      "idProg": 182,
-      "idCyclesCategories": [
+          "copies": [
+            {
+              "idCopie": 27803,
+              "duree": 220,
+              "format": "DCP"
+            }
+          ]
+        },
         {
-          "idCycle": 786,
-          "idCategorie": 3371,
-          "titreCycle": "Marcello Mastroianni",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30844,
-      "typeEvenement": 13,
-      "libelleEvenement": "FEMME DU PRÊTRE (LA)",
-      "dateHeure": "2024-09-14T17:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "idFilm": 59446,
-          "titre": "FEMME DU PRÊTRE",
-          "ordre": 1,
-          "copies": []
-        }
-      ]
-    },
-    {
-      "idSeance": 131467,
-      "idProg": 182,
-      "idCyclesCategories": [
-        {
-          "idCycle": 786,
-          "idCategorie": 3371,
-          "titreCycle": "Marcello Mastroianni",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30845,
-      "typeEvenement": 13,
-      "libelleEvenement": "DRAME DE LA JALOUSIE",
-      "dateHeure": "2024-09-14T19:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "idFilm": 42393,
-          "titre": "DRAME DE LA JALOUSIE",
-          "ordre": 1,
-          "copies": []
+          "idFilm": 154797,
+          "titre": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 2",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 27804,
+              "duree": 205,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },
@@ -1489,6 +1475,56 @@
         {
           "idFilm": 45957,
           "titre": "RAPT À L'ITALIENNE",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131488,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30047,
+      "typeEvenement": 13,
+      "libelleEvenement": "VÉNUS AVEUGLE",
+      "dateHeure": "2024-09-15T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 48693,
+          "titre": "VÉNUS AVEUGLE",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131484,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30848,
+      "typeEvenement": 13,
+      "libelleEvenement": "GRANDE BOUFFE (LA)",
+      "dateHeure": "2024-09-15T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "idFilm": 48437,
+          "titre": "GRANDE BOUFFE",
           "ordre": 1,
           "copies": []
         }
@@ -1528,6 +1564,31 @@
       "mention": "Avant-première"
     },
     {
+      "idSeance": 131535,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 794,
+          "idCategorie": 3383,
+          "titreCycle": "Sophie Fillières",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30906,
+      "typeEvenement": 13,
+      "libelleEvenement": "GRANDE PETITE",
+      "dateHeure": "2024-09-18T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 52078,
+          "titre": "GRANDE PETITE",
+          "ordre": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 131533,
       "idProg": 182,
       "idCyclesCategories": [
@@ -1557,6 +1618,31 @@
               "sousTitres": "STF"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131536,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 794,
+          "idCategorie": 3383,
+          "titreCycle": "Sophie Fillières",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30901,
+      "typeEvenement": 13,
+      "libelleEvenement": "AÏE",
+      "dateHeure": "2024-09-18T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 69656,
+          "titre": "AÏE",
+          "ordre": 1,
+          "copies": []
         }
       ]
     },

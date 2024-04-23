@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-22T15:37:02.557Z",
+  "updatedAt": "2024-04-23T07:54:52.232Z",
   "data": [
     {
       "idSeance": 130975,
@@ -868,17 +868,11 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 6050,
-              "duree": 101,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 14792,
               "duree": 101,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
@@ -1155,47 +1149,7 @@
       ]
     },
     {
-      "idSeance": 131279,
-      "idProg": 182,
-      "idCyclesCategories": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30743,
-      "typeEvenement": 13,
-      "libelleEvenement": "UNE ÉTOILE EST NÉE",
-      "dateHeure": "2024-09-07T14:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 31402,
-          "realisateurs": "George Cukor",
-          "titre": "Une étoile est née",
-          "titreVo": "A Star Is Born",
-          "annee": 1953,
-          "generique": "Judy Garland, James Mason, Jack Carson",
-          "adaptation": "D'après le scénario de _A star is born_ de Dorothy Parker et Alan Campbell.  \nD'après le scénario de _A star is born_ et d'après une histoire de Robert Carson.",
-          "synopsis": "Norman Maine, acteur vieillissant et alcoolique, décèle en Esther Blodgett, une jeune chanteuse, un talent qui ne demande qu'à s'épanouir.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 10526,
-              "duree": 176,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 131283,
+      "idSeance": 131241,
       "idProg": 182,
       "idCyclesCategories": [
         {
@@ -1205,71 +1159,60 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30047,
+      "idEvenement": 30672,
       "typeEvenement": 13,
-      "libelleEvenement": "VÉNUS AVEUGLE",
-      "dateHeure": "2024-09-07T15:00:00",
+      "libelleEvenement": "CYRANO ET D'ARTAGNAN",
+      "dateHeure": "2024-09-06T19:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 48693,
+          "idFilm": 48588,
           "realisateurs": "Abel Gance",
-          "titre": "Vénus aveugle",
-          "annee": 1940,
-          "generique": "Viviane Romance, Georges Flamant, Henri Guisol",
-          "synopsis": "Clarisse, belle jeune femme qui a posé pour la publicité des cigarettes « Vénus », apprend qu'elle va bientôt devenir aveugle. Pour éviter à son amant, Madère, la compagnie d'une infirme, elle simule une infidélité ce qui provoque leur rupture.",
+          "titre": "Cyrano et d'Artagnan",
+          "annee": 1962,
           "status": 0,
           "copies": []
         }
       ]
     },
     {
-      "idSeance": 131280,
+      "idSeance": 133636,
       "idProg": 182,
       "idCyclesCategories": [
         {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30722,
+      "idEvenement": 30078,
       "typeEvenement": 13,
-      "libelleEvenement": "GIRLS (LES)",
-      "dateHeure": "2024-09-07T18:00:00",
+      "libelleEvenement": "ROUE (LA)",
+      "dateHeure": "2024-09-07T14:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 31422,
-          "realisateurs": "George Cukor",
-          "titre": "Les Girls",
-          "annee": 1957,
-          "generique": "Gene Kelly, Mitzi Gaynor, Kay Kendall",
-          "synopsis": "Dans son livre « Les Girls », une ancienne danseuse raconte comment elle et ses amies sont devenues le trio vedette du célèbre danseur Barry Nichols. Mais elle est accusée de diffamation par une autre ex-girl.",
+          "idFilm": 48689,
+          "realisateurs": "Abel Gance",
+          "titre": "Roue",
+          "art": "La",
+          "annee": 1921,
           "status": 0,
           "copies": [
             {
-              "idCopie": 16567,
-              "duree": 114,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 27983,
-              "duree": 114,
-              "format": "35 mm",
-              "version": "VO"
+              "idCopie": 28092,
+              "duree": 365,
+              "format": "DCP"
             }
           ]
         }
       ]
     },
     {
-      "idSeance": 131281,
+      "idSeance": 133638,
       "idProg": 182,
       "idCyclesCategories": [
         {
@@ -1279,31 +1222,102 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30728,
+      "idEvenement": 30748,
       "typeEvenement": 13,
-      "libelleEvenement": "MILLIARDAIRE (LE)",
-      "dateHeure": "2024-09-07T20:30:00",
-      "idSalle": "HL",
+      "libelleEvenement": "WHAT PRICE HOLLYWOOD?",
+      "dateHeure": "2024-09-07T15:00:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 31468,
+          "idFilm": 31528,
           "realisateurs": "George Cukor",
-          "titre": "Milliardaire",
-          "art": "Le",
-          "titreVo": "Let's Make Love",
-          "annee": 1960,
-          "generique": "Marilyn Monroe, Yves Montand, Tony Randall",
-          "synopsis": "Jean-Marc Clément possède une puissante compagnie internationale, règne sur la bourse de New York et multiplie les conquêtes féminines. Apprenant un jour qu'il va être pris pour cible par un spectacle satirique de Broadway, il décide d'intégrer la troupe incognito.",
-          "commentaire": "Cukor décrit le monde du théâtre qu'il affectionne, et orchestre brillamment ce conte de fées en forme de vaudeville, ponctué de morceaux de roi : dans leurs propres rôles, Gene Kelly, Bing Crosby et le roi du stand-up Milton Berle. Montand séduit la candide Marilyn, ici dans un rôle qui lui ressemble furieusement. _« My Heart Belongs to Daddy »_, chante la star, alors au sommet, tandis qu'en filigrane la relation connue entre les deux acteurs semble habiter leur couple à l'écran.\n\n« Marilyn Monroe et moi, c'est une sorte de secret qui nous a rapprochés mutuellement. D'abord du milieu populaire d'où on venait l'un et l'autre. C'est parce qu'elle avait terriblement peur qu'elle arrivait en retard sur le plateau, et non pas pour faire des caprices de vedette. Dans l'intimité, elle était quelqu'un tout ce qu'il y a de plus normal. Mais c'était un personnage vivant. Il faut dire qu'à ce moment-là, le film que nous faisions était un film qu'elle aimait beaucoup, auquel elle croyait beaucoup, parce que pour une fois elle se sentait en sécurité, c'est-à-dire qu'elle n'avait pas de comédiens d'Hollywood autour d'elle. Certains avaient tendance à se moquer d'elle. Mais là, elle avait quelqu'un qui venait d'Europe, quelqu'un qui lui avait dit, dès le premier jour : Vous avez peur, mais moi je tremble. » (Yves Montand)",
-          "status": 2,
+          "titre": "What Price Hollywood ?",
+          "annee": 1932,
+          "status": 0,
           "copies": [
             {
-              "idCopie": 22735,
-              "duree": 119,
-              "format": "DCP",
+              "idCopie": 8506,
+              "duree": 88,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131284,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30733,
+      "typeEvenement": 13,
+      "libelleEvenement": "QUATRE FILLES DU DOCTEUR MARCH (LES)",
+      "dateHeure": "2024-09-07T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31471,
+          "realisateurs": "George Cukor",
+          "titre": "Quatre filles du docteur March",
+          "art": "Les",
+          "titreVo": "Little Women",
+          "annee": 1933,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 25532,
+              "duree": 115,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131285,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30714,
+      "typeEvenement": 13,
+      "libelleEvenement": "HAUTE SOCIÉTÉ",
+      "dateHeure": "2024-09-07T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80555,
+          "realisateurs": "George Cukor",
+          "titre": "Haute société",
+          "titreVo": "Our Better",
+          "annee": 1933,
+          "generique": "Constance Bennett, Violet Kemble Cooper, Phoebe Foster",
+          "synopsis": "Satire des relations humaines dans la haute société britannique des années trente.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 6936,
+              "duree": 83,
+              "format": "35 mm",
+              "version": "VO"
             }
           ]
         }
@@ -1617,7 +1631,7 @@
       "idEvenement": 30838,
       "typeEvenement": 13,
       "libelleEvenement": "NUIT (LA)",
-      "dateHeure": "2024-09-13T19:00:00",
+      "dateHeure": "2024-09-13T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1659,7 +1673,7 @@
       "idEvenement": 30839,
       "typeEvenement": 13,
       "libelleEvenement": "DIVORCE À L'ITALIENNE",
-      "dateHeure": "2024-09-13T21:00:00",
+      "dateHeure": "2024-09-13T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1677,99 +1691,51 @@
       ]
     },
     {
-      "idSeance": 131465,
+      "idSeance": 133639,
       "idProg": 182,
       "idCyclesCategories": [
         {
-          "idCycle": 786,
-          "idCategorie": 3371,
-          "titreCycle": "Marcello Mastroianni",
-          "titreSousCycle": "Les films"
+          "idCycle": 11,
+          "idCategorie": 3351,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Napoléon vu par Abel Gance"
         }
       ],
-      "idEvenement": 30842,
+      "idEvenement": 30629,
       "typeEvenement": 13,
-      "libelleEvenement": "CAMARADES (LES)",
+      "libelleEvenement": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 1 / NAPOLÉON VU PAR ABEL GANCE – PARTIE 2",
       "dateHeure": "2024-09-14T14:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 41255,
-          "realisateurs": "Mario Monicelli",
-          "titre": "Camarades",
-          "art": "Les",
-          "titreVo": "Compagni",
-          "artVo": "I",
-          "annee": 1963,
-          "generique": "Marcello Mastroianni, Renato Salvatori, Bernard Blier",
-          "synopsis": "Turin, fin du XIX<sup>e</sup> siècle. Dans une fabrique textile, trois ouvriers entrent en conflit avec le contremaître. Alors que des sanctions tombent, l'instituteur Sinigaglia, un militant socialiste fraîchement arrivé de Gênes, pousse les travailleurs à s'organiser.",
-          "commentaire": "À travers le récit d'une lutte ouvrière à la fin du XIX<sup>e</sup> siècle, Monicelli tisse une fresque sociale lyrique sur les conditions de travail à l'usine, et le quotidien de familles d'ouvriers exploités. Un tableau naturaliste, émaillé de scènes de comédie qui n'altèrent en rien la force du propos. La photographie charbonneuse de Giuseppe Rotunno (_Rocco et ses frères_, _Le Guépard_), l'ampleur romanesque du récit et la formidable distribution franco-italienne font du film un pamphlet puissant, humaniste et engagé.",
-          "status": 2,
-          "copies": []
-        }
-      ]
-    },
-    {
-      "idSeance": 131466,
-      "idProg": 182,
-      "idCyclesCategories": [
+          "idFilm": 154798,
+          "realisateurs": "Abel Gance",
+          "titre": "Napoléon vu par Abel Gance (partie 1)",
+          "annee": 1927,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 27803,
+              "duree": 220,
+              "format": "DCP"
+            }
+          ]
+        },
         {
-          "idCycle": 786,
-          "idCategorie": 3371,
-          "titreCycle": "Marcello Mastroianni",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30844,
-      "typeEvenement": 13,
-      "libelleEvenement": "FEMME DU PRÊTRE (LA)",
-      "dateHeure": "2024-09-14T17:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 59446,
-          "realisateurs": "Dino Risi",
-          "titre": "Femme du prêtre",
-          "art": "La",
-          "titreVo": "Moglie del prete",
-          "artVo": "La",
-          "annee": 1970,
-          "generique": "Marcello Mastroianni, Sophia Loren, Venantino Venantini",
-          "synopsis": "Valeria, chanteuse de guinguette désespérée par un chagrin d'amour, appelle SOS Amitié. Après s'être confiée, elle tente de se suicider mais en réchappe. Une fois rétablie, elle se met à la recherche de celui qui l'a écoutée.",
-          "miniTexte": "Couple le plus sensuel du cinéma italien, Sophia Loren et Marcello Mastroianni se retrouvent pour un formidable numéro d'acteurs. Dino Risi, avec son art de capter les gestes et les regards, dévoile tout en nuances la psychologie des personnages et apporte à son histoire tout le mordant qui caractérise son cinéma. Le thème du célibat et de la sexualité des prêtres n'est bien sûr qu'un alibi pour mieux dénoncer les faux-semblants de l'Église. Humour noir et impertinence, Risi dans son meilleur registre.",
-          "status": 2,
-          "copies": []
-        }
-      ]
-    },
-    {
-      "idSeance": 131467,
-      "idProg": 182,
-      "idCyclesCategories": [
-        {
-          "idCycle": 786,
-          "idCategorie": 3371,
-          "titreCycle": "Marcello Mastroianni",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30845,
-      "typeEvenement": 13,
-      "libelleEvenement": "DRAME DE LA JALOUSIE",
-      "dateHeure": "2024-09-14T19:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 42393,
-          "realisateurs": "Ettore Scola",
-          "titre": "Drame de la jalousie",
-          "titreVo": "Dramma della gelosia",
-          "annee": 1970,
-          "status": 0,
-          "copies": []
+          "ordre": 2,
+          "idFilm": 154797,
+          "realisateurs": "Abel Gance",
+          "titre": "Napoléon vu par Abel Gance (partie 2)",
+          "annee": 1927,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 27804,
+              "duree": 205,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },
@@ -1799,6 +1765,68 @@
           "annee": 1972,
           "generique": "Marcello Mastroianni, Nicoletta Machiavelli, Oliver Reed",
           "synopsis": "Un industriel et sa maîtresse sont pris en otage par une bande de terroristes en fuite.",
+          "status": 2,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131488,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30047,
+      "typeEvenement": 13,
+      "libelleEvenement": "VÉNUS AVEUGLE",
+      "dateHeure": "2024-09-15T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48693,
+          "realisateurs": "Abel Gance",
+          "titre": "Vénus aveugle",
+          "annee": 1940,
+          "generique": "Viviane Romance, Georges Flamant, Henri Guisol",
+          "synopsis": "Clarisse, belle jeune femme qui a posé pour la publicité des cigarettes « Vénus », apprend qu'elle va bientôt devenir aveugle. Pour éviter à son amant, Madère, la compagnie d'une infirme, elle simule une infidélité ce qui provoque leur rupture.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131484,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30848,
+      "typeEvenement": 13,
+      "libelleEvenement": "GRANDE BOUFFE (LA)",
+      "dateHeure": "2024-09-15T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48437,
+          "realisateurs": "Marco Ferreri",
+          "titre": "Grande bouffe",
+          "art": "La",
+          "annee": 1973,
+          "generique": "Marcello Mastroianni, Philippe Noiret, Michel Piccoli, Ugo Tognazzi, Andréa Ferréol",
+          "synopsis": "Fatigués de vivre, quatre hommes se réunissent dans une villa isolée pour célébrer la bouffe, le sexe, l'amitié et la mort.",
+          "commentaire": "Sur la table, pâtés de foie, poulettes de Bresse, cuissots de chevreuil, sein en gélatine et tarte aux fesses. Cest un banquet qui sent le vomi, la merde et le sexe. La chère et la chair se rejoignent dans un excès de sueurs, vertiges et hurlements. Tognazzi, Mastroianni, Piccoli et Noiret, accompagnés d'Andréa Ferréol, s'adonnent aux bacchanales de Ferreri, se goinfrant jusqu'à en crever. Quatre personnages dans leur rôle de machine. « Une machine à manger, à baiser, à chier », dans ce que le cinéaste décrit lui-même comme une « farce physiologique », exprimant un rejet catégorique de la société de consommation. Une œuvre radicale, d'un profond désespoir, qui laisse le public du Festival de Cannes au bord de la nausée. « C'est immonde ! Une ignominie ! Vous êtes de honteux pornographes ! », entend-on à la descente des marches. Le producteur Jean-Pierre Rassam profite du scandale pour faire monter la sauce et déclare que « les gens de cinéma sont tous des cons ». Les semaines suivantes, dans le plus grand calme, les spectateurs se rendent en nombre voir le film. Déjà culte.",
           "status": 2,
           "copies": []
         }
@@ -1841,6 +1869,35 @@
       "mention": "Avant-première"
     },
     {
+      "idSeance": 131535,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 794,
+          "idCategorie": 3383,
+          "titreCycle": "Sophie Fillières",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30906,
+      "typeEvenement": 13,
+      "libelleEvenement": "GRANDE PETITE",
+      "dateHeure": "2024-09-18T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 52078,
+          "realisateurs": "Sophie Fillières",
+          "titre": "Grande petite",
+          "annee": 1993,
+          "generique": "Judith Godrèche, Hélène Fillières, Emmanuel Salinger",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 131533,
       "idProg": 182,
       "idCyclesCategories": [
@@ -1877,6 +1934,35 @@
               "sousTitres": "STF"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131536,
+      "idProg": 182,
+      "idCyclesCategories": [
+        {
+          "idCycle": 794,
+          "idCategorie": 3383,
+          "titreCycle": "Sophie Fillières",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30901,
+      "typeEvenement": 13,
+      "libelleEvenement": "AÏE",
+      "dateHeure": "2024-09-18T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 69656,
+          "realisateurs": "Sophie Fillières",
+          "titre": "Aïe",
+          "annee": 1999,
+          "generique": "André Dussollier, Hélène Fillières, Emmanuelle Devos, Gisèle Casadesus",
+          "status": 0,
+          "copies": []
         }
       ]
     },
