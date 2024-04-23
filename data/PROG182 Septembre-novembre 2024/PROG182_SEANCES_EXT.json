@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-23T14:52:38.853Z",
+  "updatedAt": "2024-04-23T16:06:24.937Z",
   "data": [
     {
       "idSeance": 130975,
@@ -747,7 +747,13 @@
           "generique": "Edwige Feuillère, Gabriel Gabrio, Roger Karl, Maurice Escande",
           "synopsis": "César Borgia, fils du pape, suit les conseils du cruel Machiavel et décide de se servir de sa charmante sœur pour amadouer et éliminer ses principaux rivaux.",
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 13244,
+              "duree": 92,
+              "format": "35 mm"
+            }
+          ]
         }
       ]
     },
@@ -837,7 +843,9 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28115
+              "idCopie": 28115,
+              "duree": 114,
+              "format": "35 mm"
             }
           ]
         }
