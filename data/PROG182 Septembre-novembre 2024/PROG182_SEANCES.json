@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-24T08:18:08.375Z",
+  "updatedAt": "2024-04-24T10:27:58.825Z",
   "data": [
     {
       "idSeance": 130975,
@@ -472,7 +472,13 @@
           "realisateurs": "Abel Gance",
           "annee": 1935,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28119,
+              "duree": 0,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },
@@ -916,7 +922,12 @@
           "realisateurs": "Abel Gance",
           "annee": 1937,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28120,
+              "duree": 115
+            }
+          ]
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-24T08:19:01.180Z",
+  "updatedAt": "2024-04-24T10:30:39.424Z",
   "data": [
     {
       "idSeance": 123138,
@@ -342,8 +342,18 @@
       "idSeance": 122933,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 472,
+          "idCategorie": 3262,
+          "titreCycle": "Archi Vives",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 472,
+          "idCategorie": 3262,
+          "titreCycle": "Archi Vives",
+          "titreSousCycle": "Les films"
+        }
       ],
       "idEvenement": 30247,
       "libelleEvenement": "UNE NOUVELLE MUSIQUE POUR LE NAPOLÉON D'ABEL GANCE + EXTRAIT DE NAPOLÉON VU PAR ABEL GANCE",
@@ -416,8 +426,18 @@
       "idSeance": 118665,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 692,
+          "idCategorie": 3045,
+          "titreCycle": "Anthony Mann",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 692,
+          "idCategorie": 3263,
+          "titreCycle": "Anthony Mann",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 29847,
       "libelleEvenement": "MARCHÉ DE BRUTES + MARCHÉ DE BRUTES + DIALOGUE SERGE CHAUVIN",
@@ -652,8 +672,18 @@
       "idSeance": 116072,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 733,
+          "idCategorie": 3187,
+          "titreCycle": "Nicolas Philibert",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 733,
+          "idCategorie": 3269,
+          "titreCycle": "Nicolas Philibert",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 29399,
       "libelleEvenement": "MOINDRE DES CHOSES (LA) + FILM + LEÇON DE CINÉMA NICOLAS PHILIBERT",
@@ -889,8 +919,18 @@
       "idSeance": 118674,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 692,
+          "idCategorie": 3295,
+          "titreCycle": "Anthony Mann",
+          "titreSousCycle": "5 chefs-d'œuvre du western avec James Stewart"
+        },
+        {
+          "idCycle": 692,
+          "idCategorie": 3263,
+          "titreCycle": "Anthony Mann",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 29843,
       "libelleEvenement": "JE SUIS UN AVENTURIER + JE SUIS UN AVENTURIER + DIALOGUE AVEC BERNARD BENOLIEL",
@@ -1536,8 +1576,24 @@
       "idSeance": 118696,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 525,
+          "idCategorie": 3272,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 692,
+          "idCategorie": 3045,
+          "titreCycle": "Anthony Mann",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3272,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
+        }
       ],
       "idEvenement": 29836,
       "libelleEvenement": "DU SANG DANS LE DÉSERT + DISCUSSION AVEC FRÉDÉRIC BONNAUD",
@@ -2282,8 +2338,18 @@
       "idSeance": 116280,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 692,
+          "idCategorie": 3045,
+          "titreCycle": "Anthony Mann",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 692,
+          "idCategorie": 3263,
+          "titreCycle": "Anthony Mann",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 29844,
       "libelleEvenement": "LE CID + LE CID + DIALOGUE AVEC JEAN-FRANÇOIS RAUGER",
@@ -2850,8 +2916,18 @@
       "idSeance": 118687,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 741,
+          "idCategorie": 3235,
+          "titreCycle": "James Cameron",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 741,
+          "idCategorie": 3264,
+          "titreCycle": "James Cameron",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 29886,
       "libelleEvenement": "TERMINATOR + MASTERCLASS JAMES CAMERON",
@@ -4780,8 +4856,18 @@
       "idSeance": 122977,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 741,
+          "idCategorie": 3235,
+          "titreCycle": "James Cameron",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 741,
+          "idCategorie": 3264,
+          "titreCycle": "James Cameron",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 30020,
       "libelleEvenement": "ABYSS VERSION LONGUE + FILM + DIALOGUE AVEC JULIEN DUPUY ET STEPHANE MOÏSSAKIS",
@@ -5848,8 +5934,18 @@
       "idSeance": 122931,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 525,
+          "idCategorie": 3272,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3272,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
+        }
       ],
       "idEvenement": 30182,
       "libelleEvenement": "MON ONCLE + DISCUSSION AVEC FRÉDÉRIC BONNAUD",
@@ -5933,8 +6029,18 @@
       "idSeance": 116837,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 756,
+          "idCategorie": 3252,
+          "titreCycle": "William Friedkin",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 756,
+          "idCategorie": 3270,
+          "titreCycle": "William Friedkin",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 29900,
       "libelleEvenement": "CONVOI DE LA PEUR (LE) + SORCERER + DIALOGUE AVEC ARTHUR HARARI ET NICOLAS PARISER",
@@ -7145,8 +7251,18 @@
       "idSeance": 123140,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 152,
+          "idCategorie": 3308,
+          "titreCycle": "Parlons cinéma... avec Antoine Compagnon",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3308,
+          "titreCycle": "Parlons cinéma... avec Antoine Compagnon",
+          "titreSousCycle": "Les films"
+        }
       ],
       "idEvenement": 30304,
       "libelleEvenement": "MASCULIN FÉMININ + DIALOGUE AVEC ANTOINE COMPAGNON",
@@ -7469,8 +7585,18 @@
       "idSeance": 123079,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 738,
+          "idCategorie": 3298,
+          "titreCycle": "Kenji Misumi",
+          "titreSousCycle": "Baby Cart"
+        },
+        {
+          "idCycle": 738,
+          "idCategorie": 3265,
+          "titreCycle": "Kenji Misumi",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 30263,
       "libelleEvenement": "BABY CART : L'ENFANT DU MASSACRE + BABYCART L'ENFANT DU MASSACRE + DIALOGUE AVEC FABRICE ARDUINI",
@@ -8164,8 +8290,18 @@
       "idSeance": 123141,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 152,
+          "idCategorie": 3308,
+          "titreCycle": "Parlons cinéma... avec Antoine Compagnon",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3308,
+          "titreCycle": "Parlons cinéma... avec Antoine Compagnon",
+          "titreSousCycle": "Les films"
+        }
       ],
       "idEvenement": 30303,
       "libelleEvenement": "AU HASARD, BALTHAZAR + DIALOGUE AVEC ANTOINE COMPAGNON",
@@ -8683,8 +8819,18 @@
       "idSeance": 117222,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 752,
+          "idCategorie": 3246,
+          "titreCycle": "Mae West",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 752,
+          "idCategorie": 3267,
+          "titreCycle": "Mae West",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 29777,
       "libelleEvenement": "JE NE SUIS PAS UN ANGE + JE NE SUIS PAS UN ANGE + DIALOGUE MAE WEST AVEC MURIELLE JOUDET",
@@ -8928,8 +9074,18 @@
       "idSeance": 118577,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 756,
+          "idCategorie": 3252,
+          "titreCycle": "William Friedkin",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 756,
+          "idCategorie": 3270,
+          "titreCycle": "William Friedkin",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 29899,
       "libelleEvenement": "EXORCISTE (L') + FILM + DIALOGUE AVEC JEAN-BAPTISTE THORET",
@@ -9855,8 +10011,24 @@
       "idSeance": 118606,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 525,
+          "idCategorie": 3272,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 722,
+          "idCategorie": 3161,
+          "titreCycle": "Marguerite Duras",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3272,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
+        }
       ],
       "idEvenement": 29213,
       "libelleEvenement": "MUSICA (LA) + DISCUSSION AVEC FRÉDÉRIC BONNAUD",
@@ -9976,8 +10148,18 @@
       "idSeance": 122972,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 722,
+          "idCategorie": 3161,
+          "titreCycle": "Marguerite Duras",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 722,
+          "idCategorie": 3268,
+          "titreCycle": "Marguerite Duras",
+          "titreSousCycle": "Lecture"
+        }
       ],
       "idEvenement": 29229,
       "libelleEvenement": "CAMION (LE) + LE CAMION + DIALOGUE AVEC BRUNO NUYTTEN",
@@ -10901,8 +11083,18 @@
       "idSeance": 123142,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 152,
+          "idCategorie": 3308,
+          "titreCycle": "Parlons cinéma... avec Antoine Compagnon",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3308,
+          "titreCycle": "Parlons cinéma... avec Antoine Compagnon",
+          "titreSousCycle": "Les films"
+        }
       ],
       "idEvenement": 30305,
       "libelleEvenement": "RELIGIEUSE (LA) + DIALOGUE AVEC ANTOINE COMPAGNON",
@@ -12069,8 +12261,18 @@
       "idSeance": 123143,
       "idProg": 163,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 152,
+          "idCategorie": 3308,
+          "titreCycle": "Parlons cinéma... avec Antoine Compagnon",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3308,
+          "titreCycle": "Parlons cinéma... avec Antoine Compagnon",
+          "titreSousCycle": "Les films"
+        }
       ],
       "idEvenement": 30302,
       "libelleEvenement": "GUERRE EST FINIE (LA) + DIALOGUE AVEC ANTOINE COMPAGNON",

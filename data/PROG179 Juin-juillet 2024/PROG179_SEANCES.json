@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-24T08:18:54.578Z",
+  "updatedAt": "2024-04-24T10:30:33.999Z",
   "data": [
     {
       "idSeance": 128873,
@@ -247,8 +247,18 @@
       "idSeance": 130666,
       "idProg": 179,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 777,
+          "idCategorie": 3336,
+          "titreCycle": "Valerio Zurlini",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 777,
+          "idCategorie": 3343,
+          "titreCycle": "Valerio Zurlini",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 30468,
       "libelleEvenement": "JOURNAL INTIME + DIALOGUE AVEC JEAN-CHRISTOPHE FERRARI",
@@ -1146,8 +1156,24 @@
       "idSeance": 129097,
       "idProg": 179,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 525,
+          "idCategorie": 3359,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 777,
+          "idCategorie": 3336,
+          "titreCycle": "Valerio Zurlini",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3114,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 30466,
       "libelleEvenement": "FILLE À LA VALISE (LA) + DIALOGUE AVEC FRÉDÉRIC BONNAUD",
@@ -1524,8 +1550,18 @@
       "idSeance": 133554,
       "idProg": 179,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 782,
+          "idCategorie": 3350,
+          "titreCycle": "Mike Nichols",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 782,
+          "idCategorie": 3365,
+          "titreCycle": "Mike Nichols",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 30608,
       "libelleEvenement": "CE PLAISIR QU'ON DIT CHARNEL + DIALOGUE AVEC LÉO SOESANTO",
@@ -2338,8 +2374,18 @@
       "idSeance": 133586,
       "idProg": 179,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 152,
+          "idCategorie": 3356,
+          "titreCycle": "Parlons cinéma... avec Olivier Assayas",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3111,
+          "titreCycle": "Parlons cinéma... avec Olivier Assayas",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 30763,
       "libelleEvenement": "DIABLE PROBABLEMENT (LE) + DIALOGUE AVEC OLIVIER ASSAYAS",
@@ -2502,8 +2548,36 @@
       "idSeance": 130808,
       "idProg": 179,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 18,
+          "idCategorie": 1856,
+          "titreCycle": "Conservatoire des techniques cinématographiques",
+          "titreSousCycle": "Rencontres et conférences"
+        },
+        {
+          "idCycle": 18,
+          "idCategorie": 3355,
+          "titreCycle": "Conservatoire des techniques cinématographiques",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 741,
+          "idCategorie": 3264,
+          "titreCycle": "James Cameron",
+          "titreSousCycle": "Rencontres et conférences"
+        },
+        {
+          "idCycle": 18,
+          "idCategorie": 3355,
+          "titreCycle": "Conservatoire des techniques cinématographiques",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 741,
+          "idCategorie": 3235,
+          "titreCycle": "James Cameron",
+          "titreSousCycle": "Les films"
+        }
       ],
       "idEvenement": 29891,
       "libelleEvenement": "LEÇON DE CINÉMA DE RUSSELL CARPENTER + TITANIC",
@@ -2626,8 +2700,18 @@
       "idSeance": 130813,
       "idProg": 179,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 778,
+          "idCategorie": 3337,
+          "titreCycle": "Richard Quine",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 778,
+          "idCategorie": 3344,
+          "titreCycle": "Richard Quine",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 30495,
       "libelleEvenement": "DU PLOMB POUR L'INSPECTEUR + DIALOGUE AVEC SERGE CHAUVIN",
@@ -2952,8 +3036,18 @@
       "idSeance": 130928,
       "idProg": 179,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 782,
+          "idCategorie": 3350,
+          "titreCycle": "Mike Nichols",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 782,
+          "idCategorie": 3365,
+          "titreCycle": "Mike Nichols",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 30688,
       "libelleEvenement": "ANGELS IN AMERICA : PERESTROIKA + DIALOGUE AVEC ARNAUD DESPLECHIN",
@@ -3310,8 +3404,18 @@
       "idSeance": 130814,
       "idProg": 179,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 778,
+          "idCategorie": 3337,
+          "titreCycle": "Richard Quine",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 778,
+          "idCategorie": 3344,
+          "titreCycle": "Richard Quine",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 30489,
       "libelleEvenement": "LIAISONS SECRÈTES + DIALOGUE AVEC MURIELLE JOUDET",
@@ -3433,8 +3537,18 @@
       "idSeance": 133587,
       "idProg": 179,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 152,
+          "idCategorie": 3356,
+          "titreCycle": "Parlons cinéma... avec Olivier Assayas",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3111,
+          "titreCycle": "Parlons cinéma... avec Olivier Assayas",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 30764,
       "libelleEvenement": "IN GIRUM IMUS NOCTE ET CONSUMIMUR IGNI + DIALOGUE AVEC OLIVIER ASSAYAS",
@@ -3668,8 +3782,18 @@
       "idSeance": 130874,
       "idProg": 179,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 776,
+          "idCategorie": 3335,
+          "titreCycle": "Olivier Assayas",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 776,
+          "idCategorie": 3345,
+          "titreCycle": "Olivier Assayas",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 30426,
       "libelleEvenement": "APRÈS MAI + DIALOGUE AVEC OLIVIER ASSAYAS",
@@ -4710,8 +4834,18 @@
       "idSeance": 133588,
       "idProg": 179,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 152,
+          "idCategorie": 3356,
+          "titreCycle": "Parlons cinéma... avec Olivier Assayas",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3111,
+          "titreCycle": "Parlons cinéma... avec Olivier Assayas",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 30765,
       "libelleEvenement": "TROUBLES D'ADALEN (LES) + DIALOGUE AVEC OLIVIER ASSAYAS",
@@ -5378,8 +5512,18 @@
       "idSeance": 130730,
       "idProg": 179,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 773,
+          "idCategorie": 3332,
+          "titreCycle": "Road Movie, USA, 25 indispensables",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 773,
+          "idCategorie": 3346,
+          "titreCycle": "Road Movie, USA, 25 indispensables",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 30401,
       "libelleEvenement": "EPOUVANTAIL (L') + DIALOGUE AVEC JEAN-BAPTISTE THORET",
@@ -6700,8 +6844,18 @@
       "idSeance": 130894,
       "idProg": 179,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 779,
+          "idCategorie": 3340,
+          "titreCycle": "La Shaw Brothers et le kung-fu",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 779,
+          "idCategorie": 3347,
+          "titreCycle": "La Shaw Brothers et le kung-fu",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 30515,
       "libelleEvenement": "JUSTICIER DE SHANGHAÏ (LE) = BRUTE, LE BONZE ET LE MÉCHANT (LA) + DIALOGUE AVEC CHRISTOPHE GANS",
@@ -7084,8 +7238,18 @@
       "idSeance": 130895,
       "idProg": 179,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 779,
+          "idCategorie": 3340,
+          "titreCycle": "La Shaw Brothers et le kung-fu",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 779,
+          "idCategorie": 3347,
+          "titreCycle": "La Shaw Brothers et le kung-fu",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 30526,
       "libelleEvenement": "VENGEANCE DES INFIRMES (LA) + DIALOGUE AVEC STÉPHANE DU MESNILDOT",
@@ -7556,8 +7720,18 @@
       "idSeance": 130030,
       "idProg": 179,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 773,
+          "idCategorie": 3332,
+          "titreCycle": "Road Movie, USA, 25 indispensables",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 773,
+          "idCategorie": 3346,
+          "titreCycle": "Road Movie, USA, 25 indispensables",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 30397,
       "libelleEvenement": "POINT LIMITE ZÉRO + DIALOGUE AVEC ROBERT M. RUBIN",
@@ -7713,8 +7887,18 @@
       "idSeance": 133569,
       "idProg": 179,
       "idCycleCategories": [
-        null,
-        null
+        {
+          "idCycle": 775,
+          "idCategorie": 3334,
+          "titreCycle": "Marcel Pagnol",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 775,
+          "idCategorie": 3348,
+          "titreCycle": "Marcel Pagnol",
+          "titreSousCycle": "Rencontres et conférences"
+        }
       ],
       "idEvenement": 30580,
       "libelleEvenement": "MERLUSSE + DIALOGUE AVEC MARCOS UZAL",
