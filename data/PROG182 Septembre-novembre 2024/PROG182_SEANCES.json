@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2024-04-23T07:54:51.936Z",
+  "updatedAt": "2024-04-24T08:18:08.375Z",
   "data": [
     {
       "idSeance": 130975,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -20,9 +20,18 @@
       "typeSeance": 44,
       "items": [
         {
-          "idFilm": 31506,
-          "titre": "INDISCRÉTIONS",
           "ordre": 1,
+          "idFilm": 31506,
+          "titre": "Indiscrétions",
+          "titreVo": "Philadelphia Story",
+          "artVo": "The",
+          "realisateurs": "George Cukor",
+          "annee": 1940,
+          "generique": "Katharine Hepburn, Cary Grant, James Stewart",
+          "adaptation": "D'après la pièce _The Philadelphia Story_ de Philip Barry.",
+          "synopsis": "Une séparation, des fiançailles, une rupture et trois prétendants. Une comédie alerte et enjouée parodiant les mœurs de la haute société américaine et ses scandales.",
+          "miniTexte": "Une référence de la comédie de remariage, flamboyant portrait de femme moderne qui signe le retour de Katharine Hepburn, tombée en disgrâce à Hollywood. Dialogues subtils, mise en scène raffinée, elle embrase l'écran face à Cary Grant et James Stewart – futur Oscar du meilleur acteur –, à l'apogée de leur drôlerie.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 3728,
@@ -39,7 +48,7 @@
     {
       "idSeance": 131010,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -54,9 +63,13 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 80552,
-          "titre": "GRUMPY",
           "ordre": 1,
+          "idFilm": 80552,
+          "titre": "Grumpy",
+          "realisateurs": "George Cukor, Cyril Gardner",
+          "annee": 1930,
+          "adaptation": "D'après la pièce _Grumpy, a play in four acts_ de Horace Hodges et Thomas Wigney Percyval.",
+          "status": 0,
           "copies": []
         }
       ]
@@ -64,7 +77,7 @@
     {
       "idSeance": 131013,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 757,
           "idCategorie": 3273,
@@ -80,9 +93,14 @@
       "typeSeance": 44,
       "items": [
         {
-          "idFilm": 48687,
-          "titre": "PARADIS PERDU",
           "ordre": 1,
+          "idFilm": 48687,
+          "titre": "Paradis perdu",
+          "realisateurs": "Abel Gance",
+          "annee": 1939,
+          "generique": "Fernand Gravey, Elvire Popesco, Micheline Presle",
+          "synopsis": "À Paris, en 1913, Pierre Leblanc, un peintre, rencontre Janine, employée dans une maison de couture. Il l'épouse puis part à la guerre alors qu'elle est enceinte.",
+          "status": 0,
           "copies": []
         }
       ],
@@ -91,7 +109,7 @@
     {
       "idSeance": 133611,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -106,9 +124,14 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 31517,
-          "titre": "ROYAL FAMILY",
           "ordre": 1,
+          "idFilm": 31517,
+          "titre": "Royal family",
+          "titreVo": "Royal Family of Broadway",
+          "artVo": "The",
+          "realisateurs": "George Cukor, Cyril Gardner",
+          "annee": 1931,
+          "status": 0,
           "copies": []
         }
       ]
@@ -116,7 +139,7 @@
     {
       "idSeance": 131053,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -131,9 +154,17 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 31521,
-          "titre": "SYLVIA SCARLETT",
           "ordre": 1,
+          "idFilm": 31521,
+          "titre": "Sylvia Scarlett",
+          "realisateurs": "George Cukor",
+          "annee": 1935,
+          "generique": "Katharine Hepburn, Cary Grant, Brian Aherne",
+          "adaptation": "D'après le roman _The Early Life and Adventures of Sylvia Scarlett_ de Compton Mackenzie.",
+          "ageMinimal": 10,
+          "synopsis": "Il suffit à la jeune Sylvia, d'allure un peu garçonne, de se couper les cheveux pour prétendre s'appeler Sylvestre et participer aux escroqueries de son père. Mais lorsqu'elle tombe amoureuse, tout cela ne l'intéresse plus autant.",
+          "miniTexte": "Dans un savant mélange des genres, véritable échec commercial à son époque, Cukor travestit Katharine Hepburn, son actrice fétiche, en héroïne avant-gardiste. Cinq ans avant _Indiscrétions_, elle envoûte Cary Grant durant une quête identitaire, qui oscille habilement du mélo à la comédie familiale rocambolesque.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 9274,
@@ -149,7 +180,7 @@
     {
       "idSeance": 131055,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 787,
           "idCategorie": 3372,
@@ -165,15 +196,26 @@
       "typeSeance": 44,
       "items": [
         {
-          "idFilm": 91824,
-          "titre": "PEUR, PETIT CHASSEUR",
           "ordre": 1,
+          "idFilm": 91824,
+          "titre": "Peur, petit chasseur",
+          "art": "La",
+          "realisateurs": "Laurent Achard",
+          "annee": 2003,
+          "generique": "Mireille Roussel, Martin Buisson",
+          "synopsis": "À la campagne, un jour de novembre, un enfant recroquevillé n'ose pas rentrer dans sa maison. Il attend que sa mère le rejoigne dans le jardin.",
+          "status": 2,
           "copies": []
         },
         {
-          "idFilm": 64087,
-          "titre": "PLUS QU'HIER, MOINS QUE DEMAIN",
           "ordre": 2,
+          "idFilm": 64087,
+          "titre": "Plus qu'hier, moins que demain",
+          "realisateurs": "Laurent Achard",
+          "annee": 1998,
+          "generique": "Martin Mihelich, Laëtitia Legrix, Mireille Roussel",
+          "synopsis": "Après une assez longue absence, Sonia revient a l'improviste dans sa famille avec son bébé et son mari. Sonia va faire resurgir des souvenirs douloureux que tous préfèreraient oublier.",
+          "status": 0,
           "copies": []
         }
       ],
@@ -182,7 +224,7 @@
     {
       "idSeance": 131054,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -197,9 +239,17 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 31411,
-          "titre": "ROMAN DE MARGUERITE GAUTIER",
           "ordre": 1,
+          "idFilm": 31411,
+          "titre": "Roman de Marguerite Gautier",
+          "art": "Le",
+          "titreVo": "Camille",
+          "realisateurs": "George Cukor",
+          "annee": 1936,
+          "generique": "Greta Garbo, Robert Taylor, Lionel Barrymore",
+          "adaptation": "D'après le roman _La Dame aux camélias_ d'Alexandre Dumas fils.",
+          "synopsis": "« Cette élégance qui n'existe plus aujourd'hui dans la vie subsiste encore au cinéma grâce à George Cukor, à Mizoguchi : élégance du style, distinction des sujets traités, distinction des acteurs, politesse raffinée du découpage, un univers où tout est demi-teinte, où tout est suggéré, où rien n'est appuyé. »\n\n---\n\nUne demi-mondaine, entretenue, tombe follement amoureuse d'un fils de famille. Le père s'interpose : l'honneur du rang ne saurait tolérer pareille mésalliance.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 15640,
@@ -215,7 +265,7 @@
     {
       "idSeance": 133624,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 757,
           "idCategorie": 3273,
@@ -230,9 +280,14 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 48679,
-          "titre": "J'ACCUSE !",
           "ordre": 1,
+          "idFilm": 48679,
+          "titre": "J'accuse !",
+          "realisateurs": "Abel Gance",
+          "annee": 1918,
+          "generique": "Séverin-Mars, Romuald Joubé, Maxime Desjardins, Marise Dauvray",
+          "synopsis": "« Tragédie des temps modernes en trois époques » (Abel Gance) et plaidoyer contre la guerre.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 3865,
@@ -247,7 +302,7 @@
     {
       "idSeance": 131097,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 787,
           "idCategorie": 3374,
@@ -262,33 +317,53 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 76312,
-          "titre": "DIMANCHE OU LES FANTÔMES",
           "ordre": 1,
+          "idFilm": 76312,
+          "titre": "Dimanche ou les fantômes",
+          "realisateurs": "Laurent Achard",
+          "annee": 1994,
+          "status": 0,
           "copies": []
         },
         {
-          "idFilm": 91824,
-          "titre": "PEUR, PETIT CHASSEUR",
           "ordre": 2,
+          "idFilm": 91824,
+          "titre": "Peur, petit chasseur",
+          "art": "La",
+          "realisateurs": "Laurent Achard",
+          "annee": 2003,
+          "generique": "Mireille Roussel, Martin Buisson",
+          "synopsis": "À la campagne, un jour de novembre, un enfant recroquevillé n'ose pas rentrer dans sa maison. Il attend que sa mère le rejoigne dans le jardin.",
+          "status": 2,
           "copies": []
         },
         {
-          "idFilm": 75543,
-          "titre": "QU'EN SAVENT LES MORTS ?",
           "ordre": 3,
+          "idFilm": 75543,
+          "titre": "Qu'en savent les morts ?",
+          "realisateurs": "Laurent Achard",
+          "annee": 1990,
+          "status": 0,
           "copies": []
         },
         {
-          "idFilm": 121778,
-          "titre": "TABLEAU",
           "ordre": 4,
+          "idFilm": 121778,
+          "titre": "Tableau",
+          "art": "Le",
+          "realisateurs": "Laurent Achard",
+          "annee": 2012,
+          "synopsis": "Au crépuscule de leur vie, Odile et Marcèle s'aiment toujours. Atteinte d'une maladie incurable, Odile doit être hospitalisée. Le temps d'un dernier dimanche, ils revoient les gens qu'ils aiment.",
+          "status": 0,
           "copies": []
         },
         {
-          "idFilm": 76313,
-          "titre": "UNE ODEUR DE GÉRANIUM",
           "ordre": 5,
+          "idFilm": 76313,
+          "titre": "Une odeur de géranium",
+          "realisateurs": "Laurent Achard",
+          "annee": 1997,
+          "status": 0,
           "copies": []
         }
       ]
@@ -296,7 +371,7 @@
     {
       "idSeance": 131098,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 787,
           "idCategorie": 3372,
@@ -311,9 +386,16 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 100438,
-          "titre": "DERNIER DES FOUS",
           "ordre": 1,
+          "idFilm": 100438,
+          "titre": "Dernier des fous",
+          "art": "Le",
+          "realisateurs": "Laurent Achard",
+          "annee": 2005,
+          "generique": "Julien Cochelin, Pascal Cervo, Annie Cordy",
+          "adaptation": "D'après le roman _The Last of the Crazy People_ de Timothy Findley.",
+          "synopsis": "Le jeune Martin assiste impuissant à la désintégration de sa famille, entre un père absent, une mère presque folle, et un grand frère dépressif. Il ne trouve de réconfort qu'auprès de son chat et de la bonne, jusqu'au jour où il décide d'agir.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 2291,
@@ -328,7 +410,7 @@
     {
       "idSeance": 131094,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -343,9 +425,16 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 56960,
-          "titre": "VACANCES",
           "ordre": 1,
+          "idFilm": 56960,
+          "titre": "Vacances",
+          "titreVo": "Holiday",
+          "realisateurs": "George Cukor",
+          "annee": 1938,
+          "generique": "Katharine Hepburn, Cary Grant, Doris Nolan",
+          "adaptation": "D'après la pièce _Holiday_ de Philip Barry.",
+          "miniTexte": "Huis clos théâtral désopilant, qui marque les retrouvailles de Cukor avec Cary Grant et Katharine Hepburn, trois ans après _Sylvia Scarlett_. Sur un scénario inventif, la mise en scène élégante souligne l'excellence des dialogues et une impeccable galerie de seconds rôles dans une critique acérée du capitalisme.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 26417,
@@ -361,7 +450,7 @@
     {
       "idSeance": 133614,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 757,
           "idCategorie": 3273,
@@ -376,9 +465,13 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 48688,
-          "titre": "ROMAN D'UN JEUNE HOMME PAUVRE",
           "ordre": 1,
+          "idFilm": 48688,
+          "titre": "Roman d'un jeune homme pauvre",
+          "art": "Le",
+          "realisateurs": "Abel Gance",
+          "annee": 1935,
+          "status": 0,
           "copies": []
         }
       ]
@@ -386,7 +479,7 @@
     {
       "idSeance": 131100,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 787,
           "idCategorie": 3375,
@@ -401,9 +494,12 @@
       "idSalle": "JE",
       "items": [
         {
-          "idFilm": 154839,
-          "titre": "BRISSEAU, 251 RUE MARCADET",
           "ordre": 1,
+          "idFilm": 154839,
+          "titre": "Brisseau, 251 rue Marcadet",
+          "realisateurs": "Laurent Achard",
+          "annee": 2018,
+          "status": 0,
           "copies": []
         }
       ]
@@ -411,7 +507,7 @@
     {
       "idSeance": 131095,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -426,9 +522,18 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 31479,
-          "titre": "FEMMES",
           "ordre": 1,
+          "idFilm": 31479,
+          "titre": "Femmes",
+          "titreVo": "Women",
+          "artVo": "The",
+          "realisateurs": "George Cukor",
+          "annee": 1939,
+          "generique": "Norma Shearer, Joan Crawford, Rosalind Russell",
+          "adaptation": "D'après la pièce _The Women_ de Clare Boothe Luce.",
+          "synopsis": "Dans un institut de beauté, les conversations entre femmes portent sur les hommes : ceux qu'on aime, ceux qui trompent, ceux qui mentent, ceux à qui l'on pardonne. Médisances et calomnies conduisent l'une d'entre elles à divorcer un peu trop rapidement.",
+          "miniTexte": "Qu'elles parlent de l'homme qu'elles convoitent, qu'elles épousent ou qu'elles quittent, les femmes de Cukor sont jalouses, méchantes, coquettes ou arrivistes. Jeu stylisé et répliques assassines, le film, sorti en 1939, est une excellente peinture de mœurs portée par un casting exclusivement féminin. Une guerre des sexes, sans hommes, d'une éclatante subtilité.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 17317,
@@ -444,7 +549,7 @@
     {
       "idSeance": 131110,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 741,
           "idCategorie": 3235,
@@ -459,9 +564,16 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 30822,
-          "titre": "ABYSS",
           "ordre": 1,
+          "idFilm": 30822,
+          "titre": "Abyss",
+          "titreVo": "Abyss",
+          "artVo": "The",
+          "realisateurs": "James Cameron",
+          "annee": 1989,
+          "generique": "Ed Harris, Mary Elizabeth Mastrantonio, Michael Biehn",
+          "miniTexte": "Budget considérable, innovations technologiques, effets spéciaux enchanteurs : Cameron, au sommet à Hollywood après _Terminator_ et _Aliens, le retour_, déploie tout son génie dans un huis clos à plus de 7 000 mètres de fond. L'équipage d'une plateforme de forage est envoyé en mission de sauvetage auprès d'un sous-marin nucléaire en perdition au bord d'un abysse. Un blockbuster puissant et poétique, qui convoque Kubrick et _2001_, explore les peurs primales et fustige la bêtise humaine. Un sommet de science-fiction, pour une rencontre du troisième type en apnée.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 3944,
@@ -477,7 +589,7 @@
     {
       "idSeance": 133613,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 787,
           "idCategorie": 3372,
@@ -492,9 +604,12 @@
       "idSalle": "JE",
       "items": [
         {
-          "idFilm": 154840,
-          "titre": "JEAN-FRANÇOIS STÉVENIN : SIMPLES MESSIEURS",
           "ordre": 1,
+          "idFilm": 154840,
+          "titre": "Jean-François Stévenin : Simples Messieurs",
+          "realisateurs": "Laurent Achard",
+          "annee": 2020,
+          "status": 0,
           "copies": []
         }
       ]
@@ -502,7 +617,7 @@
     {
       "idSeance": 131111,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -517,9 +632,17 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 31418,
-          "titre": "HANTISE",
           "ordre": 1,
+          "idFilm": 31418,
+          "titre": "Hantise",
+          "titreVo": "Gaslight",
+          "realisateurs": "George Cukor",
+          "annee": 1943,
+          "generique": "Ingrid Bergman, Charles Boyer, Joseph Cotten",
+          "adaptation": "D'après la pièce _Angel Street_ de Patrick Hamilton.",
+          "synopsis": "Londres, 1875. Installée dans la maison où sa tante a été assassinée, avec le charmant pianiste qu'elle vient d'épouser, Paula doute bientôt de sa propre santé mentale. A-t-elle des hallucinations ?",
+          "commentaire": "Cinq ans après une première version anglaise de _Gaslight_, Cukor adapte la pièce de l'auteur de _La Corde_. Confinée entre une demeure victorienne et le brouillard londonien, _Hantise_ est une œuvre à part dans la filmographie du cinéaste, réputé pour ses comédies et sa direction d'actrices : un classique du thriller victorien, à l'esthétique noire et aux accents hitchcockiens, servi par un casting royal. Ingrid Bergman, d'abord et surtout, future héroïne du maître du suspense, tourmentée par un mari prédateur avant _Les Enchaînés_ ; Charles Boyer, _French lover_ à contre-emploi, qui rappelle celui de _Soupçons_ ; et Joseph Cotten, l'oncle malfaisant de _L'Ombre d'un doute_, en détective de Scotland Yard. Un triangle digne des _Amants du Capricorne_, et l'occasion d'un fascinant portrait de femme manipulée par un conjoint qui veut la persuader de sa folie. Alchimie miraculeuse entre Joseph Ruttenberg, qui signe la photo, et Bergman, chevelure auréolée de halos, lumières vacillantes dans les yeux, et dont les frémissements d'angoisse communicatifs imprègnent la pellicule. La caméra scrute le mécanisme et les effets du _gaslighting_ – terme toujours utilisé en psychologie pour décrire cette forme de manipulation mentale, auquel le succès mérité du film n'est pas étranger. À noter parmi de savoureux personnages secondaires, Dame May Witty (_Une femme disparaît_) en voisine curieuse et Angela Lansbury, inquiétante domestique, dans un premier rôle lui aussi notable.\n\nBlandine Étienne",
+          "status": 1,
           "copies": [
             {
               "idCopie": 22111,
@@ -535,7 +658,7 @@
     {
       "idSeance": 131116,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 787,
           "idCategorie": 3372,
@@ -550,9 +673,12 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 114854,
-          "titre": "DERNIÈRE SÉANCE",
           "ordre": 1,
+          "idFilm": 114854,
+          "titre": "Dernière séance",
+          "realisateurs": "Laurent Achard",
+          "annee": 2010,
+          "status": 0,
           "copies": []
         }
       ]
@@ -560,7 +686,7 @@
     {
       "idSeance": 131112,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -575,9 +701,15 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 31387,
-          "titre": "MADAME PORTE LA CULOTTE",
           "ordre": 1,
+          "idFilm": 31387,
+          "titre": "Madame porte la culotte",
+          "titreVo": "Adam's Rib",
+          "realisateurs": "George Cukor",
+          "annee": 1949,
+          "generique": "Spencer Tracy, Katharine Hepburn",
+          "synopsis": "Une avocate militant pour les droits des femmes se trouve opposée à son mari, juriste lui aussi, dans une affaire de crime passionnel.\n\n---\n\nUne avocate militant pour les droits des femmes se trouve opposée à son mari, juriste lui aussi, dans une affaire de crime passionnel.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 8505,
@@ -593,7 +725,7 @@
     {
       "idSeance": 133615,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 757,
           "idCategorie": 3273,
@@ -608,17 +740,28 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 48682,
-          "titre": "LUCRÈCE BORGIA",
           "ordre": 1,
-          "copies": []
+          "idFilm": 48682,
+          "titre": "Lucrèce Borgia",
+          "realisateurs": "Abel Gance",
+          "annee": 1935,
+          "generique": "Edwige Feuillère, Gabriel Gabrio, Roger Karl, Maurice Escande",
+          "synopsis": "César Borgia, fils du pape, suit les conseils du cruel Machiavel et décide de se servir de sa charmante sœur pour amadouer et éliminer ses principaux rivaux.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 13244,
+              "duree": 92,
+              "format": "35 mm"
+            }
+          ]
         }
       ]
     },
     {
       "idSeance": 131114,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 787,
           "idCategorie": 3375,
@@ -633,9 +776,13 @@
       "idSalle": "JE",
       "items": [
         {
-          "idFilm": 153932,
-          "titre": "PATRICIA MAZUY : AVANT SATURNE [TV]",
           "ordre": 1,
+          "idFilm": 153932,
+          "titre": "Patricia Mazuy : avant Saturne",
+          "realisateurs": "Laurent Achard",
+          "annee": 2022,
+          "synopsis": "À Caen, Laurent Achard suit Patricia Mazuy et son équipe dans les préparatifs de son film _Bowling Saturne_.",
+          "status": 2,
           "copies": []
         }
       ]
@@ -643,7 +790,7 @@
     {
       "idSeance": 131125,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 757,
           "idCategorie": 3273,
@@ -658,9 +805,15 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 48587,
-          "titre": "CAPITAINE FRACASSE",
           "ordre": 1,
+          "idFilm": 48587,
+          "titre": "Capitaine Fracasse",
+          "art": "Le",
+          "realisateurs": "Abel Gance",
+          "annee": 1942,
+          "generique": "Fernand Gravey, Assia Noris, Jean Weber",
+          "synopsis": "Au XVII<sup>e</sup> siècle, un baron ruiné décide, par amour pour une actrice, de suivre une troupe ambulante. Il remplace un comédien et prend le nom de capitaine Fracasse.",
+          "status": 2,
           "copies": []
         }
       ]
@@ -668,7 +821,7 @@
     {
       "idSeance": 131126,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 757,
           "idCategorie": 3273,
@@ -683,17 +836,26 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 48680,
-          "titre": "JÉRÔME PERREAU",
           "ordre": 1,
-          "copies": []
+          "idFilm": 48680,
+          "titre": "Jérôme Perreau",
+          "realisateurs": "Abel Gance",
+          "annee": 1935,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28115,
+              "duree": 114,
+              "format": "35 mm"
+            }
+          ]
         }
       ]
     },
     {
       "idSeance": 131160,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -708,9 +870,16 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 45492,
-          "titre": "COMMENT L'ESPRIT VIENT AUX FEMMES",
           "ordre": 1,
+          "idFilm": 45492,
+          "titre": "Comment l'esprit vient aux femmes",
+          "titreVo": "Born Yesterday",
+          "realisateurs": "George Cukor",
+          "annee": 1950,
+          "generique": "Judy Holliday, Broderick Crawford, William Holden",
+          "adaptation": "D'après la pièce _Born Yesterday_ de Garson Kanin.",
+          "synopsis": "Puissant _self made man_ aux ambitions politiques, Harry Brock embauche le journaliste Paul Verrall pour « éduquer » sa maîtresse inculte et gaffeuse, Billie Dawn.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 14792,
@@ -726,7 +895,7 @@
     {
       "idSeance": 131159,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 757,
           "idCategorie": 3273,
@@ -741,9 +910,12 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 48692,
-          "titre": "UN GRAND AMOUR DE BEETHOVEN",
           "ordre": 1,
+          "idFilm": 48692,
+          "titre": "Un grand amour de Beethoven",
+          "realisateurs": "Abel Gance",
+          "annee": 1937,
+          "status": 0,
           "copies": []
         }
       ]
@@ -751,7 +923,7 @@
     {
       "idSeance": 133633,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -766,9 +938,15 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 31408,
-          "titre": "UNE FEMME QUI S'AFFICHE",
           "ordre": 1,
+          "idFilm": 31408,
+          "titre": "Une femme qui s'affiche",
+          "titreVo": "It Should Happen to You",
+          "realisateurs": "George Cukor",
+          "annee": 1953,
+          "generique": "Judy Holliday, Jack Lemmon, Peter Lawford",
+          "synopsis": "Un modèle sans emploi loue avec ses dernières économies un panneau publicitaire avec son nom dans une grande rue de New York. Elle devient célèbre du jour au lendemain.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 27987,
@@ -783,7 +961,7 @@
     {
       "idSeance": 131163,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 757,
           "idCategorie": 3273,
@@ -798,9 +976,14 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 53617,
-          "titre": "J'ACCUSE",
           "ordre": 1,
+          "idFilm": 53617,
+          "titre": "J'accuse",
+          "realisateurs": "Abel Gance",
+          "annee": 1937,
+          "generique": "Victor Francen, Line Noro, Jean Max, Renée Devillers",
+          "synopsis": "Jean Diaz, scientifique, s'est juré d'empêcher une nouvelle guerre. Il invente un verre indestructible dont l'invention lui est volée et sombre dans la folie. Vingt ans plus tard, il retrouve sa raison pour apprendre qu'une nouvelle guerre se prépare.",
+          "status": 0,
           "copies": []
         }
       ]
@@ -808,7 +991,7 @@
     {
       "idSeance": 131199,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -823,9 +1006,15 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 31407,
-          "titre": "CROISÉE DES DESTINS",
           "ordre": 1,
+          "idFilm": 31407,
+          "titre": "Croisée des destins",
+          "art": "La",
+          "titreVo": "Bhowani Junction",
+          "realisateurs": "George Cukor",
+          "annee": 1955,
+          "adaptation": "D'après le roman _Bhowani junction_ de John Masters.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 27976,
@@ -841,7 +1030,7 @@
     {
       "idSeance": 131196,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 757,
           "idCategorie": 3273,
@@ -856,9 +1045,13 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 48694,
-          "titre": "VOLEUR DE FEMMES",
           "ordre": 1,
+          "idFilm": 48694,
+          "titre": "Voleur de femmes",
+          "art": "Le",
+          "realisateurs": "Abel Gance",
+          "annee": 1938,
+          "status": 0,
           "copies": []
         }
       ]
@@ -866,7 +1059,7 @@
     {
       "idSeance": 131200,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -881,9 +1074,15 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 31524,
-          "titre": "FEMME AUX DEUX VISAGES",
           "ordre": 1,
+          "idFilm": 31524,
+          "titre": "Femme aux deux visages",
+          "art": "La",
+          "titreVo": "Two-Faced Woman",
+          "realisateurs": "George Cukor",
+          "annee": 1941,
+          "adaptation": "D'après la pièce _Two-faced woman_ de Ludwig Fulda.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 27981,
@@ -899,7 +1098,7 @@
     {
       "idSeance": 133634,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 757,
           "idCategorie": 3273,
@@ -914,9 +1113,12 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 48681,
-          "titre": "LOUISE",
           "ordre": 1,
+          "idFilm": 48681,
+          "titre": "Louise",
+          "realisateurs": "Abel Gance",
+          "annee": 1938,
+          "status": 0,
           "copies": []
         }
       ]
@@ -924,7 +1126,7 @@
     {
       "idSeance": 131239,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -939,9 +1141,15 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 31497,
-          "titre": "MY FAIR LADY",
           "ordre": 1,
+          "idFilm": 31497,
+          "titre": "My Fair Lady",
+          "realisateurs": "George Cukor",
+          "annee": 1963,
+          "generique": "Audrey Hepburn, Rex Harrison, Gladys Cooper",
+          "adaptation": "D'après la pièce _Pygmalion_ de Bernard Shaw.  \nD'après la comédie musicale _My Fair Lady_ d'Alan Jay Lerner et Frederick Loewe.",
+          "synopsis": "Un éminent professeur de phonétique rencontre près de Covent Garden, une petite marchande de fleurs à l'accent cockney. Il décide d'en faire une grande dame.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 16625,
@@ -957,7 +1165,7 @@
     {
       "idSeance": 131241,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 757,
           "idCategorie": 3273,
@@ -972,9 +1180,42 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 48588,
-          "titre": "CYRANO ET D'ARTAGNAN",
           "ordre": 1,
+          "idFilm": 48588,
+          "titre": "Cyrano et d'Artagnan",
+          "realisateurs": "Abel Gance",
+          "annee": 1962,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131242,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30047,
+      "typeEvenement": 13,
+      "libelleEvenement": "VÉNUS AVEUGLE",
+      "dateHeure": "2024-09-06T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48693,
+          "titre": "Vénus aveugle",
+          "realisateurs": "Abel Gance",
+          "annee": 1940,
+          "generique": "Viviane Romance, Georges Flamant, Henri Guisol",
+          "synopsis": "Clarisse, belle jeune femme qui a posé pour la publicité des cigarettes « Vénus », apprend qu'elle va bientôt devenir aveugle. Pour éviter à son amant, Madère, la compagnie d'une infirme, elle simule une infidélité ce qui provoque leur rupture.",
+          "status": 0,
           "copies": []
         }
       ]
@@ -982,7 +1223,7 @@
     {
       "idSeance": 133636,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 757,
           "idCategorie": 3273,
@@ -997,9 +1238,13 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 48689,
-          "titre": "ROUE",
           "ordre": 1,
+          "idFilm": 48689,
+          "titre": "Roue",
+          "art": "La",
+          "realisateurs": "Abel Gance",
+          "annee": 1921,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28092,
@@ -1013,7 +1258,7 @@
     {
       "idSeance": 133638,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -1028,9 +1273,12 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 31528,
-          "titre": "WHAT PRICE HOLLYWOOD ?",
           "ordre": 1,
+          "idFilm": 31528,
+          "titre": "What Price Hollywood ?",
+          "realisateurs": "George Cukor",
+          "annee": 1932,
+          "status": 0,
           "copies": [
             {
               "idCopie": 8506,
@@ -1046,7 +1294,7 @@
     {
       "idSeance": 131284,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -1061,9 +1309,14 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 31471,
-          "titre": "QUATRE FILLES DU DOCTEUR MARCH",
           "ordre": 1,
+          "idFilm": 31471,
+          "titre": "Quatre filles du docteur March",
+          "art": "Les",
+          "titreVo": "Little Women",
+          "realisateurs": "George Cukor",
+          "annee": 1933,
+          "status": 0,
           "copies": [
             {
               "idCopie": 25532,
@@ -1079,7 +1332,7 @@
     {
       "idSeance": 131285,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -1094,9 +1347,15 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 80555,
-          "titre": "HAUTE SOCIÉTÉ",
           "ordre": 1,
+          "idFilm": 80555,
+          "titre": "Haute société",
+          "titreVo": "Our Better",
+          "realisateurs": "George Cukor",
+          "annee": 1933,
+          "generique": "Constance Bennett, Violet Kemble Cooper, Phoebe Foster",
+          "synopsis": "Satire des relations humaines dans la haute société britannique des années trente.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 6936,
@@ -1111,7 +1370,7 @@
     {
       "idSeance": 131296,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 741,
           "idCategorie": 3235,
@@ -1126,9 +1385,16 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 30809,
-          "titre": "ALIENS – LE RETOUR",
           "ordre": 1,
+          "idFilm": 30809,
+          "titre": "Aliens, le retour",
+          "titreVo": "Aliens",
+          "realisateurs": "James Cameron",
+          "annee": 1985,
+          "generique": "Sigourney Weaver, Michael Biehn, Lance Henriksen",
+          "synopsis": "Ripley et un groupe de Marines retournent vers la planète où une créature monstrueuse a été découverte pour la première fois.",
+          "miniTexte": "Ripley revient ! Avec ce deuxième volet de la saga, Cameron s'empare du mythe installé par Ridley Scott et y pose sa griffe, lui donnant une ampleur inattendue : après une première partie très martiale (les Marines caricaturaux missionnés pour sauver des colons aux prises avec les xénomorphes), Ripley reprend la main, à la fois terrorisée (humaine) et déterminée (surhumaine). Elle renoue avec sa propre maternité, tendue vers un seul but, sauver une fillette, et trouve le chemin de la rédemption dans un affrontement final de mère à mère. Monstrueux, intense, éblouissant.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 4979,
@@ -1158,7 +1424,7 @@
     {
       "idSeance": 131297,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -1173,9 +1439,15 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 31437,
-          "titre": "DIABLESSE EN COLLANT ROSE",
           "ordre": 1,
+          "idFilm": 31437,
+          "titre": "Diablesse en collant rose",
+          "art": "La",
+          "titreVo": "Heller in Pink Tights",
+          "realisateurs": "George Cukor",
+          "annee": 1959,
+          "adaptation": "D'après le roman _Heller with a gun_ de Louis L'Amour.",
+          "status": 0,
           "copies": []
         }
       ]
@@ -1183,7 +1455,7 @@
     {
       "idSeance": 131298,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -1198,9 +1470,14 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 31488,
-          "titre": "JE RETOURNE CHEZ MAMAN",
           "ordre": 1,
+          "idFilm": 31488,
+          "titre": "Je retourne chez maman",
+          "titreVo": "Marrying Kind",
+          "artVo": "The",
+          "realisateurs": "George Cukor",
+          "annee": 1952,
+          "status": 0,
           "copies": [
             {
               "idCopie": 27972,
@@ -1216,7 +1493,7 @@
     {
       "idSeance": 131311,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -1231,9 +1508,12 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 79003,
-          "titre": "GIRLS ABOUT TOWN",
           "ordre": 1,
+          "idFilm": 79003,
+          "titre": "Girls about Town",
+          "realisateurs": "George Cukor",
+          "annee": 1931,
+          "status": 0,
           "copies": []
         }
       ]
@@ -1241,7 +1521,7 @@
     {
       "idSeance": 131312,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 785,
           "idCategorie": 3367,
@@ -1256,9 +1536,12 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 80554,
-          "titre": "TARNISHED LADY",
           "ordre": 1,
+          "idFilm": 80554,
+          "titre": "Tarnished Lady",
+          "realisateurs": "George Cukor",
+          "annee": 1931,
+          "status": 0,
           "copies": []
         }
       ]
@@ -1266,7 +1549,7 @@
     {
       "idSeance": 133635,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 786,
           "idCategorie": 3371,
@@ -1281,9 +1564,15 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 43326,
-          "titre": "DOUCEUR DE VIVRE",
           "ordre": 1,
+          "idFilm": 43326,
+          "titre": "Dolce vita",
+          "art": "La",
+          "realisateurs": "Federico Fellini",
+          "annee": 1959,
+          "generique": "Marcello Mastroianni, Anita Ekberg, Anouk Aimée",
+          "synopsis": "Un journaliste traverse avec désinvolture et amertume la folle vie nocturne de la _jet set_ romaine.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 10614,
@@ -1299,7 +1588,7 @@
     {
       "idSeance": 131385,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 786,
           "idCategorie": 3371,
@@ -1314,9 +1603,18 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 43892,
-          "titre": "NUITS BLANCHES",
           "ordre": 1,
+          "idFilm": 43892,
+          "titre": "Nuits blanches",
+          "art": "Les",
+          "titreVo": "Notti bianche",
+          "artVo": "Le",
+          "realisateurs": "Luchino Visconti",
+          "annee": 1957,
+          "generique": "Marcello Mastroianni, Maria Schell, Jean Marais",
+          "adaptation": "D'après le roman _Les Nuits blanches_ de Fiodor Mikhaïlovitch Dostoïevski.",
+          "synopsis": "Une nuit, un homme rencontre une jeune femme oubliée par son amant et qui vit dans l'espoir de son retour.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 28065,
@@ -1332,7 +1630,7 @@
     {
       "idSeance": 131386,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 786,
           "idCategorie": 3371,
@@ -1347,9 +1645,18 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 43797,
-          "titre": "PIGEON",
           "ordre": 1,
+          "idFilm": 43797,
+          "titre": "Pigeon",
+          "art": "Le",
+          "titreVo": "Soliti ignoti",
+          "artVo": "I",
+          "realisateurs": "Mario Monicelli",
+          "annee": 1958,
+          "generique": "Marcello Mastroianni, Vittorio Gassman, Totò, Claudia Cardinale",
+          "synopsis": "En prison, Cosimo révèle à Peppe les détails du gros coup infaillible qu'il se réserve pour sa sortie. Mais Peppe est libéré le premier et organise le casse avec les complices de Cosimo.",
+          "commentaire": "Enthousiasmés par le film de Jules Dassin, _Du rififi chez les hommes_, Monicelli et ses scénaristes. Cecchi D'Amico, Age et Scarpelli. imaginent une version italienne. Une bande de branquignols se mettent en tête d'organiser le casse du siècle, évidemment foireux. Au-delà de la cocasserie, le film reflète ce climat d'amertume et d'échec qui seront la marque de la comédie italienne. Ses interprètes s'y donnent de savoureuses répliques et campent des personnages aussi drôles que pittoresques. Artisans d'un fiasco flamboyant, ces clowns pitoyables contribuent à la magie de cette œuvre charnière, inspirant autant Louis Malle pour _Crackers_ que Bob Fosse à Broadway pour _Big Deal_.",
+          "status": 2,
           "copies": []
         }
       ]
@@ -1357,7 +1664,7 @@
     {
       "idSeance": 131425,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 786,
           "idCategorie": 3371,
@@ -1372,9 +1679,18 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 42451,
-          "titre": "NUIT",
           "ordre": 1,
+          "idFilm": 42451,
+          "titre": "Nuit",
+          "art": "La",
+          "titreVo": "Notte",
+          "artVo": "La",
+          "realisateurs": "Michelangelo Antonioni",
+          "annee": 1960,
+          "generique": "Marcello Mastroianni, Jeanne Moreau, Monica Vitti",
+          "synopsis": "Les dernières heures vécues ensemble d'un couple d'intellectuels bourgeois, lors d'une soirée mondaine.",
+          "miniTexte": "Antonioni met en scène la destruction annoncée d'un couple, file la métaphore d'un urbanisme hostile pour figurer la fragilité des sentiments, amorce avec Mastroianni l'érosion de l'idéal mâle italien, et fait de Jeanne Moreau une égérie de la résignation. Il filme le vide, l'ennui, et invente une nouvelle forme qui à elle seule fait vaciller l'édifice du néoréalisme, et lui vaudra l'Ours d'or à Berlin.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 6223,
@@ -1390,7 +1706,7 @@
     {
       "idSeance": 131426,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 786,
           "idCategorie": 3371,
@@ -1405,9 +1721,15 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 41959,
-          "titre": "DIVORCE À L'ITALIENNE",
           "ordre": 1,
+          "idFilm": 41959,
+          "titre": "Divorce à l'italienne",
+          "titreVo": "Divorzio all'italiana",
+          "realisateurs": "Pietro Germi",
+          "annee": 1961,
+          "generique": "Marcello Mastroianni, Daniela Rocca, Stefania Sandrelli",
+          "synopsis": "Un baron sicilien tombe amoureux de sa jeune cousine et cherche à se débarrasser de sa femme.",
+          "status": 0,
           "copies": []
         }
       ]
@@ -1415,7 +1737,7 @@
     {
       "idSeance": 133639,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 11,
           "idCategorie": 3351,
@@ -1430,9 +1752,12 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 154798,
-          "titre": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 1",
           "ordre": 1,
+          "idFilm": 154798,
+          "titre": "Napoléon vu par Abel Gance (partie 1)",
+          "realisateurs": "Abel Gance",
+          "annee": 1927,
+          "status": 1,
           "copies": [
             {
               "idCopie": 27803,
@@ -1442,9 +1767,12 @@
           ]
         },
         {
-          "idFilm": 154797,
-          "titre": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 2",
           "ordre": 2,
+          "idFilm": 154797,
+          "titre": "Napoléon vu par Abel Gance (partie 2)",
+          "realisateurs": "Abel Gance",
+          "annee": 1927,
+          "status": 1,
           "copies": [
             {
               "idCopie": 27804,
@@ -1458,7 +1786,7 @@
     {
       "idSeance": 131483,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 786,
           "idCategorie": 3371,
@@ -1473,9 +1801,15 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 45957,
-          "titre": "RAPT À L'ITALIENNE",
           "ordre": 1,
+          "idFilm": 45957,
+          "titre": "Rapt à l'italienne",
+          "titreVo": "Mordi e fuggi",
+          "realisateurs": "Dino Risi",
+          "annee": 1972,
+          "generique": "Marcello Mastroianni, Nicoletta Machiavelli, Oliver Reed",
+          "synopsis": "Un industriel et sa maîtresse sont pris en otage par une bande de terroristes en fuite.",
+          "status": 2,
           "copies": []
         }
       ]
@@ -1483,7 +1817,7 @@
     {
       "idSeance": 131488,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 757,
           "idCategorie": 3273,
@@ -1498,9 +1832,14 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 48693,
-          "titre": "VÉNUS AVEUGLE",
           "ordre": 1,
+          "idFilm": 48693,
+          "titre": "Vénus aveugle",
+          "realisateurs": "Abel Gance",
+          "annee": 1940,
+          "generique": "Viviane Romance, Georges Flamant, Henri Guisol",
+          "synopsis": "Clarisse, belle jeune femme qui a posé pour la publicité des cigarettes « Vénus », apprend qu'elle va bientôt devenir aveugle. Pour éviter à son amant, Madère, la compagnie d'une infirme, elle simule une infidélité ce qui provoque leur rupture.",
+          "status": 0,
           "copies": []
         }
       ]
@@ -1508,7 +1847,7 @@
     {
       "idSeance": 131484,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 786,
           "idCategorie": 3371,
@@ -1523,9 +1862,16 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 48437,
-          "titre": "GRANDE BOUFFE",
           "ordre": 1,
+          "idFilm": 48437,
+          "titre": "Grande bouffe",
+          "art": "La",
+          "realisateurs": "Marco Ferreri",
+          "annee": 1973,
+          "generique": "Marcello Mastroianni, Philippe Noiret, Michel Piccoli, Ugo Tognazzi, Andréa Ferréol",
+          "synopsis": "Fatigués de vivre, quatre hommes se réunissent dans une villa isolée pour célébrer la bouffe, le sexe, l'amitié et la mort.",
+          "commentaire": "Sur la table, pâtés de foie, poulettes de Bresse, cuissots de chevreuil, sein en gélatine et tarte aux fesses. Cest un banquet qui sent le vomi, la merde et le sexe. La chère et la chair se rejoignent dans un excès de sueurs, vertiges et hurlements. Tognazzi, Mastroianni, Piccoli et Noiret, accompagnés d'Andréa Ferréol, s'adonnent aux bacchanales de Ferreri, se goinfrant jusqu'à en crever. Quatre personnages dans leur rôle de machine. « Une machine à manger, à baiser, à chier », dans ce que le cinéaste décrit lui-même comme une « farce physiologique », exprimant un rejet catégorique de la société de consommation. Une œuvre radicale, d'un profond désespoir, qui laisse le public du Festival de Cannes au bord de la nausée. « C'est immonde ! Une ignominie ! Vous êtes de honteux pornographes ! », entend-on à la descente des marches. Le producteur Jean-Pierre Rassam profite du scandale pour faire monter la sauce et déclare que « les gens de cinéma sont tous des cons ». Les semaines suivantes, dans le plus grand calme, les spectateurs se rendent en nombre voir le film. Déjà culte.",
+          "status": 2,
           "copies": []
         }
       ]
@@ -1533,7 +1879,7 @@
     {
       "idSeance": 131495,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 794,
           "idCategorie": 3383,
@@ -1555,9 +1901,12 @@
       "typeSeance": 43,
       "items": [
         {
-          "idFilm": 154849,
-          "titre": "MA VIE MA GUEULE",
           "ordre": 1,
+          "idFilm": 154849,
+          "titre": "Ma vie, ma gueule",
+          "realisateurs": "Sophie Fillières",
+          "annee": 2023,
+          "status": 1,
           "copies": []
         }
       ],
@@ -1566,7 +1915,7 @@
     {
       "idSeance": 131535,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 794,
           "idCategorie": 3383,
@@ -1581,9 +1930,13 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 52078,
-          "titre": "GRANDE PETITE",
           "ordre": 1,
+          "idFilm": 52078,
+          "titre": "Grande petite",
+          "realisateurs": "Sophie Fillières",
+          "annee": 1993,
+          "generique": "Judith Godrèche, Hélène Fillières, Emmanuel Salinger",
+          "status": 0,
           "copies": []
         }
       ]
@@ -1591,7 +1944,7 @@
     {
       "idSeance": 131533,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 786,
           "idCategorie": 3371,
@@ -1606,9 +1959,16 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 45182,
-          "titre": "HUIT ET DEMI",
           "ordre": 1,
+          "idFilm": 45182,
+          "titre": "8½",
+          "titreVo": "Otto e mezzo",
+          "realisateurs": "Federico Fellini",
+          "annee": 1962,
+          "generique": "Marcello Mastroianni, Claudia Cardinale, Anouk Aimée",
+          "synopsis": "Le cinéaste Guido Anselmi, en cure dans une station thermale, éprouve la crise du créateur. Alors qu'il cherche l'inspiration pour son prochain film, il se trouve happé par ses souvenirs et ses fantasmes.",
+          "commentaire": "« Au moment du tournage de _8½_, il m'arriva une chose que je redoutais depuis longtemps. Je fus victime d'un blocage, comme les écrivains en ont parfois devant leur page blanche. » Le blocage de Fellini devint le sujet même du film. Les angoisses d'un cinéaste en mal d'inspiration et en mal de vivre tout court. Guido/Mastroianni, double notoire arborant tous les attributs felliniens (manteau noir, écharpe et Borsalino), se laisse porter par le souffle du vent à travers les fantasmes et les rêves du passé, jusqu'à la farandole finale, d'une beauté infinie, indissociable du thème légendaire de la fanfare de Nino Rota.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 16659,
@@ -1624,7 +1984,7 @@
     {
       "idSeance": 131536,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 794,
           "idCategorie": 3383,
@@ -1639,9 +1999,13 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 69656,
-          "titre": "AÏE",
           "ordre": 1,
+          "idFilm": 69656,
+          "titre": "Aïe",
+          "realisateurs": "Sophie Fillières",
+          "annee": 1999,
+          "generique": "André Dussollier, Hélène Fillières, Emmanuelle Devos, Gisèle Casadesus",
+          "status": 0,
           "copies": []
         }
       ]
@@ -1649,7 +2013,7 @@
     {
       "idSeance": 131681,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 624,
           "idCategorie": 2673,
@@ -1671,9 +2035,14 @@
       "typeSeance": 43,
       "items": [
         {
-          "idFilm": 154784,
-          "titre": "SHROUDS",
           "ordre": 1,
+          "idFilm": 154784,
+          "titre": "Shrouds",
+          "art": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 2024,
+          "synopsis": "Karsh, 50 ans, est un homme d'affaires renommé. Inconsolable depuis le décès de son épouse, il invente un système révolutionnaire et controversé, GraveTech, qui permet aux vivants de se connecter à leurs chers disparus dans leurs linceuls. Une nuit, plusieurs tombes, dont celle de sa femme, sont vandalisées. Karsh se met en quête des coupables.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 27696,
@@ -1690,7 +2059,7 @@
     {
       "idSeance": 132091,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 788,
           "idCategorie": 3373,
@@ -1706,9 +2075,12 @@
       "typeSeance": 44,
       "items": [
         {
-          "idFilm": 29079,
-          "titre": "KAÏRAT",
           "ordre": 1,
+          "idFilm": 29079,
+          "titre": "Kaïrat",
+          "realisateurs": "Darejan Omirbaev",
+          "annee": 1991,
+          "status": 0,
           "copies": []
         }
       ],
@@ -1717,7 +2089,7 @@
     {
       "idSeance": 132171,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 788,
           "idCategorie": 3373,
@@ -1732,9 +2104,12 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 60519,
-          "titre": "KARDIOGRAMMA",
           "ordre": 1,
+          "idFilm": 60519,
+          "titre": "Kardiogramma",
+          "realisateurs": "Darejan Omirbaev",
+          "annee": 1995,
+          "status": 0,
           "copies": []
         }
       ]
@@ -1742,7 +2117,7 @@
     {
       "idSeance": 132172,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 788,
           "idCategorie": 3373,
@@ -1757,9 +2132,13 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 29437,
-          "titre": "TUEUR À GAGES",
           "ordre": 1,
+          "idFilm": 29437,
+          "titre": "Tueur à gages",
+          "titreVo": "Killer",
+          "realisateurs": "Darejan Omirbaev",
+          "annee": 1997,
+          "status": 0,
           "copies": []
         }
       ]
@@ -1767,7 +2146,7 @@
     {
       "idSeance": 132213,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 788,
           "idCategorie": 3373,
@@ -1782,9 +2161,14 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 76647,
-          "titre": "ROUTE",
           "ordre": 1,
+          "idFilm": 76647,
+          "titre": "Route",
+          "art": "La",
+          "titreVo": "Jol",
+          "realisateurs": "Darejan Omirbaev",
+          "annee": 2000,
+          "status": 0,
           "copies": []
         }
       ]
@@ -1792,7 +2176,7 @@
     {
       "idSeance": 132214,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 788,
           "idCategorie": 3373,
@@ -1807,9 +2191,13 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 106346,
-          "titre": "CHOUGA",
           "ordre": 1,
+          "idFilm": 106346,
+          "titre": "Chouga",
+          "titreVo": "Shuga",
+          "realisateurs": "Darejan Omirbaev",
+          "annee": 2007,
+          "status": 0,
           "copies": []
         }
       ]
@@ -1817,7 +2205,7 @@
     {
       "idSeance": 133631,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 788,
           "idCategorie": 3373,
@@ -1832,9 +2220,13 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 106346,
-          "titre": "CHOUGA",
           "ordre": 1,
+          "idFilm": 106346,
+          "titre": "Chouga",
+          "titreVo": "Shuga",
+          "realisateurs": "Darejan Omirbaev",
+          "annee": 2007,
+          "status": 0,
           "copies": []
         }
       ]
@@ -1842,7 +2234,7 @@
     {
       "idSeance": 133632,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 788,
           "idCategorie": 3373,
@@ -1857,9 +2249,15 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 116510,
-          "titre": "ETUDIANT",
           "ordre": 1,
+          "idFilm": 116510,
+          "titre": "Etudiant",
+          "art": "L'",
+          "titreVo": "Student",
+          "realisateurs": "Darezhan Omirbayev",
+          "annee": 2011,
+          "adaptation": "D'après le roman _Crime et châtiment_ de Fiodor Mikhaïlovitch Dostoïevski.",
+          "status": 0,
           "copies": []
         }
       ]
@@ -1867,7 +2265,7 @@
     {
       "idSeance": 132233,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 788,
           "idCategorie": 3373,
@@ -1882,9 +2280,14 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 154832,
-          "titre": "POÈTE",
           "ordre": 1,
+          "idFilm": 154832,
+          "titre": "Poète",
+          "art": "Le",
+          "titreVo": "Akyn",
+          "realisateurs": "Darezhan Omirbaev",
+          "annee": 2021,
+          "status": 0,
           "copies": []
         }
       ]
@@ -1892,7 +2295,7 @@
     {
       "idSeance": 132463,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 476,
           "idCategorie": 2201
@@ -1906,9 +2309,16 @@
       "typeSeance": 44,
       "items": [
         {
-          "idFilm": 41789,
-          "titre": "NARCISSE NOIR",
           "ordre": 1,
+          "idFilm": 41789,
+          "titre": "Narcisse noir",
+          "art": "Le",
+          "titreVo": "Black Narcissus",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1947,
+          "generique": "Deborah Kerr, Sabu, David Farrar",
+          "synopsis": "Suite à l'ouverture d'un couvent sur les contreforts de l'Himalaya, cinq sœurs anglicanes rencontrent des difficultés à s'adapter à leur nouvel environnement.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 8430,
@@ -1931,7 +2341,7 @@
     {
       "idSeance": 133629,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 476,
           "idCategorie": 2201
@@ -1944,9 +2354,13 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 107575,
-          "titre": "MY FRIEND THE KING",
           "ordre": 1,
+          "idFilm": 107575,
+          "titre": "My Friend the King",
+          "realisateurs": "Michael Powell",
+          "annee": 1931,
+          "synopsis": "Jim, chauffeur de taxi, se lie d'amitié avec le jeune Roi Ludwig, alors en voyage à Londres. Il va alors se retrouver dans de folles aventures... (Attention : 1 seule source : WIKI ANG)",
+          "status": 0,
           "copies": []
         }
       ]
@@ -1954,7 +2368,7 @@
     {
       "idSeance": 132502,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 791,
           "idCategorie": 3379,
@@ -1970,9 +2384,12 @@
       "typeSeance": 44,
       "items": [
         {
-          "idFilm": 30105,
-          "titre": "TOP SECRET !",
           "ordre": 1,
+          "idFilm": 30105,
+          "titre": "Top Secret!",
+          "realisateurs": "Jim Abrahams, David Zucker, Jerry Zucker",
+          "annee": 1983,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28044,
@@ -1989,7 +2406,7 @@
     {
       "idSeance": 133630,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 476,
           "idCategorie": 2201
@@ -2002,17 +2419,60 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 107603,
-          "titre": "TWO CROWDED HOURS",
           "ordre": 1,
+          "idFilm": 107603,
+          "titre": "Two Crowded Hours",
+          "realisateurs": "Michael Powell",
+          "annee": 1931,
+          "synopsis": "Evadé de prison, un meurtrier cherche à éliminer ceux qui ont témoigné contre lui. Aidé par un conducteur de taxi, un policier se met à sa recherche.",
+          "status": 0,
           "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 132541,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21666,
+      "typeEvenement": 13,
+      "libelleEvenement": "49ÈME PARALLÈLE",
+      "dateHeure": "2024-10-25T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40553,
+          "titre": "49e parallèle",
+          "titreVo": "49th Parallel",
+          "realisateurs": "Michael Powell",
+          "annee": 1941,
+          "synopsis": "Après que leur sous-marin ait été bombardé par les canadiens, six nazis se retrouvent seuls sur le territoire nord-américain. Ils tentent alors de rejoindre les Etats-Unis neutres pour retourner en Allemagne.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 20230,
+              "duree": 123,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 20287,
+              "duree": 123
+            }
+          ]
         }
       ]
     },
     {
       "idSeance": 132581,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 476,
           "idCategorie": 2201
@@ -2025,9 +2485,16 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 42024,
-          "titre": "COLONEL BLIMP",
           "ordre": 1,
+          "idFilm": 42024,
+          "titre": "Colonel Blimp",
+          "titreVo": "Life and Death of Colonel Blimp",
+          "artVo": "The",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1942,
+          "generique": "Anton Walbrook, Deborah Kerr, Roger Livesey, Roland Culver",
+          "synopsis": "A la suite d'un duel, Candy et Théo, respectivement anglais et allemand, se lient d'amitié l'un pour l'autre.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 20203,
@@ -2055,7 +2522,7 @@
     {
       "idSeance": 132582,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 476,
           "idCategorie": 2201
@@ -2068,9 +2535,17 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 42561,
-          "titre": "CHAUSSONS ROUGES",
           "ordre": 1,
+          "idFilm": 42561,
+          "titre": "Chaussons rouges",
+          "art": "Les",
+          "titreVo": "Red Shoes",
+          "artVo": "The",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1947,
+          "adaptation": "D'après la nouvelle _De røde sko_ de Hans Christian Andersen.",
+          "synopsis": "Quand Victoria, danseuse étoile des « Chaussons rouges », tombe amoureuse du compositeur de l'opéra, le cruel directeur va tout faire pour, au nom de l'art, séparer les deux jeunes amoureux.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 20216,
@@ -2086,7 +2561,7 @@
     {
       "idSeance": 132583,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 476,
           "idCategorie": 2201
@@ -2099,9 +2574,16 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 41089,
-          "titre": "RENARDE",
           "ordre": 1,
+          "idFilm": 41089,
+          "titre": "Renarde",
+          "art": "La",
+          "titreVo": "Gone to Earth",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1950,
+          "adaptation": "D'après le roman _Gone to earth_ de Mary Webb.",
+          "synopsis": "Au XIXe siecle, en Angleterre près du pays de Galles, Hazel Woodus vit en communion avec la nature. Elle a pour amie et confidente une renarde. Mais le châtelain, chasseur de renards, la poursuit, tandis que le pasteur du village la demande en mariage.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 20278,
@@ -2123,7 +2605,7 @@
     {
       "idSeance": 132687,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 476,
           "idCategorie": 2201
@@ -2136,9 +2618,16 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 35996,
-          "titre": "VOYEUR",
           "ordre": 1,
+          "idFilm": 35996,
+          "titre": "Voyeur",
+          "art": "Le",
+          "titreVo": "Peeping Tom",
+          "realisateurs": "Michael Powell",
+          "annee": 1959,
+          "generique": "Karlheinz Böhm, Anna Massey, Maxine Audley, Moira Shearer",
+          "synopsis": "Un photographe tue ses modèles avec un stylet installé dans son trépied. Il filme la scène, cherchant ainsi à capturer le visage de la peur.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 20208,
@@ -2154,7 +2643,7 @@
     {
       "idSeance": 132727,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 476,
           "idCategorie": 2201
@@ -2167,9 +2656,13 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 41074,
-          "titre": "A CANTERBURY TALE",
           "ordre": 1,
+          "idFilm": 41074,
+          "titre": "A Canterbury Tale",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1944,
+          "synopsis": "Rencontrés par hasard à la sortie d'un train, un sergent américain en permission, un soldat anglais et une jeune volontaire se retrouvent à enquêter sur des agressions qui ont lieu dans ce village aux abords de Canterbury...",
+          "status": 0,
           "copies": [
             {
               "idCopie": 20288,
@@ -2191,7 +2684,7 @@
     {
       "idSeance": 132728,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 476,
           "idCategorie": 2201
@@ -2204,9 +2697,14 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 41083,
-          "titre": "UNE QUESTION DE VIE OU DE MORT",
           "ordre": 1,
+          "idFilm": 41083,
+          "titre": "Une question de vie ou de mort",
+          "titreVo": "A Matter of Life and Death",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1946,
+          "synopsis": "Alors que son bombardier prend feu, le commandant Peter Carter s'en sort indemne. Peu de temps après, son guide céleste vient néanmoins le trouver, lui expliquant qu'il n'est pas parvenu à le trouver dans le brouillard. Il tente alors de le convaincre de le suivre au paradis.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 20223,
@@ -2222,7 +2720,7 @@
     {
       "idSeance": 132770,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 476,
           "idCategorie": 2201
@@ -2235,9 +2733,18 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 42029,
-          "titre": "CONTES D'HOFFMANN",
           "ordre": 1,
+          "idFilm": 42029,
+          "titre": "Contes d'Hoffmann",
+          "art": "Les",
+          "titreVo": "Tales of Hoffmann",
+          "artVo": "The",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1950,
+          "generique": "Robert Rounseville, Moira Shearer, Robert Helpmann, Léonide Massine",
+          "adaptation": "D'après le livret français _Les Contes d'Hoffmann_ de Jules Barbier.  \nD'après l'opéra _Les Contes d'Hoffmann_ de Jacques Offenbach.  \nD'après l'adaptation de l'opéra de Jacques Offenbach _Les Contes d'Hoffmann_ de Dennis Arundell.",
+          "synopsis": "Alors qu'il attend son nouvel amour à la sortie d'un ballet, le poète Hoffmann se remémore trois expériences sentimentales malheureuses.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 5915,
@@ -2253,7 +2760,7 @@
     {
       "idSeance": 132983,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2275,9 +2782,12 @@
       "typeSeance": 43,
       "items": [
         {
-          "idFilm": 154848,
-          "titre": "FINALEMENT",
           "ordre": 1,
+          "idFilm": 154848,
+          "titre": "Finalement",
+          "realisateurs": "Claude Lelouch",
+          "annee": 2024,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28036,
@@ -2292,7 +2802,7 @@
     {
       "idSeance": 133023,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2307,9 +2817,14 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 49810,
-          "titre": "VIVRE POUR VIVRE",
           "ordre": 1,
+          "idFilm": 49810,
+          "titre": "Vivre pour vivre",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1966,
+          "generique": "Yves Montand, Annie Girardot, Candice Bergen",
+          "synopsis": "Dans les années 1960, un reporter de guerre marié rencontre un jour une jeune femme dont il tombe amoureux. Son épouse, se sentant délaissée, décide de le quitter.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 22953,
@@ -2322,7 +2837,7 @@
     {
       "idSeance": 133024,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2337,9 +2852,13 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 49809,
-          "titre": "VIE, L'AMOUR, LA MORT",
           "ordre": 1,
+          "idFilm": 49809,
+          "titre": "Vie, l'amour, la mort",
+          "art": "La",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1968,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28041,
@@ -2352,7 +2871,7 @@
     {
       "idSeance": 133101,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2367,9 +2886,12 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 49740,
-          "titre": "UN HOMME QUI ME PLAÎT",
           "ordre": 1,
+          "idFilm": 49740,
+          "titre": "Un homme qui me plaît",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1969,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28046,
@@ -2382,7 +2904,7 @@
     {
       "idSeance": 133102,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2397,9 +2919,13 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 49811,
-          "titre": "VOYOU",
           "ordre": 1,
+          "idFilm": 49811,
+          "titre": "Voyou",
+          "art": "Le",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1970,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28047,
@@ -2412,7 +2938,7 @@
     {
       "idSeance": 133139,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2427,9 +2953,13 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 49804,
-          "titre": "AVENTURE, C'EST L'AVENTURE",
           "ordre": 1,
+          "idFilm": 49804,
+          "titre": "Aventure, c'est l'aventure",
+          "art": "L'",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1971,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28050,
@@ -2442,7 +2972,7 @@
     {
       "idSeance": 133144,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2457,9 +2987,15 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 57973,
-          "titre": "BONNE ANNÉE",
           "ordre": 1,
+          "idFilm": 57973,
+          "titre": "Bonne année",
+          "art": "La",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1973,
+          "generique": "Lino Ventura, Françoise Fabian, Charles Gérard",
+          "synopsis": "Apres six ans de prison pour cambriolage, un homme cherche la femme dont il était tombé amoureux à l'époque du hold-up malheureux. Il retrouve une femme émancipée, et entreprend de la reconquérir.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 14634,
@@ -2473,7 +3009,7 @@
     {
       "idSeance": 133162,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2488,9 +3024,12 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 57892,
-          "titre": "MARIAGE",
           "ordre": 1,
+          "idFilm": 57892,
+          "titre": "Mariage",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1974,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28102,
@@ -2503,7 +3042,7 @@
     {
       "idSeance": 133163,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2518,9 +3057,13 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 49805,
-          "titre": "BON ET LES MÉCHANTS",
           "ordre": 1,
+          "idFilm": 49805,
+          "titre": "Bon et les méchants",
+          "art": "Le",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1975,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28053,
@@ -2533,7 +3076,7 @@
     {
       "idSeance": 133171,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2548,9 +3091,14 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 49822,
-          "titre": "UN AUTRE HOMME, UNE AUTRE CHANCE",
           "ordre": 1,
+          "idFilm": 49822,
+          "titre": "Un autre homme, une autre chance",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1976,
+          "generique": "Geneviève Bujold, James Caan, Francis Huster",
+          "synopsis": "Jeanne et Francis tombent amoureux et décident de partir pour le Nouveau Monde. En Arizona, ils rencontrent David et sa femme Mary. Après de nombreuses années et de nombreux drames, Jeanne et David se retrouvent.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 17094,
@@ -2568,7 +3116,7 @@
     {
       "idSeance": 133620,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2583,9 +3131,12 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 49815,
-          "titre": "PARTIR, REVENIR",
           "ordre": 1,
+          "idFilm": 49815,
+          "titre": "Partir, revenir",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1984,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28057,
@@ -2598,7 +3149,7 @@
     {
       "idSeance": 133205,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2613,9 +3164,12 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 49806,
-          "titre": "EDITH ET MARCEL",
           "ordre": 1,
+          "idFilm": 49806,
+          "titre": "Edith et Marcel",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1982,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28056,
@@ -2628,7 +3182,7 @@
     {
       "idSeance": 133622,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2643,9 +3197,13 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 142000,
-          "titre": "PLUS BELLES ANNÉES D'UNE VIE",
           "ordre": 1,
+          "idFilm": 142000,
+          "titre": "Plus belles années d'une vie",
+          "art": "Les",
+          "realisateurs": "Claude Lelouch",
+          "annee": 2018,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28040,
@@ -2658,7 +3216,7 @@
     {
       "idSeance": 133626,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3382,
@@ -2673,9 +3231,12 @@
       "idSalle": "JE",
       "items": [
         {
-          "idFilm": 79168,
-          "titre": "POUR UN MAILLOT JAUNE",
           "ordre": 1,
+          "idFilm": 79168,
+          "titre": "Pour un maillot jaune",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1965,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28037,
@@ -2684,9 +3245,12 @@
           ]
         },
         {
-          "idFilm": 107860,
-          "titre": "C'ÉTAIT UN RENDEZ-VOUS",
           "ordre": 2,
+          "idFilm": 107860,
+          "titre": "C'était un rendez-vous",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1976,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28038,
@@ -2695,9 +3259,13 @@
           ]
         },
         {
-          "idFilm": 62437,
-          "titre": "TREIZE JOURS EN FRANCE",
           "ordre": 3,
+          "idFilm": 62437,
+          "titre": "Treize jours en France",
+          "realisateurs": "Claude Lelouch, François Reichenbach, Willy Bogner, [etc.]",
+          "annee": 1968,
+          "synopsis": "Documentaire sur les Jeux Olympiques de Grenoble de 1968. Plus qu'aux compétitions sportives le film s'intéresse aux à-côtés qui entourent toute manifestation.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 5658,
@@ -2711,7 +3279,7 @@
     {
       "idSeance": 133245,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2726,9 +3294,13 @@
       "idSalle": "HL",
       "items": [
         {
-          "idFilm": 49808,
-          "titre": "UNS ET LES AUTRES",
           "ordre": 1,
+          "idFilm": 49808,
+          "titre": "Uns et les autres",
+          "art": "Les",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1980,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28055,
@@ -2741,7 +3313,7 @@
     {
       "idSeance": 133247,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2756,9 +3328,12 @@
       "idSalle": "JE",
       "items": [
         {
-          "idFilm": 113063,
-          "titre": "D'UN FILM À L'AUTRE",
           "ordre": 1,
+          "idFilm": 113063,
+          "titre": "D'un film à l'autre",
+          "realisateurs": "Claude Lelouch",
+          "annee": 2010,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28062,
@@ -2772,7 +3347,7 @@
     {
       "idSeance": 133623,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2787,9 +3362,12 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 101961,
-          "titre": "ROMAN DE GARE",
           "ordre": 1,
+          "idFilm": 101961,
+          "titre": "Roman de gare",
+          "realisateurs": "Claude Lelouch",
+          "annee": 2006,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28061,
@@ -2803,7 +3381,7 @@
     {
       "idSeance": 133288,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2818,9 +3396,12 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 49807,
-          "titre": "IL Y A DES JOURS ET DES LUNES",
           "ordre": 1,
+          "idFilm": 49807,
+          "titre": "Il y a des jours et des lunes",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1989,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28059,
@@ -2833,7 +3414,7 @@
     {
       "idSeance": 133329,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2848,9 +3429,14 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 52585,
-          "titre": "MISÉRABLES",
           "ordre": 1,
+          "idFilm": 52585,
+          "titre": "Misérables",
+          "art": "Les",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1994,
+          "adaptation": "D'après le roman _Les misérables_ de Victor Hugo.",
+          "status": 0,
           "copies": [
             {
               "idCopie": 28060,
@@ -2863,7 +3449,7 @@
     {
       "idSeance": 133330,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2878,9 +3464,12 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 129283,
-          "titre": "UN + UNE",
           "ordre": 1,
+          "idFilm": 129283,
+          "titre": "Un + une",
+          "realisateurs": "Claude Lelouch",
+          "annee": 2015,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28063,
@@ -2893,7 +3482,7 @@
     {
       "idSeance": 133331,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2908,9 +3497,14 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 49820,
-          "titre": "ITINÉRAIRE D'UN ENFANT GÂTÉ",
           "ordre": 1,
+          "idFilm": 49820,
+          "titre": "Itinéraire d'un enfant gâté",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1988,
+          "generique": "Jean-Paul Belmondo, Richard Anconina, Marie-Sophie L.",
+          "synopsis": "Sam a été élevé dans le milieu du cirque puis a fait une reconversion forcée comme chef d'entreprise. À la cinquantaine, il se lasse de ses responsabilités et décide de disparaître en Afrique.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28058,
@@ -2923,7 +3517,7 @@
     {
       "idSeance": 133625,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2938,9 +3532,12 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 49821,
-          "titre": "TOUTE UNE VIE",
           "ordre": 1,
+          "idFilm": 49821,
+          "titre": "Toute une vie",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1973,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28052,
@@ -2953,7 +3550,7 @@
     {
       "idSeance": 133627,
       "idProg": 182,
-      "idCyclesCategories": [
+      "cycles": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
@@ -2968,9 +3565,12 @@
       "idSalle": "GF",
       "items": [
         {
-          "idFilm": 58209,
-          "titre": "SMIC, SMAC, SMOC",
           "ordre": 1,
+          "idFilm": 58209,
+          "titre": "Smic, Smac, Smoc",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1971,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28048,
