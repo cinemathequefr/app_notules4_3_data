@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-24T14:03:38.468Z",
+  "updatedAt": "2024-04-24T15:10:10.226Z",
   "data": [
     {
       "idSeance": 130975,
@@ -184,43 +184,29 @@
       ]
     },
     {
-      "idSeance": 131055,
+      "idSeance": 133641,
       "idProg": 182,
       "cycles": [
         {
-          "idCycle": 787,
-          "idCategorie": 3372,
-          "titreCycle": "Laurent Achard",
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30874,
+      "idEvenement": 30672,
       "typeEvenement": 13,
-      "libelleEvenement": "PEUR, PETIT CHASSEUR (LA) / PLUS QU'HIER, MOINS QUE DEMAIN",
-      "dateHeure": "2024-08-30T20:00:00",
+      "libelleEvenement": "CYRANO ET D'ARTAGNAN",
+      "dateHeure": "2024-08-30T18:30:00",
       "idSalle": "GF",
       "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
-          "idFilm": 91824,
-          "titre": "Peur, petit chasseur",
-          "art": "La",
-          "realisateurs": "Laurent Achard",
-          "annee": 2003,
-          "generique": "Mireille Roussel, Martin Buisson",
-          "synopsis": "À la campagne, un jour de novembre, un enfant recroquevillé n'ose pas rentrer dans sa maison. Il attend que sa mère le rejoigne dans le jardin.",
-          "status": 2,
-          "copies": []
-        },
-        {
-          "ordre": 2,
-          "idFilm": 64087,
-          "titre": "Plus qu'hier, moins que demain",
-          "realisateurs": "Laurent Achard",
-          "annee": 1998,
-          "generique": "Martin Mihelich, Laëtitia Legrix, Mireille Roussel",
-          "synopsis": "Après une assez longue absence, Sonia revient a l'improviste dans sa famille avec son bébé et son mari. Sonia va faire resurgir des souvenirs douloureux que tous préfèreraient oublier.",
+          "idFilm": 48588,
+          "titre": "Cyrano et d'Artagnan",
+          "realisateurs": "Abel Gance",
+          "annee": 1962,
           "status": 0,
           "copies": []
         }
@@ -269,6 +255,42 @@
       ]
     },
     {
+      "idSeance": 133642,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30047,
+      "typeEvenement": 13,
+      "libelleEvenement": "VÉNUS AVEUGLE",
+      "dateHeure": "2024-08-30T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48693,
+          "titre": "Vénus aveugle",
+          "realisateurs": "Abel Gance",
+          "annee": 1940,
+          "generique": "Viviane Romance, Georges Flamant, Henri Guisol",
+          "synopsis": "Clarisse, belle jeune femme qui a posé pour la publicité des cigarettes « Vénus », apprend qu'elle va bientôt devenir aveugle. Pour éviter à son amant, Madère, la compagnie d'une infirme, elle simule une infidélité ce qui provoque leur rupture.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 9038,
+              "duree": 140,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133624,
       "idProg": 182,
       "cycles": [
@@ -306,108 +328,72 @@
       ]
     },
     {
-      "idSeance": 131097,
+      "idSeance": 133643,
       "idProg": 182,
       "cycles": [
         {
-          "idCycle": 787,
-          "idCategorie": 3374,
-          "titreCycle": "Laurent Achard",
-          "titreSousCycle": "Courts métrages"
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30787,
+      "idEvenement": 30748,
       "typeEvenement": 13,
-      "libelleEvenement": "LES COURTS MÉTRAGES DE LAURENT ACHARD",
+      "libelleEvenement": "WHAT PRICE HOLLYWOOD?",
       "dateHeure": "2024-08-31T15:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 76312,
-          "titre": "Dimanche ou les fantômes",
-          "realisateurs": "Laurent Achard",
-          "annee": 1994,
+          "idFilm": 31528,
+          "titre": "What Price Hollywood ?",
+          "realisateurs": "George Cukor",
+          "annee": 1932,
           "status": 0,
-          "copies": []
-        },
-        {
-          "ordre": 2,
-          "idFilm": 91824,
-          "titre": "Peur, petit chasseur",
-          "art": "La",
-          "realisateurs": "Laurent Achard",
-          "annee": 2003,
-          "generique": "Mireille Roussel, Martin Buisson",
-          "synopsis": "À la campagne, un jour de novembre, un enfant recroquevillé n'ose pas rentrer dans sa maison. Il attend que sa mère le rejoigne dans le jardin.",
-          "status": 2,
-          "copies": []
-        },
-        {
-          "ordre": 3,
-          "idFilm": 75543,
-          "titre": "Qu'en savent les morts ?",
-          "realisateurs": "Laurent Achard",
-          "annee": 1990,
-          "status": 0,
-          "copies": []
-        },
-        {
-          "ordre": 4,
-          "idFilm": 121778,
-          "titre": "Tableau",
-          "art": "Le",
-          "realisateurs": "Laurent Achard",
-          "annee": 2012,
-          "synopsis": "Au crépuscule de leur vie, Odile et Marcèle s'aiment toujours. Atteinte d'une maladie incurable, Odile doit être hospitalisée. Le temps d'un dernier dimanche, ils revoient les gens qu'ils aiment.",
-          "status": 0,
-          "copies": []
-        },
-        {
-          "ordre": 5,
-          "idFilm": 76313,
-          "titre": "Une odeur de géranium",
-          "realisateurs": "Laurent Achard",
-          "annee": 1997,
-          "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 8506,
+              "duree": 88,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
     {
-      "idSeance": 131098,
+      "idSeance": 133649,
       "idProg": 182,
       "cycles": [
         {
-          "idCycle": 787,
-          "idCategorie": 3372,
-          "titreCycle": "Laurent Achard",
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30786,
+      "idEvenement": 30085,
       "typeEvenement": 13,
-      "libelleEvenement": "DERNIER DES FOUS (LE)",
+      "libelleEvenement": "TOUR DE NESLE (LA)",
       "dateHeure": "2024-08-31T17:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 100438,
-          "titre": "Dernier des fous",
-          "art": "Le",
-          "realisateurs": "Laurent Achard",
-          "annee": 2005,
-          "generique": "Julien Cochelin, Pascal Cervo, Annie Cordy",
-          "adaptation": "D'après le roman _The Last of the Crazy People_ de Timothy Findley.",
-          "synopsis": "Le jeune Martin assiste impuissant à la désintégration de sa famille, entre un père absent, une mère presque folle, et un grand frère dépressif. Il ne trouve de réconfort qu'auprès de son chat et de la bonne, jusqu'au jour où il décide d'agir.",
-          "status": 2,
+          "idFilm": 48690,
+          "titre": "Tour de Nesle",
+          "art": "La",
+          "realisateurs": "Abel Gance",
+          "annee": 1955,
+          "generique": "Silvana Pampanini, Pierre Brasseur, Claude Sylvain",
+          "synopsis": "Sous Louis X, la tour de Nesles est le théâtre des orgies de la reine Marguerite de Bourgogne et de deux de ses amies princesses qui font assassiner leurs amants au petit matin.",
+          "status": 0,
           "copies": [
             {
-              "idCopie": 2291,
-              "duree": 96,
-              "format": "35 mm",
-              "version": "VF"
+              "idCopie": 28127,
+              "duree": 120
             }
           ]
         }
@@ -467,7 +453,7 @@
       "idEvenement": 30068,
       "typeEvenement": 13,
       "libelleEvenement": "ROMAN D'UN JEUNE HOMME PAUVRE (LE)",
-      "dateHeure": "2024-08-31T19:45:00",
+      "dateHeure": "2024-08-31T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1203,68 +1189,48 @@
       ]
     },
     {
-      "idSeance": 131241,
+      "idSeance": 133645,
       "idProg": 182,
       "cycles": [
         {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
+          "idCycle": 787,
+          "idCategorie": 3372,
+          "titreCycle": "Laurent Achard",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30672,
+      "idEvenement": 30874,
       "typeEvenement": 13,
-      "libelleEvenement": "CYRANO ET D'ARTAGNAN",
-      "dateHeure": "2024-09-06T19:30:00",
+      "libelleEvenement": "PEUR, PETIT CHASSEUR (LA) / PLUS QU'HIER, MOINS QUE DEMAIN",
+      "dateHeure": "2024-09-06T20:00:00",
       "idSalle": "GF",
+      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
-          "idFilm": 48588,
-          "titre": "Cyrano et d'Artagnan",
-          "realisateurs": "Abel Gance",
-          "annee": 1962,
+          "idFilm": 91824,
+          "titre": "Peur, petit chasseur",
+          "art": "La",
+          "realisateurs": "Laurent Achard",
+          "annee": 2003,
+          "generique": "Mireille Roussel, Martin Buisson",
+          "synopsis": "À la campagne, un jour de novembre, un enfant recroquevillé n'ose pas rentrer dans sa maison. Il attend que sa mère le rejoigne dans le jardin.",
+          "status": 2,
+          "copies": []
+        },
+        {
+          "ordre": 2,
+          "idFilm": 64087,
+          "titre": "Plus qu'hier, moins que demain",
+          "realisateurs": "Laurent Achard",
+          "annee": 1998,
+          "generique": "Martin Mihelich, Laëtitia Legrix, Mireille Roussel",
+          "synopsis": "Après une assez longue absence, Sonia revient a l'improviste dans sa famille avec son bébé et son mari. Sonia va faire resurgir des souvenirs douloureux que tous préfèreraient oublier.",
           "status": 0,
           "copies": []
         }
-      ]
-    },
-    {
-      "idSeance": 131242,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
       ],
-      "idEvenement": 30047,
-      "typeEvenement": 13,
-      "libelleEvenement": "VÉNUS AVEUGLE",
-      "dateHeure": "2024-09-06T20:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48693,
-          "titre": "Vénus aveugle",
-          "realisateurs": "Abel Gance",
-          "annee": 1940,
-          "generique": "Viviane Romance, Georges Flamant, Henri Guisol",
-          "synopsis": "Clarisse, belle jeune femme qui a posé pour la publicité des cigarettes « Vénus », apprend qu'elle va bientôt devenir aveugle. Pour éviter à son amant, Madère, la compagnie d'une infirme, elle simule une infidélité ce qui provoque leur rupture.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 9038,
-              "duree": 140,
-              "format": "35 mm"
-            }
-          ]
-        }
-      ]
+      "mention": "Ouverture de la rétrospective"
     },
     {
       "idSeance": 133636,
@@ -1338,38 +1304,39 @@
       ]
     },
     {
-      "idSeance": 131284,
+      "idSeance": 133644,
       "idProg": 182,
       "cycles": [
         {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
+          "idCycle": 787,
+          "idCategorie": 3372,
+          "titreCycle": "Laurent Achard",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30733,
+      "idEvenement": 30786,
       "typeEvenement": 13,
-      "libelleEvenement": "QUATRE FILLES DU DOCTEUR MARCH (LES)",
+      "libelleEvenement": "DERNIER DES FOUS (LE)",
       "dateHeure": "2024-09-07T17:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 31471,
-          "titre": "Quatre filles du docteur March",
-          "art": "Les",
-          "titreVo": "Little Women",
-          "realisateurs": "George Cukor",
-          "annee": 1933,
-          "status": 0,
+          "idFilm": 100438,
+          "titre": "Dernier des fous",
+          "art": "Le",
+          "realisateurs": "Laurent Achard",
+          "annee": 2005,
+          "generique": "Julien Cochelin, Pascal Cervo, Annie Cordy",
+          "adaptation": "D'après le roman _The Last of the Crazy People_ de Timothy Findley.",
+          "synopsis": "Le jeune Martin assiste impuissant à la désintégration de sa famille, entre un père absent, une mère presque folle, et un grand frère dépressif. Il ne trouve de réconfort qu'auprès de son chat et de la bonne, jusqu'au jour où il décide d'agir.",
+          "status": 2,
           "copies": [
             {
-              "idCopie": 25532,
-              "duree": 115,
+              "idCopie": 2291,
+              "duree": 96,
               "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
+              "version": "VF"
             }
           ]
         }
@@ -1410,6 +1377,62 @@
               "version": "VO"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131286,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 787,
+          "idCategorie": 3375,
+          "titreCycle": "Laurent Achard",
+          "titreSousCycle": "Documentaires sur le cinéma"
+        }
+      ],
+      "idEvenement": 30872,
+      "typeEvenement": 13,
+      "libelleEvenement": "BRISSEAU, 251 RUE MARCADET",
+      "dateHeure": "2024-09-07T19:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154839,
+          "titre": "Brisseau, 251 rue Marcadet",
+          "realisateurs": "Laurent Achard",
+          "annee": 2018,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 133647,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 787,
+          "idCategorie": 3372,
+          "titreCycle": "Laurent Achard",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30873,
+      "typeEvenement": 13,
+      "libelleEvenement": "JEAN-FRANÇOIS STÉVENIN : SIMPLES MESSIEURS",
+      "dateHeure": "2024-09-07T21:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154840,
+          "titre": "Jean-François Stévenin : Simples Messieurs",
+          "realisateurs": "Laurent Achard",
+          "annee": 2020,
+          "status": 0,
+          "copies": []
         }
       ]
     },
@@ -1468,6 +1491,34 @@
       ]
     },
     {
+      "idSeance": 131302,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 787,
+          "idCategorie": 3372,
+          "titreCycle": "Laurent Achard",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30788,
+      "typeEvenement": 13,
+      "libelleEvenement": "DERNIÈRE SÉANCE",
+      "dateHeure": "2024-09-08T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 114854,
+          "titre": "Dernière séance",
+          "realisateurs": "Laurent Achard",
+          "annee": 2010,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 131297,
       "idProg": 182,
       "cycles": [
@@ -1494,6 +1545,35 @@
           "annee": 1959,
           "adaptation": "D'après le roman _Heller with a gun_ de Louis L'Amour.",
           "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131300,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 787,
+          "idCategorie": 3375,
+          "titreCycle": "Laurent Achard",
+          "titreSousCycle": "Documentaires sur le cinéma"
+        }
+      ],
+      "idEvenement": 30789,
+      "typeEvenement": 13,
+      "libelleEvenement": "PATRICIA MAZUY : AVANT SATURNE",
+      "dateHeure": "2024-09-08T19:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 153932,
+          "titre": "Patricia Mazuy : avant Saturne",
+          "realisateurs": "Laurent Achard",
+          "annee": 2022,
+          "synopsis": "À Caen, Laurent Achard suit Patricia Mazuy et son équipe dans les préparatifs de son film _Bowling Saturne_.",
+          "status": 2,
           "copies": []
         }
       ]
@@ -1531,6 +1611,40 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131303,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30076,
+      "typeEvenement": 13,
+      "libelleEvenement": "MATER DOLOROSA",
+      "dateHeure": "2024-09-08T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48684,
+          "titre": "Mater Dolorosa",
+          "realisateurs": "Abel Gance",
+          "annee": 1932,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28111,
+              "duree": 93,
+              "format": "35 mm"
             }
           ]
         }
@@ -1857,42 +1971,6 @@
           "synopsis": "Un industriel et sa maîtresse sont pris en otage par une bande de terroristes en fuite.",
           "status": 2,
           "copies": []
-        }
-      ]
-    },
-    {
-      "idSeance": 131488,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30047,
-      "typeEvenement": 13,
-      "libelleEvenement": "VÉNUS AVEUGLE",
-      "dateHeure": "2024-09-15T17:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48693,
-          "titre": "Vénus aveugle",
-          "realisateurs": "Abel Gance",
-          "annee": 1940,
-          "generique": "Viviane Romance, Georges Flamant, Henri Guisol",
-          "synopsis": "Clarisse, belle jeune femme qui a posé pour la publicité des cigarettes « Vénus », apprend qu'elle va bientôt devenir aveugle. Pour éviter à son amant, Madère, la compagnie d'une infirme, elle simule une infidélité ce qui provoque leur rupture.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 9038,
-              "duree": 140,
-              "format": "35 mm"
-            }
-          ]
         }
       ]
     },
