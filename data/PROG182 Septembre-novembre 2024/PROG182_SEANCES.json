@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-24T10:27:58.825Z",
+  "updatedAt": "2024-04-24T12:27:46.100Z",
   "data": [
     {
       "idSeance": 130975,
@@ -995,7 +995,13 @@
           "generique": "Victor Francen, Line Noro, Jean Max, Renée Devillers",
           "synopsis": "Jean Diaz, scientifique, s'est juré d'empêcher une nouvelle guerre. Il invente un verre indestructible dont l'invention lui est volée et sombre dans la folie. Vingt ans plus tard, il retrouve sa raison pour apprendre qu'une nouvelle guerre se prépare.",
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 3500,
+              "duree": 118,
+              "format": "35 mm"
+            }
+          ]
         }
       ]
     },
