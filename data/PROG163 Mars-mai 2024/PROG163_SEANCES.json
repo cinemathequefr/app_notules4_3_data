@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-24T10:30:39.424Z",
+  "updatedAt": "2024-04-25T14:49:40.031Z",
   "data": [
     {
       "idSeance": 123138,
@@ -8576,7 +8576,7 @@
               "duree": 17,
               "format": "DCP",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ]
         },
@@ -8595,7 +8595,7 @@
               "duree": 75,
               "format": "DCP",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ]
         }
@@ -9439,7 +9439,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec Atsushi Hirai"
     },
     {
       "idSeance": 122997,
@@ -12219,7 +12220,7 @@
       ]
     },
     {
-      "idSeance": 117709,
+      "idSeance": 133668,
       "idProg": 163,
       "cycles": [
         {
@@ -12229,29 +12230,25 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 29881,
+      "idEvenement": 30940,
       "typeEvenement": 13,
-      "libelleEvenement": "SANS SARAH, RIEN NE VA !",
+      "libelleEvenement": "CRAZY, STUPID, LOVE",
       "dateHeure": "2024-05-23T18:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 104560,
-          "titre": "Sans Sarah, rien ne va !",
-          "titreVo": "Forgetting Sarah Marshall",
-          "realisateurs": "Nicholas Stoller",
-          "annee": 2007,
-          "generique": "Jason Segel, Kristen Bell, Mila Kunis",
-          "miniTexte": "Quitté par sa petite amie, un geek sentimental cherche à tourner la page. Jason Segel (_How I Met Your Mother_) s'est inspiré de sa propre rupture pour écrire un scénario inventif, qui associe intelligence des dialogues et fine caractérisation des personnages. Derrière une alliance inattendue de scabreux et de romantisme, la mélancolie l'emporte finalement pour raconter la complexité du deuil amoureux.",
+          "idFilm": 154873,
+          "titre": "Crazy, Stupid, Love",
+          "realisateurs": "Glenn Ficarra, John Requa",
+          "annee": 2011,
+          "generique": "Steve Carell, Ryan Gosling, Emma Stone",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27076,
-              "duree": 111,
-              "format": "Numérique",
-              "version": "VO",
-              "sousTitres": "STF"
+              "idCopie": 28145,
+              "duree": 118,
+              "format": "DCP"
             }
           ]
         }

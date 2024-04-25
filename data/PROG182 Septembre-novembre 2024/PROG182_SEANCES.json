@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-24T15:10:10.226Z",
+  "updatedAt": "2024-04-25T14:51:56.380Z",
   "data": [
     {
       "idSeance": 130975,
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "idSeance": 131013,
+      "idSeance": 133650,
       "idProg": 182,
       "cycles": [
         {
@@ -90,7 +90,6 @@
       "libelleEvenement": "PARADIS PERDU",
       "dateHeure": "2024-08-29T20:00:00",
       "idSalle": "HL",
-      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -109,8 +108,7 @@
             }
           ]
         }
-      ],
-      "mention": "Ouverture de la rétrospective"
+      ]
     },
     {
       "idSeance": 133611,
@@ -208,7 +206,13 @@
           "realisateurs": "Abel Gance",
           "annee": 1962,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28141,
+              "duree": 146,
+              "format": "35 mm"
+            }
+          ]
         }
       ],
       "mention": "Ouverture de la rétrospective"
@@ -255,7 +259,7 @@
       ]
     },
     {
-      "idSeance": 133642,
+      "idSeance": 133651,
       "idProg": 182,
       "cycles": [
         {
@@ -364,7 +368,7 @@
       ]
     },
     {
-      "idSeance": 133649,
+      "idSeance": 133652,
       "idProg": 182,
       "cycles": [
         {
@@ -467,7 +471,7 @@
           "copies": [
             {
               "idCopie": 28119,
-              "duree": 0,
+              "duree": 120,
               "format": "DCP"
             }
           ]
@@ -721,7 +725,7 @@
       ]
     },
     {
-      "idSeance": 133615,
+      "idSeance": 133653,
       "idProg": 182,
       "cycles": [
         {
@@ -786,7 +790,7 @@
       ]
     },
     {
-      "idSeance": 131125,
+      "idSeance": 133654,
       "idProg": 182,
       "cycles": [
         {
@@ -822,7 +826,7 @@
       ]
     },
     {
-      "idSeance": 131126,
+      "idSeance": 133655,
       "idProg": 182,
       "cycles": [
         {
@@ -896,7 +900,7 @@
       ]
     },
     {
-      "idSeance": 131159,
+      "idSeance": 133656,
       "idProg": 182,
       "cycles": [
         {
@@ -967,7 +971,7 @@
       ]
     },
     {
-      "idSeance": 131163,
+      "idSeance": 133658,
       "idProg": 182,
       "cycles": [
         {
@@ -977,26 +981,24 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30051,
+      "idEvenement": 30036,
       "typeEvenement": 13,
-      "libelleEvenement": "J'ACCUSE",
+      "libelleEvenement": "LOUISE",
       "dateHeure": "2024-09-04T20:45:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 53617,
-          "titre": "J'accuse",
+          "idFilm": 48681,
+          "titre": "Louise",
           "realisateurs": "Abel Gance",
-          "annee": 1937,
-          "generique": "Victor Francen, Line Noro, Jean Max, Renée Devillers",
-          "synopsis": "Jean Diaz, scientifique, s'est juré d'empêcher une nouvelle guerre. Il invente un verre indestructible dont l'invention lui est volée et sombre dans la folie. Vingt ans plus tard, il retrouve sa raison pour apprendre qu'une nouvelle guerre se prépare.",
+          "annee": 1938,
           "status": 0,
           "copies": [
             {
-              "idCopie": 3500,
-              "duree": 118,
-              "format": "35 mm"
+              "idCopie": 28123,
+              "duree": 85,
+              "format": "DCP"
             }
           ]
         }
@@ -1042,7 +1044,7 @@
       ]
     },
     {
-      "idSeance": 131196,
+      "idSeance": 133659,
       "idProg": 182,
       "cycles": [
         {
@@ -1116,7 +1118,7 @@
       ]
     },
     {
-      "idSeance": 133634,
+      "idSeance": 133660,
       "idProg": 182,
       "cycles": [
         {
@@ -1126,24 +1128,26 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30036,
+      "idEvenement": 30051,
       "typeEvenement": 13,
-      "libelleEvenement": "LOUISE",
-      "dateHeure": "2024-09-05T20:30:00",
+      "libelleEvenement": "J'ACCUSE",
+      "dateHeure": "2024-09-05T20:45:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 48681,
-          "titre": "Louise",
+          "idFilm": 53617,
+          "titre": "J'accuse",
           "realisateurs": "Abel Gance",
-          "annee": 1938,
+          "annee": 1937,
+          "generique": "Victor Francen, Line Noro, Jean Max, Renée Devillers",
+          "synopsis": "Jean Diaz, scientifique, s'est juré d'empêcher une nouvelle guerre. Il invente un verre indestructible dont l'invention lui est volée et sombre dans la folie. Vingt ans plus tard, il retrouve sa raison pour apprendre qu'une nouvelle guerre se prépare.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 28123,
-              "duree": 85,
-              "format": "DCP"
+              "idCopie": 3500,
+              "duree": 118,
+              "format": "35 mm"
             }
           ]
         }
@@ -1707,6 +1711,54 @@
       ]
     },
     {
+      "idSeance": 131349,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30039,
+      "typeEvenement": 13,
+      "libelleEvenement": "AUSTERLITZ",
+      "dateHeure": "2024-09-11T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48585,
+          "titre": "Austerlitz",
+          "realisateurs": "Abel Gance",
+          "annee": 1959,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28136,
+              "duree": 137,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 28134,
+              "duree": 165,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 28135,
+              "duree": 165,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 28133,
+              "duree": 165
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133635,
       "idProg": 182,
       "cycles": [
@@ -1817,7 +1869,12 @@
           "synopsis": "En prison, Cosimo révèle à Peppe les détails du gros coup infaillible qu'il se réserve pour sa sortie. Mais Peppe est libéré le premier et organise le casse avec les complices de Cosimo.",
           "commentaire": "Enthousiasmés par le film de Jules Dassin, _Du rififi chez les hommes_, Monicelli et ses scénaristes. Cecchi D'Amico, Age et Scarpelli. imaginent une version italienne. Une bande de branquignols se mettent en tête d'organiser le casse du siècle, évidemment foireux. Au-delà de la cocasserie, le film reflète ce climat d'amertume et d'échec qui seront la marque de la comédie italienne. Ses interprètes s'y donnent de savoureuses répliques et campent des personnages aussi drôles que pittoresques. Artisans d'un fiasco flamboyant, ces clowns pitoyables contribuent à la magie de cette œuvre charnière, inspirant autant Louis Malle pour _Crackers_ que Bob Fosse à Broadway pour _Big Deal_.",
           "status": 2,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28150,
+              "duree": 110
+            }
+          ]
         }
       ]
     },
@@ -1970,7 +2027,15 @@
           "generique": "Marcello Mastroianni, Nicoletta Machiavelli, Oliver Reed",
           "synopsis": "Un industriel et sa maîtresse sont pris en otage par une bande de terroristes en fuite.",
           "status": 2,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 2875,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -2002,7 +2067,18 @@
           "synopsis": "Fatigués de vivre, quatre hommes se réunissent dans une villa isolée pour célébrer la bouffe, le sexe, l'amitié et la mort.",
           "commentaire": "Sur la table, pâtés de foie, poulettes de Bresse, cuissots de chevreuil, sein en gélatine et tarte aux fesses. Cest un banquet qui sent le vomi, la merde et le sexe. La chère et la chair se rejoignent dans un excès de sueurs, vertiges et hurlements. Tognazzi, Mastroianni, Piccoli et Noiret, accompagnés d'Andréa Ferréol, s'adonnent aux bacchanales de Ferreri, se goinfrant jusqu'à en crever. Quatre personnages dans leur rôle de machine. « Une machine à manger, à baiser, à chier », dans ce que le cinéaste décrit lui-même comme une « farce physiologique », exprimant un rejet catégorique de la société de consommation. Une œuvre radicale, d'un profond désespoir, qui laisse le public du Festival de Cannes au bord de la nausée. « C'est immonde ! Une ignominie ! Vous êtes de honteux pornographes ! », entend-on à la descente des marches. Le producteur Jean-Pierre Rassam profite du scandale pour faire monter la sauce et déclare que « les gens de cinéma sont tous des cons ». Les semaines suivantes, dans le plus grand calme, les spectateurs se rendent en nombre voir le film. Déjà culte.",
           "status": 2,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28149,
+              "duree": 125,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 21806,
+              "duree": 125,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },
@@ -2211,7 +2287,15 @@
           "realisateurs": "Darejan Omirbaev",
           "annee": 1991,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 21457,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ],
       "mention": "Ouverture de la rétrospective"
@@ -2269,7 +2353,15 @@
           "realisateurs": "Darejan Omirbaev",
           "annee": 1997,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28139,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -2299,7 +2391,15 @@
           "realisateurs": "Darejan Omirbaev",
           "annee": 2000,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28138,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -2388,7 +2488,15 @@
           "annee": 2011,
           "adaptation": "D'après le roman _Crime et châtiment_ de Fiodor Mikhaïlovitch Dostoïevski.",
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28140,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -2418,7 +2526,15 @@
           "realisateurs": "Darezhan Omirbaev",
           "annee": 2021,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28137,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -2469,33 +2585,6 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 133629,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 476,
-          "idCategorie": 2201
-        }
-      ],
-      "idEvenement": 21674,
-      "typeEvenement": 13,
-      "libelleEvenement": "MY FRIEND THE KING",
-      "dateHeure": "2024-10-24T18:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 107575,
-          "titre": "My Friend the King",
-          "realisateurs": "Michael Powell",
-          "annee": 1931,
-          "synopsis": "Jim, chauffeur de taxi, se lie d'amitié avec le jeune Roi Ludwig, alors en voyage à Londres. Il va alors se retrouver dans de folles aventures... (Attention : 1 seule source : WIKI ANG)",
-          "status": 0,
-          "copies": []
-        }
-      ]
-    },
-    {
       "idSeance": 132502,
       "idProg": 182,
       "cycles": [
@@ -2532,33 +2621,6 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
-    },
-    {
-      "idSeance": 133630,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 476,
-          "idCategorie": 2201
-        }
-      ],
-      "idEvenement": 21681,
-      "typeEvenement": 13,
-      "libelleEvenement": "TWO CROWDED HOURS",
-      "dateHeure": "2024-10-24T20:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 107603,
-          "titre": "Two Crowded Hours",
-          "realisateurs": "Michael Powell",
-          "annee": 1931,
-          "synopsis": "Evadé de prison, un meurtrier cherche à éliminer ceux qui ont témoigné contre lui. Aidé par un conducteur de taxi, un policier se met à sa recherche.",
-          "status": 0,
-          "copies": []
-        }
-      ]
     },
     {
       "idSeance": 132541,
@@ -2999,6 +3061,103 @@
       ]
     },
     {
+      "idSeance": 133664,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3382,
+          "titreCycle": "Claude Lelouch",
+          "titreSousCycle": "Courts métrages"
+        }
+      ],
+      "idEvenement": 30885,
+      "typeEvenement": 13,
+      "libelleEvenement": "POUR UN MAILLOT JAUNE / TREIZE JOURS EN FRANCE / C'ÉTAIT UN RENDEZ-VOUS",
+      "dateHeure": "2024-11-14T17:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 79168,
+          "titre": "Pour un maillot jaune",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1965,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28037,
+              "duree": 27
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 107860,
+          "titre": "C'était un rendez-vous",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1976,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28038,
+              "duree": 9
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 62437,
+          "titre": "Treize jours en France",
+          "realisateurs": "Claude Lelouch, François Reichenbach, Willy Bogner, [etc.]",
+          "annee": 1968,
+          "synopsis": "Documentaire sur les Jeux Olympiques de Grenoble de 1968. Plus qu'aux compétitions sportives le film s'intéresse aux à-côtés qui entourent toute manifestation.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 5658,
+              "duree": 115,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133061,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381,
+          "titreCycle": "Claude Lelouch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30881,
+      "typeEvenement": 13,
+      "libelleEvenement": "D'UN FILM À L'AUTRE",
+      "dateHeure": "2024-11-14T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 113063,
+          "titre": "D'un film à l'autre",
+          "realisateurs": "Claude Lelouch",
+          "annee": 2010,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28062,
+              "duree": 133,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133101,
       "idProg": 182,
       "cycles": [
@@ -3100,7 +3259,7 @@
       ]
     },
     {
-      "idSeance": 133144,
+      "idSeance": 133141,
       "idProg": 182,
       "cycles": [
         {
@@ -3110,34 +3269,32 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30878,
+      "idEvenement": 30929,
       "typeEvenement": 13,
-      "libelleEvenement": "BONNE ANNÉE (LA)",
-      "dateHeure": "2024-11-16T19:30:00",
-      "idSalle": "GF",
+      "libelleEvenement": "UN HOMME ET UNE FEMME",
+      "dateHeure": "2024-11-16T19:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 57973,
-          "titre": "Bonne année",
-          "art": "La",
+          "idFilm": 49686,
+          "titre": "Un homme et une femme",
           "realisateurs": "Claude Lelouch",
-          "annee": 1973,
-          "generique": "Lino Ventura, Françoise Fabian, Charles Gérard",
-          "synopsis": "Apres six ans de prison pour cambriolage, un homme cherche la femme dont il était tombé amoureux à l'époque du hold-up malheureux. Il retrouve une femme émancipée, et entreprend de la reconquérir.",
+          "annee": 1965,
+          "generique": "Anouk Aimée, Jean-Louis Trintignant, Pierre Barouh",
+          "synopsis": "Un homme et une femme, veufs tous les deux, se rencontrent à Deauville et tombent amoureux l'un de l'autre.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 14634,
-              "duree": 116,
-              "format": "DCP"
+              "idCopie": 28039,
+              "duree": 102
             }
           ]
         }
       ]
     },
     {
-      "idSeance": 133162,
+      "idSeance": 133662,
       "idProg": 182,
       "cycles": [
         {
@@ -3147,23 +3304,24 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30927,
+      "idEvenement": 30928,
       "typeEvenement": 13,
-      "libelleEvenement": "MARIAGE",
+      "libelleEvenement": "PLUS BELLES ANNÉES D'UNE VIE (LES)",
       "dateHeure": "2024-11-17T17:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 57892,
-          "titre": "Mariage",
+          "idFilm": 142000,
+          "titre": "Plus belles années d'une vie",
+          "art": "Les",
           "realisateurs": "Claude Lelouch",
-          "annee": 1974,
+          "annee": 2018,
           "status": 0,
           "copies": [
             {
-              "idCopie": 28102,
-              "duree": 98
+              "idCopie": 28040,
+              "duree": 90
             }
           ]
         }
@@ -3310,7 +3468,7 @@
       ]
     },
     {
-      "idSeance": 133622,
+      "idSeance": 133663,
       "idProg": 182,
       "cycles": [
         {
@@ -3320,86 +3478,59 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30928,
+      "idEvenement": 30927,
       "typeEvenement": 13,
-      "libelleEvenement": "PLUS BELLES ANNÉES D'UNE VIE (LES)",
-      "dateHeure": "2024-11-20T20:30:00",
+      "libelleEvenement": "MARIAGE",
+      "dateHeure": "2024-11-20T20:15:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 142000,
-          "titre": "Plus belles années d'une vie",
-          "art": "Les",
+          "idFilm": 57892,
+          "titre": "Mariage",
           "realisateurs": "Claude Lelouch",
-          "annee": 2018,
+          "annee": 1974,
           "status": 0,
           "copies": [
             {
-              "idCopie": 28040,
-              "duree": 90
+              "idCopie": 28102,
+              "duree": 98
             }
           ]
         }
       ]
     },
     {
-      "idSeance": 133626,
+      "idSeance": 133665,
       "idProg": 182,
       "cycles": [
         {
           "idCycle": 793,
-          "idCategorie": 3382,
+          "idCategorie": 3381,
           "titreCycle": "Claude Lelouch",
-          "titreSousCycle": "Courts métrages"
+          "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30885,
+      "idEvenement": 30878,
       "typeEvenement": 13,
-      "libelleEvenement": "POUR UN MAILLOT JAUNE / TREIZE JOURS EN FRANCE / C'ÉTAIT UN RENDEZ-VOUS",
-      "dateHeure": "2024-11-21T17:00:00",
-      "idSalle": "JE",
+      "libelleEvenement": "BONNE ANNÉE (LA)",
+      "dateHeure": "2024-11-21T18:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 79168,
-          "titre": "Pour un maillot jaune",
+          "idFilm": 57973,
+          "titre": "Bonne année",
+          "art": "La",
           "realisateurs": "Claude Lelouch",
-          "annee": 1965,
+          "annee": 1973,
+          "generique": "Lino Ventura, Françoise Fabian, Charles Gérard",
+          "synopsis": "Apres six ans de prison pour cambriolage, un homme cherche la femme dont il était tombé amoureux à l'époque du hold-up malheureux. Il retrouve une femme émancipée, et entreprend de la reconquérir.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 28037,
-              "duree": 27
-            }
-          ]
-        },
-        {
-          "ordre": 2,
-          "idFilm": 107860,
-          "titre": "C'était un rendez-vous",
-          "realisateurs": "Claude Lelouch",
-          "annee": 1976,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28038,
-              "duree": 9
-            }
-          ]
-        },
-        {
-          "ordre": 3,
-          "idFilm": 62437,
-          "titre": "Treize jours en France",
-          "realisateurs": "Claude Lelouch, François Reichenbach, Willy Bogner, [etc.]",
-          "annee": 1968,
-          "synopsis": "Documentaire sur les Jeux Olympiques de Grenoble de 1968. Plus qu'aux compétitions sportives le film s'intéresse aux à-côtés qui entourent toute manifestation.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 5658,
-              "duree": 115,
+              "idCopie": 14634,
+              "duree": 116,
               "format": "DCP"
             }
           ]
@@ -3420,7 +3551,7 @@
       "idEvenement": 30891,
       "typeEvenement": 13,
       "libelleEvenement": "UNS ET LES AUTRES (LES)",
-      "dateHeure": "2024-11-21T19:00:00",
+      "dateHeure": "2024-11-21T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3435,40 +3566,6 @@
             {
               "idCopie": 28055,
               "duree": 184
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 133247,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 793,
-          "idCategorie": 3381,
-          "titreCycle": "Claude Lelouch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30881,
-      "typeEvenement": 13,
-      "libelleEvenement": "D'UN FILM À L'AUTRE",
-      "dateHeure": "2024-11-21T20:15:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 113063,
-          "titre": "D'un film à l'autre",
-          "realisateurs": "Claude Lelouch",
-          "annee": 2010,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28062,
-              "duree": 133,
-              "format": "DCP"
             }
           ]
         }
