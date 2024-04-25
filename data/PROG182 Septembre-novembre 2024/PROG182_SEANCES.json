@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-25T14:51:56.380Z",
+  "updatedAt": "2024-04-25T15:55:39.059Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1272,7 +1272,7 @@
       ]
     },
     {
-      "idSeance": 133638,
+      "idSeance": 133682,
       "idProg": 182,
       "cycles": [
         {
@@ -1282,23 +1282,25 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30748,
+      "idEvenement": 30729,
       "typeEvenement": 13,
-      "libelleEvenement": "WHAT PRICE HOLLYWOOD?",
+      "libelleEvenement": "AGENCE CUPIDON",
       "dateHeure": "2024-09-07T15:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 31528,
-          "titre": "What Price Hollywood ?",
+          "idFilm": 80559,
+          "titre": "Agence Cupidon",
+          "titreVo": "Model and the Marriage Broker",
+          "artVo": "The",
           "realisateurs": "George Cukor",
-          "annee": 1932,
+          "annee": 1951,
           "status": 0,
           "copies": [
             {
-              "idCopie": 8506,
-              "duree": 88,
+              "idCopie": 27982,
+              "duree": 103,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
@@ -1321,7 +1323,7 @@
       "idEvenement": 30786,
       "typeEvenement": 13,
       "libelleEvenement": "DERNIER DES FOUS (LE)",
-      "dateHeure": "2024-09-07T17:00:00",
+      "dateHeure": "2024-09-07T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1798,6 +1800,41 @@
       ]
     },
     {
+      "idSeance": 131350,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30673,
+      "typeEvenement": 13,
+      "libelleEvenement": "DAME AUX CAMÉLIAS (LA)",
+      "dateHeure": "2024-09-11T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50899,
+          "titre": "Dame aux camélias",
+          "art": "La",
+          "realisateurs": "Abel Gance, Fernand Rivers",
+          "annee": 1934,
+          "adaptation": "D'après le roman _La Dame aux camélias_ d'Alexandre Dumas fils.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28114,
+              "duree": 110
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 131385,
       "idProg": 182,
       "cycles": [
@@ -1840,6 +1877,154 @@
       ]
     },
     {
+      "idSeance": 131382,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30064,
+      "typeEvenement": 13,
+      "libelleEvenement": "FOLIE DU DOCTEUR TUBE (LA) / AU SECOURS !",
+      "dateHeure": "2024-09-12T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48677,
+          "titre": "Folie du docteur Tube",
+          "art": "La",
+          "realisateurs": "Abel Gance",
+          "annee": 1915,
+          "generique": "Albert Dieudonné",
+          "ageMinimal": 8,
+          "synopsis": "Un savant trouve le moyen de décomposer les rayons lumineux.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 1142,
+              "duree": 14,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 48672,
+          "titre": "Au secours !",
+          "realisateurs": "Abel Gance",
+          "annee": 1923,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20644,
+              "duree": 36,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133669,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30074,
+      "typeEvenement": 13,
+      "libelleEvenement": "SÉANCE MAGIRAMA",
+      "dateHeure": "2024-09-12T20:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 73462,
+          "titre": "14 juillet 1953",
+          "realisateurs": "Abel Gance",
+          "annee": 1954,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28126,
+              "duree": 14,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 73472,
+          "titre": "Magirama",
+          "realisateurs": "Abel Gance, Nelly Kaplan",
+          "annee": 1956,
+          "generique": "Abel Gance, Robert Vattier",
+          "synopsis": "Abel Gance développe le dispositif de projection sur trois écrans éprouvé avec _Napoléon_ en 1928, avec les images du _J'accuse_ de 1937. Il revient donc une nouvelle fois sur la Première guerre Mondiale dans un format permettant de restituer l'ampleur du traumatisme vécu.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28128,
+              "duree": 60,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 73474,
+          "titre": "Fête foraine",
+          "realisateurs": "Abel Gance",
+          "annee": 1956,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28130,
+              "duree": 15
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 73475,
+          "titre": "Château de nuages",
+          "realisateurs": "Abel Gance",
+          "annee": 1956,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28131,
+              "duree": 0
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 73473,
+          "titre": "Auprès de ma blonde",
+          "realisateurs": "Abel Gance",
+          "annee": 1956,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28132,
+              "duree": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 131386,
       "idProg": 182,
       "cycles": [
@@ -1853,7 +2038,7 @@
       "idEvenement": 30835,
       "typeEvenement": 13,
       "libelleEvenement": "PIGEON (LE)",
-      "dateHeure": "2024-09-12T20:15:00",
+      "dateHeure": "2024-09-12T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1873,6 +2058,42 @@
             {
               "idCopie": 28150,
               "duree": 110
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133671,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30077,
+      "typeEvenement": 13,
+      "libelleEvenement": "MATER DOLOROSA",
+      "dateHeure": "2024-09-13T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48683,
+          "titre": "Mater Dolorosa",
+          "realisateurs": "Abel Gance",
+          "annee": 1917,
+          "generique": "Firmin Gémier, Emmy Lynn, Armand Tallier, Paul Vermoyal",
+          "synopsis": "Un grand médecin découvre que son épouse a un amant, dont elle a eu un enfant. L'amant se suicide, le mari enlève l'enfant à sa mère et la chasse. Grand succès, le film fit l'objet d'une nouvelle version par Gance lui-même.\n\n---\n\nUn grand médecin découvre que son épouse a un amant, dont elle a eu un enfant. L'amant se suicide, le mari enlève l'enfant à sa mère et la chasse.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28077,
+              "duree": 88,
+              "format": "DCP"
             }
           ]
         }
@@ -1921,6 +2142,43 @@
       ]
     },
     {
+      "idSeance": 133672,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30055,
+      "typeEvenement": 13,
+      "libelleEvenement": "DIXIÈME SYMPHONIE (LA)",
+      "dateHeure": "2024-09-13T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48673,
+          "titre": "Dixième symphonie",
+          "art": "La",
+          "realisateurs": "Abel Gance",
+          "annee": 1918,
+          "generique": "Séverin-Mars, Jean Toulout, André Lefaur",
+          "synopsis": "La vie d'un musicien dont le génie est contesté par ses contemporains.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28087,
+              "duree": 81,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 131426,
       "idProg": 182,
       "cycles": [
@@ -1952,19 +2210,19 @@
       ]
     },
     {
-      "idSeance": 133639,
+      "idSeance": 133670,
       "idProg": 182,
       "cycles": [
         {
-          "idCycle": 11,
-          "idCategorie": 3351,
-          "titreCycle": "Séances spéciales",
-          "titreSousCycle": "Napoléon vu par Abel Gance"
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30629,
+      "idEvenement": 30935,
       "typeEvenement": 13,
-      "libelleEvenement": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 1 / NAPOLÉON VU PAR ABEL GANCE – PARTIE 2",
+      "libelleEvenement": "NAPOLÉON VU PAR ABEL GANCE – PARTIE 2 / NAPOLÉON VU PAR ABEL GANCE – PARTIE 1",
       "dateHeure": "2024-09-14T14:30:00",
       "idSalle": "HL",
       "items": [
@@ -1995,6 +2253,200 @@
               "idCopie": 27804,
               "duree": 205,
               "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131469,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30719,
+      "typeEvenement": 13,
+      "libelleEvenement": "INVITÉS DE HUIT HEURES (LES)",
+      "dateHeure": "2024-09-14T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31326,
+          "titre": "Invités de huit heures",
+          "art": "Les",
+          "titreVo": "Dinner at Eight",
+          "realisateurs": "George Cukor",
+          "annee": 1933,
+          "adaptation": "D'après la pièce _Dinner at eight_ d'Edna Ferber et George S. Kaufman.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27963,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131470,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30733,
+      "typeEvenement": 13,
+      "libelleEvenement": "QUATRE FILLES DU DOCTEUR MARCH (LES)",
+      "dateHeure": "2024-09-14T17:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31471,
+          "titre": "Quatre filles du docteur March",
+          "art": "Les",
+          "titreVo": "Little Women",
+          "realisateurs": "George Cukor",
+          "annee": 1933,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 25532,
+              "duree": 115,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131472,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30067,
+      "typeEvenement": 13,
+      "libelleEvenement": "GAZ MORTELS = LES BROUILLARDS SUR LA VILLE (LES)",
+      "dateHeure": "2024-09-14T17:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48678,
+          "titre": "Gaz mortels = Les Brouillards sur la ville",
+          "art": "Les",
+          "realisateurs": "Abel Gance",
+          "annee": 1916,
+          "generique": "Léon Mathot, Emile Keppens, Henri Maillard, Maud Richard",
+          "synopsis": "Au début de la Première Guerre mondiale, un vieux savant est sollicité par le gouvernement français pour inventer des substances toxiques afin de les utiliser contre l'ennemi.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 4891,
+              "duree": 69,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133673,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30056,
+      "typeEvenement": 13,
+      "libelleEvenement": "DROIT À LA VIE (LE)",
+      "dateHeure": "2024-09-14T19:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48674,
+          "titre": "Droit à la vie",
+          "art": "Le",
+          "realisateurs": "Abel Gance",
+          "annee": 1917,
+          "generique": "Léon Mathot, Georges Paulais, Andrée Brabant",
+          "synopsis": "Un grand financier de la bourse de Paris et l'un de ses secrétaires sont épris de la même jeune fille, qui est la pupille du premier.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28075,
+              "duree": 52,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131471,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30737,
+      "typeEvenement": 13,
+      "libelleEvenement": "ROMÉO ET JULIETTE",
+      "dateHeure": "2024-09-14T19:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31512,
+          "titre": "Roméo et Juliette",
+          "titreVo": "Romeo and Juliet",
+          "realisateurs": "George Cukor",
+          "annee": 1936,
+          "adaptation": "D'après la pièce _Roméo et Juliette_ de William Shakespeare.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27985,
+              "duree": 124,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 28023,
+              "duree": 124,
+              "format": "16 mm"
             }
           ]
         }
@@ -2034,6 +2486,80 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133676,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30705,
+      "typeEvenement": 13,
+      "libelleEvenement": "DAVID COPPERFIELD",
+      "dateHeure": "2024-09-15T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31424,
+          "titre": "David Copperfield",
+          "titreVo": "Personal History, Adventures, Experience and Observations of David Copperfield the younger",
+          "artVo": "The",
+          "realisateurs": "George Cukor",
+          "annee": 1935,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27977,
+              "duree": 129,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131486,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30061,
+      "typeEvenement": 13,
+      "libelleEvenement": "FIN DU MONDE (LA)",
+      "dateHeure": "2024-09-15T17:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48675,
+          "titre": "Fin du monde",
+          "art": "La",
+          "realisateurs": "Abel Gance",
+          "annee": 1930,
+          "generique": "Colette Darfeuil, Abel Gance, Victor Francen",
+          "synopsis": "Un savant a découvert une comète qui se dirige droit vers la Terre et la détruira. Voyant que la panique s'empare de l'humanité, le savant tente alors de faire voter la proclamation d'une république universelle.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28109,
+              "duree": 103
             }
           ]
         }
@@ -2083,6 +2609,81 @@
       ]
     },
     {
+      "idSeance": 133674,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30087,
+      "typeEvenement": 13,
+      "libelleEvenement": "POLICHE",
+      "dateHeure": "2024-09-15T20:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48660,
+          "titre": "Poliche",
+          "realisateurs": "Abel Gance",
+          "annee": 1934,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28112,
+              "duree": 89,
+              "format": "16 mm"
+            },
+            {
+              "idCopie": 28113,
+              "duree": 90,
+              "format": "16 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133677,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30750,
+      "typeEvenement": 13,
+      "libelleEvenement": "ZAZA",
+      "dateHeure": "2024-09-15T20:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31405,
+          "titre": "Zaza",
+          "realisateurs": "George Cukor",
+          "annee": 1939,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27980,
+              "duree": 85,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 131495,
       "idProg": 182,
       "cycles": [
@@ -2117,6 +2718,39 @@
         }
       ],
       "mention": "Avant-première"
+    },
+    {
+      "idSeance": 133675,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30939,
+      "typeEvenement": 13,
+      "libelleEvenement": "A L'OMBRE DES GRANDS CHÊNES (ABEL GANCE)",
+      "dateHeure": "2024-09-18T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 106408,
+          "titre": "A l'ombre des grands chênes (Abel Gance)",
+          "realisateurs": "Georges Mourier",
+          "annee": 2005,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28143,
+              "duree": 52
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 131535,
@@ -2188,6 +2822,41 @@
       ]
     },
     {
+      "idSeance": 131537,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30938,
+      "typeEvenement": 13,
+      "libelleEvenement": "PICTOGRAPHE (LE)",
+      "dateHeure": "2024-09-18T19:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154872,
+          "titre": "Pictographe",
+          "art": "Le",
+          "realisateurs": "Abel Gance",
+          "annee": 1937,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28121,
+              "duree": 115,
+              "format": "Numérique"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 131536,
       "idProg": 182,
       "cycles": [
@@ -2211,6 +2880,552 @@
           "realisateurs": "Sophie Fillières",
           "annee": 1999,
           "generique": "André Dussollier, Hélène Fillières, Emmanuelle Devos, Gisèle Casadesus",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 133683,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30837,
+      "typeEvenement": 13,
+      "libelleEvenement": "BEL ANTONIO (LE)",
+      "dateHeure": "2024-09-19T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42068,
+          "titre": "Bel Antonio",
+          "art": "Le",
+          "titreVo": "Bell'Antonio",
+          "artVo": "Il",
+          "realisateurs": "Mauro Bolognini",
+          "annee": 1961,
+          "generique": "Marcello Mastroianni, Claudia Cardinale, Pierre Brasseur, Rina Morelli",
+          "adaptation": "D'après le roman _Le Bel Antonio_ de Vitaliano Brancati.",
+          "synopsis": "De retour dans sa ville natale après un long séjour à Rome, le séduisant Antonio épouse la pure Barbara, dont il est éperdument amoureux. Mais il cache un lourd secret.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 1927,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133680,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30722,
+      "typeEvenement": 13,
+      "libelleEvenement": "GIRLS (LES)",
+      "dateHeure": "2024-09-19T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31422,
+          "titre": "Girls",
+          "art": "Les",
+          "realisateurs": "George Cukor",
+          "annee": 1957,
+          "generique": "Gene Kelly, Mitzi Gaynor, Kay Kendall",
+          "synopsis": "Dans son livre « Les Girls », une ancienne danseuse raconte comment elle et ses amies sont devenues le trio vedette du célèbre danseur Barry Nichols. Mais elle est accusée de diffamation par une autre ex-girl.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 16567,
+              "duree": 114,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27983,
+              "duree": 114,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133684,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30840,
+      "typeEvenement": 13,
+      "libelleEvenement": "JOURNAL INTIME",
+      "dateHeure": "2024-09-19T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43787,
+          "titre": "Journal intime",
+          "titreVo": "Cronaca familiare",
+          "realisateurs": "Valerio Zurlini",
+          "annee": 1962,
+          "generique": "Marcello Mastroianni, Jacques Perrin, Sylvie",
+          "adaptation": "D'après le roman _Journal intime_ de Vasco Pratolini.",
+          "miniTexte": "Rome, 1945. À l'annonce de la mort de son frère cadet, Enrico convoque les souvenirs de leur vie passée. Dans un récit en flashback, tiré du roman autobiographique de Vasco Pratolini, le cinéaste déroule le fil d'une relation complexe, faite de ressentiments et d'incompréhensions, reliée par le fantôme d'une mère défunte. Tons bruns, murs délabrés, rues blafardes et désertées, chaque lieu respire la mélancolie des secrets et de l'absence, quand seule la pénombre semble permettre la parole et l'expression des sentiments. Jacques Perrin est lumineux, Mastroianni à son apogée. Une œuvre aussi délicate que magistrale, couronnée du Lion d'or à Venise.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27681,
+              "duree": 113,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131572,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30710,
+      "typeEvenement": 13,
+      "libelleEvenement": "FLAMME SACRÉE (LA)",
+      "dateHeure": "2024-09-19T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31451,
+          "titre": "Flamme sacrée",
+          "art": "La",
+          "titreVo": "Keeper of the Flame",
+          "realisateurs": "George Cukor",
+          "annee": 1942,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27968,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27969,
+              "duree": 100,
+              "format": "16 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 28022,
+              "duree": 100,
+              "format": "16 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131573,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30931,
+      "typeEvenement": 13,
+      "libelleEvenement": "AUTOUR DE : LA ROUE / NAPOLÉON / LA FIN DU MONDE",
+      "dateHeure": "2024-09-19T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 73466,
+          "titre": "Autour de La Roue",
+          "realisateurs": "Blaise Cendrars",
+          "annee": 1923,
+          "synopsis": "Documentaire sur le tournage de _La Roue_ d'Abel Gance.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28105,
+              "duree": 17,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 73467,
+          "titre": "Autour de Napoléon",
+          "realisateurs": "Jean Arroy",
+          "annee": 1925,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28106,
+              "duree": 21,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 154301,
+          "titre": "Autour de La Fin du monde",
+          "realisateurs": "Eugène Deslaw",
+          "annee": 1930,
+          "synopsis": "Abel Gance et son équipe se lancent dans le cinéma parlant. Leurs prouesses techniques permettent des prises de vue impressionnantes. Des essais d'acteurs et des plans coupés au montage s'interposent aux scènes de tournage.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 25544,
+              "duree": 15,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131611,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30740,
+      "typeEvenement": 13,
+      "libelleEvenement": "SUZANNE ET SES IDÉES",
+      "dateHeure": "2024-09-20T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31519,
+          "titre": "Suzanne et ses idées",
+          "titreVo": "Susan and God",
+          "realisateurs": "George Cukor",
+          "annee": 1940,
+          "generique": "Rita Hayworth, Joan Crawford, Fredric March",
+          "adaptation": "D'après la pièce _Susan and God_ de Rachel Crothers.",
+          "synopsis": "Une mondaine qui fait partie d'une secte est bien loin, dans sa vie privée, de mettre en pratique ce qu'elle prêche.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 17945,
+              "duree": 115,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 28024,
+              "duree": 115,
+              "format": "16 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131614,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30842,
+      "typeEvenement": 13,
+      "libelleEvenement": "CAMARADES (LES)",
+      "dateHeure": "2024-09-20T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41255,
+          "titre": "Camarades",
+          "art": "Les",
+          "titreVo": "Compagni",
+          "artVo": "I",
+          "realisateurs": "Mario Monicelli",
+          "annee": 1963,
+          "generique": "Marcello Mastroianni, Renato Salvatori, Bernard Blier",
+          "synopsis": "Turin, fin du XIX<sup>e</sup> siècle. Dans une fabrique textile, trois ouvriers entrent en conflit avec le contremaître. Alors que des sanctions tombent, l'instituteur Sinigaglia, un militant socialiste fraîchement arrivé de Gênes, pousse les travailleurs à s'organiser.",
+          "commentaire": "À travers le récit d'une lutte ouvrière à la fin du XIX<sup>e</sup> siècle, Monicelli tisse une fresque sociale lyrique sur les conditions de travail à l'usine, et le quotidien de familles d'ouvriers exploités. Un tableau naturaliste, émaillé de scènes de comédie qui n'altèrent en rien la force du propos. La photographie charbonneuse de Giuseppe Rotunno (_Rocco et ses frères_, _Le Guépard_), l'ampleur romanesque du récit et la formidable distribution franco-italienne font du film un pamphlet puissant, humaniste et engagé.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 25242,
+              "duree": 128,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133679,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30743,
+      "typeEvenement": 13,
+      "libelleEvenement": "UNE ÉTOILE EST NÉE",
+      "dateHeure": "2024-09-21T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31402,
+          "titre": "Une étoile est née",
+          "titreVo": "A Star Is Born",
+          "realisateurs": "George Cukor",
+          "annee": 1953,
+          "generique": "Judy Garland, James Mason, Jack Carson",
+          "adaptation": "D'après le scénario de _A star is born_ de Dorothy Parker et Alan Campbell.  \nD'après le scénario de _A star is born_ et d'après une histoire de Robert Carson.",
+          "synopsis": "Norman Maine, acteur vieillissant et alcoolique, décèle en Esther Blodgett, une jeune chanteuse, un talent qui ne demande qu'à s'épanouir.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 10526,
+              "duree": 176,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131655,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 794,
+          "idCategorie": 3383,
+          "titreCycle": "Sophie Fillières",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30903,
+      "typeEvenement": 13,
+      "libelleEvenement": "GENTILLE",
+      "dateHeure": "2024-09-21T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 97823,
+          "titre": "Gentille",
+          "realisateurs": "Sophie Fillières",
+          "annee": 2004,
+          "generique": "Emmanuelle Devos, Lambert Wilson, Bruno Todeschini, Michael Lonsdale, Bulle Ogier",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131656,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30843,
+      "typeEvenement": 13,
+      "libelleEvenement": "MARIAGE À L'ITALIENNE",
+      "dateHeure": "2024-09-21T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41898,
+          "titre": "Mariage à l'italienne",
+          "titreVo": "Matrimonio all'italiana",
+          "realisateurs": "Vittorio De Sica",
+          "annee": 1964,
+          "generique": "Sophia Loren, Marcello Mastroianni, Aldo Puglisi",
+          "adaptation": "D'après la pièce _Filumena Marturano_ d'Eduardo De Filippo.",
+          "synopsis": "Filumena, une prostituée, est au service de Domenico, un riche commerçant, depuis plus de 20 ans. Elle souhaite l'épouser, et lui annonce qu'il est le père d'un de ses trois fils.",
+          "miniTexte": "De Sica excelle aussi bien dans le drame que dans la comédie à l'italienne, genre qu'il a déjà abordé dans _Il Boom_ et _Hier, aujourd'hui et demain_. Le film, prétexte au plaisir du jeu, met en scène le couple le plus glamour du cinéma italien. Sophia Loren et Marcello Mastroianni jouent des personnages aux multiples facettes. Tour à tour drôles, tendres, cyniques ou vulgaires. Une satire sociale devenue un classique, décapante et jubilatoire.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28066,
+              "duree": 104,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131657,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30844,
+      "typeEvenement": 13,
+      "libelleEvenement": "FEMME DU PRÊTRE (LA)",
+      "dateHeure": "2024-09-21T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59446,
+          "titre": "Femme du prêtre",
+          "art": "La",
+          "titreVo": "Moglie del prete",
+          "artVo": "La",
+          "realisateurs": "Dino Risi",
+          "annee": 1970,
+          "generique": "Marcello Mastroianni, Sophia Loren, Venantino Venantini",
+          "synopsis": "Valeria, chanteuse de guinguette désespérée par un chagrin d'amour, appelle SOS Amitié. Après s'être confiée, elle tente de se suicider mais en réchappe. Une fois rétablie, elle se met à la recherche de celui qui l'a écoutée.",
+          "miniTexte": "Couple le plus sensuel du cinéma italien, Sophia Loren et Marcello Mastroianni se retrouvent pour un formidable numéro d'acteurs. Dino Risi, avec son art de capter les gestes et les regards, dévoile tout en nuances la psychologie des personnages et apporte à son histoire tout le mordant qui caractérise son cinéma. Le thème du célibat et de la sexualité des prêtres n'est bien sûr qu'un alibi pour mieux dénoncer les faux-semblants de l'Église. Humour noir et impertinence, Risi dans son meilleur registre.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21335,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131674,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 794,
+          "idCategorie": 3383,
+          "titreCycle": "Sophie Fillières",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30905,
+      "typeEvenement": 13,
+      "libelleEvenement": "ARRÊTE OU JE CONTINUE",
+      "dateHeure": "2024-09-22T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 122494,
+          "titre": "Arrête ou je continue",
+          "realisateurs": "Sophie Fillières",
+          "annee": 2013,
+          "generique": "Emmanuelle Devos, Mathieu Amalric, Anne Brochet",
+          "synopsis": "Pomme et Pierre, couple de longue date, sont confrontés à une crise qui menace leur relation.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 7525,
+              "duree": 102,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131675,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 794,
+          "idCategorie": 3383,
+          "titreCycle": "Sophie Fillières",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30904,
+      "typeEvenement": 13,
+      "libelleEvenement": "BELLE ET LA BELLE (LA)",
+      "dateHeure": "2024-09-22T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 138499,
+          "titre": "Belle et la belle",
+          "art": "La",
+          "realisateurs": "Sophie Fillières",
+          "annee": 2017,
+          "generique": "Sandrine Kiberlain, Agathe Bonitzer, Melvil Poupaud",
           "status": 0,
           "copies": []
         }
