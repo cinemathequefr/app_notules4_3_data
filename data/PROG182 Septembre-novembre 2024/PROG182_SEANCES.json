@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-25T15:55:39.059Z",
+  "updatedAt": "2024-04-26T10:03:17.711Z",
   "data": [
     {
       "idSeance": 130975,
@@ -141,6 +141,43 @@
       ]
     },
     {
+      "idSeance": 133699,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30068,
+      "typeEvenement": 13,
+      "libelleEvenement": "ROMAN D'UN JEUNE HOMME PAUVRE (LE)",
+      "dateHeure": "2024-08-30T17:30:00",
+      "idSalle": "GF",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48688,
+          "titre": "Roman d'un jeune homme pauvre",
+          "art": "Le",
+          "realisateurs": "Abel Gance",
+          "annee": 1935,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28119,
+              "duree": 120,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
       "idSeance": 131053,
       "idProg": 182,
       "cycles": [
@@ -180,42 +217,6 @@
           ]
         }
       ]
-    },
-    {
-      "idSeance": 133641,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30672,
-      "typeEvenement": 13,
-      "libelleEvenement": "CYRANO ET D'ARTAGNAN",
-      "dateHeure": "2024-08-30T18:30:00",
-      "idSalle": "GF",
-      "typeSeance": 44,
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48588,
-          "titre": "Cyrano et d'Artagnan",
-          "realisateurs": "Abel Gance",
-          "annee": 1962,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28141,
-              "duree": 146,
-              "format": "35 mm"
-            }
-          ]
-        }
-      ],
-      "mention": "Ouverture de la rétrospective"
     },
     {
       "idSeance": 131054,
@@ -272,7 +273,7 @@
       "idEvenement": 30047,
       "typeEvenement": 13,
       "libelleEvenement": "VÉNUS AVEUGLE",
-      "dateHeure": "2024-08-30T20:30:00",
+      "dateHeure": "2024-08-30T20:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -444,69 +445,6 @@
       ]
     },
     {
-      "idSeance": 133614,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30068,
-      "typeEvenement": 13,
-      "libelleEvenement": "ROMAN D'UN JEUNE HOMME PAUVRE (LE)",
-      "dateHeure": "2024-08-31T19:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48688,
-          "titre": "Roman d'un jeune homme pauvre",
-          "art": "Le",
-          "realisateurs": "Abel Gance",
-          "annee": 1935,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28119,
-              "duree": 120,
-              "format": "DCP"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 131100,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 787,
-          "idCategorie": 3375,
-          "titreCycle": "Laurent Achard",
-          "titreSousCycle": "Documentaires sur le cinéma"
-        }
-      ],
-      "idEvenement": 30872,
-      "typeEvenement": 13,
-      "libelleEvenement": "BRISSEAU, 251 RUE MARCADET",
-      "dateHeure": "2024-08-31T19:45:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 154839,
-          "titre": "Brisseau, 251 rue Marcadet",
-          "realisateurs": "Laurent Achard",
-          "annee": 2018,
-          "status": 0,
-          "copies": []
-        }
-      ]
-    },
-    {
       "idSeance": 131095,
       "idProg": 182,
       "cycles": [
@@ -543,6 +481,41 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133698,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30068,
+      "typeEvenement": 13,
+      "libelleEvenement": "ROMAN D'UN JEUNE HOMME PAUVRE (LE)",
+      "dateHeure": "2024-08-31T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48688,
+          "titre": "Roman d'un jeune homme pauvre",
+          "art": "Le",
+          "realisateurs": "Abel Gance",
+          "annee": 1935,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28119,
+              "duree": 120,
+              "format": "DCP"
             }
           ]
         }
@@ -589,34 +562,6 @@
       ]
     },
     {
-      "idSeance": 133613,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 787,
-          "idCategorie": 3372,
-          "titreCycle": "Laurent Achard",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30873,
-      "typeEvenement": 13,
-      "libelleEvenement": "JEAN-FRANÇOIS STÉVENIN : SIMPLES MESSIEURS",
-      "dateHeure": "2024-09-01T15:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 154840,
-          "titre": "Jean-François Stévenin : Simples Messieurs",
-          "realisateurs": "Laurent Achard",
-          "annee": 2020,
-          "status": 0,
-          "copies": []
-        }
-      ]
-    },
-    {
       "idSeance": 131111,
       "idProg": 182,
       "cycles": [
@@ -658,30 +603,38 @@
       ]
     },
     {
-      "idSeance": 131116,
+      "idSeance": 133700,
       "idProg": 182,
       "cycles": [
         {
-          "idCycle": 787,
-          "idCategorie": 3372,
-          "titreCycle": "Laurent Achard",
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30788,
+      "idEvenement": 30047,
       "typeEvenement": 13,
-      "libelleEvenement": "DERNIÈRE SÉANCE",
+      "libelleEvenement": "VÉNUS AVEUGLE",
       "dateHeure": "2024-09-01T17:45:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 114854,
-          "titre": "Dernière séance",
-          "realisateurs": "Laurent Achard",
-          "annee": 2010,
+          "idFilm": 48693,
+          "titre": "Vénus aveugle",
+          "realisateurs": "Abel Gance",
+          "annee": 1940,
+          "generique": "Viviane Romance, Georges Flamant, Henri Guisol",
+          "synopsis": "Clarisse, belle jeune femme qui a posé pour la publicité des cigarettes « Vénus », apprend qu'elle va bientôt devenir aveugle. Pour éviter à son amant, Madère, la compagnie d'une infirme, elle simule une infidélité ce qui provoque leur rupture.",
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 9038,
+              "duree": 140,
+              "format": "35 mm"
+            }
+          ]
         }
       ]
     },
@@ -725,7 +678,7 @@
       ]
     },
     {
-      "idSeance": 133653,
+      "idSeance": 133695,
       "idProg": 182,
       "cycles": [
         {
@@ -735,62 +688,34 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30040,
+      "idEvenement": 30042,
       "typeEvenement": 13,
-      "libelleEvenement": "LUCRÈCE BORGIA",
-      "dateHeure": "2024-09-01T20:15:00",
+      "libelleEvenement": "BARBE-ROUSSE",
+      "dateHeure": "2024-09-01T20:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 48682,
-          "titre": "Lucrèce Borgia",
+          "idFilm": 48586,
+          "titre": "Barbe-Rousse",
           "realisateurs": "Abel Gance",
-          "annee": 1935,
-          "generique": "Edwige Feuillère, Gabriel Gabrio, Roger Karl, Maurice Escande",
-          "synopsis": "César Borgia, fils du pape, suit les conseils du cruel Machiavel et décide de se servir de sa charmante sœur pour amadouer et éliminer ses principaux rivaux.",
+          "annee": 1917,
+          "generique": "Léon Mathot, Emile Keppens, Henri Maillard",
+          "synopsis": "Un journaliste commet lui-même des méfaits afin d'être le premier à les annoncer dans son journal.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 13244,
-              "duree": 92,
-              "format": "35 mm"
+              "idCopie": 28073,
+              "duree": 96,
+              "format": "DCP",
+              "intertitres": "INT. FR."
             }
           ]
         }
       ]
     },
     {
-      "idSeance": 131114,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 787,
-          "idCategorie": 3375,
-          "titreCycle": "Laurent Achard",
-          "titreSousCycle": "Documentaires sur le cinéma"
-        }
-      ],
-      "idEvenement": 30789,
-      "typeEvenement": 13,
-      "libelleEvenement": "PATRICIA MAZUY : AVANT SATURNE",
-      "dateHeure": "2024-09-01T20:15:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 153932,
-          "titre": "Patricia Mazuy : avant Saturne",
-          "realisateurs": "Laurent Achard",
-          "annee": 2022,
-          "synopsis": "À Caen, Laurent Achard suit Patricia Mazuy et son équipe dans les préparatifs de son film _Bowling Saturne_.",
-          "status": 2,
-          "copies": []
-        }
-      ]
-    },
-    {
-      "idSeance": 133654,
+      "idSeance": 133696,
       "idProg": 182,
       "cycles": [
         {
@@ -839,7 +764,7 @@
       "idEvenement": 30050,
       "typeEvenement": 13,
       "libelleEvenement": "JÉRÔME PERREAU",
-      "dateHeure": "2024-09-02T20:00:00",
+      "dateHeure": "2024-09-02T20:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -900,7 +825,7 @@
       ]
     },
     {
-      "idSeance": 133656,
+      "idSeance": 133701,
       "idProg": 182,
       "cycles": [
         {
@@ -984,7 +909,7 @@
       "idEvenement": 30036,
       "typeEvenement": 13,
       "libelleEvenement": "LOUISE",
-      "dateHeure": "2024-09-04T20:45:00",
+      "dateHeure": "2024-09-04T21:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1154,7 +1079,7 @@
       ]
     },
     {
-      "idSeance": 131239,
+      "idSeance": 133694,
       "idProg": 182,
       "cycles": [
         {
@@ -1164,27 +1089,27 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30730,
+      "idEvenement": 30719,
       "typeEvenement": 13,
-      "libelleEvenement": "MY FAIR LADY",
+      "libelleEvenement": "INVITÉS DE HUIT HEURES (LES)",
       "dateHeure": "2024-09-06T18:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 31497,
-          "titre": "My Fair Lady",
+          "idFilm": 31326,
+          "titre": "Invités de huit heures",
+          "art": "Les",
+          "titreVo": "Dinner at Eight",
           "realisateurs": "George Cukor",
-          "annee": 1963,
-          "generique": "Audrey Hepburn, Rex Harrison, Gladys Cooper",
-          "adaptation": "D'après la pièce _Pygmalion_ de Bernard Shaw.  \nD'après la comédie musicale _My Fair Lady_ d'Alan Jay Lerner et Frederick Loewe.",
-          "synopsis": "Un éminent professeur de phonétique rencontre près de Covent Garden, une petite marchande de fleurs à l'accent cockney. Il décide d'en faire une grande dame.",
+          "annee": 1933,
+          "adaptation": "D'après la pièce _Dinner at eight_ d'Edna Ferber et George S. Kaufman.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 16625,
-              "duree": 170,
-              "format": "DCP",
+              "idCopie": 27963,
+              "duree": 110,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -1235,6 +1160,45 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 131239,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30730,
+      "typeEvenement": 13,
+      "libelleEvenement": "MY FAIR LADY",
+      "dateHeure": "2024-09-06T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31497,
+          "titre": "My Fair Lady",
+          "realisateurs": "George Cukor",
+          "annee": 1963,
+          "generique": "Audrey Hepburn, Rex Harrison, Gladys Cooper",
+          "adaptation": "D'après la pièce _Pygmalion_ de Bernard Shaw.  \nD'après la comédie musicale _My Fair Lady_ d'Alan Jay Lerner et Frederick Loewe.",
+          "synopsis": "Un éminent professeur de phonétique rencontre près de Covent Garden, une petite marchande de fleurs à l'accent cockney. Il décide d'en faire une grande dame.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 16625,
+              "duree": 170,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 133636,
@@ -1349,44 +1313,6 @@
       ]
     },
     {
-      "idSeance": 131285,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30714,
-      "typeEvenement": 13,
-      "libelleEvenement": "HAUTE SOCIÉTÉ",
-      "dateHeure": "2024-09-07T19:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 80555,
-          "titre": "Haute société",
-          "titreVo": "Our Better",
-          "realisateurs": "George Cukor",
-          "annee": 1933,
-          "generique": "Constance Bennett, Violet Kemble Cooper, Phoebe Foster",
-          "synopsis": "Satire des relations humaines dans la haute société britannique des années trente.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 6936,
-              "duree": 83,
-              "format": "35 mm",
-              "version": "VO"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 131286,
       "idProg": 182,
       "cycles": [
@@ -1411,6 +1337,44 @@
           "annee": 2018,
           "status": 0,
           "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131285,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30714,
+      "typeEvenement": 13,
+      "libelleEvenement": "HAUTE SOCIÉTÉ",
+      "dateHeure": "2024-09-07T20:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80555,
+          "titre": "Haute société",
+          "titreVo": "Our Better",
+          "realisateurs": "George Cukor",
+          "annee": 1933,
+          "generique": "Constance Bennett, Violet Kemble Cooper, Phoebe Foster",
+          "synopsis": "Satire des relations humaines dans la haute société britannique des années trente.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 6936,
+              "duree": 83,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
         }
       ]
     },
@@ -1713,7 +1677,7 @@
       ]
     },
     {
-      "idSeance": 131349,
+      "idSeance": 133702,
       "idProg": 182,
       "cycles": [
         {
@@ -1800,41 +1764,6 @@
       ]
     },
     {
-      "idSeance": 131350,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30673,
-      "typeEvenement": 13,
-      "libelleEvenement": "DAME AUX CAMÉLIAS (LA)",
-      "dateHeure": "2024-09-11T20:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 50899,
-          "titre": "Dame aux camélias",
-          "art": "La",
-          "realisateurs": "Abel Gance, Fernand Rivers",
-          "annee": 1934,
-          "adaptation": "D'après le roman _La Dame aux camélias_ d'Alexandre Dumas fils.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28114,
-              "duree": 110
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 131385,
       "idProg": 182,
       "cycles": [
@@ -1873,6 +1802,34 @@
               "sousTitres": "STF"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133685,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30735,
+      "typeEvenement": 13,
+      "libelleEvenement": "ROCKABYE",
+      "dateHeure": "2024-09-12T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31511,
+          "titre": "Rockabye",
+          "realisateurs": "George Cukor",
+          "annee": 1932,
+          "status": 0,
+          "copies": []
         }
       ]
     },
@@ -1926,6 +1883,44 @@
               "duree": 36,
               "format": "35 mm",
               "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133686,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30716,
+      "typeEvenement": 13,
+      "libelleEvenement": "HÉRITAGE",
+      "dateHeure": "2024-09-12T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31386,
+          "titre": "Héritage",
+          "titreVo": "A Bill of Divorcement",
+          "realisateurs": "George Cukor",
+          "annee": 1932,
+          "adaptation": "D'après la pièce _A Bill of Divorcement_ de Clemence Dane.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27929,
+              "duree": 70,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
@@ -2025,7 +2020,7 @@
       ]
     },
     {
-      "idSeance": 131386,
+      "idSeance": 133703,
       "idProg": 182,
       "cycles": [
         {
@@ -2259,7 +2254,7 @@
       ]
     },
     {
-      "idSeance": 131469,
+      "idSeance": 133693,
       "idProg": 182,
       "cycles": [
         {
@@ -2269,29 +2264,44 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30719,
+      "idEvenement": 30731,
       "typeEvenement": 13,
-      "libelleEvenement": "INVITÉS DE HUIT HEURES (LES)",
+      "libelleEvenement": "OISEAU BLEU (L')",
       "dateHeure": "2024-09-14T15:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 31326,
-          "titre": "Invités de huit heures",
-          "art": "Les",
-          "titreVo": "Dinner at Eight",
+          "idFilm": 31397,
+          "titre": "Oiseau bleu",
+          "art": "L'",
+          "titreVo": "Blue Bird",
+          "artVo": "The",
           "realisateurs": "George Cukor",
-          "annee": 1933,
-          "adaptation": "D'après la pièce _Dinner at eight_ d'Edna Ferber et George S. Kaufman.",
-          "status": 0,
+          "annee": 1975,
+          "generique": "Elizabeth Taylor, Ava Gardner, Jane Fonda",
+          "adaptation": "D'après la pièce _L'Oiseau bleu_ de Maurice Maeterlinck.",
+          "synopsis": "Deux enfants, Tyltyl et Mytyl, vivent dans la pauvreté. Un soir de Noël, une fée vient leur demander de l'aide pour retrouver l'Oiseau bleu. Pour cela, elle leur confie un diamant magique.",
+          "status": 2,
           "copies": [
             {
-              "idCopie": 27963,
-              "duree": 110,
+              "idCopie": 9375,
+              "duree": 99,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27961,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 27962,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VO"
             }
           ]
         }
@@ -2453,7 +2463,7 @@
       ]
     },
     {
-      "idSeance": 131483,
+      "idSeance": 133704,
       "idProg": 182,
       "cycles": [
         {
@@ -2566,7 +2576,7 @@
       ]
     },
     {
-      "idSeance": 131484,
+      "idSeance": 133705,
       "idProg": 182,
       "cycles": [
         {
@@ -2579,7 +2589,7 @@
       "idEvenement": 30848,
       "typeEvenement": 13,
       "libelleEvenement": "GRANDE BOUFFE (LA)",
-      "dateHeure": "2024-09-15T19:00:00",
+      "dateHeure": "2024-09-15T19:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2684,6 +2694,34 @@
       ]
     },
     {
+      "idSeance": 131497,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30715,
+      "typeEvenement": 13,
+      "libelleEvenement": "HER CARDBOARD LOVER",
+      "dateHeure": "2024-09-16T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80557,
+          "titre": "Her Cardboard Lover",
+          "realisateurs": "George Cukor",
+          "annee": 1942,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 131495,
       "idProg": 182,
       "cycles": [
@@ -2718,6 +2756,35 @@
         }
       ],
       "mention": "Avant-première"
+    },
+    {
+      "idSeance": 131498,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30732,
+      "typeEvenement": 13,
+      "libelleEvenement": "OTHELLO",
+      "dateHeure": "2024-09-16T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31400,
+          "titre": "Othello",
+          "titreVo": "A Double Life",
+          "realisateurs": "George Cukor",
+          "annee": 1947,
+          "status": 0,
+          "copies": []
+        }
+      ]
     },
     {
       "idSeance": 133675,
@@ -2973,95 +3040,6 @@
       ]
     },
     {
-      "idSeance": 133684,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 786,
-          "idCategorie": 3371,
-          "titreCycle": "Marcello Mastroianni",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30840,
-      "typeEvenement": 13,
-      "libelleEvenement": "JOURNAL INTIME",
-      "dateHeure": "2024-09-19T20:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 43787,
-          "titre": "Journal intime",
-          "titreVo": "Cronaca familiare",
-          "realisateurs": "Valerio Zurlini",
-          "annee": 1962,
-          "generique": "Marcello Mastroianni, Jacques Perrin, Sylvie",
-          "adaptation": "D'après le roman _Journal intime_ de Vasco Pratolini.",
-          "miniTexte": "Rome, 1945. À l'annonce de la mort de son frère cadet, Enrico convoque les souvenirs de leur vie passée. Dans un récit en flashback, tiré du roman autobiographique de Vasco Pratolini, le cinéaste déroule le fil d'une relation complexe, faite de ressentiments et d'incompréhensions, reliée par le fantôme d'une mère défunte. Tons bruns, murs délabrés, rues blafardes et désertées, chaque lieu respire la mélancolie des secrets et de l'absence, quand seule la pénombre semble permettre la parole et l'expression des sentiments. Jacques Perrin est lumineux, Mastroianni à son apogée. Une œuvre aussi délicate que magistrale, couronnée du Lion d'or à Venise.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 27681,
-              "duree": 113,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 131572,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30710,
-      "typeEvenement": 13,
-      "libelleEvenement": "FLAMME SACRÉE (LA)",
-      "dateHeure": "2024-09-19T20:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 31451,
-          "titre": "Flamme sacrée",
-          "art": "La",
-          "titreVo": "Keeper of the Flame",
-          "realisateurs": "George Cukor",
-          "annee": 1942,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 27968,
-              "duree": 100,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 27969,
-              "duree": 100,
-              "format": "16 mm",
-              "version": "VO"
-            },
-            {
-              "idCopie": 28022,
-              "duree": 100,
-              "format": "16 mm"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 131573,
       "idProg": 182,
       "cycles": [
@@ -3075,7 +3053,7 @@
       "idEvenement": 30931,
       "typeEvenement": 13,
       "libelleEvenement": "AUTOUR DE : LA ROUE / NAPOLÉON / LA FIN DU MONDE",
-      "dateHeure": "2024-09-19T20:30:00",
+      "dateHeure": "2024-09-19T18:30:00",
       "idSalle": "JE",
       "items": [
         {
@@ -3128,6 +3106,87 @@
       ]
     },
     {
+      "idSeance": 133684,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30840,
+      "typeEvenement": 13,
+      "libelleEvenement": "JOURNAL INTIME",
+      "dateHeure": "2024-09-19T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43787,
+          "titre": "Journal intime",
+          "titreVo": "Cronaca familiare",
+          "realisateurs": "Valerio Zurlini",
+          "annee": 1962,
+          "generique": "Marcello Mastroianni, Jacques Perrin, Sylvie",
+          "adaptation": "D'après le roman _Journal intime_ de Vasco Pratolini.",
+          "miniTexte": "Rome, 1945. À l'annonce de la mort de son frère cadet, Enrico convoque les souvenirs de leur vie passée. Dans un récit en flashback, tiré du roman autobiographique de Vasco Pratolini, le cinéaste déroule le fil d'une relation complexe, faite de ressentiments et d'incompréhensions, reliée par le fantôme d'une mère défunte. Tons bruns, murs délabrés, rues blafardes et désertées, chaque lieu respire la mélancolie des secrets et de l'absence, quand seule la pénombre semble permettre la parole et l'expression des sentiments. Jacques Perrin est lumineux, Mastroianni à son apogée. Une œuvre aussi délicate que magistrale, couronnée du Lion d'or à Venise.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27681,
+              "duree": 113,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133690,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30728,
+      "typeEvenement": 13,
+      "libelleEvenement": "MILLIARDAIRE (LE)",
+      "dateHeure": "2024-09-19T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31468,
+          "titre": "Milliardaire",
+          "art": "Le",
+          "titreVo": "Let's Make Love",
+          "realisateurs": "George Cukor",
+          "annee": 1960,
+          "generique": "Marilyn Monroe, Yves Montand, Tony Randall",
+          "synopsis": "Jean-Marc Clément possède une puissante compagnie internationale, règne sur la bourse de New York et multiplie les conquêtes féminines. Apprenant un jour qu'il va être pris pour cible par un spectacle satirique de Broadway, il décide d'intégrer la troupe incognito.",
+          "commentaire": "Cukor décrit le monde du théâtre qu'il affectionne, et orchestre brillamment ce conte de fées en forme de vaudeville, ponctué de morceaux de roi : dans leurs propres rôles, Gene Kelly, Bing Crosby et le roi du stand-up Milton Berle. Montand séduit la candide Marilyn, ici dans un rôle qui lui ressemble furieusement. _« My Heart Belongs to Daddy »_, chante la star, alors au sommet, tandis qu'en filigrane la relation connue entre les deux acteurs semble habiter leur couple à l'écran.\n\n« Marilyn Monroe et moi, c'est une sorte de secret qui nous a rapprochés mutuellement. D'abord du milieu populaire d'où on venait l'un et l'autre. C'est parce qu'elle avait terriblement peur qu'elle arrivait en retard sur le plateau, et non pas pour faire des caprices de vedette. Dans l'intimité, elle était quelqu'un tout ce qu'il y a de plus normal. Mais c'était un personnage vivant. Il faut dire qu'à ce moment-là, le film que nous faisions était un film qu'elle aimait beaucoup, auquel elle croyait beaucoup, parce que pour une fois elle se sentait en sécurité, c'est-à-dire qu'elle n'avait pas de comédiens d'Hollywood autour d'elle. Certains avaient tendance à se moquer d'elle. Mais là, elle avait quelqu'un qui venait d'Europe, quelqu'un qui lui avait dit, dès le premier jour : Vous avez peur, mais moi je tremble. » (Yves Montand)",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22735,
+              "duree": 119,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 131611,
       "idProg": 182,
       "cycles": [
@@ -3141,7 +3200,7 @@
       "idEvenement": 30740,
       "typeEvenement": 13,
       "libelleEvenement": "SUZANNE ET SES IDÉES",
-      "dateHeure": "2024-09-20T19:00:00",
+      "dateHeure": "2024-09-20T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3172,6 +3231,73 @@
       ]
     },
     {
+      "idSeance": 133687,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30845,
+      "typeEvenement": 13,
+      "libelleEvenement": "DRAME DE LA JALOUSIE",
+      "dateHeure": "2024-09-20T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42393,
+          "titre": "Drame de la jalousie",
+          "titreVo": "Dramma della gelosia",
+          "realisateurs": "Ettore Scola",
+          "annee": 1970,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131612,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30701,
+      "typeEvenement": 13,
+      "libelleEvenement": "ACTRESS (THE)",
+      "dateHeure": "2024-09-20T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31384,
+          "titre": "Actress",
+          "art": "The",
+          "realisateurs": "George Cukor",
+          "annee": 1953,
+          "adaptation": "D'après la pièce _Years Ago_ de Ruth Gordon.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27992,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 131614,
       "idProg": 182,
       "cycles": [
@@ -3185,7 +3311,7 @@
       "idEvenement": 30842,
       "typeEvenement": 13,
       "libelleEvenement": "CAMARADES (LES)",
-      "dateHeure": "2024-09-20T21:30:00",
+      "dateHeure": "2024-09-20T21:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3324,6 +3450,43 @@
       ]
     },
     {
+      "idSeance": 133689,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30702,
+      "typeEvenement": 13,
+      "libelleEvenement": "CAR SAUVAGE EST LE VENT",
+      "dateHeure": "2024-09-21T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31473,
+          "titre": "Car sauvage est le vent",
+          "titreVo": "Wild is the Wind",
+          "realisateurs": "George Cukor",
+          "annee": 1957,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28001,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 131657,
       "idProg": 182,
       "cycles": [
@@ -3366,6 +3529,74 @@
       ]
     },
     {
+      "idSeance": 133692,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30727,
+      "typeEvenement": 13,
+      "libelleEvenement": "MADEMOISELLE GAGNE-TOUT",
+      "dateHeure": "2024-09-21T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31438,
+          "titre": "Mademoiselle Gagne-Tout",
+          "titreVo": "Pat and Mike",
+          "realisateurs": "George Cukor",
+          "annee": 1952,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 8504,
+              "duree": 95,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133688,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30839,
+      "typeEvenement": 13,
+      "libelleEvenement": "DIVORCE À L'ITALIENNE",
+      "dateHeure": "2024-09-22T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41959,
+          "titre": "Divorce à l'italienne",
+          "titreVo": "Divorzio all'italiana",
+          "realisateurs": "Pietro Germi",
+          "annee": 1961,
+          "generique": "Marcello Mastroianni, Daniela Rocca, Stefania Sandrelli",
+          "synopsis": "Un baron sicilien tombe amoureux de sa jeune cousine et cherche à se débarrasser de sa femme.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 131674,
       "idProg": 182,
       "cycles": [
@@ -3402,6 +3633,43 @@
       ]
     },
     {
+      "idSeance": 131670,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30853,
+      "typeEvenement": 13,
+      "libelleEvenement": "UNE JOURNÉE PARTICULIÈRE",
+      "dateHeure": "2024-09-22T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42428,
+          "titre": "Une journée particulière",
+          "titreVo": "Una giornata particolare",
+          "realisateurs": "Ettore Scola",
+          "annee": 1976,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28069,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 131675,
       "idProg": 182,
       "cycles": [
@@ -3428,6 +3696,44 @@
           "generique": "Sandrine Kiberlain, Agathe Bonitzer, Melvil Poupaud",
           "status": 0,
           "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131683,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30721,
+      "typeEvenement": 13,
+      "libelleEvenement": "JUSTINE",
+      "dateHeure": "2024-09-23T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31448,
+          "titre": "Justine",
+          "realisateurs": "George Cukor",
+          "annee": 1968,
+          "adaptation": "D'après le roman _Justine_ de Lawrence Durrell.",
+          "synopsis": "Alexandrie, en 1938 à la veille de la guerre. Justine est au centre d'une brillante vie mondaine où la liberté des mœurs cache des missions d'espionnage.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28098,
+              "duree": 116,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -3476,6 +3782,288 @@
         }
       ],
       "mention": "Avant-première"
+    },
+    {
+      "idSeance": 131684,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30747,
+      "typeEvenement": 13,
+      "libelleEvenement": "VOYAGES AVEC MA TANTE",
+      "dateHeure": "2024-09-23T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31523,
+          "titre": "Voyages avec ma tante",
+          "titreVo": "Travels with My Aunt",
+          "realisateurs": "George Cukor",
+          "annee": 1972,
+          "generique": "Maggie Smith, Daniel Emilfork, Corinne Marchand, Marcel Gassouk",
+          "adaptation": "D'après le roman _Voyages avec ma tante_ de Graham Greene.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27979,
+              "duree": 108,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 28025,
+              "duree": 135,
+              "format": "16 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131721,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30717,
+      "typeEvenement": 13,
+      "libelleEvenement": "IL ÉTAIT UNE FOIS",
+      "dateHeure": "2024-09-25T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31406,
+          "titre": "Il était une fois",
+          "titreVo": "A Woman's Face",
+          "realisateurs": "George Cukor",
+          "annee": 1941,
+          "generique": "Joan Crawford, Melvyn Douglas, Conrad Veidt",
+          "adaptation": "D'après la pièce _Il était une fois_ de Francis de Croisset.",
+          "synopsis": "Affreusement défigurée à la suite d'un accident survenu dans sa jeunesse, une jeune femme devient maître-chanteur par haine de la société qui la rejette. Un mystérieux et ambitieux docteur va lui offrir la possibilité de changer de visage...",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27927,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133691,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30707,
+      "typeEvenement": 13,
+      "libelleEvenement": "EDOUARD, MON FILS",
+      "dateHeure": "2024-09-26T10:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59286,
+          "titre": "Edouard, mon fils",
+          "titreVo": "Edward, My Son",
+          "realisateurs": "George Cukor",
+          "annee": 1948,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28019,
+              "duree": 112,
+              "format": "16 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131799,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30725,
+      "typeEvenement": 13,
+      "libelleEvenement": "MA VIE À MOI",
+      "dateHeure": "2024-09-27T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 79895,
+          "titre": "Ma vie à moi",
+          "titreVo": "A Life of Her Own",
+          "realisateurs": "George Cukor",
+          "annee": 1950,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 131800,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30710,
+      "typeEvenement": 13,
+      "libelleEvenement": "FLAMME SACRÉE (LA)",
+      "dateHeure": "2024-09-27T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31451,
+          "titre": "Flamme sacrée",
+          "art": "La",
+          "titreVo": "Keeper of the Flame",
+          "realisateurs": "George Cukor",
+          "annee": 1942,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27968,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27969,
+              "duree": 100,
+              "format": "16 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 28022,
+              "duree": 100,
+              "format": "16 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131841,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30723,
+      "typeEvenement": 13,
+      "libelleEvenement": "LIAISONS COUPABLES (LES)",
+      "dateHeure": "2024-09-28T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31415,
+          "titre": "Liaisons coupables",
+          "art": "Les",
+          "titreVo": "Chapman Report",
+          "artVo": "The",
+          "realisateurs": "George Cukor",
+          "annee": 1961,
+          "generique": "Shelley Winters, Jane Fonda, Claire Bloom",
+          "synopsis": "Un médecin enquête sur la sexualité de la femme américaine dans une petite ville de Californie. Quatre jeunes femmes de milieu aisé se présentent à lui.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 10453,
+              "duree": 123,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 10454,
+              "duree": 123
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131860,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30734,
+      "typeEvenement": 13,
+      "libelleEvenement": "RICHES ET CÉLÈBRES",
+      "dateHeure": "2024-09-29T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31509,
+          "titre": "Riches et célèbres",
+          "titreVo": "Rich and Famous",
+          "realisateurs": "George Cukor",
+          "annee": 1981,
+          "generique": "Candice Bergen, David Selby, Jacqueline Bisset",
+          "adaptation": "D'après la pièce _Old Acquaintance_ de John Van Druten.",
+          "synopsis": "1959 : Merry épouse Doug Blake, et fait ses adieux à Liz, sa meilleure amie secrètement amoureuse de Doug. 1969 : Liz, devenue une romancière célèbre, revoit les deux époux à Malibu. Merry a écrit un livre sur leur jeunesse et soumet son projet à Liz.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 10898,
+              "duree": 117,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 132091,
@@ -3581,7 +4169,7 @@
       ]
     },
     {
-      "idSeance": 132213,
+      "idSeance": 133706,
       "idProg": 182,
       "cycles": [
         {
@@ -3677,7 +4265,7 @@
       ]
     },
     {
-      "idSeance": 133632,
+      "idSeance": 133707,
       "idProg": 182,
       "cycles": [
         {
@@ -3716,7 +4304,7 @@
       ]
     },
     {
-      "idSeance": 132233,
+      "idSeance": 133708,
       "idProg": 182,
       "cycles": [
         {
@@ -3806,7 +4394,7 @@
         {
           "idCycle": 791,
           "idCategorie": 3379,
-          "titreCycle": "Zucker-Abrahams-Zucker",
+          "titreCycle": "Zucker, Abrahams et Zucker",
           "titreSousCycle": "Les films"
         }
       ],
