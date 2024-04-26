@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-26T10:33:52.343Z",
+  "updatedAt": "2024-04-26T13:35:29.258Z",
   "data": [
     {
       "idSeance": 130975,
@@ -2055,6 +2055,13 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 12276,
+              "duree": 111,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
               "idCopie": 28150,
               "duree": 110
             }
@@ -2204,7 +2211,15 @@
           "generique": "Marcello Mastroianni, Daniela Rocca, Stefania Sandrelli",
           "synopsis": "Un baron sicilien tombe amoureux de sa jeune cousine et cherche à se débarrasser de sa femme.",
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28161,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -3259,7 +3274,15 @@
           "realisateurs": "Ettore Scola",
           "annee": 1970,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28162,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -3596,7 +3619,15 @@
           "generique": "Marcello Mastroianni, Daniela Rocca, Stefania Sandrelli",
           "synopsis": "Un baron sicilien tombe amoureux de sa jeune cousine et cherche à se débarrasser de sa femme.",
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28161,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
