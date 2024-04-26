@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-26T10:03:17.711Z",
+  "updatedAt": "2024-04-26T10:33:52.343Z",
   "data": [
     {
       "idSeance": 130975,
@@ -90,6 +90,7 @@
       "libelleEvenement": "PARADIS PERDU",
       "dateHeure": "2024-08-29T20:00:00",
       "idSalle": "HL",
+      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -108,7 +109,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Ouverture de la rétrospective"
     },
     {
       "idSeance": 133611,
@@ -1740,6 +1742,7 @@
       "libelleEvenement": "DOLCE VITA (LA)",
       "dateHeure": "2024-09-11T20:00:00",
       "idSalle": "HL",
+      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -1761,7 +1764,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Ouverture de la rétrospective"
     },
     {
       "idSeance": 131385,
