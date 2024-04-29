@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-26T14:37:09.984Z",
+  "updatedAt": "2024-04-29T14:10:57.398Z",
   "data": [
     {
       "idSeance": 130975,
@@ -138,7 +138,15 @@
           "realisateurs": "George Cukor, Cyril Gardner",
           "annee": 1931,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28205,
+              "duree": 85,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
         }
       ]
     },
@@ -1646,7 +1654,15 @@
           "realisateurs": "George Cukor",
           "annee": 1931,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28206,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
         }
       ]
     },
@@ -1833,7 +1849,15 @@
           "realisateurs": "George Cukor",
           "annee": 1932,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28190,
+              "duree": 70,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
         }
       ]
     },
@@ -2467,11 +2491,6 @@
               "duree": 124,
               "format": "35 mm",
               "version": "VO"
-            },
-            {
-              "idCopie": 28023,
-              "duree": 124,
-              "format": "16 mm"
             }
           ]
         }
@@ -2620,11 +2639,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28149,
-              "duree": 125,
-              "format": "35 mm"
-            },
-            {
               "idCopie": 21806,
               "duree": 125,
               "format": "DCP"
@@ -2732,7 +2746,15 @@
           "realisateurs": "George Cukor",
           "annee": 1942,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28204,
+              "duree": 100,
+              "format": "16 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
         }
       ]
     },
@@ -2767,7 +2789,13 @@
           "realisateurs": "Sophie Fillières",
           "annee": 2023,
           "status": 1,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28175,
+              "duree": 99,
+              "format": "DCP"
+            }
+          ]
         }
       ],
       "mention": "Avant-première"
@@ -2797,7 +2825,14 @@
           "realisateurs": "George Cukor",
           "annee": 1947,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28193,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
         }
       ]
     },
@@ -2859,7 +2894,13 @@
           "annee": 1993,
           "generique": "Judith Godrèche, Hélène Fillières, Emmanuel Salinger",
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28173,
+              "duree": 105,
+              "format": "35 mm"
+            }
+          ]
         }
       ]
     },
@@ -2963,7 +3004,13 @@
           "annee": 1999,
           "generique": "André Dussollier, Hélène Fillières, Emmanuelle Devos, Gisèle Casadesus",
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28172,
+              "duree": 113,
+              "format": "35 mm"
+            }
+          ]
         }
       ]
     },
@@ -3427,7 +3474,13 @@
           "annee": 2004,
           "generique": "Emmanuelle Devos, Lambert Wilson, Bruno Todeschini, Michael Lonsdale, Bulle Ogier",
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28171,
+              "duree": 102,
+              "format": "35 mm"
+            }
+          ]
         }
       ]
     },
@@ -3726,7 +3779,12 @@
           "annee": 2017,
           "generique": "Sandrine Kiberlain, Agathe Bonitzer, Melvil Poupaud",
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28176,
+              "duree": 95
+            }
+          ]
         }
       ]
     },
@@ -3925,7 +3983,7 @@
           "copies": [
             {
               "idCopie": 28019,
-              "duree": 112,
+              "duree": 110,
               "format": "16 mm",
               "version": "VO"
             }
@@ -4005,7 +4063,8 @@
             {
               "idCopie": 28022,
               "duree": 100,
-              "format": "16 mm"
+              "format": "16 mm",
+              "version": "VO"
             }
           ]
         }
@@ -4485,11 +4544,13 @@
               "idCopie": 20230,
               "duree": 123,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             },
             {
               "idCopie": 20287,
-              "duree": 123
+              "duree": 123,
+              "stDemande": true
             }
           ]
         }
@@ -4690,12 +4751,6 @@
           "synopsis": "Rencontrés par hasard à la sortie d'un train, un sergent américain en permission, un soldat anglais et une jeune volontaire se retrouvent à enquêter sur des agressions qui ont lieu dans ce village aux abords de Canterbury...",
           "status": 0,
           "copies": [
-            {
-              "idCopie": 20288,
-              "duree": 125,
-              "format": "35 mm",
-              "version": "VO"
-            },
             {
               "idCopie": 20234,
               "duree": 125,
