@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-30T08:01:18.475Z",
+  "updatedAt": "2024-04-30T08:19:05.590Z",
   "data": [
     {
       "idSeance": 130975,
@@ -325,12 +325,12 @@
         {
           "ordre": 1,
           "idFilm": 48679,
-          "titre": "J'accuse !",
+          "titre": "J'accuse",
           "realisateurs": "Abel Gance",
           "annee": 1918,
           "generique": "Séverin-Mars, Romuald Joubé, Maxime Desjardins, Marise Dauvray",
           "synopsis": "« Tragédie des temps modernes en trois époques » (Abel Gance) et plaidoyer contre la guerre.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 3865,
@@ -1998,12 +1998,14 @@
         {
           "ordre": 2,
           "idFilm": 73472,
-          "titre": "Magirama",
+          "titre": "Magirama (J'accuse)",
           "realisateurs": "Abel Gance, Nelly Kaplan",
           "annee": 1956,
+          "dureeStd": 57,
           "generique": "Abel Gance, Robert Vattier",
           "synopsis": "Abel Gance développe le dispositif de projection sur trois écrans éprouvé avec _Napoléon_ en 1928, avec les images du _J'accuse_ de 1937. Il revient donc une nouvelle fois sur la Première guerre Mondiale dans un format permettant de restituer l'ampleur du traumatisme vécu.",
-          "status": 0,
+          "commentaire": "Abel Gance expérimente la polyvision dans trois séquences de _Napoléon_ en 1927. Elle lui permet de développer sur trois écrans une narration qui révèle la capacité du cinéma à raconter autrement. Ces triptyques créent une expérience filmique et spectatorielle nouvelle. Mais difficiles à exploiter, Gance doit attendre près de trente ans pour renouveler l'essai. Il conçoit en 1954, avec le soutien du CNC, le Proterama, « polyphonie visuelle » qui permet de « voir simultanément le dessin mélodique du sujet (écran central) et son orchestration (écrans latéraux) ». Ce n'est que le 19 décembre 1956 que l'on peut découvrir, au Studio 28, le Magirama, spectacle qui concrétise ces recherches. Composé avec Nelly Kaplan, le dispositif comprend quatre courts métrages : _Auprès de ma blonde_, _Châteaux de nuages_, _Fête foraine_, _Begone Dull Care_ de Norman MacLaren et une version d'une heure du _J'accuse_ de 1937. Conçu pour « sauver le cinéma qui se meurt », le Magirama quitta l'affiche au bout de huit semaines.\n\nBéatrice de Pastre",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28128,
