@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-29T15:22:48.972Z",
+  "updatedAt": "2024-04-30T08:01:18.475Z",
   "data": [
     {
       "idSeance": 130975,
@@ -896,10 +896,11 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 27987,
+              "idCopie": 28213,
               "duree": 87,
-              "format": "35 mm",
-              "version": "VO"
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
@@ -1525,7 +1526,15 @@
           "annee": 1959,
           "adaptation": "D'après le roman _Heller with a gun_ de Louis L'Amour.",
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28212,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
         }
       ]
     },
@@ -4870,7 +4879,7 @@
           ]
         }
       ],
-      "mention": "Avant-première"
+      "mention": "Avant-première. Séance présentée par Claude Lelouch"
     },
     {
       "idSeance": 133023,
