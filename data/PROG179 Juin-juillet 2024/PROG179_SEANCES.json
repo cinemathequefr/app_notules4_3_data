@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-04-30T11:13:55.493Z",
+  "updatedAt": "2024-05-02T14:36:31.920Z",
   "data": [
     {
       "idSeance": 128873,
@@ -1039,7 +1039,7 @@
       ]
     },
     {
-      "idSeance": 129062,
+      "idSeance": 133743,
       "idProg": 179,
       "cycles": [
         {
@@ -1075,7 +1075,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Jonathan Millet"
     },
     {
       "idSeance": 130789,
@@ -1115,7 +1116,7 @@
       ]
     },
     {
-      "idSeance": 129100,
+      "idSeance": 133745,
       "idProg": 179,
       "cycles": [
         {
@@ -1125,25 +1126,26 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30543,
+      "idEvenement": 30548,
       "typeEvenement": 13,
-      "libelleEvenement": "BABY",
+      "libelleEvenement": "THE BRINK OF DREAMS",
       "dateHeure": "2024-06-06T18:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154845,
-          "titre": "Baby",
-          "realisateurs": "Marcelo Caetano",
+          "idFilm": 154852,
+          "titre": "Rafaat einy ll sama",
+          "titreNx": "رفعت عيني للسما",
+          "realisateurs": "Nada Riyadh, Ayman El Amir",
           "annee": 2024,
-          "generique": "João Pedro Mariano, Ricardo Teodoro, Ana Flavia Cavalcanti",
-          "miniTexte": "À sa sortie d'un centre de détention pour mineurs, Wellington se retrouve seul et à la dérive dans les rues de São Paulo, sans nouvelles de ses parents et sans ressources pour commencer une nouvelle vie. Lors d'une visite dans un cinéma porno, il rencontre Ronaldo, un homme mûr qui lui enseigne de nouvelles façons de survivre. Peu à peu, leur relation se transforme en passion conflictuelle, oscillant entre exploitation et protection, jalousie et complicité.",
+          "generique": "Majda Masoud, Haidi Sameh, Monika Youssef",
+          "miniTexte": "Dans un village isolé et conservateur du sud de l'Égypte, un groupe de coptes, privées de leurs droits, se rebellent pour former une troupe de théâtre de rue exclusivement féminine. Rêvant de devenir comédiennes, danseuses et chanteuses, elles bravent leurs familles et les locaux avec leurs performances provocantes. Tourné sur quatre années, ce film d'apprentissage suit ces filles qui deviennent femmes.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28032,
-              "duree": 107,
+              "idCopie": 28072,
+              "duree": 102,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
@@ -1214,7 +1216,7 @@
       ]
     },
     {
-      "idSeance": 129101,
+      "idSeance": 133746,
       "idProg": 179,
       "cycles": [
         {
@@ -1224,35 +1226,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30544,
+      "idEvenement": 30546,
       "typeEvenement": 13,
-      "libelleEvenement": "BLUE SUN PALACE",
+      "libelleEvenement": "LOCUST",
       "dateHeure": "2024-06-06T20:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154846,
-          "titre": "Blue Sun Palace",
-          "realisateurs": "Constance Tsang",
+          "idFilm": 154850,
+          "titre": "Locust",
+          "realisateurs": "Keff",
           "annee": 2024,
-          "generique": "Lee Kang-sheng, Wu Ke-xi, Xu Haipeng",
-          "miniTexte": "Une perte soudaine cimente une relation inattendue entre deux migrants de la communauté chinoise du Queens. Loin de chez eux, et travaillant sans relâche pour subvenir à leurs besoins, ils font leur deuil ensemble dans l'espoir de trouver une famille.",
+          "generique": "Wilson Liu, Rimong Ihwar, Devin Pan",
+          "miniTexte": "À Taïwan, Zhong-Han, un jeune homme mutique d'une vingtaine d'années, mène une double vie. Employé dans un restaurant familial le jour, il rackette en bande la nuit pour le compte de parrains locaux. Mais le rachat du restaurant par un homme d'affaires véreux met en danger ses proches, et oblige Zhong-Han à affronter son propre gang.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28033,
-              "duree": 116,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "idCopie": 28070,
+              "duree": 128,
+              "format": "DCP"
             }
           ]
         }
       ]
     },
     {
-      "idSeance": 133666,
+      "idSeance": 133748,
       "idProg": 179,
       "cycles": [
         {
@@ -1262,102 +1262,26 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30912,
+      "idEvenement": 30549,
       "typeEvenement": 13,
-      "libelleEvenement": "PROGRAMME DE COURTS MÉTRAGES 1",
+      "libelleEvenement": "SIMON DE LA MONTAGNE",
       "dateHeure": "2024-06-07T16:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154857,
-          "titre": "Ce qu'on demande à une statue, c'est qu'elle ne bouge pas",
-          "titreNx": "Αυτό που Ζητάμε από ένα Αγαλμα είναι να μην Κινείται",
-          "realisateurs": "Daphné Hérétakis",
+          "idFilm": 154853,
+          "titre": "Simon de la montagne",
+          "titreVo": "Simón de la montaña",
+          "realisateurs": "Federico Luis",
           "annee": 2024,
-          "generique": "Grigoria Metheniti, Hélène Chalastanis, Sotiria Chrysovergi",
-          "miniTexte": "À Athènes, rien n'a l'air de bouger, ses habitants semblent immobiles comme des statues. Pourtant, quelque part, une cariatide s'échappe d'un musée et un groupuscule exige la destruction de toutes les antiquités. Filmer serait peut-être la seule manière de ne pas rester de marbre.",
+          "generique": "Lorenzo Ferro, Kiara Supini, Pehuen Pedre",
+          "miniTexte": "Simon a 21 ans. Il se présente comme aide-déménageur. Il dit ne pas savoir cuisiner ni nettoyer une salle de bains, mais en revanche il sait faire un lit. Depuis quelque temps, il semble devenir quelqu'un d'autre.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28080,
-              "duree": 32,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
-        },
-        {
-          "ordre": 2,
-          "idFilm": 154865,
-          "titre": "Supersilly",
-          "realisateurs": "Veronica Martiradonna",
-          "annee": 2024,
-          "miniTexte": "Apres avoir pénétré à l'intérieur d'une tente, une petite fille en ressort effrayée, grandie et étrangement revêtue d'un costume de lapin. Dans ce voyage intérieur, cette jeune femme va tenter de comprendre le drame originel qui cause les souffrances qu'elle endure.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28091,
-              "duree": 9,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
-        },
-        {
-          "ordre": 3,
-          "idFilm": 154856,
-          "titre": "Minhas sensações são tudo o que tenho para oferecer",
-          "art": "As",
-          "realisateurs": "Isadora Neves Marques",
-          "annee": 2024,
-          "generique": "Ágata de Pinho, Isadora Alves, Mário Afonso",
-          "miniTexte": "Lourdes et Lana se sont rencontrées en ayant pris des « pilules sensorielles », une technologie qui permet d'accéder aux sensations des autres à distance. Quelques mois après le début de leur relation, Lourdes décide de rendre visite à ses parents, Vicente et Carl, dans leur maison à la campagne, et de leur présenter sa copine.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28079,
-              "duree": 20,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
-        },
-        {
-          "ordre": 4,
-          "idFilm": 154866,
-          "titre": "Taniec w narożniku",
-          "realisateurs": "Jan Bujnowski",
-          "annee": 2024,
-          "generique": "Marcin Bujnowski, Filip Bojarski, Henryk Ceballos",
-          "miniTexte": "Après la chute du communisme en 1989, la télévision couleur n'est plus un produit de luxe en Pologne. Dans les foyers polonais, les écrans ressemblent davantage à la réalité qu'ils voient de leurs fenêtres. Mais quelles sont les vraies couleurs de cette réalité ?",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28093,
-              "duree": 13,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
-        },
-        {
-          "ordre": 5,
-          "idFilm": 154863,
-          "titre": "Noksan",
-          "realisateurs": "Cem Demirer",
-          "annee": 2024,
-          "generique": "Haydar Şahin, Şencan Aslan",
-          "miniTexte": "Mert, un homme d'une trentaine d'années, travaille dans un parc d'attraction qui semble abandonné. Aux prises avec sa dualité intrinsèque, il sent une identité tapie dans l'ombre bien décidée à le miner. Mert entre en contact avec différents individus et créatures, tentant de saisir les failles de sa santé mentale. Dans sa quête opiniâtre de réponses, Mert doit faire face aux tréfonds de sa psyché, freiné par sa réticence à pleinement confronter ses mystères intérieurs.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28088,
-              "duree": 23,
+              "idCopie": 28074,
+              "duree": 96,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
@@ -1367,7 +1291,7 @@
       ]
     },
     {
-      "idSeance": 129140,
+      "idSeance": 133749,
       "idProg": 179,
       "cycles": [
         {
@@ -1481,7 +1405,7 @@
       ]
     },
     {
-      "idSeance": 129141,
+      "idSeance": 133750,
       "idProg": 179,
       "cycles": [
         {
@@ -1491,30 +1415,32 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30546,
+      "idEvenement": 30554,
       "typeEvenement": 13,
-      "libelleEvenement": "LOCUST",
+      "libelleEvenement": "LES REINES DU DRAME",
       "dateHeure": "2024-06-07T20:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154850,
-          "titre": "Locust",
-          "realisateurs": "Keff",
+          "idFilm": 154843,
+          "titre": "Reines du drame",
+          "art": "Les",
+          "realisateurs": "Alexis Langlois",
           "annee": 2024,
-          "generique": "Wilson Liu, Rimong Ihwar, Devin Pan",
-          "miniTexte": "À Taïwan, Zhong-Han, un jeune homme mutique d'une vingtaine d'années, mène une double vie. Employé dans un restaurant familial le jour, il rackette en bande la nuit pour le compte de parrains locaux. Mais le rachat du restaurant par un homme d'affaires véreux met en danger ses proches, et oblige Zhong-Han à affronter son propre gang.",
+          "generique": "Louiza Aura, Gio Ventura, Bilal Hassani",
+          "miniTexte": "2055. Steevyshady, youtubeur hyper botoxé, raconte le destin incandescent de son idole, la diva pop Mimi Madamour, du top de sa gloire en 2005 à sa descente aux enfers, précipitée par son histoire d'amour avec l'icône punk Billie Kohler. Pendant un demi-siècle, ces reines du drame ont chanté leur passion et leur rage sous le feu des projecteurs.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28070,
-              "duree": 128,
+              "idCopie": 28030,
+              "duree": 114,
               "format": "DCP"
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Alexis Langlois"
     },
     {
       "idSeance": 130818,
@@ -1695,7 +1621,7 @@
       ]
     },
     {
-      "idSeance": 129181,
+      "idSeance": 133752,
       "idProg": 179,
       "cycles": [
         {
@@ -1705,31 +1631,14 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30547,
+      "idEvenement": 30552,
       "typeEvenement": 13,
-      "libelleEvenement": "LA PAMPA",
+      "libelleEvenement": "SÉANCE SPÉCIALE COURTS MÉTRAGES",
       "dateHeure": "2024-06-08T17:15:00",
       "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 154851,
-          "titre": "Pampa",
-          "art": "La",
-          "realisateurs": "Antoine Chevrollier",
-          "annee": 2024,
-          "generique": "Sayyid El Alami, Amaury Foucher, Damien Bonnard",
-          "miniTexte": "Willy et Jojo sont amis d'enfance et ne se quittent jamais. Pour tuer l'ennui ils s'entraînent à la Pampa, un terrain de motocross. Un soir, Willy découvre le secret de Jojo.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28071,
-              "duree": 104,
-              "format": "DCP"
-            }
-          ]
-        }
-      ]
+      "theorique": true,
+      "mention": "Séance présentée par Lucie Borleteau",
+      "items": []
     },
     {
       "idSeance": 130835,
@@ -1812,7 +1721,7 @@
       ]
     },
     {
-      "idSeance": 129182,
+      "idSeance": 133753,
       "idProg": 179,
       "cycles": [
         {
@@ -1822,36 +1731,34 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30548,
+      "idEvenement": 30555,
       "typeEvenement": 13,
-      "libelleEvenement": "THE BRINK OF DREAMS",
+      "libelleEvenement": "ANIMALE",
       "dateHeure": "2024-06-08T20:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154852,
-          "titre": "Rafaat einy ll sama",
-          "titreNx": "رفعت عيني للسما",
-          "realisateurs": "Nada Riyadh, Ayman El Amir",
+          "idFilm": 154844,
+          "titre": "Animale",
+          "realisateurs": "Emma Benestan",
           "annee": 2024,
-          "generique": "Majda Masoud, Haidi Sameh, Monika Youssef",
-          "miniTexte": "Dans un village isolé et conservateur du sud de l'Égypte, un groupe de coptes, privées de leurs droits, se rebellent pour former une troupe de théâtre de rue exclusivement féminine. Rêvant de devenir comédiennes, danseuses et chanteuses, elles bravent leurs familles et les locaux avec leurs performances provocantes. Tourné sur quatre années, ce film d'apprentissage suit ces filles qui deviennent femmes.",
+          "generique": "Oulaya Amamra",
+          "miniTexte": "Nejma s'entraîne dur pour réaliser son rêve et remporter la prochaine course camarguaise, un concours où l'on défie les taureaux dans l'arène. Mais alors que la saison bat son plein, des disparitions suspectes inquiètent les habitants. Très vite la rumeur se propage : une bête sauvage rôde.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28072,
-              "duree": 0,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "idCopie": 28031,
+              "duree": 98,
+              "format": "DCP"
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Emma Benestan"
     },
     {
-      "idSeance": 129198,
+      "idSeance": 133754,
       "idProg": 179,
       "cycles": [
         {
@@ -1861,26 +1768,25 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30549,
+      "idEvenement": 30543,
       "typeEvenement": 13,
-      "libelleEvenement": "SIMON DE LA MONTAGNE",
+      "libelleEvenement": "BABY",
       "dateHeure": "2024-06-09T14:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154853,
-          "titre": "Simon de la montagne",
-          "titreVo": "Simón de la montaña",
-          "realisateurs": "Federico Luis",
+          "idFilm": 154845,
+          "titre": "Baby",
+          "realisateurs": "Marcelo Caetano",
           "annee": 2024,
-          "generique": "Lorenzo Ferro, Kiara Supini, Pehuen Pedre",
-          "miniTexte": "Simon a 21 ans. Il se présente comme aide-déménageur. Il dit ne pas savoir cuisiner ni nettoyer une salle de bains, mais en revanche il sait faire un lit. Depuis quelque temps, il semble devenir quelqu'un d'autre.",
+          "generique": "João Pedro Mariano, Ricardo Teodoro, Ana Flavia Cavalcanti",
+          "miniTexte": "À sa sortie d'un centre de détention pour mineurs, Wellington se retrouve seul et à la dérive dans les rues de São Paulo, sans nouvelles de ses parents et sans ressources pour commencer une nouvelle vie. Lors d'une visite dans un cinéma porno, il rencontre Ronaldo, un homme mûr qui lui enseigne de nouvelles façons de survivre. Peu à peu, leur relation se transforme en passion conflictuelle, oscillant entre exploitation et protection, jalousie et complicité.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28074,
-              "duree": 96,
+              "idCopie": 28032,
+              "duree": 107,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
@@ -1972,7 +1878,7 @@
       ]
     },
     {
-      "idSeance": 129200,
+      "idSeance": 133755,
       "idProg": 179,
       "cycles": [
         {
@@ -1982,33 +1888,32 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30553,
+      "idEvenement": 30547,
       "typeEvenement": 13,
-      "libelleEvenement": "LA MER AU LOIN",
+      "libelleEvenement": "LA PAMPA",
       "dateHeure": "2024-06-09T17:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154842,
-          "titre": "Mer au loin",
+          "idFilm": 154851,
+          "titre": "Pampa",
           "art": "La",
-          "realisateurs": "Saïd Hamich Benlarbi",
+          "realisateurs": "Antoine Chevrollier",
           "annee": 2024,
-          "generique": "Ayoub Gretaa, Anna Mouglalis, Grégoire Colin",
-          "miniTexte": "Nour, 27 ans, a émigré clandestinement à Marseille. Avec ses amis, il vit de petits trafics et mène une vie marginale et festive. Mais sa rencontre avec Serge, un flic charismatique et imprévisible, et sa femme Noémie, va bouleverser son existence. De 1990 à 2000, Nour aime, vieillit et se raccroche à ses rêves.",
+          "generique": "Sayyid El Alami, Amaury Foucher, Damien Bonnard",
+          "miniTexte": "Willy et Jojo sont amis d'enfance et ne se quittent jamais. Pour tuer l'ennui ils s'entraînent à la Pampa, un terrain de motocross. Un soir, Willy découvre le secret de Jojo.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28029,
-              "duree": 112,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "idCopie": 28071,
+              "duree": 104,
+              "format": "DCP"
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Antoine Chevrollier"
     },
     {
       "idSeance": 130793,
@@ -2135,7 +2040,7 @@
       ]
     },
     {
-      "idSeance": 130750,
+      "idSeance": 133756,
       "idProg": 179,
       "cycles": [
         {
@@ -2145,34 +2050,152 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30554,
+      "idEvenement": 30553,
       "typeEvenement": 13,
-      "libelleEvenement": "LES REINES DU DRAME",
+      "libelleEvenement": "LA MER AU LOIN",
       "dateHeure": "2024-06-09T20:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154843,
-          "titre": "Reines du drame",
-          "art": "Les",
-          "realisateurs": "Alexis Langlois",
+          "idFilm": 154842,
+          "titre": "Mer au loin",
+          "art": "La",
+          "realisateurs": "Saïd Hamich Benlarbi",
           "annee": 2024,
-          "generique": "Louiza Aura, Gio Ventura, Bilal Hassani",
-          "miniTexte": "2055. Steevyshady, youtubeur hyper botoxé, raconte le destin incandescent de son idole, la diva pop Mimi Madamour, du top de sa gloire en 2005 à sa descente aux enfers, précipitée par son histoire d'amour avec l'icône punk Billie Kohler. Pendant un demi-siècle, ces reines du drame ont chanté leur passion et leur rage sous le feu des projecteurs.",
+          "generique": "Ayoub Gretaa, Anna Mouglalis, Grégoire Colin",
+          "miniTexte": "Nour, 27 ans, a émigré clandestinement à Marseille. Avec ses amis, il vit de petits trafics et mène une vie marginale et festive. Mais sa rencontre avec Serge, un flic charismatique et imprévisible, et sa femme Noémie, va bouleverser son existence. De 1990 à 2000, Nour aime, vieillit et se raccroche à ses rêves.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28030,
-              "duree": 114,
-              "format": "DCP"
+              "idCopie": 28029,
+              "duree": 112,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Saïd Hamich Benlarbi"
+    },
+    {
+      "idSeance": 133757,
+      "idProg": 179,
+      "cycles": [
+        {
+          "idCycle": 780,
+          "idCategorie": 3341,
+          "titreCycle": "63e Semaine de la critique",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30912,
+      "typeEvenement": 13,
+      "libelleEvenement": "PROGRAMME DE COURTS MÉTRAGES 1",
+      "dateHeure": "2024-06-10T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154857,
+          "titre": "Ce qu'on demande à une statue, c'est qu'elle ne bouge pas",
+          "titreNx": "Αυτό που Ζητάμε από ένα Αγαλμα είναι να μην Κινείται",
+          "realisateurs": "Daphné Hérétakis",
+          "annee": 2024,
+          "generique": "Grigoria Metheniti, Hélène Chalastanis, Sotiria Chrysovergi",
+          "miniTexte": "À Athènes, rien n'a l'air de bouger, ses habitants semblent immobiles comme des statues. Pourtant, quelque part, une cariatide s'échappe d'un musée et un groupuscule exige la destruction de toutes les antiquités. Filmer serait peut-être la seule manière de ne pas rester de marbre.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28080,
+              "duree": 32,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 154865,
+          "titre": "Supersilly",
+          "realisateurs": "Veronica Martiradonna",
+          "annee": 2024,
+          "miniTexte": "Apres avoir pénétré à l'intérieur d'une tente, une petite fille en ressort effrayée, grandie et étrangement revêtue d'un costume de lapin. Dans ce voyage intérieur, cette jeune femme va tenter de comprendre le drame originel qui cause les souffrances qu'elle endure.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28091,
+              "duree": 9,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 154856,
+          "titre": "Minhas sensações são tudo o que tenho para oferecer",
+          "art": "As",
+          "realisateurs": "Isadora Neves Marques",
+          "annee": 2024,
+          "generique": "Ágata de Pinho, Isadora Alves, Mário Afonso",
+          "miniTexte": "Lourdes et Lana se sont rencontrées en ayant pris des « pilules sensorielles », une technologie qui permet d'accéder aux sensations des autres à distance. Quelques mois après le début de leur relation, Lourdes décide de rendre visite à ses parents, Vicente et Carl, dans leur maison à la campagne, et de leur présenter sa copine.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28079,
+              "duree": 20,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 154866,
+          "titre": "Taniec w narożniku",
+          "realisateurs": "Jan Bujnowski",
+          "annee": 2024,
+          "generique": "Marcin Bujnowski, Filip Bojarski, Henryk Ceballos",
+          "miniTexte": "Après la chute du communisme en 1989, la télévision couleur n'est plus un produit de luxe en Pologne. Dans les foyers polonais, les écrans ressemblent davantage à la réalité qu'ils voient de leurs fenêtres. Mais quelles sont les vraies couleurs de cette réalité ?",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28093,
+              "duree": 13,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 154863,
+          "titre": "Noksan",
+          "realisateurs": "Cem Demirer",
+          "annee": 2024,
+          "generique": "Haydar Şahin, Şencan Aslan",
+          "miniTexte": "Mert, un homme d'une trentaine d'années, travaille dans un parc d'attraction qui semble abandonné. Aux prises avec sa dualité intrinsèque, il sent une identité tapie dans l'ombre bien décidée à le miner. Mert entre en contact avec différents individus et créatures, tentant de saisir les failles de sa santé mentale. Dans sa quête opiniâtre de réponses, Mert doit faire face aux tréfonds de sa psyché, freiné par sa réticence à pleinement confronter ses mystères intérieurs.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28088,
+              "duree": 23,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
       ]
     },
     {
-      "idSeance": 133667,
+      "idSeance": 133758,
       "idProg": 179,
       "cycles": [
         {
@@ -2185,7 +2208,7 @@
       "idEvenement": 30909,
       "typeEvenement": 13,
       "libelleEvenement": "PROGRAMME DE COURTS MÉTRAGES 2",
-      "dateHeure": "2024-06-10T16:00:00",
+      "dateHeure": "2024-06-10T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2288,82 +2311,6 @@
       ]
     },
     {
-      "idSeance": 133618,
-      "idProg": 179,
-      "cycles": [
-        {
-          "idCycle": 780,
-          "idCategorie": 3341,
-          "titreCycle": "63e Semaine de la critique",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30924,
-      "typeEvenement": 13,
-      "libelleEvenement": "COURTS MÉTRAGES : SÉANCE SPÉCIALE",
-      "dateHeure": "2024-06-10T18:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 154867,
-          "titre": "Fiancées du Sud",
-          "art": "Les",
-          "titreVo": "Novias del sur",
-          "artVo": "Las",
-          "realisateurs": "Elena López Riera",
-          "annee": 2024,
-          "miniTexte": "Des femmes d'un âge déjà mûr parlent de leur mariage, de leur première fois, de leur rapport intime à la sexualité. Dans la répétition de ces rites ancestraux, la réalisatrice se questionne sur sa propre absence de mariage, d'enfants, et avec elle, une chaîne de relation mère-fille qui s'éteint.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28094,
-              "duree": 39,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
-        },
-        {
-          "ordre": 2,
-          "idFilm": 154869,
-          "titre": "Sannapäiv",
-          "realisateurs": "Anna Hints, Tushar Prakash",
-          "annee": 2024,
-          "generique": "Rasmus Kaljujärv, Agur Seim",
-          "miniTexte": "Le sud de l'Estonie, un monde où les hommes entrent dans l'espace sombre et intime du sauna après une dure journée de travail. Sous leurs airs de durs à cuire sommeille en secret leur désir de contact.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28096,
-              "duree": 13,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
-        },
-        {
-          "ordre": 3,
-          "idFilm": 154868,
-          "titre": "1996 ou les malheurs de Solveig",
-          "realisateurs": "Lucie Borleteau",
-          "annee": 2024,
-          "generique": "Angèle Dupont, Eglantine Pistoulet, Erwan Merhet-Baudrand",
-          "miniTexte": "Au cours de l'année 1996, Solveig, 16 ans, attend son premier baiser.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28095,
-              "duree": 30,
-              "format": "DCP"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 129210,
       "idProg": 179,
       "cycles": [
@@ -2402,7 +2349,7 @@
       "mention": "Avant-première"
     },
     {
-      "idSeance": 130752,
+      "idSeance": 133759,
       "idProg": 179,
       "cycles": [
         {
@@ -2412,26 +2359,28 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30555,
+      "idEvenement": 30544,
       "typeEvenement": 13,
-      "libelleEvenement": "ANIMALE",
+      "libelleEvenement": "BLUE SUN PALACE",
       "dateHeure": "2024-06-10T20:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154844,
-          "titre": "Animale",
-          "realisateurs": "Emma Benestan",
+          "idFilm": 154846,
+          "titre": "Blue Sun Palace",
+          "realisateurs": "Constance Tsang",
           "annee": 2024,
-          "generique": "Oulaya Amamra",
-          "miniTexte": "Nejma s'entraîne dur pour réaliser son rêve et remporter la prochaine course camarguaise, un concours où l'on défie les taureaux dans l'arène. Mais alors que la saison bat son plein, des disparitions suspectes inquiètent les habitants. Très vite la rumeur se propage : une bête sauvage rôde.",
+          "generique": "Lee Kang-sheng, Wu Ke-xi, Xu Haipeng",
+          "miniTexte": "Une perte soudaine cimente une relation inattendue entre deux migrants de la communauté chinoise du Queens. Loin de chez eux, et travaillant sans relâche pour subvenir à leurs besoins, ils font leur deuil ensemble dans l'espoir de trouver une famille.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28031,
-              "duree": 98,
-              "format": "DCP"
+              "idCopie": 28033,
+              "duree": 116,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -4719,7 +4668,7 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 27661,
+              "idCopie": 27840,
               "duree": 105,
               "format": "35 mm",
               "version": "VO",

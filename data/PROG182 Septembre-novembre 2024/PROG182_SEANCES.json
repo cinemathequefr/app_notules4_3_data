@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-02T08:28:51.318Z",
+  "updatedAt": "2024-05-02T14:36:09.559Z",
   "data": [
     {
       "idSeance": 130975,
@@ -44,6 +44,42 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 133768,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30711,
+      "typeEvenement": 13,
+      "libelleEvenement": "GIRLS ABOUT TOWN",
+      "dateHeure": "2024-08-29T16:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 79003,
+          "titre": "Girls about Town",
+          "realisateurs": "George Cukor",
+          "annee": 1931,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28206,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 131010,
@@ -147,6 +183,34 @@
               "stDemande": true
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133769,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30742,
+      "typeEvenement": 13,
+      "libelleEvenement": "TARNISHED LADY",
+      "dateHeure": "2024-08-30T16:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80554,
+          "titre": "Tarnished Lady",
+          "realisateurs": "George Cukor",
+          "annee": 1931,
+          "status": 0,
+          "copies": []
         }
       ]
     },
@@ -343,7 +407,7 @@
       ]
     },
     {
-      "idSeance": 133643,
+      "idSeance": 133761,
       "idProg": 182,
       "cycles": [
         {
@@ -353,23 +417,25 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30748,
+      "idEvenement": 30729,
       "typeEvenement": 13,
-      "libelleEvenement": "WHAT PRICE HOLLYWOOD?",
+      "libelleEvenement": "AGENCE CUPIDON",
       "dateHeure": "2024-08-31T15:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 31528,
-          "titre": "What Price Hollywood ?",
+          "idFilm": 80559,
+          "titre": "Agence Cupidon",
+          "titreVo": "Model and the Marriage Broker",
+          "artVo": "The",
           "realisateurs": "George Cukor",
-          "annee": 1932,
+          "annee": 1951,
           "status": 0,
           "copies": [
             {
-              "idCopie": 8506,
-              "duree": 88,
+              "idCopie": 27982,
+              "duree": 103,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
@@ -392,7 +458,7 @@
       "idEvenement": 30672,
       "typeEvenement": 13,
       "libelleEvenement": "CYRANO ET D'ARTAGNAN",
-      "dateHeure": "2024-08-31T17:45:00",
+      "dateHeure": "2024-08-31T17:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -453,6 +519,42 @@
       ]
     },
     {
+      "idSeance": 133652,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30085,
+      "typeEvenement": 13,
+      "libelleEvenement": "TOUR DE NESLE (LA)",
+      "dateHeure": "2024-08-31T20:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48690,
+          "titre": "Tour de Nesle",
+          "art": "La",
+          "realisateurs": "Abel Gance",
+          "annee": 1955,
+          "generique": "Silvana Pampanini, Pierre Brasseur, Claude Sylvain",
+          "synopsis": "Sous Louis X, la tour de Nesles est le théâtre des orgies de la reine Marguerite de Bourgogne et de deux de ses amies princesses qui font assassiner leurs amants au petit matin.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28127,
+              "duree": 120
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 131095,
       "idProg": 182,
       "cycles": [
@@ -466,7 +568,7 @@
       "idEvenement": 30709,
       "typeEvenement": 13,
       "libelleEvenement": "FEMMES",
-      "dateHeure": "2024-08-31T20:30:00",
+      "dateHeure": "2024-08-31T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -489,42 +591,6 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 133652,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30085,
-      "typeEvenement": 13,
-      "libelleEvenement": "TOUR DE NESLE (LA)",
-      "dateHeure": "2024-08-31T21:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48690,
-          "titre": "Tour de Nesle",
-          "art": "La",
-          "realisateurs": "Abel Gance",
-          "annee": 1955,
-          "generique": "Silvana Pampanini, Pierre Brasseur, Claude Sylvain",
-          "synopsis": "Sous Louis X, la tour de Nesles est le théâtre des orgies de la reine Marguerite de Bourgogne et de deux de ses amies princesses qui font assassiner leurs amants au petit matin.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28127,
-              "duree": 120
             }
           ]
         }
@@ -1246,7 +1312,7 @@
       ]
     },
     {
-      "idSeance": 133682,
+      "idSeance": 133760,
       "idProg": 182,
       "cycles": [
         {
@@ -1256,25 +1322,23 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30729,
+      "idEvenement": 30748,
       "typeEvenement": 13,
-      "libelleEvenement": "AGENCE CUPIDON",
+      "libelleEvenement": "WHAT PRICE HOLLYWOOD?",
       "dateHeure": "2024-09-07T15:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 80559,
-          "titre": "Agence Cupidon",
-          "titreVo": "Model and the Marriage Broker",
-          "artVo": "The",
+          "idFilm": 31528,
+          "titre": "What Price Hollywood ?",
           "realisateurs": "George Cukor",
-          "annee": 1951,
+          "annee": 1932,
           "status": 0,
           "copies": [
             {
-              "idCopie": 27982,
-              "duree": 103,
+              "idCopie": 8506,
+              "duree": 88,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
@@ -1669,8 +1733,9 @@
             {
               "idCopie": 27979,
               "duree": 108,
-              "format": "35 mm",
-              "version": "VO"
+              "format": "16 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
@@ -1808,230 +1873,6 @@
       ]
     },
     {
-      "idSeance": 133736,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30735,
-      "typeEvenement": 13,
-      "libelleEvenement": "ROCKABYE",
-      "dateHeure": "2024-09-12T18:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 31511,
-          "titre": "Rockabye",
-          "realisateurs": "George Cukor",
-          "annee": 1932,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28190,
-              "duree": 70,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 131382,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30064,
-      "typeEvenement": 13,
-      "libelleEvenement": "FOLIE DU DOCTEUR TUBE (LA) / AU SECOURS !",
-      "dateHeure": "2024-09-12T18:30:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48677,
-          "titre": "Folie du docteur Tube",
-          "art": "La",
-          "realisateurs": "Abel Gance",
-          "annee": 1915,
-          "generique": "Albert Dieudonné",
-          "ageMinimal": 8,
-          "synopsis": "Un savant trouve le moyen de décomposer les rayons lumineux.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 1142,
-              "duree": 14,
-              "format": "35 mm",
-              "intertitres": "INT. FR."
-            }
-          ]
-        },
-        {
-          "ordre": 2,
-          "idFilm": 48672,
-          "titre": "Au secours !",
-          "realisateurs": "Abel Gance",
-          "annee": 1923,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 20644,
-              "duree": 36,
-              "format": "35 mm",
-              "intertitres": "INT. FR."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 133669,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30074,
-      "typeEvenement": 13,
-      "libelleEvenement": "SÉANCE MAGIRAMA",
-      "dateHeure": "2024-09-12T20:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 73462,
-          "titre": "14 juillet 1953",
-          "realisateurs": "Abel Gance",
-          "annee": 1954,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28126,
-              "duree": 14,
-              "format": "DCP"
-            }
-          ]
-        },
-        {
-          "ordre": 2,
-          "idFilm": 73472,
-          "titre": "Magirama (J'accuse)",
-          "realisateurs": "Abel Gance, Nelly Kaplan",
-          "annee": 1956,
-          "dureeStd": 57,
-          "generique": "Abel Gance, Robert Vattier",
-          "synopsis": "Abel Gance développe le dispositif de projection sur trois écrans éprouvé avec _Napoléon_ en 1928, avec les images du _J'accuse_ de 1937. Il revient donc une nouvelle fois sur la Première guerre Mondiale dans un format permettant de restituer l'ampleur du traumatisme vécu.",
-          "commentaire": "Abel Gance expérimente la polyvision dans trois séquences de _Napoléon_ en 1927. Elle lui permet de développer sur trois écrans une narration qui révèle la capacité du cinéma à raconter autrement. Ces triptyques créent une expérience filmique et spectatorielle nouvelle. Mais difficiles à exploiter, Gance doit attendre près de trente ans pour renouveler l'essai. Il conçoit en 1954, avec le soutien du CNC, le Proterama, « polyphonie visuelle » qui permet de « voir simultanément le dessin mélodique du sujet (écran central) et son orchestration (écrans latéraux) ». Ce n'est que le 19 décembre 1956 que l'on peut découvrir, au Studio 28, le Magirama, spectacle qui concrétise ces recherches. Composé avec Nelly Kaplan, le dispositif comprend quatre courts métrages : _Auprès de ma blonde_, _Châteaux de nuages_, _Fête foraine_, _Begone Dull Care_ de Norman MacLaren et une version d'une heure du _J'accuse_ de 1937. Conçu pour « sauver le cinéma qui se meurt », le Magirama quitta l'affiche au bout de huit semaines.\n\nBéatrice de Pastre",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 28128,
-              "duree": 60,
-              "format": "DCP"
-            }
-          ]
-        },
-        {
-          "ordre": 3,
-          "idFilm": 73474,
-          "titre": "Fête foraine",
-          "realisateurs": "Abel Gance",
-          "annee": 1956,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28130,
-              "duree": 15
-            }
-          ]
-        },
-        {
-          "ordre": 4,
-          "idFilm": 73475,
-          "titre": "Château de nuages",
-          "realisateurs": "Abel Gance",
-          "annee": 1956,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28131,
-              "duree": 0
-            }
-          ]
-        },
-        {
-          "ordre": 5,
-          "idFilm": 73473,
-          "titre": "Auprès de ma blonde",
-          "realisateurs": "Abel Gance",
-          "annee": 1956,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28132,
-              "duree": 15
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 133686,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30716,
-      "typeEvenement": 13,
-      "libelleEvenement": "HÉRITAGE",
-      "dateHeure": "2024-09-12T20:15:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 31386,
-          "titre": "Héritage",
-          "titreVo": "A Bill of Divorcement",
-          "realisateurs": "George Cukor",
-          "annee": 1932,
-          "adaptation": "D'après la pièce _A Bill of Divorcement_ de Clemence Dane.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 27929,
-              "duree": 70,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 133703,
       "idProg": 182,
       "cycles": [
@@ -2068,6 +1909,77 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133686,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30716,
+      "typeEvenement": 13,
+      "libelleEvenement": "HÉRITAGE",
+      "dateHeure": "2024-09-12T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31386,
+          "titre": "Héritage",
+          "titreVo": "A Bill of Divorcement",
+          "realisateurs": "George Cukor",
+          "annee": 1932,
+          "adaptation": "D'après la pièce _A Bill of Divorcement_ de Clemence Dane.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27929,
+              "duree": 70,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133762,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30939,
+      "typeEvenement": 13,
+      "libelleEvenement": "A L'OMBRE DES GRANDS CHÊNES (ABEL GANCE)",
+      "dateHeure": "2024-09-12T21:15:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 106408,
+          "titre": "A l'ombre des grands chênes (Abel Gance)",
+          "realisateurs": "Georges Mourier",
+          "annee": 2005,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28143,
+              "duree": 52
             }
           ]
         }
@@ -2474,7 +2386,8 @@
               "idCopie": 27985,
               "duree": 124,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
@@ -3426,7 +3339,7 @@
       ]
     },
     {
-      "idSeance": 133689,
+      "idSeance": 133767,
       "idProg": 182,
       "cycles": [
         {
@@ -3436,19 +3349,19 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30702,
+      "idEvenement": 30725,
       "typeEvenement": 13,
-      "libelleEvenement": "CAR SAUVAGE EST LE VENT",
+      "libelleEvenement": "MA VIE À MOI",
       "dateHeure": "2024-09-21T18:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 31473,
-          "titre": "Car sauvage est le vent",
-          "titreVo": "Wild is the Wind",
+          "idFilm": 79895,
+          "titre": "Ma vie à moi",
+          "titreVo": "A Life of Her Own",
           "realisateurs": "George Cukor",
-          "annee": 1957,
+          "annee": 1950,
           "status": 0,
           "copies": []
         }
@@ -3572,7 +3485,8 @@
         {
           "idCycle": 794,
           "idCategorie": 3395,
-          "titreCycle": "Sophie Fillières"
+          "titreCycle": "Sophie Fillières",
+          "titreSousCycle": "Courts métrages"
         }
       ],
       "idEvenement": 30914,
@@ -5059,6 +4973,44 @@
       ]
     },
     {
+      "idSeance": 132047,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25754,
+      "typeEvenement": 13,
+      "libelleEvenement": "MAPS TO THE STARS",
+      "dateHeure": "2024-10-05T19:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 123191,
+          "titre": "Maps to the Stars",
+          "realisateurs": "David Cronenberg",
+          "annee": 2013,
+          "generique": "Julianne Moore, Mia Wasikowska, John Cusack, Robert Pattinson",
+          "synopsis": "Histoire d'une famille typiquement hollywoodienne dont les membres courent après la célébrité, se cherchent les uns les autres et doivent cohabiter avec les démons du passé.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 6592,
+              "duree": 0,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133729,
       "idProg": 182,
       "cycles": [
@@ -5072,7 +5024,7 @@
       "idEvenement": 25735,
       "typeEvenement": 13,
       "libelleEvenement": "A HISTORY OF VIOLENCE",
-      "dateHeure": "2024-10-05T14:30:00",
+      "dateHeure": "2024-10-06T14:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -5099,6 +5051,45 @@
       ]
     },
     {
+      "idSeance": 132046,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25739,
+      "typeEvenement": 13,
+      "libelleEvenement": "COSMOPOLIS",
+      "dateHeure": "2024-10-06T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 116210,
+          "titre": "Cosmopolis",
+          "realisateurs": "David Cronenberg",
+          "annee": 2011,
+          "generique": "Robert Pattinson, Juliette Binoche, Sarah Gadon, Mathieu Amalric",
+          "adaptation": "D'après le roman _Cosmopolis_ de Don DeLillo.",
+          "synopsis": "Dans un New York en ébullition, l'ère du capitalisme touche à sa fin. Tandis que Manhattan sombre dans le chaos, un _golden boy_ de la haute finance, enfermé dans sa limousine, n'a qu'une seule obsession : une coupe de cheveux chez son coiffeur à l'autre bout de la ville.\n\n\n",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 742,
+              "duree": 108,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 132029,
       "idProg": 182,
       "cycles": [
@@ -5112,7 +5103,7 @@
       "idEvenement": 25736,
       "typeEvenement": 13,
       "libelleEvenement": "PROMESSES DE L'OMBRE (LES)",
-      "dateHeure": "2024-10-05T18:30:00",
+      "dateHeure": "2024-10-06T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -5159,7 +5150,7 @@
       "idEvenement": 25738,
       "typeEvenement": 13,
       "libelleEvenement": "A DANGEROUS METHOD",
-      "dateHeure": "2024-10-05T20:30:00",
+      "dateHeure": "2024-10-06T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -5196,83 +5187,6 @@
             {
               "idCopie": 27708,
               "duree": 99
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 132046,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 624,
-          "idCategorie": 2673,
-          "titreCycle": "David Cronenberg",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 25739,
-      "typeEvenement": 13,
-      "libelleEvenement": "COSMOPOLIS",
-      "dateHeure": "2024-10-06T17:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 116210,
-          "titre": "Cosmopolis",
-          "realisateurs": "David Cronenberg",
-          "annee": 2011,
-          "generique": "Robert Pattinson, Juliette Binoche, Sarah Gadon, Mathieu Amalric",
-          "adaptation": "D'après le roman _Cosmopolis_ de Don DeLillo.",
-          "synopsis": "Dans un New York en ébullition, l'ère du capitalisme touche à sa fin. Tandis que Manhattan sombre dans le chaos, un _golden boy_ de la haute finance, enfermé dans sa limousine, n'a qu'une seule obsession : une coupe de cheveux chez son coiffeur à l'autre bout de la ville.\n\n\n",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 742,
-              "duree": 108,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 132047,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 624,
-          "idCategorie": 2673,
-          "titreCycle": "David Cronenberg",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 25754,
-      "typeEvenement": 13,
-      "libelleEvenement": "MAPS TO THE STARS",
-      "dateHeure": "2024-10-06T19:45:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 123191,
-          "titre": "Maps to the Stars",
-          "realisateurs": "David Cronenberg",
-          "annee": 2013,
-          "generique": "Julianne Moore, Mia Wasikowska, John Cusack, Robert Pattinson",
-          "synopsis": "Histoire d'une famille typiquement hollywoodienne dont les membres courent après la célébrité, se cherchent les uns les autres et doivent cohabiter avec les démons du passé.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 6592,
-              "duree": 0,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
             }
           ]
         }
@@ -5487,35 +5401,6 @@
       ]
     },
     {
-      "idSeance": 133631,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 788,
-          "idCategorie": 3373,
-          "titreCycle": "Darejan Omirbaev",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30779,
-      "typeEvenement": 13,
-      "libelleEvenement": "CHOUGA",
-      "dateHeure": "2024-10-12T20:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 106346,
-          "titre": "Chouga",
-          "titreVo": "Shuga",
-          "realisateurs": "Darejan Omirbaev",
-          "annee": 2007,
-          "status": 0,
-          "copies": []
-        }
-      ]
-    },
-    {
       "idSeance": 133707,
       "idProg": 182,
       "cycles": [
@@ -5688,7 +5573,7 @@
       "idEvenement": 21666,
       "typeEvenement": 13,
       "libelleEvenement": "49ÈME PARALLÈLE",
-      "dateHeure": "2024-10-25T19:00:00",
+      "dateHeure": "2024-10-25T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -5711,6 +5596,117 @@
             {
               "idCopie": 20287,
               "duree": 123,
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132543,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 791,
+          "idCategorie": 3379,
+          "titreCycle": "Zucker, Abrahams et Zucker",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30867,
+      "typeEvenement": 13,
+      "libelleEvenement": "Y-A-T-IL UN PILOTE DANS L'AVION ?",
+      "dateHeure": "2024-10-25T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30104,
+          "titre": "Y a-t-il un pilote dans l'avion ?",
+          "titreVo": "Airplane !",
+          "realisateurs": "Jim Abrahams, David Zucker, Jerry Zucker",
+          "annee": 1980,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28043,
+              "duree": 88,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132544,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 791,
+          "idCategorie": 3379,
+          "titreCycle": "Zucker, Abrahams et Zucker",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30868,
+      "typeEvenement": 13,
+      "libelleEvenement": "Y A-T-IL UN FLIC POUR SAUVER LA REINE ?",
+      "dateHeure": "2024-10-25T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37170,
+          "titre": "Y a-t-il un flic pour sauver la reine ?",
+          "titreVo": "Naked Gun",
+          "artVo": "The",
+          "realisateurs": "David Zucker",
+          "annee": 1989,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28045,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132586,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 791,
+          "idCategorie": 3379,
+          "titreCycle": "Zucker, Abrahams et Zucker",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30862,
+      "typeEvenement": 13,
+      "libelleEvenement": "HOT SHOTS !",
+      "dateHeure": "2024-10-26T05:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45670,
+          "titre": "Hot Shots !",
+          "realisateurs": "Jim Abrahams",
+          "annee": 1991,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28118,
+              "duree": 84,
+              "format": "DCP",
+              "version": "VO",
               "stDemande": true
             }
           ]
@@ -5762,6 +5758,44 @@
               "idCopie": 20215,
               "duree": 163,
               "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132585,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 791,
+          "idCategorie": 3379,
+          "titreCycle": "Zucker, Abrahams et Zucker",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30869,
+      "typeEvenement": 13,
+      "libelleEvenement": "Y A-T-IL UN FLIC POUR SAUVER LE PRÉSIDENT ?",
+      "dateHeure": "2024-10-26T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37185,
+          "titre": "Y a-t-il un flic pour sauver le président ?",
+          "titreVo": "Naked Gun 2 1/2 : The Smell of Fear",
+          "artVo": "The",
+          "realisateurs": "David Zucker",
+          "annee": 1991,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28049,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
@@ -5851,6 +5885,165 @@
       ]
     },
     {
+      "idSeance": 132604,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 791,
+          "idCategorie": 3379,
+          "titreCycle": "Zucker, Abrahams et Zucker",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30863,
+      "typeEvenement": 13,
+      "libelleEvenement": "HOT SHOTS ! 2",
+      "dateHeure": "2024-10-27T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 58901,
+          "titre": "Hot Shots ! 2",
+          "realisateurs": "Jim Abrahams",
+          "annee": 1992,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28054,
+              "duree": 88,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28104,
+              "duree": 88,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132605,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 791,
+          "idCategorie": 3379,
+          "titreCycle": "Zucker, Abrahams et Zucker",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30861,
+      "typeEvenement": 13,
+      "libelleEvenement": "HAMBURGER FILM SANDWICH",
+      "dateHeure": "2024-10-27T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 57426,
+          "titre": "Hamburger film sandwich",
+          "titreVo": "Kentucky Fried Movie",
+          "artVo": "The",
+          "realisateurs": "John Landis",
+          "annee": 1977,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28042,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132648,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30962,
+      "typeEvenement": 13,
+      "libelleEvenement": "UN FLIC SUR LE TOIT",
+      "dateHeure": "2024-10-30T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55089,
+          "titre": "Un flic sur le toit",
+          "titreVo": "Mannen pa taket",
+          "realisateurs": "Bo Widerberg",
+          "annee": 1976,
+          "generique": "Carl-Gustaf Lindstedt, Sven Wollter",
+          "synopsis": "Un homme a entrepris d'abattre systématiquement les policiers qui passeront à proximité de ses armes. Le commissaire Beck est chargé de l'enquête : il apparaît bientôt qu'un policier devient le principal suspect...",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 9993,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 132684,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30956,
+      "typeEvenement": 13,
+      "libelleEvenement": "PÉCHÉ SUÉDOIS (LE)",
+      "dateHeure": "2024-10-31T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38634,
+          "titre": "Péché suédois",
+          "art": "Le",
+          "titreVo": "Barnvagnen",
+          "realisateurs": "Bo Widerberg",
+          "annee": 1963,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28155,
+              "duree": 95,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 132687,
       "idProg": 182,
       "cycles": [
@@ -5880,6 +6073,44 @@
             {
               "idCopie": 20208,
               "duree": 101,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133765,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30958,
+      "typeEvenement": 13,
+      "libelleEvenement": "QUARTIER DU CORBEAU (LE)",
+      "dateHeure": "2024-10-31T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38657,
+          "titre": "Quartier du corbeau",
+          "art": "Le",
+          "titreVo": "Kvarteret korpen",
+          "realisateurs": "Bo Widerberg",
+          "annee": 1964,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28156,
+              "duree": 100,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
@@ -5924,6 +6155,44 @@
       ]
     },
     {
+      "idSeance": 132729,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30960,
+      "typeEvenement": 13,
+      "libelleEvenement": "TROUBLES D'ADALEN (LES)",
+      "dateHeure": "2024-11-01T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44980,
+          "titre": "Ådalen 31",
+          "realisateurs": "Bo Widerberg",
+          "annee": 1969,
+          "generique": "Peter Schildt, Kerstin Tidelius, Roland Hedlund, Martin Widerberg",
+          "miniTexte": "Bo Widerberg, dont les films ont été longtemps invisibles, après avoir marqué les années 70 du siècle passé, a été récemment redécouvert, réévalué, et remis à sa juste place, celle d'un des cinéastes importants de la modernité de son époque. Sans doute les cinéastes suédois de sa génération ont-ils subi d'être dans l'ombre de Bergman. Mais l'œuvre de Widerberg, empreinte d'humanisme, baignée des couleurs de l'impressionnisme comme l'a été celle de Maurice Pialat, ne pâlit pas de la comparaison ; après avoir été un disciple scandinave de la Nouvelle Vague avec des films aussi marquants que _Quartier du corbeau_, il trouve sa voie toute personnelle dans les œuvres lumineuses de sa maturité comme _Ådalen 31_, _Joe Hill_, ou _Elvira Madigan_. — Olivier Assayas",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27940,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 132728,
       "idProg": 182,
       "cycles": [
@@ -5960,6 +6229,112 @@
       ]
     },
     {
+      "idSeance": 133766,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30955,
+      "typeEvenement": 13,
+      "libelleEvenement": "MANNEN FRAN MALLORCA",
+      "dateHeure": "2024-11-01T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 94773,
+          "titre": "Mannen fran Mallorca",
+          "realisateurs": "Bo Widerberg",
+          "annee": 1984,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28167,
+              "duree": 106,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132767,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30953,
+      "typeEvenement": 13,
+      "libelleEvenement": "JOE HILL",
+      "dateHeure": "2024-11-02T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 58122,
+          "titre": "Joe Hill",
+          "realisateurs": "Bo Widerberg",
+          "annee": 1970,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28154,
+              "duree": 113,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132769,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30951,
+      "typeEvenement": 13,
+      "libelleEvenement": "ELVIRA MADIGAN",
+      "dateHeure": "2024-11-02T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44983,
+          "titre": "Elvira Madigan",
+          "realisateurs": "Bo Widerberg",
+          "annee": 1967,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28153,
+              "duree": 91,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 132770,
       "idProg": 182,
       "cycles": [
@@ -5971,7 +6346,7 @@
       "idEvenement": 21694,
       "typeEvenement": 13,
       "libelleEvenement": "CONTES D'HOFFMANN (LES)",
-      "dateHeure": "2024-11-02T20:00:00",
+      "dateHeure": "2024-11-02T21:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -5994,6 +6369,217 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132773,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30947,
+      "typeEvenement": 13,
+      "libelleEvenement": "AMOUR 65",
+      "dateHeure": "2024-11-02T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38656,
+          "titre": "Amour 65",
+          "titreVo": "Kärlek 65",
+          "realisateurs": "Bo Widerberg",
+          "annee": 1965,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28152,
+              "duree": 96,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132790,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30952,
+      "typeEvenement": 13,
+      "libelleEvenement": "HELLO, ROLAND !",
+      "dateHeure": "2024-11-03T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38654,
+          "titre": "Hello, Roland !",
+          "titreVo": "Heja Roland !",
+          "realisateurs": "Bo Widerberg",
+          "annee": 1966,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28165,
+              "duree": 96,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132791,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30963,
+      "typeEvenement": 13,
+      "libelleEvenement": "VICTORIA",
+      "dateHeure": "2024-11-03T19:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55161,
+          "titre": "Victoria",
+          "realisateurs": "Bo Widerberg",
+          "annee": 1979,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28166,
+              "duree": 89,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132799,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30949,
+      "typeEvenement": 13,
+      "libelleEvenement": "CHEMIN DU SERPENT (LE)",
+      "dateHeure": "2024-11-04T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 56404,
+          "titre": "Chemin du serpent",
+          "art": "Le",
+          "titreVo": "Ormens väg pa hälleberget",
+          "realisateurs": "Bo Widerberg",
+          "annee": 1986,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28168,
+              "duree": 130,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132800,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30948,
+      "typeEvenement": 13,
+      "libelleEvenement": "BEAUTÉ DES CHOSES (LA)",
+      "dateHeure": "2024-11-04T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 94774,
+          "titre": "Beauté des choses",
+          "art": "La",
+          "titreVo": "Lust och faegring stor",
+          "realisateurs": "Bo Widerberg",
+          "annee": 1995,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28157,
+              "duree": 130
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132839,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30954,
+      "typeEvenement": 13,
+      "libelleEvenement": "LIV TILL VARJE PRIS",
+      "dateHeure": "2024-11-06T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80521,
+          "titre": "Liv till varje pris",
+          "realisateurs": "Stefan Jarl",
+          "annee": 1998,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28164,
+              "duree": 90,
+              "format": "35 mm"
             }
           ]
         }
