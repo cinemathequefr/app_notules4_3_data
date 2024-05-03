@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-02T14:36:09.559Z",
+  "updatedAt": "2024-05-03T08:03:21.187Z",
   "data": [
     {
       "idSeance": 130975,
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "idSeance": 131010,
+      "idSeance": 133779,
       "idProg": 182,
       "cycles": [
         {
@@ -106,7 +106,14 @@
           "annee": 1930,
           "adaptation": "D'après la pièce _Grumpy, a play in four acts_ de Horace Hodges et Thomas Wigney Percyval.",
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28222,
+              "duree": 74,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
         }
       ]
     },
@@ -187,7 +194,7 @@
       ]
     },
     {
-      "idSeance": 133769,
+      "idSeance": 133780,
       "idProg": 182,
       "cycles": [
         {
@@ -200,7 +207,7 @@
       "idEvenement": 30742,
       "typeEvenement": 13,
       "libelleEvenement": "TARNISHED LADY",
-      "dateHeure": "2024-08-30T16:30:00",
+      "dateHeure": "2024-08-30T15:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -210,7 +217,14 @@
           "realisateurs": "George Cukor",
           "annee": 1931,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28224,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
         }
       ]
     },
@@ -790,6 +804,42 @@
       ]
     },
     {
+      "idSeance": 131123,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30707,
+      "typeEvenement": 13,
+      "libelleEvenement": "EDOUARD, MON FILS",
+      "dateHeure": "2024-09-02T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59286,
+          "titre": "Edouard, mon fils",
+          "titreVo": "Edward, My Son",
+          "realisateurs": "George Cukor",
+          "annee": 1948,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28019,
+              "duree": 110,
+              "format": "16 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133696,
       "idProg": 182,
       "cycles": [
@@ -803,7 +853,7 @@
       "idEvenement": 30044,
       "typeEvenement": 13,
       "libelleEvenement": "CAPITAINE FRACASSE (LE)",
-      "dateHeure": "2024-09-02T18:00:00",
+      "dateHeure": "2024-09-02T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -839,7 +889,7 @@
       "idEvenement": 30050,
       "typeEvenement": 13,
       "libelleEvenement": "JÉRÔME PERREAU",
-      "dateHeure": "2024-09-02T20:15:00",
+      "dateHeure": "2024-09-02T20:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1348,6 +1398,34 @@
       ]
     },
     {
+      "idSeance": 133782,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3388,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 30964,
+      "typeEvenement": 14,
+      "libelleEvenement": "FILM + DIALOGUE AVEC ALEXANDRE PILETITCH",
+      "dateHeure": "2024-09-07T16:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 30964,
+          "titre": "FILM + DIALOGUE AVEC ALEXANDRE PILETITCH",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 1
+        }
+      ]
+    },
+    {
       "idSeance": 133644,
       "idProg": 182,
       "cycles": [
@@ -1742,6 +1820,72 @@
       ]
     },
     {
+      "idSeance": 133719,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3397,
+          "titreCycle": "Séances spéciales"
+        }
+      ],
+      "idEvenement": 31004,
+      "typeEvenement": 13,
+      "libelleEvenement": "FAMILY PORTRAITS / THEATRE BIZARRE : THE ACCIDENT (THE)",
+      "dateHeure": "2024-09-09T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 116164,
+          "titre": "Theatre bizarre : The Accident",
+          "art": "The",
+          "realisateurs": "Douglas Buck",
+          "annee": 2011,
+          "status": 0,
+          "copies": []
+        },
+        {
+          "ordre": 2,
+          "idFilm": 100023,
+          "titre": "Family portraits",
+          "titreVo": "Family portraits : A trilogy of America",
+          "realisateurs": "Douglas Buck",
+          "annee": 2004,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 133720,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3397,
+          "titreCycle": "Séances spéciales"
+        }
+      ],
+      "idEvenement": 31005,
+      "typeEvenement": 13,
+      "libelleEvenement": "SISTERS",
+      "dateHeure": "2024-09-09T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 148994,
+          "titre": "Sisters",
+          "realisateurs": "Douglas Buck",
+          "annee": 2006,
+          "adaptation": "D'après le scénario du film _Sisters_ de Brian De Palma.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 133702,
       "idProg": 182,
       "cycles": [
@@ -1831,7 +1975,7 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 131385,
+      "idSeance": 133772,
       "idProg": 182,
       "cycles": [
         {
@@ -1841,34 +1985,58 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30834,
+      "idEvenement": 30847,
       "typeEvenement": 13,
-      "libelleEvenement": "NUITS BLANCHES (LES)",
+      "libelleEvenement": "RAPT À L'ITALIENNE",
       "dateHeure": "2024-09-12T18:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 43892,
-          "titre": "Nuits blanches",
-          "art": "Les",
-          "titreVo": "Notti bianche",
-          "artVo": "Le",
-          "realisateurs": "Luchino Visconti",
-          "annee": 1957,
-          "generique": "Marcello Mastroianni, Maria Schell, Jean Marais",
-          "adaptation": "D'après le roman _Les Nuits blanches_ de Fiodor Mikhaïlovitch Dostoïevski.",
-          "synopsis": "Une nuit, un homme rencontre une jeune femme oubliée par son amant et qui vit dans l'espoir de son retour.",
-          "status": 0,
+          "idFilm": 45957,
+          "titre": "Rapt à l'italienne",
+          "titreVo": "Mordi e fuggi",
+          "realisateurs": "Dino Risi",
+          "annee": 1972,
+          "generique": "Marcello Mastroianni, Nicoletta Machiavelli, Oliver Reed",
+          "synopsis": "Un industriel et sa maîtresse sont pris en otage par une bande de terroristes en fuite.",
+          "status": 2,
           "copies": [
             {
-              "idCopie": 28065,
-              "duree": 107,
-              "format": "DCP",
+              "idCopie": 2875,
+              "duree": 101,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133783,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3399,
+          "titreCycle": "Abel Gance"
+        }
+      ],
+      "idEvenement": 31027,
+      "typeEvenement": 14,
+      "libelleEvenement": "CONFÉRENCE GANCE MOURIER",
+      "dateHeure": "2024-09-12T19:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "GF",
+      "duree": 90,
+      "items": [
+        {
+          "idConf": 31027,
+          "titre": "CONFÉRENCE GANCE MOURIER",
+          "typeConference": "Conférence",
+          "duree": 90,
+          "ordre": 1
         }
       ]
     },
@@ -1886,7 +2054,7 @@
       "idEvenement": 30835,
       "typeEvenement": 13,
       "libelleEvenement": "PIGEON (LE)",
-      "dateHeure": "2024-09-12T20:45:00",
+      "dateHeure": "2024-09-12T20:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1915,7 +2083,7 @@
       ]
     },
     {
-      "idSeance": 133686,
+      "idSeance": 133770,
       "idProg": 182,
       "cycles": [
         {
@@ -1925,26 +2093,25 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30716,
+      "idEvenement": 30702,
       "typeEvenement": 13,
-      "libelleEvenement": "HÉRITAGE",
+      "libelleEvenement": "CAR SAUVAGE EST LE VENT",
       "dateHeure": "2024-09-12T21:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 31386,
-          "titre": "Héritage",
-          "titreVo": "A Bill of Divorcement",
+          "idFilm": 31473,
+          "titre": "Car sauvage est le vent",
+          "titreVo": "Wild is the Wind",
           "realisateurs": "George Cukor",
-          "annee": 1932,
-          "adaptation": "D'après la pièce _A Bill of Divorcement_ de Clemence Dane.",
+          "annee": 1957,
           "status": 0,
           "copies": [
             {
-              "idCopie": 27929,
-              "duree": 70,
-              "format": "35 mm",
+              "idCopie": 28001,
+              "duree": 110,
+              "format": "16 mm",
               "version": "VO",
               "stDemande": true
             }
@@ -2394,7 +2561,7 @@
       ]
     },
     {
-      "idSeance": 133704,
+      "idSeance": 133771,
       "idProg": 182,
       "cycles": [
         {
@@ -2404,27 +2571,28 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30847,
+      "idEvenement": 30857,
       "typeEvenement": 13,
-      "libelleEvenement": "RAPT À L'ITALIENNE",
+      "libelleEvenement": "GINGER ET FRED",
       "dateHeure": "2024-09-15T17:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 45957,
-          "titre": "Rapt à l'italienne",
-          "titreVo": "Mordi e fuggi",
-          "realisateurs": "Dino Risi",
-          "annee": 1972,
-          "generique": "Marcello Mastroianni, Nicoletta Machiavelli, Oliver Reed",
-          "synopsis": "Un industriel et sa maîtresse sont pris en otage par une bande de terroristes en fuite.",
-          "status": 2,
+          "idFilm": 55717,
+          "titre": "Ginger et Fred",
+          "titreVo": "Ginger e Fred",
+          "realisateurs": "Federico Fellini",
+          "annee": 1985,
+          "generique": "Marcello Mastroianni, Giulietta Masina, Franco Fabrizi",
+          "synopsis": "Deux danseurs, qui imitaient trente ans plus tôt le couple Ginger Rogers / Fred Astaire, se retrouvent à l'occasion d'une émission de télévision invitant des sosies d'artistes.",
+          "commentaire": "1986, Fellini règle ses comptes avec la télévision de Berlusconi. Interviewé pendant le tournage de _Ginger et Fred_, il fustige la télé spectacle qui abrutit le public. « C'est une image schizophrène, psychédélique, névrotique, \"confettisée\", dispersée. Une sorte de kaléidoscope qui chatouille l'œil. On finit par créer un spectateur impatient, superficiel, qui veut faire son film lui-même en sautant sans cesse d'un programme à un autre. » Un combat que le cinéaste mène à la scène comme à la ville. En pleine bataille juridique contre les chaînes du « Cavaliere », il tente de faire interdire les coupures de pub pendant les films. En vain. Telle une riposte drôle et acide, il reste _Ginger et Fred_ et ses merveilleux interprètes complices, Giulietta et Marcello, pour un ultime pas de danse.",
+          "status": 1,
           "copies": [
             {
-              "idCopie": 2875,
-              "duree": 101,
-              "format": "35 mm",
+              "idCopie": 16751,
+              "duree": 125,
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -2520,7 +2688,7 @@
       "idEvenement": 30848,
       "typeEvenement": 13,
       "libelleEvenement": "GRANDE BOUFFE (LA)",
-      "dateHeure": "2024-09-15T19:15:00",
+      "dateHeure": "2024-09-15T19:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3339,7 +3507,7 @@
       ]
     },
     {
-      "idSeance": 133767,
+      "idSeance": 133781,
       "idProg": 182,
       "cycles": [
         {
@@ -3363,7 +3531,15 @@
           "realisateurs": "George Cukor",
           "annee": 1950,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28223,
+              "duree": 108,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
         }
       ]
     },
@@ -3683,6 +3859,48 @@
       ]
     },
     {
+      "idSeance": 133774,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30834,
+      "typeEvenement": 13,
+      "libelleEvenement": "NUITS BLANCHES (LES)",
+      "dateHeure": "2024-09-23T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43892,
+          "titre": "Nuits blanches",
+          "art": "Les",
+          "titreVo": "Notti bianche",
+          "artVo": "Le",
+          "realisateurs": "Luchino Visconti",
+          "annee": 1957,
+          "generique": "Marcello Mastroianni, Maria Schell, Jean Marais",
+          "adaptation": "D'après le roman _Les Nuits blanches_ de Fiodor Mikhaïlovitch Dostoïevski.",
+          "synopsis": "Une nuit, un homme rencontre une jeune femme oubliée par son amant et qui vit dans l'espoir de son retour.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28065,
+              "duree": 107,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133716,
       "idProg": 182,
       "cycles": [
@@ -3696,7 +3914,7 @@
       "idEvenement": 30905,
       "typeEvenement": 13,
       "libelleEvenement": "ARRÊTE OU JE CONTINUE",
-      "dateHeure": "2024-09-23T18:00:00",
+      "dateHeure": "2024-09-23T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3738,7 +3956,7 @@
       "idEvenement": 30534,
       "typeEvenement": 13,
       "libelleEvenement": "LINCEULS (LES)",
-      "dateHeure": "2024-09-23T20:00:00",
+      "dateHeure": "2024-09-23T20:30:00",
       "idSalle": "HL",
       "typeSeance": 43,
       "items": [
@@ -3778,7 +3996,7 @@
       "idEvenement": 30904,
       "typeEvenement": 13,
       "libelleEvenement": "BELLE ET LA BELLE (LA)",
-      "dateHeure": "2024-09-23T20:30:00",
+      "dateHeure": "2024-09-23T21:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4109,6 +4327,44 @@
               "idCopie": 28098,
               "duree": 116,
               "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131759,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30944,
+      "typeEvenement": 13,
+      "libelleEvenement": "SPLENDOR",
+      "dateHeure": "2024-09-26T20:45:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42426,
+          "titre": "Splendor",
+          "realisateurs": "Ettore Scola",
+          "annee": 1988,
+          "generique": "Marcello Mastroianni, Marina Vlady, Massimo Troisi",
+          "synopsis": "Texte à saisir\n\n---\n\n_Splendor_ est un cinéma italien en proie au désamour du public, attiré par d'autres plaisirs. Un des très rares films dont le sujet principal est un cinéma.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28147,
+              "duree": 105,
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -4926,6 +5182,326 @@
       ]
     },
     {
+      "idSeance": 133776,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2685,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Films pour la télévision"
+        }
+      ],
+      "idEvenement": 25759,
+      "typeEvenement": 13,
+      "libelleEvenement": "TÉLÉFILMS DE DAVID CRONENBERG (SÉLECTION)",
+      "dateHeure": "2024-10-03T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 130504,
+          "titre": "Secret Weapons",
+          "realisateurs": "David Cronenberg",
+          "annee": 1972,
+          "generique": "Charles Oberdorf, Lister Sinclair, Barbara O'Kelly",
+          "synopsis": "Six ans après le début d'une guerre civile américaine, un homme a créé un médicament qui améliore l'habileté au combat. Mais le donnera-t-il au gouvernement théocratique ou aux rebelles ?",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23934,
+              "duree": 22,
+              "version": "VO"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 130505,
+          "titre": "Victim",
+          "art": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 1975,
+          "dureeStd": 27,
+          "generique": "Cedric Smith, Jonathan Welsh",
+          "synopsis": "Un jeu pervers entre une femme fatale et un apprenti tueur en série qui la harcèle au téléphone.",
+          "commentaire": "Épisode de la série télévisée canadienne _Peep Show_.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23933,
+              "duree": 30,
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 130506,
+          "titre": "Lie Chair",
+          "art": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 1975,
+          "dureeStd": 27,
+          "generique": "Amelia Hall, Susan Hogan, Richard Monette, Doris Petrie",
+          "synopsis": "Neil et Carol Croft, pris dans une tempête en pleine campagne, se réfugient chez deux vieilles dames âgées, où ils participent à un jeu de rôles étrange et cruel.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23905,
+              "duree": 30,
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 130507,
+          "titre": "Italian Machine",
+          "art": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 1976,
+          "dureeStd": 27,
+          "generique": "Gary McKeehan, Frank Moore, Hardee T. Lineham",
+          "synopsis": "Des passionnés de vélo décident par tous les moyens de mettre la main sur une Ducati appartenant à un homme riche.",
+          "commentaire": "« Petit chef d'œuvre méconnu, ce film est un conte moral dont le protagoniste est une moto Ducati \"de rêve\" . Une réflexion pleine de hardiesse sur l'œuvre d'art contemporaine, dont on retrouve des échos dans les derniers scénarios de Cronenberg . » (Serge Grünberg)",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23935,
+              "duree": 30,
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133775,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2684,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Courts métrages"
+        }
+      ],
+      "idEvenement": 25760,
+      "typeEvenement": 13,
+      "libelleEvenement": "COURTS MÉTRAGES POUR LE CINÉMA ET LA TÉLÉVISION  ",
+      "dateHeure": "2024-10-03T21:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 85600,
+          "titre": "Transfer",
+          "realisateurs": "David Cronenberg",
+          "annee": 1966,
+          "generique": "Rafe Macpherson, Mort Ritts",
+          "synopsis": "Un patient suit son analyste de manière compulsive. ",
+          "commentaire": "Tout premier film de David Cronenberg.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23904,
+              "duree": 7,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 85602,
+          "titre": "From the Drain",
+          "realisateurs": "David Cronenberg",
+          "annee": 1966,
+          "generique": "Mort Ritts, Stephen Nosko",
+          "synopsis": "Dans un établissement psychiatrique, deux hommes discutent dans une baignoire, quand une sorte de vrille émerge de la bonde.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23932,
+              "duree": 14,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 153088,
+          "titre": "Tourettes",
+          "realisateurs": "David Cronenberg",
+          "annee": 1971,
+          "synopsis": "David Cronenberg filme le petit village provençal où il résida, grâce à une bourse du gouvernement canadien.",
+          "commentaire": "Court métrage réalisé pour la télévision.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23986,
+              "duree": 6,
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 85607,
+          "titre": "Camera",
+          "realisateurs": "David Cronenberg",
+          "annee": 2000,
+          "generique": "Leslie Carlson, Marc Donato",
+          "synopsis": "Tandis qu'un vieil acteur se plaint de l'état actuel du cinéma, un groupe d'enfants débarque pour le filmer avec une caméra 35 mm.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23955,
+              "duree": 6,
+              "format": "DCP",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 153087,
+          "titre": "Faith Healer",
+          "art": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 1987,
+          "generique": "Louise Robey, John D. LeMay, Chris Wiggins",
+          "synopsis": "Deux jeunes antiquaires héritent de la boutique de leur oncle, qui avait conclu un pacte avec le diable.",
+          "commentaire": "Épisode de la série _Vendredi 13_.\n",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23985,
+              "duree": 60,
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 6,
+          "idFilm": 153089,
+          "titre": "Letter from Michelangelo",
+          "realisateurs": "David Cronenberg",
+          "annee": 1971,
+          "synopsis": "Un petit film très moderne sur une lettre de Michel-Ange. ",
+          "commentaire": "Film réalisé pour la télévision.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23987,
+              "duree": 6
+            }
+          ]
+        },
+        {
+          "ordre": 7,
+          "idFilm": 153093,
+          "titre": "Death of David Cronenberg",
+          "art": "The",
+          "realisateurs": "David Cronenberg, Caitlin Cronenberg",
+          "annee": 2021,
+          "synopsis": "David Cronenberg met en scène sa propre mort et observe son cadavre allongé dans un lit.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23997,
+              "duree": 1,
+              "format": "Numérique"
+            }
+          ]
+        },
+        {
+          "ordre": 8,
+          "idFilm": 153094,
+          "titre": "Nid",
+          "art": "Le",
+          "titreVo": "Nest",
+          "artVo": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 2013,
+          "generique": "Evelyne Brochu",
+          "synopsis": "Entretien entre un médecin et une patiente, persuadée qu'un nid d'insectes se développe dans son sein.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23998,
+              "duree": 9,
+              "format": "Numérique"
+            }
+          ]
+        },
+        {
+          "ordre": 9,
+          "idFilm": 153090,
+          "titre": "Jim Ritchie Sculptor",
+          "realisateurs": "David Cronenberg",
+          "annee": 1971,
+          "synopsis": "Documentaire sur un sculpteur montréalais.",
+          "commentaire": "Film réalisé pour la télévision.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23988,
+              "duree": 6,
+              "format": "16 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133777,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25731,
+      "typeEvenement": 13,
+      "libelleEvenement": "M. BUTTERFLY",
+      "dateHeure": "2024-10-04T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55771,
+          "titre": "M. Butterfly",
+          "realisateurs": "David Cronenberg",
+          "annee": 1992,
+          "generique": "Jeremy Irons, John Lone, Barbara Sukowa",
+          "adaptation": "D'après la pièce _M. Butterfly_ de David Henry Hwang.",
+          "synopsis": "En pleine Révolution culturelle, un diplomate français tombe amoureux d'une Chinoise, qui le convainc de lui transmettre des informations confidentielles.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 15544,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 131986,
       "idProg": 182,
       "cycles": [
@@ -4939,7 +5515,7 @@
       "idEvenement": 25734,
       "typeEvenement": 13,
       "libelleEvenement": "SPIDER",
-      "dateHeure": "2024-10-04T21:30:00",
+      "dateHeure": "2024-10-04T20:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4973,6 +5549,82 @@
       ]
     },
     {
+      "idSeance": 132023,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25724,
+      "typeEvenement": 13,
+      "libelleEvenement": "FAST COMPANY",
+      "dateHeure": "2024-10-05T14:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 79798,
+          "titre": "Fast Company",
+          "realisateurs": "David Cronenberg",
+          "annee": 1978,
+          "generique": "William Smith, Claudia Jennings, John Saxon",
+          "synopsis": "Une plongée dans le monde des courses de dragsters, avec ses histoires d'amour et de rivalités.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23908,
+              "duree": 91,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133778,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25758,
+      "typeEvenement": 13,
+      "libelleEvenement": "EXISTENZ",
+      "dateHeure": "2024-10-05T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 64235,
+          "titre": "eXistenZ",
+          "realisateurs": "David Cronenberg",
+          "annee": 1998,
+          "generique": "Jennifer Jason Leigh, Jude Law, Willem Dafoe, Ian Holm",
+          "synopsis": "La conceptrice d'un jeu vidéo révolutionnaire est poursuivie par des tueurs d'une secte « réaliste ». Pour leur échapper, elle se cache dans les mondes virtuels qu'elle a créés.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23931,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 132047,
       "idProg": 182,
       "cycles": [
@@ -4986,7 +5638,7 @@
       "idEvenement": 25754,
       "typeEvenement": 13,
       "libelleEvenement": "MAPS TO THE STARS",
-      "dateHeure": "2024-10-05T19:45:00",
+      "dateHeure": "2024-10-05T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -5051,41 +5703,30 @@
       ]
     },
     {
-      "idSeance": 132046,
+      "idSeance": 132028,
       "idProg": 182,
       "cycles": [
         {
           "idCycle": 624,
-          "idCategorie": 2673,
+          "idCategorie": 2690,
           "titreCycle": "David Cronenberg",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
-      "idEvenement": 25739,
-      "typeEvenement": 13,
-      "libelleEvenement": "COSMOPOLIS",
-      "dateHeure": "2024-10-06T17:30:00",
-      "idSalle": "GF",
+      "idEvenement": 30565,
+      "typeEvenement": 14,
+      "libelleEvenement": "DIALOGUE AVEC JEAN-FRANÇOIS RAUGER",
+      "dateHeure": "2024-10-06T16:00:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
       "items": [
         {
-          "ordre": 1,
-          "idFilm": 116210,
-          "titre": "Cosmopolis",
-          "realisateurs": "David Cronenberg",
-          "annee": 2011,
-          "generique": "Robert Pattinson, Juliette Binoche, Sarah Gadon, Mathieu Amalric",
-          "adaptation": "D'après le roman _Cosmopolis_ de Don DeLillo.",
-          "synopsis": "Dans un New York en ébullition, l'ère du capitalisme touche à sa fin. Tandis que Manhattan sombre dans le chaos, un _golden boy_ de la haute finance, enfermé dans sa limousine, n'a qu'une seule obsession : une coupe de cheveux chez son coiffeur à l'autre bout de la ville.\n\n\n",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 742,
-              "duree": 108,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
+          "idConf": 30565,
+          "titre": "DIALOGUE AVEC JEAN-FRANÇOIS RAUGER",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 1
         }
       ]
     },
@@ -5206,7 +5847,7 @@
       "idEvenement": 30527,
       "typeEvenement": 13,
       "libelleEvenement": "CRIMES DU FUTUR (LES)",
-      "dateHeure": "2024-10-07T19:00:00",
+      "dateHeure": "2024-10-07T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -5222,6 +5863,45 @@
             {
               "idCopie": 27695,
               "duree": 107,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132056,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25739,
+      "typeEvenement": 13,
+      "libelleEvenement": "COSMOPOLIS",
+      "dateHeure": "2024-10-07T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 116210,
+          "titre": "Cosmopolis",
+          "realisateurs": "David Cronenberg",
+          "annee": 2011,
+          "generique": "Robert Pattinson, Juliette Binoche, Sarah Gadon, Mathieu Amalric",
+          "adaptation": "D'après le roman _Cosmopolis_ de Don DeLillo.",
+          "synopsis": "Dans un New York en ébullition, l'ère du capitalisme touche à sa fin. Tandis que Manhattan sombre dans le chaos, un _golden boy_ de la haute finance, enfermé dans sa limousine, n'a qu'une seule obsession : une coupe de cheveux chez son coiffeur à l'autre bout de la ville.\n\n\n",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 742,
+              "duree": 108,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
@@ -5267,6 +5947,34 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 133788,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3390,
+          "titreCycle": "Darejan Omirbaev",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 30968,
+      "typeEvenement": 14,
+      "libelleEvenement": "CONFÉRENCE OMIRBAEV",
+      "dateHeure": "2024-10-10T19:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "GF",
+      "duree": 90,
+      "items": [
+        {
+          "idConf": 30968,
+          "titre": "CONFÉRENCE OMIRBAEV",
+          "typeConference": "Conférence",
+          "duree": 90,
+          "ordre": 1
+        }
+      ]
     },
     {
       "idSeance": 132171,
@@ -6530,7 +7238,7 @@
       "idEvenement": 30948,
       "typeEvenement": 13,
       "libelleEvenement": "BEAUTÉ DES CHOSES (LA)",
-      "dateHeure": "2024-11-04T20:30:00",
+      "dateHeure": "2024-11-04T20:45:00",
       "idSalle": "GF",
       "items": [
         {
