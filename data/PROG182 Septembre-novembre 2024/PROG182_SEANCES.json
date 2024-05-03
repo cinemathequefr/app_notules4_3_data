@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-03T08:03:21.187Z",
+  "updatedAt": "2024-05-03T13:07:11.750Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1826,7 +1826,8 @@
         {
           "idCycle": 11,
           "idCategorie": 3397,
-          "titreCycle": "Séances spéciales"
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Une soirée avec Douglas Buck"
         }
       ],
       "idEvenement": 31004,
@@ -1864,7 +1865,8 @@
         {
           "idCycle": 11,
           "idCategorie": 3397,
-          "titreCycle": "Séances spéciales"
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Une soirée avec Douglas Buck"
         }
       ],
       "idEvenement": 31005,
@@ -1879,8 +1881,7 @@
           "titre": "Sisters",
           "realisateurs": "Douglas Buck",
           "annee": 2006,
-          "adaptation": "D'après le scénario du film _Sisters_ de Brian De Palma.",
-          "status": 0,
+          "status": 1,
           "copies": []
         }
       ]
@@ -2020,7 +2021,8 @@
         {
           "idCycle": 757,
           "idCategorie": 3399,
-          "titreCycle": "Abel Gance"
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31027,
@@ -4418,7 +4420,8 @@
         {
           "idCycle": 11,
           "idCategorie": 3385,
-          "titreCycle": "Séances spéciales"
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Une soirée avec Sergio Gobbi"
         }
       ],
       "idEvenement": 30941,
@@ -4501,7 +4504,8 @@
         {
           "idCycle": 11,
           "idCategorie": 3385,
-          "titreCycle": "Séances spéciales"
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Une soirée avec Sergio Gobbi"
         }
       ],
       "idEvenement": 30942,
