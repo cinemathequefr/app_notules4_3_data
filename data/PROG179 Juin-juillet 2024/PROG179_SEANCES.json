@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-03T08:22:08.137Z",
+  "updatedAt": "2024-05-06T15:38:01.522Z",
   "data": [
     {
       "idSeance": 128873,
@@ -1621,7 +1621,7 @@
       ]
     },
     {
-      "idSeance": 133752,
+      "idSeance": 133798,
       "idProg": 179,
       "cycles": [
         {
@@ -1636,9 +1636,65 @@
       "libelleEvenement": "SÉANCE SPÉCIALE COURTS MÉTRAGES",
       "dateHeure": "2024-06-08T17:15:00",
       "idSalle": "HL",
-      "theorique": true,
-      "mention": "Séance présentée par Lucie Borleteau",
-      "items": []
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154867,
+          "titre": "Fiancées du Sud",
+          "art": "Les",
+          "titreVo": "Novias del sur",
+          "artVo": "Las",
+          "realisateurs": "Elena López Riera",
+          "annee": 2024,
+          "miniTexte": "Des femmes d'un âge déjà mûr parlent de leur mariage, de leur première fois, de leur rapport intime à la sexualité. Dans la répétition de ces rites ancestraux, la réalisatrice se questionne sur sa propre absence de mariage, d'enfants, et avec elle, une chaîne de relation mère-fille qui s'éteint.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28094,
+              "duree": 39,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 154868,
+          "titre": "1996 ou les malheurs de Solveig",
+          "realisateurs": "Lucie Borleteau",
+          "annee": 2024,
+          "generique": "Angèle Dupont, Eglantine Pistoulet, Erwan Merhet-Baudrand",
+          "miniTexte": "Au cours de l'année 1996, Solveig, 16 ans, attend son premier baiser.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28095,
+              "duree": 30,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 154869,
+          "titre": "Sannapäiv",
+          "realisateurs": "Anna Hints, Tushar Prakash",
+          "annee": 2024,
+          "generique": "Rasmus Kaljujärv, Agur Seim",
+          "miniTexte": "Le sud de l'Estonie, un monde où les hommes entrent dans l'espace sombre et intime du sauna après une dure journée de travail. Sous leurs airs de durs à cuire sommeille en secret leur désir de contact.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28096,
+              "duree": 13,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 130835,
@@ -5329,7 +5385,7 @@
           ]
         }
       ],
-      "mention": "Séance présentée par Denis Lenoir et Sophie Aubry"
+      "mention": "Séance présentée par Denis Lenoir, Sophie Aubry et Thierry Jousse"
     },
     {
       "idSeance": 130843,
