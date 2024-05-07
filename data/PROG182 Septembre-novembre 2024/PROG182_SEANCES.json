@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-03T15:36:52.679Z",
+  "updatedAt": "2024-05-07T13:52:37.107Z",
   "data": [
     {
       "idSeance": 130975,
@@ -472,7 +472,7 @@
       "idEvenement": 30672,
       "typeEvenement": 13,
       "libelleEvenement": "CYRANO ET D'ARTAGNAN",
-      "dateHeure": "2024-08-31T17:15:00",
+      "dateHeure": "2024-08-31T17:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -533,42 +533,6 @@
       ]
     },
     {
-      "idSeance": 133652,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30085,
-      "typeEvenement": 13,
-      "libelleEvenement": "TOUR DE NESLE (LA)",
-      "dateHeure": "2024-08-31T20:15:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48690,
-          "titre": "Tour de Nesle",
-          "art": "La",
-          "realisateurs": "Abel Gance",
-          "annee": 1955,
-          "generique": "Silvana Pampanini, Pierre Brasseur, Claude Sylvain",
-          "synopsis": "Sous Louis X, la tour de Nesles est le théâtre des orgies de la reine Marguerite de Bourgogne et de deux de ses amies princesses qui font assassiner leurs amants au petit matin.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28127,
-              "duree": 120
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 131095,
       "idProg": 182,
       "cycles": [
@@ -582,7 +546,7 @@
       "idEvenement": 30709,
       "typeEvenement": 13,
       "libelleEvenement": "FEMMES",
-      "dateHeure": "2024-08-31T20:45:00",
+      "dateHeure": "2024-08-31T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -605,6 +569,42 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133652,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30085,
+      "typeEvenement": 13,
+      "libelleEvenement": "TOUR DE NESLE (LA)",
+      "dateHeure": "2024-08-31T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48690,
+          "titre": "Tour de Nesle",
+          "art": "La",
+          "realisateurs": "Abel Gance",
+          "annee": 1955,
+          "generique": "Silvana Pampanini, Pierre Brasseur, Claude Sylvain",
+          "synopsis": "Sous Louis X, la tour de Nesles est le théâtre des orgies de la reine Marguerite de Bourgogne et de deux de ses amies princesses qui font assassiner leurs amants au petit matin.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28127,
+              "duree": 120
             }
           ]
         }
@@ -1613,6 +1613,104 @@
       ]
     },
     {
+      "idSeance": 133799,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 787,
+          "idCategorie": 3374,
+          "titreCycle": "Laurent Achard",
+          "titreSousCycle": "Courts métrages"
+        }
+      ],
+      "idEvenement": 30787,
+      "typeEvenement": 13,
+      "libelleEvenement": "LES COURTS MÉTRAGES DE LAURENT ACHARD",
+      "dateHeure": "2024-09-08T14:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 76312,
+          "titre": "Dimanche ou les fantômes",
+          "realisateurs": "Laurent Achard",
+          "annee": 1994,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28227,
+              "duree": 30
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 91824,
+          "titre": "Peur, petit chasseur",
+          "art": "La",
+          "realisateurs": "Laurent Achard",
+          "annee": 2003,
+          "generique": "Mireille Roussel, Martin Buisson",
+          "synopsis": "À la campagne, un jour de novembre, un enfant recroquevillé n'ose pas rentrer dans sa maison. Il attend que sa mère le rejoigne dans le jardin.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 26874,
+              "duree": 9,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 75543,
+          "titre": "Qu'en savent les morts ?",
+          "realisateurs": "Laurent Achard",
+          "annee": 1990,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28228,
+              "duree": 5,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 121778,
+          "titre": "Tableau",
+          "art": "Le",
+          "realisateurs": "Laurent Achard",
+          "annee": 2012,
+          "synopsis": "Au crépuscule de leur vie, Odile et Marcèle s'aiment toujours. Atteinte d'une maladie incurable, Odile doit être hospitalisée. Le temps d'un dernier dimanche, ils revoient les gens qu'ils aiment.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 3173,
+              "duree": 30,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 76313,
+          "titre": "Une odeur de géranium",
+          "realisateurs": "Laurent Achard",
+          "annee": 1997,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28229,
+              "duree": 30,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 131302,
       "idProg": 182,
       "cycles": [
@@ -1935,6 +2033,40 @@
       ]
     },
     {
+      "idSeance": 131351,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 787,
+          "idCategorie": 3375,
+          "titreCycle": "Laurent Achard",
+          "titreSousCycle": "Documentaires sur le cinéma"
+        }
+      ],
+      "idEvenement": 30871,
+      "typeEvenement": 13,
+      "libelleEvenement": "UN, PARFOIS DEUX...",
+      "dateHeure": "2024-09-11T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154838,
+          "titre": "Un, parfois deux...",
+          "realisateurs": "Laurent Achard",
+          "annee": 2016,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28027,
+              "duree": 52,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133635,
       "idProg": 182,
       "cycles": [
@@ -2155,42 +2287,6 @@
       ]
     },
     {
-      "idSeance": 133671,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30077,
-      "typeEvenement": 13,
-      "libelleEvenement": "MATER DOLOROSA",
-      "dateHeure": "2024-09-13T17:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48683,
-          "titre": "Mater Dolorosa",
-          "realisateurs": "Abel Gance",
-          "annee": 1917,
-          "generique": "Firmin Gémier, Emmy Lynn, Armand Tallier, Paul Vermoyal",
-          "synopsis": "Un grand médecin découvre que son épouse a un amant, dont elle a eu un enfant. L'amant se suicide, le mari enlève l'enfant à sa mère et la chasse. Grand succès, le film fit l'objet d'une nouvelle version par Gance lui-même.\n\n---\n\nUn grand médecin découvre que son épouse a un amant, dont elle a eu un enfant. L'amant se suicide, le mari enlève l'enfant à sa mère et la chasse.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28077,
-              "duree": 88,
-              "format": "DCP"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 131425,
       "idProg": 182,
       "cycles": [
@@ -2204,7 +2300,7 @@
       "idEvenement": 30838,
       "typeEvenement": 13,
       "libelleEvenement": "NUIT (LA)",
-      "dateHeure": "2024-09-13T18:00:00",
+      "dateHeure": "2024-09-13T17:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2233,6 +2329,43 @@
       ]
     },
     {
+      "idSeance": 133826,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30056,
+      "typeEvenement": 13,
+      "libelleEvenement": "DROIT À LA VIE (LE)",
+      "dateHeure": "2024-09-13T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48674,
+          "titre": "Droit à la vie",
+          "art": "Le",
+          "realisateurs": "Abel Gance",
+          "annee": 1917,
+          "generique": "Léon Mathot, Georges Paulais, Andrée Brabant",
+          "synopsis": "Un grand financier de la bourse de Paris et l'un de ses secrétaires sont épris de la même jeune fille, qui est la pupille du premier.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28075,
+              "duree": 52,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133672,
       "idProg": 182,
       "cycles": [
@@ -2246,7 +2379,7 @@
       "idEvenement": 30055,
       "typeEvenement": 13,
       "libelleEvenement": "DIXIÈME SYMPHONIE (LA)",
-      "dateHeure": "2024-09-13T19:30:00",
+      "dateHeure": "2024-09-13T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2495,7 +2628,7 @@
       ]
     },
     {
-      "idSeance": 133673,
+      "idSeance": 133825,
       "idProg": 182,
       "cycles": [
         {
@@ -2505,26 +2638,25 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30056,
+      "idEvenement": 30077,
       "typeEvenement": 13,
-      "libelleEvenement": "DROIT À LA VIE (LE)",
+      "libelleEvenement": "MATER DOLOROSA",
       "dateHeure": "2024-09-14T19:30:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 48674,
-          "titre": "Droit à la vie",
-          "art": "Le",
+          "idFilm": 48683,
+          "titre": "Mater Dolorosa",
           "realisateurs": "Abel Gance",
           "annee": 1917,
-          "generique": "Léon Mathot, Georges Paulais, Andrée Brabant",
-          "synopsis": "Un grand financier de la bourse de Paris et l'un de ses secrétaires sont épris de la même jeune fille, qui est la pupille du premier.",
+          "generique": "Firmin Gémier, Emmy Lynn, Armand Tallier, Paul Vermoyal",
+          "synopsis": "Un grand médecin découvre que son épouse a un amant, dont elle a eu un enfant. L'amant se suicide, le mari enlève l'enfant à sa mère et la chasse. Grand succès, le film fit l'objet d'une nouvelle version par Gance lui-même.\n\n---\n\nUn grand médecin découvre que son épouse a un amant, dont elle a eu un enfant. L'amant se suicide, le mari enlève l'enfant à sa mère et la chasse.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 28075,
-              "duree": 52,
+              "idCopie": 28077,
+              "duree": 88,
               "format": "DCP"
             }
           ]
@@ -5153,40 +5285,39 @@
       ]
     },
     {
-      "idSeance": 133728,
+      "idSeance": 133820,
       "idProg": 182,
       "cycles": [
         {
-          "idCycle": 786,
-          "idCategorie": 3371,
-          "titreCycle": "Marcello Mastroianni",
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30852,
+      "idEvenement": 30744,
       "typeEvenement": 13,
-      "libelleEvenement": "VERTIGES",
+      "libelleEvenement": "UNE FEMME QUI S'AFFICHE",
       "dateHeure": "2024-10-03T18:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 56875,
-          "titre": "Vertiges",
-          "titreVo": "Per le antiche scale",
-          "realisateurs": "Mauro Bolognini",
-          "annee": 1975,
-          "generique": "Marcello Mastroianni, Françoise Fabian, Marthe Keller, Pierre Blaise",
-          "synopsis": "Dans la Toscane des années 1930, le professeur Bonaccorsi, psychiatre réputé, mène des recherches sur la folie dans l'asile où il travaille. Une nouvelle venue, le docteur Anna Bersani, s'oppose très vite à ses théories.",
-          "commentaire": "En mêlant aliénation mentale et montée du fascisme, Bolognini s'interroge sur l'origine de la folie : pourquoi devient-on fou ? Où sont les fous ? Dedans ou dehors ? Tout en explorant le thème de la sexualité, le cinéaste étudie la propagation du mal dans une société en pleine déliquescence. L'univers sordide de l'hôpital psychiatrique est filmé avec délicatesse, dans des tons douceâtres et pastels (la scène d'ouverture est une fête costumée très fellinienne). Une splendeur formelle qui n'enlève rien à la violence du sujet, ni au jeu subtil des acteurs. « Ce fut pour moi une expérience passionnante, explique Bolognini, un film que j'aime beaucoup. Au début, la folie est quelque chose qui fait fuir. Pour raconter cette histoire, j'ai voulu que le public s'en approche non pas avec la répulsion que l'on ressent quand on entre dans un asile de fous, – la folie déforme tellement les choses que le premier instinct est de fuir –, mais avec une attitude de compréhension. »",
-          "status": 2,
+          "idFilm": 31408,
+          "titre": "Une femme qui s'affiche",
+          "titreVo": "It Should Happen to You",
+          "realisateurs": "George Cukor",
+          "annee": 1953,
+          "generique": "Judy Holliday, Jack Lemmon, Peter Lawford",
+          "synopsis": "Un modèle sans emploi loue avec ses dernières économies un panneau publicitaire avec son nom dans une grande rue de New York. Elle devient célèbre du jour au lendemain.",
+          "status": 0,
           "copies": [
             {
-              "idCopie": 10120,
-              "duree": 97,
-              "format": "35 mm",
+              "idCopie": 28213,
+              "duree": 87,
+              "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ]
         }
@@ -5289,6 +5420,42 @@
           ]
         }
       ]
+    },
+    {
+      "idSeance": 131943,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759
+        }
+      ],
+      "idEvenement": 31033,
+      "typeEvenement": 13,
+      "libelleEvenement": "SAUVE QUI PEUT (LA VIE)",
+      "dateHeure": "2024-10-03T20:30:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48865,
+          "titre": "Sauve qui peut (la vie)",
+          "realisateurs": "Jean-Luc Godard",
+          "annee": 1979,
+          "generique": "Isabelle Huppert, Jacques Dutronc, Nathalie Baye",
+          "synopsis": "« Qu'un plan ne suive pas un autre plan (un cadre, disaient Eisenstein et Dovjenko) parce que c'est écrit (_mektoub_) mais parce que le plan qui précède doit se changer dans un autre pour poursuivre son mouvement, comme dans un jeu ou dans une société les gens s'accordent ou pas pour stopper ou continuer un mouvement social. » (JLG, lettre n° 2 à l'avance sur recettes, 1979)",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 19579,
+              "duree": 87,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
     },
     {
       "idSeance": 133775,
@@ -5474,39 +5641,76 @@
       ]
     },
     {
-      "idSeance": 133777,
+      "idSeance": 133817,
       "idProg": 182,
       "cycles": [
         {
-          "idCycle": 624,
-          "idCategorie": 2673,
-          "titreCycle": "David Cronenberg",
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 25731,
+      "idEvenement": 30718,
       "typeEvenement": 13,
-      "libelleEvenement": "M. BUTTERFLY",
+      "libelleEvenement": "INDISCRÉTIONS",
       "dateHeure": "2024-10-04T18:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 55771,
-          "titre": "M. Butterfly",
-          "realisateurs": "David Cronenberg",
-          "annee": 1992,
-          "generique": "Jeremy Irons, John Lone, Barbara Sukowa",
-          "adaptation": "D'après la pièce _M. Butterfly_ de David Henry Hwang.",
-          "synopsis": "En pleine Révolution culturelle, un diplomate français tombe amoureux d'une Chinoise, qui le convainc de lui transmettre des informations confidentielles.",
+          "idFilm": 31506,
+          "titre": "Indiscrétions",
+          "titreVo": "Philadelphia Story",
+          "artVo": "The",
+          "realisateurs": "George Cukor",
+          "annee": 1940,
+          "generique": "Katharine Hepburn, Cary Grant, James Stewart",
+          "adaptation": "D'après la pièce _The Philadelphia Story_ de Philip Barry.",
+          "synopsis": "Une séparation, des fiançailles, une rupture et trois prétendants. Une comédie alerte et enjouée parodiant les mœurs de la haute société américaine et ses scandales.",
+          "miniTexte": "Une référence de la comédie de remariage, flamboyant portrait de femme moderne qui signe le retour de Katharine Hepburn, tombée en disgrâce à Hollywood. Dialogues subtils, mise en scène raffinée, elle embrase l'écran face à Cary Grant et James Stewart – futur Oscar du meilleur acteur –, à l'apogée de leur drôlerie.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 15544,
-              "duree": 100,
-              "format": "35 mm",
+              "idCopie": 3728,
+              "duree": 115,
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133813,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759
+        }
+      ],
+      "idEvenement": 31031,
+      "typeEvenement": 13,
+      "libelleEvenement": "CÉRÉMONIE (LA)",
+      "dateHeure": "2024-10-04T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 57272,
+          "titre": "Cérémonie",
+          "art": "La",
+          "realisateurs": "Claude Chabrol",
+          "annee": 1995,
+          "adaptation": "D’après le roman _L'Analphabète_ de Ruth Rendell.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27647,
+              "duree": 112,
+              "format": "DCP"
             }
           ]
         }
@@ -5526,7 +5730,7 @@
       "idEvenement": 25734,
       "typeEvenement": 13,
       "libelleEvenement": "SPIDER",
-      "dateHeure": "2024-10-04T20:15:00",
+      "dateHeure": "2024-10-04T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -5554,6 +5758,38 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131985,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759
+        }
+      ],
+      "idEvenement": 31038,
+      "typeEvenement": 13,
+      "libelleEvenement": "COUP POUR COUP",
+      "dateHeure": "2024-10-04T21:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49441,
+          "titre": "Coup pour coup",
+          "realisateurs": "Marin Karmitz",
+          "annee": 1971,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27645,
+              "duree": 90,
+              "format": "DCP"
             }
           ]
         }
@@ -5598,6 +5834,45 @@
       ]
     },
     {
+      "idSeance": 132024,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25739,
+      "typeEvenement": 13,
+      "libelleEvenement": "COSMOPOLIS",
+      "dateHeure": "2024-10-05T16:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 116210,
+          "titre": "Cosmopolis",
+          "realisateurs": "David Cronenberg",
+          "annee": 2011,
+          "generique": "Robert Pattinson, Juliette Binoche, Sarah Gadon, Mathieu Amalric",
+          "adaptation": "D'après le roman _Cosmopolis_ de Don DeLillo.",
+          "synopsis": "Dans un New York en ébullition, l'ère du capitalisme touche à sa fin. Tandis que Manhattan sombre dans le chaos, un _golden boy_ de la haute finance, enfermé dans sa limousine, n'a qu'une seule obsession : une coupe de cheveux chez son coiffeur à l'autre bout de la ville.\n\n\n",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 742,
+              "duree": 108,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133778,
       "idProg": 182,
       "cycles": [
@@ -5611,7 +5886,7 @@
       "idEvenement": 25758,
       "typeEvenement": 13,
       "libelleEvenement": "EXISTENZ",
-      "dateHeure": "2024-10-05T18:30:00",
+      "dateHeure": "2024-10-05T18:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -5636,38 +5911,111 @@
       ]
     },
     {
-      "idSeance": 132047,
+      "idSeance": 132025,
       "idProg": 182,
       "cycles": [
         {
-          "idCycle": 624,
-          "idCategorie": 2673,
-          "titreCycle": "David Cronenberg",
+          "idCycle": 391,
+          "idCategorie": 1759
+        }
+      ],
+      "idEvenement": 31037,
+      "typeEvenement": 13,
+      "libelleEvenement": "CAMARADES",
+      "dateHeure": "2024-10-05T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49439,
+          "titre": "Camarades",
+          "realisateurs": "Marin Karmitz",
+          "annee": 1969,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27646,
+              "duree": 85,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133818,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 25754,
+      "idEvenement": 30704,
       "typeEvenement": 13,
-      "libelleEvenement": "MAPS TO THE STARS",
-      "dateHeure": "2024-10-05T20:45:00",
+      "libelleEvenement": "CROISÉE DES DESTINS (LA)",
+      "dateHeure": "2024-10-05T21:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 123191,
-          "titre": "Maps to the Stars",
-          "realisateurs": "David Cronenberg",
-          "annee": 2013,
-          "generique": "Julianne Moore, Mia Wasikowska, John Cusack, Robert Pattinson",
-          "synopsis": "Histoire d'une famille typiquement hollywoodienne dont les membres courent après la célébrité, se cherchent les uns les autres et doivent cohabiter avec les démons du passé.",
-          "status": 2,
+          "idFilm": 31407,
+          "titre": "Croisée des destins",
+          "art": "La",
+          "titreVo": "Bhowani Junction",
+          "realisateurs": "George Cukor",
+          "annee": 1955,
+          "adaptation": "D'après le roman _Bhowani junction_ de John Masters.",
+          "status": 0,
           "copies": [
             {
-              "idCopie": 6592,
-              "duree": 0,
-              "format": "DCP",
+              "idCopie": 27976,
+              "duree": 110,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132026,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759
+        }
+      ],
+      "idEvenement": 31045,
+      "typeEvenement": 13,
+      "libelleEvenement": "NUIT DE SAN LORENZO (LA)",
+      "dateHeure": "2024-10-05T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42717,
+          "titre": "Nuit de San Lorenzo",
+          "art": "La",
+          "titreVo": "Notte di San Lorenzo",
+          "artVo": "La",
+          "realisateurs": "Paolo Taviani, Vittorio Taviani",
+          "annee": 1981,
+          "generique": "Omero Antonutti, Margarita Lozano, Claudio Bigagli",
+          "synopsis": "10 août, nuit de la San Lorenzo : une femme se souvient de l'été 1944 quand, à peine âgée de dix ans, elle vit sa petite ville de Toscane subir dans la terreur les exactions de l'armée allemande.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20451,
+              "duree": 108,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STA",
+              "stDemande": true
             }
           ]
         }
@@ -5742,6 +6090,38 @@
       ]
     },
     {
+      "idSeance": 132041,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759
+        }
+      ],
+      "idEvenement": 31030,
+      "typeEvenement": 13,
+      "libelleEvenement": "NO MAN'S LAND",
+      "dateHeure": "2024-10-06T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45004,
+          "titre": "No Man's Land",
+          "realisateurs": "Alain Tanner",
+          "annee": 1984,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 27648,
+              "duree": 110,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 132029,
       "idProg": 182,
       "cycles": [
@@ -5789,56 +6169,76 @@
       ]
     },
     {
-      "idSeance": 133730,
+      "idSeance": 132042,
       "idProg": 182,
       "cycles": [
         {
-          "idCycle": 624,
-          "idCategorie": 2673,
-          "titreCycle": "David Cronenberg",
+          "idCycle": 391,
+          "idCategorie": 1759
+        }
+      ],
+      "idEvenement": 31042,
+      "typeEvenement": 13,
+      "libelleEvenement": "APICULTEUR (L')",
+      "dateHeure": "2024-10-06T19:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43589,
+          "titre": "Apiculteur",
+          "art": "L'",
+          "titreVo": "Melissokomos",
+          "artVo": "O",
+          "realisateurs": "Theo Angelopoulos",
+          "annee": 1986,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27650,
+              "duree": 122,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133819,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 25738,
+      "idEvenement": 30708,
       "typeEvenement": 13,
-      "libelleEvenement": "A DANGEROUS METHOD",
+      "libelleEvenement": "FEMME AUX DEUX VISAGES (LA)",
       "dateHeure": "2024-10-06T20:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 114845,
-          "titre": "A Dangerous Method",
-          "realisateurs": "David Cronenberg",
-          "annee": 2010,
-          "generique": "Keira Knightley, Michael Fassbender, Viggo Mortensen, Vincent Cassel",
-          "adaptation": "D'après le livre _A Most Dangerous Method_ de John Kerr et la pièce _The Talking Cure_ de Christopher Hampton.",
-          "synopsis": "Les relations tumultueuses entre le psychanalyste Carl Jung, sa jeune patiente atteinte d'hystérie, Sabina, qui devient sa maîtresse, et Sigmund Freud.",
-          "status": 2,
+          "idFilm": 31524,
+          "titre": "Femme aux deux visages",
+          "art": "La",
+          "titreVo": "Two-Faced Woman",
+          "realisateurs": "George Cukor",
+          "annee": 1941,
+          "adaptation": "D'après la pièce _Two-faced woman_ de Ludwig Fulda.",
+          "status": 0,
           "copies": [
             {
-              "idCopie": 23912,
-              "duree": 99,
+              "idCopie": 27981,
+              "duree": 90,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 23913,
-              "duree": 99,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 23911,
-              "duree": 99,
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 27708,
-              "duree": 99
             }
           ]
         }
@@ -5883,39 +6283,70 @@
       ]
     },
     {
-      "idSeance": 132056,
+      "idSeance": 133812,
       "idProg": 182,
       "cycles": [
         {
-          "idCycle": 624,
-          "idCategorie": 2673,
-          "titreCycle": "David Cronenberg",
-          "titreSousCycle": "Les films"
+          "idCycle": 391,
+          "idCategorie": 1759
         }
       ],
-      "idEvenement": 25739,
+      "idEvenement": 31029,
       "typeEvenement": 13,
-      "libelleEvenement": "COSMOPOLIS",
+      "libelleEvenement": "MÉLO",
       "dateHeure": "2024-10-07T20:45:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 116210,
-          "titre": "Cosmopolis",
-          "realisateurs": "David Cronenberg",
-          "annee": 2011,
-          "generique": "Robert Pattinson, Juliette Binoche, Sarah Gadon, Mathieu Amalric",
-          "adaptation": "D'après le roman _Cosmopolis_ de Don DeLillo.",
-          "synopsis": "Dans un New York en ébullition, l'ère du capitalisme touche à sa fin. Tandis que Manhattan sombre dans le chaos, un _golden boy_ de la haute finance, enfermé dans sa limousine, n'a qu'une seule obsession : une coupe de cheveux chez son coiffeur à l'autre bout de la ville.\n\n\n",
+          "idFilm": 50887,
+          "titre": "Mélo",
+          "realisateurs": "Alain Resnais",
+          "annee": 1986,
+          "generique": "Sabine Azéma, Fanny Ardant, Pierre Arditi, André Dussollier",
+          "adaptation": "D'après la pièce de théâtre _Mélo_ d'Henri Bernstein.",
+          "synopsis": "Lorsque Pierre présente sa femme Romaine à son ami Marcel, tous deux tombent immédiatement amoureux. Romaine promet de quitter Pierre mais a peur d'avouer son infidélité.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 742,
-              "duree": 108,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "idCopie": 8968,
+              "duree": 112,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132093,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759
+        }
+      ],
+      "idEvenement": 31035,
+      "typeEvenement": 13,
+      "libelleEvenement": "AU REVOIR LES ENFANTS",
+      "dateHeure": "2024-10-09T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49994,
+          "titre": "Au revoir les enfants",
+          "realisateurs": "Louis Malle",
+          "annee": 1987,
+          "generique": "Gaspard Manesse, Raphaël Fejtö, Francine Racette",
+          "ageMinimal": 10,
+          "synopsis": "En 1944, Julien est pensionnaire dans un collège catholique. Il découvre Jean, nouveau venu, fier et secret. Julien et Jean deviennent peu à peu de très bons amis.\n\n---\n\nDeux amis, Julien et Jean, sont pensionnaires dans un même collège. Dehors, c'est la guerre et les murs de l'établissement ne suffiront pas à les en protéger.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 7513,
+              "duree": 104,
+              "format": "DCP"
             }
           ]
         }
@@ -5960,6 +6391,110 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 132094,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759
+        }
+      ],
+      "idEvenement": 31032,
+      "typeEvenement": 13,
+      "libelleEvenement": "VIE EST UN LONG FLEUVE TRANQUILLE (LA)",
+      "dateHeure": "2024-10-09T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47518,
+          "titre": "Vie est un long fleuve tranquille",
+          "art": "La",
+          "realisateurs": "Étienne Chatiliez",
+          "annee": 1987,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27652,
+              "duree": 93,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133821,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25731,
+      "typeEvenement": 13,
+      "libelleEvenement": "M. BUTTERFLY",
+      "dateHeure": "2024-10-10T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55771,
+          "titre": "M. Butterfly",
+          "realisateurs": "David Cronenberg",
+          "annee": 1992,
+          "generique": "Jeremy Irons, John Lone, Barbara Sukowa",
+          "adaptation": "D'après la pièce _M. Butterfly_ de David Henry Hwang.",
+          "synopsis": "En pleine Révolution culturelle, un diplomate français tombe amoureux d'une Chinoise, qui le convainc de lui transmettre des informations confidentielles.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 15544,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133814,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759
+        }
+      ],
+      "idEvenement": 31036,
+      "typeEvenement": 13,
+      "libelleEvenement": "SEPT JOURS AILLEURS",
+      "dateHeure": "2024-10-10T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 52177,
+          "titre": "Sept jours ailleurs",
+          "realisateurs": "Marin Karmitz",
+          "annee": 1968,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27649,
+              "duree": 100,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133788,
       "idProg": 182,
       "cycles": [
@@ -5988,7 +6523,83 @@
       ]
     },
     {
-      "idSeance": 132171,
+      "idSeance": 132130,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30713,
+      "typeEvenement": 13,
+      "libelleEvenement": "HANTISE",
+      "dateHeure": "2024-10-10T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31418,
+          "titre": "Hantise",
+          "titreVo": "Gaslight",
+          "realisateurs": "George Cukor",
+          "annee": 1943,
+          "generique": "Ingrid Bergman, Charles Boyer, Joseph Cotten",
+          "adaptation": "D'après la pièce _Angel Street_ de Patrick Hamilton.",
+          "synopsis": "Londres, 1875. Installée dans la maison où sa tante a été assassinée, avec le charmant pianiste qu'elle vient d'épouser, Paula doute bientôt de sa propre santé mentale. A-t-elle des hallucinations ?",
+          "commentaire": "Cinq ans après une première version anglaise de _Gaslight_, Cukor adapte la pièce de l'auteur de _La Corde_. Confinée entre une demeure victorienne et le brouillard londonien, _Hantise_ est une œuvre à part dans la filmographie du cinéaste, réputé pour ses comédies et sa direction d'actrices : un classique du thriller victorien, à l'esthétique noire et aux accents hitchcockiens, servi par un casting royal. Ingrid Bergman, d'abord et surtout, future héroïne du maître du suspense, tourmentée par un mari prédateur avant _Les Enchaînés_ ; Charles Boyer, _French lover_ à contre-emploi, qui rappelle celui de _Soupçons_ ; et Joseph Cotten, l'oncle malfaisant de _L'Ombre d'un doute_, en détective de Scotland Yard. Un triangle digne des _Amants du Capricorne_, et l'occasion d'un fascinant portrait de femme manipulée par un conjoint qui veut la persuader de sa folie. Alchimie miraculeuse entre Joseph Ruttenberg, qui signe la photo, et Bergman, chevelure auréolée de halos, lumières vacillantes dans les yeux, et dont les frémissements d'angoisse communicatifs imprègnent la pellicule. La caméra scrute le mécanisme et les effets du _gaslighting_ – terme toujours utilisé en psychologie pour décrire cette forme de manipulation mentale, auquel le succès mérité du film n'est pas étranger. À noter parmi de savoureux personnages secondaires, Dame May Witty (_Une femme disparaît_) en voisine curieuse et Angela Lansbury, inquiétante domestique, dans un premier rôle lui aussi notable.\n\nBlandine Étienne",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 22111,
+              "duree": 114,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132131,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759
+        }
+      ],
+      "idEvenement": 31034,
+      "typeEvenement": 13,
+      "libelleEvenement": "TROIS COULEURS ROUGE",
+      "dateHeure": "2024-10-10T20:45:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 52785,
+          "titre": "Trois couleurs : Rouge",
+          "realisateurs": "Krzysztof Kieślowski",
+          "annee": 1993,
+          "dureeStd": 96,
+          "generique": "Irène Jacob, Jean-Louis Trintignant, Frédérique Feder",
+          "synopsis": "Un juge à la retraite a mis ses voisins sur écoute téléphonique. Parmi eux, Valentine, étudiante et mannequin. Un jour, Valentine ramène au juge son chien égaré. Une étrange relation se noue alors entre eux.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 22422,
+              "duree": 95,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132126,
       "idProg": 182,
       "cycles": [
         {
@@ -6001,7 +6612,7 @@
       "idEvenement": 30781,
       "typeEvenement": 13,
       "libelleEvenement": "KARDIOGRAMMA",
-      "dateHeure": "2024-10-11T18:30:00",
+      "dateHeure": "2024-10-10T21:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6016,34 +6627,36 @@
       ]
     },
     {
-      "idSeance": 132172,
+      "idSeance": 132169,
       "idProg": 182,
       "cycles": [
         {
-          "idCycle": 788,
-          "idCategorie": 3373,
-          "titreCycle": "Darejan Omirbaev",
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30783,
+      "idEvenement": 30726,
       "typeEvenement": 13,
-      "libelleEvenement": "TUEUR À GAGES",
-      "dateHeure": "2024-10-11T20:45:00",
-      "idSalle": "GF",
+      "libelleEvenement": "MADAME PORTE LA CULOTTE",
+      "dateHeure": "2024-10-11T18:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 29437,
-          "titre": "Tueur à gages",
-          "titreVo": "Killer",
-          "realisateurs": "Darejan Omirbaev",
-          "annee": 1997,
+          "idFilm": 31387,
+          "titre": "Madame porte la culotte",
+          "titreVo": "Adam's Rib",
+          "realisateurs": "George Cukor",
+          "annee": 1949,
+          "generique": "Spencer Tracy, Katharine Hepburn",
+          "synopsis": "Une avocate militant pour les droits des femmes se trouve opposée à son mari, juriste lui aussi, dans une affaire de crime passionnel.\n\n---\n\nUne avocate militant pour les droits des femmes se trouve opposée à son mari, juriste lui aussi, dans une affaire de crime passionnel.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 28139,
-              "duree": 0,
+              "idCopie": 8505,
+              "duree": 101,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
@@ -6053,35 +6666,69 @@
       ]
     },
     {
-      "idSeance": 133706,
+      "idSeance": 133801,
       "idProg": 182,
       "cycles": [
         {
-          "idCycle": 788,
-          "idCategorie": 3373,
-          "titreCycle": "Darejan Omirbaev",
-          "titreSousCycle": "Les films"
+          "idCycle": 391,
+          "idCategorie": 1759
         }
       ],
-      "idEvenement": 30782,
+      "idEvenement": 31040,
       "typeEvenement": 13,
-      "libelleEvenement": "ROUTE (LA)",
-      "dateHeure": "2024-10-12T14:30:00",
+      "libelleEvenement": "CODE INCONNU",
+      "dateHeure": "2024-10-11T18:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 76647,
-          "titre": "Route",
-          "art": "La",
-          "titreVo": "Jol",
-          "realisateurs": "Darejan Omirbaev",
-          "annee": 2000,
+          "idFilm": 68645,
+          "titre": "Code inconnu",
+          "realisateurs": "Michael Haneke",
+          "annee": 1999,
           "status": 0,
           "copies": [
             {
-              "idCopie": 28138,
-              "duree": 85,
+              "idCopie": 27644,
+              "duree": 117,
+              "format": "Vidéo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132170,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30743,
+      "typeEvenement": 13,
+      "libelleEvenement": "UNE ÉTOILE EST NÉE",
+      "dateHeure": "2024-10-11T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31402,
+          "titre": "Une étoile est née",
+          "titreVo": "A Star Is Born",
+          "realisateurs": "George Cukor",
+          "annee": 1953,
+          "generique": "Judy Garland, James Mason, Jack Carson",
+          "adaptation": "D'après le scénario de _A star is born_ de Dorothy Parker et Alan Campbell.  \nD'après le scénario de _A star is born_ et d'après une histoire de Robert Carson.",
+          "synopsis": "Norman Maine, acteur vieillissant et alcoolique, décèle en Esther Blodgett, une jeune chanteuse, un talent qui ne demande qu'à s'épanouir.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 10526,
+              "duree": 176,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
@@ -6091,7 +6738,83 @@
       ]
     },
     {
-      "idSeance": 132214,
+      "idSeance": 132173,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759
+        }
+      ],
+      "idEvenement": 31028,
+      "typeEvenement": 13,
+      "libelleEvenement": "VENT NOUS EMPORTERA (LE)",
+      "dateHeure": "2024-10-11T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 65565,
+          "titre": "Vent nous emportera",
+          "art": "Le",
+          "realisateurs": "Abbas Kiarostami",
+          "annee": 1998,
+          "generique": "Behzad Dourani",
+          "synopsis": "Motivés par une mystérieuse mission, des citadins se rendent dans un village au Kurdistan iranien.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 890,
+              "duree": 118,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132209,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30730,
+      "typeEvenement": 13,
+      "libelleEvenement": "MY FAIR LADY",
+      "dateHeure": "2024-10-12T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31497,
+          "titre": "My Fair Lady",
+          "realisateurs": "George Cukor",
+          "annee": 1963,
+          "generique": "Audrey Hepburn, Rex Harrison, Gladys Cooper",
+          "adaptation": "D'après la pièce _Pygmalion_ de Bernard Shaw.  \nD'après la comédie musicale _My Fair Lady_ d'Alan Jay Lerner et Frederick Loewe.",
+          "synopsis": "Un éminent professeur de phonétique rencontre près de Covent Garden, une petite marchande de fleurs à l'accent cockney. Il décide d'en faire une grande dame.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 16625,
+              "duree": 170,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133806,
       "idProg": 182,
       "cycles": [
         {
@@ -6104,7 +6827,7 @@
       "idEvenement": 30779,
       "typeEvenement": 13,
       "libelleEvenement": "CHOUGA",
-      "dateHeure": "2024-10-12T18:30:00",
+      "dateHeure": "2024-10-12T14:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6120,7 +6843,151 @@
       ]
     },
     {
-      "idSeance": 133707,
+      "idSeance": 133802,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759
+        }
+      ],
+      "idEvenement": 31041,
+      "typeEvenement": 13,
+      "libelleEvenement": "FEMME EST L'AVENIR DE L'HOMME (LA)",
+      "dateHeure": "2024-10-12T14:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 90877,
+          "titre": "Femme est l'avenir de l'homme",
+          "art": "La",
+          "titreVo": "Yeojaneun namjaui miraeda",
+          "titreNx": "여자는 남자의 미래다",
+          "realisateurs": "Hong Sang-soo",
+          "annee": 2004,
+          "generique": "Yoo Ji-tae, Kim Tae-woo, Sung Hyun-ah",
+          "synopsis": "Mun-ho, professeur d'arts plastiques, retrouve un ami cinéaste fauché qui revient des États-Unis. Ils partent sur les traces d'une jeune fille dont ils étaient amoureux.",
+          "commentaire": "S'attachant aux petits riens de la vie quotidienne, le film dresse un portrait acide des Coréens, qui noient leur mal-être dans l'alcool et le sexe. Cinéaste désabusé, Hong emprunte son titre à Aragon pour mieux ironiser et affirmer : « L'avenir de l'homme n'a pas de réalité. »",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 24620,
+              "duree": 88,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133803,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759
+        }
+      ],
+      "idEvenement": 31039,
+      "typeEvenement": 13,
+      "libelleEvenement": "NUIT NOIRE, CALCUTTA / SOUVIENS-TOI DU FUTUR",
+      "dateHeure": "2024-10-12T16:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 67871,
+          "titre": "Nuit noire, Calcutta",
+          "realisateurs": "Marin Karmitz",
+          "annee": 1964,
+          "generique": "Maurice Garrel, Natasha Parry",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 1271,
+              "duree": 24,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 154879,
+          "titre": "Souviens-toi du futur",
+          "realisateurs": "Romain Goupil",
+          "annee": 2024,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28226,
+              "duree": 74,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133822,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25738,
+      "typeEvenement": 13,
+      "libelleEvenement": "A DANGEROUS METHOD",
+      "dateHeure": "2024-10-12T17:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 114845,
+          "titre": "A Dangerous Method",
+          "realisateurs": "David Cronenberg",
+          "annee": 2010,
+          "generique": "Keira Knightley, Michael Fassbender, Viggo Mortensen, Vincent Cassel",
+          "adaptation": "D'après le livre _A Most Dangerous Method_ de John Kerr et la pièce _The Talking Cure_ de Christopher Hampton.",
+          "synopsis": "Les relations tumultueuses entre le psychanalyste Carl Jung, sa jeune patiente atteinte d'hystérie, Sabina, qui devient sa maîtresse, et Sigmund Freud.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23912,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 23913,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 23911,
+              "duree": 99,
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27708,
+              "duree": 99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133807,
       "idProg": 182,
       "cycles": [
         {
@@ -6133,7 +7000,7 @@
       "idEvenement": 30784,
       "typeEvenement": 13,
       "libelleEvenement": "ETUDIANT (L')",
-      "dateHeure": "2024-10-13T17:30:00",
+      "dateHeure": "2024-10-12T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6159,7 +7026,267 @@
       ]
     },
     {
-      "idSeance": 133708,
+      "idSeance": 132211,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30744,
+      "typeEvenement": 13,
+      "libelleEvenement": "UNE FEMME QUI S'AFFICHE",
+      "dateHeure": "2024-10-12T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31408,
+          "titre": "Une femme qui s'affiche",
+          "titreVo": "It Should Happen to You",
+          "realisateurs": "George Cukor",
+          "annee": 1953,
+          "generique": "Judy Holliday, Jack Lemmon, Peter Lawford",
+          "synopsis": "Un modèle sans emploi loue avec ses dernières économies un panneau publicitaire avec son nom dans une grande rue de New York. Elle devient célèbre du jour au lendemain.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28213,
+              "duree": 87,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133804,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373,
+          "titreCycle": "Darejan Omirbaev",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30783,
+      "typeEvenement": 13,
+      "libelleEvenement": "TUEUR À GAGES",
+      "dateHeure": "2024-10-12T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 29437,
+          "titre": "Tueur à gages",
+          "titreVo": "Killer",
+          "realisateurs": "Darejan Omirbaev",
+          "annee": 1997,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28139,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133823,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25754,
+      "typeEvenement": 13,
+      "libelleEvenement": "MAPS TO THE STARS",
+      "dateHeure": "2024-10-13T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 123191,
+          "titre": "Maps to the Stars",
+          "realisateurs": "David Cronenberg",
+          "annee": 2013,
+          "generique": "Julianne Moore, Mia Wasikowska, John Cusack, Robert Pattinson",
+          "synopsis": "Histoire d'une famille typiquement hollywoodienne dont les membres courent après la célébrité, se cherchent les uns les autres et doivent cohabiter avec les démons du passé.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 6592,
+              "duree": 0,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133808,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373,
+          "titreCycle": "Darejan Omirbaev",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30782,
+      "typeEvenement": 13,
+      "libelleEvenement": "ROUTE (LA)",
+      "dateHeure": "2024-10-13T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 76647,
+          "titre": "Route",
+          "art": "La",
+          "titreVo": "Jol",
+          "realisateurs": "Darejan Omirbaev",
+          "annee": 2000,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28138,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132228,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30703,
+      "typeEvenement": 13,
+      "libelleEvenement": "COMMENT L'ESPRIT VIENT AUX FEMMES",
+      "dateHeure": "2024-10-13T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45492,
+          "titre": "Comment l'esprit vient aux femmes",
+          "titreVo": "Born Yesterday",
+          "realisateurs": "George Cukor",
+          "annee": 1950,
+          "generique": "Judy Holliday, Broderick Crawford, William Holden",
+          "adaptation": "D'après la pièce _Born Yesterday_ de Garson Kanin.",
+          "synopsis": "Puissant _self made man_ aux ambitions politiques, Harry Brock embauche le journaliste Paul Verrall pour « éduquer » sa maîtresse inculte et gaffeuse, Billie Dawn.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 14792,
+              "duree": 101,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133809,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373,
+          "titreCycle": "Darejan Omirbaev",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30779,
+      "typeEvenement": 13,
+      "libelleEvenement": "CHOUGA",
+      "dateHeure": "2024-10-13T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 106346,
+          "titre": "Chouga",
+          "titreVo": "Shuga",
+          "realisateurs": "Darejan Omirbaev",
+          "annee": 2007,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 132241,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373,
+          "titreCycle": "Darejan Omirbaev",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30784,
+      "typeEvenement": 13,
+      "libelleEvenement": "ETUDIANT (L')",
+      "dateHeure": "2024-10-14T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 116510,
+          "titre": "Etudiant",
+          "art": "L'",
+          "titreVo": "Student",
+          "realisateurs": "Darezhan Omirbayev",
+          "annee": 2011,
+          "adaptation": "D'après le roman _Crime et châtiment_ de Fiodor Mikhaïlovitch Dostoïevski.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28140,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132242,
       "idProg": 182,
       "cycles": [
         {
@@ -6172,7 +7299,7 @@
       "idEvenement": 30785,
       "typeEvenement": 13,
       "libelleEvenement": "POÈTE (LE )",
-      "dateHeure": "2024-10-13T19:30:00",
+      "dateHeure": "2024-10-14T21:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6191,6 +7318,487 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132276,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 790,
+          "idCategorie": 3378,
+          "titreCycle": "Jim Jarmusch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30826,
+      "typeEvenement": 13,
+      "libelleEvenement": "PERMANENT VACATION",
+      "dateHeure": "2024-10-16T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33501,
+          "titre": "Permanent Vacation",
+          "realisateurs": "Jim Jarmusch",
+          "annee": 1980,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28005,
+              "duree": 75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132277,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 790,
+          "idCategorie": 3378,
+          "titreCycle": "Jim Jarmusch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30829,
+      "typeEvenement": 13,
+      "libelleEvenement": "STRANGER THAN PARADISE",
+      "dateHeure": "2024-10-16T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 52854,
+          "titre": "Stranger Than Paradise",
+          "realisateurs": "Jim Jarmusch",
+          "annee": 1984,
+          "generique": "John Lurie, Eszter Bálint, Richard Edson",
+          "synopsis": "Une jeune Hongroise rejoint son cousin aux États-Unis. Ensemble, ils embarquent vers la Floride.",
+          "miniTexte": "Les héros sont fatigués et flottent dans un désenchantement cotonneux : dans un noir et blanc à la beauté crue, Jarmush filme le périple entre New York et Cleveland de trois jeunes désœuvrés. Le rythme indolent épouse la monotonie du voyage, et l'ironie n'est jamais loin, qui pointe derrière les dialogues incisifs. La vision douce-amère d'une Amérique pas si paradisiaque.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 5315,
+              "duree": 88,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132313,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 790,
+          "idCategorie": 3378,
+          "titreCycle": "Jim Jarmusch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30817,
+      "typeEvenement": 13,
+      "libelleEvenement": "DOWN BY LAW",
+      "dateHeure": "2024-10-17T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33490,
+          "titre": "Down by Law",
+          "realisateurs": "Jim Jarmusch",
+          "annee": 1986,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28007,
+              "duree": 107
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132316,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 790,
+          "idCategorie": 3378,
+          "titreCycle": "Jim Jarmusch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30830,
+      "typeEvenement": 13,
+      "libelleEvenement": "MYSTERY TRAIN",
+      "dateHeure": "2024-10-17T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46157,
+          "titre": "Mystery Train",
+          "realisateurs": "Jim Jarmusch",
+          "annee": 1988,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28009,
+              "duree": 113
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132355,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 790,
+          "idCategorie": 3378,
+          "titreCycle": "Jim Jarmusch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30827,
+      "typeEvenement": 13,
+      "libelleEvenement": "UNE NUIT SUR TERRE",
+      "dateHeure": "2024-10-18T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33502,
+          "titre": "Night on Earth",
+          "realisateurs": "Jim Jarmusch",
+          "annee": 1990,
+          "status": 1,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 132356,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 790,
+          "idCategorie": 3378,
+          "titreCycle": "Jim Jarmusch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30816,
+      "typeEvenement": 13,
+      "libelleEvenement": "DEAD MAN",
+      "dateHeure": "2024-10-18T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 56263,
+          "titre": "Dead Man",
+          "realisateurs": "Jim Jarmusch",
+          "annee": 1994,
+          "generique": "Johnny Depp, Gary Farmer, Lance Henriksen",
+          "synopsis": "Dans la deuxième moitié du XIX<sup>e</sup> siècle, Bill Blake, jeune comptable en route pour les confins de l'Ouest américain, entreprend un voyage initiatique. Blessé, il est recueilli par Nobody, un Amérindien lettré rejeté par les siens.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 7712,
+              "duree": 121,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132396,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 790,
+          "idCategorie": 3378,
+          "titreCycle": "Jim Jarmusch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30820,
+      "typeEvenement": 13,
+      "libelleEvenement": "GHOST DOG : LA VOIE DU SAMOURAÏ",
+      "dateHeure": "2024-10-19T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 64306,
+          "titre": "Ghost Dog : La Voie du samouraï",
+          "titreVo": "Ghost Dog: The Way of the Samurai",
+          "realisateurs": "Jim Jarmusch",
+          "annee": 1998,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28011,
+              "duree": 116
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132397,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 790,
+          "idCategorie": 3378,
+          "titreCycle": "Jim Jarmusch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30822,
+      "typeEvenement": 13,
+      "libelleEvenement": "BROKEN FLOWERS",
+      "dateHeure": "2024-10-19T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 96668,
+          "titre": "Broken Flowers",
+          "realisateurs": "Jim Jarmusch",
+          "annee": 2004,
+          "generique": "Bill Murray, Sharon Stone, Jessica Lange, Tilda Swinton, Julie Delpy",
+          "synopsis": "Célibataire endurci, Don reçoit une lettre anonyme qui lui apprend qu'il a un fils de 19 ans, et que celui-ci est peut-être parti à sa recherche. Afin d'éclaircir ce mystère, il se lance dans un long périple, sur la trace de ses anciennes conquêtes.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22470,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132398,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 790,
+          "idCategorie": 3378,
+          "titreCycle": "Jim Jarmusch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30825,
+      "typeEvenement": 13,
+      "libelleEvenement": "LIMITS OF CONTROL (THE)",
+      "dateHeure": "2024-10-19T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 110084,
+          "titre": "Limits of Control",
+          "art": "The",
+          "realisateurs": "Jim Jarmusch",
+          "annee": 2008,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28012,
+              "duree": 116
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132413,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 790,
+          "idCategorie": 3378,
+          "titreCycle": "Jim Jarmusch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30828,
+      "typeEvenement": 13,
+      "libelleEvenement": "ONLY LOVERS LEFT ALIVE",
+      "dateHeure": "2024-10-20T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 119997,
+          "titre": "Only Lovers Left Alive",
+          "realisateurs": "Jim Jarmusch",
+          "annee": 2012,
+          "generique": "Tom Hiddleston, Tilda Swinton, Mia Wasikowska",
+          "synopsis": "Adam, musicien underground, et Eve, son amante, sont des vampires qui vivent en solitaires entre Detroit et Tanger. L'arrivée de la petite sœur d'Eve va perturber leur existence.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 18948,
+              "duree": 122,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133816,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 790,
+          "idCategorie": 3378,
+          "titreCycle": "Jim Jarmusch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30832,
+      "typeEvenement": 13,
+      "libelleEvenement": "PATERSON",
+      "dateHeure": "2024-10-20T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 131547,
+          "titre": "Paterson",
+          "realisateurs": "Jim Jarmusch",
+          "annee": 2015,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28013,
+              "duree": 118
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133815,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 790,
+          "idCategorie": 3378,
+          "titreCycle": "Jim Jarmusch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30815,
+      "typeEvenement": 13,
+      "libelleEvenement": "DEAD DON'T DIE (THE)",
+      "dateHeure": "2024-10-20T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 141939,
+          "titre": "Dead Don't Die",
+          "art": "The",
+          "realisateurs": "Jim Jarmusch",
+          "annee": 2018,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28015,
+              "duree": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132427,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 790,
+          "idCategorie": 3378,
+          "titreCycle": "Jim Jarmusch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30821,
+      "typeEvenement": 13,
+      "libelleEvenement": "GIMME DANGER",
+      "dateHeure": "2024-10-21T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 131612,
+          "titre": "Gimme Danger",
+          "realisateurs": "Jim Jarmusch",
+          "annee": 2015,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28014,
+              "duree": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132428,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 790,
+          "idCategorie": 3378,
+          "titreCycle": "Jim Jarmusch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30823,
+      "typeEvenement": 13,
+      "libelleEvenement": "COFFEE AND CIGARETTES",
+      "dateHeure": "2024-10-21T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 90749,
+          "titre": "Coffee and Cigarettes",
+          "realisateurs": "Jim Jarmusch",
+          "annee": 1986,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28008,
+              "duree": 96
             }
           ]
         }
@@ -8160,7 +9768,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Arlette Gordon"
     }
   ]
 }

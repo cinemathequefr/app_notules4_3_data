@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-03T13:07:58.498Z",
+  "updatedAt": "2024-05-07T13:54:30.214Z",
   "data": [
     {
       "idSeance": 123138,
@@ -12056,8 +12056,77 @@
       "libelleEvenement": "LILA LUMIÈRE : COMME UN POISSON DANS L'EAU",
       "dateHeure": "2024-05-22T15:00:00",
       "idSalle": "GF",
-      "theorique": true,
-      "items": []
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51386,
+          "titre": "Vacances de Monsieur Hulot",
+          "art": "Les",
+          "realisateurs": "Jacques Tati",
+          "annee": 1951,
+          "generique": "Jacques Tati, Nathalie Pascaud, Micheline Rolla",
+          "ageMinimal": 6,
+          "synopsis": "Le maladroit Monsieur Hulot passe ses vacances dans un paisible hôtel familial au bord de la mer.",
+          "synopsisJP": "C'est l'heure des vacances et des grands départs ! Les vacanciers prennent la route pour le bord de mer. Ce qu'ils ne savent pas, c'est que Monsieur Hulot, plus maladroit que jamais, a lui aussi décidé de prendre le grand air !",
+          "commentaire": "Hôtel de la plage, Saint-Marc-sur-Mer, 1952. Comme chaque année, les fidèles vacanciers retrouvent les charmes de la pension complète dans la petite station balnéaire. Cinq années se sont écoulées depuis le tournage de _Jour de fête_. Jacques Tati a troqué le képi et la moustache de François le facteur pour le chapeau mou et le pantalon trop court de son nouveau personnage. Avec sa pipe et sa démarche élastique, Monsieur Hulot est né. D'un regard amusé, le cinéaste contemple le monde à la manière d'un carnet de notes. Une histoire sans intrigue, ni dénouement, faite de détails et d'impressions. Des moments éclairs, tendres ou cocasses, parfois tristes, souvent très drôles, que Tati ébauche pour mieux les abandonner aux spectateurs : « Je vous offre des vacances. Vous les passez comme vous voulez. Si vous repartez sans les avoir « construites », ne vous en prenez qu'à vous : je vous ai, moi, donné des matériaux. »",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28234,
+              "duree": 3,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 154881,
+          "titre": "Petit Bateau en papier rouge",
+          "art": "Le",
+          "titreVo": "Little Red Paper Ship",
+          "artVo": "The",
+          "realisateurs": " Aleksandra Zareba",
+          "annee": 2013,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28235,
+              "duree": 13,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 154882,
+          "titre": "Drôle de poisson",
+          "realisateurs": " Krishna Chandran A. Nair",
+          "annee": 2017,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28236,
+              "duree": 6,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 154880,
+          "titre": "Leaf",
+          "realisateurs": "Aliona Baranova",
+          "annee": 2020,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28237,
+              "duree": 6,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 117670,
@@ -12914,8 +12983,77 @@
       "libelleEvenement": "LILA LUMIÈRE : COMME UN POISSON DANS L'EAU",
       "dateHeure": "2024-05-26T15:00:00",
       "idSalle": "GF",
-      "theorique": true,
-      "items": []
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51386,
+          "titre": "Vacances de Monsieur Hulot",
+          "art": "Les",
+          "realisateurs": "Jacques Tati",
+          "annee": 1951,
+          "generique": "Jacques Tati, Nathalie Pascaud, Micheline Rolla",
+          "ageMinimal": 6,
+          "synopsis": "Le maladroit Monsieur Hulot passe ses vacances dans un paisible hôtel familial au bord de la mer.",
+          "synopsisJP": "C'est l'heure des vacances et des grands départs ! Les vacanciers prennent la route pour le bord de mer. Ce qu'ils ne savent pas, c'est que Monsieur Hulot, plus maladroit que jamais, a lui aussi décidé de prendre le grand air !",
+          "commentaire": "Hôtel de la plage, Saint-Marc-sur-Mer, 1952. Comme chaque année, les fidèles vacanciers retrouvent les charmes de la pension complète dans la petite station balnéaire. Cinq années se sont écoulées depuis le tournage de _Jour de fête_. Jacques Tati a troqué le képi et la moustache de François le facteur pour le chapeau mou et le pantalon trop court de son nouveau personnage. Avec sa pipe et sa démarche élastique, Monsieur Hulot est né. D'un regard amusé, le cinéaste contemple le monde à la manière d'un carnet de notes. Une histoire sans intrigue, ni dénouement, faite de détails et d'impressions. Des moments éclairs, tendres ou cocasses, parfois tristes, souvent très drôles, que Tati ébauche pour mieux les abandonner aux spectateurs : « Je vous offre des vacances. Vous les passez comme vous voulez. Si vous repartez sans les avoir « construites », ne vous en prenez qu'à vous : je vous ai, moi, donné des matériaux. »",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28234,
+              "duree": 3,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 154881,
+          "titre": "Petit Bateau en papier rouge",
+          "art": "Le",
+          "titreVo": "Little Red Paper Ship",
+          "artVo": "The",
+          "realisateurs": " Aleksandra Zareba",
+          "annee": 2013,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28235,
+              "duree": 13,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 154882,
+          "titre": "Drôle de poisson",
+          "realisateurs": " Krishna Chandran A. Nair",
+          "annee": 2017,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28236,
+              "duree": 6,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 154880,
+          "titre": "Leaf",
+          "realisateurs": "Aliona Baranova",
+          "annee": 2020,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28237,
+              "duree": 6,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 117812,
