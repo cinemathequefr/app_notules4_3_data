@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-07T13:52:37.107Z",
+  "updatedAt": "2024-05-07T15:07:11.772Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1626,7 +1626,7 @@
       "idEvenement": 30787,
       "typeEvenement": 13,
       "libelleEvenement": "LES COURTS MÉTRAGES DE LAURENT ACHARD",
-      "dateHeure": "2024-09-08T14:30:00",
+      "dateHeure": "2024-09-08T15:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2702,6 +2702,97 @@
       ]
     },
     {
+      "idSeance": 133827,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30064,
+      "typeEvenement": 13,
+      "libelleEvenement": "FOLIE DU DOCTEUR TUBE (LA) / AU SECOURS !",
+      "dateHeure": "2024-09-15T15:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48677,
+          "titre": "Folie du docteur Tube",
+          "art": "La",
+          "realisateurs": "Abel Gance",
+          "annee": 1915,
+          "generique": "Albert Dieudonné",
+          "ageMinimal": 8,
+          "synopsis": "Un savant trouve le moyen de décomposer les rayons lumineux.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 1142,
+              "duree": 14,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 48672,
+          "titre": "Au secours !",
+          "realisateurs": "Abel Gance",
+          "annee": 1923,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20644,
+              "duree": 36,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131486,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30061,
+      "typeEvenement": 13,
+      "libelleEvenement": "FIN DU MONDE (LA)",
+      "dateHeure": "2024-09-15T16:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48675,
+          "titre": "Fin du monde",
+          "art": "La",
+          "realisateurs": "Abel Gance",
+          "annee": 1930,
+          "generique": "Colette Darfeuil, Abel Gance, Victor Francen",
+          "synopsis": "Un savant a découvert une comète qui se dirige droit vers la Terre et la détruira. Voyant que la panique s'empare de l'humanité, le savant tente alors de faire voter la proclamation d'une république universelle.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28109,
+              "duree": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133771,
       "idProg": 182,
       "cycles": [
@@ -2780,7 +2871,7 @@
       ]
     },
     {
-      "idSeance": 131486,
+      "idSeance": 133828,
       "idProg": 182,
       "cycles": [
         {
@@ -2790,26 +2881,27 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30061,
+      "idEvenement": 30042,
       "typeEvenement": 13,
-      "libelleEvenement": "FIN DU MONDE (LA)",
-      "dateHeure": "2024-09-15T17:30:00",
+      "libelleEvenement": "BARBE-ROUSSE",
+      "dateHeure": "2024-09-15T19:00:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 48675,
-          "titre": "Fin du monde",
-          "art": "La",
+          "idFilm": 48586,
+          "titre": "Barbe-Rousse",
           "realisateurs": "Abel Gance",
-          "annee": 1930,
-          "generique": "Colette Darfeuil, Abel Gance, Victor Francen",
-          "synopsis": "Un savant a découvert une comète qui se dirige droit vers la Terre et la détruira. Voyant que la panique s'empare de l'humanité, le savant tente alors de faire voter la proclamation d'une république universelle.",
+          "annee": 1917,
+          "generique": "Léon Mathot, Emile Keppens, Henri Maillard",
+          "synopsis": "Un journaliste commet lui-même des méfaits afin d'être le premier à les annoncer dans son journal.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 28109,
-              "duree": 103
+              "idCopie": 28073,
+              "duree": 96,
+              "format": "DCP",
+              "intertitres": "INT. FR."
             }
           ]
         }
@@ -2848,45 +2940,6 @@
               "idCopie": 21806,
               "duree": 125,
               "format": "DCP"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 133674,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30087,
-      "typeEvenement": 13,
-      "libelleEvenement": "POLICHE",
-      "dateHeure": "2024-09-15T20:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48660,
-          "titre": "Poliche",
-          "realisateurs": "Abel Gance",
-          "annee": 1934,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28112,
-              "duree": 89,
-              "format": "16 mm"
-            },
-            {
-              "idCopie": 28113,
-              "duree": 90,
-              "format": "16 mm"
             }
           ]
         }
@@ -5796,6 +5849,46 @@
       ]
     },
     {
+      "idSeance": 133811,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759
+        }
+      ],
+      "idEvenement": 31045,
+      "typeEvenement": 13,
+      "libelleEvenement": "NUIT DE SAN LORENZO (LA)",
+      "dateHeure": "2024-10-05T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42717,
+          "titre": "Nuit de San Lorenzo",
+          "art": "La",
+          "titreVo": "Notte di San Lorenzo",
+          "artVo": "La",
+          "realisateurs": "Paolo Taviani, Vittorio Taviani",
+          "annee": 1981,
+          "generique": "Omero Antonutti, Margarita Lozano, Claudio Bigagli",
+          "synopsis": "10 août, nuit de la San Lorenzo : une femme se souvient de l'été 1944 quand, à peine âgée de dix ans, elle vit sa petite ville de Toscane subir dans la terreur les exactions de l'armée allemande.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20451,
+              "duree": 108,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STA",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 132023,
       "idProg": 182,
       "cycles": [
@@ -5809,7 +5902,7 @@
       "idEvenement": 25724,
       "typeEvenement": 13,
       "libelleEvenement": "FAST COMPANY",
-      "dateHeure": "2024-10-05T14:30:00",
+      "dateHeure": "2024-10-05T15:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -5847,7 +5940,7 @@
       "idEvenement": 25739,
       "typeEvenement": 13,
       "libelleEvenement": "COSMOPOLIS",
-      "dateHeure": "2024-10-05T16:30:00",
+      "dateHeure": "2024-10-05T17:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -5922,7 +6015,7 @@
       "idEvenement": 31037,
       "typeEvenement": 13,
       "libelleEvenement": "CAMARADES",
-      "dateHeure": "2024-10-05T19:00:00",
+      "dateHeure": "2024-10-05T19:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -5976,46 +6069,6 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 132026,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 391,
-          "idCategorie": 1759
-        }
-      ],
-      "idEvenement": 31045,
-      "typeEvenement": 13,
-      "libelleEvenement": "NUIT DE SAN LORENZO (LA)",
-      "dateHeure": "2024-10-05T21:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 42717,
-          "titre": "Nuit de San Lorenzo",
-          "art": "La",
-          "titreVo": "Notte di San Lorenzo",
-          "artVo": "La",
-          "realisateurs": "Paolo Taviani, Vittorio Taviani",
-          "annee": 1981,
-          "generique": "Omero Antonutti, Margarita Lozano, Claudio Bigagli",
-          "synopsis": "10 août, nuit de la San Lorenzo : une femme se souvient de l'été 1944 quand, à peine âgée de dix ans, elle vit sa petite ville de Toscane subir dans la terreur les exactions de l'armée allemande.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 20451,
-              "duree": 108,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STA",
-              "stDemande": true
             }
           ]
         }
@@ -6329,7 +6382,7 @@
       "idEvenement": 31035,
       "typeEvenement": 13,
       "libelleEvenement": "AU REVOIR LES ENFANTS",
-      "dateHeure": "2024-10-09T19:30:00",
+      "dateHeure": "2024-10-09T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6402,7 +6455,7 @@
       "idEvenement": 31032,
       "typeEvenement": 13,
       "libelleEvenement": "VIE EST UN LONG FLEUVE TRANQUILLE (LA)",
-      "dateHeure": "2024-10-09T21:30:00",
+      "dateHeure": "2024-10-09T20:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6575,7 +6628,7 @@
       "idEvenement": 31034,
       "typeEvenement": 13,
       "libelleEvenement": "TROIS COULEURS ROUGE",
-      "dateHeure": "2024-10-10T20:45:00",
+      "dateHeure": "2024-10-10T21:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -6627,6 +6680,38 @@
       ]
     },
     {
+      "idSeance": 133801,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759
+        }
+      ],
+      "idEvenement": 31040,
+      "typeEvenement": 13,
+      "libelleEvenement": "CODE INCONNU",
+      "dateHeure": "2024-10-11T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 68645,
+          "titre": "Code inconnu",
+          "realisateurs": "Michael Haneke",
+          "annee": 1999,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27644,
+              "duree": 117,
+              "format": "Vidéo"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 132169,
       "idProg": 182,
       "cycles": [
@@ -6660,38 +6745,6 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 133801,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 391,
-          "idCategorie": 1759
-        }
-      ],
-      "idEvenement": 31040,
-      "typeEvenement": 13,
-      "libelleEvenement": "CODE INCONNU",
-      "dateHeure": "2024-10-11T18:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 68645,
-          "titre": "Code inconnu",
-          "realisateurs": "Michael Haneke",
-          "annee": 1999,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 27644,
-              "duree": 117,
-              "format": "Vidéo"
             }
           ]
         }
@@ -6775,45 +6828,6 @@
       ]
     },
     {
-      "idSeance": 132209,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30730,
-      "typeEvenement": 13,
-      "libelleEvenement": "MY FAIR LADY",
-      "dateHeure": "2024-10-12T14:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 31497,
-          "titre": "My Fair Lady",
-          "realisateurs": "George Cukor",
-          "annee": 1963,
-          "generique": "Audrey Hepburn, Rex Harrison, Gladys Cooper",
-          "adaptation": "D'après la pièce _Pygmalion_ de Bernard Shaw.  \nD'après la comédie musicale _My Fair Lady_ d'Alan Jay Lerner et Frederick Loewe.",
-          "synopsis": "Un éminent professeur de phonétique rencontre près de Covent Garden, une petite marchande de fleurs à l'accent cockney. Il décide d'en faire une grande dame.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 16625,
-              "duree": 170,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 133806,
       "idProg": 182,
       "cycles": [
@@ -6883,6 +6897,45 @@
       ]
     },
     {
+      "idSeance": 132209,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30730,
+      "typeEvenement": 13,
+      "libelleEvenement": "MY FAIR LADY",
+      "dateHeure": "2024-10-12T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31497,
+          "titre": "My Fair Lady",
+          "realisateurs": "George Cukor",
+          "annee": 1963,
+          "generique": "Audrey Hepburn, Rex Harrison, Gladys Cooper",
+          "adaptation": "D'après la pièce _Pygmalion_ de Bernard Shaw.  \nD'après la comédie musicale _My Fair Lady_ d'Alan Jay Lerner et Frederick Loewe.",
+          "synopsis": "Un éminent professeur de phonétique rencontre près de Covent Garden, une petite marchande de fleurs à l'accent cockney. Il décide d'en faire une grande dame.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 16625,
+              "duree": 170,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133803,
       "idProg": 182,
       "cycles": [
@@ -6944,7 +6997,7 @@
       "idEvenement": 25738,
       "typeEvenement": 13,
       "libelleEvenement": "A DANGEROUS METHOD",
-      "dateHeure": "2024-10-12T17:45:00",
+      "dateHeure": "2024-10-12T18:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -7000,7 +7053,7 @@
       "idEvenement": 30784,
       "typeEvenement": 13,
       "libelleEvenement": "ETUDIANT (L')",
-      "dateHeure": "2024-10-12T18:30:00",
+      "dateHeure": "2024-10-12T18:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7039,7 +7092,7 @@
       "idEvenement": 30744,
       "typeEvenement": 13,
       "libelleEvenement": "UNE FEMME QUI S'AFFICHE",
-      "dateHeure": "2024-10-12T20:00:00",
+      "dateHeure": "2024-10-12T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -7078,7 +7131,7 @@
       "idEvenement": 30783,
       "typeEvenement": 13,
       "libelleEvenement": "TUEUR À GAGES",
-      "dateHeure": "2024-10-12T20:30:00",
+      "dateHeure": "2024-10-12T21:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7575,7 +7628,7 @@
       "idEvenement": 30822,
       "typeEvenement": 13,
       "libelleEvenement": "BROKEN FLOWERS",
-      "dateHeure": "2024-10-19T19:00:00",
+      "dateHeure": "2024-10-19T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -7613,7 +7666,7 @@
       "idEvenement": 30825,
       "typeEvenement": 13,
       "libelleEvenement": "LIMITS OF CONTROL (THE)",
-      "dateHeure": "2024-10-19T21:00:00",
+      "dateHeure": "2024-10-19T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -7685,7 +7738,7 @@
       "idEvenement": 30832,
       "typeEvenement": 13,
       "libelleEvenement": "PATERSON",
-      "dateHeure": "2024-10-20T19:00:00",
+      "dateHeure": "2024-10-20T19:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -7705,7 +7758,7 @@
       ]
     },
     {
-      "idSeance": 133815,
+      "idSeance": 133829,
       "idProg": 182,
       "cycles": [
         {
@@ -7718,8 +7771,8 @@
       "idEvenement": 30815,
       "typeEvenement": 13,
       "libelleEvenement": "DEAD DON'T DIE (THE)",
-      "dateHeure": "2024-10-20T21:00:00",
-      "idSalle": "HL",
+      "dateHeure": "2024-10-21T18:00:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -7739,39 +7792,6 @@
       ]
     },
     {
-      "idSeance": 132427,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 790,
-          "idCategorie": 3378,
-          "titreCycle": "Jim Jarmusch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30821,
-      "typeEvenement": 13,
-      "libelleEvenement": "GIMME DANGER",
-      "dateHeure": "2024-10-21T19:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 131612,
-          "titre": "Gimme Danger",
-          "realisateurs": "Jim Jarmusch",
-          "annee": 2015,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28014,
-              "duree": 108
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 132428,
       "idProg": 182,
       "cycles": [
@@ -7785,7 +7805,7 @@
       "idEvenement": 30823,
       "typeEvenement": 13,
       "libelleEvenement": "COFFEE AND CIGARETTES",
-      "dateHeure": "2024-10-21T21:00:00",
+      "dateHeure": "2024-10-21T20:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7799,6 +7819,39 @@
             {
               "idCopie": 28008,
               "duree": 96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132465,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 790,
+          "idCategorie": 3378,
+          "titreCycle": "Jim Jarmusch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30821,
+      "typeEvenement": 13,
+      "libelleEvenement": "GIMME DANGER",
+      "dateHeure": "2024-10-23T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 131612,
+          "titre": "Gimme Danger",
+          "realisateurs": "Jim Jarmusch",
+          "annee": 2015,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28014,
+              "duree": 108
             }
           ]
         }
@@ -7851,6 +7904,48 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 133830,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21652,
+      "typeEvenement": 13,
+      "libelleEvenement": "BOY WHO TURNED YELLOW (THE)",
+      "dateHeure": "2024-10-24T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 107631,
+          "titre": "Boy Who Turned Yellow",
+          "art": "The",
+          "realisateurs": "Michael Powell",
+          "annee": 1972,
+          "synopsis": "John, qui vient de perdre sa petite souris, n'est pas très attentif à son cours d'électricité. Lorsqu'en rêve il devient jaune, il fait cependant la connaissance de Nick, qui va beaucoup lui apprendre.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20277,
+              "duree": 55,
+              "format": "16 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 27595,
+              "duree": 55,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 132502,
       "idProg": 182,
       "cycles": [
@@ -7887,6 +7982,103 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 132503,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 3401
+        }
+      ],
+      "idEvenement": 21680,
+      "typeEvenement": 13,
+      "libelleEvenement": "SMITH / AN AIRMAN'S LETTER TO HIS MOTHER / VOLUNTEER (THE) / SORCERER'S APPRENTICE (THE)",
+      "dateHeure": "2024-10-24T20:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 107613,
+          "titre": "Smith",
+          "realisateurs": "Michael Powell",
+          "annee": 1939,
+          "synopsis": "Docu-fiction, le film présente, à travers l'histoire de John Smith, le rôle d'un organisme d'aide aux vétérans de l'armée. (Attention : 1 source WIKI)",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27051,
+              "duree": 10,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 91360,
+          "titre": "An Airman's Letter to His Mother",
+          "realisateurs": "Michael Powell",
+          "annee": 1941,
+          "synopsis": "Lecture d'une lettre qu'un pilote de la Royal Air Force a écrit à sa mère à propos de son engagement, et parue dans le _Times_ de Londres.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20291,
+              "duree": 6,
+              "format": "35 mm",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 107614,
+          "titre": "Volunteer",
+          "art": "The",
+          "realisateurs": "Michael Powell",
+          "annee": 1943,
+          "synopsis": "Commandé par le gouvernement britannique, ce film de propagande retrace l'histoire d'un habilleur devenu héros de guerre.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20429,
+              "duree": 24,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            },
+            {
+              "idCopie": 28202,
+              "duree": 24,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 107616,
+          "titre": "Sorcerer's Apprentice",
+          "art": "The",
+          "realisateurs": "Michael Powell",
+          "annee": 1956,
+          "synopsis": "Ballet dansé par Sonia Arova et le corps de ballet de l'Opéra d'État de Hambourg, d'après le poème de Goethe.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27069,
+              "duree": 13,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 132541,
@@ -7959,6 +8151,44 @@
               "idCopie": 28043,
               "duree": 88,
               "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132542,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21664,
+      "typeEvenement": 13,
+      "libelleEvenement": "INTELLIGENCE SERVICE",
+      "dateHeure": "2024-10-25T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 62261,
+          "titre": "Intelligence Service",
+          "titreVo": "Ill Met by Moonlight",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1957,
+          "generique": "Dirk Bogarde, Cyril Cusack, Marius Goring",
+          "adaptation": "D'après le récit _Ill Met by Moonlight_ de W. Stanley Moss.",
+          "synopsis": "En 1941, dans la Crète occupée, un général allemand se fait kidnapper par les services secrets britanniques.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20197,
+              "duree": 104,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -8255,6 +8485,52 @@
       ]
     },
     {
+      "idSeance": 132599,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21654,
+      "typeEvenement": 13,
+      "libelleEvenement": "ESPION NOIR (L')",
+      "dateHeure": "2024-10-27T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42009,
+          "titre": "Espion noir",
+          "art": "L'",
+          "titreVo": "Spy in Black",
+          "artVo": "The",
+          "realisateurs": "Michael Powell",
+          "annee": 1939,
+          "generique": "Conrad Veidt, Sebastian Shaw, Valerie Hobson, Marius Goring",
+          "adaptation": "D'après le roman _The Spy in Black_ de Joseph Storer Clouston.",
+          "synopsis": "Le capitaine d'un sous-marin allemand accepte le rôle déshonorant de recueillir des renseignements fournis par une espionne.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20207,
+              "duree": 82,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 3945,
+              "duree": 82,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 132605,
       "idProg": 182,
       "cycles": [
@@ -8287,6 +8563,117 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132600,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21655,
+      "typeEvenement": 13,
+      "libelleEvenement": "ESPIONNE À BORD",
+      "dateHeure": "2024-10-27T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 53350,
+          "titre": "Espionne à bord",
+          "titreVo": "Contraband",
+          "realisateurs": "Michael Powell",
+          "annee": 1939,
+          "synopsis": "1940\\. Bloqué dans un port britannique, Andersen, capitaine danois d'un navire de commerce, se retrouve malgré lui dans une affaire d'espionnage.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20293,
+              "duree": 0,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132613,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21662,
+      "typeEvenement": 13,
+      "libelleEvenement": "THEY'RE A WEIRD MOB",
+      "dateHeure": "2024-10-28T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 107630,
+          "titre": "They're a Weird Mob",
+          "realisateurs": "Michael Powell",
+          "annee": 1965,
+          "adaptation": "D'après le roman _They're a weird mob_ de Nino Culotta.",
+          "synopsis": "Nino, journaliste italien, découvre en arrivant en Australie que son cousin, pour qui il espérait écrire, s'est enfui, laissant un journal sans argent. Il se retrouve alors à travailler sur un chantier et découvre la vie des ouvriers.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20229,
+              "duree": 112,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132614,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21648,
+      "typeEvenement": 13,
+      "libelleEvenement": "AGE OF CONSENT",
+      "dateHeure": "2024-10-28T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 71690,
+          "titre": "Age of Consent",
+          "realisateurs": "Michael Powell",
+          "annee": 1968,
+          "synopsis": "Pour retrouver l'inspiration, un peintre décide de s'installer au large des cotes australiennes. Il y fait alors la connaissance d'un couple dont la petite fille, Cora, deviendra sa muse...",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20231,
+              "duree": 98,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            },
+            {
+              "idCopie": 20290,
+              "duree": 98,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
@@ -8913,6 +9300,434 @@
       ]
     },
     {
+      "idSeance": 132835,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 30995,
+      "typeEvenement": 13,
+      "libelleEvenement": "DU RIFIFI CHEZ LES HOMMES",
+      "dateHeure": "2024-11-06T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47861,
+          "titre": "Du rififi chez les hommes",
+          "realisateurs": "Jules Dassin",
+          "annee": 1954,
+          "generique": "Jean Servais, Carl Möhner, Robert Manuel",
+          "synopsis": "Tony le Stéphanois vient de passer cinq ans en prison et est atteint de tuberculose. Condamné par la maladie, il prépare un ultime braquage d'une bijouterie.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 6958,
+              "duree": 110,
+              "format": "Numérique"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 132873,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 30993,
+      "typeEvenement": 13,
+      "libelleEvenement": "QUAND LA VILLE DORT",
+      "dateHeure": "2024-11-07T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33417,
+          "titre": "Quand la ville dort",
+          "titreVo": "Asphalt Jungle",
+          "artVo": "The",
+          "realisateurs": "John Huston",
+          "annee": 1950,
+          "dureeStd": 112,
+          "generique": "Sterling Hayden, Louis Calhern, Jean Hagen, James Whitmore",
+          "adaptation": "D'après le roman _The Asphalt Jungle_ de W. R. Burnett.",
+          "synopsis": "Tout juste sorti de prison, le docteur Reidenschneider, pour préparer un casse de grande ampleur, recrute une équipe de quatre spécialistes.",
+          "miniTexte": "Un Sterling Hayden de grande classe, une Marilyn débutante dans un film noir qui inaugure le sous-genre des films de casse : John Huston ausculte la jungle urbaine et ses palpitations, dissèque avec mordant les travers de ses personnages enfermés dans un univers froid et vide. Et pose en même temps un regard social sur la pathétique condition de gangster.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 9157,
+              "duree": 112,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 9184,
+              "duree": 112,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 9260,
+              "duree": 112,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 9287,
+              "duree": 112,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 24793,
+              "duree": 112,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 18721,
+              "duree": 112,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132874,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 30996,
+      "typeEvenement": 13,
+      "libelleEvenement": "ULTIME RAZZIA (L')",
+      "dateHeure": "2024-11-07T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34042,
+          "titre": "Ultime razzia",
+          "art": "L'",
+          "titreVo": "Killing",
+          "artVo": "The",
+          "realisateurs": "Stanley Kubrick",
+          "annee": 1955,
+          "generique": "Sterling Hayden, Coleen Gray, Vince Edwards",
+          "adaptation": "D'après le roman _The Clean Break_ de Lionel White.",
+          "synopsis": "Un gangster et ses complices organisent un hold-up pour s'emparer de la caisse d'un champ de courses.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 2787,
+              "duree": 84,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132913,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 31001,
+      "typeEvenement": 13,
+      "libelleEvenement": "COUP DE L'ESCALIER (LE)",
+      "dateHeure": "2024-11-08T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45838,
+          "titre": "Coup de l'escalier",
+          "art": "Le",
+          "titreVo": "Odds Against Tomorrow",
+          "realisateurs": "Robert Wise",
+          "annee": 1959,
+          "generique": "Harry Belafonte, Robert Ryan, Shelley Winters",
+          "synopsis": "Dave Burke, un ancien policier, rêve de se venger de ceux qui l'ont exclu et condamné à un an de prison pour malversation. Il prémédite l'attaque de la banque de Melton, petite ville proche de New York, mais a besoin de deux complices. Le premier sera Slater, un dur aigri et raciste, le second Ingram, un noir chanteur dans une boite de nuit et criblé de dettes.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 2404,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132914,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 31012,
+      "typeEvenement": 13,
+      "libelleEvenement": "CERCLE ROUGE (LE)",
+      "dateHeure": "2024-11-08T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50137,
+          "titre": "Cercle rouge",
+          "art": "Le",
+          "realisateurs": "Jean-Pierre Melville",
+          "annee": 1970,
+          "generique": "Alain Delon, Bourvil, Gian Maria Volonté, Yves Montand",
+          "synopsis": "Un truand marseillais, un détenu en cavale et un ancien policier préparent le cambriolage de la bijouterie Mauboussin, place Vendôme. Ils sont surveillés par le commissaire Mattei, de la brigade criminelle.",
+          "commentaire": "« Il n'y a pas d'innocents, tous les hommes sont coupables. » La démonstration est sèche. Art consommé de l'ellipse, économie de mots et de gestes. Tout est précis, réglé, comme si la réalisation était toute entière tendue vers le hold-up et calquée sur son rythme. Parfois, Melville s'envole, la caméra tourne autour de Delon, danse, presque, avec lui. Puis on repart pour de longues séquences froides, au cordeau. Melville offre une magnifique scène en ombres chinoises sur les toits de la place Vendôme, sur fond de nuit bleutée, nous parle depuis une époque où les gangsters portaient chapeau et gants blancs, opéraient dans le calme. Une époque où un plan en plongée sur une table de billard tenait du génie. Delon, mutique et impassible, serre les poings dans les poches de son imper. Montand, amer, cynique et concentré, joue au petit chimiste dans sa cuisine. Bourvil donne à son personnage de commissaire une étoffe surprenante et pleine de mélancolie. Tous déploient un jeu minimaliste, efficace, et la sobriété leur va bien. Un polar à l'os, un chef-d'œuvre d'épure.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22737,
+              "duree": 150,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132953,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21708,
+      "typeEvenement": 13,
+      "libelleEvenement": "VOLEUR DE BAGDAD (LE)",
+      "dateHeure": "2024-11-09T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42982,
+          "titre": "Voleur de Bagdad",
+          "art": "Le",
+          "titreVo": "Thief of Bagdad",
+          "artVo": "The",
+          "realisateurs": "Ludwig Berger, Tim Whelan, Michael Powell",
+          "annee": 1940,
+          "generique": "Conrad Veidt, Sabu, John Justin",
+          "ageMinimal": 8,
+          "synopsis": "Après avoir été trompé et chassé de Bagdad par le diabolique Jaffra, le roi Ahmad unit ses forces à un voleur nommé Abu pour récupérer son trône, sa ville et la princesse qu'il aime.",
+          "commentaire": "Après avoir acquis les droits du film réalisé par Raoul Walsh en 1929, avec Douglas Fairbanks, Alexandre Korda confie à Ludwig Berger, puis à Michael Powell et Tim Whelan, la mise en scène de son _Voleur de Bagdad_. Le tournage, qui se déroule dans les studios britanniques de Denham en 1939, est interrompu par la guerre. Il se poursuit en 1940 à Hollywood et dans le Grand Canyon, avec deux réalisateurs supplémentaires (non crédités). Le jeune Sabu partage l'affiche avec le brillant Conrad Veidt. La féerie exotique de l'œuvre est appuyée par ses couleurs éclatantes et ses multiples effets spéciaux. La photographie en Technicolor de Georges Périnal sera récompensée par un Oscar en 1941.\n\nMarion Langlois",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 8456,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132954,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 31014,
+      "typeEvenement": 13,
+      "libelleEvenement": "GUET-APENS",
+      "dateHeure": "2024-11-09T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35723,
+          "titre": "Guet-apens",
+          "titreVo": "Getaway",
+          "artVo": "The",
+          "realisateurs": "Sam Peckinpah",
+          "annee": 1972,
+          "generique": "Steve McQueen, Ali MacGraw, Ben Johnson",
+          "adaptation": "D'après le roman _The Getaway_ de Jim Thompson.",
+          "synopsis": "Un couple de truands doit mettre au point un dernier hold-up avant de fuir vers le Mexique.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 7476,
+              "duree": 122,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 7477,
+              "duree": 122,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132955,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 31016,
+      "typeEvenement": 13,
+      "libelleEvenement": "SOLITAIRE (LE)",
+      "dateHeure": "2024-11-09T19:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34548,
+          "titre": "Solitaire",
+          "art": "Le",
+          "titreVo": "Thief",
+          "realisateurs": "Michael Mann",
+          "annee": 1981,
+          "generique": "James Caan, Tuesday Weld, Willie Nelson",
+          "adaptation": "D'après le roman _The Home Invaders_ de Frank Hohimer.",
+          "synopsis": "Après onze ans de prison, Frank, cambrioleur professionnel, rêve de mener une vie normale ; pour cela il doit passer par un dernier vol. Entre la mafia de Chicago et la police corrompue, son travail va s'avérer plus difficile que prévu.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 2401,
+              "duree": 122,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 16452,
+              "duree": 122,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132971,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 31019,
+      "typeEvenement": 13,
+      "libelleEvenement": "HEAT",
+      "dateHeure": "2024-11-10T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 53582,
+          "titre": "Heat",
+          "realisateurs": "Michael Mann",
+          "annee": 1995,
+          "generique": "Al Pacino, Robert De Niro, Val Kilmer",
+          "synopsis": "Un braqueur de haut vol est impitoyablement traqué par un policier.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 14789,
+              "duree": 171,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132985,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 31013,
+      "typeEvenement": 13,
+      "libelleEvenement": "DILLINGER",
+      "dateHeure": "2024-11-11T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35293,
+          "titre": "Dillinger",
+          "realisateurs": "John Milius",
+          "annee": 1973,
+          "dureeStd": 107,
+          "generique": "Warren Oates, Ben Johnson, Michelle Phillips",
+          "miniTexte": "Milius regarde l'Amérique dans le rétroviseur avec la cavale du bandit Dillinger (Warren Oates), poursuivi par le FBI. Un récit à l'état brut, mi-western, mi-film d'action, sur fond de Grande Dépression. Rythmé, efficace, avec ses scènes de fusillades maîtrisées, _Dillinger_ est aussi une étude de la violence et de ses mécanismes, que Milius décortique avec une belle authenticité.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27655,
+              "duree": 107,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 132983,
       "idProg": 182,
       "cycles": [
@@ -8953,6 +9768,44 @@
         }
       ],
       "mention": "Avant-première. Séance présentée par Claude Lelouch"
+    },
+    {
+      "idSeance": 132986,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 31003,
+      "typeEvenement": 13,
+      "libelleEvenement": "INCONNU DE LAS VEGAS (L')",
+      "dateHeure": "2024-11-11T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34242,
+          "titre": "Inconnu de Las Vegas",
+          "art": "L'",
+          "titreVo": "Ocean's Eleven",
+          "realisateurs": "Lewis Milestone",
+          "annee": 1960,
+          "generique": "Peter Lawford, Dean Martin, Frank Sinatra, Henry Silva",
+          "synopsis": "D'anciens parachutistes de la seconde guerre mondiale forment un commando pour dévaliser les cinq casinos de la ville de Las Vegas...",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 6949,
+              "duree": 119,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 133023,
@@ -9087,6 +9940,76 @@
       ]
     },
     {
+      "idSeance": 133059,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 31010,
+      "typeEvenement": 13,
+      "libelleEvenement": "MISE À SAC",
+      "dateHeure": "2024-11-14T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55213,
+          "titre": "Mise à sac",
+          "realisateurs": "Alain Cavalier",
+          "annee": 1967,
+          "generique": "Daniel Ivernel, Irène Tunc, Michel Constantin",
+          "synopsis": "Une bande de voleurs s'empare du commissariat et du central téléphonique d'une ville moyenne, aux pieds d'une montagne. Ils ont quelques heures pour la vider de son argent. Ils ignorent qu'ils participent à une vengeance, celle d'un homme humilié par un industriel, principal employeur du lieu.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 3772,
+              "duree": 91,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133060,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 31020,
+      "typeEvenement": 13,
+      "libelleEvenement": "MISSION : IMPOSSIBLE",
+      "dateHeure": "2024-11-14T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 60432,
+          "titre": "Mission: Impossible",
+          "realisateurs": "Brian De Palma",
+          "annee": 1996,
+          "generique": "Tom Cruise, Jon Voight, Emmanuelle Béart",
+          "synopsis": "Un agent secret réunit ses meilleurs éléments pour une nouvelle mission à Prague. Mais l'opération échoue et il assiste, impuissant, à la disparition de tous les membres de son équipe.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 24347,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133061,
       "idProg": 182,
       "cycles": [
@@ -9121,7 +10044,7 @@
       ]
     },
     {
-      "idSeance": 133101,
+      "idSeance": 133099,
       "idProg": 182,
       "cycles": [
         {
@@ -9135,7 +10058,7 @@
       "typeEvenement": 13,
       "libelleEvenement": "UN HOMME QUI ME PLAÎT",
       "dateHeure": "2024-11-15T18:00:00",
-      "idSalle": "GF",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -9148,6 +10071,50 @@
             {
               "idCopie": 28046,
               "duree": 115
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133100,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21696,
+      "typeEvenement": 13,
+      "libelleEvenement": "NARCISSE NOIR (LE)",
+      "dateHeure": "2024-11-15T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41789,
+          "titre": "Narcisse noir",
+          "art": "Le",
+          "titreVo": "Black Narcissus",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1947,
+          "generique": "Deborah Kerr, Sabu, David Farrar",
+          "synopsis": "Suite à l'ouverture d'un couvent sur les contreforts de l'Himalaya, cinq sœurs anglicanes rencontrent des difficultés à s'adapter à leur nouvel environnement.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 8430,
+              "duree": 100,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27059,
+              "duree": 100,
+              "format": "DCP",
+              "version": "VO"
             }
           ]
         }
@@ -9167,7 +10134,7 @@
       "idEvenement": 30894,
       "typeEvenement": 13,
       "libelleEvenement": "VOYOU (LE)",
-      "dateHeure": "2024-11-15T20:45:00",
+      "dateHeure": "2024-11-15T21:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -9705,6 +10672,46 @@
       ]
     },
     {
+      "idSeance": 133342,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 741,
+          "idCategorie": 3235,
+          "titreCycle": "James Cameron",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 29893,
+      "typeEvenement": 13,
+      "libelleEvenement": "AVATAR",
+      "dateHeure": "2024-11-24T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 110101,
+          "titre": "Avatar",
+          "realisateurs": "James Cameron",
+          "annee": 2009,
+          "generique": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
+          "ageMinimal": 10,
+          "synopsisJP": "Un ancien soldat est envoyé sur la planète Pandora, habitée par le peuple des Na'vi. Entre rêve et mythologie, une ode à la nature dans un univers unique, splendide, d'un réalisme saisissant, et aux effets spéciaux à couper le souffle. Le plus grand succès de toute l'histoire du cinéma.",
+          "miniTexte": "_Avatar_, ou tout simplement le plus grand succès au box-office de toute l'histoire du cinéma. Un ancien Marine est envoyé par un groupe industriel sur la planète Pandora, habitée par le peuple des Na'vi. Cameron emmène le spectateur très loin dans la mythologie et le rêve, compose une ode à la nature dans un univers unique, pensé dans ses moindres détails. Trouvailles visuelles splendides (végétation, personnages), effets spéciaux à couper le souffle (_motion capture_, 3D) d'un réalisme saisissant : du très grand divertissement, pour en prendre plein les yeux.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 4859,
+              "duree": 150,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133625,
       "idProg": 182,
       "cycles": [
@@ -9732,6 +10739,45 @@
             {
               "idCopie": 28052,
               "duree": 134
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133343,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 741,
+          "idCategorie": 3235,
+          "titreCycle": "James Cameron",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 29975,
+      "typeEvenement": 13,
+      "libelleEvenement": "AVATAR : LA VOIE DE L'EAU",
+      "dateHeure": "2024-11-24T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154672,
+          "titre": "Avatar : La Voie de l'eau",
+          "titreVo": "Avatar: The Way of Water",
+          "realisateurs": "James Cameron",
+          "annee": 2022,
+          "generique": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
+          "miniTexte": "Projet pharaonique de James Cameron, le deuxième volet des aventures de Jake Sully est une épopée éblouissante, sur fond de récit initiatique. Une nouvelle fois, le maître des effets spéciaux repousse les frontières, orchestre un feu d'artifice visuel avec notamment des séquences de _performance capture_ filmées sous l'eau. L'écran est pour lui l'écrin rêvé pour partager avec le spectateur sa passion pour la technologie et ses défis les plus fous. Davantage qu'un film, une expérience de cinéma.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27179,
+              "duree": 0,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
