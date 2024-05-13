@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-06T15:38:01.522Z",
+  "updatedAt": "2024-05-13T12:03:40.462Z",
   "data": [
     {
       "idSeance": 128873,
@@ -35,6 +35,44 @@
               "duree": 87,
               "format": "35 mm",
               "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133860,
+      "idProg": 179,
+      "cycles": [
+        {
+          "idCycle": 738,
+          "idCategorie": 3217
+        }
+      ],
+      "idEvenement": 29699,
+      "typeEvenement": 13,
+      "libelleEvenement": "BRASSARD NOIR DANS LA NEIGE (YUKI NO MOSHÔ)",
+      "dateHeure": "2024-05-29T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154624,
+          "titre": "Brassard noir dans la neige",
+          "titreVo": "Yuki no moshō",
+          "titreNx": "雪の喪章",
+          "realisateurs": "Kenji Misumi",
+          "annee": 1967,
+          "generique": "Ayako Wakao, Shigeru Amachi, Tadao Nakamura",
+          "miniTexte": "1930. Dans de splendides décors enneigés, les épreuves et la douleur d'une femme mariée à un homme qui entretient une relation avec leur servante. Adaptation d'un roman de l'écrivaine Mitsuko Mizuashi, un mélodrame cotonneux et déchirant porté par Ayako Wakao (quelque 160 films dont _Les Musiciens de Gion_, _La Rue de la honte_, _Herbes flottantes _et certains des plus beaux films de Yasuzō Masumura).",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27015,
+              "duree": 92,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
@@ -83,6 +121,84 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 133861,
+      "idProg": 179,
+      "cycles": [
+        {
+          "idCycle": 738,
+          "idCategorie": 3217
+        }
+      ],
+      "idEvenement": 29703,
+      "typeEvenement": 13,
+      "libelleEvenement": "COMBINARDS DES POMPES FUNÈBRES (LES) (TOMURAISHI TACHI)",
+      "dateHeure": "2024-05-29T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154628,
+          "titre": "Combinards des pompes funèbres",
+          "art": "Les",
+          "titreVo": "Tomuraishi tachi",
+          "titreNx": "とむらい師たち",
+          "realisateurs": "Kenji Misumi",
+          "annee": 1968,
+          "generique": "Shintarō Katsu, Yūnosuke Itō, Arihiro Fujimura",
+          "miniTexte": "Une comédie satirique, à part dans la filmographie de Misumi : à la fin des années 60, un entrepreneur (exceptionnel Shintarō Katsu) se lance sur le marché de l'industrie funéraire, et s'attaque à la concurrence, féroce, armé de quelques idées révolutionnaires. Idées qui deviendront – génie des scénaristes – la norme aujourd'hui. Ōsaka, alors en plein chantier pour l'exposition universelle de 1970, sert de décor au film.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27017,
+              "duree": 89,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133862,
+      "idProg": 179,
+      "cycles": [
+        {
+          "idCycle": 738,
+          "idCategorie": 3217
+        }
+      ],
+      "idEvenement": 29705,
+      "typeEvenement": 13,
+      "libelleEvenement": "TEMPLE DU DÉMON (LE) (ONI NO SUMU YAKATA)",
+      "dateHeure": "2024-05-30T17:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154630,
+          "titre": "Temple du démon",
+          "art": "Le",
+          "titreVo": "Oni no sumu yakata",
+          "titreNx": "鬼の棲む舘",
+          "realisateurs": "Kenji Misumi",
+          "annee": 1969,
+          "generique": "Shintarō Katsu, Hideko Takamine, Michiyo Aratama",
+          "miniTexte": "Une femme rejoint un temple reculé dans les montagnes de Kyoto. Elle y retrouve son mari, qui vit là avec une prostituée. Une rivalité perverse s'installe entre les deux femmes, bientôt bousculée par l'arrivée d'un prêtre bouddhiste. L'un des films les plus étonnants de Misumi, triangle amoureux retors, et huis clos claustrophobe, magnifié par la lumière incroyable de Kazuo Miyagawa (chef opérateur génial des _Contes de la lune vague après la pluie_, _L'Intendant Sansho_, _Herbes flottantes_, _Kagemusha_ entre autres chefs-d'œuvre). Shintarō Katsu, fidèle parmi les fidèles du réalisateur, délivre ici l'une de ses performances les plus folles, quand Michiyo Aratama (_La Condition de l'homme_, _Kwaïdan_, _Dernier Caprice_) dessine l'un des personnages féminins les plus forts et dérangeants du cinéma japonais d'après-guerre.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27021,
+              "duree": 76,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 130781,
@@ -288,11 +404,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30567,
-          "titre": "DIALOGUE AVEC JEAN-CHRISTOPHE FERRARI",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Jean-Christophe Ferrari",
+          "texte": "Lion d'or à Venise en 1962, _Journal intime_ est l'un des films les plus déchirants qui soient. Le film où Valerio Zurlini a exprimé avec le plus de netteté son lyrisme mélancolique en perpétuelle quête de grâce. Un film où les différents éléments de la mise en scène – emploi des couleurs, sens du paysage, direction d'acteurs, musique – se répondent et s'enrichissent les uns les autres jusqu'à trouver un parfait point d'équilibre et d'harmonie. — Jean-Christophe Ferrari",
+          "duree": 60
         }
       ]
     },
@@ -1207,11 +1324,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30751,
-          "titre": "DIALOGUE AVEC FRÉDÉRIC BONNAUD",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Frédéric Bonnaud",
+          "texte": "On sait aujourd'hui que Valerio Zurlini est l'un des plus grands cinéastes italiens de l'après-guerre. Il appartient à la génération qui succède au néoréalisme et connaîtra une carrière à la fois brillante et fragile, avec de graves insuccès tels que _Le Professeur_, avec Alain Delon, aujourd'hui adulé à très juste titre. _La Fille à la valise_ est son film le plus connu et le premier rôle principal de Claudia Cardinale, qui vient de tourner _Rocco et ses frères_ avec Visconti. Elle est ici au-delà de tout éloge. Mélodrame ensoleillé et estival, comme si l'humiliation et les larmes étaient encore plus amères en plein soleil, grand art de la rétention et de la mesure, et premier sommet d'un cinéaste pudique et secret. – Frédéric Bonnaud",
+          "duree": 60
         }
       ]
     },
@@ -1612,11 +1730,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30674,
-          "titre": "DIALOGUE AVEC LÉO SOESANTO",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Léo Soesanto",
+          "texte": "« C'est comme une opération à cœur ouvert », disait le cinéaste John Frankenheimer de _Ce plaisir qu'on dit charnel_. Et on peut difficilement faire plus honnête et intemporel que cette dissection des rapports hommes-femmes. Le plaisir, chez Mike Nichols, est d'abord celui que procurent les acteurs, ici un quatuor poignant. La photographie discrètement élégante de Giuseppe Rottuno (_Le Guépard_, _Amarcord_) est le parfait écrin pour leur impuissance et insécurité. — Léo Soesanto",
+          "duree": 60
         }
       ]
     },
@@ -2644,11 +2763,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30774,
-          "titre": "DIALOGUE AVEC OLIVIER ASSAYAS",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Olivier Assayas",
+          "texte": "Robert Bresson est le cinéaste dont l'œuvre m'a le plus marqué. C'est sans doute parce que ses films transcendent le cinéma. Parce qu'il est l'un des plus grands artistes du XX<sup>e</sup> siècle. Et dans ses derniers films, que j'ai découverts lors de leur sortie en salle, moi-même porté par une vocation dont j'étais encore incertain d'où elle me mènerait, il m'est apparu comme le nord magnétique sur lequel régler ma boussole, le témoin, visionnaire, d'un monde ayant perdu ses valeurs et ses repères, abandonné à un matérialisme sans issue. L'œuvre de Robert Bresson ne fera que grandir parce que c'est chez lui que les jeunes cinéastes présents et à venir viendront chercher, comme je l'ai fait, le cinéma dans toute sa clarté, miroir non pas du monde mais de l'âme. — Olivier Assayas",
+          "duree": 60
         }
       ]
     },
@@ -2816,11 +2936,12 @@
       "typeAssoc": 118,
       "items": [
         {
+          "ordre": 1,
           "idConf": 30641,
-          "titre": "LEÇON DE CINÉMA DE RUSSELL CARPENTER",
-          "typeConference": "Leçon de cinéma",
-          "duree": 60,
-          "ordre": 1
+          "idTypeConf": 15,
+          "titre": "Leçon de cinéma de Russell Carpenter",
+          "texte": "Jusqu'alors directeur de la photographie du _Cobaye_ ou de _Chasse à l'homme_ de John Woo, Russell Carpenter se voit confier la photographie de _True Lies_ en 1994. James Cameron, lui-même hyper exigeant, remarque que son directeur photo est « très méticuleux », qu'il sait travailler en équipe, et « qu'il a les yeux qui brille quand il voit quelque chose qu'il aime ». Carpenter enchaîne, en 70 mm et en 3D, avec _Terminator 2 3D_ (1996), destiné au parc d'attractions d'Universal, puis le voilà embarqué sur le _Titanic_. Tourné en Super 35 mm, le film regorge de prises de vues sous-marines, de trucages mixant _morphing_, maquettes, animation de caches, _motion control_, _compositing_. Un tournage difficile, mais on connaît la suite : triomphe international, recettes extraordinaires... et un Oscar pour Carpenter. Le deuxième _Avatar_, _La Voie de l'eau_, tourné en _performance capture_ et en 3D avec des outils révolutionnaires, est le premier film 4K en relief, en HDR (High Dynamic Range), en son Dolby Atmos et, enfin, en HFR (High Frame Rate), soit 48 images par seconde, offrant des mouvements d'une fluidité parfaite. C'est dire la complexité du tournage. Mais comme le dit Cameron : « If the shoot's not exciting, the film's not going to be exciting! » — Laurent Mannoni",
+          "duree": 60
         },
         {
           "ordre": 2,
@@ -2971,11 +3092,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30642,
-          "titre": "DIALOGUE AVEC SERGE CHAUVIN",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Serge Chauvin",
+          "texte": "Dix ans après _Assurance sur la mort_ de Billy Wilder (avec déjà Fred MacMurray), Richard Quine met les mythes du film noir à l'épreuve d'une décennie consumériste, aux surfaces rutilantes mais aux rêves étroits, entre glamour et prosaïsme. Dans ce monde clos, voyeuriste et duplice, avide de contrôler le visible et le temps, tout élan sincère vient gripper la machine. Face à un antihéros dévoyé, Quine lance Kim Novak, ingénue paradoxale, d'emblée star mais non vamp, moins destin que désir. — Serge Chauvin",
+          "duree": 60
         }
       ]
     },
@@ -3306,11 +3428,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30675,
-          "titre": "DIALOGUE AVEC ARNAUD DESPLECHIN",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Arnaud Desplechin",
+          "texte": "« Fantaisie gay sur les thèmes nationaux », pour reprendre le titre complet de la pièce de théâtre de Tony Kushner, cette mini-série, qui en adapte le texte, se déploie en deux parties : _Le Millenium approche_ et _Perestroïka_. On y croise des amants désunis, des malades démunis, des personnages historiques et, bien sûr, des anges. Le film de Mike Nichols est sorti en salles sous cette forme à New York en 2003. En 2020, Arnaud Desplechin a signé la mise en scène de cette œuvre du dramaturge américain et son entrée au répertoire de la Comédie-Française, perpétuant ainsi la mémoire de ces _Angels in America_, véritable ode à la vie. — Isaac Gaido-Daniel",
+          "duree": 60
         }
       ]
     },
@@ -3677,11 +3800,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30568,
-          "titre": "DIALOGUE AVEC MURIELLE JOUDET",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Murielle Joudet",
+          "texte": "_Liaisons secrètes_ est une confession brûlante, un film presque trop grave pour les années 60. Il est comme lesté du poids des sentiments de Quine pour son actrice et compagne Kim Novak. Quelque chose dans la peau même de cette femme incite aux chants d'amour douloureux, aux impasses romantiques qui font toujours les plus beaux films. L'amour, ici, est une anomalie : comment peut-il surgir d'un paysage aussi médiocre ? Croître entre les maisons bien alignées d'une banlieue résidentielle et les rayonnages tout aussi réguliers d'un supermarché ? Face à cette petitesse du paysage, du voisinage et donc des affects, Quine voit grand pour son couple d'amants, et répond en architecte. — Murielle Joudet",
+          "duree": 60
         }
       ]
     },
@@ -3805,11 +3929,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30775,
-          "titre": "DIALOGUE AVEC OLIVIER ASSAYAS",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Olivier Assayas",
+          "texte": "Parmi les œuvres qui m'ont marqué figure à une place particulière, et intime, _In girum imus nocte et consumimur igni_, sans doute le chef-d'œuvre de ce cinéaste méconnu qu'est paradoxalement Guy Debord, dont les œuvres théoriques, politiques autant que littéraires, ont éclipsé le cinéma. Il existe pourtant quelques films, une poignée, qui assureront sa place, unique, entièrement singulière dans l'histoire du septième art. Pour moi, la rencontre avec ce film a été la rencontre avec la poésie de mon époque. Le sentiment d'être au cœur incandescent des passions de mon temps, comme si ce film ignoré, mal compris, méprisé lors de sa sortie, était fait pour moi. Et il m'a accompagné toute ma vie jusqu'à ce que je puisse même lui rendre une infime part de ce qu'il m'a donné en contribuant activement à sa restauration, puis à sa résurrection. — Olivier Assayas",
+          "duree": 60
         }
       ]
     },
@@ -4049,11 +4174,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30570,
-          "titre": "DIALOGUE AVEC OLIVIER ASSAYAS",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Olivier Assayas",
+          "texte": "« J'avais treize ans en mai 68. Ni enfant ni encore adolescent, un drôle d'âge pour observer les événements qui allaient tout de même modeler les années de ma première jeunesse, modifier le cours de mon époque, bouleverser de fond en comble les valeurs de la société où j'avais grandi. » — Olivier Assayas (_Une adolescence dans l'après-Mai_)",
+          "duree": 60
         }
       ]
     },
@@ -4277,11 +4403,12 @@
       "duree": 60,
       "items": [
         {
+          "ordre": 1,
           "idConf": 30569,
-          "titre": "« ASSAYAS PAR ASSAYAS : DIALOGUE AUTOUR DE 4 EXTRAITS CHOISIS »",
-          "typeConference": "Leçon de cinéma",
-          "duree": 60,
-          "ordre": 1
+          "idTypeConf": 15,
+          "titre": "Assayas par Assayas : dialogue autour de 4 extraits choisis",
+          "texte": "Comme l'indique le titre de cette séance, il ne s'agira pas cette fois de projeter un film en entier, mais 4 extraits de films, tous choisis par et avec Olivier Assayas : 3 extraits retenus dans ses propres films et 1 dans le film d'un autre cinéaste, autant de titres dont la surprise sera gardée. Ce sera ainsi une façon aussi rare qu'évidente d'aborder un processus de création par sa mise en scène. Cette séance aurait pu s'appeler « leçon de cinéma », si le terme ne s'avérait décidément trop encombrant. Il sera question, plus simplement, d'articuler les énigmes de la création, toujours intuitive, avec la rigueur, ou plutôt la clarté du processus qui y conduit et qui est celui du travail, au jour le jour, plan par plan.",
+          "duree": 60
         }
       ]
     },
@@ -5110,11 +5237,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30776,
-          "titre": "DIALOGUE AVEC OLIVIER ASSAYAS",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Olivier Assayas",
+          "texte": "Bo Widerberg, dont les films ont été longtemps invisibles, après avoir marqué les années 70 du siècle passé, a été récemment redécouvert, réévalué, et remis à sa juste place, celle d'un des cinéastes importants de la modernité de son époque. Sans doute les cinéastes suédois de sa génération ont-ils subi d'être dans l'ombre de Bergman. Mais l'œuvre de Widerberg, empreinte d'humanisme, baignée des couleurs de l'impressionnisme comme l'a été celle de Maurice Pialat, ne pâlit pas de la comparaison ; après avoir été un disciple scandinave de la Nouvelle Vague avec des films aussi marquants que _Quartier du corbeau_, il trouve sa voie toute personnelle dans les œuvres lumineuses de sa maturité comme _Ådalen 31_, _Joe Hill_, ou _Elvira Madigan_. — Olivier Assayas",
+          "duree": 60
         }
       ]
     },
@@ -5791,11 +5919,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30571,
-          "titre": "DIALOGUE AVEC JEAN-BAPTISTE THORET",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Jean-Baptiste Thoret",
+          "texte": "D'un côté, Max, clochard à vie, le macadam pour horizon et les poches pleines de plans sur la comète. De l'autre, « Lion » (le lion du _Magicien d'Oz_ ?), en chemin depuis longtemps lui aussi avec l'espoir de rentrer un jour à la maison : _there's no place like home_, mais encore faut-il que ce chez-soi existe encore. L'un imagine aller toujours de l'avant, l'autre rêve de revenir en arrière. Au terme d'un voyage qui évoque les années 1930 – ce temps des passagers clandestins à bord de trains de marchandises –, il n'y a peut-être que le terminus d'un violent désenchantement. Mais au moins y a-t-il eu entretemps une rencontre aussi belle qu'improbable, une fraternité même, et idéalement la confirmation que, pour le meilleur et pour le pire, la route se prend à deux. — Bernard Benoliel, Jean-Baptiste Thoret",
+          "duree": 60
         }
       ]
     },
@@ -7123,11 +7252,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30574,
-          "titre": "DIALOGUE AVEC CHRISTOPHE GANS",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Christophe Gans",
+          "texte": "De tous les films réalisés par Chang Cheh, _Le Justicier de Shanghaï_ (sorti sous le titre _La Brute, le Bonze et le Méchant_) était le plus avidement recherché. En 1976, il passait fort peu dans les salles : son interdiction aux moins de 18 ans en avait fait une rareté. De fait, ce film d'une réelle profondeur thématique est resté le plus apocalyptique de la filmo pourtant dévastatrice du cinéaste. Considéré à juste titre comme l'équivalent chinois de _La Horde sauvage_, il organise le plus grand massacre à mains nues jamais chorégraphié à la Shaw pour atteindre à une sauvagerie épique qui peut paraître, si l'on ne connait pas les obsessions de son auteur, étrangement sensuelle. Pas étonnant que John Woo ait été premier assistant sur ce monument écarlate... — Christophe Gans",
+          "duree": 60
         }
       ]
     },
@@ -7517,11 +7647,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30573,
-          "titre": "DIALOGUE AVEC STÉPHANE DU MESNILDOT",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Stéphane du Mesnildot",
+          "texte": "Comme dans _La Rage du tigre_, la mutilation du héros chez Chang Cheh mène à sa reconstruction surhumaine et la rencontre décisive avec son frère de sang. _La Vengeance des infirmes_ pousse ce principe jusqu'au délire puisque les culs-de-jatte, manchots, sourds-muets ou idiots, s'associent pour former un corps invincible. Beau comme la rencontre dans les studios de la Shaw Brothers entre Tod Browning et le film de sabre. — Stéphane du Mesnildot",
+          "duree": 60
         }
       ]
     },
@@ -7998,11 +8129,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30572,
-          "titre": "DIALOGUE AVEC ROBERT M. RUBIN",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Robert M. Rubin",
+          "texte": "_Point limite zéro_ est le film ultime de course-poursuite automobile, avec ce _je-ne-sais-quoi_ en plus. Écrit par le célèbre romancier cubain Guillermo Cabrera Infante sous le pseudonyme de Guillermo Cain, c'est la saga d'un vétéran du Vietnam accro à la vitesse, en fuite existentielle à bord d'une Dodge Challenger. C'est aussi un western moderne, une allégorie dystopique sur notre société de surveillance et une lettre d'amour aux moteurs surgonflés (_muscle cars_), le tout en un seul film. Pas étonnant qu'il soit devenu culte, adulé et cité comme référence par Quentin Tarantino, Steven Spielberg, Bruce Springsteen, Richard Prince, Guns'n'Roses, Primal Scream, Audioslave, et tant d'autres. — Robert M. Rubin",
+          "duree": 60
         }
       ]
     },
@@ -8161,11 +8293,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30575,
-          "titre": "DIALOGUE AVEC MARCOS UZAL",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Marcos Uzal",
+          "texte": "Dans un internat de Marseille dont nous ne sortirons pas, toutes les couches sociales se croisent lors d'un triste réveillon « des orphelins qui n'ont pas perdu leurs parents ». Les uns sont trop pauvres pour la fête, les autres trop riches pour déranger les agapes d'une famille qui les délaisse. La violence de la guerre 14-18 persiste dans la blessure de monsieur Blanchard (génial Henri Poupon), cet œil mort qui effraie les enfants. Et les colonies affleurent dans le manque d'un père, qu'il soit roi d'un pays lointain ou ouvrier de l'autre côté de la mer. _Merlusse_, c'est un peu le chaînon manquant entre _Zéro de conduite_ de Jean Vigo et _La Maison des bois_ de Pialat. — Marcos Uzal",
+          "duree": 60
         }
       ]
     },

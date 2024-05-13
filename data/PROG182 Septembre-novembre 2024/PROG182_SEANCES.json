@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-13T07:51:29.931Z",
+  "updatedAt": "2024-05-13T12:05:11.250Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1449,11 +1449,11 @@
       "duree": 60,
       "items": [
         {
+          "ordre": 1,
           "idConf": 30964,
-          "titre": "FILM + DIALOGUE AVEC ALEXANDRE PILETITCH",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 1
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Alexandre Piletitch",
+          "duree": 60
         }
       ]
     },
@@ -2198,11 +2198,11 @@
       "duree": 90,
       "items": [
         {
+          "ordre": 1,
           "idConf": 31027,
-          "titre": "CONFÉRENCE GANCE MOURIER",
-          "typeConference": "Conférence",
-          "duree": 90,
-          "ordre": 1
+          "idTypeConf": 55,
+          "titre": "Conférence de Georges Mourier",
+          "duree": 90
         }
       ]
     },
@@ -6761,11 +6761,11 @@
       "duree": 90,
       "items": [
         {
+          "ordre": 1,
           "idConf": 30968,
-          "titre": "CONFÉRENCE OMIRBAEV",
-          "typeConference": "Conférence",
-          "duree": 90,
-          "ordre": 1
+          "idTypeConf": 55,
+          "titre": "Conférence Omirbaev",
+          "duree": 90
         }
       ]
     },
@@ -10982,11 +10982,11 @@
       "duree": 90,
       "items": [
         {
+          "ordre": 1,
           "idConf": 31048,
-          "titre": "CONFÉRENCE DU CONSERVATOIRE NOVEMBRE 2024",
-          "typeConference": "Conférence",
-          "duree": 90,
-          "ordre": 1
+          "idTypeConf": 55,
+          "titre": "Conférence du conservatoire Novembre 2024",
+          "duree": 90
         }
       ]
     },
@@ -11178,11 +11178,11 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30975,
-          "titre": "CLAUDE LELOUCH PAR CLAUDE LELOUCH, UNE LEÇON DE CINÉMA",
-          "typeConference": "Leçon de cinéma",
-          "duree": 90,
-          "ordre": 2
+          "idTypeConf": 15,
+          "titre": "Claude Lelouch par Claude Lelouch, une leçon de cinéma",
+          "duree": 90
         }
       ]
     },

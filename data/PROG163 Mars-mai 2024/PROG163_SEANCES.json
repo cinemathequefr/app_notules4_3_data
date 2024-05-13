@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-07T15:37:24.723Z",
+  "updatedAt": "2024-05-13T12:04:06.017Z",
   "data": [
     {
       "idSeance": 123138,
@@ -90,11 +90,12 @@
       "duree": 90,
       "items": [
         {
+          "ordre": 1,
           "idConf": 30009,
-          "titre": "GAUMONT-PALACE, DEMANDEZ LE PROGRAMME !",
-          "typeConference": "Conférence",
-          "duree": 90,
-          "ordre": 1
+          "idTypeConf": 55,
+          "titre": "Gaumont-Palace, demandez le programme !",
+          "texte": "À l'occasion de la publication de _Demandez le programme ! Une histoire du cinéma (1894-1930) vue par les programmes des lieux de projection_ (Créaphis, 2024), actes de la journée d'étude tenue à la Cinémathèque française le 28 février 2020, retour sur l'histoire du « plus grand cinéma du monde », le Gaumont-Palace de la place Clichy à Paris. D'abord hippodrome, ensuite cinéma en 1911, cette salle mythique et populaire ferme ses portes en 1972, après avoir connu toutes les innovations techniques, du sonore au Cinérama. Présentation de documents rares, étude des programmes pendant la Grande Guerre. Cette conférence sera suivie à 16h d'une signature par Laurent Mannoni et Laurent Véray de leur ouvrage _Demandez le programme !_ à la librairie de la Cinémathèque.",
+          "duree": 90
         }
       ]
     },
@@ -467,11 +468,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 29996,
-          "titre": "MARCHÉ DE BRUTES + DIALOGUE SERGE CHAUVIN",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Serge Chauvin",
+          "texte": "Anthony Mann s'affirme d'abord comme un maître du film noir, puisant dans les contraintes de la série B une exigence d'expressivité maximale dans la composition, les angles de caméra, la profondeur de champ. À la Eagle-Lion, sa rencontre avec le chef opérateur John Alton lui permet d'affiner un style plastique qui « peint en lumière » et sculpte les ténèbres, où chaque plan est porté à incandescence. Les extérieurs réels en sont dramatisés, les décors de studio lestés d'un poids concret. Avant d'être appliqué au film historique et au western, ce ténébrisme matérialise dans _Marché de brutes_ une réflexion morale sur la violence, et transmue le fait divers en tragédie. — Serge Chauvin",
+          "duree": 60
         }
       ]
     },
@@ -960,11 +962,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 29997,
-          "titre": "JE SUIS UN AVENTURIER + DIALOGUE AVEC BERNARD BENOLIEL",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Bernard Benoliel",
+          "texte": "\": 9,\r\n        \"texte\": \"De 1950 à 1955, Anthony Mann et James Stewart tournent huit films ensemble dont cinq westerns, parmi les plus beaux du genre, le cinéaste et l'acteur accomplissant un geste esthétique d'envergure. Il faudra revenir sur le trajet de Stewart et la réinvention de son jeu dans l'après-guerre. Quant à ces westerns qui sont comme les cinq doigts de la main, cela vaut la peine de relever aussi ce qui les distingue. Entre le premier, _Winchester '73_, et le quatrième, _Je suis un aventurier_, tous deux scénarisés par Borden Chase pour le studio Universal, l'un en noir et blanc et l'autre en couleur, il s'agira ainsi de mesurer le chemin parcouru ou le terrain perdu. Car si de l'un à l'autre, le personnage selon Mann traverse une même étendue américaine, il ne la traverse visiblement plus de la même façon. À titre d'indice, disons que de ces cinq westerns, _Je suis un aventurier_ est celui qui se situe historiquement le plus tard : en 1896, la conquête de l'Ouest est terminée et le continent largement quadrillé. Peut-on encore être libre sans espace ? — Bernard Benoliel",
+          "duree": 60
         }
       ]
     },
@@ -2380,11 +2383,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 29998,
-          "titre": "LE CID + DIALOGUE AVEC JEAN-FRANÇOIS RAUGER",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Jean-François Rauger",
+          "texte": "_Le Cid_ incarne exemplairement la stratégie de délocalisation (le film est tourné en Espagne) et de monumentalisation (il a coûté plus de sept millions de dollars) d'une industrie sur le déclin. C'est aussi l'un des grands titres de la fin de la carrière d'Anthony Mann qui, avec _L'Homme de la plaine_ en 1955, était passé au Cinémascope, inaugurant ainsi formellement une troisième période après celle du noir et blanc, puis celle du passage à la couleur. Il fallait donc ce gigantisme du cadre et de l'image pour conjuguer les fracas de la guerre et de la politique avec la douceur cruelle et muette de sentiments inconciliables. L'ultime héros mannien est, une fois de plus, sommé de choisir. Alors, _Le Cid_, avatar d'un système hollywoodien en pleine décadence ou continuation du western par d'autres moyens ? — Jean-François Rauger",
+          "duree": 60
         }
       ]
     },
@@ -2955,11 +2959,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 29999,
-          "titre": "MASTERCLASS JAMES CAMERON",
-          "typeConference": "Conférence",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 55,
+          "titre": "James Cameron par James Cameron, une leçon de cinéma",
+          "texte": "« _Terminator_ est né d'un rêve que j'ai eu en 1981, alors que j'étais à Rome, souffrant d'une forte fièvre. J'ai rêvé d'un squelette en chrome surgissant du feu tel un phénix. Quand je me suis réveillé, j'ai commencé à dessiner sur le papier à lettres de l'hôtel. La première esquisse montrait le squelette métallique coupé en deux à la taille, rampant sur un sol carrelé, utilisant un grand couteau de cuisine pour se tirer en avant tout en tendant l'autre main. Dans la seconde, ce même personnage menaçait une femme qui rampe. Le couteau de cuisine a disparu, mais ces images se retrouvent quasi à l'identique dans la scène finale de _Terminator_. » (James Cameron)",
+          "duree": 60
         }
       ],
       "mention": "Ouverture de la rétrospective"
@@ -4528,11 +4533,12 @@
       "typeAssoc": 117,
       "items": [
         {
+          "ordre": 1,
           "idConf": 30214,
-          "titre": "ANTONIONI ET LA COULEUR : « LES BLEUS NE SONT PAS TOUJOURS LE CIEL »",
-          "typeConference": "Conférence",
-          "duree": 90,
-          "ordre": 1
+          "idTypeConf": 55,
+          "titre": "« Les bleus ne sont pas toujours le ciel » : Antonioni et la couleur",
+          "texte": "_Le Désert rouge_, l'éblouissant premier film en couleur d'Antonioni, cristallise un intérêt pour l'esthétique de la couleur qui traverse toute la carrière du réalisateur, depuis ses premiers écrits critiques jusqu'à la série picturale des « Montagnes enchantées », en passant par l'expérience du _Mystère d'Oberwald_. À partir de recherches d'archives et d'analyses précises, cette conférence proposera une vue d'ensemble documentée sur la question de la couleur dans l'œuvre du réalisateur de Ferrare. — Federico Pierotti",
+          "duree": 90
         }
       ]
     },
@@ -4682,11 +4688,12 @@
       "duree": 90,
       "items": [
         {
+          "ordre": 1,
           "idConf": 30208,
-          "titre": "LE CINÉMA SOUS-MARIN, DES FRÈRES WILLIAMSON À TITANIC DE JAMES CAMERON",
-          "typeConference": "Conférence",
-          "duree": 90,
-          "ordre": 1
+          "idTypeConf": 55,
+          "titre": "Le cinéma sous-marin, de « Wonders of the Sea » des frères Williamson (1922) à « Titanic » de James Cameron (1997)",
+          "texte": "Les deux frères anglais Williamson ont consacré leur vie entière à la prise de vues cinématographiques sous-marines. Les courageux opérateurs travaillaient dans une « photosphère », boule en acier de plus de 4 tonnes déposée au fond de la mer. Une grande vitre transparente de 5 cm d'épaisseur, disposée au bout d'un cône métallique, permettait la prise de vues. C'était le premier studio mobile sous-marin, qui permit de découvrir un nouveau monde. À partir de cette expérience séminale, la technique se modifia progressivement, des premiers caissons avec caméra 35 mm au Snoop Dog, engin téléguidé de James Cameron ayant servi à explorer l'épave du Titanic. Conférence et projection à l'occasion des expositions « Objectif mer » au Musée de la marine et « L'Art de James Cameron » à la Cinémathèque française. Projection de _Wonders of the Sea_ des frères Williamson (1922) accompagnée à la harpe par Aliénor Mancip.",
+          "duree": 90
         }
       ]
     },
@@ -4897,11 +4904,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30215,
-          "titre": "FILM + DIALOGUE AVEC JULIEN DUPUY ET STEPHANE MOÏSSAKIS",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Julien Dupuy et Stéphane Moïssakis",
+          "texte": "Quand _Abyss_ sort en salles en 1989, le public peut prendre la pleine mesure du talent visionnaire de James Cameron. Désormais doté d'un budget à la hauteur d'ambitions inédites, le cinéaste déploie ses obsessions majeures dans un récit qu'il porte en lui depuis le début des années 70 : l'exploration sous-marine, des héros prolétaires en proie à une bureaucratie vorace, la propension de l'humanité à l'autodestruction... Et ce spectacle dantesque reste tout entier assujetti à une histoire d'amour à la pureté universelle. _Abyss_ est une rare occurrence de cinéma d'auteur à grand spectacle. — Julien Dupuy, Stéphane Moïssakis",
+          "duree": 60
         }
       ]
     },
@@ -6072,11 +6080,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30008,
-          "titre": "SORCERER + DIALOGUE AVEC ARTHUR HARARI ET NICOLAS PARISER",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Arthur Harari et Nicolas Pariser",
+          "texte": "Par quelque bout qu'on le prenne, _Sorcerer_ (_Le Convoi de la peur_) est un film chargé de symboles négatifs comme peu le sont : à l'intérieur comme à l'extérieur du film, des signes presque aberrants et paradoxaux se bousculent. Remake baroque d'un film classique, échec terminal d'un des rois dominant le cinéma américain d'alors, débauche de moyens spectaculaires au service d'une pure pulsion de mort, incarnation extrémiste de la liberté auteuriste du Nouvel Hollywood... qui en marque précisément le brutal déclin : sorti une semaine après _La Guerre des étoiles_, qui l'éclipse aussitôt de façon humiliante, le film met en vedette le même acteur (qui ne sera jamais une star, Roy Scheider) que dans _Les Dents de la mer_, qui deux ans plus tôt inventait le blockbuster. _Sorcerer_ est un film (auto)destructeur qui pousse tout trop loin, à l'image de son prologue narrativement monstrueux. Que le meilleur film de Friedkin soit aussi le moins taillé pour le succès est son paradoxe le plus troublant, vu la soif de grandeur de son auteur. — Arthur Harari, Nicolas Pariser",
+          "duree": 60
         }
       ]
     },
@@ -7006,11 +7015,12 @@
       "typeAssoc": 117,
       "items": [
         {
+          "ordre": 1,
           "idConf": 30001,
-          "titre": "QUI ÊTES-VOUS... KENJI MISUMI ?",
-          "typeConference": "Conférence",
-          "duree": 90,
-          "ordre": 1
+          "idTypeConf": 55,
+          "titre": "Qui êtes-vous… Kenji Misumi ?",
+          "texte": "Alors que la Daiei présente aux yeux du monde, dans la première moitié des années 50, _Rashōmon_ d'Akira Kurosawa, _Les Contes de la lune vague après la pluie_ de Kenji Mizoguchi ou _La Porte de l'enfer_ de Teinosuke Kinugasa, Kenji Misumi entre dans cette société de production par la petite porte pour y réaliser, à un rythme industriel, une série de films de complément ayant peu de chances de rejoindre la sélection des festivals internationaux. Les films de ce cinéaste de studio discret témoigneront pourtant d'une inventivité plastique qui transformera, au fil des ans, l'artisan besogneux en l'un des grands auteurs de son siècle. Accompagnant les instants décisifs de l'histoire du cinéma japonais, du zénith au nadir de son rayonnement culturel et économique, de quoi la quête d'absolu d'artistique de Misumi est-elle le nom ? — Clément Rauger",
+          "duree": 90
         }
       ]
     },
@@ -7155,11 +7165,12 @@
       "duree": 0,
       "items": [
         {
+          "ordre": 1,
           "idConf": 30318,
-          "titre": "JOURNÉE D'ÉTUDES : DESSINS DE CINÉMA ÉNIGMES GRAPHIQUES, ANALYSES FILMIQUES",
-          "typeConference": "Conférence",
-          "duree": 0,
-          "ordre": 1
+          "idTypeConf": 55,
+          "titre": "Dessins de cinéma : énigmes graphiques, analyses filmiques",
+          "texte": "L'enjeu sera d'interroger le rôle et le statut singulier des dessins préparatoires pour les décors de films, en les considérant autrement que sous l'angle de leur seule ressemblance mimétique au film. Deux objectifs : d'une part, leur autonomie formelle, leur singularité graphique, qui emprunte à l'histoire des représentations, à l'art (la peinture), l'architecture (le plan), la géométrie (la perspective). Et, d'autre part, le rapport renouvelé qu'ils entretiennent avec le réel (esthétique, politique). Nous partons de l'hypothèse que les informations qu'ils délivrent sur le film en font un outil privilégié pour renouveler son analyse. En permettant un regard de biais, à partir des figures dessinées et des lieux qui leur sont liés, les dessins posent des « énigmes graphiques » qui invitent à renouveler le regard que l'on pose sur les formes filmées et les catégories pour les nommer. Emmanuelle André (université Paris Cité), Joséphine Jibokji (université de Lille). Au programme : rencontres avec des historiens d'art, du cinéma et de la peinture, des décorateurs, des illustrateurs, des commissaires d'exposition. Parmi les œuvres étudiées : les collages de Godard, les dessins de Paradjanov et d'Eisenstein, les partitions de Rose Lowder, l'art graphique de Todd Haynes et de Kelly Reichardt, les compositions de James Cameron...\\nProgramme détaillé sur cinematheque.fr et femis.fr\\n\\nJeudi 25 avril (9h30-18h) à la Cinémathèque française\\nVendredi 26 avril (9h30-18h30) à la Fémis",
+          "duree": 0
         }
       ]
     },
@@ -7628,11 +7639,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30000,
-          "titre": "BABYCART L'ENFANT DU MASSACRE + DIALOGUE AVEC FABRICE ARDUINI",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Fabrice Arduini",
+          "texte": "Kenji Misumi (1921-1975) a été une sorte de force tranquille au cœur de la contrainte industrielle des années 50 et 60. Ce réalisateur salarié de la Daiei a toujours été convaincu, comme Yasuzō Masumura et Seijun Suzuki, que politique de studio et vision personnelle pouvaient faire bon ménage. Avec quelques autres artisans chevronnés de son studio, il a réussi à apporter une dose subtile d'originalité et d'humanité que l'on n'attendait pas a priori d'un genre hyperformaté comme le _chanbara_ (la « trilogie du sabre », _Le Passage du grand Bouddha_) ou de séries fondées sur l'exploitation à outrance des mêmes schémas reproduits à l'infini (Zatōichi, Nemuri Kyōshirō). Après la faillite de la Daiei en 1971, cet artiste qui s'est échiné à « exister dans un système bâti sur son absence » (Ōshima) a fini par littéralement se lâcher. _Baby Cart : l'Enfant massacre_ en est la preuve éclatante. — Fabrice Arduini",
+          "duree": 60
         }
       ]
     },
@@ -8859,11 +8871,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30003,
-          "titre": "JE NE SUIS PAS UN ANGE + DIALOGUE MAE WEST AVEC MURIELLE JOUDET",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Murielle Joudet",
+          "texte": "Après l'immense succès de _Lady Lou_ en 1933, Mae West a carte blanche pour son film suivant. Ce sera, la même année, _Je ne suis pas un ange_, dans lequel la diva réalise un caprice : incarner une dompteuse de lions. Milieu interlope, prétendants qui se bousculent à sa porte, punchlines et génie du double sens : le mythe Mae West se consolide et se répand dans ce film d'une liberté absolue, qui n'a d'autre but que de rendre gloire à cette divinité du sexe faisant escale à Hollywood – en seulement deux films, elle sauvera la Paramount de la banqueroute. — Murielle Joudet",
+          "duree": 60
         }
       ]
     },
@@ -9118,11 +9131,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30007,
-          "titre": "FILM + DIALOGUE AVEC JEAN-BAPTISTE THORET",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Jean-Baptiste Thoret",
+          "texte": "Qu'il s'agisse de l'un des films d'épouvante les plus emblématiques du cinéma américain est une chose aujourd'hui reconnue et acquise. À tel point que cet objet de culte mille fois revisité par la pop culture a même été vu par ceux qui n'ont toujours pas osé le regarder. _L'Exorciste_ parle à toutes nos peurs, intimes, religieuses, organiques, historiques, mais il en est une qui le rend peut-être encore plus effrayant que toutes les autres : celle d'une mère qui, un beau matin d'automne à Washington, ne reconnaît pas son enfant. Et si _L'Exorciste_ était, au fond, un mélodrame réaliste qui, à partir d'une catastrophe révolutionnaire (la possession), met en pièces l'Amérique de 1973 ? — Jean-Baptiste Thoret",
+          "duree": 60
         }
       ]
     },
@@ -10189,11 +10203,12 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 30004,
-          "titre": "LE CAMION + DIALOGUE AVEC BRUNO NUYTTEN",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Bruno Nuytten",
+          "texte": "« Lorsque j'ai rencontré Marguerite pour qu'elle me parle de ce nouveau projet (_Le Camion_), j'ai cru comprendre qu'elle voulait tourner à l'intérieur de la cabine d'un poids lourd. Elle serait au bord d'une route en hiver, vêtue de son manteau léopard, Gérard [Depardieu] au volant du camion. Elle lui fait signe, il s'arrête. Elle monte à bord. S'en suivait une longue conversation. Un road movie comme on en faisait à l'époque, façon _Two-Lane Blacktop_. C'est ce que j'imagine avec joie.\\n\\nPremier jour, aube. Le camion est là au rond-point à deux pas de chez elle. Un vent glacial. Nous filmons le départ du camion, direction Plaisir.\\n\\nMarguerite veut faire un plan à deux, profil-profil (elle à l'avant-plan, Gérard au volant). Nous devons démonter une portière du camion afin de mettre la caméra en déport à l'extérieur (chaînes et sangles), l'équipe est réduite, ça prend un peu de temps. Marguerite trépigne et grelotte : “Ça suffit... On va rentrer au chaud chez moi, on dira que c'est le camion, et toi Bruno, en attendant reste dans la cabine et va filmer les paysages de la Nationale 10 du côté de Trappes.”\\n\\nDe retour, elle nous attendait : “Moi je reste à table avec Gérard, toi tu n'as qu'à installer un rail ou deux pour faire des petits travellings si ça te chante...” » (Bruno Nuytten, 2023)",
+          "duree": 60
         }
       ]
     },
@@ -10834,11 +10849,12 @@
       "duree": 60,
       "items": [
         {
+          "ordre": 1,
           "idConf": 30211,
-          "titre": "DURAS / GODARD – DIALOGUES PAR JOANA PREISS ET OLIVIER MARTINAUD",
-          "typeConference": "Lecture",
-          "duree": 60,
-          "ordre": 1
+          "idTypeConf": 17,
+          "titre": "Duras/Godard : dialogues",
+          "texte": "L'une écrit et filme. L'autre est un grand cinéaste qui entretient un rapport distant à la matière texte. Ils se rencontrent plusieurs fois entre 1979 et 1987 ; ils échangent « deux ou trois choses » qui les aident à penser leur art et la question des relations entre l'écrit et l'image. Ils sont vifs, méchamment drôles (Sartre passe un mauvais quart d'heure) et lumineux. Ils parlent dans une école pendant la récréation, dans une automobile ou encore sur les passerelles aériennes de Lausanne. « Je lui ai dit qu'elles étaient belles. Il m'a dit que beaucoup de gens se jetaient de ces passerelles. J'ai dit qu'elles semblaient être faites exprès pour se tuer. Il m'a dit que oui. » Le ton est donné.",
+          "duree": 60
         }
       ]
     },
@@ -12437,11 +12453,12 @@
       "duree": 210,
       "items": [
         {
+          "ordre": 1,
           "idConf": 30011,
-          "titre": "OBJETS ET ACCESSOIRES DE CINÉMA, ARTEFACTS ET ICONES DU MONDE MODERNE",
-          "typeConference": "Conférence",
-          "duree": 210,
-          "ordre": 1
+          "idTypeConf": 55,
+          "titre": "Journée d'étude : Objets et accessoires de cinéma, artefacts et icônes du monde moderne",
+          "texte": "Le robot de _Métropolis_, la « Bible » du _Faust_ de Murnau, la tête de M<sup>me</sup> Bates dans _Psychose_, la luge de _Citizen Kane_, la statuette du _Faucon maltais_... Ces objets de cinéma sont devenus peu à peu des icônes du monde moderne, obtenant des prix de vente record, trouvant place, comme des œuvres d'art d'importance, dans de grands musées à travers le monde. Que contiennent les collections américaines, françaises, celles du Qatar – rarement explorées ? Comment distinguer un objet original d'une copie ? Comment expliquer le fétichisme qui entoure certains objets cinématographiques ? Le métier d'accessoiriste de cinéma est très ancien, mais son histoire n'a jamais été retracée : en quoi consiste-t-il ? Où se trouvent les grands magasins d'accessoires ? Des professionnels expliqueront leur quête, leur rôle, souvent essentiel pendant les tournages.\\nEn partenariat avec l'Association française des accessoiristes de plateau (AFAP). Programme détaillé sur cinematheque.fr",
+          "duree": 210
         }
       ]
     },
@@ -12765,8 +12782,7 @@
               "idCopie": 18034,
               "duree": 62,
               "format": "DCP",
-              "version": "VO",
-              "stDemande": true
+              "version": "VO"
             }
           ]
         }
