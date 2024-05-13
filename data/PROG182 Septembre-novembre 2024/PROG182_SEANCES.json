@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-07T15:33:05.009Z",
+  "updatedAt": "2024-05-13T07:51:29.931Z",
   "data": [
     {
       "idSeance": 130975,
@@ -767,7 +767,7 @@
       ]
     },
     {
-      "idSeance": 133695,
+      "idSeance": 133858,
       "idProg": 182,
       "cycles": [
         {
@@ -777,27 +777,25 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30042,
+      "idEvenement": 30673,
       "typeEvenement": 13,
-      "libelleEvenement": "BARBE-ROUSSE",
+      "libelleEvenement": "DAME AUX CAMÉLIAS (LA)",
       "dateHeure": "2024-09-01T20:15:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 48586,
-          "titre": "Barbe-Rousse",
-          "realisateurs": "Abel Gance",
-          "annee": 1917,
-          "generique": "Léon Mathot, Emile Keppens, Henri Maillard",
-          "synopsis": "Un journaliste commet lui-même des méfaits afin d'être le premier à les annoncer dans son journal.",
+          "idFilm": 50899,
+          "titre": "Dame aux camélias",
+          "art": "La",
+          "realisateurs": "Abel Gance, Fernand Rivers",
+          "annee": 1934,
+          "adaptation": "D'après le roman _La Dame aux camélias_ d'Alexandre Dumas fils.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 28073,
-              "duree": 96,
-              "format": "DCP",
-              "intertitres": "INT. FR."
+              "idCopie": 28114,
+              "duree": 110
             }
           ]
         }
@@ -1238,6 +1236,40 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131243,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30080,
+      "typeEvenement": 13,
+      "libelleEvenement": "MARIE TUDOR",
+      "dateHeure": "2024-09-06T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31916,
+          "titre": "Marie Tudor",
+          "realisateurs": "Abel Gance",
+          "annee": 1966,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28144,
+              "duree": 207,
+              "format": "Numérique"
             }
           ]
         }
@@ -3318,7 +3350,7 @@
       ]
     },
     {
-      "idSeance": 131573,
+      "idSeance": 133859,
       "idProg": 182,
       "cycles": [
         {
@@ -3328,56 +3360,29 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30931,
+      "idEvenement": 30087,
       "typeEvenement": 13,
-      "libelleEvenement": "AUTOUR DE : LA ROUE / NAPOLÉON / LA FIN DU MONDE",
+      "libelleEvenement": "POLICHE",
       "dateHeure": "2024-09-19T18:30:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 73466,
-          "titre": "Autour de La Roue",
-          "realisateurs": "Blaise Cendrars",
-          "annee": 1923,
-          "synopsis": "Documentaire sur le tournage de _La Roue_ d'Abel Gance.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28105,
-              "duree": 17,
-              "format": "35 mm"
-            }
-          ]
-        },
-        {
-          "ordre": 2,
-          "idFilm": 73467,
-          "titre": "Autour de Napoléon",
-          "realisateurs": "Jean Arroy",
-          "annee": 1925,
+          "idFilm": 48660,
+          "titre": "Poliche",
+          "realisateurs": "Abel Gance",
+          "annee": 1934,
           "status": 0,
           "copies": [
             {
-              "idCopie": 28106,
-              "duree": 21,
-              "format": "35 mm"
-            }
-          ]
-        },
-        {
-          "ordre": 3,
-          "idFilm": 154301,
-          "titre": "Autour de La Fin du monde",
-          "realisateurs": "Eugène Deslaw",
-          "annee": 1930,
-          "synopsis": "Abel Gance et son équipe se lancent dans le cinéma parlant. Leurs prouesses techniques permettent des prises de vue impressionnantes. Des essais d'acteurs et des plans coupés au montage s'interposent aux scènes de tournage.",
-          "status": 2,
-          "copies": [
+              "idCopie": 28112,
+              "duree": 89,
+              "format": "16 mm"
+            },
             {
-              "idCopie": 25544,
-              "duree": 15,
-              "format": "DCP"
+              "idCopie": 28113,
+              "duree": 90,
+              "format": "16 mm"
             }
           ]
         }
@@ -3465,6 +3470,72 @@
       ]
     },
     {
+      "idSeance": 131573,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30931,
+      "typeEvenement": 13,
+      "libelleEvenement": "AUTOUR DE : LA ROUE / NAPOLÉON / LA FIN DU MONDE",
+      "dateHeure": "2024-09-19T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 73466,
+          "titre": "Autour de La Roue",
+          "realisateurs": "Blaise Cendrars",
+          "annee": 1923,
+          "synopsis": "Documentaire sur le tournage de _La Roue_ d'Abel Gance.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28105,
+              "duree": 17,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 73467,
+          "titre": "Autour de Napoléon",
+          "realisateurs": "Jean Arroy",
+          "annee": 1925,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28106,
+              "duree": 21,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 154301,
+          "titre": "Autour de La Fin du monde",
+          "realisateurs": "Eugène Deslaw",
+          "annee": 1930,
+          "synopsis": "Abel Gance et son équipe se lancent dans le cinéma parlant. Leurs prouesses techniques permettent des prises de vue impressionnantes. Des essais d'acteurs et des plans coupés au montage s'interposent aux scènes de tournage.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 25544,
+              "duree": 15,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 131611,
       "idProg": 182,
       "cycles": [
@@ -3540,6 +3611,101 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131615,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30074,
+      "typeEvenement": 13,
+      "libelleEvenement": "SÉANCE MAGIRAMA",
+      "dateHeure": "2024-09-20T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 73462,
+          "titre": "14 juillet 1953",
+          "realisateurs": "Abel Gance",
+          "annee": 1954,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28126,
+              "duree": 14,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 73472,
+          "titre": "Magirama (J'accuse)",
+          "realisateurs": "Abel Gance, Nelly Kaplan",
+          "annee": 1956,
+          "dureeStd": 57,
+          "generique": "Abel Gance, Robert Vattier",
+          "synopsis": "Abel Gance développe le dispositif de projection sur trois écrans éprouvé avec _Napoléon_ en 1928, avec les images du _J'accuse_ de 1937. Il revient donc une nouvelle fois sur la Première guerre Mondiale dans un format permettant de restituer l'ampleur du traumatisme vécu.",
+          "commentaire": "Abel Gance expérimente la polyvision dans trois séquences de _Napoléon_ en 1927. Elle lui permet de développer sur trois écrans une narration qui révèle la capacité du cinéma à raconter autrement. Ces triptyques créent une expérience filmique et spectatorielle nouvelle. Mais difficiles à exploiter, Gance doit attendre près de trente ans pour renouveler l'essai. Il conçoit en 1954, avec le soutien du CNC, le Proterama, « polyphonie visuelle » qui permet de « voir simultanément le dessin mélodique du sujet (écran central) et son orchestration (écrans latéraux) ». Ce n'est que le 19 décembre 1956 que l'on peut découvrir, au Studio 28, le Magirama, spectacle qui concrétise ces recherches. Composé avec Nelly Kaplan, le dispositif comprend quatre courts métrages : _Auprès de ma blonde_, _Châteaux de nuages_, _Fête foraine_, _Begone Dull Care_ de Norman MacLaren et une version d'une heure du _J'accuse_ de 1937. Conçu pour « sauver le cinéma qui se meurt », le Magirama quitta l'affiche au bout de huit semaines.\n\nBéatrice de Pastre",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28128,
+              "duree": 60,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 73474,
+          "titre": "Fête foraine",
+          "realisateurs": "Abel Gance",
+          "annee": 1956,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28130,
+              "duree": 15
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 73475,
+          "titre": "Château de nuages",
+          "realisateurs": "Abel Gance",
+          "annee": 1956,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28131,
+              "duree": 0
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 73473,
+          "titre": "Auprès de ma blonde",
+          "realisateurs": "Abel Gance",
+          "annee": 1956,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28132,
+              "duree": 15
             }
           ]
         }
@@ -10132,7 +10298,7 @@
       ]
     },
     {
-      "idSeance": 132970,
+      "idSeance": 133849,
       "idProg": 182,
       "cycles": [
         {
@@ -10142,30 +10308,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30022,
+      "idEvenement": 29890,
       "typeEvenement": 13,
-      "libelleEvenement": "TITANIC 3D",
+      "libelleEvenement": "TRUE LIES – LE CAMÉLÉON",
       "dateHeure": "2024-11-10T14:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 29089,
-          "titre": "Titanic",
+          "idFilm": 59914,
+          "titre": "True Lies",
           "realisateurs": "James Cameron",
-          "annee": 1997,
-          "generique": "Leonardo DiCaprio, Kate Winslet, Billy Zane",
-          "synopsis": "1912. Le paquebot Titanic appareille pour son premier voyage, mais heurte un iceberg quatre jours après le départ, tandis qu'à bord, un jeune homme fauché et une jolie bourgeoise tombent amoureux.",
-          "miniTexte": "Reconstitution minutieuse et grandiose du plus grand naufrage connu, à la fois le _magnum opus_ de James Cameron, et _la_ superproduction des années 90. Le film de tous les records, au budget colossal, installé plus d'une décennie en tête du box-office mondial, récompensé par 11 Oscars. Mais au-delà des chiffres, _Titanic_ marque un nouveau tournant dans l'histoire des effets spéciaux et fait basculer Hollywood dans le tout numérique, à grands coups d'innovations techniques combinées à l'ingéniosité de son auteur. Une œuvre monumentale, qui célèbre autant l'amour fou de Jack et Rose que le cinéma comme art de l'invention, de l'illusion et de l'émerveillement.",
-          "commentaire": "Ultime superproduction hollywoodienne du XX<sup>e</sup> siècle, dernier avatar d'une longue lignée de tournages dantesques (_Cléopâtre_, _Ben Hur_, _Lawrence d'Arabie_...), le _magnum opus_ de James Cameron est le trait d'union entre deux époques. L'une s'estompera inexorablement après _Titanic_. Celle des artisans fous, des _matte painters_, des truqueurs optiques ; celle d'une cheminée de paquebot bricolée en carton, des maquettes de bateaux en balsa et des fausses perspectives en miroirs. L'autre naît au début du film, avec le « one million shot », monumental survol du _Titanic_ à son départ de Southampton. Impressionnant millefeuille mêlant prises de vues réelles, couches numériques et personnages en motion capture, ce plan saisissant n'est pas le premier du genre. Mais c'est le plus ambitieux, et le plus accompli. Un jalon, pour une nouvelle ère dans l'histoire des effets spéciaux. Chef d'orchestre de cette révolution, qui fera bientôt basculer Hollywood dans le tout numérique, Rob Legato est le passeur entre ces deux mondes. Il fait de ce tournage fou son chef-d'œuvre, un monument d'ingéniosité et d'innovations tantôt mécaniques, tantôt numériques, le plus souvent combinées. Sa collaboration féconde avec James Cameron fera de _Titanic_ l'un des plus gros succès de l'histoire. Un film plus grand que tout, qui célèbre autant l'amour fou de Jack (Leonardo DiCaprio) et Rose (Kate Winslet) que le cinéma comme art de l'invention, de l'illusion et de l'émerveillement.\n\nXavier Jamet",
+          "annee": 1994,
+          "generique": "Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold",
+          "miniTexte": "James Cameron adapte le scénario de _La Totale !_ de Claude Zidi dans un film d'aventures doublé d'une comédie conjugale : espion d'élite pour le gouvernement américain, Harry Tasker tient sa femme à l'écart de ses activités. Un duo au sommet pour Arnold Schwarzenegger et Jamie Lee Curtis (récompensée par un Golden Globe), pur divertissement enlevé et énergique où les incontournables quiproquos alternent avec des scènes d'action ébouriffantes.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27095,
-              "duree": 194,
-              "format": "DCP",
+              "idCopie": 24364,
+              "duree": 141,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27635,
+              "duree": 141,
+              "format": "DCP"
             }
           ]
         }
@@ -10183,7 +10352,7 @@
       "idEvenement": 31007,
       "typeEvenement": 13,
       "libelleEvenement": "MÉLODIE EN SOUS-SOL",
-      "dateHeure": "2024-11-10T18:30:00",
+      "dateHeure": "2024-11-10T17:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -10246,6 +10415,42 @@
               "format": "DCP",
               "version": "VO",
               "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133848,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 31023,
+      "typeEvenement": 13,
+      "libelleEvenement": "OCEAN'S ELEVEN",
+      "dateHeure": "2024-11-10T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 77131,
+          "titre": "Ocean's Eleven",
+          "realisateurs": "Steven Soderbergh",
+          "annee": 2001,
+          "generique": "George Clooney, Matt Damon, Andy Garcia, Brad Pitt, Julia Roberts",
+          "synopsis": "Danny Ocean sort tout juste de prison et fomente déjà son prochain coup: cambrioler les plus gros casinos de Las Vegas qui appartiennent tous au même caïd, Terry Benedict. Il commence par constituer son équipe de choc. Remake de _L'Inconnu de Las Vegas_ de Lewis Milestone.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 1594,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -10436,6 +10641,96 @@
       ]
     },
     {
+      "idSeance": 133854,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21647,
+      "typeEvenement": 13,
+      "libelleEvenement": "A L'ANGLE DU MONDE / RETURN TO THE EDGE OF THE WORLD",
+      "dateHeure": "2024-11-13T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41077,
+          "titre": "À l'angle du monde",
+          "titreVo": "Edge of the World",
+          "realisateurs": "Michael Powell",
+          "annee": 1937,
+          "synopsis": "Dans une île au large de l'Écosse, la vie des petits pêcheurs se fait rude, d'autant plus depuis la concurrence des chalutiers. Alors que certains se montrent attachés à leur mode de vie traditionnel, d'autres envisagent de quitter l'île pour une vie meilleure...",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 20213,
+              "duree": 81,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 107632,
+          "titre": "Return to the Edge of the World",
+          "realisateurs": "Michael Powell",
+          "annee": 1978,
+          "synopsis": "« À l'angle du monde » de Michael Powell, remonté plus de 40 ans plus tard, et agrémenté d'interviews du réalisateur et de certains acteurs, revenus sur les lieux du film, l'île de Foula dans les Hébrides.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27596,
+              "duree": 25,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133025,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21690,
+      "typeEvenement": 13,
+      "libelleEvenement": "ELUSIVE PIMPERNEL (THE)",
+      "dateHeure": "2024-11-13T20:15:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41080,
+          "titre": "Elusive Pimpernel",
+          "art": "The",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1950,
+          "synopsis": "Un noble anglais, revient en France pour sauver les aristocrates de la Terreur. (Attention : 1 source WIKI)",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20202,
+              "duree": 109,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133024,
       "idProg": 182,
       "cycles": [
@@ -10616,7 +10911,7 @@
       "idEvenement": 30881,
       "typeEvenement": 13,
       "libelleEvenement": "D'UN FILM À L'AUTRE",
-      "dateHeure": "2024-11-14T20:30:00",
+      "dateHeure": "2024-11-14T20:45:00",
       "idSalle": "JE",
       "items": [
         {
@@ -10650,7 +10945,7 @@
       "idEvenement": 30893,
       "typeEvenement": 13,
       "libelleEvenement": "UN HOMME QUI ME PLAÎT",
-      "dateHeure": "2024-11-15T18:00:00",
+      "dateHeure": "2024-11-15T17:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -10664,6 +10959,102 @@
             {
               "idCopie": 28046,
               "duree": 115
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133844,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 18,
+          "idCategorie": 1856
+        }
+      ],
+      "idEvenement": 31048,
+      "typeEvenement": 14,
+      "libelleEvenement": "CONFÉRENCE DU CONSERVATOIRE NOVEMBRE 2024",
+      "dateHeure": "2024-11-15T18:30:00",
+      "typeConference": "Conférence",
+      "idSalle": "GF",
+      "duree": 90,
+      "items": [
+        {
+          "idConf": 31048,
+          "titre": "CONFÉRENCE DU CONSERVATOIRE NOVEMBRE 2024",
+          "typeConference": "Conférence",
+          "duree": 90,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 133103,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21651,
+      "typeEvenement": 13,
+      "libelleEvenement": "CROWN V. STEVENS",
+      "dateHeure": "2024-11-15T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 107611,
+          "titre": "Crown v. Stevens",
+          "realisateurs": "Michael Powell",
+          "annee": 1936,
+          "synopsis": "Alors qu'elle doit beaucoup d'argent, une ancienne danseuse décide de se marier à un homme qu'elle croit riche. Si celui-ci s'avère infortuné, il possède cependant une forte assurance sur la vie...",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28196,
+              "duree": 65,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133855,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21698,
+      "typeEvenement": 13,
+      "libelleEvenement": "WILD HEART (THE)",
+      "dateHeure": "2024-11-15T20:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 86567,
+          "titre": "Wild Heart",
+          "art": "The",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1952,
+          "synopsis": "Nouvelle version de La Renarde, suite à un désaccord des réalisateurs avec le producteur David O. Selznick qui souhaite une nouvelle version pour le public américain.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27064,
+              "duree": 82,
+              "format": "16 mm",
+              "stDemande": true
             }
           ]
         }
@@ -10745,24 +11136,31 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Jean-Paul Salomé"
     },
     {
       "idSeance": 133139,
       "idProg": 182,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 793,
           "idCategorie": 3381,
           "titreCycle": "Claude Lelouch",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 793,
+          "idCategorie": 3393,
+          "titreCycle": "Claude Lelouch",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 30876,
-      "typeEvenement": 13,
-      "libelleEvenement": "AVENTURE, C'EST L'AVENTURE (L')",
+      "libelleEvenement": "AVENTURE, C'EST L'AVENTURE (L') + CLAUDE LELOUCH PAR CLAUDE LELOUCH, UNE LEÇON DE CINÉMA",
       "dateHeure": "2024-11-16T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -10778,11 +11176,18 @@
               "duree": 122
             }
           ]
+        },
+        {
+          "idConf": 30975,
+          "titre": "CLAUDE LELOUCH PAR CLAUDE LELOUCH, UNE LEÇON DE CINÉMA",
+          "typeConference": "Leçon de cinéma",
+          "duree": 90,
+          "ordre": 2
         }
       ]
     },
     {
-      "idSeance": 133838,
+      "idSeance": 133853,
       "idProg": 182,
       "cycles": [
         {
@@ -10790,26 +11195,27 @@
           "idCategorie": 2201
         }
       ],
-      "idEvenement": 21651,
+      "idEvenement": 21687,
       "typeEvenement": 13,
-      "libelleEvenement": "CROWN V. STEVENS",
+      "libelleEvenement": "BATAILLE DU RIO DE LA PLATA (LA)",
       "dateHeure": "2024-11-16T15:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 107611,
-          "titre": "Crown v. Stevens",
-          "realisateurs": "Michael Powell",
-          "annee": 1936,
-          "synopsis": "Alors qu'elle doit beaucoup d'argent, une ancienne danseuse décide de se marier à un homme qu'elle croit riche. Si celui-ci s'avère infortuné, il possède cependant une forte assurance sur la vie...",
+          "idFilm": 58543,
+          "titre": "Bataille du Rio de la Plata",
+          "art": "La",
+          "titreVo": "Battle of the River Plate",
+          "artVo": "The",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1956,
+          "synopsis": "Le film retrace la Bataille du Rio de la Plata qui eut lieu durant la Seconde Guerre mondiale, et pendant laquelle trois navires britanniques ont poursuivi un cuirassé allemand tout-puissant.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 28196,
-              "duree": 65,
-              "format": "DCP",
-              "version": "VO",
+              "idCopie": 20235,
+              "duree": 119,
               "stDemande": true
             }
           ]
@@ -10828,7 +11234,7 @@
       "idEvenement": 21686,
       "typeEvenement": 13,
       "libelleEvenement": "LION A DES AILES (LE)",
-      "dateHeure": "2024-11-16T16:30:00",
+      "dateHeure": "2024-11-16T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -10865,7 +11271,7 @@
       "idEvenement": 21649,
       "typeEvenement": 13,
       "libelleEvenement": "BLACKOUT",
-      "dateHeure": "2024-11-16T18:15:00",
+      "dateHeure": "2024-11-16T19:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -10902,7 +11308,7 @@
       "idEvenement": 30929,
       "typeEvenement": 13,
       "libelleEvenement": "UN HOMME ET UNE FEMME",
-      "dateHeure": "2024-11-16T19:00:00",
+      "dateHeure": "2024-11-16T19:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -10921,7 +11327,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Antoine Sire"
     },
     {
       "idSeance": 133841,
@@ -10935,7 +11342,7 @@
       "idEvenement": 21699,
       "typeEvenement": 13,
       "libelleEvenement": "UN DE NOS AVIONS N'EST PAS RENTRÉ",
-      "dateHeure": "2024-11-16T20:00:00",
+      "dateHeure": "2024-11-16T21:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -10952,6 +11359,50 @@
               "idCopie": 20239,
               "duree": 106,
               "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133842,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21697,
+      "typeEvenement": 13,
+      "libelleEvenement": "JE SAIS OÙ JE VAIS",
+      "dateHeure": "2024-11-17T15:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42007,
+          "titre": "Je sais où je vais",
+          "titreVo": "I Know Where I'm Going",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1945,
+          "generique": "Wendy Hiller, Roger Livesey, Pamela Brown",
+          "synopsis": "Joan, jeune femme ambitieuse, doit rejoindre sur une île écossaise isolée le riche industriel qu'elle s'apprête à épouser. Mais le brouillard empêche la traversée, et la jeune femme fait la connaissance d'un jeune officier de marine qui doit aussi se rendre sur l'île.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20194,
+              "duree": 91,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 20237,
+              "duree": 92,
+              "format": "DCP",
               "version": "VO",
               "stDemande": true
             }
@@ -11005,50 +11456,6 @@
       ]
     },
     {
-      "idSeance": 133842,
-      "idProg": 182,
-      "cycles": [
-        {
-          "idCycle": 476,
-          "idCategorie": 2201
-        }
-      ],
-      "idEvenement": 21697,
-      "typeEvenement": 13,
-      "libelleEvenement": "JE SAIS OÙ JE VAIS",
-      "dateHeure": "2024-11-17T17:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 42007,
-          "titre": "Je sais où je vais",
-          "titreVo": "I Know Where I'm Going",
-          "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1945,
-          "generique": "Wendy Hiller, Roger Livesey, Pamela Brown",
-          "synopsis": "Joan, jeune femme ambitieuse, doit rejoindre sur une île écossaise isolée le riche industriel qu'elle s'apprête à épouser. Mais le brouillard empêche la traversée, et la jeune femme fait la connaissance d'un jeune officier de marine qui doit aussi se rendre sur l'île.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 20194,
-              "duree": 91,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 20237,
-              "duree": 92,
-              "format": "DCP",
-              "version": "VO",
-              "stDemande": true
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 133662,
       "idProg": 182,
       "cycles": [
@@ -11063,7 +11470,7 @@
       "typeEvenement": 13,
       "libelleEvenement": "PLUS BELLES ANNÉES D'UNE VIE (LES)",
       "dateHeure": "2024-11-17T17:30:00",
-      "idSalle": "JE",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -11077,6 +11484,60 @@
             {
               "idCopie": 28040,
               "duree": 90
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Antoine Sire"
+    },
+    {
+      "idSeance": 133160,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21684,
+      "typeEvenement": 13,
+      "libelleEvenement": "RYNOX / HOTEL SPLENDIDE",
+      "dateHeure": "2024-11-17T17:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 107576,
+          "titre": "Rynox",
+          "realisateurs": "Michael Powell",
+          "annee": 1931,
+          "synopsis": "Après avoir affirmé s'être fait menacer par un inconnu répondant au nom de Marsh, le riche directeur de la société Rynox est retrouvé assassiné. Son fils, reprenant l'entreprise de son père, se met alors en chasse de l'insaisissable Marsh.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28185,
+              "duree": 47,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 107579,
+          "titre": "Hotel Splendide",
+          "realisateurs": "Michael Powell",
+          "annee": 1932,
+          "synopsis": "Jerry hérite d'un hôtel au bord de la mer, et sous lequel se trouve un butin caché...",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28186,
+              "duree": 53,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
@@ -11190,7 +11651,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Francis Huster et Macha Méril"
     },
     {
       "idSeance": 133620,
@@ -11259,6 +11721,80 @@
       ]
     },
     {
+      "idSeance": 133846,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 31008,
+      "typeEvenement": 13,
+      "libelleEvenement": "TOPKAPI",
+      "dateHeure": "2024-11-20T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31507,
+          "titre": "Topkapi",
+          "realisateurs": "Jules Dassin",
+          "annee": 1963,
+          "generique": "Melina Mercouri, Maximilian Schell, Peter Ustinov",
+          "adaptation": "D'après le roman _The Light of the day_ d'Eric Ambler.",
+          "synopsis": "Une association de malfaiteurs convoite une dague incrustée de diamants exposée au musée Topkapi d'Istanbul.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28216,
+              "duree": 118,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133851,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21691,
+      "typeEvenement": 13,
+      "libelleEvenement": "SMALL BACK ROOM (THE)",
+      "dateHeure": "2024-11-20T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41945,
+          "titre": "Small Back Room",
+          "art": "The",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1948,
+          "synopsis": "En pleine seconde guerre mondiale, Sammy Rice, jeune savant, manque singulièrement de confiance en lui et sombre dans l'alcool.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27060,
+              "duree": 111,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133206,
       "idProg": 182,
       "cycles": [
@@ -11270,7 +11806,7 @@
       "idEvenement": 31019,
       "typeEvenement": 13,
       "libelleEvenement": "HEAT",
-      "dateHeure": "2024-11-20T19:00:00",
+      "dateHeure": "2024-11-20T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -11308,7 +11844,7 @@
       "idEvenement": 30927,
       "typeEvenement": 13,
       "libelleEvenement": "MARIAGE",
-      "dateHeure": "2024-11-20T20:15:00",
+      "dateHeure": "2024-11-20T21:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -11322,6 +11858,42 @@
             {
               "idCopie": 28102,
               "duree": 98
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Rufus"
+    },
+    {
+      "idSeance": 133211,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21661,
+      "typeEvenement": 13,
+      "libelleEvenement": "HERZOG BLAUBARTS BURG",
+      "dateHeure": "2024-11-20T21:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 107628,
+          "titre": "Herzog Blaubarts Burg",
+          "realisateurs": "Michael Powell",
+          "annee": 1964,
+          "synopsis": "Enième épouse de Barbe-Bleue, Judit découvre le château de son mari. Curieuse de l'édifice, elle va franchir la porte qui fait l'objet de tous les interdits... Film inspiré de l'unique opéra de Béla Bartók.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27074,
+              "duree": 62,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
@@ -11365,6 +11937,41 @@
       ]
     },
     {
+      "idSeance": 133852,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201
+        }
+      ],
+      "idEvenement": 21693,
+      "typeEvenement": 13,
+      "libelleEvenement": "OH ! ROSALINDA !",
+      "dateHeure": "2024-11-21T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 70991,
+          "titre": "Oh ! Rosalinda !",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1955,
+          "synopsis": "Inspirée de l'opérette « La Chauve-Souris » de Johann Straus, le film s'attache, dans le Vienne d'après guerre, à des jeux d'amour et de quiproquos.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27070,
+              "duree": 101,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133245,
       "idProg": 182,
       "cycles": [
@@ -11378,7 +11985,7 @@
       "idEvenement": 30891,
       "typeEvenement": 13,
       "libelleEvenement": "UNS ET LES AUTRES (LES)",
-      "dateHeure": "2024-11-21T20:30:00",
+      "dateHeure": "2024-11-21T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -11393,6 +12000,44 @@
             {
               "idCopie": 28055,
               "duree": 184
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Francis Huster et Macha Méril"
+    },
+    {
+      "idSeance": 133850,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 31024,
+      "typeEvenement": 13,
+      "libelleEvenement": "INSIDE MAN – L'HOMME DE L'INTÉRIEUR",
+      "dateHeure": "2024-11-22T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 99269,
+          "titre": "Inside Man – L'Homme de l'intérieur",
+          "titreVo": "Inside Man",
+          "realisateurs": "Spike Lee",
+          "annee": 2005,
+          "generique": "Denzel Washington, Clive Owen, Jodie Foster, Christopher Plummer",
+          "synopsis": "Ce devait être le hold-up parfait, le chef-d'œuvre d'un génie du crime.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28221,
+              "duree": 130,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -11433,7 +12078,7 @@
       ]
     },
     {
-      "idSeance": 133285,
+      "idSeance": 133845,
       "idProg": 182,
       "cycles": [
         {
@@ -11441,27 +12086,28 @@
           "idCategorie": 3396
         }
       ],
-      "idEvenement": 31015,
+      "idEvenement": 31025,
       "typeEvenement": 13,
-      "libelleEvenement": "UN APRÈS-MIDI DE CHIEN",
-      "dateHeure": "2024-11-22T19:00:00",
+      "libelleEvenement": "DRIVE",
+      "dateHeure": "2024-11-22T18:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 34777,
-          "titre": "Un après-midi de chien",
-          "titreVo": "Dog Day Afternoon",
-          "realisateurs": "Sidney Lumet",
-          "annee": 1975,
-          "generique": "Al Pacino, John Cazale, Charles Durning",
-          "synopsis": "Par un chaud après-midi d'août, Sonny et ses complices braquent une banque de Brooklyn. Mais le coffre est quasiment vide et la police a encerclé les lieux. Le braquage se transforme en prise d'otages et en cirque médiatique.",
-          "status": 2,
+          "idFilm": 113249,
+          "titre": "Drive",
+          "realisateurs": "Nicolas Winding Refn",
+          "annee": 2010,
+          "generique": "Ryan Gosling, Carey Mulligan, Bryan Cranston",
+          "adaptation": "D'après le roman _Drive_ de James Sallis.",
+          "synopsis": "Mécanicien et cascadeur de jour, un jeune homme mutique devient chauffeur pour des gangsters la nuit. Un jour, il croise le chemin de sa voisine Irène et de son jeune fils.",
+          "commentaire": "_Drive_, c'est le résultat d'une rencontre qui aurait peut-être pu ne jamais avoir lieu entre un roman éponyme de James Sallis, un acteur et un réalisateur, réunis grâce à une chanson des années 1980. En effet, alors que le scénario circule depuis 2008, il est finalement proposé, deux ans plus tard, à Ryan Gosling, qui admire les films de Nicolas Winding Refn et suggère qu'il le réalise. La première rencontre entre l'acteur et le réalisateur semble tourner court car Refn, grippé, reste de marbre. Alors qu'il le raccompagne en voiture, Gosling allume la radio qui passe _Can't Fight This Feeling_ et... Refn fond alors en larmes : il a trouvé la figure de son chauffeur mutique qui écoute des chansons pop exprimant ses sentiments. Une relation presque télépathique se met alors en place entre l'acteur et son réalisateur. Si Gosling apparaît comme le pur héritier des héros mutiques et sans nom des films de Leone et de Melville, ses explosions de violence l'écartent du flegme de ses prédécesseurs. Le film joue en permanence sur les codes tout en les détournant : film d'action avec un héros majoritairement passif – la scène d'ouverture magistrale joue plus sur l'attente que l'action –, une attente qui se prolongera jusqu'à la moitié du film ; une femme « fatale » malgré elle, à l'irréprochable innocence ; un dur au regard angélique et amateur de chansons sucrées. _Drive_ embarque son spectateur dans une déambulation hallucinée au cœur d'un Los Angeles à la fois quotidien, pop et cauchemardesque.\n\nWafa Ghermani",
+          "status": 1,
           "copies": [
             {
-              "idCopie": 25624,
-              "duree": 130,
-              "format": "35 mm",
+              "idCopie": 9786,
+              "duree": 95,
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -11483,7 +12129,7 @@
       "idEvenement": 30887,
       "typeEvenement": 13,
       "libelleEvenement": "IL Y A DES JOURS ET DES LUNES",
-      "dateHeure": "2024-11-22T20:45:00",
+      "dateHeure": "2024-11-22T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -11497,6 +12143,43 @@
             {
               "idCopie": 28059,
               "duree": 117
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133286,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 31015,
+      "typeEvenement": 13,
+      "libelleEvenement": "UN APRÈS-MIDI DE CHIEN",
+      "dateHeure": "2024-11-22T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34777,
+          "titre": "Un après-midi de chien",
+          "titreVo": "Dog Day Afternoon",
+          "realisateurs": "Sidney Lumet",
+          "annee": 1975,
+          "generique": "Al Pacino, John Cazale, Charles Durning",
+          "synopsis": "Par un chaud après-midi d'août, Sonny et ses complices braquent une banque de Brooklyn. Mais le coffre est quasiment vide et la police a encerclé les lieux. Le braquage se transforme en prise d'otages et en cirque médiatique.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 25624,
+              "duree": 130,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -11535,6 +12218,77 @@
             }
           ]
         }
+      ],
+      "mention": "Séance présentée par Simon Lelouch"
+    },
+    {
+      "idSeance": 133325,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 31017,
+      "typeEvenement": 13,
+      "libelleEvenement": "POINT BREAK – EXTRÊME LIMITE",
+      "dateHeure": "2024-11-23T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30408,
+          "titre": "Point break – Extrême limite",
+          "titreVo": "Point Break",
+          "realisateurs": "Kathryn Bigelow",
+          "annee": 1990,
+          "generique": "Patrick Swayze, Keanu Reeves, Gary Busey",
+          "synopsis": "Pour retrouver les braqueurs responsables de 26 attaques de banques, Johnny Utah, jeune inspecteur du FBI inexpérimenté et naïf, s'infiltre dans le milieu des surfeurs de Los Angeles.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28219,
+              "duree": 122,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133326,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 31026,
+      "typeEvenement": 13,
+      "libelleEvenement": "OPÉRATION SAN GENNARO",
+      "dateHeure": "2024-11-23T17:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42337,
+          "titre": "Opération San Gennaro",
+          "titreVo": "Operazione San Gennaro",
+          "realisateurs": "Dino Risi",
+          "annee": 1966,
+          "generique": "Totò, Claudine Auger, Santa Berger, Nino Manfredi",
+          "synopsis": "Trois gangsters américains débarquent à Naples pour dérober le trésor de San Gennaro avec l'aide de bandits locaux.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21290,
+              "duree": 104,
+              "format": "DCP"
+            }
+          ]
+        }
       ]
     },
     {
@@ -11565,6 +12319,44 @@
             {
               "idCopie": 28063,
               "duree": 113
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133327,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 31011,
+      "typeEvenement": 13,
+      "libelleEvenement": "OR SE BARRE (L')",
+      "dateHeure": "2024-11-23T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41598,
+          "titre": "Or se barre",
+          "art": "L'",
+          "titreVo": "Italian Job",
+          "artVo": "The",
+          "realisateurs": "Peter Collinson",
+          "annee": 1968,
+          "generique": "Michael Caine, Noël Coward, Maggie Blye",
+          "synopsis": "Des gangsters anglais qui veulent voler l'or de Fiat s'opposent à la Mafia qui veut défendre l'honneur de l'Italie.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28218,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO"
             }
           ]
         }
@@ -11676,7 +12468,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Marthe Keller"
     },
     {
       "idSeance": 133343,
@@ -11731,7 +12524,7 @@
       "idEvenement": 30897,
       "typeEvenement": 13,
       "libelleEvenement": "SMIC, SMAC, SMOC",
-      "dateHeure": "2024-11-24T20:15:00",
+      "dateHeure": "2024-11-24T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -11750,6 +12543,83 @@
         }
       ],
       "mention": "Séance présentée par Arlette Gordon"
+    },
+    {
+      "idSeance": 133356,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 30994,
+      "typeEvenement": 13,
+      "libelleEvenement": "INCONNUS DANS LA VILLE (LES)",
+      "dateHeure": "2024-11-25T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31160,
+          "titre": "Inconnus dans la ville",
+          "art": "Les",
+          "titreVo": "Violent Saturday",
+          "realisateurs": "Richard Fleischer",
+          "annee": 1955,
+          "generique": "Victor Mature, Richard Egan, Stephen McNally",
+          "adaptation": "D'après le roman _Les Inconnus dans la ville_ de William L. Heath.",
+          "synopsis": "Une petite ville minière voit arriver trois gangsters qui viennent attaquer la banque. Ils se réfugient dans une ferme amish et prennent toute la famille en otage.",
+          "miniTexte": "C'est avant tout un formidable film de casse, mais le cantonner à ce seul genre ne serait pas rendre justice à une œuvre d'une telle ampleur. _Les Inconnus dans la ville_ évoque autant le cinéma de Vincente Minnelli et de Douglas Sirk que les séries B, dont Fleischer a été l'un des grands artisans. C'est un film-monde, le petit théâtre d'une ville minière d'Arizona, de ses habitants, de leurs forces et de leurs faiblesses, mises à mal par trois malfrats brutaux qui s'attaquent à la banque de la bourgade. Le portrait en coupe d'une certaine Amérique, et des racines de sa violence.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 17978,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133358,
+      "idProg": 182,
+      "cycles": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396
+        }
+      ],
+      "idEvenement": 31009,
+      "typeEvenement": 13,
+      "libelleEvenement": "TROIS MILLIARDS D'UN COUP",
+      "dateHeure": "2024-11-25T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37544,
+          "titre": "Trois milliards d'un coup",
+          "titreVo": "Robbery",
+          "realisateurs": "Peter Yates",
+          "annee": 1967,
+          "generique": "Stanley Baker, Joanna Pettet, James Booth, Barry Foster",
+          "synopsis": "Paul Clifton constitue une équipe de criminels afin d'effectuer le vol du siècle dans un train postal qui relie Glasgow à Londres.",
+          "commentaire": "Film de hold-up musclé, inspiré de la célèbre attaque du train postal Glasgow-Londres, _Trois milliards d'un coup_ est un modèle de précision et de suspense, qui valut à Peter Yates un visa pour Hollywood.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28217,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
