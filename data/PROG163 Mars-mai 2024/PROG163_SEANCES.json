@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2024-05-14T16:02:48.122Z",
+  "updatedAt": "2024-05-17T14:21:56.606Z",
   "data": [
     {
       "idSeance": 123138,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 140,
           "idCategorie": 3286,
@@ -72,7 +72,7 @@
     {
       "idSeance": 123144,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 18,
           "idCategorie": 1856,
@@ -100,7 +100,7 @@
     {
       "idSeance": 130587,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 140,
           "idCategorie": 3311,
@@ -138,7 +138,7 @@
     {
       "idSeance": 115911,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 733,
           "idCategorie": 3187,
@@ -180,7 +180,7 @@
     {
       "idSeance": 115949,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 755,
           "idCategorie": 3251,
@@ -221,7 +221,7 @@
     {
       "idSeance": 118611,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 733,
           "idCategorie": 3187,
@@ -257,7 +257,7 @@
     {
       "idSeance": 115952,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3295,
@@ -300,7 +300,7 @@
     {
       "idSeance": 118715,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 733,
           "idCategorie": 3187,
@@ -380,7 +380,7 @@
     {
       "idSeance": 118613,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 733,
           "idCategorie": 3187,
@@ -469,7 +469,7 @@
     {
       "idSeance": 118716,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 733,
           "idCategorie": 3187,
@@ -504,7 +504,7 @@
     {
       "idSeance": 118689,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3295,
@@ -544,7 +544,7 @@
     {
       "idSeance": 122935,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 14,
           "idCategorie": 3300,
@@ -579,7 +579,7 @@
     {
       "idSeance": 118673,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3295,
@@ -621,7 +621,7 @@
     {
       "idSeance": 122936,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 14,
           "idCategorie": 3300,
@@ -705,7 +705,7 @@
     {
       "idSeance": 118691,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -743,7 +743,7 @@
     {
       "idSeance": 118692,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -782,7 +782,7 @@
     {
       "idSeance": 118493,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -821,7 +821,7 @@
     {
       "idSeance": 118717,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 733,
           "idCategorie": 3187,
@@ -857,7 +857,7 @@
     {
       "idSeance": 118693,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -951,7 +951,7 @@
     {
       "idSeance": 130523,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 755,
           "idCategorie": 3251,
@@ -990,7 +990,7 @@
     {
       "idSeance": 118616,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 733,
           "idCategorie": 3187,
@@ -1026,7 +1026,7 @@
     {
       "idSeance": 118694,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -1065,7 +1065,7 @@
     {
       "idSeance": 118718,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 733,
           "idCategorie": 3187,
@@ -1105,7 +1105,7 @@
     {
       "idSeance": 116091,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -1145,7 +1145,7 @@
     {
       "idSeance": 118719,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 733,
           "idCategorie": 3187,
@@ -1181,7 +1181,7 @@
     {
       "idSeance": 130586,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 140,
           "idCategorie": 3287,
@@ -1234,7 +1234,7 @@
     {
       "idSeance": 118666,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3295,
@@ -1273,7 +1273,7 @@
     {
       "idSeance": 116140,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 755,
           "idCategorie": 3251,
@@ -1311,7 +1311,7 @@
     {
       "idSeance": 118430,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -1352,7 +1352,7 @@
     {
       "idSeance": 122895,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 733,
           "idCategorie": 3328,
@@ -1386,7 +1386,7 @@
     {
       "idSeance": 118510,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -1424,7 +1424,7 @@
     {
       "idSeance": 118695,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -1463,7 +1463,7 @@
     {
       "idSeance": 122894,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 733,
           "idCategorie": 3187,
@@ -1499,7 +1499,7 @@
     {
       "idSeance": 118508,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -1599,7 +1599,7 @@
     {
       "idSeance": 122898,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 733,
           "idCategorie": 3187,
@@ -1634,7 +1634,7 @@
     {
       "idSeance": 122901,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -1694,7 +1694,7 @@
     {
       "idSeance": 118631,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3295,
@@ -1735,7 +1735,7 @@
     {
       "idSeance": 118527,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -1775,7 +1775,7 @@
     {
       "idSeance": 123038,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 14,
           "idCategorie": 3301,
@@ -1811,7 +1811,7 @@
     {
       "idSeance": 122892,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -1865,7 +1865,7 @@
     {
       "idSeance": 118697,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -1903,7 +1903,7 @@
     {
       "idSeance": 123039,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 14,
           "idCategorie": 3301,
@@ -1939,7 +1939,7 @@
     {
       "idSeance": 116263,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -1980,7 +1980,7 @@
     {
       "idSeance": 116269,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -2019,7 +2019,7 @@
     {
       "idSeance": 118620,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 733,
           "idCategorie": 3187,
@@ -2057,7 +2057,7 @@
     {
       "idSeance": 118722,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 733,
           "idCategorie": 3187,
@@ -2129,7 +2129,7 @@
     {
       "idSeance": 118650,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -2168,7 +2168,7 @@
     {
       "idSeance": 118725,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 733,
           "idCategorie": 3328,
@@ -2206,7 +2206,7 @@
     {
       "idSeance": 118526,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -2246,7 +2246,7 @@
     {
       "idSeance": 118507,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3321,
@@ -2339,7 +2339,7 @@
     {
       "idSeance": 116285,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 755,
           "idCategorie": 3251,
@@ -2378,7 +2378,7 @@
     {
       "idSeance": 122896,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 733,
           "idCategorie": 3297,
@@ -2463,7 +2463,7 @@
     {
       "idSeance": 118511,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -2504,7 +2504,7 @@
     {
       "idSeance": 122897,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 733,
           "idCategorie": 3297,
@@ -2574,7 +2574,7 @@
     {
       "idSeance": 118698,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -2615,7 +2615,7 @@
     {
       "idSeance": 118477,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -2654,7 +2654,7 @@
     {
       "idSeance": 122902,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -2694,7 +2694,7 @@
     {
       "idSeance": 118651,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -2732,7 +2732,7 @@
     {
       "idSeance": 130560,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -2772,7 +2772,7 @@
     {
       "idSeance": 118699,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -2812,7 +2812,7 @@
     {
       "idSeance": 130572,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -2904,7 +2904,7 @@
     {
       "idSeance": 118700,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -2941,7 +2941,7 @@
     {
       "idSeance": 116417,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -2978,7 +2978,7 @@
     {
       "idSeance": 128828,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 143,
           "idCategorie": 3278,
@@ -3030,7 +3030,7 @@
     {
       "idSeance": 123040,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 14,
           "idCategorie": 3302,
@@ -3068,7 +3068,7 @@
     {
       "idSeance": 118663,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 741,
           "idCategorie": 3235,
@@ -3107,7 +3107,7 @@
     {
       "idSeance": 128829,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 143,
           "idCategorie": 3278,
@@ -3158,7 +3158,7 @@
     {
       "idSeance": 123042,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 14,
           "idCategorie": 3302,
@@ -3198,7 +3198,7 @@
     {
       "idSeance": 116454,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 18,
           "idCategorie": 3355,
@@ -3242,7 +3242,7 @@
     {
       "idSeance": 118703,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -3281,7 +3281,7 @@
     {
       "idSeance": 116461,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -3320,7 +3320,7 @@
     {
       "idSeance": 116459,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -3363,7 +3363,7 @@
     {
       "idSeance": 122903,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -3406,7 +3406,7 @@
     {
       "idSeance": 116460,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -3445,7 +3445,7 @@
     {
       "idSeance": 118483,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -3484,7 +3484,7 @@
     {
       "idSeance": 130557,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 741,
           "idCategorie": 3235,
@@ -3523,7 +3523,7 @@
     {
       "idSeance": 118704,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -3560,7 +3560,7 @@
     {
       "idSeance": 118434,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 741,
           "idCategorie": 3235,
@@ -3605,7 +3605,7 @@
     {
       "idSeance": 122989,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3295,
@@ -3645,7 +3645,7 @@
     {
       "idSeance": 116475,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -3681,7 +3681,7 @@
     {
       "idSeance": 122988,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -3719,7 +3719,7 @@
     {
       "idSeance": 116472,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 741,
           "idCategorie": 3235,
@@ -3757,7 +3757,7 @@
     {
       "idSeance": 118482,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -3795,7 +3795,7 @@
     {
       "idSeance": 116477,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -3832,7 +3832,7 @@
     {
       "idSeance": 118705,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -3869,7 +3869,7 @@
     {
       "idSeance": 118436,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 741,
           "idCategorie": 3235,
@@ -3907,7 +3907,7 @@
     {
       "idSeance": 116488,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 140,
           "idCategorie": 3288,
@@ -3944,7 +3944,7 @@
     {
       "idSeance": 130582,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 733,
           "idCategorie": 3187,
@@ -3981,7 +3981,7 @@
     {
       "idSeance": 133592,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 741,
           "idCategorie": 3235,
@@ -4039,7 +4039,7 @@
     {
       "idSeance": 123012,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 755,
           "idCategorie": 3251,
@@ -4080,7 +4080,7 @@
     {
       "idSeance": 130561,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3295,
@@ -4119,7 +4119,7 @@
     {
       "idSeance": 116529,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -4155,7 +4155,7 @@
     {
       "idSeance": 118706,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -4193,7 +4193,7 @@
     {
       "idSeance": 116525,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -4235,7 +4235,7 @@
     {
       "idSeance": 116528,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -4274,7 +4274,7 @@
     {
       "idSeance": 118672,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 740,
           "idCategorie": 3234,
@@ -4328,7 +4328,7 @@
     {
       "idSeance": 118675,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3295,
@@ -4370,7 +4370,7 @@
     {
       "idSeance": 118708,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -4409,7 +4409,7 @@
     {
       "idSeance": 123018,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3283,
@@ -4439,7 +4439,7 @@
     {
       "idSeance": 118707,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -4478,7 +4478,7 @@
     {
       "idSeance": 118591,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -4523,7 +4523,7 @@
     {
       "idSeance": 130562,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3295,
@@ -4562,7 +4562,7 @@
     {
       "idSeance": 122985,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 18,
           "idCategorie": 1856,
@@ -4590,7 +4590,7 @@
     {
       "idSeance": 116604,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -4632,7 +4632,7 @@
     {
       "idSeance": 118643,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 14,
           "idCategorie": 3303,
@@ -4670,7 +4670,7 @@
     {
       "idSeance": 116605,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -4711,7 +4711,7 @@
     {
       "idSeance": 118644,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 14,
           "idCategorie": 3303,
@@ -4802,7 +4802,7 @@
     {
       "idSeance": 118710,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -4842,7 +4842,7 @@
     {
       "idSeance": 118711,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -4879,7 +4879,7 @@
     {
       "idSeance": 122978,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -4918,7 +4918,7 @@
     {
       "idSeance": 118712,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -4956,7 +4956,7 @@
     {
       "idSeance": 122971,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -4995,7 +4995,7 @@
     {
       "idSeance": 116522,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 755,
           "idCategorie": 3251,
@@ -5035,7 +5035,7 @@
     {
       "idSeance": 116663,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -5074,7 +5074,7 @@
     {
       "idSeance": 116668,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -5113,7 +5113,7 @@
     {
       "idSeance": 118713,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -5153,7 +5153,7 @@
     {
       "idSeance": 116664,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -5192,7 +5192,7 @@
     {
       "idSeance": 133582,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 692,
           "idCategorie": 3045,
@@ -5230,7 +5230,7 @@
     {
       "idSeance": 123011,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 140,
           "idCategorie": 3285,
@@ -5266,7 +5266,7 @@
     {
       "idSeance": 116678,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -5323,7 +5323,7 @@
     {
       "idSeance": 116713,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 755,
           "idCategorie": 3251,
@@ -5364,7 +5364,7 @@
     {
       "idSeance": 130563,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -5406,7 +5406,7 @@
     {
       "idSeance": 116718,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -5444,7 +5444,7 @@
     {
       "idSeance": 116716,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -5485,7 +5485,7 @@
     {
       "idSeance": 118635,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -5524,7 +5524,7 @@
     {
       "idSeance": 118626,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -5565,7 +5565,7 @@
     {
       "idSeance": 116756,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -5602,7 +5602,7 @@
     {
       "idSeance": 122906,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3299,
@@ -5644,7 +5644,7 @@
     {
       "idSeance": 118442,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -5685,7 +5685,7 @@
     {
       "idSeance": 130573,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -5722,7 +5722,7 @@
     {
       "idSeance": 118636,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -5764,7 +5764,7 @@
     {
       "idSeance": 118600,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -5855,7 +5855,7 @@
     {
       "idSeance": 118565,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -5951,7 +5951,7 @@
     {
       "idSeance": 116840,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -5991,7 +5991,7 @@
     {
       "idSeance": 116843,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -6028,7 +6028,7 @@
     {
       "idSeance": 118569,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -6068,7 +6068,7 @@
     {
       "idSeance": 118601,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3299,
@@ -6109,7 +6109,7 @@
     {
       "idSeance": 116842,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -6146,7 +6146,7 @@
     {
       "idSeance": 118602,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3299,
@@ -6185,7 +6185,7 @@
     {
       "idSeance": 118603,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3299,
@@ -6225,7 +6225,7 @@
     {
       "idSeance": 123013,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 755,
           "idCategorie": 3251,
@@ -6270,7 +6270,7 @@
     {
       "idSeance": 118604,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3299,
@@ -6310,7 +6310,7 @@
     {
       "idSeance": 118622,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -6351,7 +6351,7 @@
     {
       "idSeance": 118661,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -6392,7 +6392,7 @@
     {
       "idSeance": 118605,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3299,
@@ -6432,7 +6432,7 @@
     {
       "idSeance": 118637,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -6473,7 +6473,7 @@
     {
       "idSeance": 116868,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -6514,7 +6514,7 @@
     {
       "idSeance": 130574,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 140,
           "idCategorie": 3289,
@@ -6635,7 +6635,7 @@
     {
       "idSeance": 118579,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -6674,7 +6674,7 @@
     {
       "idSeance": 116904,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 755,
           "idCategorie": 3251,
@@ -6713,7 +6713,7 @@
     {
       "idSeance": 130564,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -6753,7 +6753,7 @@
     {
       "idSeance": 122937,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -6793,7 +6793,7 @@
     {
       "idSeance": 118624,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -6835,7 +6835,7 @@
     {
       "idSeance": 118686,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3265,
@@ -6865,7 +6865,7 @@
     {
       "idSeance": 118479,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -6905,7 +6905,7 @@
     {
       "idSeance": 118625,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3296,
@@ -6942,7 +6942,7 @@
     {
       "idSeance": 118444,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -6983,7 +6983,7 @@
     {
       "idSeance": 118589,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 11,
           "idCategorie": 2568,
@@ -7011,7 +7011,7 @@
     {
       "idSeance": 118542,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -7052,7 +7052,7 @@
     {
       "idSeance": 118714,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -7143,7 +7143,7 @@
     {
       "idSeance": 128832,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -7183,7 +7183,7 @@
     {
       "idSeance": 118638,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 739,
           "idCategorie": 3226,
@@ -7222,7 +7222,7 @@
     {
       "idSeance": 118639,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -7261,7 +7261,7 @@
     {
       "idSeance": 116987,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -7302,7 +7302,7 @@
     {
       "idSeance": 122983,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -7342,7 +7342,7 @@
     {
       "idSeance": 123023,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3298,
@@ -7382,7 +7382,7 @@
     {
       "idSeance": 122984,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -7474,7 +7474,7 @@
     {
       "idSeance": 117031,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -7514,7 +7514,7 @@
     {
       "idSeance": 117032,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -7554,7 +7554,7 @@
     {
       "idSeance": 123035,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3298,
@@ -7595,7 +7595,7 @@
     {
       "idSeance": 117033,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -7635,7 +7635,7 @@
     {
       "idSeance": 118445,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -7675,7 +7675,7 @@
     {
       "idSeance": 122982,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 741,
           "idCategorie": 3235,
@@ -7717,7 +7717,7 @@
     {
       "idSeance": 117049,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 755,
           "idCategorie": 3251,
@@ -7757,7 +7757,7 @@
     {
       "idSeance": 117050,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -7794,7 +7794,7 @@
     {
       "idSeance": 123036,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3298,
@@ -7835,7 +7835,7 @@
     {
       "idSeance": 122907,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -7875,7 +7875,7 @@
     {
       "idSeance": 118566,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -7916,7 +7916,7 @@
     {
       "idSeance": 118657,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -7957,7 +7957,7 @@
     {
       "idSeance": 117061,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 140,
           "idCategorie": 3284,
@@ -7991,7 +7991,7 @@
     {
       "idSeance": 130576,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -8030,7 +8030,7 @@
     {
       "idSeance": 130565,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -8069,7 +8069,7 @@
     {
       "idSeance": 118532,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -8157,7 +8157,7 @@
     {
       "idSeance": 117136,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 752,
           "idCategorie": 3246,
@@ -8198,7 +8198,7 @@
     {
       "idSeance": 118640,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -8240,7 +8240,7 @@
     {
       "idSeance": 118655,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -8280,7 +8280,7 @@
     {
       "idSeance": 117177,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -8321,7 +8321,7 @@
     {
       "idSeance": 117179,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 752,
           "idCategorie": 3246,
@@ -8361,7 +8361,7 @@
     {
       "idSeance": 128830,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 143,
           "idCategorie": 3279,
@@ -8417,7 +8417,7 @@
     {
       "idSeance": 123089,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -8458,7 +8458,7 @@
     {
       "idSeance": 117180,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 752,
           "idCategorie": 3246,
@@ -8496,7 +8496,7 @@
     {
       "idSeance": 128831,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 143,
           "idCategorie": 3279,
@@ -8587,7 +8587,7 @@
     {
       "idSeance": 118593,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 741,
           "idCategorie": 3235,
@@ -8678,7 +8678,7 @@
     {
       "idSeance": 118543,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -8718,7 +8718,7 @@
     {
       "idSeance": 122996,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -8757,7 +8757,7 @@
     {
       "idSeance": 117225,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 752,
           "idCategorie": 3246,
@@ -8796,7 +8796,7 @@
     {
       "idSeance": 123016,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -8837,7 +8837,7 @@
     {
       "idSeance": 117224,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -8932,7 +8932,7 @@
     {
       "idSeance": 123014,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 755,
           "idCategorie": 3251,
@@ -8970,7 +8970,7 @@
     {
       "idSeance": 118446,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 752,
           "idCategorie": 3246,
@@ -9009,7 +9009,7 @@
     {
       "idSeance": 118457,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -9048,7 +9048,7 @@
     {
       "idSeance": 117237,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -9088,7 +9088,7 @@
     {
       "idSeance": 130566,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 756,
           "idCategorie": 3252,
@@ -9127,7 +9127,7 @@
     {
       "idSeance": 118458,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -9166,7 +9166,7 @@
     {
       "idSeance": 130577,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 140,
           "idCategorie": 3294,
@@ -9241,7 +9241,7 @@
     {
       "idSeance": 122997,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 752,
           "idCategorie": 3246,
@@ -9279,7 +9279,7 @@
     {
       "idSeance": 117286,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 755,
           "idCategorie": 3251,
@@ -9322,7 +9322,7 @@
     {
       "idSeance": 118449,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -9361,7 +9361,7 @@
     {
       "idSeance": 117293,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 752,
           "idCategorie": 3246,
@@ -9400,7 +9400,7 @@
     {
       "idSeance": 117289,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -9439,7 +9439,7 @@
     {
       "idSeance": 122909,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -9479,7 +9479,7 @@
     {
       "idSeance": 118447,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 752,
           "idCategorie": 3246,
@@ -9519,7 +9519,7 @@
     {
       "idSeance": 122910,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -9559,7 +9559,7 @@
     {
       "idSeance": 117329,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 752,
           "idCategorie": 3246,
@@ -9597,7 +9597,7 @@
     {
       "idSeance": 117328,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3161,
@@ -9636,7 +9636,7 @@
     {
       "idSeance": 123015,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 752,
           "idCategorie": 3246,
@@ -9675,7 +9675,7 @@
     {
       "idSeance": 130578,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -9715,7 +9715,7 @@
     {
       "idSeance": 128833,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -9755,7 +9755,7 @@
     {
       "idSeance": 117369,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -9850,7 +9850,7 @@
     {
       "idSeance": 117372,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 752,
           "idCategorie": 3246,
@@ -9889,7 +9889,7 @@
     {
       "idSeance": 118487,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -9979,7 +9979,7 @@
     {
       "idSeance": 128819,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -10020,7 +10020,7 @@
     {
       "idSeance": 117410,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -10058,7 +10058,7 @@
     {
       "idSeance": 118533,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -10098,7 +10098,7 @@
     {
       "idSeance": 118489,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3161,
@@ -10136,7 +10136,7 @@
     {
       "idSeance": 118504,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -10176,7 +10176,7 @@
     {
       "idSeance": 118561,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 741,
           "idCategorie": 3235,
@@ -10213,7 +10213,7 @@
     {
       "idSeance": 123020,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 755,
           "idCategorie": 3251,
@@ -10255,7 +10255,7 @@
     {
       "idSeance": 122965,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3281,
@@ -10291,7 +10291,7 @@
     {
       "idSeance": 117427,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -10330,7 +10330,7 @@
     {
       "idSeance": 117432,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -10370,7 +10370,7 @@
     {
       "idSeance": 122966,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3281,
@@ -10405,7 +10405,7 @@
     {
       "idSeance": 117428,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -10443,7 +10443,7 @@
     {
       "idSeance": 117433,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -10482,7 +10482,7 @@
     {
       "idSeance": 117443,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 140,
           "idCategorie": 3293,
@@ -10582,7 +10582,7 @@
     {
       "idSeance": 123081,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3268,
@@ -10610,7 +10610,7 @@
     {
       "idSeance": 128809,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 755,
           "idCategorie": 3251,
@@ -10647,7 +10647,7 @@
     {
       "idSeance": 117479,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -10686,7 +10686,7 @@
     {
       "idSeance": 122911,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -10726,7 +10726,7 @@
     {
       "idSeance": 117480,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -10764,7 +10764,7 @@
     {
       "idSeance": 118654,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3161,
@@ -10803,7 +10803,7 @@
     {
       "idSeance": 117518,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -10893,7 +10893,7 @@
     {
       "idSeance": 117519,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -10932,7 +10932,7 @@
     {
       "idSeance": 130579,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -10972,7 +10972,7 @@
     {
       "idSeance": 122973,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3161,
@@ -11009,7 +11009,7 @@
     {
       "idSeance": 117561,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -11048,7 +11048,7 @@
     {
       "idSeance": 117559,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -11086,7 +11086,7 @@
     {
       "idSeance": 117562,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -11126,7 +11126,7 @@
     {
       "idSeance": 117600,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3326,
@@ -11163,7 +11163,7 @@
     {
       "idSeance": 117604,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -11203,7 +11203,7 @@
     {
       "idSeance": 118535,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -11240,7 +11240,7 @@
     {
       "idSeance": 122913,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -11280,7 +11280,7 @@
     {
       "idSeance": 122912,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -11321,7 +11321,7 @@
     {
       "idSeance": 117602,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3161,
@@ -11358,7 +11358,7 @@
     {
       "idSeance": 118664,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 741,
           "idCategorie": 3235,
@@ -11397,7 +11397,7 @@
     {
       "idSeance": 128810,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 755,
           "idCategorie": 3251,
@@ -11436,7 +11436,7 @@
     {
       "idSeance": 122967,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3281,
@@ -11471,7 +11471,7 @@
     {
       "idSeance": 117621,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3327,
@@ -11504,7 +11504,7 @@
     {
       "idSeance": 118534,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -11541,7 +11541,7 @@
     {
       "idSeance": 117623,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -11581,7 +11581,7 @@
     {
       "idSeance": 117619,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3161,
@@ -11617,7 +11617,7 @@
     {
       "idSeance": 122914,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -11657,7 +11657,7 @@
     {
       "idSeance": 128822,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -11697,7 +11697,7 @@
     {
       "idSeance": 117630,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -11737,7 +11737,7 @@
     {
       "idSeance": 117632,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -11778,7 +11778,7 @@
     {
       "idSeance": 128807,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 755,
           "idCategorie": 3251,
@@ -11865,7 +11865,7 @@
     {
       "idSeance": 117670,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -11903,7 +11903,7 @@
     {
       "idSeance": 122915,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -11943,7 +11943,7 @@
     {
       "idSeance": 117674,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3326,
@@ -11980,7 +11980,7 @@
     {
       "idSeance": 117671,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -12021,7 +12021,7 @@
     {
       "idSeance": 133668,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -12109,7 +12109,7 @@
     {
       "idSeance": 117710,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -12147,7 +12147,7 @@
     {
       "idSeance": 118523,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 18,
           "idCategorie": 1856,
@@ -12175,7 +12175,7 @@
     {
       "idSeance": 117750,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -12213,7 +12213,7 @@
     {
       "idSeance": 130545,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3163,
@@ -12283,7 +12283,7 @@
     {
       "idSeance": 128821,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -12324,7 +12324,7 @@
     {
       "idSeance": 118649,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3163,
@@ -12376,7 +12376,7 @@
     {
       "idSeance": 117791,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 754,
           "idCategorie": 3249,
@@ -12415,7 +12415,7 @@
     {
       "idSeance": 117795,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -12455,7 +12455,7 @@
     {
       "idSeance": 117798,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3161,
@@ -12494,7 +12494,7 @@
     {
       "idSeance": 122917,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -12534,7 +12534,7 @@
     {
       "idSeance": 117792,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3161,
@@ -12570,7 +12570,7 @@
     {
       "idSeance": 122918,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -12609,7 +12609,7 @@
     {
       "idSeance": 118536,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3161,
@@ -12645,7 +12645,7 @@
     {
       "idSeance": 118648,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 741,
           "idCategorie": 3235,
@@ -12684,7 +12684,7 @@
     {
       "idSeance": 128808,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 755,
           "idCategorie": 3251,
@@ -12771,7 +12771,7 @@
     {
       "idSeance": 117812,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3281,
@@ -12806,7 +12806,7 @@
     {
       "idSeance": 130524,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3281,
@@ -12841,7 +12841,7 @@
     {
       "idSeance": 122919,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -12881,7 +12881,7 @@
     {
       "idSeance": 117809,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3161,
@@ -12916,7 +12916,7 @@
     {
       "idSeance": 117810,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3161,
@@ -12952,7 +12952,7 @@
     {
       "idSeance": 122920,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 738,
           "idCategorie": 3217,
@@ -12991,7 +12991,7 @@
     {
       "idSeance": 123078,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3326,
@@ -13028,7 +13028,7 @@
     {
       "idSeance": 118537,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 722,
           "idCategorie": 3161,
@@ -13064,7 +13064,7 @@
     {
       "idSeance": 117825,
       "idProg": 163,
-      "cycles": [
+      "idCycleCategories": [
         {
           "idCycle": 140,
           "idCategorie": 3291,
