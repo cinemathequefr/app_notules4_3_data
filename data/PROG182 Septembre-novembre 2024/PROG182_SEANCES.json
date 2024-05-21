@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-21T08:58:00.875Z",
+  "updatedAt": "2024-05-21T09:55:38.547Z",
   "data": [
     {
       "idSeance": 130975,
@@ -7591,6 +7591,50 @@
       ]
     },
     {
+      "idSeance": 132279,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25721,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-16T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 56844,
+          "titre": "Frissons",
+          "titreVo": "Shivers",
+          "realisateurs": "David Cronenberg",
+          "annee": 1974,
+          "generique": "Paul Hampton, Joe Silver, Lynn Lowry",
+          "synopsis": "Les habitants d'un immeuble de banlieue sont infectés par un parasite artificiel qui provoque une explosion de violence et de rage sexuelle. La contagion se fait par simple contact, et l'épidémie se répand rapidement.",
+          "miniTexte": "Les habitants d'un immeuble sont contaminés par un parasite qui les désinhibe jusqu'à l'extrême. Au fur et à mesure que ces zombies lubriques s'agressent mutuellement, Cronenberg fait tomber un à un les tabous dans un inexorable jeu de dominos. Sexe, sang, mutations charnelles et animales : _Frissons_ établit tranquillement les bases de son cinéma, provocateur et dérangeant.",
+          "commentaire": "Après les essais médicaux d'un docteur fou, des parasites se propagent et créent une armée de zombies assoiffés de sexe. Jugé pornographique et méprisé par la critique, Frissons voit Cronenberg se jeter à corps perdu dans le body horror et assumer, sans crainte du mauvais goût, son envie de transgression. Sous une esthétique de série B, le cinéaste observe un monde où les hommes se laissent aller à leurs pulsions et signe une violente attaque contre le puritanisme, qui contrebalance un budget resserré (seulement 100 000 dollars) par une maîtrise épatante de l'épouvante.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23874,
+              "duree": 87,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 27711,
+              "duree": 87,
+              "format": "Numérique"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 132277,
       "idProg": 182,
       "idCycleCategories": [
@@ -7629,6 +7673,51 @@
       ]
     },
     {
+      "idSeance": 132280,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25722,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-16T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55780,
+          "titre": "Rage",
+          "titreVo": "Rabid",
+          "realisateurs": "David Cronenberg",
+          "annee": 1976,
+          "generique": "Marilyn Chambers, Frank Moore, Joe Silver",
+          "synopsis": "Après avoir subi une chirurgie esthétique expérimentale, une jeune femme ne peut plus s'alimenter que de sang humain. Ses victimes se transforment à leur tour en zombies assoiffés, et l'épidémie se répand rapidement dans toute la ville.",
+          "miniTexte": "Une greffe d'un nouveau genre transforme Marilyn Chambers – icône du cinéma pornographique – en « patient zéro » d'une épidémie de rage. Deux ans après _Frissons_, Cronenberg réutilise avec brio l'allégorie sexuelle comme vecteur d'horreur pour unir la chair, la violence et la science.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23899,
+              "duree": 91,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27730,
+              "duree": 91,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 132313,
       "idProg": 182,
       "idCycleCategories": [
@@ -7655,6 +7744,46 @@
             {
               "idCopie": 28007,
               "duree": 107
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132312,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25723,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-17T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 52912,
+          "titre": "Chromosome 3",
+          "titreVo": "Brood",
+          "artVo": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 1978,
+          "generique": "Oliver Reed, Samantha Eggar, Art Hindle",
+          "synopsis": "Un psychiatre invente dans sa clinique privée une thérapie qui permet à ses patients de somatiser leurs frustrations et leur rage. Le résultat dépasse ses espérances et se transforme en cauchemar pour une jeune femme divorcée, son ex-mari et sa petite fille.",
+          "miniTexte": "Les fondements de l'horreur organique selon Cronenberg. De l'ordinaire au surnaturel, le cinéaste met en scène le traumatisme de son propre divorce, transformé en terrifiantes manipulations génétiques. Excroissances et créatures fantastiques se rencontrent au gré d'un tétanisant cauchemar sur la monstruosité maternelle et la fin du couple.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22214,
+              "duree": 92,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -7693,6 +7822,86 @@
       ]
     },
     {
+      "idSeance": 133893,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25725,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-17T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 39040,
+          "titre": "Scanners",
+          "realisateurs": "David Cronenberg",
+          "annee": 1979,
+          "generique": "Jennifer O'Neill, Stephen Lack, Patrick McGoohan",
+          "synopsis": "La prise d'un médicament par de futures mères a donné naissance à des mutants télépathes, les « scanners », dont certains tentent de contrôler le monde. L'un d'eux, Cameron, vit en marge de la société. Repéré par une firme secrète qui mène des recherches, il apprend auprès du Docteur Ruth à domestiquer son pouvoir.\n\n",
+          "miniTexte": "Une série B à la fois violente et alarmante, qui préfigure l'intelligence artificielle et le contrôle numérique. Et s'interroge sur la solitude de celui qui est différent. De la jubilation à l'extrême tension, Cronenberg mêle la médecine et l'horreur au rythme d'un scénario à grands rebondissements et d'une mise en scène aussi vive qu'habilement découpée.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23906,
+              "duree": 103,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133894,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25728,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-18T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31330,
+          "titre": "Mouche",
+          "art": "La",
+          "titreVo": "Fly",
+          "artVo": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 1986,
+          "generique": "Jeff Goldblum, Geena Davis, John Getz",
+          "adaptation": "D'après la nouvelle _La Mouche_ de George Langelaan.",
+          "synopsis": "Un jeune biologiste très doué met au point une invention qui doit révolutionner le monde : la téléportation. Après des essais peu convaincants, il décide de se téléporter lui-même, sans s'apercevoir qu'une mouche fait partie du voyage.",
+          "miniTexte": "Un scientifique timide et ambitieux (Jeff Goldblum, époustouflant) paie le prix de son audace lorsque son corps fusionne avec celui d'une mouche. Éprouvante mutation de l'homme à l'insecte, le remake de _La Mouche noire_ (1958) s'impose comme une métaphore de la maladie, de la déliquescence du corps. À base d'images fortes, d'élans romantiques et de séquences cauchemardesques, Cronenberg instaure un crescendo de l'horreur pour faire réfléchir l'humain sur sa propre mortalité. Un vrai film d'amour, une immense tragédie sur l'absurdité du destin.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 12933,
+              "duree": 96,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133891,
       "idProg": 182,
       "idCycleCategories": [
@@ -7719,6 +7928,51 @@
             {
               "idCopie": 28255,
               "duree": 127
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133895,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25727,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-18T19:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31329,
+          "titre": "Dead Zone",
+          "realisateurs": "David Cronenberg",
+          "annee": 1983,
+          "generique": "Christopher Walken, Brooke Adams, Tom Skerritt",
+          "adaptation": "D'après le roman _Dead Zone_ de Stephen King.",
+          "synopsis": "Après cinq ans passés dans le coma, un homme se réveille avec un terrifiant don de prophétie qui va bouleverser sa vie.",
+          "miniTexte": "Le portrait d'un marginal doté d'un pouvoir de divination qui le dépasse. Avec une sobriété exemplaire, Cronenberg s'approprie le roman éponyme de Stephen King et réalise l'un de ses films les plus personnels et les plus émouvants. S'il emprunte autant au fantastique qu'au thriller schizophrénique, il façonne surtout un drame implacable.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 9696,
+              "duree": 103,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27729,
+              "duree": 103,
+              "format": "35 mm",
+              "version": "VO"
             }
           ]
         }
@@ -7795,6 +8049,85 @@
       ]
     },
     {
+      "idSeance": 132399,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25729,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-19T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 39020,
+          "titre": "Faux-semblants",
+          "titreVo": "Dead Ringers",
+          "realisateurs": "David Cronenberg",
+          "annee": 1988,
+          "generique": "Jeremy Irons, Geneviève Bujold, Heidi von Palleske",
+          "adaptation": "D'après le roman _Twins_ de Bari Wood et Jack Geasland.",
+          "synopsis": "Deux frères jumeaux gynécologues partagent tout dans la vie. Lorsque l'un deux tombe amoureux d'une patiente, leur complicité n'y survit pas, et ils sombrent de concert dans l'autodestruction.",
+          "miniTexte": "Le lien fusionnel de deux frères jumeaux explose lorsque l'un tombe amoureux. Mélodrame psychanalytique à la cérébralité affirmée, _Faux-semblants_ prend la forme d'un labyrinthe vers la folie, d'une descente aux enfers inarrêtable. Cronenberg exploite jusqu'au bout la relation perverse d'un couple gémellaire, qui partage autant le succès que les conquêtes. Du glauque au ludique, sa mise en scène clinique sert avec élégance le jeu subtil de Jeremy Irons, superbe dans un mélange de névroses et de fausse normalité.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27710,
+              "duree": 115,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132400,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25731,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-19T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55771,
+          "titre": "M. Butterfly",
+          "realisateurs": "David Cronenberg",
+          "annee": 1992,
+          "generique": "Jeremy Irons, John Lone, Barbara Sukowa",
+          "adaptation": "D'après la pièce _M. Butterfly_ de David Henry Hwang.",
+          "synopsis": "En pleine Révolution culturelle, un diplomate français tombe amoureux d'une Chinoise, qui le convainc de lui transmettre des informations confidentielles.",
+          "miniTexte": "Un agent français tombe amoureux d'une cantatrice chinoise à la double identité. Dans un registre intimiste, Cronenberg filme la construction d'un fantasme de femme idéale pour mieux questionner la sexualité et son ambiguïté. Sur fond de révolution culturelle, Jeremy Irons navigue de l'illusion à la réalité avec acuité et raffinement.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 15544,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 132397,
       "idProg": 182,
       "idCycleCategories": [
@@ -7824,6 +8157,45 @@
               "idCopie": 22470,
               "duree": 105,
               "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132401,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25732,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-19T19:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59968,
+          "titre": "Crash",
+          "realisateurs": "David Cronenberg",
+          "annee": 1995,
+          "generique": "James Spader, Holly Hunter, Elias Koteas",
+          "adaptation": "D'après le roman _Crash !_ de J. G. Ballard.",
+          "synopsis": "À la suite d'un accident de voiture, un couple en proie à l'ennui se lance dans une série d'expériences sexuelles inédites.",
+          "miniTexte": "La fascination morbide d'un couple sur le déclin pour les accidents de la route, Prix spécial du jury à Cannes en 1996. Au royaume du voyeurisme et de l'autodestruction, Cronenberg adapte le roman éponyme de J. G. Ballard pour évoquer l'hyperconscience de la mort et son imminence. Dans un ballet macabre, quasiment chorégraphié, l'escalade de chocs et de tôles froissées dessine l'union du métal et de la chair à la grande beauté plastique. Sur la thématique de l'auto-machine, la violence du texte se heurte à une mise en scène puissante, qui alterne orgasmes automobiles et excitation funèbre.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23907,
+              "duree": 110,
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -7902,6 +8274,44 @@
       ]
     },
     {
+      "idSeance": 132418,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25758,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-20T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 64235,
+          "titre": "eXistenZ",
+          "realisateurs": "David Cronenberg",
+          "annee": 1998,
+          "generique": "Jennifer Jason Leigh, Jude Law, Willem Dafoe",
+          "synopsis": "La conceptrice d'un jeu vidéo révolutionnaire est poursuivie par des tueurs d'une secte « réaliste ». Pour leur échapper, elle se cache dans les mondes virtuels qu'elle a créés.",
+          "miniTexte": "Un jeu vidéo d'un nouveau genre se branche sur le système nerveux du joueur pour l'immerger dans un monde parallèle. Ours d'argent en 1999, Cronenberg critique le cyberpunk avant d'épingler les attraits et les dangers du virtuel. Un polar futuriste au parcours labyrinthique et chimérique, inspiré par Philip K. Dick.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23931,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133816,
       "idProg": 182,
       "idCycleCategories": [
@@ -7928,6 +8338,44 @@
             {
               "idCopie": 28013,
               "duree": 118
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132419,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25754,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-20T19:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 123191,
+          "titre": "Maps to the Stars",
+          "realisateurs": "David Cronenberg",
+          "annee": 2013,
+          "generique": "Julianne Moore, Mia Wasikowska, John Cusack",
+          "synopsis": "Histoire d'une famille typiquement hollywoodienne dont les membres courent après la célébrité, se cherchent les uns les autres et doivent cohabiter avec les démons du passé.",
+          "miniTexte": "Une satire cruelle d'Hollywood, faite d'avidité et de narcissisme. Berceau de tous les vices, Los Angeles devient un monde sans pitié au gré d'un film choral, qui tourne au truculent jeu de massacre. Cyniques et égocentriques, ses personnages forment un ensemble détonnant, emmené par Julianne Moore, prix d'interprétation féminine au Festival de Cannes en 2014.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 6592,
+              "duree": 0,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -8011,7 +8459,7 @@
       ],
       "idEvenement": 30821,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-23T19:30:00",
+      "dateHeure": "2024-10-23T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -8076,6 +8524,53 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 132466,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25736,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-23T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 103263,
+          "titre": "Promesses de l'ombre",
+          "art": "Les",
+          "titreVo": "Eastern Promises",
+          "realisateurs": "David Cronenberg",
+          "annee": 2006,
+          "generique": "Viggo Mortensen, Naomi Watts, Vincent Cassel",
+          "synopsis": "Une sage-femme enquête sur l'identité d'une jeune Russe, morte en couches, le soir de Noël. Elle découvre que celle-ci était une prostituée, mêlée malgré elle aux agissements d'un groupe de proxénètes. Ses problèmes ne font que commencer.",
+          "miniTexte": "Une plongée en apnée au cœur de la mafia russe, pensée comme la face B d'_A History of Violence_. Avec les codes du western, du mélodrame et du film noir, les obsessions organiques de Cronenberg rejoignent le film de genre pour une tragédie familiale shakespearienne à la réalisation aussi virtuose que limpide.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23914,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 24031,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 133830,
@@ -8771,7 +9266,7 @@
       ]
     },
     {
-      "idSeance": 132600,
+      "idSeance": 133901,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -8781,25 +9276,27 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21655,
+      "idEvenement": 21700,
       "typeEvenement": 13,
       "dateHeure": "2024-10-27T20:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 53350,
-          "titre": "Espionne à bord",
-          "titreVo": "Contraband",
-          "realisateurs": "Michael Powell",
-          "annee": 1939,
-          "synopsis": "1940\\. Bloqué dans un port britannique, Andersen, capitaine danois d'un navire de commerce, se retrouve malgré lui dans une affaire d'espionnage.",
+          "idFilm": 41083,
+          "titre": "Une question de vie ou de mort",
+          "titreVo": "A Matter of Life and Death",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1946,
+          "synopsis": "Alors que son bombardier prend feu, le commandant Peter Carter s'en sort indemne. Peu de temps après, son guide céleste vient néanmoins le trouver, lui expliquant qu'il n'est pas parvenu à le trouver dans le brouillard. Il tente alors de le convaincre de le suivre au paradis.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 20293,
-              "duree": 0,
-              "format": "35 mm"
+              "idCopie": 20223,
+              "duree": 104,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -8879,6 +9376,41 @@
               "format": "35 mm",
               "version": "VO",
               "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132651,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21655,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-30T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 53350,
+          "titre": "Espionne à bord",
+          "titreVo": "Contraband",
+          "realisateurs": "Michael Powell",
+          "annee": 1939,
+          "synopsis": "1940\\. Bloqué dans un port britannique, Andersen, capitaine danois d'un navire de commerce, se retrouve malgré lui dans une affaire d'espionnage.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20293,
+              "duree": 0,
+              "format": "35 mm"
             }
           ]
         }
@@ -9110,34 +9642,34 @@
       ]
     },
     {
-      "idSeance": 132728,
+      "idSeance": 133900,
       "idProg": 182,
       "idCycleCategories": [
         {
-          "idCycle": 476,
-          "idCategorie": 2201,
-          "titreCycle": "Michael Powell",
+          "idCycle": 741,
+          "idCategorie": 3235,
+          "titreCycle": "James Cameron",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21700,
+      "idEvenement": 29886,
       "typeEvenement": 13,
       "dateHeure": "2024-11-01T20:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 41083,
-          "titre": "Une question de vie ou de mort",
-          "titreVo": "A Matter of Life and Death",
-          "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1946,
-          "synopsis": "Alors que son bombardier prend feu, le commandant Peter Carter s'en sort indemne. Peu de temps après, son guide céleste vient néanmoins le trouver, lui expliquant qu'il n'est pas parvenu à le trouver dans le brouillard. Il tente alors de le convaincre de le suivre au paradis.",
-          "status": 0,
+          "idFilm": 30824,
+          "titre": "Terminator",
+          "realisateurs": "James Cameron",
+          "annee": 1984,
+          "generique": "Arnold Schwarzenegger, Michael Biehn, Linda Hamilton",
+          "miniTexte": "2029, l'humanité est en guerre contre les machines, et la Résistance envoie l'un des siens dans le passé pour influer sur le cours de l'Histoire. Linda Hamilton est Sarah Connor, Michael Biehn son ange gardien, et Arnold Schwarzenegger le T-800, cyborg meurtrier. _Terminator_ marque les débuts de la franchise avec un premier volet musclé : courses-poursuites efficaces, effets spéciaux impeccables, pour une réflexion sur l'intelligence artificielle qui trouve aujourd'hui un écho tout particulier. Une référence du cinéma d'anticipation, et la naissance du mythe Schwarzie (_« I'll be back! »_), qui inscrit son nom au panthéon de la pop culture.",
+          "status": 2,
           "copies": [
             {
-              "idCopie": 20223,
-              "duree": 104,
+              "idCopie": 9957,
+              "duree": 107,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
@@ -9407,78 +9939,68 @@
       ]
     },
     {
-      "idSeance": 132784,
+      "idSeance": 132786,
       "idProg": 182,
       "idCycleCategories": [
         {
-          "idCycle": 741,
-          "idCategorie": 3235,
-          "titreCycle": "James Cameron",
-          "titreSousCycle": "Les films"
+          "idCycle": 11,
+          "idCategorie": 3405,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Godzilla Day"
         }
       ],
-      "idEvenement": 29886,
+      "idEvenement": 31063,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-03T14:30:00",
+      "dateHeure": "2024-11-03T14:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 30824,
-          "titre": "Terminator",
-          "realisateurs": "James Cameron",
-          "annee": 1984,
-          "generique": "Arnold Schwarzenegger, Michael Biehn, Linda Hamilton",
-          "miniTexte": "2029, l'humanité est en guerre contre les machines, et la Résistance envoie l'un des siens dans le passé pour influer sur le cours de l'Histoire. Linda Hamilton est Sarah Connor, Michael Biehn son ange gardien, et Arnold Schwarzenegger le T-800, cyborg meurtrier. _Terminator_ marque les débuts de la franchise avec un premier volet musclé : courses-poursuites efficaces, effets spéciaux impeccables, pour une réflexion sur l'intelligence artificielle qui trouve aujourd'hui un écho tout particulier. Une référence du cinéma d'anticipation, et la naissance du mythe Schwarzie (_« I'll be back! »_), qui inscrit son nom au panthéon de la pop culture.",
-          "status": 2,
+          "idFilm": 37903,
+          "titre": "Godzilla",
+          "titreVo": "Gojira",
+          "realisateurs": "Ishirô Honda",
+          "annee": 1954,
+          "generique": "Akira Takarada, Momoko Kôchi, Akihiko Hirata",
+          "synopsis": "Au large des côtes japonaises, plusieurs navires disparaissent mystérieusement. Alertées, les autorités dépêchent une expédition scientifique qui recueille les témoignages de pêcheurs terrorisés. Tous assurent avoir vu un monstre remonté du fond des mers. Lequel s'avère être un dinosaure réveillé par des explosions atomiques.",
+          "status": 0,
           "copies": [
             {
-              "idCopie": 9957,
-              "duree": 107,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "idCopie": 9818,
+              "duree": 98,
+              "format": "35 mm",
+              "version": "VF"
             }
           ]
         }
       ]
     },
     {
-      "idSeance": 132785,
+      "idSeance": 133896,
       "idProg": 182,
       "idCycleCategories": [
         {
-          "idCycle": 741,
-          "idCategorie": 3235,
-          "titreCycle": "James Cameron",
-          "titreSousCycle": "Les films"
+          "idCycle": 11,
+          "idCategorie": 3405,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Godzilla Day"
         }
       ],
-      "idEvenement": 29889,
+      "idEvenement": 31066,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-03T17:00:00",
+      "dateHeure": "2024-11-03T16:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 30829,
-          "titre": "Terminator 2 : Le Jugement dernier",
-          "titreVo": "Terminator 2: Judgment Day",
-          "realisateurs": "James Cameron",
-          "annee": 1991,
-          "generique": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",
-          "synopsis": "Le nouveau modèle de cyborg Terminator, le T-1000, est invincible car son pouvoir métamorphe lui permet d'usurper par simple contact n'importe quelle identité.",
-          "miniTexte": "_« Hasta la vista, baby! »_ Après le succès colossal du premier opus, la suite très attendue, avec un prologue de feu et d'acier, des effets spéciaux bluffants, et une poursuite d'anthologie en moto et camion, qui marquent le retour de Schwarzie – cette fois en héros, icône hollywoodienne oblige. Cameron donne davantage de profondeur à ses personnages, et Robert Patrick est un parfait T-1000, tout en métal liquide, qui traque le jeune John Connor (la révélation Edward Furlong). Un pur plaisir de spectateur.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 8975,
-              "duree": 136,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
+          "idFilm": 74370,
+          "titre": "Monstres des planètes secrètes = La Planète des monstres",
+          "art": "Les",
+          "titreVo": "Kaiju shima no kessen : Gojira no musuko",
+          "realisateurs": "Jun Fukuda",
+          "annee": 1967,
+          "status": 0,
+          "copies": []
         }
       ]
     },
@@ -9517,6 +10039,35 @@
       ]
     },
     {
+      "idSeance": 133899,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3405,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Godzilla Day"
+        }
+      ],
+      "idEvenement": 31066,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-03T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 74370,
+          "titre": "Monstres des planètes secrètes = La Planète des monstres",
+          "art": "Les",
+          "titreVo": "Kaiju shima no kessen : Gojira no musuko",
+          "realisateurs": "Jun Fukuda",
+          "annee": 1967,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 132791,
       "idProg": 182,
       "idCycleCategories": [
@@ -9546,6 +10097,34 @@
               "format": "35 mm"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133898,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3405,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Godzilla Day"
+        }
+      ],
+      "idEvenement": 31065,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-03T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 97016,
+          "titre": "Godzilla : Final wars",
+          "titreVo": "Gojira : Fainaru uôzu",
+          "realisateurs": "Ryuhei Kitamura",
+          "annee": 2004,
+          "status": 0,
+          "copies": []
         }
       ]
     },
