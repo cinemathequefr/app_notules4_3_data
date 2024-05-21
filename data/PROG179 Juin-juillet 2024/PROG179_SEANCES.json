@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-17T14:21:43.434Z",
+  "updatedAt": "2024-05-21T08:43:15.547Z",
   "data": [
     {
       "idSeance": 128873,
@@ -1696,6 +1696,44 @@
       ]
     },
     {
+      "idSeance": 133883,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 738,
+          "idCategorie": 3217
+        }
+      ],
+      "idEvenement": 29685,
+      "typeEvenement": 13,
+      "dateHeure": "2024-06-08T15:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154613,
+          "titre": "Courtisane et l'Assassin",
+          "art": "La",
+          "titreVo": "Maiko to ansatsusha",
+          "titreNx": "舞妓と暗殺者",
+          "realisateurs": "Kenji Misumi",
+          "annee": 1963,
+          "generique": "Miwa Takada, Masahiko Tsugawa, Junichirō Narita",
+          "miniTexte": "Le Japon du XIX<sup>e</sup> siècle, à la fin de l'époque Edo. Un samouraï tombe amoureux d'une jeune femme alors qu'il prend les armes pour renverser le shogunat local. Un drame historique déchirant, écrit par le génial Kaneto Shindō, réalisateur de _L'Île nue_ et d'_Onibaba_, magnifié par le duo Masahiko Tsugawa (acteur pour Naruse, Mizoguchi, Ōshima, Miike et Fukasaku) et Miwa Takada, fidèle actrice de Misumi.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27009,
+              "duree": 75,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133798,
       "idProg": 179,
       "idCycleCategories": [
@@ -2155,6 +2193,43 @@
       ]
     },
     {
+      "idSeance": 133885,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 738,
+          "idCategorie": 3217
+        }
+      ],
+      "idEvenement": 29712,
+      "typeEvenement": 13,
+      "dateHeure": "2024-06-09T20:15:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154637,
+          "titre": "Hanzo the Razor: Sword of Justice",
+          "titreVo": "Goyōkiba",
+          "titreNx": "御用牙",
+          "realisateurs": "Kenji Misumi",
+          "annee": 1972,
+          "generique": "Shintarō Katsu, Yukiji Asaoka, Mari Atsumi",
+          "miniTexte": "Après les trois premiers _Baby Cart_, Misumi adapte à nouveau le mangaka Kazuo Koike pour une nouvelle série de films – dont il ne réalisera finalement que le premier volet. Incorruptible et impétueux, Itami Hanzo est un cousin éloigné de Dirty Harry, dont le ‌.44 Magnum serait remplacé par un phallus qu'il entraîne et dégaine régulièrement. Violent, pop et licencieux, un classique du cinéma d'exploitation nippon pour public averti.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27026,
+              "duree": 94,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133756,
       "idProg": 179,
       "idCycleCategories": [
@@ -2417,6 +2492,44 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133888,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 738,
+          "idCategorie": 3217
+        }
+      ],
+      "idEvenement": 29684,
+      "typeEvenement": 13,
+      "dateHeure": "2024-06-10T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154612,
+          "titre": "Famille matrilinéaire",
+          "art": "La",
+          "titreVo": "Nyokei kazoku",
+          "titreNx": "女系家族",
+          "realisateurs": "Kenji Misumi",
+          "annee": 1963,
+          "generique": "Ayako Wakao, Miwa Takada, Machiko Kyō",
+          "miniTexte": "Alors que vient de décéder un riche patriarche, un terrible bras de fer s'engage autour de sa succession, qui voit s'opposer ses trois filles, ainsi que sa maîtresse. Misumi s'éloigne du cinéma de genre et signe un drame familial bouleversant, suspense patrimonial cruel tiré d'un roman extrêmement populaire de la romancière Toyoko Yamasaki. Formidable casting féminin, où brillent plusieurs grands noms de l'époque : Machiko Kyō (_Herbes flottantes_, _Les Contes de la lune vague après la pluie_, _Rashōmon_), Ayako Wakao (_L'Ange rouge_, _La Rue de la honte_) ou encore Miwa Takada, fidèle actrice de Misumi (_Le Démon du château de Sendai_, _La Courtisane et l'Assassin_).",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27006,
+              "duree": 111,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
