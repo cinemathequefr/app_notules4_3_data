@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-22T08:14:52.211Z",
+  "updatedAt": "2024-05-22T15:59:15.988Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1305,7 +1305,7 @@
           ]
         }
       ],
-      "mention": "Ouverture de la rétrospective. Séance présentée par Pascal Cervo, Dominique Reymond et Mireille Roussel"
+      "mention": "Ouverture de la rétrospective. Séance présentée par Pascal Cervo, Dominique Reymond, Mireille Roussel et Ricardo Muñoz"
     },
     {
       "idSeance": 133882,
@@ -1478,7 +1478,7 @@
           ]
         }
       ],
-      "mention": "Séance présentée par Robert Guédiguian"
+      "mention": "Séance présentée par Robert Guédiguian et Ricardo Muñoz"
     },
     {
       "idSeance": 131286,
@@ -2100,6 +2100,32 @@
       "mention": "Séance présentée par Pascal Cervo et Mireille Roussel"
     },
     {
+      "idSeance": 133905,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 787,
+          "idCategorie": 3407,
+          "titreCycle": "Laurent Achard"
+        }
+      ],
+      "idEvenement": 31070,
+      "typeEvenement": 14,
+      "dateHeure": "2024-09-11T19:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "JE",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 31070,
+          "titre": "DIALOGUE AVEC PASCAL CERVO ET MIREILLE ROUSSEL",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 1
+        }
+      ]
+    },
+    {
       "idSeance": 133635,
       "idProg": 182,
       "idCycleCategories": [
@@ -2584,6 +2610,12 @@
           "idCategorie": 3367,
           "titreCycle": "George Cukor",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 798,
+          "idCategorie": 3398,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 30733,
@@ -2836,7 +2868,7 @@
       ]
     },
     {
-      "idSeance": 131486,
+      "idSeance": 133886,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -2846,29 +2878,49 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30061,
+      "idEvenement": 30064,
       "typeEvenement": 13,
       "dateHeure": "2024-09-15T18:30:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 48675,
-          "titre": "Fin du monde",
+          "idFilm": 48677,
+          "titre": "Folie du docteur Tube",
           "art": "La",
           "realisateurs": "Abel Gance",
-          "annee": 1930,
-          "generique": "Colette Darfeuil, Abel Gance, Victor Francen",
-          "synopsis": "Un savant a découvert une comète qui se dirige droit vers la Terre et la détruira. Voyant que la panique s'empare de l'humanité, le savant tente alors de faire voter la proclamation d'une république universelle.",
+          "annee": 1915,
+          "generique": "Albert Dieudonné",
+          "ageMinimal": 8,
+          "synopsis": "Un savant trouve le moyen de décomposer les rayons lumineux.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 28109,
-              "duree": 103
+              "idCopie": 1142,
+              "duree": 14,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 48672,
+          "titre": "Au secours !",
+          "realisateurs": "Abel Gance",
+          "annee": 1923,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20644,
+              "duree": 36,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
             }
           ]
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par (Etudiant) Zygel"
     },
     {
       "idSeance": 133705,
@@ -3049,7 +3101,7 @@
           "idFilm": 154849,
           "titre": "Ma vie, ma gueule",
           "realisateurs": "Sophie Fillières",
-          "annee": 2023,
+          "annee": 2024,
           "status": 1,
           "copies": [
             {
@@ -3101,7 +3153,7 @@
       ]
     },
     {
-      "idSeance": 133886,
+      "idSeance": 131486,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -3111,49 +3163,29 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30064,
+      "idEvenement": 30061,
       "typeEvenement": 13,
       "dateHeure": "2024-09-18T18:30:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 48677,
-          "titre": "Folie du docteur Tube",
+          "idFilm": 48675,
+          "titre": "Fin du monde",
           "art": "La",
           "realisateurs": "Abel Gance",
-          "annee": 1915,
-          "generique": "Albert Dieudonné",
-          "ageMinimal": 8,
-          "synopsis": "Un savant trouve le moyen de décomposer les rayons lumineux.",
+          "annee": 1930,
+          "generique": "Colette Darfeuil, Abel Gance, Victor Francen",
+          "synopsis": "Un savant a découvert une comète qui se dirige droit vers la Terre et la détruira. Voyant que la panique s'empare de l'humanité, le savant tente alors de faire voter la proclamation d'une république universelle.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 1142,
-              "duree": 14,
-              "format": "35 mm",
-              "intertitres": "INT. FR."
-            }
-          ]
-        },
-        {
-          "ordre": 2,
-          "idFilm": 48672,
-          "titre": "Au secours !",
-          "realisateurs": "Abel Gance",
-          "annee": 1923,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 20644,
-              "duree": 36,
-              "format": "35 mm",
-              "intertitres": "INT. FR."
+              "idCopie": 28109,
+              "duree": 103
             }
           ]
         }
-      ],
-      "mention": "Accompagnement musical par (Etudiant) Zygel"
+      ]
     },
     {
       "idSeance": 131533,
@@ -10621,6 +10653,12 @@
           "idCycle": 476,
           "idCategorie": 2201,
           "titreCycle": "Michael Powell",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 798,
+          "idCategorie": 3398,
+          "titreCycle": "Ma petite Cinémathèque",
           "titreSousCycle": "Les films"
         }
       ],
