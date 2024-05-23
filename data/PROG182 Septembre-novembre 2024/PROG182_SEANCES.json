@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-23T08:31:38.355Z",
+  "updatedAt": "2024-05-23T11:07:37.896Z",
   "data": [
     {
       "idSeance": 130975,
@@ -3103,7 +3103,10 @@
               "duree": 99,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 289238
+          }
         }
       ],
       "mention": "Avant-première"
@@ -3251,7 +3254,10 @@
               "duree": 105,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 43218
+          }
         }
       ]
     },
@@ -3702,7 +3708,7 @@
               "duree": 90,
               "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ]
         }
@@ -3819,7 +3825,10 @@
               "duree": 102,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 57667
+          }
         }
       ]
     },
@@ -3956,7 +3965,10 @@
               "duree": 113,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 25634
+          }
         }
       ]
     },
@@ -4121,7 +4133,10 @@
               "duree": 5,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 659
+          }
         },
         {
           "ordre": 5,
@@ -4135,7 +4150,10 @@
               "idCopie": 28182,
               "duree": 7
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 144442
+          }
         },
         {
           "ordre": 6,
@@ -4149,7 +4167,10 @@
               "idCopie": 28179,
               "duree": 6
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 120961
+          }
         },
         {
           "ordre": 7,
@@ -4165,7 +4186,10 @@
               "duree": 10,
               "format": "Numérique"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 144548
+          }
         }
       ]
     },
@@ -4199,7 +4223,10 @@
               "duree": 105,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 137664
+          }
         }
       ]
     },
@@ -4314,7 +4341,10 @@
               "duree": 102,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 220855
+          }
         }
       ]
     },
@@ -4395,7 +4425,10 @@
               "idCopie": 28176,
               "duree": 95
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 253236
+          }
         }
       ]
     },
@@ -5682,7 +5715,10 @@
               "duree": 87,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 99078
+          }
         }
       ],
       "mention": "Ouverture de la rétrospective"
@@ -5938,7 +5974,10 @@
               "duree": 112,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 12992
+          }
         }
       ]
     },
@@ -6018,7 +6057,10 @@
               "duree": 90,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 9887
+          }
         }
       ]
     },
@@ -6059,7 +6101,10 @@
               "sousTitres": "STA",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 1872
+          }
         }
       ]
     },
@@ -6207,7 +6252,10 @@
               "duree": 85,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 3611
+          }
         }
       ]
     },
@@ -6348,7 +6396,10 @@
               "duree": 110,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 544
+          }
         }
       ]
     },
@@ -6436,7 +6487,10 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 2547
+          }
         }
       ]
     },
@@ -6551,7 +6605,10 @@
               "duree": 112,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 2104
+          }
         }
       ]
     },
@@ -6587,7 +6644,10 @@
               "duree": 104,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 2725
+          }
         }
       ]
     },
@@ -6626,7 +6686,10 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 6174
+          }
         }
       ],
       "mention": "Ouverture de la rétrospective"
@@ -6661,7 +6724,10 @@
               "duree": 93,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 3130
+          }
         }
       ]
     },
@@ -6733,7 +6799,10 @@
               "duree": 100,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 21464
+          }
         }
       ]
     },
@@ -6836,7 +6905,10 @@
               "duree": 95,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 74338
+          }
         }
       ]
     },
@@ -6866,7 +6938,10 @@
           "generique": "Zhasulan Asauov, Gulnara Dusmatova, Ilyas Kalymbetov",
           "miniTexte": "Atteint d'une maladie cardiaque, un garçon de 12 ans quitte sa steppe natale pour rejoindre Almaty, la capitale. Après les rêves éveillés de _Kaïrat_, Omirbaev signe un superbe conte sur la découverte du monde extérieur. L'exil d'un jeune Kazakh non russophone, confronté à la tristesse, l'exclusion et les humiliations, mais aussi aux rapports de force et aux désirs charnels. Une histoire de nostalgie autant que de liberté, où le ressort social se révèle par l'intime, sans ornements ni artifices. Une œuvre simple, pudique, d'une sensibilité universelle.",
           "status": 2,
-          "copies": []
+          "copies": [],
+          "idFilmExt": {
+            "boxoffice": 13818
+          }
         }
       ]
     },
@@ -6900,7 +6975,10 @@
               "duree": 117,
               "format": "Vidéo"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 25994
+          }
         }
       ]
     },
@@ -7015,7 +7093,10 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 21463
+          }
         }
       ]
     },
@@ -7047,7 +7128,10 @@
           "adaptation": "D'après le roman _Anna Karénine_ de Léon Tolstoï.",
           "miniTexte": "Attirée par un nouveau riche, une bourgeoise bien rangée délaisse mari et enfant. Dans une transposition contemporaine et épurée d'_Anna Karenine_, Omirbaev décrit les brèches du Kazakhstan, de l'ancienne à la nouvelle capitale. Entre les murs d'une société en mutation, l'amour se révèle illusoire et la passion sans issue.",
           "status": 2,
-          "copies": []
+          "copies": [],
+          "idFilmExt": {
+            "boxoffice": 140647
+          }
         }
       ]
     },
@@ -7088,7 +7172,10 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 54153
+          }
         }
       ]
     },
@@ -7272,7 +7359,10 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 206434
+          }
         }
       ]
     },
@@ -7363,7 +7453,10 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 62380
+          }
         }
       ]
     },
@@ -7441,7 +7534,10 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 37343
+          }
         }
       ]
     },
@@ -7512,7 +7608,10 @@
           "adaptation": "D'après le roman _Anna Karénine_ de Léon Tolstoï.",
           "miniTexte": "Attirée par un nouveau riche, une bourgeoise bien rangée délaisse mari et enfant. Dans une transposition contemporaine et épurée d'_Anna Karenine_, Omirbaev décrit les brèches du Kazakhstan, de l'ancienne à la nouvelle capitale. Entre les murs d'une société en mutation, l'amour se révèle illusoire et la passion sans issue.",
           "status": 2,
-          "copies": []
+          "copies": [],
+          "idFilmExt": {
+            "boxoffice": 140647
+          }
         }
       ]
     },
@@ -7553,7 +7652,10 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 206434
+          }
         }
       ]
     },
@@ -7592,7 +7694,10 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 299598
+          }
         }
       ]
     },
@@ -8558,7 +8663,10 @@
               "format": "DCP",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 4305
+          }
         }
       ],
       "mention": "Ouverture de la rétrospective"
@@ -8649,7 +8757,65 @@
               "version": "VO",
               "stDemande": true
             }
+          ],
+          "idFilmExt": {
+            "boxoffice": 187921
+          }
+        }
+      ]
+    },
+    {
+      "idSeance": 133907,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3408
+        }
+      ],
+      "idEvenement": 31086,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-24T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43655,
+          "titre": "Carrière de Suzanne",
+          "art": "La",
+          "realisateurs": "Éric Rohmer",
+          "annee": 1963,
+          "generique": "Philippe Beuzen, Catherine Sée, Christian Charrière",
+          "synopsis": "Deux étudiants abordent dans un café une jeune femme indépendante. Par jeu, l'un d'eux entreprend de la séduire. Le second admire l'attitude donjuanesque de son camarade, tandis qu'il s'agace de celle, trop libre à son goût, de la jeune femme...",
+          "miniTexte": "Les chassés-croisés amoureux de deux Don Juan avec une jeune femme libre qui ne s'en laisse pas conter. Un portrait de la jeunesse d'après-guerre, ses conservatismes et sa misogynie, avant le dégel de 1968. Schroeder fut à la fois assistant-réalisateur et producteur du film.",
+          "commentaire": "Un homme rencontre une femme, puis en rencontre une seconde, hésite, et retourne à la première. Sur ce motif minimal, les deux premiers _Contes moraux_ d'Éric Rohmer, produits (et interprété, pour _La Boulangère de Monceau_) par Barbet Schroeder, admirateur et ami. Création des Films du Losange qui fêtent donc leurs soixante ans. Modestie des moyens, primat de la mise en scène. — F. B.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 16955,
+              "duree": 52,
+              "format": "DCP"
+            }
           ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 115538,
+          "titre": "Marin masqué",
+          "art": "Le",
+          "realisateurs": "Sophie Letourneur",
+          "annee": 2011,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28262,
+              "duree": 36,
+              "format": "DCP"
+            }
+          ],
+          "idFilmExt": {
+            "boxoffice": 194822
+          }
         }
       ]
     },
@@ -8702,7 +8868,10 @@
               "format": "35 mm",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 170722
+          }
         },
         {
           "ordre": 3,
@@ -8728,7 +8897,10 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 171079
+          }
         },
         {
           "ordre": 4,
@@ -8787,6 +8959,31 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 133908,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3111
+        }
+      ],
+      "idEvenement": 31088,
+      "typeEvenement": 14,
+      "dateHeure": "2024-10-24T20:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31088,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Nine Antico",
+          "duree": 60
+        }
+      ]
     },
     {
       "idSeance": 133892,
@@ -8853,7 +9050,10 @@
               "duree": 123,
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 61530
+          }
         }
       ]
     },
@@ -8928,7 +9128,10 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 39205
+          }
         }
       ]
     },
@@ -9016,7 +9219,10 @@
               "duree": 163,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 4082
+          }
         }
       ]
     },
@@ -9128,7 +9334,10 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 553
+          }
         }
       ]
     },
@@ -9210,7 +9419,10 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 11262
+          }
         }
       ]
     },
@@ -9299,7 +9511,10 @@
               "format": "35 mm",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 8130
+          }
         }
       ]
     },
@@ -9336,7 +9551,10 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 4302
+          }
         }
       ]
     },
@@ -9372,7 +9590,10 @@
               "format": "35 mm",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 169897
+          }
         }
       ]
     },
@@ -9415,7 +9636,10 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 43982
+          }
         }
       ]
     },
@@ -9450,7 +9674,10 @@
               "duree": 0,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 131898
+          }
         }
       ]
     },
@@ -9565,7 +9792,10 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 1070
+          }
         }
       ]
     },
@@ -9638,7 +9868,10 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 26045
+          }
         }
       ]
     },
@@ -9817,7 +10050,10 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 131246
+          }
         }
       ]
     },
@@ -9860,7 +10096,10 @@
               "format": "16 mm",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 187923
+          }
         }
       ]
     },
@@ -9972,7 +10211,10 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 26177
+          }
         }
       ]
     },
@@ -10300,7 +10542,10 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 171748
+          }
         }
       ]
     },
@@ -10374,7 +10619,10 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 170346
+          }
         }
       ]
     },
@@ -10453,6 +10701,39 @@
       ]
     },
     {
+      "idSeance": 133909,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3408
+        }
+      ],
+      "idEvenement": 31083,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-07T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55998,
+          "titre": "Working Girls",
+          "realisateurs": "Lizzie Borden",
+          "annee": 1986,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28263,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 132874,
       "idProg": 182,
       "idCycleCategories": [
@@ -10490,6 +10771,31 @@
               "sousTitres": "STF"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133910,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3111
+        }
+      ],
+      "idEvenement": 31089,
+      "typeEvenement": 14,
+      "dateHeure": "2024-11-07T20:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31089,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Nine Antico",
+          "duree": 60
         }
       ]
     },
@@ -10563,7 +10869,10 @@
               "format": "DCP",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 171321
+          }
         }
       ]
     },
@@ -10623,11 +10932,13 @@
         {
           "ordre": 1,
           "idFilm": 42042,
-          "titre": "Red Ensign",
+          "titre": "Pavillon rouge",
+          "art": "Le",
+          "titreVo": "Red Ensign",
           "realisateurs": "Michael Powell",
           "annee": 1934,
           "synopsis": "Dans une Angleterre où les chantiers navals subissent une forte crise, un directeur d'entreprise prend le pari de fabriquer de nouveaux bateaux, plus performants. Le film raconte son aventure industrielle en même temps qu'il fait le portrait de ces chantiers disparus.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20228,
@@ -10635,7 +10946,10 @@
               "format": "DCP",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 170125
+          }
         }
       ]
     },
@@ -10683,7 +10997,10 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 7072
+          }
         }
       ]
     },
@@ -10718,7 +11035,10 @@
               "duree": 63,
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 187823
+          }
         }
       ]
     },
@@ -10755,7 +11075,10 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 187821
+          }
         }
       ]
     },
@@ -10839,7 +11162,10 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 187773
+          }
         }
       ]
     },
@@ -10929,7 +11255,10 @@
               "format": "DCP",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 133248
+          }
         }
       ]
     },
@@ -11048,7 +11377,10 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 187888
+          }
         }
       ]
     },
@@ -11119,7 +11451,10 @@
               "duree": 66,
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 187774
+          }
         }
       ]
     },
@@ -11307,7 +11642,10 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 147884
+          }
         },
         {
           "ordre": 2,
@@ -11325,7 +11663,10 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 175889
+          }
         }
       ]
     },
@@ -11352,8 +11693,8 @@
           "art": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1950,
-          "synopsis": "Un noble anglais, revient en France pour sauver les aristocrates de la Terreur. (Attention : 1 source WIKI)",
-          "status": 0,
+          "synopsis": "Un noble anglais, revient en France pour sauver les aristocrates de la Terreur.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 20202,
@@ -11362,7 +11703,10 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 132375
+          }
         }
       ]
     },
@@ -11497,6 +11841,45 @@
       ]
     },
     {
+      "idSeance": 133911,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3408
+        }
+      ],
+      "idEvenement": 31084,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-14T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30198,
+          "titre": "Fièvre du samedi soir",
+          "art": "La",
+          "titreVo": "Saturday Night Fever",
+          "realisateurs": "John Badham",
+          "annee": 1977,
+          "adaptation": "D'après l'article _Tribal Rites of the New Saturday Night_ de Nik Cohn.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28260,
+              "duree": 118,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmExt": {
+            "boxoffice": 608
+          }
+        }
+      ]
+    },
+    {
       "idSeance": 133060,
       "idProg": 182,
       "idCycleCategories": [
@@ -11563,6 +11946,31 @@
               "format": "DCP"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133912,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3111
+        }
+      ],
+      "idEvenement": 31090,
+      "typeEvenement": 14,
+      "dateHeure": "2024-11-14T21:00:00",
+      "typeConference": "Dialogue",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31090,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Nine Antico",
+          "duree": 60
         }
       ]
     },
@@ -11657,7 +12065,10 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 187833
+          }
         }
       ]
     },
@@ -11693,7 +12104,10 @@
               "format": "16 mm",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 140474
+          }
         }
       ]
     },
@@ -11738,7 +12152,10 @@
               "format": "DCP",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 4305
+          }
         }
       ]
     },
@@ -11855,7 +12272,10 @@
               "duree": 119,
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 39188
+          }
         }
       ]
     },
@@ -11893,7 +12313,10 @@
               "format": "35 mm",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 170165
+          }
         }
       ]
     },
@@ -12001,7 +12424,10 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 56549
+          }
         }
       ]
     },
@@ -12046,7 +12472,10 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 4301
+          }
         }
       ]
     },
@@ -12162,7 +12591,10 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 187768
+          }
         },
         {
           "ordre": 2,
@@ -12180,7 +12612,10 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 187771
+          }
         }
       ]
     },
@@ -12430,7 +12865,10 @@
               "sousTitres": "STF",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 4318
+          }
         }
       ]
     },
@@ -12530,7 +12968,9 @@
         {
           "ordre": 1,
           "idFilm": 107628,
-          "titre": "Herzog Blaubarts Burg",
+          "titre": "Château de Barbe-Bleue",
+          "art": "Le",
+          "titreVo": "Herzog Blaubarts Burg",
           "realisateurs": "Michael Powell",
           "annee": 1964,
           "synopsis": "Enième épouse de Barbe-Bleue, Judit découvre le château de son mari. Curieuse de l'édifice, elle va franchir la porte qui fait l'objet de tous les interdits... Film inspiré de l'unique opéra de Béla Bartók.",
@@ -12584,6 +13024,40 @@
       ]
     },
     {
+      "idSeance": 133913,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3408
+        }
+      ],
+      "idEvenement": 31085,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-21T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47420,
+          "titre": "Bonnes femmes",
+          "art": "Les",
+          "realisateurs": "Claude Chabrol",
+          "annee": 1960,
+          "generique": "Bernadette Lafont, Stéphane Audran, Clotilde Joano, Lucile Saint-Simon",
+          "synopsis": "Quatre jeunes vendeuses dans un petit magasin d'électro-ménager parisien. Quatre vies sentimentales entre rencontres faciles, mariage décevant, dragues et rêve du prince charmant.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 2760,
+              "duree": 92,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133852,
       "idProg": 182,
       "idCycleCategories": [
@@ -12602,11 +13076,11 @@
         {
           "ordre": 1,
           "idFilm": 70991,
-          "titre": "Oh ! Rosalinda !",
+          "titre": "Oh... Rosalinda!!",
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1955,
-          "synopsis": "Inspirée de l'opérette « La Chauve-Souris » de Johann Straus, le film s'attache, dans le Vienne d'après guerre, à des jeux d'amour et de quiproquos.",
-          "status": 0,
+          "synopsis": "Inspirée de l'opérette _La Chauve-souris_ de Johann Straus, le film s'attache, dans le Vienne d'après guerre, à des jeux d'amour et de quiproquos.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 27070,
@@ -12615,7 +13089,10 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmExt": {
+            "boxoffice": 130403
+          }
         }
       ]
     },
@@ -12652,6 +13129,31 @@
         }
       ],
       "mention": "Séance présentée par Francis Huster et Macha Méril"
+    },
+    {
+      "idSeance": 133914,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3111
+        }
+      ],
+      "idEvenement": 31091,
+      "typeEvenement": 14,
+      "dateHeure": "2024-11-21T20:45:00",
+      "typeConference": "Dialogue",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31091,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Nine Antico",
+          "duree": 60
+        }
+      ]
     },
     {
       "idSeance": 133850,
