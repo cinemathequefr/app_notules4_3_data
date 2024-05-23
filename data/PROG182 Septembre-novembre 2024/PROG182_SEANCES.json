@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-23T12:20:06.014Z",
+  "updatedAt": "2024-05-23T14:28:45.075Z",
   "data": [
     {
       "idSeance": 130975,
@@ -3532,12 +3532,15 @@
               "idCopie": 17945,
               "duree": 115,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             },
             {
               "idCopie": 28024,
               "duree": 115,
-              "format": "16 mm"
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
@@ -5706,6 +5709,7 @@
           "titre": "Sauve qui peut (la vie)",
           "realisateurs": "Jean-Luc Godard",
           "annee": 1979,
+          "dureeStd": 87,
           "generique": "Isabelle Huppert, Jacques Dutronc, Nathalie Baye",
           "synopsis": "« Qu'un plan ne suive pas un autre plan (un cadre, disaient Eisenstein et Dovjenko) parce que c'est écrit (_mektoub_) mais parce que le plan qui précède doit se changer dans un autre pour poursuivre son mouvement, comme dans un jeu ou dans une société les gens s'accordent ou pas pour stopper ou continuer un mouvement social. » (JLG, lettre n° 2 à l'avance sur recettes, 1979)",
           "status": 2,
