@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-22T15:59:15.988Z",
+  "updatedAt": "2024-05-23T08:31:38.355Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1535,14 +1535,7 @@
           "adaptation": "D'après la pièce _Haute société_ de W. Somerset Maugham.",
           "miniTexte": "Exercice de godille entre cynisme et désillusions pour Constance Bennett, dans le rôle d'une ambitieuse Américaine plongée dans l'aristocratie anglaise. Et pour Cukor, qui, à grand renfort de dialogues acides, adapte la pièce de Somerset Maugham et parvient à marier le vice et la vertu. Le dernier film du cinéaste pour la RKO, avant qu'il n'intègre la MGM.",
           "status": 2,
-          "copies": [
-            {
-              "idCopie": 6936,
-              "duree": 83,
-              "format": "35 mm",
-              "version": "VO"
-            }
-          ]
+          "copies": []
         }
       ]
     },
@@ -2106,7 +2099,8 @@
         {
           "idCycle": 787,
           "idCategorie": 3407,
-          "titreCycle": "Laurent Achard"
+          "titreCycle": "Laurent Achard",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31070,
@@ -2117,11 +2111,11 @@
       "duree": 60,
       "items": [
         {
+          "ordre": 1,
           "idConf": 31070,
-          "titre": "DIALOGUE AVEC PASCAL CERVO ET MIREILLE ROUSSEL",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 1
+          "idTypeConf": 16,
+          "titre": "dialogue avec Pascal Cervo et Mireille Roussel",
+          "duree": 60
         }
       ]
     },
