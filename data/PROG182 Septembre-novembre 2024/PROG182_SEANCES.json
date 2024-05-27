@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-27T07:52:35.696Z",
+  "updatedAt": "2024-05-27T10:02:31.306Z",
   "data": [
     {
       "idSeance": 130975,
@@ -3082,7 +3082,7 @@
             {
               "idCopie": 28204,
               "duree": 100,
-              "format": "16 mm",
+              "format": "DCP",
               "version": "VO",
               "stDemande": true
             }
@@ -3210,6 +3210,10 @@
       "idSeance": 131533,
       "idProg": 182,
       "idCycleCategories": [
+        {
+          "idCycle": 525,
+          "idCategorie": 3409
+        },
         {
           "idCycle": 786,
           "idCategorie": 3371,
@@ -7868,6 +7872,10 @@
           "idCategorie": 2201,
           "titreCycle": "Michael Powell",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3409
         }
       ],
       "idEvenement": 21665,
@@ -8340,7 +8348,7 @@
           "copies": [
             {
               "idCopie": 9818,
-              "duree": 98,
+              "duree": 93,
               "format": "35 mm",
               "version": "VF"
             }
@@ -10979,7 +10987,7 @@
           "idFilmBoxoffice": 32003
         }
       ],
-      "mention": "Séance présentée par Francis Huster et Macha Méril"
+      "mention": "Séance présentée par Francis Huster"
     },
     {
       "idSeance": 133620,
@@ -11082,7 +11090,8 @@
           ],
           "idFilmBoxoffice": 8401
         }
-      ]
+      ],
+      "mention": "Séance présentée par Evelyne Bouix"
     },
     {
       "idSeance": 133846,
@@ -11312,7 +11321,8 @@
           ],
           "idFilmBoxoffice": 12732
         }
-      ]
+      ],
+      "mention": "Séance présentée par Françoise Fabian"
     },
     {
       "idSeance": 133913,
@@ -11418,7 +11428,7 @@
           "idFilmBoxoffice": 667
         }
       ],
-      "mention": "Séance présentée par Francis Huster et Macha Méril"
+      "mention": "Séance présentée par Francis Huster, Macha Méril et Nicole Garcia"
     },
     {
       "idSeance": 133914,
