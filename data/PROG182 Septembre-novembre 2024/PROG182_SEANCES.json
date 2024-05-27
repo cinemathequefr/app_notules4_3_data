@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-27T10:02:31.306Z",
+  "updatedAt": "2024-05-27T10:44:16.656Z",
   "data": [
     {
       "idSeance": 130975,
@@ -3317,6 +3317,31 @@
               "format": "Numérique"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133928,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 525,
+          "idCategorie": 3114
+        }
+      ],
+      "idEvenement": 31102,
+      "typeEvenement": 14,
+      "dateHeure": "2024-09-18T21:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 31102,
+          "titre": "DIALOGUE AVEC FREDERIC BONNAUD",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 1
         }
       ]
     },
@@ -7945,6 +7970,31 @@
       ]
     },
     {
+      "idSeance": 133929,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 525,
+          "idCategorie": 3114
+        }
+      ],
+      "idEvenement": 31103,
+      "typeEvenement": 14,
+      "dateHeure": "2024-10-31T21:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 31103,
+          "titre": "DIALOGUE AVEC FRÉDÉRIC BONNAUD",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 1
+        }
+      ]
+    },
+    {
       "idSeance": 132727,
       "idProg": 182,
       "idCycleCategories": [
@@ -8421,7 +8471,14 @@
           "realisateurs": "Jun Fukuda",
           "annee": 1967,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28269,
+              "duree": 83,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
         }
       ]
     },
@@ -8484,7 +8541,14 @@
           "realisateurs": "Jun Fukuda",
           "annee": 1967,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28269,
+              "duree": 83,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
         }
       ]
     },
@@ -9683,7 +9747,8 @@
               "format": "35 mm",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 33208
         }
       ]
     },
@@ -9903,6 +9968,34 @@
       ]
     },
     {
+      "idSeance": 133930,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 525,
+          "idCategorie": 3409
+        }
+      ],
+      "idEvenement": 31100,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-13T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46660,
+          "titre": "Trou",
+          "art": "Le",
+          "realisateurs": "Jacques Becker",
+          "annee": 1959,
+          "generique": "Jean Kéraudy, Marc Michel, Raymond Meunier",
+          "synopsis": "Un jeune homme est incarcéré à la prison de la Santé. Il est adopté par ses quatre compagnons de cellule qui l'informent de leur projet d'évasion.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 133025,
       "idProg": 182,
       "idCycleCategories": [
@@ -9971,6 +10064,31 @@
             }
           ],
           "idFilmBoxoffice": 14029
+        }
+      ]
+    },
+    {
+      "idSeance": 133931,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 525,
+          "idCategorie": 3114
+        }
+      ],
+      "idEvenement": 31101,
+      "typeEvenement": 14,
+      "dateHeure": "2024-11-13T21:15:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 31101,
+          "titre": "DIALOGUE AVEC FRÉDÉRIC BONNAUD",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 1
         }
       ]
     },
