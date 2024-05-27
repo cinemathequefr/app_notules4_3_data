@@ -1,0 +1,3639 @@
+{
+  "updatedAt": "2024-05-27T13:26:11.521Z",
+  "data": [
+    {
+      "idSeance": 37907,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 520,
+          "idCategorie": 2396,
+          "titreCycle": "Séances Jeune public",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23445,
+      "typeEvenement": 13,
+      "libelleEvenement": "ENFANT QUI VOULAIT ÊTRE UN OURS (L')",
+      "dateHeure": "2020-12-16T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 82271,
+          "titre": "Enfant qui voulait être un ours",
+          "art": "L'",
+          "titreVo": "Drengen der ville være bjørn",
+          "realisateurs": "Jannik Hastrup",
+          "annee": 2001,
+          "ageMinimal": 6,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21990,
+              "duree": 78,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36364,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 487,
+          "idCategorie": 2226,
+          "titreCycle": "Voyage dans le cinéma français des années 1950",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21064,
+      "typeEvenement": 13,
+      "libelleEvenement": "JEUX INTERDITS",
+      "dateHeure": "2020-12-16T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47704,
+          "titre": "Jeux interdits",
+          "realisateurs": "René Clément",
+          "annee": 1951,
+          "generique": "Brigitte Fossey, Georges Poujouly, Amédée",
+          "synopsis": "Pendant l'Exode de 1940, Paulette, cinq ans, dont les parents viennent d'être tués, trouve refuge dans une famille de paysans.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 14857,
+              "duree": 88,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37791,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 472,
+          "idCategorie": 2385,
+          "titreCycle": "Archi Vives",
+          "titreSousCycle": "Films et conférences"
+        }
+      ],
+      "idEvenement": 23521,
+      "typeEvenement": 14,
+      "libelleEvenement": "REGARDER ET FILMER LES ŒUVRES, RETROUVER LE REGARD ET LE CORPS DE L'ARTISTE",
+      "dateHeure": "2020-12-17T17:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "JE",
+      "duree": 90,
+      "items": [
+        {
+          "idConf": 23521,
+          "titre": "REGARDER ET FILMER LES ŒUVRES, RETROUVER LE REGARD ET LE CORPS DE L'ARTISTE",
+          "typeConference": "Conférence",
+          "duree": 90,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 37624,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 472,
+          "idCategorie": 2385,
+          "titreCycle": "Archi Vives",
+          "titreSousCycle": "Films et conférences"
+        }
+      ],
+      "idEvenement": 23327,
+      "typeEvenement": 13,
+      "libelleEvenement": "HISTOIRE D'UN REGARD",
+      "dateHeure": "2020-12-17T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 143782,
+          "titre": "Histoire d'un regard",
+          "realisateurs": "Mariana Otero",
+          "annee": 2019,
+          "synopsis": "Exploration des milliers de clichés du photoreporter Gilles Caron, disparu au Cambodge en avril 1970.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21898,
+              "duree": 93,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36374,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 2360,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Hommage à John Gilling"
+        }
+      ],
+      "idEvenement": 22701,
+      "typeEvenement": 13,
+      "libelleEvenement": "GAMMA PEOPLE (THE)",
+      "dateHeure": "2020-12-18T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33229,
+          "titre": "Secrets du docteur Boronski",
+          "art": "Les",
+          "titreVo": "Gamma People",
+          "artVo": "The",
+          "realisateurs": "John Gilling",
+          "annee": 1955,
+          "generique": "Paul Douglas, Eva Bartok, Walter Rilla",
+          "synopsis": "Un journaliste découvre les travaux d'un scientifique qui expose des enfants à des rayons gamma pour développer chez eux une intelligence supérieure.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21219,
+              "duree": 76,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37688,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 2395,
+          "titreCycle": "Fenêtre sur les collections",
+          "titreSousCycle": "Albatros : pleins feux sur Nathalie Lissenko"
+        }
+      ],
+      "idEvenement": 23271,
+      "typeEvenement": 13,
+      "libelleEvenement": "ALBATROS : PLEINS FEUX SUR NATHALIE LISSENKO / SÉANCE 1",
+      "dateHeure": "2020-12-18T17:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51482,
+          "titre": "Riposte",
+          "art": "La",
+          "realisateurs": "Viatcheslav Tourjansky",
+          "annee": 1922,
+          "generique": "Nathalie Lissenko, Jean Angelo, Bartkevitch",
+          "synopsis": "Renvoyée d'un cirque où elle était écuyère, Alpha hérite d'un ticket de loterie qui va changer sa vie.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 8517,
+              "duree": 74,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Emmanuelle Berthault. Accompagnement musical par Jean-François Zygel"
+    },
+    {
+      "idSeance": 36375,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 2360,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Hommage à John Gilling"
+        }
+      ],
+      "idEvenement": 22702,
+      "typeEvenement": 13,
+      "libelleEvenement": "SIGNES PARTICULIERS : NÉANT",
+      "dateHeure": "2020-12-18T18:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45501,
+          "titre": "Signes particuliers : Néant",
+          "titreVo": "Man Inside",
+          "artVo": "The",
+          "realisateurs": "John Gilling",
+          "annee": 1958,
+          "generique": "Jack Palance, Anita Ekberg, Donald Pleasence",
+          "adaptation": "D'après le roman _Voué au blanc-bleu_  de M. E. Chaber.",
+          "synopsis": "L'employé d'une bijouterie tue un homme en volant une des pierres précieuses de l'établissement. Un détective privé est engagé pour se lancer à sa poursuite.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21218,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37689,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 2395,
+          "titreCycle": "Fenêtre sur les collections",
+          "titreSousCycle": "Albatros : pleins feux sur Nathalie Lissenko"
+        }
+      ],
+      "idEvenement": 23272,
+      "typeEvenement": 13,
+      "libelleEvenement": "ALBATROS : PLEINS FEUX SUR NATHALIE LISSENKO / SÉANCE 2",
+      "dateHeure": "2020-12-18T18:45:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48390,
+          "titre": "Affiche",
+          "art": "L'",
+          "realisateurs": "Jean Epstein",
+          "annee": 1924,
+          "generique": "Nathalie Lissenko, Genica Missirio, Camille Bardou, Sylviane de Castillo",
+          "synopsis": "Le combat d'une mère brisée par la perte de son enfant dont l'image a été utilisée sur une affiche publicitaire qui envahit la ville.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 3048,
+              "duree": 86,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Emmanuelle Berthault. Accompagnement musical par Jean-François Zygel"
+    },
+    {
+      "idSeance": 36383,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 527,
+          "idCategorie": 2368,
+          "titreCycle": "Louis de Funès",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21761,
+      "typeEvenement": 13,
+      "libelleEvenement": "FANTÔMAS",
+      "dateHeure": "2020-12-19T15:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49173,
+          "titre": "Fantômas",
+          "realisateurs": "André Hunebelle",
+          "annee": 1964,
+          "generique": "Jean Marais, Louis de Funès, Mylène Demongeot",
+          "synopsis": "Le mystérieux Fantômas terrorise la France entière. Aidé par le journaliste Fandor et une ravissante photographe, le commissaire Juve traque le malfaiteur.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20502,
+              "duree": 105,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37697,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 487,
+          "idCategorie": 2226,
+          "titreCycle": "Voyage dans le cinéma français des années 1950",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23330,
+      "typeEvenement": 13,
+      "libelleEvenement": "AMANTS DU TAGE (LES)",
+      "dateHeure": "2020-12-19T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51672,
+          "titre": "Amants du Tage",
+          "art": "Les",
+          "realisateurs": "Henri Verneuil",
+          "annee": 1954,
+          "generique": "Daniel Gélin, Françoise Arnoul, Trevor Howard",
+          "synopsis": "Jugé pour le meurtre de sa femme, Pierre Roubier a été acquitté. Il s'expatrie au Portugal, où il rencontre la séduisante Katleen.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21933,
+              "duree": 109,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37649,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 487,
+          "idCategorie": 2226,
+          "titreCycle": "Voyage dans le cinéma français des années 1950",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23329,
+      "typeEvenement": 13,
+      "libelleEvenement": "AIR DE PARIS (L')",
+      "dateHeure": "2020-12-23T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47300,
+          "titre": "Air de Paris",
+          "art": "L'",
+          "realisateurs": "Marcel Carné",
+          "annee": 1954,
+          "generique": "Jean Gabin, Arletty, Roland Lesaffre",
+          "adaptation": "D'après la nouvelle _La Choute_ de Jacques Viot.",
+          "synopsis": "Ancien boxeur devenu entraîneur, Victor Le Garrec décèle un talent prometteur chez le jeune André Ménard. Il décide de le prendre sous son aile pour qu'il puisse passer professionnel. Mais la carrière d'André est compromise après sa rencontre avec la jolie Corinne.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 17754,
+              "duree": 110,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36426,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 527,
+          "idCategorie": 2368,
+          "titreCycle": "Louis de Funès",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 22692,
+      "typeEvenement": 13,
+      "libelleEvenement": "FANTÔMAS SE DÉCHAÎNE",
+      "dateHeure": "2020-12-26T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 53849,
+          "titre": "Fantômas se déchaîne",
+          "realisateurs": "André Hunebelle",
+          "annee": 1965,
+          "generique": "Jean Marais, Louis de Funès, Mylène Demongeot",
+          "ageMinimal": 8,
+          "synopsis": "Le professeur Marchand est un scientifique connu pour avoir créé un rayon télépathique. Quand il disparaît mystérieusement, Fantômas est immédiatement soupçonné.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 9291,
+              "duree": 94,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36429,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 487,
+          "idCategorie": 2226,
+          "titreCycle": "Voyage dans le cinéma français des années 1950",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21268,
+      "typeEvenement": 13,
+      "libelleEvenement": "JE L'AI ÉTÉ TROIS FOIS",
+      "dateHeure": "2020-12-26T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49096,
+          "titre": "Je l'ai été trois fois",
+          "realisateurs": "Sacha Guitry",
+          "annee": 1952,
+          "generique": "Sacha Guitry, Bernard Blier, Lana Marconi",
+          "adaptation": "D'après les pièces _Mon double et ma moitié_ et _Les Desseins de la providence_ de Sacha Guitry.",
+          "synopsis": "Variations expérimentales sur l'adultère.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20439,
+              "duree": 81,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36450,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 487,
+          "idCategorie": 2226,
+          "titreCycle": "Voyage dans le cinéma français des années 1950",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21277,
+      "typeEvenement": 13,
+      "libelleEvenement": "CURÉ DE SAINT-AMOUR (LE)",
+      "dateHeure": "2020-12-30T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 52895,
+          "titre": "Curé de Saint-Amour",
+          "art": "Le",
+          "realisateurs": "Émile Couzinet",
+          "annee": 1952,
+          "generique": "Frédéric Duvallès, Jeanne Fusier-Gir, Pierre Larquey",
+          "adaptation": "D'après la pièce _Le Curé de Saint-Amour_ de Jean Guitton.",
+          "synopsis": "La marquise de Saint-Ange veut marier sa nièce Nicole, mais la jeune fille, rebutée par le prétendant choisi, s'enfuit avec son ami Jacques.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20015,
+              "duree": 88,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37761,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 527,
+          "idCategorie": 2368,
+          "titreCycle": "Louis de Funès",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 22691,
+      "typeEvenement": 13,
+      "libelleEvenement": "FANTÔMAS CONTRE SCOTLAND YARD",
+      "dateHeure": "2020-12-31T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 53934,
+          "titre": "Fantômas contre Scotland Yard",
+          "realisateurs": "André Hunebelle",
+          "annee": 1966,
+          "generique": "Jean Marais, Louis de Funès, Mylène Demongeot",
+          "ageMinimal": 8,
+          "synopsis": "Fantômas revient avec une nouvelle idée : imposer aux riches, nobles comme gangsters, un impôt sur le droit de vivre. Débarqués en Ecosse, le commissaire Juve, Fandor et sa fiancée ont pour mission d'attraper le célèbre bandit.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21168,
+              "duree": 105,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36920,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 527,
+          "idCategorie": 2368,
+          "titreCycle": "Louis de Funès",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 20553,
+      "typeEvenement": 13,
+      "libelleEvenement": "CORNIAUD (LE)",
+      "dateHeure": "2021-01-01T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 56672,
+          "titre": "Corniaud",
+          "art": "Le",
+          "realisateurs": "Gérard Oury",
+          "annee": 1964,
+          "generique": "Bourvil, Louis de Funès, Venantino Venantini",
+          "synopsis": "Saroyan, trafiquant en tout genre, utilise l'honnête et naïf Antoine Maréchal pour conduire de Naples à Bordeaux une Cadillac remplie d'or et d'héroïne.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20262,
+              "duree": 110,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36469,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 527,
+          "idCategorie": 2368,
+          "titreCycle": "Louis de Funès",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21765,
+      "typeEvenement": 13,
+      "libelleEvenement": "GRAND RESTAURANT (LE)",
+      "dateHeure": "2021-01-02T14:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51911,
+          "titre": "Grand restaurant",
+          "art": "Le",
+          "realisateurs": "Jacques Besnard",
+          "annee": 1966,
+          "generique": "Louis de Funès, Bernard Blier, Venantino Venantini",
+          "synopsis": "Lorsqu'un chef d'État sud-américain disparaît mystérieusement dans son prestigieux restaurant, l'intraitable monsieur Septime est rapidement soupçonné. Commence alors une rocambolesque partie de cache-cache avec une redoutable organisation terroriste.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20503,
+              "duree": 89,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36472,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 487,
+          "idCategorie": 2226,
+          "titreCycle": "Voyage dans le cinéma français des années 1950",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21270,
+      "typeEvenement": 13,
+      "libelleEvenement": "RUE DE L'ESTRAPADE",
+      "dateHeure": "2021-01-02T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46659,
+          "titre": "Rue de l'Estrapade",
+          "realisateurs": "Jacques Becker",
+          "annee": 1952,
+          "generique": "Anne Vernon, Louis Jourdan, Daniel Gélin",
+          "synopsis": "Lorsqu'elle apprend que son mari la trompe, Isabelle quitte le domicile conjugal et s'installe rue de l'Estrapade.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 10924,
+              "duree": 85,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37813,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 527,
+          "idCategorie": 2408,
+          "titreCycle": "Louis de Funès",
+          "titreSousCycle": "Autour de Louis de Funès"
+        }
+      ],
+      "idEvenement": 23512,
+      "typeEvenement": 13,
+      "libelleEvenement": "LOUIS DE FUNÈS, CRÉATURE / CRÉATEUR",
+      "dateHeure": "2021-01-03T16:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 146483,
+          "titre": "Louis de Funès, créature/créateur",
+          "realisateurs": "Baptiste Etchegaray, Nicolas Perge",
+          "annee": 2020,
+          "synopsis": "« Acteur comique préféré des Français », Louis de Funès a fait rire des générations de spectateurs avec son personnage de petit chef méchant, colérique et radin, aux mimiques si particulières. Le rire a été l'affaire de sa vie, au point que la star prend une part prépondérante dans la fabrication de ses films. Comment le roi du box-office des années 1960-70 a-t-il inventé et peaufiné son double à l'écran ?",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22030,
+              "duree": 0,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36486,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 520,
+          "idCategorie": 2396,
+          "titreCycle": "Séances Jeune public",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23449,
+      "typeEvenement": 13,
+      "libelleEvenement": "GRANDE AVENTURE (LA)",
+      "dateHeure": "2021-01-06T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38525,
+          "titre": "Grande aventure",
+          "art": "La",
+          "titreVo": "Stora äventyret",
+          "artVo": "Det",
+          "realisateurs": "Arne Sucksdorff",
+          "annee": 1953,
+          "ageMinimal": 6,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21992,
+              "duree": 95,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37712,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 487,
+          "idCategorie": 2226,
+          "titreCycle": "Voyage dans le cinéma français des années 1950",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23371,
+      "typeEvenement": 13,
+      "libelleEvenement": "AMANT DE LADY CHATTERLEY (L')",
+      "dateHeure": "2021-01-06T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46340,
+          "titre": "Amant de Lady Chatterley",
+          "art": "L'",
+          "realisateurs": "Marc Allégret",
+          "annee": 1955,
+          "generique": "Danielle Darrieux, Leo Genn, Erno Crisa",
+          "adaptation": "D'après le roman _L'Amant de Lady Chatterley_ de D. H. Lawrence.",
+          "synopsis": "Une châtelaine mariée à un infirme prend pour amant son garde-chasse.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21942,
+              "duree": 104,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37837,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 487,
+          "idCategorie": 2226,
+          "titreCycle": "Voyage dans le cinéma français des années 1950",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21046,
+      "typeEvenement": 13,
+      "libelleEvenement": "MADEMOISELLE DE LA FERTÉ",
+      "dateHeure": "2021-01-07T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47685,
+          "titre": "Mademoiselle de La Ferté",
+          "realisateurs": "Roger Dallier",
+          "annee": 1949,
+          "generique": "Jany Holt, Pierre Cressoy, Jean Servais",
+          "synopsis": "Bafouée dans son amour pour Jacques de Saint-Selve, Anne de la Ferté se venge en empoisonnant sa veuve, puis son entourage.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 19850,
+              "duree": 98,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36507,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 487,
+          "idCategorie": 2226,
+          "titreCycle": "Voyage dans le cinéma français des années 1950",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21264,
+      "typeEvenement": 13,
+      "libelleEvenement": "BELLE MENTALITÉ",
+      "dateHeure": "2021-01-08T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37725,
+          "titre": "Belle mentalité",
+          "realisateurs": "André Berthomieu",
+          "annee": 1952,
+          "generique": "Jean Richard, Jean Martinelli, Michèle Philippe",
+          "synopsis": "Un domestique d'une honnêteté irréprochable entre au service d'un avocat parisien aux activités louches. Peu à peu, il s'implique dans les affaires de son patron en réglant les problèmes à sa manière.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 1506,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36917,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 527,
+          "idCategorie": 2368,
+          "titreCycle": "Louis de Funès",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 22691,
+      "typeEvenement": 13,
+      "libelleEvenement": "FANTÔMAS CONTRE SCOTLAND YARD",
+      "dateHeure": "2021-01-09T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 53934,
+          "titre": "Fantômas contre Scotland Yard",
+          "realisateurs": "André Hunebelle",
+          "annee": 1966,
+          "generique": "Jean Marais, Louis de Funès, Mylène Demongeot",
+          "ageMinimal": 8,
+          "synopsis": "Fantômas revient avec une nouvelle idée : imposer aux riches, nobles comme gangsters, un impôt sur le droit de vivre. Débarqués en Ecosse, le commissaire Juve, Fandor et sa fiancée ont pour mission d'attraper le célèbre bandit.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21168,
+              "duree": 105,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37714,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 487,
+          "idCategorie": 2226,
+          "titreCycle": "Voyage dans le cinéma français des années 1950",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23373,
+      "typeEvenement": 13,
+      "libelleEvenement": "GAS-OIL",
+      "dateHeure": "2021-01-09T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48931,
+          "titre": "Gas-oil",
+          "realisateurs": "Gilles Grangier",
+          "annee": 1955,
+          "generique": "Jean Gabin, Jeanne Moreau, Ginette Leclerc",
+          "adaptation": "D'après le roman _Du raisiné dans le gas-oil_ de Georges Bayle.",
+          "synopsis": "Un routier écrase accidentellement un homme qui ne lui est pas inconnu.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 8645,
+              "duree": 92,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37752,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 520,
+          "idCategorie": 2396,
+          "titreCycle": "Séances Jeune public",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23450,
+      "typeEvenement": 13,
+      "libelleEvenement": "IMPOSSIBLE MONSIEUR BÉBÉ (L')",
+      "dateHeure": "2021-01-10T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32627,
+          "titre": "Impossible Monsieur Bébé",
+          "art": "L'",
+          "titreVo": "Bringing up Baby",
+          "realisateurs": "Howard Hawks",
+          "annee": 1938,
+          "generique": "Katharine Hepburn, Cary Grant, Charles Ruggles",
+          "adaptation": "D'après la nouvelle _Bringing up Baby_ de Hagar Wilde.",
+          "synopsis": "À la veille de son mariage et sur le point de compléter un squelette de dinosaure très rare, un paléontologue rencontre une riche héritière maladroite, propriétaire d'un lépoard apprivoisé.",
+          "synopsisJP": "Monsieur Bébé, c'est un bien joli nom pour un léopard apprivoisé. Mais s'agit-il bien d'un gentil animal et non d'un dangereux prédateur tout juste échappé d'un cirque en tournée ? Cette histoire entraîne un sérieux paléontologue dans bien des péripéties, aux côtés de la charmante et joyeusement farfelue Susan.",
+          "miniTexte": "Un feu d'artifices de dialogues savoureux et de quiproquos mené tambour battant par l'irrésistible duo Cary Grant/Katharine Hepburn. Hawks imagine la rencontre entre deux mondes que tout oppose, dans un spectacle qui fait la part belle à un personnage féminin émancipé, furieusement moderne pour l'époque.",
+          "commentaire": "Référence de _screwball comedy_, _L'Impossible monsieur Bébé_ est un tourbillon de loufoquerie et d'extravagances, un écrin étincelant qui abrite le jeu explosif du duo Grant/Hepburn. Les deux stars se complètent à merveille, inventent certaines scènes, Katharine Hepburn trouve un rôle sur mesure en femme indépendante et volontaire, Cary Grant est désopilant d'innocence et de second degré. Hawks joue avec l'image du couple, se surpasse dans ses trouvailles visuelles, imprime à son scénario aux dialogues enlevés un rythme endiablé. Un film étourdissant, entraînant, vivifiant. Brillant et délicieusement farfelu. Un mètre-étalon de la comédie américaine.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 8066,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36529,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 520,
+          "idCategorie": 2396,
+          "titreCycle": "Séances Jeune public",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23462,
+      "typeEvenement": 13,
+      "libelleEvenement": "CHÂTEAU DES SINGES (LE)",
+      "dateHeure": "2021-01-13T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 64274,
+          "titre": "Château des singes",
+          "art": "Le",
+          "realisateurs": "Jean-François Laguionie",
+          "annee": 1998,
+          "adaptation": "D'après le roman _Le Baron perché_ d'Italo Calvino.",
+          "ageMinimal": 4,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22011,
+              "duree": 75,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37690,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 2398,
+          "titreCycle": "Fenêtre sur les collections",
+          "titreSousCycle": "Magie de la peinture au cinéma"
+        }
+      ],
+      "idEvenement": 23433,
+      "typeEvenement": 13,
+      "libelleEvenement": "DE LA PEINTURE AU CINÉMA. JEAN-MICHEL BOUHOURS ET JOSÉ ANTONIO SISTIAGA",
+      "dateHeure": "2021-01-15T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 146317,
+          "titre": "Chantilly",
+          "realisateurs": "Jean-Michel Bouhours, Patrick Delabre",
+          "annee": 1976,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21979,
+              "duree": 12,
+              "format": "16 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 146318,
+          "titre": "Chronographies",
+          "realisateurs": "Jean-Michel Bouhours",
+          "annee": 1982,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21982,
+              "duree": 17,
+              "format": "16 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 113480,
+          "titre": "Impresiones en la alta atmósfera",
+          "realisateurs": "José Antonio Sistiaga",
+          "annee": 1988,
+          "ageMinimal": 8,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 546,
+              "duree": 9,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 146316,
+          "titre": "Paysage inquiétant - Nocturne",
+          "titreVo": "Paisaje inquietante - Nocturno",
+          "realisateurs": "José Antonio Sistiaga",
+          "annee": 1991,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21983,
+              "duree": 14,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Pauline de Raymond"
+    },
+    {
+      "idSeance": 37691,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 2398,
+          "titreCycle": "Fenêtre sur les collections",
+          "titreSousCycle": "Magie de la peinture au cinéma"
+        }
+      ],
+      "idEvenement": 23453,
+      "typeEvenement": 13,
+      "libelleEvenement": "MAGIE DE LA PEINTURE SUR PELLICULE. LEN LYE, ALBERT PIERRU ET NORMAN MCLAREN",
+      "dateHeure": "2021-01-15T19:45:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 146319,
+          "titre": "Oiseaux sur la branche",
+          "realisateurs": "Anonyme",
+          "annee": 1913,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21993,
+              "duree": 8,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 117722,
+          "titre": "Rêve d'art",
+          "realisateurs": "Gaston Velle",
+          "annee": 1910,
+          "generique": "Monsieur Gravier, Monsieur Vandenne, Hélène Dumontel",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 2076,
+              "duree": 7,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 89750,
+          "titre": "A Colour Box",
+          "realisateurs": "Len Lye",
+          "annee": 1935,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21989,
+              "duree": 3,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 74994,
+          "titre": "Soir de fête",
+          "realisateurs": "Albert Pierru",
+          "annee": 1956,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 8611,
+              "duree": 5,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 71613,
+          "titre": "Free Radicals",
+          "realisateurs": "Len Lye",
+          "annee": 1957,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 6614,
+              "duree": 5,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 6,
+          "idFilm": 88986,
+          "titre": "Rainbow Dance",
+          "realisateurs": "Len Lye",
+          "annee": 1936,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 15477,
+              "duree": 4,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 7,
+          "idFilm": 117483,
+          "titre": "Nocturne Party",
+          "realisateurs": "Albert Pierru",
+          "annee": 1960,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 676,
+              "duree": 4,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 8,
+          "idFilm": 89755,
+          "titre": "Rhythm",
+          "realisateurs": "Len Lye",
+          "annee": 1957,
+          "ageMinimal": 6,
+          "synopsis": "Dans les années 1930, Charlie Chaplin décide de continuer à faire du cinéma muet bien après l'avènement du cinéma parlant et c'est par une chanson, qu'il fera entendre pour la première fois la voix de Charlot. Dans les **_Temps modernes_**, Charlot se laisse emporter par les engrenages géants de l'usine dans laquelle il travaille, dans le **_Rhythm_**, Len Lye joue avec le rythme des machines et le montage du film pour créer une musicalité aussi bien visuelle que sonore.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 6545,
+              "duree": 1,
+              "format": "16 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 9,
+          "idFilm": 129602,
+          "titre": "Sarabande",
+          "realisateurs": "Albert Pierru",
+          "annee": 1953,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 8606,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 10,
+          "idFilm": 74882,
+          "titre": "Fantaisie sur quatre cordes",
+          "realisateurs": "Albert Pierru",
+          "annee": 1957,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 674,
+              "duree": 3,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 11,
+          "idFilm": 120997,
+          "titre": "Teintes, taches, touches",
+          "realisateurs": "Albert Pierru",
+          "annee": 1956,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 8614,
+              "duree": 3,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 12,
+          "idFilm": 58563,
+          "titre": "Blinkity Blank",
+          "realisateurs": "Norman McLaren",
+          "annee": 1955,
+          "ageMinimal": 6,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 2488,
+              "duree": 5,
+              "format": "16 mm"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Pauline de Raymond"
+    },
+    {
+      "idSeance": 36555,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 527,
+          "idCategorie": 2368,
+          "titreCycle": "Louis de Funès",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21755,
+      "typeEvenement": 13,
+      "libelleEvenement": "HIBERNATUS",
+      "dateHeure": "2021-01-16T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 52157,
+          "titre": "Hibernatus",
+          "realisateurs": "Édouard Molinaro",
+          "annee": 1969,
+          "generique": "Louis de Funès, Claude Gensac, Bernard Alane",
+          "adaptation": "D'après la pièce _Hibernatus_ de Jean Bernard-Luc.",
+          "synopsis": "La vie paisible d'Hubert de Tartas est soudain bouleversée : le grand-père de sa femme vient d'être découvert dans les glaces polaires, en état d'hibernation naturelle depuis 65 ans.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20275,
+              "duree": 100,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37778,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 487,
+          "idCategorie": 2226,
+          "titreCycle": "Voyage dans le cinéma français des années 1950",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23313,
+      "typeEvenement": 13,
+      "libelleEvenement": "MONSIEUR SCRUPULE GANGSTER",
+      "dateHeure": "2021-01-16T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 52029,
+          "titre": "Monsieur Scrupule, gangster",
+          "realisateurs": "Jacques Daroy",
+          "annee": 1953,
+          "generique": "Tilda Thamar, Yves Vincent, Annie Hémery",
+          "synopsis": "Monsieur Scrupule est un modeste contrebandier, qui exerce sans passion son petit commerce. Il rencontre Rolande, l'amie d'un redoutable chef de gang, et se retrouve entraîné dans de dangereuses aventures.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 4435,
+              "duree": 81,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36564,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 520,
+          "idCategorie": 2397,
+          "titreCycle": "Séances Jeune public",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23363,
+      "typeEvenement": 13,
+      "libelleEvenement": "HUGO CABRET",
+      "dateHeure": "2021-01-17T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 114721,
+          "titre": "Hugo Cabret",
+          "titreVo": "Hugo",
+          "realisateurs": "Martin Scorsese",
+          "annee": 2010,
+          "generique": "Asa Butterfield, Chloë Grace Moretz, Ben Kingsley",
+          "adaptation": "D'après le roman _L'Invention de Hugo Cabret_ de Brian Selznick.",
+          "ageMinimal": 8,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 2819,
+              "duree": 122,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36572,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 520,
+          "idCategorie": 2400,
+          "titreCycle": "Séances Jeune public",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23454,
+      "typeEvenement": 13,
+      "libelleEvenement": "LA BARAQUE ENCHANTÉE",
+      "dateHeure": "2021-01-20T15:00:00",
+      "idSalle": "HL",
+      "typeSeance": 159,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 84596,
+          "titre": "Panorama pris d'un train en marche",
+          "realisateurs": "Georges Méliès",
+          "annee": 1898,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22806,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 101917,
+          "titre": "Danse du feu",
+          "art": "La",
+          "realisateurs": "Georges Méliès",
+          "annee": 1899,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22807,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 45662,
+          "titre": "Mélomane",
+          "art": "Le",
+          "realisateurs": "Georges Méliès",
+          "annee": 1903,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 9402,
+              "duree": 3,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 65733,
+          "titre": "Chrysalide et le papillon d'or",
+          "art": "La",
+          "realisateurs": "Georges Méliès",
+          "annee": 1901,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 3656,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 84853,
+          "titre": "Portrait mystérieux",
+          "art": "Le",
+          "realisateurs": "Georges Méliès",
+          "annee": 1899,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22808,
+              "duree": 1,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 6,
+          "idFilm": 52462,
+          "titre": "Fée Carabosse ou Le Poignard fatal",
+          "art": "La",
+          "realisateurs": "Georges Méliès",
+          "annee": 1906,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21845,
+              "duree": 12,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 7,
+          "idFilm": 52496,
+          "titre": "Raid Paris-Monte-Carlo en automobile",
+          "art": "Le",
+          "realisateurs": "Georges Méliès",
+          "annee": 1905,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22728,
+              "duree": 11,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 8,
+          "idFilm": 52471,
+          "titre": "Homme à la tête en caoutchouc",
+          "art": "L'",
+          "realisateurs": "Georges Méliès",
+          "annee": 1901,
+          "ageMinimal": 6,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 7986,
+              "duree": 0,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Projection spéciale"
+    },
+    {
+      "idSeance": 36586,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 460,
+          "idCategorie": 2218,
+          "titreCycle": "Hugo Santiago",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 21899,
+      "typeEvenement": 14,
+      "libelleEvenement": "« HUGO SANTIAGO, L'HOMME DE NULLE PART »",
+      "dateHeure": "2021-01-21T19:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "GF",
+      "duree": 90,
+      "items": [
+        {
+          "idConf": 21899,
+          "titre": "« HUGO SANTIAGO, L'HOMME DE NULLE PART »",
+          "typeConference": "Conférence",
+          "duree": 90,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 36598,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 527,
+          "idCategorie": 2368,
+          "titreCycle": "Louis de Funès",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 20556,
+      "typeEvenement": 13,
+      "libelleEvenement": "FOLIE DES GRANDEURS (LA)",
+      "dateHeure": "2021-01-23T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50400,
+          "titre": "Folie des grandeurs",
+          "art": "La",
+          "realisateurs": "Gérard Oury",
+          "annee": 1971,
+          "generique": "Louis de Funès, Yves Montand, Alice Sapritch",
+          "adaptation": "D'après la pièce _Ruy Blas_ de Victor Hugo.",
+          "synopsis": "Le cupide Don Salluste profite de ses fonctions de ministre des Finances du roi d'Espagne pour s'enrichir. Mais la reine le déteste et le chasse de la cour. Ivre de vengeance, il décide de la compromettre grâce à son valet Blaze.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20257,
+              "duree": 113,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36607,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 520,
+          "idCategorie": 2400,
+          "titreCycle": "Séances Jeune public",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23454,
+      "typeEvenement": 13,
+      "libelleEvenement": "LA BARAQUE ENCHANTÉE",
+      "dateHeure": "2021-01-24T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 84596,
+          "titre": "Panorama pris d'un train en marche",
+          "realisateurs": "Georges Méliès",
+          "annee": 1898,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22806,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 101917,
+          "titre": "Danse du feu",
+          "art": "La",
+          "realisateurs": "Georges Méliès",
+          "annee": 1899,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22807,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 45662,
+          "titre": "Mélomane",
+          "art": "Le",
+          "realisateurs": "Georges Méliès",
+          "annee": 1903,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 9402,
+              "duree": 3,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 65733,
+          "titre": "Chrysalide et le papillon d'or",
+          "art": "La",
+          "realisateurs": "Georges Méliès",
+          "annee": 1901,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 3656,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 84853,
+          "titre": "Portrait mystérieux",
+          "art": "Le",
+          "realisateurs": "Georges Méliès",
+          "annee": 1899,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22808,
+              "duree": 1,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 6,
+          "idFilm": 52462,
+          "titre": "Fée Carabosse ou Le Poignard fatal",
+          "art": "La",
+          "realisateurs": "Georges Méliès",
+          "annee": 1906,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21845,
+              "duree": 12,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 7,
+          "idFilm": 52496,
+          "titre": "Raid Paris-Monte-Carlo en automobile",
+          "art": "Le",
+          "realisateurs": "Georges Méliès",
+          "annee": 1905,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22728,
+              "duree": 11,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 8,
+          "idFilm": 52471,
+          "titre": "Homme à la tête en caoutchouc",
+          "art": "L'",
+          "realisateurs": "Georges Méliès",
+          "annee": 1901,
+          "ageMinimal": 6,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 7986,
+              "duree": 0,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37908,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 526,
+          "idCategorie": 2367,
+          "titreCycle": "Nicole Garcia",
+          "titreSousCycle": "Nicole Garcia réalisatrice"
+        },
+        {
+          "idCycle": 526,
+          "idCategorie": 2367,
+          "titreCycle": "Nicole Garcia",
+          "titreSousCycle": "Nicole Garcia réalisatrice"
+        }
+      ],
+      "idEvenement": 23265,
+      "typeEvenement": 13,
+      "libelleEvenement": "AMANTS",
+      "dateHeure": "2021-01-25T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 43,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 146165,
+          "titre": "Amants",
+          "realisateurs": "Nicole Garcia",
+          "annee": 2019,
+          "generique": "Stacy Martin, Pierre Niney, Benoît Magimel",
+          "synopsis": "Lisa et Simon s'aiment passionnément depuis leur adolescence. À la suite d'une soirée qui tourne mal, Simon décide de s'enfuit pour échapper à la prison. Lisa l'attend vainement, et finit par rencontrer Léo.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21816,
+              "duree": 103,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Avant-première"
+    },
+    {
+      "idSeance": 37825,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 54,
+          "idCategorie": 2421,
+          "titreCycle": "Courts métrages de la Fémis",
+          "titreSousCycle": "Films de l'Atelier Ludwigsburg-Paris 2020"
+        }
+      ],
+      "idEvenement": 23551,
+      "typeEvenement": 13,
+      "libelleEvenement": "FILMS DE L'ATELIER LUDWISBURG-PARIS 2020",
+      "dateHeure": "2021-01-27T10:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 37824,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 54,
+          "idCategorie": 2422,
+          "titreCycle": "Courts métrages de la Fémis",
+          "titreSousCycle": "Films de fin d'études, promotion 2020"
+        }
+      ],
+      "idEvenement": 23550,
+      "typeEvenement": 13,
+      "libelleEvenement": "FILMS DE FIN D'ÉTUDES (PROMOTION 2020)",
+      "dateHeure": "2021-01-27T12:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 37827,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 54,
+          "idCategorie": 2422,
+          "titreCycle": "Courts métrages de la Fémis",
+          "titreSousCycle": "Films de fin d'études, promotion 2020"
+        }
+      ],
+      "idEvenement": 23550,
+      "typeEvenement": 13,
+      "libelleEvenement": "FILMS DE FIN D'ÉTUDES (PROMOTION 2020)",
+      "dateHeure": "2021-01-27T14:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 37786,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 520,
+          "idCategorie": 2397,
+          "titreCycle": "Séances Jeune public",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23460,
+      "typeEvenement": 13,
+      "libelleEvenement": "VOYAGE AU CENTRE DE LA TERRE",
+      "dateHeure": "2021-01-27T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33293,
+          "titre": "Voyage au centre de la Terre",
+          "titreVo": "Journey to the Center of the Earth",
+          "realisateurs": "Henry Levin",
+          "annee": 1959,
+          "generique": "James Mason, Pat Boone, Diane Baker",
+          "adaptation": "D'après le roman _Voyage au centre de la Terre_ de Jules Verne",
+          "ageMinimal": 8,
+          "synopsisJP": "Plus on s'enfonce dans le ventre de la Terre et plus on fait d'étranges rencontres : des monstres préhistoriques, une île engloutie... Mais comment revenir à la surface ? Des champignons géants tout droit sortis d'un film de Méliès poussent aussi dans ce film inspiré de Jules Verne.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20049,
+              "duree": 132,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37826,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 54,
+          "idCategorie": 2422,
+          "titreCycle": "Courts métrages de la Fémis",
+          "titreSousCycle": "Films de fin d'études, promotion 2020"
+        }
+      ],
+      "idEvenement": 23550,
+      "typeEvenement": 13,
+      "libelleEvenement": "FILMS DE FIN D'ÉTUDES (PROMOTION 2020)",
+      "dateHeure": "2021-01-27T16:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 37833,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 54,
+          "idCategorie": 2422,
+          "titreCycle": "Courts métrages de la Fémis",
+          "titreSousCycle": "Films de fin d'études, promotion 2020"
+        }
+      ],
+      "idEvenement": 23550,
+      "typeEvenement": 13,
+      "libelleEvenement": "FILMS DE FIN D'ÉTUDES (PROMOTION 2020)",
+      "dateHeure": "2021-01-28T10:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 37829,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 54,
+          "idCategorie": 2422,
+          "titreCycle": "Courts métrages de la Fémis",
+          "titreSousCycle": "Films de fin d'études, promotion 2020"
+        }
+      ],
+      "idEvenement": 23550,
+      "typeEvenement": 13,
+      "libelleEvenement": "FILMS DE FIN D'ÉTUDES (PROMOTION 2020)",
+      "dateHeure": "2021-01-28T14:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 37830,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 54,
+          "idCategorie": 2423,
+          "titreCycle": "Courts métrages de la Fémis",
+          "titreSousCycle": "Films de la Résidence 2020"
+        }
+      ],
+      "idEvenement": 23552,
+      "typeEvenement": 13,
+      "libelleEvenement": "FILMS DE LA RÉSIDENCE 2020",
+      "dateHeure": "2021-01-28T16:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 36626,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 486,
+          "idCategorie": 2223,
+          "titreCycle": "Alain Resnais",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 21967,
+      "typeEvenement": 14,
+      "libelleEvenement": "« UNE IMMERSION DANS LA MUSIQUE : ALAIN RESNAIS AU TRAVAIL »",
+      "dateHeure": "2021-01-28T19:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "GF",
+      "duree": 90,
+      "items": [
+        {
+          "idConf": 21967,
+          "titre": "« UNE IMMERSION DANS LA MUSIQUE : ALAIN RESNAIS AU TRAVAIL »",
+          "typeConference": "Conférence",
+          "duree": 90,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 37602,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 527,
+          "idCategorie": 2368,
+          "titreCycle": "Louis de Funès",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 20557,
+      "typeEvenement": 13,
+      "libelleEvenement": "AVENTURES DE RABBI JACOB (LES)",
+      "dateHeure": "2021-01-30T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50451,
+          "titre": "Aventures de Rabbi Jacob",
+          "art": "Les",
+          "realisateurs": "Gérard Oury",
+          "annee": 1973,
+          "generique": "Louis de Funès, Claude Giraud, Henri Guybet",
+          "synopsis": "À la suite d'un quiproquo, Victor Pivert, homme d'affaires irascible et raciste, se retrouve mêlé à un règlement de comptes entre terroristes d'un pays arabe. Pour semer ses poursuivants, il se déguise en rabbin.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20263,
+              "duree": 100,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37916,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 526,
+          "idCategorie": 2367,
+          "titreCycle": "Nicole Garcia",
+          "titreSousCycle": "Nicole Garcia réalisatrice"
+        }
+      ],
+      "idEvenement": 23249,
+      "typeEvenement": 13,
+      "libelleEvenement": "UN WEEK-END SUR DEUX",
+      "dateHeure": "2021-01-31T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48708,
+          "titre": "Un week-end sur deux",
+          "realisateurs": "Nicole Garcia",
+          "annee": 1989,
+          "generique": "Nathalie Baye, Joachim Serreau, Felicie Pasotti",
+          "synopsis": "Camille, actrice divorcée, garde ses deux enfants un week-end sur deux. Un jour, elle prend la route avec eux pour tenter de nouer avec eux une relation plus intime. Apprenant qu'une pluie de météorites sera visible d'Espagne, elle décide de les emmener la voir.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21971,
+              "duree": 100,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36650,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 520,
+          "idCategorie": 2397,
+          "titreCycle": "Séances Jeune public",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23346,
+      "typeEvenement": 13,
+      "libelleEvenement": "BELLE ET LA BÊTE (LA)",
+      "dateHeure": "2021-01-31T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47711,
+          "titre": "Belle et la Bête",
+          "art": "La",
+          "realisateurs": "Jean Cocteau",
+          "annee": 1945,
+          "generique": "Josette Day, Jean Marais, Michel Auclair",
+          "adaptation": "D'après le conte _La Belle et la Bête_ de Jeanne-Marie Leprince de Beaumont.",
+          "ageMinimal": 6,
+          "synopsisJP": "Le chef-d'œuvre enchanteur de Jean Cocteau, qui porte à l'écran le conte cruel de madame Leprince de Beaumont. Les décors féeriques évoquent Gustave Doré, la photographie d'Alekan donne corps aux trucages artisanaux, et le château qui abrite les souffrances de la Bête/Jean Marais s'anime dans une atmosphère surréaliste et magique.",
+          "miniTexte": "Cocteau sort exsangue du tournage épique, Jean Marais a souffert mille tortures sous son maquillage de Bête. Le conte cruel de madame Leprince de Beaumont prend corps dans les décors féeriques de Christian Bérard, sous les lumières du génial Henri Alekan, convoque Vermeer et les gravures de Gustave Doré, séduit par ses trucages artisanaux. Des bras tiennent des chandeliers, des voilages dansent dans une brise invisible, Josette Day, la Belle, semble glisser sur le sol. Et Cocteau, cinéaste-poète, tisse, dans une atmosphère qui tient du merveilleux et du surréalisme, un chef-d'œuvre enchanteur, le fameux « ruban de rêves » qui éblouissait Orson Welles.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 14266,
+              "duree": 100,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37771,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 520,
+          "idCategorie": 2397,
+          "titreCycle": "Séances Jeune public",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23471,
+      "typeEvenement": 13,
+      "libelleEvenement": "HISTOIRE SANS FIN (L')",
+      "dateHeure": "2021-02-03T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40781,
+          "titre": "Histoire sans fin",
+          "art": "L'",
+          "titreVo": "Unendliche Geschichte",
+          "artVo": "Die",
+          "realisateurs": "Wolfgang Petersen",
+          "annee": 1983,
+          "generique": "Barret Oliver, Tami Stronach, Patricia Hayes",
+          "adaptation": "D'après le roman _L'Histoire sans fin_ de Michael Ende.",
+          "ageMinimal": 8,
+          "synopsisJP": "Bastien, passionné de romans d'aventures, découvre un livre fascinant et se retrouve entraîné dans un univers peuplé de créatures fantastiques. Plongée dans les mondes imaginaires de l'enfance, avec cet incontournable des années 80, à la BO marquante remise au goût du jour par la série _Stranger Things_.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 11247,
+              "duree": 94,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36661,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 529,
+          "idCategorie": 2375,
+          "titreCycle": "Gérardmer à Paris 2021",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23604,
+      "typeEvenement": 13,
+      "libelleEvenement": "28E FESTIVAL DE GÉRARDMER",
+      "dateHeure": "2021-02-03T20:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 36669,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 529,
+          "idCategorie": 2375,
+          "titreCycle": "Gérardmer à Paris 2021",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23604,
+      "typeEvenement": 13,
+      "libelleEvenement": "28E FESTIVAL DE GÉRARDMER",
+      "dateHeure": "2021-02-04T19:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 36670,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 529,
+          "idCategorie": 2375,
+          "titreCycle": "Gérardmer à Paris 2021",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23604,
+      "typeEvenement": 13,
+      "libelleEvenement": "28E FESTIVAL DE GÉRARDMER",
+      "dateHeure": "2021-02-04T21:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 36675,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 529,
+          "idCategorie": 2375,
+          "titreCycle": "Gérardmer à Paris 2021",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23604,
+      "typeEvenement": 13,
+      "libelleEvenement": "28E FESTIVAL DE GÉRARDMER",
+      "dateHeure": "2021-02-05T19:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 36676,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 529,
+          "idCategorie": 2375,
+          "titreCycle": "Gérardmer à Paris 2021",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23604,
+      "typeEvenement": 13,
+      "libelleEvenement": "28E FESTIVAL DE GÉRARDMER",
+      "dateHeure": "2021-02-05T21:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 36680,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 527,
+          "idCategorie": 2368,
+          "titreCycle": "Louis de Funès",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21750,
+      "typeEvenement": 13,
+      "libelleEvenement": "AILE OU LA CUISSE (L')",
+      "dateHeure": "2021-02-06T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54573,
+          "titre": "Aile ou la cuisse",
+          "art": "L'",
+          "realisateurs": "Claude Zidi",
+          "annee": 1976,
+          "generique": "Louis de Funès, Coluche, Julien Guiomar",
+          "synopsis": "Charles Duchemin, le directeur d'un guide gastronomique très réputé, est opposé à Tricatel, le roi de la restauration industrielle. Duchemin espère voir son fils lui succéder, mais le jeune homme rêve de devenir clown.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20520,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36964,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 529,
+          "idCategorie": 2375,
+          "titreCycle": "Gérardmer à Paris 2021",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23604,
+      "typeEvenement": 13,
+      "libelleEvenement": "28E FESTIVAL DE GÉRARDMER",
+      "dateHeure": "2021-02-06T17:00:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 36682,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 529,
+          "idCategorie": 2375,
+          "titreCycle": "Gérardmer à Paris 2021",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23604,
+      "typeEvenement": 13,
+      "libelleEvenement": "28E FESTIVAL DE GÉRARDMER",
+      "dateHeure": "2021-02-06T19:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 36683,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 529,
+          "idCategorie": 2375,
+          "titreCycle": "Gérardmer à Paris 2021",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23604,
+      "typeEvenement": 13,
+      "libelleEvenement": "28E FESTIVAL DE GÉRARDMER",
+      "dateHeure": "2021-02-06T21:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 36693,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 520,
+          "idCategorie": 2397,
+          "titreCycle": "Séances Jeune public",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23465,
+      "typeEvenement": 13,
+      "libelleEvenement": "FÉE (LA)",
+      "dateHeure": "2021-02-07T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 114126,
+          "titre": "Fée",
+          "art": "La",
+          "realisateurs": "Dominique Abel, Fiona Gordon, Bruno Romy",
+          "annee": 2010,
+          "generique": "Dominique Abel, Fiona Gordon, Philippe Martz, Bruno Romy",
+          "ageMinimal": 8,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22012,
+              "duree": 93,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36965,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 529,
+          "idCategorie": 2375,
+          "titreCycle": "Gérardmer à Paris 2021",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23604,
+      "typeEvenement": 13,
+      "libelleEvenement": "28E FESTIVAL DE GÉRARDMER",
+      "dateHeure": "2021-02-07T17:30:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 36690,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 529,
+          "idCategorie": 2375,
+          "titreCycle": "Gérardmer à Paris 2021",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23604,
+      "typeEvenement": 13,
+      "libelleEvenement": "28E FESTIVAL DE GÉRARDMER",
+      "dateHeure": "2021-02-07T19:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 36691,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 529,
+          "idCategorie": 2375,
+          "titreCycle": "Gérardmer à Paris 2021",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23604,
+      "typeEvenement": 13,
+      "libelleEvenement": "28E FESTIVAL DE GÉRARDMER",
+      "dateHeure": "2021-02-07T21:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 37772,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 520,
+          "idCategorie": 2397,
+          "titreCycle": "Séances Jeune public",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23353,
+      "typeEvenement": 13,
+      "libelleEvenement": "MARY POPPINS",
+      "dateHeure": "2021-02-10T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45294,
+          "titre": "Mary Poppins",
+          "realisateurs": "Robert Stevenson",
+          "annee": 1963,
+          "generique": "Julie Andrews, Dick Van Dyke, David Tomlinson",
+          "adaptation": "D'après le roman _Mary Poppins_ de Pamela L. Travers.",
+          "ageMinimal": 4,
+          "synopsis": "La vie de deux enfants un peu trop sages est bousculée par l'arrivée d'une nouvelle gouvernante farfelue, Mary Poppins.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 11710,
+              "duree": 140,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36708,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 487,
+          "idCategorie": 2226,
+          "titreCycle": "Voyage dans le cinéma français des années 1950",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23311,
+      "typeEvenement": 13,
+      "libelleEvenement": "HORIZONS SANS FIN",
+      "dateHeure": "2021-02-10T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48203,
+          "titre": "Horizons sans fin",
+          "realisateurs": "Jean Dréville",
+          "annee": 1952,
+          "generique": "Gisèle Pascal, Jean Chevrier, Marie-France Planèze",
+          "synopsis": "L'histoire de l'aviatrice Hélène Boucher, qui s'illustra pendant l'entre-deux-guerres.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21924,
+              "duree": 104,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37694,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 487,
+          "idCategorie": 2226,
+          "titreCycle": "Voyage dans le cinéma français des années 1950",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23306,
+      "typeEvenement": 13,
+      "libelleEvenement": "AMOURS FINISSENT À L'AUBE (LES)",
+      "dateHeure": "2021-02-11T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 39744,
+          "titre": "Amours finissent à l'aube",
+          "art": "Les",
+          "realisateurs": "Henri Calef",
+          "annee": 1952,
+          "generique": "Georges Marchal, Françoise Christophe, Nicole Courcel",
+          "synopsis": "Didier et Alberte forment un couple heureux mais, un jour, Didier trompe sa femme avec une jeune fille.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21915,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37693,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 2394,
+          "titreCycle": "Fenêtre sur les collections",
+          "titreSousCycle": "La Cinémathèque-musée"
+        }
+      ],
+      "idEvenement": 23401,
+      "typeEvenement": 13,
+      "libelleEvenement": "LA CINÉMATHÈQUE-MUSÉE/SÉANCE 1",
+      "dateHeure": "2021-02-12T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 146314,
+          "titre": "Musée du cinéma",
+          "art": "Le",
+          "realisateurs": "Anonyme",
+          "annee": 1960,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22005,
+              "duree": 5,
+              "format": "16 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 146315,
+          "titre": "Foules de Lourdes",
+          "art": "Les",
+          "realisateurs": "Jacques Lemare",
+          "annee": 1940,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22006,
+              "duree": 10,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 81145,
+          "titre": "Mont-Saint-Michel",
+          "art": "Le",
+          "realisateurs": "Maurice Cloche",
+          "annee": 1934,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22007,
+              "duree": 30,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 49886,
+          "titre": "Peter Breughel l'Ancien",
+          "realisateurs": "Edmond Levy, Arcady, Gilbert Pignol",
+          "annee": 1953,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22008,
+              "duree": 20,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Stéphanie Louis"
+    },
+    {
+      "idSeance": 37766,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 2394,
+          "titreCycle": "Fenêtre sur les collections",
+          "titreSousCycle": "La Cinémathèque-musée"
+        }
+      ],
+      "idEvenement": 23424,
+      "typeEvenement": 13,
+      "libelleEvenement": "LA CINÉMATHÈQUE-MUSÉE/SÉANCE 2",
+      "dateHeure": "2021-02-12T20:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 146313,
+          "titre": "Musée du cinéma",
+          "art": "Le",
+          "realisateurs": "Anonyme",
+          "annee": 1955,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22003,
+              "duree": 3,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 132172,
+          "titre": "Kipho",
+          "realisateurs": "Guido Seeber",
+          "annee": 1925,
+          "synopsis": "Film sous réserve",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 10002,
+              "duree": 6,
+              "format": "16 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 146312,
+          "titre": "Jazz of Lights",
+          "realisateurs": "Ian Hugo",
+          "annee": 1954,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22004,
+              "duree": 15,
+              "format": "16 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 77876,
+          "titre": "Pain de Barbarie",
+          "art": "Le",
+          "realisateurs": "Roger Leenhardt",
+          "annee": 1949,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21974,
+              "duree": 20,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36723,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 268,
+          "idCategorie": 1155,
+          "titreCycle": "Paulo Branco",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 22973,
+      "typeEvenement": 13,
+      "libelleEvenement": "DANS LA VILLE BLANCHE",
+      "dateHeure": "2021-02-13T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45942,
+          "titre": "Dans la ville blanche",
+          "realisateurs": "Alain Tanner",
+          "annee": 1982,
+          "generique": "Bruno Ganz, Teresa Madruga, Julia Vonderlinn",
+          "synopsis": "Un marin déserte son poste lors d'une escale a Lisbonne. Il aime la ville, il aime Elisa, qu'il a laissée en Suisse, et tombe amoureux de Rosa, serveuse dans un bar.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21553,
+              "duree": 107,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36727,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 527,
+          "idCategorie": 2368,
+          "titreCycle": "Louis de Funès",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21730,
+      "typeEvenement": 13,
+      "libelleEvenement": "POUIC-POUIC",
+      "dateHeure": "2021-02-13T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48639,
+          "titre": "Pouic-Pouic",
+          "realisateurs": "Jean Girault",
+          "annee": 1963,
+          "generique": "Louis de Funès, Jacqueline Maillan, Mireille Darc",
+          "adaptation": "D'après la pièce _Sans cérémonie_ de Jacques Vilfrid et Jean Girault.",
+          "synopsis": "Léonard Monestier possède une belle fortune, mais sa femme fait un mauvais placement. Il cherche alors à se débarrasser de l'affaire auprès d'Antoine, un milliardaire très intéressé par sa fille Patricia.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20494,
+              "duree": 90,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36730,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 487,
+          "idCategorie": 2226,
+          "titreCycle": "Voyage dans le cinéma français des années 1950",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21274,
+      "typeEvenement": 13,
+      "libelleEvenement": "FRUIT DÉFENDU (LE)",
+      "dateHeure": "2021-02-13T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51694,
+          "titre": "Fruit défendu",
+          "art": "Le",
+          "realisateurs": "Henri Verneuil",
+          "annee": 1952,
+          "generique": "Fernandel, Françoise Arnoul, Raymond Pellegrin, Claude Nollier",
+          "synopsis": "À Arles, le respectable docteur Charles Pellegrin rencontre sur un quai de gare la jeune et entreprenante Martine. Il sent s'éveiller en lui le démon de midi.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 5812,
+              "duree": 102,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37793,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 520,
+          "idCategorie": 2414,
+          "titreCycle": "Séances Jeune public",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23506,
+      "typeEvenement": 13,
+      "libelleEvenement": "VOYAGE DANS LA PRÉHISTOIRE",
+      "dateHeure": "2021-02-14T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40563,
+          "titre": "Voyage dans la préhistoire",
+          "titreVo": "Cesta do pravěku",
+          "realisateurs": "Karel Zeman",
+          "annee": 1955,
+          "generique": "Petr Herrmann, Vladimír Bejval, Josef Lukáš",
+          "ageMinimal": 8,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22026,
+              "duree": 88,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37794,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 520,
+          "idCategorie": 2414,
+          "titreCycle": "Séances Jeune public",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23507,
+      "typeEvenement": 13,
+      "libelleEvenement": "INVENTION DIABOLIQUE (L')",
+      "dateHeure": "2021-02-17T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40513,
+          "titre": "Invention diabolique",
+          "art": "L'",
+          "titreVo": "Vynález zkázy",
+          "realisateurs": "Karel Zeman",
+          "annee": 1958,
+          "generique": "Lubor Tokoš, Jana Zatloukalová, Arnošt Navrátil",
+          "ageMinimal": 6,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20139,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37623,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 487,
+          "idCategorie": 2226,
+          "titreCycle": "Voyage dans le cinéma français des années 1950",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23309,
+      "typeEvenement": 13,
+      "libelleEvenement": "ENVERS DU PARADIS (L')",
+      "dateHeure": "2021-02-18T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49003,
+          "titre": "Envers du paradis",
+          "art": "L'",
+          "realisateurs": "Edmond T. Gréville",
+          "annee": 1953,
+          "generique": "Jacques Sernas, Etchika Choureau, Jacques Castelot",
+          "synopsis": "Condamnée par la médecine, une jeune fille retourne à l'auberge de ses parents où elle rencontre un écrivain dont elle tombe amoureuse.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21922,
+              "duree": 96,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36763,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 2389,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Histoire permanente du kung-fu"
+        }
+      ],
+      "idEvenement": 23238,
+      "typeEvenement": 13,
+      "libelleEvenement": "CA BRANLE DANS LES BAMBOUS",
+      "dateHeure": "2021-02-19T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54046,
+          "titre": "Ça branle dans les bambous",
+          "titreVo": "Blind Boxer",
+          "realisateurs": "Sum Cheung",
+          "annee": 1972,
+          "generique": "Jason Piao Pai, Ingrid Yin-Yin Hu, Chun-Ku Lu",
+          "synopsis": "Fung Man aide son père aveugle à enseigner le karaté à un groupe d'étudiants.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21779,
+              "duree": 84,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37626,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 487,
+          "idCategorie": 2226,
+          "titreCycle": "Voyage dans le cinéma français des années 1950",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21275,
+      "typeEvenement": 13,
+      "libelleEvenement": "PETIT MONDE DE DON CAMILLO (LE)",
+      "dateHeure": "2021-02-19T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48351,
+          "titre": "Petit monde de Don Camillo",
+          "art": "Le",
+          "realisateurs": "Julien Duvivier",
+          "annee": 1951,
+          "generique": "Fernandel, Gino Cervi, Sylvie",
+          "synopsis": "Dans un petit village italien de la plaine du Pô, l'affrontement d'un curé de campagne prompt à la bagarre et du maire communiste.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21927,
+              "duree": 107,
+              "format": "16 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37779,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 2389,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Histoire permanente du kung-fu"
+        }
+      ],
+      "idEvenement": 23461,
+      "typeEvenement": 13,
+      "libelleEvenement": "DA DI SHUANG YING",
+      "dateHeure": "2021-02-19T22:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 106316,
+          "titre": "Frères Karaté à Bangkok",
+          "art": "Les",
+          "titreVo": "Da di shuang ying",
+          "titreNx": "大地雙英",
+          "realisateurs": "Philip Chalong, Tung-Man Chan",
+          "annee": 1973,
+          "generique": "Sing Chan, Yuan Kao, Feng Tien",
+          "synopsis": "Chain, riche exploitant forestier, veut s'emparer des terres d'un important planteur. Se sentant menacé, le planteur fait appel à ses fils pour lutter contre les hommes de Chain.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22009,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36766,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 527,
+          "idCategorie": 2368,
+          "titreCycle": "Louis de Funès",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 20553,
+      "typeEvenement": 13,
+      "libelleEvenement": "CORNIAUD (LE)",
+      "dateHeure": "2021-02-20T14:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 56672,
+          "titre": "Corniaud",
+          "art": "Le",
+          "realisateurs": "Gérard Oury",
+          "annee": 1964,
+          "generique": "Bourvil, Louis de Funès, Venantino Venantini",
+          "synopsis": "Saroyan, trafiquant en tout genre, utilise l'honnête et naïf Antoine Maréchal pour conduire de Naples à Bordeaux une Cadillac remplie d'or et d'héroïne.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20262,
+              "duree": 110,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37765,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 487,
+          "idCategorie": 2226,
+          "titreCycle": "Voyage dans le cinéma français des années 1950",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23382,
+      "typeEvenement": 13,
+      "libelleEvenement": "COURTE TÊTE",
+      "dateHeure": "2021-02-20T20:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47293,
+          "titre": "Courte tête",
+          "realisateurs": "Norbert Carbonnaux",
+          "annee": 1956,
+          "generique": "Fernand Gravey, Jean Richard, Louis de Funès",
+          "synopsis": "Des turfistes escrocs tentent de profiter de la naïveté d'un provincial pour réaliser quelques bénéfices.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20548,
+              "duree": 85,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37775,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 520,
+          "idCategorie": 2414,
+          "titreCycle": "Séances Jeune public",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23464,
+      "typeEvenement": 13,
+      "libelleEvenement": "BARON DE CRAC (LE)",
+      "dateHeure": "2021-02-21T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45410,
+          "titre": "Baron de Crac",
+          "art": "Le",
+          "titreVo": "Baron Prášil",
+          "realisateurs": "Karel Zeman",
+          "annee": 1961,
+          "ageMinimal": 10,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22010,
+              "duree": 83,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36850,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 519,
+          "idCategorie": 2350,
+          "titreCycle": "Mia Hansen-Løve",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 519,
+          "idCategorie": 2350,
+          "titreCycle": "Mia Hansen-Løve",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23510,
+      "typeEvenement": 13,
+      "libelleEvenement": "BERGMAN ISLAND",
+      "dateHeure": "2021-02-22T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 43,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 146479,
+          "titre": "Bergman Island",
+          "realisateurs": "Mia Hansen-Løve",
+          "annee": 2021,
+          "generique": "Tim Roth, Mia Wasikowska, Vicky Krieps, Anders Danielsen Lie",
+          "synopsis": "Un couple de cinéastes s'installe pour écrire, le temps d'un été, sur l'île suédoise de Fårö, où vécut Ingmar Bergman. À mesure que leurs scénarios respectifs avancent, et au contact des paysages sauvages de l'île, la frontière entre fiction et réalité se brouille.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22028,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Avant-première"
+    },
+    {
+      "idSeance": 37787,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 520,
+          "idCategorie": 2414,
+          "titreCycle": "Séances Jeune public",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23505,
+      "typeEvenement": 13,
+      "libelleEvenement": "ARCHE DE M. SERVADAC (L')",
+      "dateHeure": "2021-02-24T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 65867,
+          "titre": "Arche de monsieur Servadac",
+          "art": "L'",
+          "titreVo": "Na kometě",
+          "realisateurs": "Karel Zeman",
+          "annee": 1970,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22025,
+              "duree": 76,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36792,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 519,
+          "idCategorie": 2350,
+          "titreCycle": "Mia Hansen-Løve",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23016,
+      "typeEvenement": 13,
+      "libelleEvenement": "TOUT EST PARDONNÉ",
+      "dateHeure": "2021-02-24T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 102115,
+          "titre": "Tout est pardonné",
+          "realisateurs": "Mia Hansen-Løve",
+          "annee": 2007,
+          "generique": "Paul Blain, Constance Rousseau, Marie-Christine Friedrich",
+          "synopsis": "Victor, aspirant poète, habite à Vienne avec sa compagne autrichienne et leur petite fille Pamela. Incapable d'écrire, il écume les bars jour et nuit. Quand la famille s'installe à Paris pour prendre un nouveau départ, Victor quitte tout pour une junkie dont il est tombé amoureux. Onze ans plus tard, Pamela décide de revoir son père.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21611,
+              "duree": 105,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 21800,
+              "duree": 105,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Constance Rousseau et Paul Blain"
+    },
+    {
+      "idSeance": 36959,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 519,
+          "idCategorie": 2350,
+          "titreCycle": "Mia Hansen-Løve",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23017,
+      "typeEvenement": 13,
+      "libelleEvenement": "UN AMOUR DE JEUNESSE",
+      "dateHeure": "2021-02-24T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 113488,
+          "titre": "Un amour de jeunesse",
+          "realisateurs": "Mia Hansen-Løve",
+          "annee": 2011,
+          "generique": "Lola Créton, Sebastian Urzendowsky, Magne-Håvard Brekke",
+          "synopsis": "Camille, 15 ans, et Sullivan, la vingtaine, s'aiment d'un amour passionné. Mais, à la fin de l'été, Sullivan s'en va.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 5306,
+              "duree": 110,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Marion Monnier"
+    },
+    {
+      "idSeance": 36806,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 519,
+          "idCategorie": 2350,
+          "titreCycle": "Mia Hansen-Løve",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23018,
+      "typeEvenement": 13,
+      "libelleEvenement": "PÈRE DE MES ENFANTS (LE)",
+      "dateHeure": "2021-02-25T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 108380,
+          "titre": "Père de mes enfants",
+          "art": "Le",
+          "realisateurs": "Mia Hansen-Løve",
+          "annee": 2009,
+          "generique": "Chiara Caselli, Louis-Do de Lencquesaing, Alice de Lencquesaing",
+          "synopsis": "Producteur de cinéma charismatique et hyperactif, Grégoire Canvel a tout pour lui : une femme, trois enfants, un métier qui le passionne. Il semble invincible, mais sa prestigieuse société de production, Moon Films, est en difficulté.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21802,
+              "duree": 111,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 21801,
+              "duree": 110,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 21610,
+              "duree": 110,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Louis-Do de Lencquesaing"
+    },
+    {
+      "idSeance": 36807,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 519,
+          "idCategorie": 2350,
+          "titreCycle": "Mia Hansen-Løve",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23014,
+      "typeEvenement": 13,
+      "libelleEvenement": "MAYA",
+      "dateHeure": "2021-02-26T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 140605,
+          "titre": "Maya",
+          "realisateurs": "Mia Hansen-Løve",
+          "annee": 2018,
+          "generique": "Aarshi Banerjee, Roman Kolinka, Alex Descas",
+          "synopsis": "Un jeune homme, libéré après quatre mois de captivité en Syrie, rompt avec sa vie d'avant et s'installe à Goa dans la maison de son enfance. Il fait alors la connaissance de Maya, une jeune Indienne.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21609,
+              "duree": 107,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Hélène Louvart"
+    },
+    {
+      "idSeance": 36809,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 519,
+          "idCategorie": 2350,
+          "titreCycle": "Mia Hansen-Løve",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 519,
+          "idCategorie": 2373,
+          "titreCycle": "Mia Hansen-Løve",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 23015,
+      "libelleEvenement": "EDEN + MIA HANSEN-LØVE PAR MIA HANSEN-LØVE",
+      "dateHeure": "2021-02-27T14:30:00",
+      "idSalle": "HL",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 125087,
+          "titre": "Eden",
+          "realisateurs": "Mia Hansen-Løve",
+          "annee": 2014,
+          "generique": "Félix de Givry, Pauline Étienne",
+          "synopsis": "Dans les années 1990, Paul fait ses premiers pas dans le milieu de la nuit parisienne. Passionné de musique, il créé avec son meilleur ami le duo de DJ Cheers. Rapidement, ils trouvent leur public et vivent une ascension vertigineuse, euphorique, dangereuse.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21608,
+              "duree": 131,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idConf": 23270,
+          "titre": "MIA HANSEN-LØVE PAR MIA HANSEN-LØVE",
+          "typeConference": "Leçon de cinéma",
+          "duree": 60,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 36813,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 527,
+          "idCategorie": 2368,
+          "titreCycle": "Louis de Funès",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21762,
+      "typeEvenement": 13,
+      "libelleEvenement": "GENDARME DE SAINT-TROPEZ (LE)",
+      "dateHeure": "2021-02-27T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48792,
+          "titre": "Gendarme de Saint-Tropez",
+          "art": "Le",
+          "realisateurs": "Jean Girault",
+          "annee": 1964,
+          "generique": "Louis de Funès, Geneviève Grad, Michel Galabru, Jean Lefebvre",
+          "synopsis": "Le maréchal des logis-chef Cruchot prend ses nouvelles fonctions à Saint-Tropez, aidé de subalternes maladroits. De son côté, sa fille Nicole rencontre de nouveaux amis, tout en s'attirant de multiples ennuis.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20499,
+              "duree": 80,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 36814,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 519,
+          "idCategorie": 2350,
+          "titreCycle": "Mia Hansen-Løve",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23013,
+      "typeEvenement": 13,
+      "libelleEvenement": "AVENIR (L')",
+      "dateHeure": "2021-02-27T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 130714,
+          "titre": "Avenir",
+          "art": "L'",
+          "realisateurs": "Mia Hansen-Løve",
+          "annee": 2015,
+          "generique": "Isabelle Huppert, André Marcon, Roman Kolinka, Edith Scob",
+          "synopsis": "Nathalie, mariée, deux enfants, est professeur de philosophie dans un lycée parisien. Un jour, son mari lui annonce qu'il part vivre avec une autre femme. Confrontée à une liberté nouvelle, elle doit réinventer sa vie.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21583,
+              "duree": 100,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37790,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 520,
+          "idCategorie": 2414,
+          "titreCycle": "Séances Jeune public",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23519,
+      "typeEvenement": 13,
+      "libelleEvenement": "DIRIGEABLE VOLÉ (LE)",
+      "dateHeure": "2021-02-28T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 73569,
+          "titre": "Dirigeable volé",
+          "art": "Le",
+          "titreVo": "Ukradená vzducholoď",
+          "realisateurs": "Karel Zeman",
+          "annee": 1966,
+          "generique": "Michael Pospíšil, Hanuš Bor, Jan Čížek, Josef Stráník",
+          "adaptation": "D'après le roman _Deux ans de vacances_ de Jules Verne.",
+          "ageMinimal": 8,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 548,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 37743,
+      "idProg": 78,
+      "idCycleCategories": [
+        {
+          "idCycle": 516,
+          "idCategorie": 2345,
+          "titreCycle": "Friedrich Wilhelm Murnau",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23431,
+      "typeEvenement": 13,
+      "libelleEvenement": "MURNAU'S 4 DEVILS : TRACES OF A LOST FILM",
+      "dateHeure": "2021-02-28T15:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 129912,
+          "titre": "Murnau's 4 Devils: Traces of a Lost Film",
+          "realisateurs": "Janet Bergstrom",
+          "annee": 2003,
+          "synopsis": "À partir de photos et d'archives, une reconstitution du film perdu de Murnau réalisé entre _L'Aurore_ et _City Girl_.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21943,
+              "duree": 40,
+              "format": "Vidéo",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
