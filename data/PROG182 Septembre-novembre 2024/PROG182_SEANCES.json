@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-28T13:00:04.541Z",
+  "updatedAt": "2024-05-28T14:34:17.338Z",
   "data": [
     {
       "idSeance": 130975,
@@ -665,6 +665,54 @@
       ]
     },
     {
+      "idSeance": 133953,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30039,
+      "typeEvenement": 13,
+      "libelleEvenement": "AUSTERLITZ",
+      "dateHeure": "2024-09-01T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48585,
+          "titre": "Austerlitz",
+          "realisateurs": "Abel Gance",
+          "annee": 1959,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28136,
+              "duree": 137,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 28134,
+              "duree": 165,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 28135,
+              "duree": 165,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 28133,
+              "duree": 165
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 131111,
       "idProg": 182,
       "idCycleCategories": [
@@ -720,7 +768,7 @@
       "idEvenement": 30040,
       "typeEvenement": 13,
       "libelleEvenement": "LUCRÈCE BORGIA",
-      "dateHeure": "2024-09-01T17:45:00",
+      "dateHeure": "2024-09-01T18:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1394,41 +1442,6 @@
       ]
     },
     {
-      "idSeance": 133636,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30078,
-      "typeEvenement": 13,
-      "libelleEvenement": "ROUE (LA)",
-      "dateHeure": "2024-09-07T14:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48689,
-          "titre": "Roue",
-          "art": "La",
-          "realisateurs": "Abel Gance",
-          "annee": 1921,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28092,
-              "duree": 365,
-              "format": "DCP"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 133760,
       "idProg": 182,
       "idCycleCategories": [
@@ -1442,7 +1455,7 @@
       "idEvenement": 30748,
       "typeEvenement": 13,
       "libelleEvenement": "WHAT PRICE HOLLYWOOD?",
-      "dateHeure": "2024-09-07T15:00:00",
+      "dateHeure": "2024-09-07T14:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1461,6 +1474,41 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133636,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30078,
+      "typeEvenement": 13,
+      "libelleEvenement": "ROUE (LA)",
+      "dateHeure": "2024-09-07T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48689,
+          "titre": "Roue",
+          "art": "La",
+          "realisateurs": "Abel Gance",
+          "annee": 1921,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28092,
+              "duree": 365,
+              "format": "DCP"
             }
           ]
         }
@@ -1508,7 +1556,7 @@
       "idEvenement": 31051,
       "typeEvenement": 13,
       "libelleEvenement": "PLUS QU'HIER, MOINS QUE DEMAIN",
-      "dateHeure": "2024-09-07T18:00:00",
+      "dateHeure": "2024-09-07T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1530,6 +1578,39 @@
         }
       ],
       "mention": "Séance présentée par Robert Guédiguian et Ricardo Muñoz"
+    },
+    {
+      "idSeance": 131285,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30714,
+      "typeEvenement": 13,
+      "libelleEvenement": "HAUTE SOCIÉTÉ",
+      "dateHeure": "2024-09-07T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80555,
+          "titre": "Haute société",
+          "titreVo": "Our Betters",
+          "realisateurs": "George Cukor",
+          "annee": 1933,
+          "generique": "Constance Bennett, Violet Kemble Cooper, Phoebe Foster",
+          "adaptation": "D'après la pièce _Haute société_ de W. Somerset Maugham.",
+          "miniTexte": "Exercice de godille entre cynisme et désillusions pour Constance Bennett, dans le rôle d'une ambitieuse Américaine plongée dans l'aristocratie anglaise. Et pour Cukor, qui, à grand renfort de dialogues acides, adapte la pièce de Somerset Maugham et parvient à marier le vice et la vertu. Le dernier film du cinéaste pour la RKO, avant qu'il n'intègre la MGM.",
+          "status": 2,
+          "copies": [],
+          "idFilmBoxoffice": 118974
+        }
+      ]
     },
     {
       "idSeance": 131286,
@@ -1561,39 +1642,6 @@
       "mention": "Séance présentée par Bernard Eisenschitz et Gaël Teicher"
     },
     {
-      "idSeance": 131285,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30714,
-      "typeEvenement": 13,
-      "libelleEvenement": "HAUTE SOCIÉTÉ",
-      "dateHeure": "2024-09-07T20:15:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 80555,
-          "titre": "Haute société",
-          "titreVo": "Our Betters",
-          "realisateurs": "George Cukor",
-          "annee": 1933,
-          "generique": "Constance Bennett, Violet Kemble Cooper, Phoebe Foster",
-          "adaptation": "D'après la pièce _Haute société_ de W. Somerset Maugham.",
-          "miniTexte": "Exercice de godille entre cynisme et désillusions pour Constance Bennett, dans le rôle d'une ambitieuse Américaine plongée dans l'aristocratie anglaise. Et pour Cukor, qui, à grand renfort de dialogues acides, adapte la pièce de Somerset Maugham et parvient à marier le vice et la vertu. Le dernier film du cinéaste pour la RKO, avant qu'il n'intègre la MGM.",
-          "status": 2,
-          "copies": [],
-          "idFilmBoxoffice": 118974
-        }
-      ]
-    },
-    {
       "idSeance": 133647,
       "idProg": 182,
       "idCycleCategories": [
@@ -1607,7 +1655,7 @@
       "idEvenement": 30873,
       "typeEvenement": 13,
       "libelleEvenement": "JEAN-FRANÇOIS STÉVENIN : SIMPLES MESSIEURS",
-      "dateHeure": "2024-09-07T21:00:00",
+      "dateHeure": "2024-09-07T21:15:00",
       "idSalle": "JE",
       "items": [
         {
@@ -1851,36 +1899,6 @@
       ]
     },
     {
-      "idSeance": 131300,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 787,
-          "idCategorie": 3375,
-          "titreCycle": "Laurent Achard",
-          "titreSousCycle": "Documentaires sur le cinéma"
-        }
-      ],
-      "idEvenement": 30789,
-      "typeEvenement": 13,
-      "libelleEvenement": "PATRICIA MAZUY : AVANT SATURNE",
-      "dateHeure": "2024-09-08T19:30:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 153932,
-          "titre": "Patricia Mazuy : avant Saturne",
-          "realisateurs": "Laurent Achard",
-          "annee": 2022,
-          "synopsis": "À Caen, Laurent Achard suit Patricia Mazuy et son équipe dans les préparatifs de son film _Bowling Saturne_.",
-          "status": 2,
-          "copies": []
-        }
-      ],
-      "mention": "Séance présentée par Patricia Mazuy"
-    },
-    {
       "idSeance": 131303,
       "idProg": 182,
       "idCycleCategories": [
@@ -1913,6 +1931,36 @@
           ]
         }
       ]
+    },
+    {
+      "idSeance": 131300,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 787,
+          "idCategorie": 3375,
+          "titreCycle": "Laurent Achard",
+          "titreSousCycle": "Documentaires sur le cinéma"
+        }
+      ],
+      "idEvenement": 30789,
+      "typeEvenement": 13,
+      "libelleEvenement": "PATRICIA MAZUY : AVANT SATURNE",
+      "dateHeure": "2024-09-08T19:45:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 153932,
+          "titre": "Patricia Mazuy : avant Saturne",
+          "realisateurs": "Laurent Achard",
+          "annee": 2022,
+          "synopsis": "À Caen, Laurent Achard suit Patricia Mazuy et son équipe dans les préparatifs de son film _Bowling Saturne_.",
+          "status": 2,
+          "copies": []
+        }
+      ],
+      "mention": "Séance présentée par Patricia Mazuy"
     },
     {
       "idSeance": 133881,
@@ -2062,55 +2110,7 @@
       ]
     },
     {
-      "idSeance": 133702,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30039,
-      "typeEvenement": 13,
-      "libelleEvenement": "AUSTERLITZ",
-      "dateHeure": "2024-09-11T18:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48585,
-          "titre": "Austerlitz",
-          "realisateurs": "Abel Gance",
-          "annee": 1959,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28136,
-              "duree": 137,
-              "format": "35 mm"
-            },
-            {
-              "idCopie": 28134,
-              "duree": 165,
-              "format": "35 mm"
-            },
-            {
-              "idCopie": 28135,
-              "duree": 165,
-              "format": "35 mm"
-            },
-            {
-              "idCopie": 28133,
-              "duree": 165
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 133870,
+      "idSeance": 133952,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -2124,7 +2124,7 @@
       "typeEvenement": 13,
       "libelleEvenement": "TABLEAU (LE) / UN, PARFOIS DEUX...",
       "dateHeure": "2024-09-11T18:00:00",
-      "idSalle": "JE",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -2158,8 +2158,7 @@
             }
           ]
         }
-      ],
-      "mention": "Séance suivie d'une discussion avec Pascal Cervo et Mireille Roussel"
+      ]
     },
     {
       "idSeance": 133635,
@@ -2315,7 +2314,8 @@
           ],
           "idFilmBoxoffice": 2619
         }
-      ]
+      ],
+      "mention": "Séance présentée par Jean A. Gili"
     },
     {
       "idSeance": 133770,
@@ -2391,50 +2391,6 @@
       ]
     },
     {
-      "idSeance": 131425,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 786,
-          "idCategorie": 3371,
-          "titreCycle": "Marcello Mastroianni",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30838,
-      "typeEvenement": 13,
-      "libelleEvenement": "NUIT (LA)",
-      "dateHeure": "2024-09-13T17:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 42451,
-          "titre": "Nuit",
-          "art": "La",
-          "titreVo": "Notte",
-          "artVo": "La",
-          "realisateurs": "Michelangelo Antonioni",
-          "annee": 1960,
-          "generique": "Marcello Mastroianni, Jeanne Moreau, Monica Vitti",
-          "synopsis": "Les dernières heures vécues ensemble d'un couple d'intellectuels bourgeois, lors d'une soirée mondaine.",
-          "miniTexte": "En filmant le vide, l'ennui, Antonioni met en scène la destruction annoncée d'un couple et file la métaphore d'un urbanisme hostile pour figurer la fragilité des sentiments. Avec Mastroianni, le cinéaste amorce l'érosion de l'idéal mâle italien, et fait de Jeanne Moreau une égérie de la résignation. Ours d'or à Berlin.",
-          "commentaire": "Antonioni met en scène la destruction annoncée d'un couple, file la métaphore d'un urbanisme hostile pour figurer la fragilité des sentiments, amorce avec Mastroianni l'érosion de l'idéal mâle italien, et fait de Jeanne Moreau une égérie de la résignation. Il filme le vide, l'ennui, et invente une nouvelle forme qui à elle seule fait vaciller l'édifice du néoréalisme, et lui vaudra l'Ours d'or à Berlin.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 6223,
-              "duree": 122,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 675
-        }
-      ]
-    },
-    {
       "idSeance": 133826,
       "idProg": 182,
       "idCycleCategories": [
@@ -2471,6 +2427,52 @@
         }
       ],
       "mention": "Accompagnement musical par Fixi et Nicolas Giraud"
+    },
+    {
+      "idSeance": 133944,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 525,
+          "idCategorie": 3409
+        },
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30841,
+      "typeEvenement": 13,
+      "libelleEvenement": "HUIT ET DEMI",
+      "dateHeure": "2024-09-13T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45182,
+          "titre": "8½",
+          "titreVo": "Otto e mezzo",
+          "realisateurs": "Federico Fellini",
+          "annee": 1962,
+          "generique": "Marcello Mastroianni, Claudia Cardinale, Anouk Aimée",
+          "synopsis": "Le cinéaste Guido Anselmi, en cure dans une station thermale, éprouve la crise du créateur. Alors qu'il cherche l'inspiration pour son prochain film, il se trouve happé par ses souvenirs et ses fantasmes.",
+          "miniTexte": "En cure dans une station thermale, un cinéaste en mal d'inspiration se trouve happé par ses souvenirs et ses fantasmes. Les angoisses existentielles de Guido/Mastroianni, double notoire de Fellini, dans l'un de ses plus beaux films, au final indissociable de la ritournelle de Nino Rota.",
+          "commentaire": "« Au moment du tournage de _8½_, il m'arriva une chose que je redoutais depuis longtemps. Je fus victime d'un blocage, comme les écrivains en ont parfois devant leur page blanche. » Le blocage de Fellini devint le sujet même du film. Les angoisses d'un cinéaste en mal d'inspiration et en mal de vivre tout court. Guido/Mastroianni, double notoire arborant tous les attributs felliniens (manteau noir, écharpe et Borsalino), se laisse porter par le souffle du vent à travers les fantasmes et les rêves du passé, jusqu'à la farandole finale, d'une beauté infinie, indissociable du thème légendaire de la fanfare de Nino Rota.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 16659,
+              "duree": 138,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 337
+        }
+      ]
     },
     {
       "idSeance": 133672,
@@ -2511,43 +2513,28 @@
       "mention": "Accompagnement musical par Benjamin Moussay"
     },
     {
-      "idSeance": 133737,
+      "idSeance": 133955,
       "idProg": 182,
       "idCycleCategories": [
         {
-          "idCycle": 786,
-          "idCategorie": 3371,
-          "titreCycle": "Marcello Mastroianni",
-          "titreSousCycle": "Les films"
+          "idCycle": 525,
+          "idCategorie": 3114
         }
       ],
-      "idEvenement": 30839,
-      "typeEvenement": 13,
-      "libelleEvenement": "DIVORCE À L'ITALIENNE",
-      "dateHeure": "2024-09-13T20:30:00",
+      "idEvenement": 31102,
+      "typeEvenement": 14,
+      "libelleEvenement": "DIALOGUE AVEC FREDERIC BONNAUD",
+      "dateHeure": "2024-09-13T21:45:00",
+      "typeConference": "Dialogue",
       "idSalle": "HL",
+      "duree": 60,
       "items": [
         {
           "ordre": 1,
-          "idFilm": 41959,
-          "titre": "Divorce à l'italienne",
-          "titreVo": "Divorzio all'italiana",
-          "realisateurs": "Pietro Germi",
-          "annee": 1961,
-          "generique": "Marcello Mastroianni, Daniela Rocca, Stefania Sandrelli",
-          "synopsis": "Un baron sicilien tombe amoureux de sa jeune cousine et cherche à se débarrasser de sa femme.",
-          "miniTexte": "Un noble sicilien manigance un crime d'honneur pour se débarrasser de son épouse. Loin de ses rôles de séducteur romantique, Mastroianni incarne un homme aussi cynique que ridicule, dans une satire grinçante de la société conservatrice des années 60.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28225,
-              "duree": 104,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 97129
+          "idConf": 31102,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Frederic Bonnaud",
+          "duree": 60
         }
       ]
     },
@@ -3214,6 +3201,91 @@
       ]
     },
     {
+      "idSeance": 133954,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30716,
+      "typeEvenement": 13,
+      "libelleEvenement": "HÉRITAGE",
+      "dateHeure": "2024-09-18T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31386,
+          "titre": "Héritage",
+          "titreVo": "A Bill of Divorcement",
+          "realisateurs": "George Cukor",
+          "annee": 1932,
+          "generique": "John Barrymore, Billie Burke, David Manners",
+          "adaptation": "D'après la pièce _A Bill of Divorcement_ de Clemence Dane.",
+          "miniTexte": "De retour chez lui après un séjour en psychiatrie, un homme, dont l'épouse s'apprête à se remarier, renoue une relation affectueuse avec sa fille. Face à un John Barrymore particulièrement émouvant, Katharine Hepburn, tout droit débarquée de Broadway, fait des débuts brillants devant la caméra de Cukor, cicérone enthousiaste avec qui elle tournera à sept autres reprises.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27929,
+              "duree": 70,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 42973
+        }
+      ]
+    },
+    {
+      "idSeance": 133945,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30838,
+      "typeEvenement": 13,
+      "libelleEvenement": "NUIT (LA)",
+      "dateHeure": "2024-09-18T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42451,
+          "titre": "Nuit",
+          "art": "La",
+          "titreVo": "Notte",
+          "artVo": "La",
+          "realisateurs": "Michelangelo Antonioni",
+          "annee": 1960,
+          "generique": "Marcello Mastroianni, Jeanne Moreau, Monica Vitti",
+          "synopsis": "Les dernières heures vécues ensemble d'un couple d'intellectuels bourgeois, lors d'une soirée mondaine.",
+          "miniTexte": "En filmant le vide, l'ennui, Antonioni met en scène la destruction annoncée d'un couple et file la métaphore d'un urbanisme hostile pour figurer la fragilité des sentiments. Avec Mastroianni, le cinéaste amorce l'érosion de l'idéal mâle italien, et fait de Jeanne Moreau une égérie de la résignation. Ours d'or à Berlin.",
+          "commentaire": "Antonioni met en scène la destruction annoncée d'un couple, file la métaphore d'un urbanisme hostile pour figurer la fragilité des sentiments, amorce avec Mastroianni l'érosion de l'idéal mâle italien, et fait de Jeanne Moreau une égérie de la résignation. Il filme le vide, l'ennui, et invente une nouvelle forme qui à elle seule fait vaciller l'édifice du néoréalisme, et lui vaudra l'Ours d'or à Berlin.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 6223,
+              "duree": 122,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 675
+        }
+      ]
+    },
+    {
       "idSeance": 131486,
       "idProg": 182,
       "idCycleCategories": [
@@ -3250,52 +3322,6 @@
       ]
     },
     {
-      "idSeance": 131533,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 525,
-          "idCategorie": 3409
-        },
-        {
-          "idCycle": 786,
-          "idCategorie": 3371,
-          "titreCycle": "Marcello Mastroianni",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30841,
-      "typeEvenement": 13,
-      "libelleEvenement": "HUIT ET DEMI",
-      "dateHeure": "2024-09-18T19:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 45182,
-          "titre": "8½",
-          "titreVo": "Otto e mezzo",
-          "realisateurs": "Federico Fellini",
-          "annee": 1962,
-          "generique": "Marcello Mastroianni, Claudia Cardinale, Anouk Aimée",
-          "synopsis": "Le cinéaste Guido Anselmi, en cure dans une station thermale, éprouve la crise du créateur. Alors qu'il cherche l'inspiration pour son prochain film, il se trouve happé par ses souvenirs et ses fantasmes.",
-          "miniTexte": "En cure dans une station thermale, un cinéaste en mal d'inspiration se trouve happé par ses souvenirs et ses fantasmes. Les angoisses existentielles de Guido/Mastroianni, double notoire de Fellini, dans l'un de ses plus beaux films, au final indissociable de la ritournelle de Nino Rota.",
-          "commentaire": "« Au moment du tournage de _8½_, il m'arriva une chose que je redoutais depuis longtemps. Je fus victime d'un blocage, comme les écrivains en ont parfois devant leur page blanche. » Le blocage de Fellini devint le sujet même du film. Les angoisses d'un cinéaste en mal d'inspiration et en mal de vivre tout court. Guido/Mastroianni, double notoire arborant tous les attributs felliniens (manteau noir, écharpe et Borsalino), se laisse porter par le souffle du vent à travers les fantasmes et les rêves du passé, jusqu'à la farandole finale, d'une beauté infinie, indissociable du thème légendaire de la fanfare de Nino Rota.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 16659,
-              "duree": 138,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 337
-        }
-      ]
-    },
-    {
       "idSeance": 133740,
       "idProg": 182,
       "idCycleCategories": [
@@ -3309,7 +3335,7 @@
       "idEvenement": 30906,
       "typeEvenement": 13,
       "libelleEvenement": "GRANDE PETITE",
-      "dateHeure": "2024-09-18T19:30:00",
+      "dateHeure": "2024-09-18T19:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3332,6 +3358,48 @@
       ]
     },
     {
+      "idSeance": 133946,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30839,
+      "typeEvenement": 13,
+      "libelleEvenement": "DIVORCE À L'ITALIENNE",
+      "dateHeure": "2024-09-18T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41959,
+          "titre": "Divorce à l'italienne",
+          "titreVo": "Divorzio all'italiana",
+          "realisateurs": "Pietro Germi",
+          "annee": 1961,
+          "generique": "Marcello Mastroianni, Daniela Rocca, Stefania Sandrelli",
+          "synopsis": "Un baron sicilien tombe amoureux de sa jeune cousine et cherche à se débarrasser de sa femme.",
+          "miniTexte": "Un noble sicilien manigance un crime d'honneur pour se débarrasser de son épouse. Loin de ses rôles de séducteur romantique, Mastroianni incarne un homme aussi cynique que ridicule, dans une satire grinçante de la société conservatrice des années 60.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28225,
+              "duree": 104,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 97129
+        }
+      ],
+      "mention": "Séance présentée par Jean A. Gili"
+    },
+    {
       "idSeance": 131537,
       "idProg": 182,
       "idCycleCategories": [
@@ -3345,7 +3413,7 @@
       "idEvenement": 30938,
       "typeEvenement": 13,
       "libelleEvenement": "PICTOGRAPHE (LE)",
-      "dateHeure": "2024-09-18T20:30:00",
+      "dateHeure": "2024-09-18T21:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -3627,7 +3695,7 @@
       ]
     },
     {
-      "idSeance": 133741,
+      "idSeance": 133947,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -3637,34 +3705,38 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30845,
+      "idEvenement": 30843,
       "typeEvenement": 13,
-      "libelleEvenement": "DRAME DE LA JALOUSIE",
+      "libelleEvenement": "MARIAGE À L'ITALIENNE",
       "dateHeure": "2024-09-20T18:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 42393,
-          "titre": "Drame de la jalousie",
-          "titreVo": "Dramma della gelosia",
-          "realisateurs": "Ettore Scola",
-          "annee": 1970,
-          "generique": "Marcello Mastroianni, Monica Vitti, Giancarlo Giannini",
-          "miniTexte": "À Rome, la passion amoureuse d'un maçon et d'une fleuriste, ébranlée par l'arrivée d'un pizzaïolo toscan. Écrit par Age et Scarpelli, le film, qui mêle subtilement les éléments les plus grotesques de la comédie italienne à l'amertume du mélodrame, offre à Mastroianni son premier Prix d'interprétation à Cannes.",
+          "idFilm": 41898,
+          "titre": "Mariage à l'italienne",
+          "titreVo": "Matrimonio all'italiana",
+          "realisateurs": "Vittorio De Sica",
+          "annee": 1964,
+          "generique": "Sophia Loren, Marcello Mastroianni, Aldo Puglisi",
+          "adaptation": "D'après la pièce _Filumena Marturano_ d'Eduardo De Filippo.",
+          "synopsis": "Filumena, une prostituée, est au service de Domenico, un riche commerçant, depuis plus de 20 ans. Elle souhaite l'épouser, et lui annonce qu'il est le père d'un de ses trois fils.",
+          "miniTexte": "Une ancienne prostituée vit en concubinage avec un riche commerçant. N'ayant jamais reçu de proposition de mariage depuis vingt ans, elle met au point un stratagème pour qu'il l'épouse. Sophia Loren et Mastroianni à la mesure de leur talent, dans un incontournable de la comédie italienne.",
+          "commentaire": "De Sica excelle aussi bien dans le drame que dans la comédie à l'italienne, genre qu'il a déjà abordé dans _Il Boom_ et _Hier, aujourd'hui et demain_. Le film, prétexte au plaisir du jeu, met en scène le couple le plus glamour du cinéma italien. Sophia Loren et Marcello Mastroianni jouent des personnages aux multiples facettes. Tour à tour drôles, tendres, cyniques ou vulgaires. Une satire sociale devenue un classique, décapante et jubilatoire.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28162,
-              "duree": 100,
-              "format": "35 mm",
+              "idCopie": 28066,
+              "duree": 104,
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 3828
+          "idFilmBoxoffice": 3639
         }
-      ]
+      ],
+      "mention": "Séance présentée par Jean A. Gili"
     },
     {
       "idSeance": 131615,
@@ -4103,6 +4175,52 @@
       ]
     },
     {
+      "idSeance": 133950,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30723,
+      "typeEvenement": 13,
+      "libelleEvenement": "LIAISONS COUPABLES (LES)",
+      "dateHeure": "2024-09-22T14:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31415,
+          "titre": "Liaisons coupables",
+          "art": "Les",
+          "titreVo": "Chapman Report",
+          "artVo": "The",
+          "realisateurs": "George Cukor",
+          "annee": 1961,
+          "generique": "Shelley Winters, Jane Fonda, Claire Bloom",
+          "adaptation": "D'après le roman _Les Liaisons coupables_ d'Irving Wallace.",
+          "miniTexte": "Quatre femmes, quatre façons de vivre une sexualité névrosée, libre, ou entravée. Ou comment Cukor, filmant ses magnifiques actrices, compose avec délicatesse le portrait en mosaïque de la vie sexuelle – et de la psyché – de l'Américaine moyenne, dans les années 60.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 10453,
+              "duree": 123,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 10454,
+              "duree": 123
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133724,
       "idProg": 182,
       "idCycleCategories": [
@@ -4144,6 +4262,34 @@
       ]
     },
     {
+      "idSeance": 133960,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3388,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 30965,
+      "typeEvenement": 14,
+      "libelleEvenement": "FILM + DIALOGUE AVEC MURIELLE JOUDET",
+      "dateHeure": "2024-09-22T17:00:00",
+      "typeConference": "Dialogue",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 30965,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Charlotte Garson",
+          "duree": 60
+        }
+      ]
+    },
+    {
       "idSeance": 133714,
       "idProg": 182,
       "idCycleCategories": [
@@ -4157,7 +4303,7 @@
       "idEvenement": 30914,
       "typeEvenement": 13,
       "libelleEvenement": "PROGRAMME DE COURTS MÉTRAGES",
-      "dateHeure": "2024-09-22T17:30:00",
+      "dateHeure": "2024-09-22T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4280,42 +4426,6 @@
       ]
     },
     {
-      "idSeance": 133715,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 794,
-          "idCategorie": 3383,
-          "titreCycle": "Sophie Fillières",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30907,
-      "typeEvenement": 13,
-      "libelleEvenement": "UN CHAT UN CHAT",
-      "dateHeure": "2024-09-22T19:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 106995,
-          "titre": "Un chat, un chat",
-          "realisateurs": "Sophie Fillières",
-          "annee": 2008,
-          "generique": "Chiara Mastroianni, Agathe Bonitzer, Malik Zidi",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 28170,
-              "duree": 105,
-              "format": "35 mm"
-            }
-          ],
-          "idFilmBoxoffice": 137664
-        }
-      ]
-    },
-    {
       "idSeance": 131670,
       "idProg": 182,
       "idCycleCategories": [
@@ -4351,6 +4461,42 @@
               "sousTitres": "STF"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133715,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 794,
+          "idCategorie": 3383,
+          "titreCycle": "Sophie Fillières",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30907,
+      "typeEvenement": 13,
+      "libelleEvenement": "UN CHAT UN CHAT",
+      "dateHeure": "2024-09-22T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 106995,
+          "titre": "Un chat, un chat",
+          "realisateurs": "Sophie Fillières",
+          "annee": 2008,
+          "generique": "Chiara Mastroianni, Agathe Bonitzer, Malik Zidi",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28170,
+              "duree": 105,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 137664
         }
       ]
     },
@@ -4512,7 +4658,7 @@
       ]
     },
     {
-      "idSeance": 131717,
+      "idSeance": 133948,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -4522,37 +4668,35 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30843,
+      "idEvenement": 30845,
       "typeEvenement": 13,
-      "libelleEvenement": "MARIAGE À L'ITALIENNE",
+      "libelleEvenement": "DRAME DE LA JALOUSIE",
       "dateHeure": "2024-09-25T20:45:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 41898,
-          "titre": "Mariage à l'italienne",
-          "titreVo": "Matrimonio all'italiana",
-          "realisateurs": "Vittorio De Sica",
-          "annee": 1964,
-          "generique": "Sophia Loren, Marcello Mastroianni, Aldo Puglisi",
-          "adaptation": "D'après la pièce _Filumena Marturano_ d'Eduardo De Filippo.",
-          "synopsis": "Filumena, une prostituée, est au service de Domenico, un riche commerçant, depuis plus de 20 ans. Elle souhaite l'épouser, et lui annonce qu'il est le père d'un de ses trois fils.",
-          "miniTexte": "Une ancienne prostituée vit en concubinage avec un riche commerçant. N'ayant jamais reçu de proposition de mariage depuis vingt ans, elle met au point un stratagème pour qu'il l'épouse. Sophia Loren et Mastroianni à la mesure de leur talent, dans un incontournable de la comédie italienne.",
-          "commentaire": "De Sica excelle aussi bien dans le drame que dans la comédie à l'italienne, genre qu'il a déjà abordé dans _Il Boom_ et _Hier, aujourd'hui et demain_. Le film, prétexte au plaisir du jeu, met en scène le couple le plus glamour du cinéma italien. Sophia Loren et Marcello Mastroianni jouent des personnages aux multiples facettes. Tour à tour drôles, tendres, cyniques ou vulgaires. Une satire sociale devenue un classique, décapante et jubilatoire.",
+          "idFilm": 42393,
+          "titre": "Drame de la jalousie",
+          "titreVo": "Dramma della gelosia",
+          "realisateurs": "Ettore Scola",
+          "annee": 1970,
+          "generique": "Marcello Mastroianni, Monica Vitti, Giancarlo Giannini",
+          "miniTexte": "À Rome, la passion amoureuse d'un maçon et d'une fleuriste, ébranlée par l'arrivée d'un pizzaïolo toscan. Écrit par Age et Scarpelli, le film, qui mêle subtilement les éléments les plus grotesques de la comédie italienne à l'amertume du mélodrame, offre à Mastroianni son premier Prix d'interprétation à Cannes.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28066,
-              "duree": 104,
-              "format": "DCP",
+              "idCopie": 28162,
+              "duree": 100,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 3639
+          "idFilmBoxoffice": 3828
         }
-      ]
+      ],
+      "mention": "Séance présentée par Jean A. Gili"
     },
     {
       "idSeance": 133731,
@@ -4591,7 +4735,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Jean A. Gili"
     },
     {
       "idSeance": 133920,
@@ -4827,7 +4972,7 @@
       ]
     },
     {
-      "idSeance": 131841,
+      "idSeance": 133951,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -4837,38 +4982,34 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30723,
+      "idEvenement": 30710,
       "typeEvenement": 13,
-      "libelleEvenement": "LIAISONS COUPABLES (LES)",
-      "dateHeure": "2024-09-28T15:00:00",
+      "libelleEvenement": "FLAMME SACRÉE (LA)",
+      "dateHeure": "2024-09-28T14:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 31415,
-          "titre": "Liaisons coupables",
-          "art": "Les",
-          "titreVo": "Chapman Report",
-          "artVo": "The",
+          "idFilm": 31451,
+          "titre": "Flamme sacrée",
+          "art": "La",
+          "titreVo": "Keeper of the Flame",
           "realisateurs": "George Cukor",
-          "annee": 1961,
-          "generique": "Shelley Winters, Jane Fonda, Claire Bloom",
-          "adaptation": "D'après le roman _Les Liaisons coupables_ d'Irving Wallace.",
-          "miniTexte": "Quatre femmes, quatre façons de vivre une sexualité névrosée, libre, ou entravée. Ou comment Cukor, filmant ses magnifiques actrices, compose avec délicatesse le portrait en mosaïque de la vie sexuelle – et de la psyché – de l'Américaine moyenne, dans les années 60.",
+          "annee": 1942,
+          "generique": "Spencer Tracy, Katharine Hepburn, Richard Whorf",
+          "adaptation": "D'après le roman _La Flamme sacrée_ de I.A.R. Wylie.",
+          "miniTexte": "Un journaliste enquête sur la mort d'un héros national auprès de sa veuve, pour le moins mystérieuse. Suspense, secrets, nazis : en plein conflit mondial, Cukor fait un pas de côté avec un mélo patriotique antifasciste qui lorgne vers le film noir, et dirige avec un plaisir évident le couple Hepburn/Tracy.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 10453,
-              "duree": 123,
+              "idCopie": 27968,
+              "duree": 100,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 10454,
-              "duree": 123
             }
-          ]
+          ],
+          "idFilmBoxoffice": 40899
         }
       ]
     },
@@ -4886,7 +5027,7 @@
       "idEvenement": 30844,
       "typeEvenement": 13,
       "libelleEvenement": "FEMME DU PRÊTRE (LA)",
-      "dateHeure": "2024-09-28T17:30:00",
+      "dateHeure": "2024-09-28T17:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4930,7 +5071,7 @@
       "idEvenement": 30851,
       "typeEvenement": 13,
       "libelleEvenement": "FEMME DU DIMANCHE (LA)",
-      "dateHeure": "2024-09-28T19:45:00",
+      "dateHeure": "2024-09-28T19:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4957,6 +5098,48 @@
             }
           ],
           "idFilmBoxoffice": 32374
+        }
+      ]
+    },
+    {
+      "idSeance": 133949,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30852,
+      "typeEvenement": 13,
+      "libelleEvenement": "VERTIGES",
+      "dateHeure": "2024-09-29T14:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 56875,
+          "titre": "Vertiges",
+          "titreVo": "Per le antiche scale",
+          "realisateurs": "Mauro Bolognini",
+          "annee": 1975,
+          "generique": "Marcello Mastroianni, Françoise Fabian, Marthe Keller",
+          "adaptation": "D'après le roman _Par les escaliers anciens_ de Mario Tobino.",
+          "synopsis": "Dans la Toscane des années 1930, le professeur Bonaccorsi, psychiatre réputé, mène des recherches sur la folie dans l'asile où il travaille. Une nouvelle venue, le docteur Anna Bersani, s'oppose très vite à ses théories.",
+          "miniTexte": "Dans la Toscane des années 30, un psychiatre mégalomane mène des recherches sur la folie, alors que l'arrivée d'une assistante remet en cause ses théories. Une exploration de l'aliénation mentale, d'une beauté formelle feutrée, qui aborde les thèmes de la sexualité et de la normalité, en pleine montée du fascisme.",
+          "commentaire": "En mêlant aliénation mentale et montée du fascisme, Bolognini s'interroge sur l'origine de la folie : pourquoi devient-on fou ? Où sont les fous ? Dedans ou dehors ? Tout en explorant le thème de la sexualité, le cinéaste étudie la propagation du mal dans une société en pleine déliquescence. L'univers sordide de l'hôpital psychiatrique est filmé avec délicatesse, dans des tons douceâtres et pastels (la scène d'ouverture est une fête costumée très fellinienne). Une splendeur formelle qui n'enlève rien à la violence du sujet, ni au jeu subtil des acteurs. « Ce fut pour moi une expérience passionnante, explique Bolognini, un film que j'aime beaucoup. Au début, la folie est quelque chose qui fait fuir. Pour raconter cette histoire, j'ai voulu que le public s'en approche non pas avec la répulsion que l'on ressent quand on entre dans un asile de fous, – la folie déforme tellement les choses que le premier instinct est de fuir –, mais avec une attitude de compréhension. »",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 10120,
+              "duree": 97,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -5171,45 +5354,6 @@
               "idCopie": 14365,
               "duree": 66,
               "format": "DCP"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 133820,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30744,
-      "typeEvenement": 13,
-      "libelleEvenement": "UNE FEMME QUI S'AFFICHE",
-      "dateHeure": "2024-10-03T18:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 31408,
-          "titre": "Une femme qui s'affiche",
-          "titreVo": "It Should Happen to You",
-          "realisateurs": "George Cukor",
-          "annee": 1953,
-          "generique": "Judy Holliday, Jack Lemmon, Peter Lawford",
-          "miniTexte": "Le plaisir de voir Jack Lemmon débuter au cinéma, et Judie Hollyday désopilante dans le rôle d'une femme ordinaire, qui loue un espace publicitaire pour sortir de l'anonymat. Course à la célébrité, société de consommation et superficialité sont passées au crible d'un scénario sarcastique, singulièrement prophétique.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28213,
-              "duree": 87,
-              "format": "DCP",
-              "version": "VO",
-              "stDemande": true
             }
           ]
         }
@@ -5538,34 +5682,6 @@
       ]
     },
     {
-      "idSeance": 132028,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 624,
-          "idCategorie": 2690,
-          "titreCycle": "David Cronenberg",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 30565,
-      "typeEvenement": 14,
-      "libelleEvenement": "DIALOGUE AVEC JEAN-FRANÇOIS RAUGER",
-      "dateHeure": "2024-10-06T16:00:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "idConf": 30565,
-          "titre": "DIALOGUE AVEC JEAN-FRANÇOIS RAUGER",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 1
-        }
-      ]
-    },
-    {
       "idSeance": 132041,
       "idProg": 182,
       "idCycleCategories": [
@@ -5579,7 +5695,7 @@
       "idEvenement": 31030,
       "typeEvenement": 13,
       "libelleEvenement": "NO MAN'S LAND",
-      "dateHeure": "2024-10-06T17:00:00",
+      "dateHeure": "2024-10-06T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -5616,7 +5732,7 @@
       "idEvenement": 31042,
       "typeEvenement": 13,
       "libelleEvenement": "APICULTEUR (L')",
-      "dateHeure": "2024-10-06T19:15:00",
+      "dateHeure": "2024-10-06T19:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7246,7 +7362,7 @@
       ],
       "idEvenement": 30867,
       "typeEvenement": 13,
-      "libelleEvenement": "Y-A-T-IL UN PILOTE DANS L'AVION ?",
+      "libelleEvenement": "Y A-T-IL UN PILOTE DANS L'AVION ?",
       "dateHeure": "2024-10-25T19:00:00",
       "idSalle": "GF",
       "items": [
@@ -7439,6 +7555,34 @@
       ]
     },
     {
+      "idSeance": 133863,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 3406,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31067,
+      "typeEvenement": 14,
+      "libelleEvenement": "FILM + DIALOGUE AVEC NATACHA THIÉRY",
+      "dateHeure": "2024-10-26T16:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31067,
+          "idTypeConf": 16,
+          "titre": "Film + dialogue avec Natasha Thiéry ",
+          "duree": 60
+        }
+      ]
+    },
+    {
       "idSeance": 132585,
       "idProg": 182,
       "idCycleCategories": [
@@ -7490,7 +7634,7 @@
       "idEvenement": 21692,
       "typeEvenement": 13,
       "libelleEvenement": "CHAUSSONS ROUGES (LES)",
-      "dateHeure": "2024-10-26T17:45:00",
+      "dateHeure": "2024-10-26T18:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -7570,7 +7714,7 @@
       "idEvenement": 21688,
       "typeEvenement": 13,
       "libelleEvenement": "RENARDE (LA)",
-      "dateHeure": "2024-10-26T20:30:00",
+      "dateHeure": "2024-10-26T21:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -7994,7 +8138,7 @@
       ]
     },
     {
-      "idSeance": 132687,
+      "idSeance": 133959,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -8002,39 +8146,47 @@
           "idCategorie": 2201,
           "titreCycle": "Michael Powell",
           "titreSousCycle": "Les films"
-        },
-        {
-          "idCycle": 525,
-          "idCategorie": 3409
         }
       ],
-      "idEvenement": 21665,
+      "idEvenement": 21695,
       "typeEvenement": 13,
-      "libelleEvenement": "VOYEUR (LE)",
-      "dateHeure": "2024-10-31T19:30:00",
+      "libelleEvenement": "COLONEL BLIMP",
+      "dateHeure": "2024-10-31T19:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 35996,
-          "titre": "Voyeur",
-          "art": "Le",
-          "titreVo": "Peeping Tom",
-          "realisateurs": "Michael Powell",
-          "annee": 1959,
-          "generique": "Karlheinz Böhm, Anna Massey, Maxine Audley, Moira Shearer",
-          "synopsis": "Un photographe tue ses modèles avec un stylet installé dans son trépied. Il filme la scène, cherchant ainsi à capturer le visage de la peur.",
+          "idFilm": 42024,
+          "titre": "Colonel Blimp",
+          "titreVo": "Life and Death of Colonel Blimp",
+          "artVo": "The",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1942,
+          "generique": "Anton Walbrook, Deborah Kerr, Roger Livesey, Roland Culver",
+          "synopsis": "A la suite d'un duel, Candy et Théo, respectivement anglais et allemand, se lient d'amitié l'un pour l'autre.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 20208,
-              "duree": 101,
+              "idCopie": 20203,
+              "duree": 163,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 3199,
+              "duree": 163,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 20215,
+              "duree": 163,
+              "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 1070
+          "idFilmBoxoffice": 4082
         }
       ]
     },
@@ -8462,7 +8614,7 @@
       ]
     },
     {
-      "idSeance": 132786,
+      "idSeance": 133956,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -8541,7 +8693,7 @@
       ]
     },
     {
-      "idSeance": 133896,
+      "idSeance": 133957,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -8619,7 +8771,7 @@
       ]
     },
     {
-      "idSeance": 133899,
+      "idSeance": 133958,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -8629,31 +8781,24 @@
           "titreSousCycle": "Godzilla Day"
         }
       ],
-      "idEvenement": 31066,
+      "idEvenement": 31064,
       "typeEvenement": 13,
-      "libelleEvenement": "LES MONSTRES DES PLANÈTES SECRÈTES = LA PLANÈTE DES MONSTRES",
+      "libelleEvenement": "GODZILLA CONTRE MECANIK MONSTER",
       "dateHeure": "2024-11-03T18:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 74370,
-          "titre": "Monstres des planètes secrètes = La Planète des monstres",
-          "art": "Les",
-          "titreVo": "Kaiju shima no kessen : Gojira no musuko",
+          "idFilm": 120329,
+          "titre": "Godzilla contre Mecanik Monster",
+          "titreVo": "Gojira tai Mekagojira",
           "realisateurs": "Jun Fukuda",
-          "annee": 1967,
+          "annee": 1974,
           "status": 0,
           "copies": [
             {
-              "idCopie": 28269,
+              "idCopie": 28268,
               "duree": 83,
-              "format": "35 mm",
-              "version": "VF"
-            },
-            {
-              "idCopie": 28272,
-              "duree": 85,
               "format": "35 mm",
               "version": "VF"
             }
@@ -9606,7 +9751,7 @@
               "idCopie": 28256,
               "duree": 122,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VF"
             }
           ]
         }
@@ -11420,7 +11565,7 @@
       "idEvenement": 30883,
       "typeEvenement": 13,
       "libelleEvenement": "EDITH ET MARCEL",
-      "dateHeure": "2024-11-20T17:00:00",
+      "dateHeure": "2024-11-20T17:15:00",
       "idSalle": "GF",
       "items": [
         {
