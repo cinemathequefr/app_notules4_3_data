@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-29T15:25:29.926Z",
+  "updatedAt": "2024-05-29T15:38:45.462Z",
   "data": [
     {
       "idSeance": 130975,
@@ -7820,6 +7820,61 @@
       ]
     },
     {
+      "idSeance": 134017,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31131,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-21T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66677,
+          "titre": "Castagne sono buone",
+          "art": "Le",
+          "realisateurs": "Pietro Germi",
+          "annee": 1970,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 134018,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31128,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-21T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41936,
+          "titre": "Alfredo Alfredo",
+          "realisateurs": "Pietro Germi",
+          "annee": 1972,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 133918,
       "idProg": 182,
       "idCycleCategories": [
@@ -10499,13 +10554,6 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 7476,
-              "duree": 122,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 7477,
               "duree": 122,
               "format": "DCP",
@@ -10585,24 +10633,11 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 2401,
-              "duree": 122,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 16452,
               "duree": 122,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 28256,
-              "duree": 122,
-              "format": "35 mm",
-              "version": "VF"
             }
           ],
           "idFilmBoxoffice": 41777
@@ -12049,13 +12084,6 @@
           "synopsis": "Thomas Crown, amateur d'art, riche mécène, vole un tableau de Monet dans un grand musée new-yorkais. Catherine Banning, chasseuse de primes pour la compagnie assurant le tableau, le suspecte immédiatement.",
           "status": 0,
           "copies": [
-            {
-              "idCopie": 4965,
-              "duree": 105,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
             {
               "idCopie": 4974,
               "duree": 105,
