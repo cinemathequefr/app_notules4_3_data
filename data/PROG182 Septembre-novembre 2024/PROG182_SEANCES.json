@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-29T10:19:03.024Z",
+  "updatedAt": "2024-05-29T13:21:11.081Z",
   "data": [
     {
       "idSeance": 130975,
@@ -2148,162 +2148,7 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 133772,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 786,
-          "idCategorie": 3371,
-          "titreCycle": "Marcello Mastroianni",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30847,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-12T18:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 45957,
-          "titre": "Rapt à l'italienne",
-          "titreVo": "Mordi e fuggi",
-          "realisateurs": "Dino Risi",
-          "annee": 1972,
-          "generique": "Marcello Mastroianni, Nicoletta Machiavelli, Oliver Reed",
-          "synopsis": "Un industriel et sa maîtresse sont pris en otage par une bande de terroristes en fuite.",
-          "miniTexte": "Dans l'Italie des années 70, un industriel et sa maîtresse sont pris en otage par des terroristes en fuite. Derrière le récit tragi-comique, Risi évoque la descente aux enfers d'un type médiocre, au centre d'une charge irrévérencieuse, qui s'en prend autant aux flics et aux médias qu'aux anarchistes et aux bourgeois.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 2875,
-              "duree": 101,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 52429
-        }
-      ]
-    },
-    {
-      "idSeance": 133703,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 786,
-          "idCategorie": 3371,
-          "titreCycle": "Marcello Mastroianni",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30835,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-12T20:15:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 43797,
-          "titre": "Pigeon",
-          "art": "Le",
-          "titreVo": "Soliti ignoti",
-          "artVo": "I",
-          "realisateurs": "Mario Monicelli",
-          "annee": 1958,
-          "generique": "Marcello Mastroianni, Vittorio Gassman, Totò, Claudia Cardinale",
-          "synopsis": "En prison, Cosimo révèle à Peppe les détails du gros coup infaillible qu'il se réserve pour sa sortie. Mais Peppe est libéré le premier et organise le casse avec les complices de Cosimo.",
-          "miniTexte": "Une bande de branquignols se met en tête d'organiser le cambriolage du Mont de Piété, forcément foireux. Au-delà de la cocasserie, le film reflète le climat d'amertume et d'échec qui sera la marque de la comédie italienne et son refus du miracle économique. Les interprètes s'y donnent de savoureuses répliques et campent des personnages aussi drôles que pittoresques.",
-          "commentaire": "Enthousiasmés par le film de Jules Dassin, _Du rififi chez les hommes_, Monicelli et ses scénaristes. Cecchi D'Amico, Age et Scarpelli. imaginent une version italienne. Une bande de branquignols se mettent en tête d'organiser le casse du siècle, évidemment foireux. Au-delà de la cocasserie, le film reflète ce climat d'amertume et d'échec qui seront la marque de la comédie italienne. Ses interprètes s'y donnent de savoureuses répliques et campent des personnages aussi drôles que pittoresques. Artisans d'un fiasco flamboyant, ces clowns pitoyables contribuent à la magie de cette œuvre charnière, inspirant autant Louis Malle pour _Crackers_ que Bob Fosse à Broadway pour _Big Deal_.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 12276,
-              "duree": 110,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 2619
-        }
-      ],
-      "mention": "Séance présentée par Jean A. Gili"
-    },
-    {
-      "idSeance": 133770,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30702,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-12T21:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 31473,
-          "titre": "Car sauvage est le vent",
-          "titreVo": "Wild Is the Wind",
-          "realisateurs": "George Cukor",
-          "annee": 1957,
-          "generique": "Anna Magnani, Anthony Quinn, Anthony Franciosa",
-          "miniTexte": "Sauvage est le vent, comme l'ardente diva italienne : la Magnani fait une incursion outre-Atlantique avec ce mélo rural – un immigré italien, installé dans le Nevada, épouse sa belle-sœur pour oublier son veuvage. Un Cukor méconnu, « drame de remariage », qui vaudra à la comédienne un Ours d'argent à Berlin et une nomination aux Oscars aux côtés d'Anthony Quinn.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28001,
-              "duree": 100,
-              "format": "16 mm",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 37490
-        }
-      ]
-    },
-    {
-      "idSeance": 133762,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30939,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-12T21:15:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 106408,
-          "titre": "A l'ombre des grands chênes (Abel Gance)",
-          "realisateurs": "Georges Mourier",
-          "annee": 2005,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28143,
-              "duree": 52
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 133826,
+      "idSeance": 133979,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -2315,7 +2160,7 @@
       ],
       "idEvenement": 30056,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-13T18:00:00",
+      "dateHeure": "2024-09-12T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2336,11 +2181,10 @@
             }
           ]
         }
-      ],
-      "mention": "Accompagnement musical par Fixi et Nicolas Giraud"
+      ]
     },
     {
-      "idSeance": 133944,
+      "idSeance": 133976,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -2356,7 +2200,7 @@
       ],
       "idEvenement": 30841,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-13T19:00:00",
+      "dateHeure": "2024-09-12T19:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2385,7 +2229,7 @@
       ]
     },
     {
-      "idSeance": 133672,
+      "idSeance": 133980,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -2397,7 +2241,7 @@
       ],
       "idEvenement": 30055,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-13T20:00:00",
+      "dateHeure": "2024-09-12T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2418,8 +2262,161 @@
             }
           ]
         }
+      ]
+    },
+    {
+      "idSeance": 133977,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
       ],
-      "mention": "Accompagnement musical par Benjamin Moussay"
+      "idEvenement": 30847,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-13T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45957,
+          "titre": "Rapt à l'italienne",
+          "titreVo": "Mordi e fuggi",
+          "realisateurs": "Dino Risi",
+          "annee": 1972,
+          "generique": "Marcello Mastroianni, Nicoletta Machiavelli, Oliver Reed",
+          "synopsis": "Un industriel et sa maîtresse sont pris en otage par une bande de terroristes en fuite.",
+          "miniTexte": "Dans l'Italie des années 70, un industriel et sa maîtresse sont pris en otage par des terroristes en fuite. Derrière le récit tragi-comique, Risi évoque la descente aux enfers d'un type médiocre, au centre d'une charge irrévérencieuse, qui s'en prend autant aux flics et aux médias qu'aux anarchistes et aux bourgeois.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 2875,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 52429
+        }
+      ]
+    },
+    {
+      "idSeance": 133978,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30835,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-13T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43797,
+          "titre": "Pigeon",
+          "art": "Le",
+          "titreVo": "Soliti ignoti",
+          "artVo": "I",
+          "realisateurs": "Mario Monicelli",
+          "annee": 1958,
+          "generique": "Marcello Mastroianni, Vittorio Gassman, Totò, Claudia Cardinale",
+          "synopsis": "En prison, Cosimo révèle à Peppe les détails du gros coup infaillible qu'il se réserve pour sa sortie. Mais Peppe est libéré le premier et organise le casse avec les complices de Cosimo.",
+          "miniTexte": "Une bande de branquignols se met en tête d'organiser le cambriolage du Mont de Piété, forcément foireux. Au-delà de la cocasserie, le film reflète le climat d'amertume et d'échec qui sera la marque de la comédie italienne et son refus du miracle économique. Les interprètes s'y donnent de savoureuses répliques et campent des personnages aussi drôles que pittoresques.",
+          "commentaire": "Enthousiasmés par le film de Jules Dassin, _Du rififi chez les hommes_, Monicelli et ses scénaristes. Cecchi D'Amico, Age et Scarpelli. imaginent une version italienne. Une bande de branquignols se mettent en tête d'organiser le casse du siècle, évidemment foireux. Au-delà de la cocasserie, le film reflète ce climat d'amertume et d'échec qui seront la marque de la comédie italienne. Ses interprètes s'y donnent de savoureuses répliques et campent des personnages aussi drôles que pittoresques. Artisans d'un fiasco flamboyant, ces clowns pitoyables contribuent à la magie de cette œuvre charnière, inspirant autant Louis Malle pour _Crackers_ que Bob Fosse à Broadway pour _Big Deal_.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 12276,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 2619
+        }
+      ]
+    },
+    {
+      "idSeance": 133770,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30702,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-13T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31473,
+          "titre": "Car sauvage est le vent",
+          "titreVo": "Wild Is the Wind",
+          "realisateurs": "George Cukor",
+          "annee": 1957,
+          "generique": "Anna Magnani, Anthony Quinn, Anthony Franciosa",
+          "miniTexte": "Sauvage est le vent, comme l'ardente diva italienne : la Magnani fait une incursion outre-Atlantique avec ce mélo rural – un immigré italien, installé dans le Nevada, épouse sa belle-sœur pour oublier son veuvage. Un Cukor méconnu, « drame de remariage », qui vaudra à la comédienne un Ours d'argent à Berlin et une nomination aux Oscars aux côtés d'Anthony Quinn.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28001,
+              "duree": 100,
+              "format": "16 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 37490
+        }
+      ]
+    },
+    {
+      "idSeance": 131429,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30939,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-13T21:15:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 106408,
+          "titre": "A l'ombre des grands chênes (Abel Gance)",
+          "realisateurs": "Georges Mourier",
+          "annee": 2005,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28143,
+              "duree": 52
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 133670,
