@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-29T14:48:21.897Z",
+  "updatedAt": "2024-05-29T15:25:29.926Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1375,7 +1375,8 @@
               "idCopie": 28239,
               "duree": 96
             }
-          ]
+          ],
+          "idFilmBoxoffice": 110259
         }
       ],
       "mention": "Ouverture de la rétrospective. Séance présentée par Pascal Cervo, Dominique Reymond, Mireille Roussel et Ricardo Muñoz"
@@ -1582,7 +1583,8 @@
               "duree": 86,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 9451
         }
       ],
       "mention": "Séance présentée par Robert Guédiguian et Ricardo Muñoz"
@@ -1758,7 +1760,8 @@
               "duree": 5,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 60534
         },
         {
           "ordre": 2,
@@ -1772,7 +1775,8 @@
               "idCopie": 28227,
               "duree": 30
             }
-          ]
+          ],
+          "idFilmBoxoffice": 10177
         },
         {
           "ordre": 3,
@@ -1820,7 +1824,8 @@
               "duree": 9,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 109954
         }
       ],
       "mention": "Séance présentée par Philippe Grivel et Frank Beauvais"
@@ -1844,7 +1849,7 @@
         {
           "ordre": 1,
           "idFilm": 114854,
-          "titre": "Dernière séance",
+          "titre": "Dernière Séance",
           "realisateurs": "Laurent Achard",
           "annee": 2010,
           "status": 0,
@@ -1854,7 +1859,8 @@
               "duree": 91,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 190793
         }
       ]
     },
@@ -1956,7 +1962,8 @@
           "annee": 2022,
           "synopsis": "À Caen, Laurent Achard suit Patricia Mazuy et son équipe dans les préparatifs de son film _Bowling Saturne_.",
           "status": 2,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 309673
         }
       ],
       "mention": "Séance présentée par Patricia Mazuy"
@@ -2138,7 +2145,8 @@
               "duree": 30,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 225688
         },
         {
           "ordre": 2,
@@ -2153,7 +2161,8 @@
               "duree": 52,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 270508
         }
       ]
     },
@@ -2627,7 +2636,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 7111
         }
       ]
     },
@@ -4176,7 +4186,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 4928
         }
       ]
     },
@@ -4376,7 +4387,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 3235
         }
       ]
     },
@@ -4603,7 +4615,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 4892
         }
       ],
       "mention": "Ouverture de la rétrospective"
@@ -4682,7 +4695,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 2820
         }
       ],
       "mention": "Séance présentée par Jean A. Gili"
@@ -4719,7 +4733,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 2612
         }
       ]
     },
@@ -4758,7 +4773,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1
         }
       ]
     },
@@ -4833,7 +4849,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 4747
         }
       ]
     },
@@ -4874,7 +4891,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 2646
         }
       ]
     },
@@ -5064,7 +5082,8 @@
               "format": "Vidéo",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 36915
         }
       ]
     },
@@ -5092,7 +5111,8 @@
           "annee": 1975,
           "adaptation": "D'après le roman _Stay Hungry_ de Charles Gaines.",
           "status": 0,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 34473
         }
       ]
     },
@@ -5219,7 +5239,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 57872
         }
       ]
     },
@@ -5242,12 +5263,14 @@
         {
           "ordre": 1,
           "idFilm": 88428,
-          "titre": "House on Turk Street = No Good Deed",
-          "art": "The",
+          "titre": "Sans motif apparent",
+          "titreVo": "House on Turk Street = No Good Deed",
+          "artVo": "The",
           "realisateurs": "Bob Rafelson",
           "annee": 2002,
           "status": 0,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 44418
         }
       ]
     },
@@ -5293,7 +5316,8 @@
           "realisateurs": "Bob Rafelson",
           "annee": 1992,
           "status": 0,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 5170
         }
       ]
     },
@@ -5368,7 +5392,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmBoxoffice": 12954
         }
       ]
     },
@@ -5520,7 +5545,8 @@
               "duree": 66,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 36415
         }
       ]
     },
@@ -5557,7 +5583,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 597
         }
       ]
     },
@@ -5600,7 +5627,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 5581
         }
       ]
     },
@@ -6119,7 +6147,8 @@
               "format": "DCP",
               "intertitres": "INT. FR."
             }
-          ]
+          ],
+          "idFilmBoxoffice": 2256
         }
       ]
     },
@@ -6394,7 +6423,8 @@
               "format": "DCP",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 2590
         }
       ]
     },
@@ -6573,6 +6603,36 @@
       ]
     },
     {
+      "idSeance": 133936,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31132,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-10T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42038,
+          "titre": "Ces messieurs dames",
+          "titreVo": "Signore e signori",
+          "realisateurs": "Pietro Germi",
+          "annee": 1965,
+          "status": 0,
+          "copies": []
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
       "idSeance": 132131,
       "idProg": 182,
       "idCycleCategories": [
@@ -6637,6 +6697,71 @@
           "status": 2,
           "copies": [],
           "idFilmBoxoffice": 13818
+        }
+      ]
+    },
+    {
+      "idSeance": 134000,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31140,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-11T17:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54730,
+          "titre": "Meurtre à l'italienne",
+          "titreVo": "Un maledetto imbroglio",
+          "realisateurs": "Pietro Germi",
+          "annee": 1959,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 134001,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31141,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-11T17:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42121,
+          "titre": "Séduite et abandonnée",
+          "titreVo": "Sedotta e abbandonata",
+          "realisateurs": "Pietro Germi",
+          "annee": 1963,
+          "generique": "Stefania Sandrelli, Saro Urzì, Aldo Puglisi",
+          "synopsis": "Dans un village de Sicile, le jeune Peppino, fiancé à l'une des filles de l'influent Vincenzo Ascalone, séduit une de ses sœurs, Agnese, qui tombe enceinte. Le père fait tout ce qu'il peut pour éviter le déshonneur de sa famille.\n\n---\n\nDans un village de Sicile, le jeune Peppino, fiancé à l'une des filles de l'influent Vincenzo Ascalone, séduit une de ses sœurs, Agnese, qui tombe enceinte. Le père fait son possible pour éviter le déshonneur de sa famille.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 13947,
+              "duree": 125,
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -6802,6 +6927,36 @@
       ]
     },
     {
+      "idSeance": 134002,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31144,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-12T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 64403,
+          "titre": "Témoin",
+          "art": "Le",
+          "titreVo": "Testimone",
+          "artVo": "Il",
+          "realisateurs": "Pietro Germi",
+          "annee": 1948,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 133974,
       "idProg": 182,
       "idCycleCategories": [
@@ -6878,6 +7033,34 @@
       ]
     },
     {
+      "idSeance": 134003,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31138,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-12T17:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41970,
+          "titre": "Jeunesse perdue",
+          "titreVo": "Gioventù perduta",
+          "realisateurs": "Pietro Germi",
+          "annee": 1947,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 133806,
       "idProg": 182,
       "idCycleCategories": [
@@ -6907,6 +7090,46 @@
           "status": 2,
           "copies": [],
           "idFilmBoxoffice": 140647
+        }
+      ]
+    },
+    {
+      "idSeance": 134004,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31129,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-12T19:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41967,
+          "titre": "Au nom de la loi",
+          "titreVo": "In nome della legge",
+          "realisateurs": "Pietro Germi",
+          "annee": 1949,
+          "dureeStd": 99,
+          "generique": "Massimo Girotti, Jone Salinas, Charles Vanel, Camillo Mastrocinque",
+          "adaptation": "D'après le roman _Piccola pretura_ de Giuseppe Guido Lo Schiavo.",
+          "synopsis": "Un juge d'instruction nouvellement arrivé en Sicile se heurte à la mafia. Avant de quitter l'île, il décide d'élucider un crime qu'il refuse de laisser impuni.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 24119,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STA"
+            }
+          ]
         }
       ]
     },
@@ -6996,7 +7219,68 @@
               "format": "DCP",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 2590
+        }
+      ]
+    },
+    {
+      "idSeance": 134005,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31133,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-13T17:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41957,
+          "titre": "Chemin de l'espérance",
+          "art": "Le",
+          "titreVo": "Cammino della speranza",
+          "artVo": "Il",
+          "realisateurs": "Pietro Germi",
+          "annee": 1950,
+          "adaptation": "D'après le roman _Cuori negli abissi_ de Nino Di Maria.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 134006,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31145,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-13T17:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41762,
+          "titre": "Traqué dans la ville",
+          "titreVo": "Città si difende",
+          "artVo": "La",
+          "realisateurs": "Pietro Germi",
+          "annee": 1951,
+          "status": 0,
+          "copies": []
         }
       ]
     },
@@ -7042,6 +7326,81 @@
       ]
     },
     {
+      "idSeance": 133999,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373,
+          "titreCycle": "Darejan Omirbaev",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31147,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-13T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 154897,
+          "titre": "SHILDE",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28290,
+              "duree": 28,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "idFilm": 154896,
+          "titre": "SONGY SEANS",
+          "ordre": 2,
+          "copies": [
+            {
+              "idCopie": 28289,
+              "duree": 30,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132240,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31143,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-14T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41953,
+          "titre": "Tanière des brigands",
+          "art": "La",
+          "titreVo": "Brigante di Tacca del lupo",
+          "artVo": "Il",
+          "realisateurs": "Pietro Germi",
+          "annee": 1952,
+          "adaptation": "D'après la nouvelle _Il Brigante di Tacca del Lupo_ de Riccardo Bacchelli.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 132242,
       "idProg": 182,
       "idCycleCategories": [
@@ -7054,7 +7413,7 @@
       ],
       "idEvenement": 30785,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-14T21:00:00",
+      "dateHeure": "2024-10-14T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7114,7 +7473,37 @@
               "format": "DCP",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 110254
+        }
+      ]
+    },
+    {
+      "idSeance": 134007,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31139,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-17T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 53225,
+          "titre": "Mademoiselle la présidente",
+          "titreVo": "presidentessa",
+          "artVo": "La",
+          "realisateurs": "Pietro Germi",
+          "annee": 1954,
+          "status": 0,
+          "copies": []
         }
       ]
     },
@@ -7200,6 +7589,141 @@
       ]
     },
     {
+      "idSeance": 134009,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31134,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-18T21:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41966,
+          "titre": "Disque rouge",
+          "art": "Le",
+          "titreVo": "Ferroviere",
+          "artVo": "Il",
+          "realisateurs": "Pietro Germi",
+          "annee": 1955,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 134010,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31137,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-19T17:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42128,
+          "titre": "Homme de paille",
+          "art": "L'",
+          "titreVo": "Uomo di paglia",
+          "artVo": "L'",
+          "realisateurs": "Pietro Germi",
+          "annee": 1958,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 134011,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31135,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-19T17:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41959,
+          "titre": "Divorce à l'italienne",
+          "titreVo": "Divorzio all'italiana",
+          "realisateurs": "Pietro Germi",
+          "annee": 1961,
+          "generique": "Marcello Mastroianni, Daniela Rocca, Stefania Sandrelli",
+          "synopsis": "Un baron sicilien tombe amoureux de sa jeune cousine et cherche à se débarrasser de sa femme.",
+          "miniTexte": "Un noble sicilien manigance un crime d'honneur pour se débarrasser de son épouse. Loin de ses rôles de séducteur romantique, Mastroianni incarne un homme aussi cynique que ridicule, dans une satire grinçante de la société conservatrice des années 60.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28161,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 97129
+        }
+      ]
+    },
+    {
+      "idSeance": 134012,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31130,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-19T17:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42115,
+          "titre": "Beaucoup trop pour un seul homme",
+          "titreVo": "Immorale",
+          "artVo": "L'",
+          "realisateurs": "Pietro Germi",
+          "annee": 1966,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 13934,
+              "duree": 90,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 132417,
       "idProg": 182,
       "idCycleCategories": [
@@ -7235,7 +7759,63 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 335
+        }
+      ]
+    },
+    {
+      "idSeance": 134015,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31136,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-20T17:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66675,
+          "titre": "Gelosia",
+          "realisateurs": "Pietro Germi",
+          "annee": 1953,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 134016,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31142,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-20T17:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 53446,
+          "titre": "Serafino ou l'amour aux champs",
+          "titreVo": "Serafino",
+          "realisateurs": "Pietro Germi",
+          "annee": 1968,
+          "status": 0,
+          "copies": []
         }
       ]
     },
@@ -7274,7 +7854,8 @@
               "format": "35 mm",
               "intertitres": "INT. FR."
             }
-          ]
+          ],
+          "idFilmBoxoffice": 2426
         }
       ]
     },
@@ -8083,7 +8664,8 @@
               "format": "DCP",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 127194
         }
       ]
     },
@@ -8386,7 +8968,8 @@
               "format": "35 mm",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 59465
         }
       ],
       "mention": "Ouverture de la rétrospective"
@@ -8424,7 +9007,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 176611
         }
       ]
     },
@@ -8513,7 +9097,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 140365
         }
       ]
     },
@@ -8659,7 +9244,8 @@
               "duree": 106,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 273530
         }
       ]
     },
@@ -8694,7 +9280,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 59673
         }
       ]
     },
@@ -8811,7 +9398,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 8607
         }
       ]
     },
@@ -8951,7 +9539,7 @@
         {
           "ordre": 1,
           "idFilm": 49035,
-          "titre": "Roi et l'oiseau",
+          "titre": "Roi et l'Oiseau",
           "art": "Le",
           "realisateurs": "Paul Grimault",
           "annee": 1980,
@@ -8965,7 +9553,8 @@
               "duree": 87,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 29696
         }
       ]
     },
@@ -9111,7 +9700,8 @@
               "duree": 89,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 83912
         }
       ]
     },
@@ -9183,7 +9773,8 @@
               "duree": 130,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 4188
         }
       ]
     },
@@ -9217,7 +9808,8 @@
               "idCopie": 28157,
               "duree": 130
             }
-          ]
+          ],
+          "idFilmBoxoffice": 87886
         }
       ]
     },
@@ -9256,7 +9848,8 @@
               "format": "DCP",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 29057
         }
       ]
     },
@@ -9289,7 +9882,8 @@
               "duree": 90,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 6197
         }
       ]
     },
@@ -9360,7 +9954,7 @@
             {
               "idCopie": 6958,
               "duree": 110,
-              "format": "Numérique"
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 3682
@@ -10131,7 +10725,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1073
         }
       ]
     },
@@ -10163,14 +10758,9 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 8653,
+              "idCopie": 8700,
               "duree": 117,
-              "format": "35 mm"
-            },
-            {
-              "idCopie": 8654,
-              "duree": 117,
-              "format": "35 mm"
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 7655
@@ -11626,7 +12216,7 @@
         {
           "ordre": 1,
           "idFilm": 49805,
-          "titre": "Bon et les méchants",
+          "titre": "Bon et les Méchants",
           "art": "Le",
           "realisateurs": "Claude Lelouch",
           "annee": 1975,
@@ -11982,7 +12572,7 @@
         {
           "ordre": 1,
           "idFilm": 57973,
-          "titre": "Bonne année",
+          "titre": "Bonne Année",
           "art": "La",
           "realisateurs": "Claude Lelouch",
           "annee": 1973,
@@ -12092,7 +12682,7 @@
         {
           "ordre": 1,
           "idFilm": 49808,
-          "titre": "Uns et les autres",
+          "titre": "Uns et les Autres",
           "art": "Les",
           "realisateurs": "Claude Lelouch",
           "annee": 1980,
@@ -12482,9 +13072,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 21290,
+              "idCopie": 21289,
               "duree": 104,
-              "format": "DCP"
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 19295
@@ -12695,7 +13287,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 2582
         }
       ]
     },
