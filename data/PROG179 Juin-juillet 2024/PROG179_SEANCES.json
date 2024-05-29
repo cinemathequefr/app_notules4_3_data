@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-29T09:53:48.220Z",
+  "updatedAt": "2024-05-29T14:25:26.480Z",
   "data": [
     {
       "idSeance": 128873,
@@ -1065,7 +1065,8 @@
               "sousTitres": "STA",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmBoxoffice": 318509
         }
       ],
       "mention": "Avant-première. Séance présentée par Yervant Gianikian"
@@ -1604,7 +1605,8 @@
               "duree": 21,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 17518
         },
         {
           "ordre": 3,
@@ -1622,7 +1624,8 @@
               "duree": 13,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 36522
         },
         {
           "ordre": 4,
@@ -5936,9 +5939,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 27959,
+              "idCopie": 27954,
               "duree": 123,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -7314,7 +7317,7 @@
       ]
     },
     {
-      "idSeance": 130894,
+      "idSeance": 130895,
       "idProg": 179,
       "idCycleCategories": [
         {
@@ -7330,27 +7333,27 @@
           "titreSousCycle": "Rencontres et conférences"
         }
       ],
-      "idEvenement": 30515,
+      "idEvenement": 30526,
       "dateHeure": "2024-07-06T14:30:00",
       "idSalle": "GF",
       "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154794,
-          "titre": "Justicier de Shanghaï",
-          "art": "Le",
-          "titreVo": "Ma Yong Zhen",
-          "titreNx": "馬永貞",
+          "idFilm": 154778,
+          "titre": "Vengeance des infirmes",
+          "art": "La",
+          "titreVo": "Can que",
+          "titreNx": "殘缺",
           "realisateurs": "Chang Cheh",
-          "annee": 1972,
-          "generique": "Chen Kuan-tai, Cheng Hong-yip, David Chiang",
-          "miniTexte": "L'ascension d'un jeune homme intègre au sein de la mafia, filmée avec une fureur opératique qui évoque, dans ses meilleurs moments, les westerns crépusculaires de la fin des années 60. Le final, épique, monumental, a des accents de _Scarface_ (version De Palma) avant l'heure. Pour l'histoire, deux cinéastes de renom font ici leurs débuts en tant qu'assistants réalisateurs : Godfrey Ho et John Woo.",
+          "annee": 1978,
+          "generique": "Chen Kuan-tai, Lo Mang, Chiang Sheng",
+          "miniTexte": "Quelques mois après les _Cinq Venins mortels_, Chang Cheh retrouve le Venom Mob, cette troupe d'acteurs chorégraphes constituée à l'école de l'opéra de Pékin qui redonna un sérieux coup de fouet à son cinéma à la fin des années 70. Et, avec eux, signe un _kung-fu pian_ délirant de brutalité, dont la première scène donne le ton (la mutilation d'une mère et de son jeune fils).",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27747,
-              "duree": 134,
+              "idCopie": 27755,
+              "duree": 104,
               "format": "DCP",
               "version": "VO",
               "stDemande": true
@@ -7359,10 +7362,10 @@
         },
         {
           "ordre": 2,
-          "idConf": 30574,
+          "idConf": 30573,
           "idTypeConf": 16,
-          "titre": "Dialogue avec Christophe Gans",
-          "texte": "De tous les films réalisés par Chang Cheh, _Le Justicier de Shanghaï_ (sorti sous le titre _La Brute, le Bonze et le Méchant_) était le plus avidement recherché. En 1976, il passait fort peu dans les salles : son interdiction aux moins de 18 ans en avait fait une rareté. De fait, ce film d'une réelle profondeur thématique est resté le plus apocalyptique de la filmo pourtant dévastatrice du cinéaste. Considéré à juste titre comme l'équivalent chinois de _La Horde sauvage_, il organise le plus grand massacre à mains nues jamais chorégraphié à la Shaw pour atteindre à une sauvagerie épique qui peut paraître, si l'on ne connait pas les obsessions de son auteur, étrangement sensuelle. Pas étonnant que John Woo ait été premier assistant sur ce monument écarlate... — Christophe Gans",
+          "titre": "Dialogue avec Stéphane du Mesnildot",
+          "texte": "Comme dans _La Rage du tigre_, la mutilation du héros chez Chang Cheh mène à sa reconstruction surhumaine et la rencontre décisive avec son frère de sang. _La Vengeance des infirmes_ pousse ce principe jusqu'au délire puisque les culs-de-jatte, manchots, sourds-muets ou idiots, s'associent pour former un corps invincible. Beau comme la rencontre dans les studios de la Shaw Brothers entre Tod Browning et le film de sabre. — Stéphane du Mesnildot",
           "duree": 60
         }
       ]
@@ -7739,7 +7742,7 @@
       "mention": "Séance présentée par Adirley Queirós"
     },
     {
-      "idSeance": 130895,
+      "idSeance": 130894,
       "idProg": 179,
       "idCycleCategories": [
         {
@@ -7755,27 +7758,27 @@
           "titreSousCycle": "Rencontres et conférences"
         }
       ],
-      "idEvenement": 30526,
+      "idEvenement": 30515,
       "dateHeure": "2024-07-07T17:00:00",
       "idSalle": "GF",
       "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154778,
-          "titre": "Vengeance des infirmes",
-          "art": "La",
-          "titreVo": "Can que",
-          "titreNx": "殘缺",
+          "idFilm": 154794,
+          "titre": "Justicier de Shanghaï",
+          "art": "Le",
+          "titreVo": "Ma Yong Zhen",
+          "titreNx": "馬永貞",
           "realisateurs": "Chang Cheh",
-          "annee": 1978,
-          "generique": "Chen Kuan-tai, Lo Mang, Chiang Sheng",
-          "miniTexte": "Quelques mois après les _Cinq Venins mortels_, Chang Cheh retrouve le Venom Mob, cette troupe d'acteurs chorégraphes constituée à l'école de l'opéra de Pékin qui redonna un sérieux coup de fouet à son cinéma à la fin des années 70. Et, avec eux, signe un _kung-fu pian_ délirant de brutalité, dont la première scène donne le ton (la mutilation d'une mère et de son jeune fils).",
+          "annee": 1972,
+          "generique": "Chen Kuan-tai, Cheng Hong-yip, David Chiang",
+          "miniTexte": "L'ascension d'un jeune homme intègre au sein de la mafia, filmée avec une fureur opératique qui évoque, dans ses meilleurs moments, les westerns crépusculaires de la fin des années 60. Le final, épique, monumental, a des accents de _Scarface_ (version De Palma) avant l'heure. Pour l'histoire, deux cinéastes de renom font ici leurs débuts en tant qu'assistants réalisateurs : Godfrey Ho et John Woo.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27755,
-              "duree": 104,
+              "idCopie": 27747,
+              "duree": 134,
               "format": "DCP",
               "version": "VO",
               "stDemande": true
@@ -7784,10 +7787,10 @@
         },
         {
           "ordre": 2,
-          "idConf": 30573,
+          "idConf": 30574,
           "idTypeConf": 16,
-          "titre": "Dialogue avec Stéphane du Mesnildot",
-          "texte": "Comme dans _La Rage du tigre_, la mutilation du héros chez Chang Cheh mène à sa reconstruction surhumaine et la rencontre décisive avec son frère de sang. _La Vengeance des infirmes_ pousse ce principe jusqu'au délire puisque les culs-de-jatte, manchots, sourds-muets ou idiots, s'associent pour former un corps invincible. Beau comme la rencontre dans les studios de la Shaw Brothers entre Tod Browning et le film de sabre. — Stéphane du Mesnildot",
+          "titre": "Dialogue avec Christophe Gans",
+          "texte": "De tous les films réalisés par Chang Cheh, _Le Justicier de Shanghaï_ (sorti sous le titre _La Brute, le Bonze et le Méchant_) était le plus avidement recherché. En 1976, il passait fort peu dans les salles : son interdiction aux moins de 18 ans en avait fait une rareté. De fait, ce film d'une réelle profondeur thématique est resté le plus apocalyptique de la filmo pourtant dévastatrice du cinéaste. Considéré à juste titre comme l'équivalent chinois de _La Horde sauvage_, il organise le plus grand massacre à mains nues jamais chorégraphié à la Shaw pour atteindre à une sauvagerie épique qui peut paraître, si l'on ne connait pas les obsessions de son auteur, étrangement sensuelle. Pas étonnant que John Woo ait été premier assistant sur ce monument écarlate... — Christophe Gans",
           "duree": 60
         }
       ]
@@ -7842,7 +7845,7 @@
       ],
       "idEvenement": 30523,
       "typeEvenement": 13,
-      "dateHeure": "2024-07-07T20:30:00",
+      "dateHeure": "2024-07-07T20:45:00",
       "idSalle": "GF",
       "items": [
         {

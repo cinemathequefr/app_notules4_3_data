@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-29T13:21:11.081Z",
+  "updatedAt": "2024-05-29T14:48:21.897Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1284,33 +1284,48 @@
       ]
     },
     {
-      "idSeance": 131243,
+      "idSeance": 133981,
       "idProg": 182,
       "idCycleCategories": [
         {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
+          "idCycle": 143,
+          "idCategorie": 3410,
+          "titreCycle": "Fenêtre sur les collections",
+          "titreSousCycle": "Martine Lancelot"
         }
       ],
-      "idEvenement": 30080,
+      "idEvenement": 31106,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-06T19:00:00",
+      "dateHeure": "2024-09-06T18:30:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 31916,
-          "titre": "Marie Tudor",
-          "realisateurs": "Abel Gance",
-          "annee": 1966,
-          "status": 1,
+          "idFilm": 154893,
+          "titre": "Portrait de Chantal Akerman",
+          "realisateurs": "Martine Lancelot",
+          "annee": 1983,
+          "status": 0,
           "copies": [
             {
-              "idCopie": 28144,
-              "duree": 207,
-              "format": "Numérique"
+              "idCopie": 28275,
+              "duree": 0,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 154892,
+          "titre": "News from Chantal Akerman",
+          "realisateurs": "Martine Lancelot",
+          "annee": 2020,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28274,
+              "duree": 44,
+              "format": "DCP"
             }
           ]
         }
@@ -1399,6 +1414,40 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133982,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 3410,
+          "titreCycle": "Fenêtre sur les collections",
+          "titreSousCycle": "Martine Lancelot"
+        }
+      ],
+      "idEvenement": 31108,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-06T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49649,
+          "titre": "S'il vous plaît, la mer ?",
+          "realisateurs": "Martine Lancelot",
+          "annee": 1978,
+          "generique": "Micheline Presle, François Marié, Mad Rimbaud",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28276,
+              "duree": 0,
+              "format": "DCP"
             }
           ]
         }
@@ -2014,7 +2063,8 @@
           "realisateurs": "Douglas Buck",
           "annee": 2011,
           "status": 1,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 196549
         },
         {
           "ordre": 2,
@@ -2024,7 +2074,8 @@
           "realisateurs": "Douglas Buck",
           "annee": 2004,
           "status": 0,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 120802
         }
       ]
     },
@@ -2051,7 +2102,8 @@
           "realisateurs": "Douglas Buck",
           "annee": 2006,
           "status": 1,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 51590
         }
       ]
     },
@@ -2261,6 +2313,31 @@
               "format": "DCP"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133987,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 525,
+          "idCategorie": 3114
+        }
+      ],
+      "idEvenement": 31102,
+      "typeEvenement": 14,
+      "dateHeure": "2024-09-12T21:15:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31102,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Frederic Bonnaud",
+          "duree": 60
         }
       ]
     },
@@ -4435,7 +4512,7 @@
         {
           "ordre": 1,
           "idFilm": 138499,
-          "titre": "Belle et la belle",
+          "titre": "Belle et la Belle",
           "art": "La",
           "realisateurs": "Sophie Fillières",
           "annee": 2017,
@@ -4490,6 +4567,46 @@
           "idFilmBoxoffice": 23747
         }
       ]
+    },
+    {
+      "idSeance": 133925,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 802,
+          "idCategorie": 3413,
+          "titreCycle": "Bob Rafelson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31117,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-25T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35848,
+          "titre": "Cinq pièces faciles",
+          "titreVo": "Five Easy Pieces",
+          "realisateurs": "Bob Rafelson",
+          "annee": 1970,
+          "generique": "Jack Nicholson, Karen Black, Billy Green Bush",
+          "synopsis": "Robert Dupea, musicien ayant renoncé à sa carrière pour devenir ouvrier, retourne voir son père mourant à la demande de sa sœur.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 2829,
+              "duree": 98,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
     },
     {
       "idSeance": 133948,
@@ -4569,6 +4686,81 @@
         }
       ],
       "mention": "Séance présentée par Jean A. Gili"
+    },
+    {
+      "idSeance": 133986,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 802,
+          "idCategorie": 3413,
+          "titreCycle": "Bob Rafelson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31114,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-26T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35983,
+          "titre": "King of Marvin Gardens",
+          "art": "The",
+          "realisateurs": "Bob Rafelson",
+          "annee": 1971,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28285,
+              "duree": 103,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133989,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 802,
+          "idCategorie": 3413,
+          "titreCycle": "Bob Rafelson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31121,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-26T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35988,
+          "titre": "Facteur sonne toujours deux fois",
+          "art": "Le",
+          "titreVo": "Postman Always Rings Twice",
+          "artVo": "The",
+          "realisateurs": "Bob Rafelson",
+          "annee": 1980,
+          "adaptation": "D'après le roman _Le Facteur sonne toujours deux fois_ de James M. Cain.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28284,
+              "duree": 122,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 133920,
@@ -4715,7 +4907,8 @@
               "duree": 125,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 61420
         }
       ]
     },
@@ -4793,7 +4986,8 @@
               "duree": 95,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 124701
         }
       ]
     },
@@ -4839,6 +5033,70 @@
       ]
     },
     {
+      "idSeance": 133990,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 802,
+          "idCategorie": 3413,
+          "titreCycle": "Bob Rafelson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31122,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-28T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80455,
+          "titre": "Head",
+          "realisateurs": "Bob Rafelson",
+          "annee": 1968,
+          "generique": "Davy Jones, Mike Nesmith, Peter Tork, Micky Dolenz",
+          "synopsis": "Viré au pays du LSD en compagnie du groupe The Monkees.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 13785,
+              "duree": 86,
+              "format": "Vidéo",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133991,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 802,
+          "idCategorie": 3413,
+          "titreCycle": "Bob Rafelson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31125,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-28T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35706,
+          "titre": "Stay Hungry",
+          "realisateurs": "Bob Rafelson",
+          "annee": 1975,
+          "adaptation": "D'après le roman _Stay Hungry_ de Charles Gaines.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 131842,
       "idProg": 182,
       "idCycleCategories": [
@@ -4852,7 +5110,7 @@
       "idEvenement": 30844,
       "typeEvenement": 13,
       "dateHeure": "2024-09-28T17:00:00",
-      "idSalle": "GF",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -4895,7 +5153,7 @@
       "idEvenement": 30851,
       "typeEvenement": 13,
       "dateHeure": "2024-09-28T19:15:00",
-      "idSalle": "GF",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -4966,6 +5224,34 @@
       ]
     },
     {
+      "idSeance": 131858,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 802,
+          "idCategorie": 3413,
+          "titreCycle": "Bob Rafelson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31118,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-29T14:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 88428,
+          "titre": "House on Turk Street = No Good Deed",
+          "art": "The",
+          "realisateurs": "Bob Rafelson",
+          "annee": 2002,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 131859,
       "idProg": 182,
       "idCycleCategories": [
@@ -4985,6 +5271,33 @@
       "items": []
     },
     {
+      "idSeance": 133996,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 802,
+          "idCategorie": 3413,
+          "titreCycle": "Bob Rafelson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31126,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-29T16:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44452,
+          "titre": "Man Trouble",
+          "realisateurs": "Bob Rafelson",
+          "annee": 1992,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 131860,
       "idProg": 182,
       "idCycleCategories": [
@@ -4997,8 +5310,8 @@
       ],
       "idEvenement": 30734,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-29T17:00:00",
-      "idSalle": "GF",
+      "dateHeure": "2024-09-29T17:30:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -5025,6 +5338,41 @@
       ]
     },
     {
+      "idSeance": 133997,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 802,
+          "idCategorie": 3413,
+          "titreCycle": "Bob Rafelson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31116,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-29T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 60970,
+          "titre": "Blood and Wine",
+          "realisateurs": "Bob Rafelson",
+          "annee": 1996,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28287,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 131861,
       "idProg": 182,
       "idCycleCategories": [
@@ -5037,8 +5385,8 @@
       ],
       "idEvenement": 30846,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-29T19:30:00",
-      "idSalle": "GF",
+      "dateHeure": "2024-09-29T20:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -5177,6 +5525,86 @@
       ]
     },
     {
+      "idSeance": 133994,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 802,
+          "idCategorie": 3413,
+          "titreCycle": "Bob Rafelson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31124,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-02T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35873,
+          "titre": "Veuve noire",
+          "art": "La",
+          "titreVo": "Black Widow",
+          "realisateurs": "Bob Rafelson",
+          "annee": 1986,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28286,
+              "duree": 102,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133995,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 802,
+          "idCategorie": 3413,
+          "titreCycle": "Bob Rafelson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31115,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-02T20:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35268,
+          "titre": "Aux sources du Nil",
+          "titreVo": "Mountains of the Moon",
+          "realisateurs": "Bob Rafelson",
+          "annee": 1989,
+          "generique": "Omar Sharif",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28282,
+              "duree": 136,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28283,
+              "duree": 136,
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 131943,
       "idProg": 182,
       "idCycleCategories": [
@@ -5294,6 +5722,63 @@
       ]
     },
     {
+      "idSeance": 131987,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 3411,
+          "titreCycle": "Fenêtre sur les collections",
+          "titreSousCycle": "Centenaire de la disparition de Louis Delluc"
+        }
+      ],
+      "idEvenement": 31109,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-04T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48275,
+          "titre": "Fête espagnole",
+          "art": "La",
+          "realisateurs": "Germaine Dulac",
+          "annee": 1919,
+          "generique": "Ève Francis, Jean Toulout, Gaston Modot, Robert Delsol, Anna Gay",
+          "synopsis": "Une ancienne danseuse, aimée de deux hommes, les incite à se battre, promettant de se donner au vainqueur. Pendant ce temps, elle se laisse emporter par le tourbillon de la danse et séduire par un plus jeune prétendant.",
+          "commentaire": "« De cette collaboration Dulac-Delluc naissait un film sans précédent, un film qu'on ne peut lire. Il faut l'avoir vu pour comprendre ce qu'il doit à cette collaboration et à l'art musical du montage de Germaine Dulac. (...) C'est cela, cette façon d'isoler et d'encercler les personnages, avec une corrida, avec un paysage, des couples de danseurs tantôt en contrepoint et tantôt, au contraire, en renforcement des héros, qui fait monter l'émotion. » (Henri Langlois)",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28278,
+              "duree": 23,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 48023,
+          "titre": "Chemin d'Ernoa",
+          "art": "Le",
+          "realisateurs": "Louis Delluc",
+          "annee": 1920,
+          "generique": "Ève Francis, Princesse Doudjam, Gaston Jacquet",
+          "synopsis": "Dans le campagnes du Pays basque, un riche paysan aime une belle Américaine. Le mari de celle-ci se cherche un alibi.\n\n---\n\nEtchégor, un riche paysan basque est épris de la belle américaine Majesty Parnell. L'époux de celle-ci, sur le point d'être arrêté pour vol, cherche à se forger un alibi.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 12700,
+              "duree": 50,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133961,
       "idProg": 182,
       "idCycleCategories": [
@@ -5331,6 +5816,43 @@
             }
           ],
           "idFilmBoxoffice": 4314
+        }
+      ]
+    },
+    {
+      "idSeance": 133983,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 3411,
+          "titreCycle": "Fenêtre sur les collections",
+          "titreSousCycle": "Centenaire de la disparition de Louis Delluc"
+        }
+      ],
+      "idEvenement": 31111,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-04T21:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48030,
+          "titre": "Inondation",
+          "art": "L'",
+          "realisateurs": "Louis Delluc",
+          "annee": 1923,
+          "generique": "Ève Francis, Van Daële, Ginette Maddie",
+          "synopsis": "Un fermier riche, fiancé a une jeune fille, en aime une autre.\n\n---\n\nDans un village en bord du Rhône, Alban, jeune fermier, s'apprête à épouser la coquette et frivole Margot. Monsieur Broc, employé de mairie solitaire, retrouve sa fille adorée Germaine, devenue une charmante jeune femme. Germaine s'est éprise d'Alban.\n\n---\n\nAlban, jeune fermier, va épouser Margot. Germaine, la fille de l'employé de mairie, s'est éprise de lui. Lorsqu'il l'éconduit, elle s'effondre.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 12699,
+              "duree": 77,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
         }
       ]
     },
@@ -5535,7 +6057,7 @@
       ],
       "idEvenement": 30704,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-05T21:00:00",
+      "dateHeure": "2024-10-05T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -6651,6 +7173,33 @@
       ]
     },
     {
+      "idSeance": 133998,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3416,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31127,
+      "typeEvenement": 14,
+      "dateHeure": "2024-10-18T19:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "GF",
+      "duree": 90,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31127,
+          "idTypeConf": 55,
+          "titre": "Qui êtes-vous... Pietro Germi ?",
+          "duree": 90
+        }
+      ]
+    },
+    {
       "idSeance": 132417,
       "idProg": 182,
       "idCycleCategories": [
@@ -7007,7 +7556,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmBoxoffice": 951
         }
       ],
       "mention": "Ouverture de la rétrospective"
@@ -7139,7 +7689,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 36184
         }
       ]
     },
@@ -7216,7 +7767,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmBoxoffice": 4528
         }
       ]
     },
@@ -7303,7 +7855,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmBoxoffice": 7173
         }
       ]
     },
@@ -7329,7 +7882,7 @@
           "ordre": 1,
           "idConf": 31067,
           "idTypeConf": 16,
-          "titre": "Film + dialogue avec Natasha Thiéry ",
+          "titre": "Dialogue avec Natacha Thiéry ",
           "duree": 60
         }
       ]
@@ -7367,7 +7920,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmBoxoffice": 36189
         }
       ]
     },
@@ -7445,7 +7999,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 13264
         }
       ]
     },
@@ -7570,7 +8125,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 104948
         }
       ]
     },
@@ -8031,7 +8587,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 5862
         }
       ]
     },
@@ -8290,7 +8847,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 37897
         }
       ]
     },
@@ -8369,7 +8927,8 @@
               "format": "35 mm",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 8063
         }
       ]
     },
@@ -8448,7 +9007,8 @@
               "format": "35 mm",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 17693
         }
       ]
     },
@@ -8517,7 +9077,8 @@
               "format": "35 mm",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 184179
         }
       ]
     },
@@ -8586,7 +9147,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 60845
         }
       ]
     },
@@ -8800,7 +9362,8 @@
               "duree": 110,
               "format": "Numérique"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 3682
         }
       ],
       "mention": "Ouverture de la rétrospective"
@@ -8913,7 +9476,8 @@
               "format": "DCP",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 491
         }
       ]
     },
@@ -8969,7 +9533,7 @@
         {
           "ordre": 1,
           "idFilm": 34042,
-          "titre": "Ultime razzia",
+          "titre": "Ultime Razzia",
           "art": "L'",
           "titreVo": "Killing",
           "artVo": "The",
@@ -8987,7 +9551,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 2599
         }
       ]
     },
@@ -9072,13 +9637,12 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 2404,
+              "idCopie": 28288,
               "duree": 96,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
+              "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 12288
         }
       ]
     },
@@ -9151,7 +9715,8 @@
               "duree": 150,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 2358
         }
       ]
     },
@@ -9353,7 +9918,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1824
         }
       ]
     },
@@ -9444,7 +10010,8 @@
               "format": "35 mm",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 41777
         }
       ]
     },
@@ -9605,7 +10172,8 @@
               "duree": 117,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 7655
         }
       ]
     },
@@ -9679,7 +10247,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 26857
         }
       ]
     },
@@ -9833,7 +10402,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 70321
         }
       ]
     },
@@ -10208,7 +10778,8 @@
               "duree": 91,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 16922
         }
       ]
     },
@@ -10282,7 +10853,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 15308
         }
       ]
     },
@@ -10901,7 +11473,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 20498
         }
       ]
     },
@@ -11029,7 +11602,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 7524
         }
       ]
     },
@@ -11228,7 +11802,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22151
         }
       ]
     },
@@ -11311,7 +11886,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 14046
         }
       ]
     },
@@ -11570,7 +12146,7 @@
       ],
       "idEvenement": 31024,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-22T15:00:00",
+      "dateHeure": "2024-11-22T14:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -11591,7 +12167,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 60285
         }
       ]
     },
@@ -11608,7 +12185,7 @@
       ],
       "idEvenement": 30888,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-22T18:00:00",
+      "dateHeure": "2024-11-22T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -11626,6 +12203,39 @@
             }
           ],
           "idFilmBoxoffice": 111716
+        }
+      ]
+    },
+    {
+      "idSeance": 133289,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 3415,
+          "titreCycle": "Fenêtre sur les collections",
+          "titreSousCycle": "L'abominable hommage"
+        }
+      ],
+      "idEvenement": 31112,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-22T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154894,
+          "titre": "Autrement, la Molussie",
+          "realisateurs": "Nicolas Rey",
+          "annee": 2012,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28280,
+              "duree": 81,
+              "format": "16 mm"
+            }
+          ]
         }
       ]
     },
@@ -11682,7 +12292,7 @@
       ],
       "idEvenement": 30887,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-22T20:30:00",
+      "dateHeure": "2024-11-22T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -11703,6 +12313,34 @@
       ]
     },
     {
+      "idSeance": 133984,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 3415,
+          "titreCycle": "Fenêtre sur les collections",
+          "titreSousCycle": "L'abominable hommage"
+        }
+      ],
+      "idEvenement": 31113,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-22T20:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154895,
+          "titre": "Conductos",
+          "art": "Los",
+          "realisateurs": "Camilo Restrepo",
+          "annee": 2020,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 133286,
       "idProg": 182,
       "idCycleCategories": [
@@ -11715,7 +12353,7 @@
       ],
       "idEvenement": 31015,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-22T21:00:00",
+      "dateHeure": "2024-11-22T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -11736,7 +12374,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1621
         }
       ]
     },
@@ -11804,20 +12443,14 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28219,
-              "duree": 122,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 28258,
               "duree": 122,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 6991
         }
       ]
     },
@@ -11853,7 +12486,8 @@
               "duree": 104,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 19295
         }
       ]
     },
@@ -11925,7 +12559,8 @@
               "format": "DCP",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 20304
         }
       ]
     },
@@ -12207,7 +12842,8 @@
               "format": "DCP",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1529
         }
       ]
     },
@@ -12246,7 +12882,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 48249
         }
       ]
     }
