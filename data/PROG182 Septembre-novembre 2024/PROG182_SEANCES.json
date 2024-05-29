@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-29T07:26:03.296Z",
+  "updatedAt": "2024-05-29T10:19:03.024Z",
   "data": [
     {
       "idSeance": 130975,
@@ -2188,33 +2188,6 @@
       ]
     },
     {
-      "idSeance": 133783,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3399,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 31027,
-      "typeEvenement": 14,
-      "dateHeure": "2024-09-12T19:00:00",
-      "typeConference": "Conférence",
-      "idSalle": "GF",
-      "duree": 90,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 31027,
-          "idTypeConf": 55,
-          "titre": "Conférence de Georges Mourier",
-          "duree": 90
-        }
-      ]
-    },
-    {
       "idSeance": 133703,
       "idProg": 182,
       "idCycleCategories": [
@@ -2447,31 +2420,6 @@
         }
       ],
       "mention": "Accompagnement musical par Benjamin Moussay"
-    },
-    {
-      "idSeance": 133955,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 525,
-          "idCategorie": 3114
-        }
-      ],
-      "idEvenement": 31102,
-      "typeEvenement": 14,
-      "dateHeure": "2024-09-13T21:45:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 31102,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Frederic Bonnaud",
-          "duree": 60
-        }
-      ]
     },
     {
       "idSeance": 133670,
@@ -6251,7 +6199,7 @@
       ]
     },
     {
-      "idSeance": 133806,
+      "idSeance": 133807,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -6261,25 +6209,34 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30779,
+      "idEvenement": 30784,
       "typeEvenement": 13,
       "dateHeure": "2024-10-12T14:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 106346,
-          "titre": "Chouga",
-          "titreVo": "Shuga",
-          "titreNx": "Шуға",
+          "idFilm": 116510,
+          "titre": "Étudiant",
+          "art": "L'",
+          "titreVo": "Student",
+          "titreNx": "Студент",
           "realisateurs": "Darejan Omirbaev",
-          "annee": 2007,
-          "generique": "Aidos Sagatov, Alnur Turgambayeva",
-          "adaptation": "D'après le roman _Anna Karénine_ de Léon Tolstoï.",
-          "miniTexte": "Attirée par un nouveau riche, une bourgeoise bien rangée délaisse mari et enfant. Dans une transposition contemporaine et épurée d'_Anna Karenine_, Omirbaev décrit les brèches du Kazakhstan, de l'ancienne à la nouvelle capitale. Entre les murs d'une société en mutation, l'amour se révèle illusoire et la passion sans issue.",
+          "annee": 2012,
+          "generique": "Nurlan Bajtasov, Edige Bolysbaev, Darejan Omirbaev",
+          "adaptation": "D'après le roman _Crime et Châtiment_ de Fiodor Mikhaïlovitch Dostoïevski.",
+          "miniTexte": "À travers la crise existentielle d'un étudiant qui dérape et commet un crime, Omirbaev dresse le tableau d'un pays postsoviétique rongé par le libéralisme sauvage. Adaptation moderne de _Crime et Châtiment_ de Dostoïevski, un pamphlet politique autant qu'une fable poétique, d'influence bressonienne.",
           "status": 2,
-          "copies": [],
-          "idFilmBoxoffice": 140647
+          "copies": [
+            {
+              "idCopie": 28140,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 206434
         }
       ]
     },
@@ -6322,6 +6279,33 @@
             }
           ],
           "idFilmBoxoffice": 54153
+        }
+      ]
+    },
+    {
+      "idSeance": 133974,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3390,
+          "titreCycle": "Darejan Omirbaev",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 30969,
+      "typeEvenement": 14,
+      "dateHeure": "2024-10-12T16:00:00",
+      "typeConference": "Leçon de cinéma",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 30969,
+          "idTypeConf": 15,
+          "titre": "Darejan Omirbaev par Darejan Omirbaev, une leçon de cinéma",
+          "duree": 60
         }
       ]
     },
@@ -6375,7 +6359,7 @@
       ]
     },
     {
-      "idSeance": 133807,
+      "idSeance": 133806,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -6385,34 +6369,25 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30784,
+      "idEvenement": 30779,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-12T18:45:00",
+      "dateHeure": "2024-10-12T18:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 116510,
-          "titre": "Étudiant",
-          "art": "L'",
-          "titreVo": "Student",
-          "titreNx": "Студент",
+          "idFilm": 106346,
+          "titre": "Chouga",
+          "titreVo": "Shuga",
+          "titreNx": "Шуға",
           "realisateurs": "Darejan Omirbaev",
-          "annee": 2012,
-          "generique": "Nurlan Bajtasov, Edige Bolysbaev, Darejan Omirbaev",
-          "adaptation": "D'après le roman _Crime et Châtiment_ de Fiodor Mikhaïlovitch Dostoïevski.",
-          "miniTexte": "À travers la crise existentielle d'un étudiant qui dérape et commet un crime, Omirbaev dresse le tableau d'un pays postsoviétique rongé par le libéralisme sauvage. Adaptation moderne de _Crime et Châtiment_ de Dostoïevski, un pamphlet politique autant qu'une fable poétique, d'influence bressonienne.",
+          "annee": 2007,
+          "generique": "Aidos Sagatov, Alnur Turgambayeva",
+          "adaptation": "D'après le roman _Anna Karénine_ de Léon Tolstoï.",
+          "miniTexte": "Attirée par un nouveau riche, une bourgeoise bien rangée délaisse mari et enfant. Dans une transposition contemporaine et épurée d'_Anna Karenine_, Omirbaev décrit les brèches du Kazakhstan, de l'ancienne à la nouvelle capitale. Entre les murs d'une société en mutation, l'amour se révèle illusoire et la passion sans issue.",
           "status": 2,
-          "copies": [
-            {
-              "idCopie": 28140,
-              "duree": 90,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 206434
+          "copies": [],
+          "idFilmBoxoffice": 140647
         }
       ]
     },
@@ -6429,7 +6404,7 @@
       ],
       "idEvenement": 30783,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-12T21:00:00",
+      "dateHeure": "2024-10-12T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6548,81 +6523,6 @@
       ]
     },
     {
-      "idSeance": 133809,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 788,
-          "idCategorie": 3373,
-          "titreCycle": "Darejan Omirbaev",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30779,
-      "typeEvenement": 13,
-      "dateHeure": "2024-10-13T19:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 106346,
-          "titre": "Chouga",
-          "titreVo": "Shuga",
-          "titreNx": "Шуға",
-          "realisateurs": "Darejan Omirbaev",
-          "annee": 2007,
-          "generique": "Aidos Sagatov, Alnur Turgambayeva",
-          "adaptation": "D'après le roman _Anna Karénine_ de Léon Tolstoï.",
-          "miniTexte": "Attirée par un nouveau riche, une bourgeoise bien rangée délaisse mari et enfant. Dans une transposition contemporaine et épurée d'_Anna Karenine_, Omirbaev décrit les brèches du Kazakhstan, de l'ancienne à la nouvelle capitale. Entre les murs d'une société en mutation, l'amour se révèle illusoire et la passion sans issue.",
-          "status": 2,
-          "copies": [],
-          "idFilmBoxoffice": 140647
-        }
-      ]
-    },
-    {
-      "idSeance": 132241,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 788,
-          "idCategorie": 3373,
-          "titreCycle": "Darejan Omirbaev",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30784,
-      "typeEvenement": 13,
-      "dateHeure": "2024-10-14T19:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 116510,
-          "titre": "Étudiant",
-          "art": "L'",
-          "titreVo": "Student",
-          "titreNx": "Студент",
-          "realisateurs": "Darejan Omirbaev",
-          "annee": 2012,
-          "generique": "Nurlan Bajtasov, Edige Bolysbaev, Darejan Omirbaev",
-          "adaptation": "D'après le roman _Crime et Châtiment_ de Fiodor Mikhaïlovitch Dostoïevski.",
-          "miniTexte": "À travers la crise existentielle d'un étudiant qui dérape et commet un crime, Omirbaev dresse le tableau d'un pays postsoviétique rongé par le libéralisme sauvage. Adaptation moderne de _Crime et Châtiment_ de Dostoïevski, un pamphlet politique autant qu'une fable poétique, d'influence bressonienne.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28140,
-              "duree": 90,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 206434
-        }
-      ]
-    },
-    {
       "idSeance": 132242,
       "idProg": 182,
       "idCycleCategories": [
@@ -6710,7 +6610,7 @@
       ],
       "idEvenement": 31100,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-18T19:00:00",
+      "dateHeure": "2024-10-17T19:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -6739,7 +6639,7 @@
       ],
       "idEvenement": 31101,
       "typeEvenement": 14,
-      "dateHeure": "2024-10-18T21:15:00",
+      "dateHeure": "2024-10-17T21:15:00",
       "typeConference": "Dialogue",
       "idSalle": "HL",
       "duree": 60,
