@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-30T10:52:32.368Z",
+  "updatedAt": "2024-05-30T13:47:22.364Z",
   "data": [
     {
       "idSeance": 130975,
@@ -428,7 +428,7 @@
       ]
     },
     {
-      "idSeance": 133761,
+      "idSeance": 134054,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -438,32 +438,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30729,
+      "idEvenement": 30710,
       "typeEvenement": 13,
       "dateHeure": "2024-08-31T15:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 80559,
-          "titre": "Agence Cupidon",
-          "titreVo": "Model and the Marriage Broker",
-          "artVo": "The",
+          "idFilm": 31451,
+          "titre": "Flamme sacrée",
+          "art": "La",
+          "titreVo": "Keeper of the Flame",
           "realisateurs": "George Cukor",
-          "annee": 1951,
-          "generique": "Jeanne Crain, Scott Brady, Thelma Ritter",
-          "miniTexte": "La vie d'une agence matrimoniale originale, vue à travers les déboires d'une mannequin (Jeanne Crain), malheureuse en amour. Thelma Ritter, en marieuse généreuse et déterminée, quitte enfin l'ombre de ses éternels seconds rôles, et livre une performance réjouissante.",
+          "annee": 1942,
+          "generique": "Spencer Tracy, Katharine Hepburn, Richard Whorf",
+          "adaptation": "D'après le roman _La Flamme sacrée_ de I.A.R. Wylie.",
+          "miniTexte": "Un journaliste enquête sur la mort d'un héros national auprès de sa veuve, pour le moins mystérieuse. Suspense, secrets, nazis : en plein conflit mondial, Cukor fait un pas de côté avec un mélo patriotique antifasciste qui lorgne vers le film noir, et dirige avec un plaisir évident le couple Hepburn/Tracy.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27982,
-              "duree": 103,
+              "idCopie": 27968,
+              "duree": 100,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 118896
+          "idFilmBoxoffice": 40899
         }
       ]
     },
@@ -480,7 +481,7 @@
       ],
       "idEvenement": 30672,
       "typeEvenement": 13,
-      "dateHeure": "2024-08-31T17:45:00",
+      "dateHeure": "2024-08-31T17:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -542,6 +543,42 @@
       ]
     },
     {
+      "idSeance": 133652,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30085,
+      "typeEvenement": 13,
+      "dateHeure": "2024-08-31T20:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48690,
+          "titre": "Tour de Nesle",
+          "art": "La",
+          "realisateurs": "Abel Gance",
+          "annee": 1955,
+          "generique": "Silvana Pampanini, Pierre Brasseur, Claude Sylvain",
+          "synopsis": "Sous Louis X, la tour de Nesles est le théâtre des orgies de la reine Marguerite de Bourgogne et de deux de ses amies princesses qui font assassiner leurs amants au petit matin.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28127,
+              "duree": 120
+            }
+          ],
+          "idFilmBoxoffice": 26209
+        }
+      ]
+    },
+    {
       "idSeance": 131095,
       "idProg": 182,
       "idCycleCategories": [
@@ -554,7 +591,7 @@
       ],
       "idEvenement": 30709,
       "typeEvenement": 13,
-      "dateHeure": "2024-08-31T20:30:00",
+      "dateHeure": "2024-08-31T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -579,42 +616,6 @@
             }
           ],
           "idFilmBoxoffice": 4314
-        }
-      ]
-    },
-    {
-      "idSeance": 133652,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30085,
-      "typeEvenement": 13,
-      "dateHeure": "2024-08-31T21:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48690,
-          "titre": "Tour de Nesle",
-          "art": "La",
-          "realisateurs": "Abel Gance",
-          "annee": 1955,
-          "generique": "Silvana Pampanini, Pierre Brasseur, Claude Sylvain",
-          "synopsis": "Sous Louis X, la tour de Nesles est le théâtre des orgies de la reine Marguerite de Bourgogne et de deux de ses amies princesses qui font assassiner leurs amants au petit matin.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28127,
-              "duree": 120
-            }
-          ],
-          "idFilmBoxoffice": 26209
         }
       ]
     },
@@ -680,7 +681,8 @@
           "titre": "Austerlitz",
           "realisateurs": "Abel Gance",
           "annee": 1959,
-          "status": 0,
+          "generique": "Pierre Mondy, Martine Carol, Claudia Cardinale",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28136,
@@ -784,7 +786,7 @@
       ]
     },
     {
-      "idSeance": 131112,
+      "idSeance": 134050,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -794,31 +796,32 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30726,
+      "idEvenement": 30729,
       "typeEvenement": 13,
       "dateHeure": "2024-09-01T19:45:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 31387,
-          "titre": "Madame porte la culotte",
-          "titreVo": "Adam's rib",
+          "idFilm": 80559,
+          "titre": "Agence Cupidon",
+          "titreVo": "Model and the Marriage Broker",
+          "artVo": "The",
           "realisateurs": "George Cukor",
-          "annee": 1949,
-          "generique": "Spencer Tracy, Katharine Hepburn, Judy Holliday",
-          "miniTexte": "Une mise en scène au cordeau, brillantissime. Un interrogatoire en forme de plan-séquence, mémorable. Judy Hollyday en épouse bafouée, dont la tentative de meurtre sur son mari adultère se solde par un procès. Et, surtout, la complicité éclatante entre Tracy et Hepburn, entre le magistrat et l'avocate progressiste, à la verve assassine. Dans un savant jeu de miroirs, le prétoire se fait caisse de résonance : unis à la ville (belle mise en abyme du couple légendaire de Hollywood), les deux époux s'affrontent sur l'épineux sujet de l'égalité des sexes, sur le partage des rôles. Metteur en scène féministe par excellence, Cukor pose la possibilité d'une confusion des genres. C'est acide, tranchant, jouissif, et c'est peut-être là le meilleur film du trio impérial.",
+          "annee": 1951,
+          "generique": "Jeanne Crain, Scott Brady, Thelma Ritter",
+          "miniTexte": "La vie d'une agence matrimoniale originale, vue à travers les déboires d'une mannequin (Jeanne Crain), malheureuse en amour. Thelma Ritter, en marieuse généreuse et déterminée, quitte enfin l'ombre de ses éternels seconds rôles, et livre une performance réjouissante.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 8505,
-              "duree": 101,
+              "idCopie": 27982,
+              "duree": 103,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 5
+          "idFilmBoxoffice": 118896
         }
       ]
     },
@@ -1487,12 +1490,18 @@
           "idCategorie": 3367,
           "titreCycle": "George Cukor",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 785,
+          "idCategorie": 3388,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 30748,
-      "typeEvenement": 13,
       "dateHeure": "2024-09-07T14:30:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -1513,6 +1522,13 @@
             }
           ],
           "idFilmBoxoffice": 117956
+        },
+        {
+          "ordre": 2,
+          "idConf": 30964,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Alexandre Piletitch",
+          "duree": 60
         }
       ]
     },
@@ -1548,33 +1564,6 @@
             }
           ],
           "idFilmBoxoffice": 2973
-        }
-      ]
-    },
-    {
-      "idSeance": 133782,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3388,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 30964,
-      "typeEvenement": 14,
-      "dateHeure": "2024-09-07T16:30:00",
-      "typeConference": "Dialogue",
-      "idSalle": "GF",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 30964,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Alexandre Piletitch",
-          "duree": 60
         }
       ]
     },
@@ -1669,7 +1658,7 @@
           "titre": "Brisseau, 251 rue Marcadet",
           "realisateurs": "Laurent Achard",
           "annee": 2018,
-          "status": 0,
+          "status": 1,
           "copies": []
         }
       ],
@@ -1825,7 +1814,7 @@
           "titre": "De ma fenêtre",
           "realisateurs": "Laurent Achard",
           "annee": 2021,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28251,
@@ -1878,7 +1867,8 @@
           "titre": "Dernière Séance",
           "realisateurs": "Laurent Achard",
           "annee": 2010,
-          "status": 0,
+          "generique": "Pascal Cervo, Charlotte Van Kemmel, Karole Rocher",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28240,
@@ -2287,12 +2277,16 @@
           "idCategorie": 3371,
           "titreCycle": "Marcello Mastroianni",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3114
         }
       ],
       "idEvenement": 30841,
-      "typeEvenement": 13,
       "dateHeure": "2024-09-12T19:00:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -2316,6 +2310,13 @@
             }
           ],
           "idFilmBoxoffice": 337
+        },
+        {
+          "ordre": 2,
+          "idConf": 31102,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Frederic Bonnaud",
+          "duree": 60
         }
       ]
     },
@@ -2357,27 +2358,29 @@
       ]
     },
     {
-      "idSeance": 133987,
+      "idSeance": 134051,
       "idProg": 182,
       "idCycleCategories": [
         {
-          "idCycle": 525,
-          "idCategorie": 3114
+          "idCycle": 757,
+          "idCategorie": 3399,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
-      "idEvenement": 31102,
+      "idEvenement": 31027,
       "typeEvenement": 14,
-      "dateHeure": "2024-09-12T21:15:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
+      "dateHeure": "2024-09-13T15:30:00",
+      "typeConference": "Conférence",
+      "idSalle": "GF",
+      "duree": 90,
       "items": [
         {
           "ordre": 1,
-          "idConf": 31102,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Frederic Bonnaud",
-          "duree": 60
+          "idConf": 31027,
+          "idTypeConf": 55,
+          "titre": "Conférence de Georges Mourier",
+          "duree": 90
         }
       ]
     },
@@ -2536,6 +2539,58 @@
       ]
     },
     {
+      "idSeance": 134048,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 785,
+          "idCategorie": 3388,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 30726,
+      "dateHeure": "2024-09-14T14:30:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31387,
+          "titre": "Madame porte la culotte",
+          "titreVo": "Adam's rib",
+          "realisateurs": "George Cukor",
+          "annee": 1949,
+          "generique": "Spencer Tracy, Katharine Hepburn, Judy Holliday",
+          "miniTexte": "Une mise en scène au cordeau, brillantissime. Un interrogatoire en forme de plan-séquence, mémorable. Judy Hollyday en épouse bafouée, dont la tentative de meurtre sur son mari adultère se solde par un procès. Et, surtout, la complicité éclatante entre Tracy et Hepburn, entre le magistrat et l'avocate progressiste, à la verve assassine. Dans un savant jeu de miroirs, le prétoire se fait caisse de résonance : unis à la ville (belle mise en abyme du couple légendaire de Hollywood), les deux époux s'affrontent sur l'épineux sujet de l'égalité des sexes, sur le partage des rôles. Metteur en scène féministe par excellence, Cukor pose la possibilité d'une confusion des genres. C'est acide, tranchant, jouissif, et c'est peut-être là le meilleur film du trio impérial.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 8505,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 5
+        },
+        {
+          "ordre": 2,
+          "idConf": 30966,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec [intervenant ?]",
+          "duree": 60
+        }
+      ]
+    },
+    {
       "idSeance": 133670,
       "idProg": 182,
       "idCycleCategories": [
@@ -2548,7 +2603,7 @@
       ],
       "idEvenement": 30935,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-14T14:30:00",
+      "dateHeure": "2024-09-14T15:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2581,96 +2636,6 @@
               "format": "DCP"
             }
           ]
-        }
-      ]
-    },
-    {
-      "idSeance": 133693,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30731,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-14T15:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 31397,
-          "titre": "Oiseau bleu",
-          "art": "L'",
-          "titreVo": "Blue Bird",
-          "artVo": "The",
-          "realisateurs": "George Cukor",
-          "annee": 1975,
-          "generique": "Elizabeth Taylor, Ava Gardner, Jane Fonda",
-          "adaptation": "D'après la pièce _L'Oiseau bleu_ de Maurice Maeterlinck.",
-          "synopsis": "Deux enfants, Tyltyl et Mytyl, vivent dans la pauvreté. Un soir de Noël, une fée vient leur demander de l'aide pour retrouver l'Oiseau bleu. Pour cela, elle leur confie un diamant magique.",
-          "miniTexte": "Une fée demande à deux enfants de retrouver l'Oiseau bleu à l'aide d'un diamant magique. L'adaptation au charme suranné du conte de Maurice Maeterlinck, au casting trois étoiles : Liz Taylor joue quatre rôles (la fée, la lumière, la mère et l'amour maternel), Jane Fonda incarne la Nuit, et Ava Gardner, le Plaisir (what else).",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 27961,
-              "duree": 90,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 1179
-        }
-      ]
-    },
-    {
-      "idSeance": 131470,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Les films"
-        },
-        {
-          "idCycle": 798,
-          "idCategorie": 3398,
-          "titreCycle": "Ma petite Cinémathèque",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30733,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-14T17:15:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 31471,
-          "titre": "Quatre filles du docteur March",
-          "art": "Les",
-          "titreVo": "Little Women",
-          "realisateurs": "George Cukor",
-          "annee": 1933,
-          "generique": "Katharine Hepburn, Joan Bennett, Paul Lukas",
-          "adaptation": "D'après le roman _Les Quatre filles du docteur March_ de Louisa May Alcott.",
-          "miniTexte": "D'après le best-seller de la littérature américaine, la vie d'une famille sur fond de guerre de Sécession, entre esprit de sacrifice et rigueur morale. Katharine Hepburn incarne avec panache l'indépendante Jo, et Cukor s'affirme comme un grand directeur d'actrices. Un immense succès au box-office.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 25532,
-              "duree": 115,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 7111
         }
       ]
     },
@@ -2712,6 +2677,53 @@
         }
       ],
       "mention": "Accompagnement musical par (Etudiant) Zygel"
+    },
+    {
+      "idSeance": 131470,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 798,
+          "idCategorie": 3398,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30733,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-14T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31471,
+          "titre": "Quatre filles du docteur March",
+          "art": "Les",
+          "titreVo": "Little Women",
+          "realisateurs": "George Cukor",
+          "annee": 1933,
+          "generique": "Katharine Hepburn, Joan Bennett, Paul Lukas",
+          "adaptation": "D'après le roman _Les Quatre filles du docteur March_ de Louisa May Alcott.",
+          "miniTexte": "D'après le best-seller de la littérature américaine, la vie d'une famille sur fond de guerre de Sécession, entre esprit de sacrifice et rigueur morale. Katharine Hepburn incarne avec panache l'indépendante Jo, et Cukor s'affirme comme un grand directeur d'actrices. Un immense succès au box-office.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 25532,
+              "duree": 115,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 7111
+        }
+      ]
     },
     {
       "idSeance": 133825,
@@ -2763,7 +2775,7 @@
       ],
       "idEvenement": 30737,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-14T19:45:00",
+      "dateHeure": "2024-09-14T21:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2942,7 +2954,8 @@
           "titre": "Au secours !",
           "realisateurs": "Abel Gance",
           "annee": 1923,
-          "status": 0,
+          "generique": "Max Linder, Gina Palerme, Jean Toulout",
+          "status": 1,
           "copies": [
             {
               "idCopie": 20644,
@@ -3056,9 +3069,9 @@
           "titre": "Barbe-Rousse",
           "realisateurs": "Abel Gance",
           "annee": 1917,
-          "generique": "Léon Mathot, Emile Keppens, Henri Maillard",
+          "generique": "Léon Mathot, Émile Keppens, Henri Maillard",
           "synopsis": "Un journaliste commet lui-même des méfaits afin d'être le premier à les annoncer dans son journal.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28073,
@@ -3140,6 +3153,7 @@
           "titre": "Ma vie, ma gueule",
           "realisateurs": "Sophie Fillières",
           "annee": 2024,
+          "generique": "Agnès Jaoui, Angelina Woreth, Édouard Sulpice",
           "status": 1,
           "copies": [
             {
@@ -3334,7 +3348,7 @@
           "realisateurs": "Sophie Fillières",
           "annee": 1993,
           "generique": "Judith Godrèche, Hélène Fillières, Emmanuel Salinger",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28173,
@@ -3960,8 +3974,8 @@
           "titre": "Gentille",
           "realisateurs": "Sophie Fillières",
           "annee": 2004,
-          "generique": "Emmanuelle Devos, Lambert Wilson, Bruno Todeschini, Michael Lonsdale, Bulle Ogier",
-          "status": 0,
+          "generique": "Emmanuelle Devos, Lambert Wilson, Bruno Todeschini",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28171,
@@ -4101,8 +4115,8 @@
           "titre": "Aïe",
           "realisateurs": "Sophie Fillières",
           "annee": 1999,
-          "generique": "André Dussollier, Hélène Fillières, Emmanuelle Devos, Gisèle Casadesus",
-          "status": 0,
+          "generique": "André Dussollier, Hélène Fillières, Emmanuelle Devos",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28172,
@@ -4162,12 +4176,18 @@
           "idCategorie": 3367,
           "titreCycle": "George Cukor",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 785,
+          "idCategorie": 3388,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 30723,
-      "typeEvenement": 13,
       "dateHeure": "2024-09-22T14:30:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -4198,6 +4218,13 @@
             }
           ],
           "idFilmBoxoffice": 59917
+        },
+        {
+          "ordre": 2,
+          "idConf": 30965,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Murielle Joudet",
+          "duree": 60
         }
       ]
     },
@@ -4239,33 +4266,6 @@
             }
           ],
           "idFilmBoxoffice": 4928
-        }
-      ]
-    },
-    {
-      "idSeance": 133960,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3388,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 30965,
-      "typeEvenement": 14,
-      "dateHeure": "2024-09-22T17:00:00",
-      "typeConference": "Dialogue",
-      "idSalle": "GF",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 30965,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Murielle Joudet",
-          "duree": 60
         }
       ]
     },
@@ -4323,6 +4323,7 @@
           "art": "La",
           "realisateurs": "Sophie Fillières",
           "annee": 1989,
+          "generique": "Nathalie Boutefeu, Pascale Pouzadoux",
           "status": 1,
           "copies": [
             {
@@ -4339,7 +4340,7 @@
           "realisateurs": "Sophie Fillières",
           "annee": 1991,
           "dureeStd": 6,
-          "generique": "Hélène Fillières, Sandrine Kiberlain",
+          "generique": "Hélène Fillières, Sandrine Kiberlain, Amélie De Andreis",
           "status": 1,
           "copies": [
             {
@@ -4361,7 +4362,8 @@
           "titre": "Antoine et Sidonie",
           "realisateurs": "Sophie Fillières",
           "annee": 2006,
-          "status": 0,
+          "generique": "Amandine Truffy, Mayel Elhajaoui",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28182,
@@ -4376,7 +4378,8 @@
           "titre": "Nathalie Moretti ...",
           "realisateurs": "Sophie Fillières",
           "annee": 2006,
-          "status": 0,
+          "generique": "Mia Delmae, Thibault Vinçon",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28179,
@@ -4544,7 +4547,7 @@
           "annee": 2013,
           "generique": "Emmanuelle Devos, Mathieu Amalric, Anne Brochet",
           "synopsis": "Pomme et Pierre, couple de longue date, sont confrontés à une crise qui menace leur relation.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 7525,
@@ -4580,7 +4583,7 @@
           "realisateurs": "Sophie Fillières",
           "annee": 2017,
           "generique": "Sandrine Kiberlain, Agathe Bonitzer, Melvil Poupaud",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28176,
@@ -5061,7 +5064,7 @@
       ]
     },
     {
-      "idSeance": 133951,
+      "idSeance": 134053,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -5071,33 +5074,35 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30710,
+      "idEvenement": 30731,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-28T14:15:00",
+      "dateHeure": "2024-09-28T14:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 31451,
-          "titre": "Flamme sacrée",
-          "art": "La",
-          "titreVo": "Keeper of the Flame",
+          "idFilm": 31397,
+          "titre": "Oiseau bleu",
+          "art": "L'",
+          "titreVo": "Blue Bird",
+          "artVo": "The",
           "realisateurs": "George Cukor",
-          "annee": 1942,
-          "generique": "Spencer Tracy, Katharine Hepburn, Richard Whorf",
-          "adaptation": "D'après le roman _La Flamme sacrée_ de I.A.R. Wylie.",
-          "miniTexte": "Un journaliste enquête sur la mort d'un héros national auprès de sa veuve, pour le moins mystérieuse. Suspense, secrets, nazis : en plein conflit mondial, Cukor fait un pas de côté avec un mélo patriotique antifasciste qui lorgne vers le film noir, et dirige avec un plaisir évident le couple Hepburn/Tracy.",
+          "annee": 1975,
+          "generique": "Elizabeth Taylor, Ava Gardner, Jane Fonda",
+          "adaptation": "D'après la pièce _L'Oiseau bleu_ de Maurice Maeterlinck.",
+          "synopsis": "Deux enfants, Tyltyl et Mytyl, vivent dans la pauvreté. Un soir de Noël, une fée vient leur demander de l'aide pour retrouver l'Oiseau bleu. Pour cela, elle leur confie un diamant magique.",
+          "miniTexte": "Une fée demande à deux enfants de retrouver l'Oiseau bleu à l'aide d'un diamant magique. L'adaptation au charme suranné du conte de Maurice Maeterlinck, au casting trois étoiles : Liz Taylor joue quatre rôles (la fée, la lumière, la mère et l'amour maternel), Jane Fonda incarne la Nuit, et Ava Gardner, le Plaisir (what else).",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27968,
-              "duree": 100,
+              "idCopie": 27961,
+              "duree": 90,
               "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 40899
+          "idFilmBoxoffice": 1179
         }
       ]
     },
@@ -6055,6 +6060,32 @@
       ]
     },
     {
+      "idSeance": 134052,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 391,
+          "idCategorie": 3419,
+          "titreCycle": "MK2"
+        }
+      ],
+      "idEvenement": 31160,
+      "typeEvenement": 14,
+      "dateHeure": "2024-10-05T16:15:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31160,
+          "idTypeConf": 16,
+          "titre": "Marin Karmitz par Marin Karmitz, une leçon de cinéma",
+          "duree": 60
+        }
+      ]
+    },
+    {
       "idSeance": 133965,
       "idProg": 182,
       "idCycleCategories": [
@@ -6792,7 +6823,7 @@
       ]
     },
     {
-      "idSeance": 134000,
+      "idSeance": 134037,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -6827,43 +6858,6 @@
       ]
     },
     {
-      "idSeance": 134001,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 803,
-          "idCategorie": 3414,
-          "titreCycle": "Pietro Germi",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31141,
-      "typeEvenement": 13,
-      "dateHeure": "2024-10-11T20:15:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 42121,
-          "titre": "Séduite et abandonnée",
-          "titreVo": "Sedotta e abbandonata",
-          "realisateurs": "Pietro Germi",
-          "annee": 1963,
-          "generique": "Stefania Sandrelli, Saro Urzì, Aldo Puglisi",
-          "synopsis": "Dans un village de Sicile, le jeune Peppino, fiancé à l'une des filles de l'influent Vincenzo Ascalone, séduit une de ses sœurs, Agnese, qui tombe enceinte. Le père fait tout ce qu'il peut pour éviter le déshonneur de sa famille.\n\n---\n\nDans un village de Sicile, le jeune Peppino, fiancé à l'une des filles de l'influent Vincenzo Ascalone, séduit une de ses sœurs, Agnese, qui tombe enceinte. Le père fait son possible pour éviter le déshonneur de sa famille.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28297,
-              "duree": 125,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 20297
-        }
-      ]
-    },
-    {
       "idSeance": 132173,
       "idProg": 182,
       "idCycleCategories": [
@@ -6876,7 +6870,7 @@
       ],
       "idEvenement": 31028,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-11T20:45:00",
+      "dateHeure": "2024-10-11T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6906,6 +6900,43 @@
       ]
     },
     {
+      "idSeance": 134001,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31141,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-11T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42121,
+          "titre": "Séduite et abandonnée",
+          "titreVo": "Sedotta e abbandonata",
+          "realisateurs": "Pietro Germi",
+          "annee": 1963,
+          "generique": "Stefania Sandrelli, Saro Urzì, Aldo Puglisi",
+          "synopsis": "Dans un village de Sicile, le jeune Peppino, fiancé à l'une des filles de l'influent Vincenzo Ascalone, séduit une de ses sœurs, Agnese, qui tombe enceinte. Le père fait tout ce qu'il peut pour éviter le déshonneur de sa famille.\n\n---\n\nDans un village de Sicile, le jeune Peppino, fiancé à l'une des filles de l'influent Vincenzo Ascalone, séduit une de ses sœurs, Agnese, qui tombe enceinte. Le père fait son possible pour éviter le déshonneur de sa famille.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28297,
+              "duree": 125,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 20297
+        }
+      ]
+    },
+    {
       "idSeance": 133807,
       "idProg": 182,
       "idCycleCategories": [
@@ -6914,12 +6945,18 @@
           "idCategorie": 3373,
           "titreCycle": "Darejan Omirbaev",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 788,
+          "idCategorie": 3390,
+          "titreCycle": "Darejan Omirbaev",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 30784,
-      "typeEvenement": 13,
       "dateHeure": "2024-10-12T14:30:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -6944,6 +6981,13 @@
             }
           ],
           "idFilmBoxoffice": 206434
+        },
+        {
+          "ordre": 2,
+          "idConf": 30969,
+          "idTypeConf": 15,
+          "titre": "Darejan Omirbaev par Darejan Omirbaev, une leçon de cinéma",
+          "duree": 60
         }
       ]
     },
@@ -7021,33 +7065,6 @@
       ]
     },
     {
-      "idSeance": 133974,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 788,
-          "idCategorie": 3390,
-          "titreCycle": "Darejan Omirbaev",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 30969,
-      "typeEvenement": 14,
-      "dateHeure": "2024-10-12T16:00:00",
-      "typeConference": "Leçon de cinéma",
-      "idSalle": "GF",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 30969,
-          "idTypeConf": 15,
-          "titre": "Darejan Omirbaev par Darejan Omirbaev, une leçon de cinéma",
-          "duree": 60
-        }
-      ]
-    },
-    {
       "idSeance": 133803,
       "idProg": 182,
       "idCycleCategories": [
@@ -7097,7 +7114,7 @@
       ]
     },
     {
-      "idSeance": 134003,
+      "idSeance": 134038,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7294,7 +7311,7 @@
       ]
     },
     {
-      "idSeance": 134005,
+      "idSeance": 134039,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7429,7 +7446,7 @@
       ]
     },
     {
-      "idSeance": 134006,
+      "idSeance": 134040,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7611,12 +7628,16 @@
         {
           "idCycle": 525,
           "idCategorie": 3409
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3114
         }
       ],
       "idEvenement": 31100,
-      "typeEvenement": 13,
       "dateHeure": "2024-10-17T19:00:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -7630,27 +7651,9 @@
           "status": 0,
           "copies": [],
           "idFilmBoxoffice": 1101
-        }
-      ]
-    },
-    {
-      "idSeance": 133937,
-      "idProg": 182,
-      "idCycleCategories": [
+        },
         {
-          "idCycle": 525,
-          "idCategorie": 3114
-        }
-      ],
-      "idEvenement": 31101,
-      "typeEvenement": 14,
-      "dateHeure": "2024-10-17T21:15:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
+          "ordre": 2,
           "idConf": 31101,
           "idTypeConf": 16,
           "titre": "Dialogue avec Frédéric Bonnaud",
@@ -7686,7 +7689,7 @@
       ]
     },
     {
-      "idSeance": 134009,
+      "idSeance": 134041,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7976,7 +7979,15 @@
           "realisateurs": "Pietro Germi",
           "annee": 1970,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28298,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -8021,6 +8032,35 @@
       ]
     },
     {
+      "idSeance": 132467,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31132,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-23T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42038,
+          "titre": "Ces messieurs dames",
+          "titreVo": "Signore e signori",
+          "realisateurs": "Pietro Germi",
+          "annee": 1965,
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 4013
+        }
+      ]
+    },
+    {
       "idSeance": 132463,
       "idProg": 182,
       "idCycleCategories": [
@@ -8046,8 +8086,9 @@
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1947,
           "generique": "Deborah Kerr, Sabu, David Farrar",
+          "adaptation": "D'après le roman _Le Narcisse noir_ de Rumer Godden.",
           "synopsis": "Suite à l'ouverture d'un couvent sur les contreforts de l'Himalaya, cinq sœurs anglicanes rencontrent des difficultés à s'adapter à leur nouvel environnement.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 8430,
@@ -8067,6 +8108,43 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 134042,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31141,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-23T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42121,
+          "titre": "Séduite et abandonnée",
+          "titreVo": "Sedotta e abbandonata",
+          "realisateurs": "Pietro Germi",
+          "annee": 1963,
+          "generique": "Stefania Sandrelli, Saro Urzì, Aldo Puglisi",
+          "synopsis": "Dans un village de Sicile, le jeune Peppino, fiancé à l'une des filles de l'influent Vincenzo Ascalone, séduit une de ses sœurs, Agnese, qui tombe enceinte. Le père fait tout ce qu'il peut pour éviter le déshonneur de sa famille.\n\n---\n\nDans un village de Sicile, le jeune Peppino, fiancé à l'une des filles de l'influent Vincenzo Ascalone, séduit une de ses sœurs, Agnese, qui tombe enceinte. Le père fait son possible pour éviter le déshonneur de sa famille.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28297,
+              "duree": 125,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 20297
+        }
+      ]
     },
     {
       "idSeance": 133830,
@@ -8091,8 +8169,9 @@
           "art": "The",
           "realisateurs": "Michael Powell",
           "annee": 1972,
+          "generique": "Mark Dightam, Robert Eddison, Helen Weir",
           "synopsis": "John, qui vient de perdre sa petite souris, n'est pas très attentif à son cours d'électricité. Lorsqu'en rêve il devient jaune, il fait cependant la connaissance de Nick, qui va beaucoup lui apprendre.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20277,
@@ -8119,12 +8198,16 @@
         {
           "idCycle": 152,
           "idCategorie": 3408
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3111
         }
       ],
       "idEvenement": 31086,
-      "typeEvenement": 13,
       "dateHeure": "2024-10-24T19:00:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -8163,6 +8246,13 @@
             }
           ],
           "idFilmBoxoffice": 194822
+        },
+        {
+          "ordre": 3,
+          "idConf": 31088,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Nine Antico",
+          "duree": 60
         }
       ]
     },
@@ -8188,8 +8278,9 @@
           "titre": "Smith",
           "realisateurs": "Michael Powell",
           "annee": 1939,
+          "generique": "Ralph Richardson, Flora Robson, Allan Jeayes",
           "synopsis": "Docu-fiction, le film présente, à travers l'histoire de John Smith, le rôle d'un organisme d'aide aux vétérans de l'armée. (Attention : 1 source WIKI)",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 27051,
@@ -8206,8 +8297,9 @@
           "titre": "An Airman's Letter to His Mother",
           "realisateurs": "Michael Powell",
           "annee": 1941,
+          "generique": "John Gielgud",
           "synopsis": "Lecture d'une lettre qu'un pilote de la Royal Air Force a écrit à sa mère à propos de son engagement, et parue dans le _Times_ de Londres.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20291,
@@ -8225,8 +8317,9 @@
           "art": "The",
           "realisateurs": "Michael Powell",
           "annee": 1943,
+          "generique": "Pat McGrath, Michael Powell, Ralph Richardson",
           "synopsis": "Commandé par le gouvernement britannique, ce film de propagande retrace l'histoire d'un habilleur devenu héros de guerre.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20429,
@@ -8252,8 +8345,9 @@
           "art": "The",
           "realisateurs": "Michael Powell",
           "annee": 1956,
+          "adaptation": "D'après le poème _L'Apprenti sorcier_ de Goethe.",
           "synopsis": "Ballet dansé par Sonia Arova et le corps de ballet de l'Opéra d'État de Hambourg, d'après le poème de Goethe.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 27069,
@@ -8303,31 +8397,6 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
-    },
-    {
-      "idSeance": 133908,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 152,
-          "idCategorie": 3111
-        }
-      ],
-      "idEvenement": 31088,
-      "typeEvenement": 14,
-      "dateHeure": "2024-10-24T20:30:00",
-      "typeConference": "Dialogue",
-      "idSalle": "GF",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 31088,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Nine Antico",
-          "duree": 60
-        }
-      ]
     },
     {
       "idSeance": 133892,
@@ -8397,6 +8466,43 @@
             }
           ],
           "idFilmBoxoffice": 61530
+        }
+      ]
+    },
+    {
+      "idSeance": 132545,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31134,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-25T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41966,
+          "titre": "Disque rouge",
+          "art": "Le",
+          "titreVo": "Ferroviere",
+          "artVo": "Il",
+          "realisateurs": "Pietro Germi",
+          "annee": 1955,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28294,
+              "duree": 114,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 125474
         }
       ]
     },
@@ -8516,6 +8622,45 @@
       ]
     },
     {
+      "idSeance": 134043,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31129,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-25T21:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41967,
+          "titre": "Au nom de la loi",
+          "titreVo": "In nome della legge",
+          "realisateurs": "Pietro Germi",
+          "annee": 1949,
+          "dureeStd": 99,
+          "generique": "Massimo Girotti, Jone Salinas, Charles Vanel, Camillo Mastrocinque",
+          "adaptation": "D'après le roman _Piccola pretura_ de Giuseppe Guido Lo Schiavo.",
+          "synopsis": "Un juge d'instruction nouvellement arrivé en Sicile se heurte à la mafia. Avant de quitter l'île, il décide d'élucider un crime qu'il refuse de laisser impuni.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28296,
+              "duree": 101,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 16928
+        }
+      ]
+    },
+    {
       "idSeance": 132581,
       "idProg": 182,
       "idCycleCategories": [
@@ -8539,9 +8684,9 @@
           "artVo": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1942,
-          "generique": "Anton Walbrook, Deborah Kerr, Roger Livesey, Roland Culver",
+          "generique": "Anton Walbrook, Deborah Kerr, Roger Livesey",
           "synopsis": "A la suite d'un duel, Candy et Théo, respectivement anglais et allemand, se lient d'amitié l'un pour l'autre.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20203,
@@ -8631,6 +8776,42 @@
       ]
     },
     {
+      "idSeance": 134044,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31145,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-26T16:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41762,
+          "titre": "Traqué dans la ville",
+          "titreVo": "Città si difende",
+          "artVo": "La",
+          "realisateurs": "Pietro Germi",
+          "annee": 1951,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28293,
+              "duree": 79,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 174794
+        }
+      ]
+    },
+    {
       "idSeance": 132585,
       "idProg": 182,
       "idCycleCategories": [
@@ -8693,9 +8874,10 @@
           "artVo": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1947,
+          "generique": "Anton Walbrook, Moira Shearer, Marius Goring",
           "adaptation": "D'après la nouvelle _De røde sko_ de Hans Christian Andersen.",
           "synopsis": "Quand Victoria, danseuse étoile des « Chaussons rouges », tombe amoureuse du compositeur de l'opéra, le cruel directeur va tout faire pour, au nom de l'art, séparer les deux jeunes amoureux.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20216,
@@ -8748,6 +8930,44 @@
       ]
     },
     {
+      "idSeance": 134045,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31133,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-26T20:15:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41957,
+          "titre": "Chemin de l'espérance",
+          "art": "Le",
+          "titreVo": "Cammino della speranza",
+          "artVo": "Il",
+          "realisateurs": "Pietro Germi",
+          "annee": 1950,
+          "adaptation": "D'après le roman _Cuori negli abissi_ de Nino Di Maria.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28292,
+              "duree": 99,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 34090
+        }
+      ]
+    },
+    {
       "idSeance": 132583,
       "idProg": 182,
       "idCycleCategories": [
@@ -8771,9 +8991,10 @@
           "titreVo": "Gone to Earth",
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1950,
-          "adaptation": "D'après le roman _Gone to earth_ de Mary Webb.",
+          "generique": "Jennifer Jones, Esmond Knight, David Farrar",
+          "adaptation": "D'après le roman _La Renarde_ de Mary Webb.",
           "synopsis": "Au XIXe siecle, en Angleterre près du pays de Galles, Hazel Woodus vit en communion avec la nature. Elle a pour amie et confidente une renarde. Mais le châtelain, chasseur de renards, la poursuit, tandis que le pasteur du village la demande en mariage.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20278,
@@ -8899,7 +9120,7 @@
           "artVo": "The",
           "realisateurs": "Michael Powell",
           "annee": 1939,
-          "generique": "Conrad Veidt, Sebastian Shaw, Valerie Hobson, Marius Goring",
+          "generique": "Conrad Veidt, Sebastian Shaw, Valerie Hobson",
           "adaptation": "D'après le roman _The Spy in Black_ de Joseph Storer Clouston.",
           "synopsis": "Le capitaine d'un sous-marin allemand accepte le rôle déshonorant de recueillir des renseignements fournis par une espionne.",
           "status": 2,
@@ -8919,6 +9140,45 @@
             }
           ],
           "idFilmBoxoffice": 8130
+        }
+      ]
+    },
+    {
+      "idSeance": 134046,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31129,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-27T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41967,
+          "titre": "Au nom de la loi",
+          "titreVo": "In nome della legge",
+          "realisateurs": "Pietro Germi",
+          "annee": 1949,
+          "dureeStd": 99,
+          "generique": "Massimo Girotti, Jone Salinas, Charles Vanel, Camillo Mastrocinque",
+          "adaptation": "D'après le roman _Piccola pretura_ de Giuseppe Guido Lo Schiavo.",
+          "synopsis": "Un juge d'instruction nouvellement arrivé en Sicile se heurte à la mafia. Avant de quitter l'île, il décide d'élucider un crime qu'il refuse de laisser impuni.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28296,
+              "duree": 101,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 16928
         }
       ]
     },
@@ -8945,8 +9205,9 @@
           "titreVo": "A Matter of Life and Death",
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1946,
+          "generique": "David Niven, Kim Hunter, Marius Goring",
           "synopsis": "Alors que son bombardier prend feu, le commandant Peter Carter s'en sort indemne. Peu de temps après, son guide céleste vient néanmoins le trouver, lui expliquant qu'il n'est pas parvenu à le trouver dans le brouillard. Il tente alors de le convaincre de le suivre au paradis.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20223,
@@ -8957,6 +9218,37 @@
             }
           ],
           "idFilmBoxoffice": 4302
+        }
+      ]
+    },
+    {
+      "idSeance": 134047,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31144,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-27T20:45:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 64403,
+          "titre": "Témoin",
+          "art": "Le",
+          "titreVo": "Testimone",
+          "artVo": "Il",
+          "realisateurs": "Pietro Germi",
+          "annee": 1948,
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 208728
         }
       ]
     },
@@ -8982,9 +9274,10 @@
           "titre": "They're a Weird Mob",
           "realisateurs": "Michael Powell",
           "annee": 1965,
-          "adaptation": "D'après le roman _They're a weird mob_ de Nino Culotta.",
+          "generique": "Walter Chiari, Claire Dunne, Chips Rafferty",
+          "adaptation": "D'après le roman _They're a Weird Mob_ de Nino Culotta.",
           "synopsis": "Nino, journaliste italien, découvre en arrivant en Australie que son cousin, pour qui il espérait écrire, s'est enfui, laissant un journal sans argent. Il se retrouve alors à travailler sur un chantier et découvre la vie des ouvriers.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20229,
@@ -9019,8 +9312,10 @@
           "titre": "Age of Consent",
           "realisateurs": "Michael Powell",
           "annee": 1968,
+          "generique": "James Mason, Helen Mirren, Jack MacGowran",
+          "adaptation": "D'après le roman _Age of Consent_ de Norman Lindsay.",
           "synopsis": "Pour retrouver l'inspiration, un peintre décide de s'installer au large des cotes australiennes. Il y fait alors la connaissance d'un couple dont la petite fille, Cora, deviendra sa muse...",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20231,
@@ -9083,8 +9378,9 @@
           "titreVo": "Contraband",
           "realisateurs": "Michael Powell",
           "annee": 1939,
-          "synopsis": "1940\\. Bloqué dans un port britannique, Andersen, capitaine danois d'un navire de commerce, se retrouve malgré lui dans une affaire d'espionnage.",
-          "status": 0,
+          "generique": "Conrad Veidt, Valerie Hobson, Hay Petrie",
+          "synopsis": "1940. Bloqué dans un port britannique, Andersen, capitaine danois d'un navire de commerce, se retrouve malgré lui dans une affaire d'espionnage.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 20293,
@@ -9198,9 +9494,9 @@
           "artVo": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1942,
-          "generique": "Anton Walbrook, Deborah Kerr, Roger Livesey, Roland Culver",
+          "generique": "Anton Walbrook, Deborah Kerr, Roger Livesey",
           "synopsis": "A la suite d'un duel, Candy et Théo, respectivement anglais et allemand, se lient d'amitié l'un pour l'autre.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20203,
@@ -9286,8 +9582,9 @@
           "titre": "A Canterbury Tale",
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1944,
+          "generique": "Eric Portman, Sheila Sim, Dennis Price",
           "synopsis": "Rencontrés par hasard à la sortie d'un train, un sergent américain en permission, un soldat anglais et une jeune volontaire se retrouvent à enquêter sur des agressions qui ont lieu dans ce village aux abords de Canterbury...",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20234,
@@ -9470,8 +9767,9 @@
           "titreVo": "Luna de miel",
           "realisateurs": "Michael Powell",
           "annee": 1958,
+          "generique": "Anthony Steel, Ludmilla Tcherina, Antonio Ruiz Soler",
           "synopsis": "Deux jeunes mariés britanniques voyagent en Espagne. Ils y rencontrent par hasard Antonio, célèbre danseur, qui les fait voyager à travers le pays. Celui-ci se met alors en tête de faire remonter la jeune femme, ancienne danseuse, sur scène. (Attention : que 2 synopsis et pas très concordants. Voir à la bifi)",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 27073,
@@ -9508,8 +9806,9 @@
           "art": "The",
           "realisateurs": "Michael Powell",
           "annee": 1960,
+          "generique": "Daniel Massey, Robert Stephens, Raymond Massey",
           "synopsis": "Le film raconte l'histoire de John, fils d'un capitaine à la retraite devenu officier. Mais il n'est pas facile de marcher dans les pas de son frère aîné, ancien officier regretté de tous, y compris de John lui-même. (Attention : 1 seule source : WIKI ANG)",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28203,
@@ -9627,10 +9926,10 @@
           "artVo": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1950,
-          "generique": "Robert Rounseville, Moira Shearer, Robert Helpmann, Léonide Massine",
-          "adaptation": "D'après le livret français _Les Contes d'Hoffmann_ de Jules Barbier.  \nD'après l'opéra _Les Contes d'Hoffmann_ de Jacques Offenbach.  \nD'après l'adaptation de l'opéra de Jacques Offenbach _Les Contes d'Hoffmann_ de Dennis Arundell.",
+          "generique": "Robert Rounseville, Moira Shearer, Robert Helpmann",
+          "adaptation": "D'après l'opéra _Les Contes d'Hoffmann_ de Jacques Offenbach, tiré des contes d'E. T. A. Hoffmann.",
           "synopsis": "Alors qu'il attend son nouvel amour à la sortie d'un ballet, le poète Hoffmann se remémore trois expériences sentimentales malheureuses.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 5915,
@@ -10071,8 +10370,10 @@
           "titre": "His Lordship",
           "realisateurs": "Michael Powell",
           "annee": 1932,
+          "generique": "Jerry Verno, Janet McGrew, Ben Welden",
+          "adaptation": "D'après le roman _The Right Honorable_ d'Oliver Madox Hueffer.",
           "synopsis": "Un plombier hérite du jour au lendemain du titre de Lord. Il va alors faire la connaissance d'une actrice de cinéma...",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28188,
@@ -10147,8 +10448,9 @@
           "art": "The",
           "realisateurs": "Michael Powell",
           "annee": 1933,
+          "generique": "Leslie Banks, Anne Grey, Carol Goodner",
           "synopsis": "Dans le jargon des assurances britanniques, les _Fire Raisers_ désignent ceux qui escroquent les assurances en déclarant des incendies. Expert pour des compagnies d'assurances, Bronson commence lui-même à côtoyer ces truands pour rembourser ses dettes...",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20225,
@@ -10244,12 +10546,16 @@
         {
           "idCycle": 152,
           "idCategorie": 3408
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3111
         }
       ],
       "idEvenement": 31083,
-      "typeEvenement": 13,
       "dateHeure": "2024-11-07T19:00:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -10267,6 +10573,13 @@
               "stDemande": true
             }
           ]
+        },
+        {
+          "ordre": 2,
+          "idConf": 31089,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Nine Antico",
+          "duree": 60
         }
       ]
     },
@@ -10309,31 +10622,6 @@
             }
           ],
           "idFilmBoxoffice": 2599
-        }
-      ]
-    },
-    {
-      "idSeance": 133910,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 152,
-          "idCategorie": 3111
-        }
-      ],
-      "idEvenement": 31089,
-      "typeEvenement": 14,
-      "dateHeure": "2024-11-07T20:30:00",
-      "typeConference": "Dialogue",
-      "idSalle": "GF",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 31089,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Nine Antico",
-          "duree": 60
         }
       ]
     },
@@ -10424,8 +10712,9 @@
           "titre": "Something Always Happens",
           "realisateurs": "Michael Powell",
           "annee": 1934,
+          "generique": "Ian Hunter, Nancy O'Neil, John Singer",
           "synopsis": "Au chômage, Peter croise le chemin de Cynthia, riche héritière. Celle-ci lui propose de rencontrer son père ainsi que M. Hatch, patron de plusieurs sociétés liées à l'essence. Mais quand ceux-ci refusent l'offre de Peter, ce dernier va se tourner vers la concurrence.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28192,
@@ -10500,6 +10789,7 @@
           "titreVo": "Red Ensign",
           "realisateurs": "Michael Powell",
           "annee": 1934,
+          "generique": "Leslie Banks, Carol Goodner, Frank Vosper",
           "synopsis": "Dans une Angleterre où les chantiers navals subissent une forte crise, un directeur d'entreprise prend le pari de fabriquer de nouveaux bateaux, plus performants. Le film raconte son aventure industrielle en même temps qu'il fait le portrait de ces chantiers disparus.",
           "status": 1,
           "copies": [
@@ -10580,8 +10870,10 @@
           "art": "The",
           "realisateurs": "Michael Powell",
           "annee": 1934,
+          "generique": "Leslie Banks, Malcolm Keen, Jane Baxter",
+          "adaptation": "D'après la pièce _The Night of the Party_ de Roland Pertwee et John Hastings Turner.",
           "synopsis": "Après avoir invité quelques amis à dîner, le puissant Lord Studholme est retrouvé mort. L'enquête est ouverte...",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28189,
@@ -10616,8 +10908,9 @@
           "art": "The",
           "realisateurs": "Michael Powell",
           "annee": 1934,
+          "generique": "Judy Gunn, Louis Hayward, David Hutcheson",
           "synopsis": "Alors que Mary est nouvellement nommée directrice d'un laboratoire, Thompson et ses collègues, jaloux, demandent à John de la séduire, dans l'espoir de la distraire... (Attention : pas clair : Mary est déjà nommée directrice ou ses collègues ont peur qu'elle prenne le poste ?)",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20296,
@@ -10695,8 +10988,10 @@
           "art": "The",
           "realisateurs": "Michael Powell",
           "annee": 1936,
+          "generique": "Hugh Williams, Jane Baxter, Ronald Ward",
+          "adaptation": "D'après le roman _The Case of the Golden Plate_ de Jacques Futrelle.",
           "synopsis": "Nick et June prévoyaient de s'enfuir secrètement ensemble à l'occasion d'un bal masqué. Mais le couple se fait attaquer...",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28197,
@@ -10774,9 +11069,10 @@
           "art": "The",
           "realisateurs": "Michael Powell",
           "annee": 1935,
-          "adaptation": "D'après la pièce _The Haunted light_ d'Evadne Price et Joan Roy Byford.",
+          "generique": "Binnie Hale, Gordon Harker, Donald Calthrop",
+          "adaptation": "D'après la pièce _The Haunted Light_ d'Evadne Price et Joan Roy Byford.",
           "synopsis": "Sam Higgins arrive sur la côte galloise pour occuper le poste d'un gardien de phare dont on dit qu'il est hanté. Aidé par un lieutenant de marine et une jeune femme, il tente de résoudre le mystère.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20298,
@@ -10931,8 +11227,10 @@
           "titre": "Her Last Affaire",
           "realisateurs": "Michael Powell",
           "annee": 1935,
+          "generique": "Hugh Williams, Francis L. Sullivan, Viola Keats",
+          "adaptation": "D'après la pièce _S. O. S._ de Walter Ellis.",
           "synopsis": "La femme d'un politicien est retrouvée morte dans une auberge, où elle avait été vue avec Alan, le secrétaire de son mari...",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28194,
@@ -11006,8 +11304,10 @@
           "titre": "Lazybones",
           "realisateurs": "Michael Powell",
           "annee": 1935,
+          "generique": "Ian Hunter, Claire Luce, Bernard Nedell",
+          "adaptation": "D'après la pièce _Lazybones_ d'Ernest Denny.",
           "synopsis": "Jeune barronet vivant en dilettante, Reginald se voit couper les vivres par son père. Il décide alors de se marier à une riche Américaine qu'il vient de rencontrer. Mais les choses ne vont pas se passer comme il l'avait prévu.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20227,
@@ -11086,7 +11386,8 @@
           "titre": "Finalement",
           "realisateurs": "Claude Lelouch",
           "annee": 2024,
-          "status": 0,
+          "generique": "Kad Merad, Elsa Zylberstein, Michel Boujenah",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28036,
@@ -11237,8 +11538,10 @@
           "idFilm": 41077,
           "titre": "À l'angle du monde",
           "titreVo": "Edge of the World",
+          "artVo": "The",
           "realisateurs": "Michael Powell",
           "annee": 1937,
+          "generique": "John Laurie, Belle Chrystall, Eric Berry",
           "synopsis": "Dans une île au large de l'Écosse, la vie des petits pêcheurs se fait rude, d'autant plus depuis la concurrence des chalutiers. Alors que certains se montrent attachés à leur mode de vie traditionnel, d'autres envisagent de quitter l'île pour une vie meilleure...",
           "status": 1,
           "copies": [
@@ -11258,8 +11561,9 @@
           "titre": "Return to the Edge of the World",
           "realisateurs": "Michael Powell",
           "annee": 1978,
+          "generique": "Michael Powell, John Laurie, Frankie Reidy",
           "synopsis": "« À l'angle du monde » de Michael Powell, remonté plus de 40 ans plus tard, et agrémenté d'interviews du réalisateur et de certains acteurs, revenus sur les lieux du film, l'île de Foula dans les Hébrides.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 27596,
@@ -11286,12 +11590,16 @@
         {
           "idCycle": 525,
           "idCategorie": 3409
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3114
         }
       ],
       "idEvenement": 21665,
-      "typeEvenement": 13,
       "dateHeure": "2024-11-13T19:00:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -11301,9 +11609,9 @@
           "titreVo": "Peeping Tom",
           "realisateurs": "Michael Powell",
           "annee": 1959,
-          "generique": "Karlheinz Böhm, Anna Massey, Maxine Audley, Moira Shearer",
+          "generique": "Karlheinz Böhm, Anna Massey, Maxine Audley",
           "synopsis": "Un photographe tue ses modèles avec un stylet installé dans son trépied. Il filme la scène, cherchant ainsi à capturer le visage de la peur.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20208,
@@ -11314,6 +11622,13 @@
             }
           ],
           "idFilmBoxoffice": 1070
+        },
+        {
+          "ordre": 2,
+          "idConf": 31103,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Frédéric Bonnaud",
+          "duree": 60
         }
       ]
     },
@@ -11340,6 +11655,8 @@
           "art": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1950,
+          "generique": "David Niven, Margaret Leighton, Cyril Cusack",
+          "adaptation": "D'après le roman _Le Mouron rouge_ d'Emma Orczy.",
           "synopsis": "Un noble anglais, revient en France pour sauver les aristocrates de la Terreur.",
           "status": 1,
           "copies": [
@@ -11378,7 +11695,8 @@
           "art": "La",
           "realisateurs": "Claude Lelouch",
           "annee": 1968,
-          "status": 0,
+          "generique": "Amidou, Caroline Cellier, Janine Magnan",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28041,
@@ -11386,31 +11704,6 @@
             }
           ],
           "idFilmBoxoffice": 14029
-        }
-      ]
-    },
-    {
-      "idSeance": 133943,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 525,
-          "idCategorie": 3114
-        }
-      ],
-      "idEvenement": 31103,
-      "typeEvenement": 14,
-      "dateHeure": "2024-11-13T21:15:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 31103,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Frédéric Bonnaud",
-          "duree": 60
         }
       ]
     },
@@ -11436,7 +11729,8 @@
           "titre": "Pour un maillot jaune",
           "realisateurs": "Claude Lelouch",
           "annee": 1965,
-          "status": 0,
+          "generique": "Frank Alamo, Michel Barbey, Felice Gimondi",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28037,
@@ -11451,7 +11745,8 @@
           "titre": "C'était un rendez-vous",
           "realisateurs": "Claude Lelouch",
           "annee": 1976,
-          "status": 0,
+          "generique": "Claude Lelouch, Gunilla Friden",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28038,
@@ -11466,8 +11761,9 @@
           "titre": "Treize jours en France",
           "realisateurs": "Claude Lelouch, François Reichenbach, Willy Bogner, [etc.]",
           "annee": 1968,
+          "generique": "Dalida, Peggy Fleming, Jean-Claude Killy",
           "synopsis": "Documentaire sur les Jeux Olympiques de Grenoble de 1968. Plus qu'aux compétitions sportives le film s'intéresse aux à-côtés qui entourent toute manifestation.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 5658,
@@ -11522,12 +11818,16 @@
         {
           "idCycle": 152,
           "idCategorie": 3408
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3111
         }
       ],
       "idEvenement": 31084,
-      "typeEvenement": 13,
       "dateHeure": "2024-11-14T19:00:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -11549,6 +11849,13 @@
             }
           ],
           "idFilmBoxoffice": 608
+        },
+        {
+          "ordre": 2,
+          "idConf": 31090,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Nine Antico",
+          "duree": 60
         }
       ]
     },
@@ -11612,7 +11919,7 @@
           "titre": "D'un film à l'autre",
           "realisateurs": "Claude Lelouch",
           "annee": 2010,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28062,
@@ -11621,31 +11928,6 @@
             }
           ],
           "idFilmBoxoffice": 177165
-        }
-      ]
-    },
-    {
-      "idSeance": 133912,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 152,
-          "idCategorie": 3111
-        }
-      ],
-      "idEvenement": 31090,
-      "typeEvenement": 14,
-      "dateHeure": "2024-11-14T21:00:00",
-      "typeConference": "Dialogue",
-      "idSalle": "GF",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 31090,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Nine Antico",
-          "duree": 60
         }
       ]
     },
@@ -11671,7 +11953,8 @@
           "titre": "Un homme qui me plaît",
           "realisateurs": "Claude Lelouch",
           "annee": 1969,
-          "status": 0,
+          "generique": "Jean-Paul Belmondo, Annie Girardot, Kaz Garas",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28046,
@@ -11731,8 +12014,10 @@
           "titre": "Crown v. Stevens",
           "realisateurs": "Michael Powell",
           "annee": 1936,
+          "generique": "Beatrix Thomson, Patric Knowles, Glennis Lorimer",
+          "adaptation": "D'après le roman _Third Time Unlucky_ de Laurence Meynell.",
           "synopsis": "Alors qu'elle doit beaucoup d'argent, une ancienne danseuse décide de se marier à un homme qu'elle croit riche. Si celui-ci s'avère infortuné, il possède cependant une forte assurance sur la vie...",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28196,
@@ -11808,8 +12093,9 @@
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1947,
           "generique": "Deborah Kerr, Sabu, David Farrar",
+          "adaptation": "D'après le roman _Le Narcisse noir_ de Rumer Godden.",
           "synopsis": "Suite à l'ouverture d'un couvent sur les contreforts de l'Himalaya, cinq sœurs anglicanes rencontrent des difficultés à s'adapter à leur nouvel environnement.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 8430,
@@ -11852,7 +12138,8 @@
           "art": "Le",
           "realisateurs": "Claude Lelouch",
           "annee": 1970,
-          "status": 0,
+          "generique": "Jean-Louis Trintignant, Danièle Delorme, Christine Cochet",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28047,
@@ -11893,7 +12180,8 @@
           "art": "L'",
           "realisateurs": "Claude Lelouch",
           "annee": 1971,
-          "status": 0,
+          "generique": "Lino Ventura, Jacques Brel, Charles Denner",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28050,
@@ -11936,8 +12224,9 @@
           "artVo": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1956,
+          "generique": "John Gregson, Anthony Quayle, Ian Hunter",
           "synopsis": "Le film retrace la Bataille du Rio de la Plata qui eut lieu durant la Seconde Guerre mondiale, et pendant laquelle trois navires britanniques ont poursuivi un cuirassé allemand tout-puissant.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20235,
@@ -11974,8 +12263,9 @@
           "artVo": "The",
           "realisateurs": "Michael Powell, Adrian Brunel, Brian Desmond Hurst",
           "annee": 1939,
+          "generique": "Merle Oberon, Ralph Richardson, June Duprez",
           "synopsis": "Fait d'images documentaires et de fiction, le film s'attache à montrer l'effort de guerre des anglais face à l'organisation militaire nazie. Visant à rassurer la population, ce film fait aussi le portrait d'hommes et de femmes se préparant à tout sacrifier pour leur liberté.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20209,
@@ -12048,7 +12338,7 @@
           "annee": 1965,
           "generique": "Anouk Aimée, Jean-Louis Trintignant, Pierre Barouh",
           "synopsis": "Un homme et une femme, veufs tous les deux, se rencontrent à Deauville et tombent amoureux l'un de l'autre.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28039,
@@ -12083,8 +12373,9 @@
           "titreVo": "One of Our Aircraft Is Missing",
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1942,
+          "generique": "Godfrey Tearle, Eric Portman, Hugh Williams",
           "synopsis": "Durant la Deuxième Guerre mondiale, un bombardier britannique est abattu, obligeant son équipage à sauter en parachute. Ces derniers se retrouvent alors aux Pays-Bas, terre ennemie, et tentent de rejoindre leur pays.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20239,
@@ -12226,7 +12517,8 @@
           "art": "Les",
           "realisateurs": "Claude Lelouch",
           "annee": 2018,
-          "status": 0,
+          "generique": "Anouk Aimée, Jean-Louis Trintignant, Antoine Sire",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28040,
@@ -12260,8 +12552,10 @@
           "titre": "Rynox",
           "realisateurs": "Michael Powell",
           "annee": 1931,
+          "generique": "Stewart Rome, John Longden, Dorothy Boyd",
+          "adaptation": "D'après le roman _Rynox_ de Philip MacDonald.",
           "synopsis": "Après avoir affirmé s'être fait menacer par un inconnu répondant au nom de Marsh, le riche directeur de la société Rynox est retrouvé assassiné. Son fils, reprenant l'entreprise de son père, se met alors en chasse de l'insaisissable Marsh.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28185,
@@ -12279,8 +12573,9 @@
           "titre": "Hotel Splendide",
           "realisateurs": "Michael Powell",
           "annee": 1932,
+          "generique": "Jerry Verno, Anthony Holles, Edgar Norfolk",
           "synopsis": "Jerry hérite d'un hôtel au bord de la mer, et sous lequel se trouve un butin caché...",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28186,
@@ -12355,7 +12650,8 @@
           "art": "Le",
           "realisateurs": "Claude Lelouch",
           "annee": 1975,
-          "status": 0,
+          "generique": "Jacques Dutronc, Marlène Jobert, Jacques Villeret",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28053,
@@ -12390,7 +12686,7 @@
           "annee": 1976,
           "generique": "Geneviève Bujold, James Caan, Francis Huster",
           "synopsis": "Jeanne et Francis tombent amoureux et décident de partir pour le Nouveau Monde. En Arizona, ils rencontrent David et sa femme Mary. Après de nombreuses années et de nombreux drames, Jeanne et David se retrouvent.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 17094,
@@ -12429,7 +12725,8 @@
           "titre": "Partir, revenir",
           "realisateurs": "Claude Lelouch",
           "annee": 1984,
-          "status": 0,
+          "generique": "Annie Girardot, Jean-Louis Trintignant, Évelyne Bouix",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28057,
@@ -12481,7 +12778,8 @@
           "titre": "Edith et Marcel",
           "realisateurs": "Claude Lelouch",
           "annee": 1982,
-          "status": 0,
+          "generique": "Évelyne Bouix, Marcel Cerdan Jr, Jacques Villeret",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28056,
@@ -12555,8 +12853,10 @@
           "art": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1948,
+          "generique": "David Farrar, Kathleen Byron, Jack Hawkins",
+          "adaptation": "D'après le roman _The Small Back Room_ de Nigel Balchin.",
           "synopsis": "En pleine seconde guerre mondiale, Sammy Rice, jeune savant, manque singulièrement de confiance en lui et sombre dans l'alcool.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 27060,
@@ -12638,7 +12938,8 @@
           "titre": "Mariage",
           "realisateurs": "Claude Lelouch",
           "annee": 1974,
-          "status": 0,
+          "generique": "Bulle Ogier, Rufus, Marie Déa",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28102,
@@ -12674,8 +12975,10 @@
           "titreVo": "Herzog Blaubarts Burg",
           "realisateurs": "Michael Powell",
           "annee": 1964,
+          "generique": "Norman Foster, Ana Raquel Satre",
+          "adaptation": "D'après l'opéra _Le Château de Barbe-Bleue_ de Béla Bartók.",
           "synopsis": "Enième épouse de Barbe-Bleue, Judit découvre le château de son mari. Curieuse de l'édifice, elle va franchir la porte qui fait l'objet de tous les interdits... Film inspiré de l'unique opéra de Béla Bartók.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 27074,
@@ -12713,7 +13016,7 @@
           "annee": 1973,
           "generique": "Lino Ventura, Françoise Fabian, Charles Gérard",
           "synopsis": "Apres six ans de prison pour cambriolage, un homme cherche la femme dont il était tombé amoureux à l'époque du hold-up malheureux. Il retrouve une femme émancipée, et entreprend de la reconquérir.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 14634,
@@ -12733,12 +13036,16 @@
         {
           "idCycle": 152,
           "idCategorie": 3408
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3111
         }
       ],
       "idEvenement": 31085,
-      "typeEvenement": 13,
       "dateHeure": "2024-11-21T19:00:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -12758,6 +13065,13 @@
             }
           ],
           "idFilmBoxoffice": 7648
+        },
+        {
+          "ordre": 2,
+          "idConf": 31091,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Nine Antico",
+          "duree": 60
         }
       ]
     },
@@ -12783,6 +13097,8 @@
           "titre": "Oh... Rosalinda!!",
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1955,
+          "generique": "Anthony Quayle, Anton Walbrook, Dennis Price",
+          "adaptation": "D'après _La Chauve-Souris_ de Johann Strauss.",
           "synopsis": "Inspirée de l'opérette _La Chauve-souris_ de Johann Straus, le film s'attache, dans le Vienne d'après guerre, à des jeux d'amour et de quiproquos.",
           "status": 1,
           "copies": [
@@ -12821,7 +13137,8 @@
           "art": "Les",
           "realisateurs": "Claude Lelouch",
           "annee": 1980,
-          "status": 0,
+          "generique": "Robert Hossein, Nicole Garcia, Geraldine Chaplin",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28055,
@@ -12832,31 +13149,6 @@
         }
       ],
       "mention": "Séance présentée par Francis Huster, Macha Méril et Nicole Garcia"
-    },
-    {
-      "idSeance": 133914,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 152,
-          "idCategorie": 3111
-        }
-      ],
-      "idEvenement": 31091,
-      "typeEvenement": 14,
-      "dateHeure": "2024-11-21T20:45:00",
-      "typeConference": "Dialogue",
-      "idSalle": "GF",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 31091,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Nine Antico",
-          "duree": 60
-        }
-      ]
     },
     {
       "idSeance": 133850,
@@ -12919,7 +13211,8 @@
           "titre": "Roman de gare",
           "realisateurs": "Claude Lelouch",
           "annee": 2006,
-          "status": 0,
+          "generique": "Dominique Pinon, Audrey Dana, Fanny Ardant",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28061,
@@ -13026,7 +13319,8 @@
           "titre": "Il y a des jours et des lunes",
           "realisateurs": "Claude Lelouch",
           "annee": 1989,
-          "status": 0,
+          "generique": "Gérard Lanvin, Patrick Chesnais, Annie Girardot",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28059,
@@ -13127,8 +13421,9 @@
           "art": "Les",
           "realisateurs": "Claude Lelouch",
           "annee": 1994,
-          "adaptation": "D'après le roman _Les misérables_ de Victor Hugo.",
-          "status": 0,
+          "generique": "Jean-Paul Belmondo, Michel Boujenah, Alessandra Martines",
+          "adaptation": "D'après le roman _Les Misérables_ de Victor Hugo.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28060,
@@ -13139,6 +13434,54 @@
         }
       ],
       "mention": "Séance présentée par Simon Lelouch"
+    },
+    {
+      "idSeance": 133332,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21654,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-23T14:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42009,
+          "titre": "Espion noir",
+          "art": "L'",
+          "titreVo": "Spy in Black",
+          "artVo": "The",
+          "realisateurs": "Michael Powell",
+          "annee": 1939,
+          "generique": "Conrad Veidt, Sebastian Shaw, Valerie Hobson",
+          "adaptation": "D'après le roman _The Spy in Black_ de Joseph Storer Clouston.",
+          "synopsis": "Le capitaine d'un sous-marin allemand accepte le rôle déshonorant de recueillir des renseignements fournis par une espionne.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20207,
+              "duree": 82,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 3945,
+              "duree": 82,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 8130
+        }
+      ]
     },
     {
       "idSeance": 133325,
@@ -13176,6 +13519,48 @@
             }
           ],
           "idFilmBoxoffice": 6991
+        }
+      ]
+    },
+    {
+      "idSeance": 134032,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21694,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-23T16:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42029,
+          "titre": "Contes d'Hoffmann",
+          "art": "Les",
+          "titreVo": "Tales of Hoffmann",
+          "artVo": "The",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1950,
+          "generique": "Robert Rounseville, Moira Shearer, Robert Helpmann",
+          "adaptation": "D'après l'opéra _Les Contes d'Hoffmann_ de Jacques Offenbach, tiré des contes d'E. T. A. Hoffmann.",
+          "synopsis": "Alors qu'il attend son nouvel amour à la sortie d'un ballet, le poète Hoffmann se remémore trois expériences sentimentales malheureuses.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 5915,
+              "duree": 123,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 26177
         }
       ]
     },
@@ -13240,7 +13625,8 @@
           "titre": "Un + une",
           "realisateurs": "Claude Lelouch",
           "annee": 2015,
-          "status": 0,
+          "generique": "Jean Dujardin, Elsa Zylberstein, Christophe Lambert",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28063,
@@ -13248,6 +13634,53 @@
             }
           ],
           "idFilmBoxoffice": 228049
+        }
+      ]
+    },
+    {
+      "idSeance": 134033,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21688,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-23T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41089,
+          "titre": "Renarde",
+          "art": "La",
+          "titreVo": "Gone to Earth",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1950,
+          "generique": "Jennifer Jones, Esmond Knight, David Farrar",
+          "adaptation": "D'après le roman _La Renarde_ de Mary Webb.",
+          "synopsis": "Au XIXe siecle, en Angleterre près du pays de Galles, Hazel Woodus vit en communion avec la nature. Elle a pour amie et confidente une renarde. Mais le châtelain, chasseur de renards, la poursuit, tandis que le pasteur du village la demande en mariage.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 20278,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 27063,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 11262
         }
       ]
     },
@@ -13428,6 +13861,87 @@
       ]
     },
     {
+      "idSeance": 134034,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21700,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-24T15:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41083,
+          "titre": "Une question de vie ou de mort",
+          "titreVo": "A Matter of Life and Death",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1946,
+          "generique": "David Niven, Kim Hunter, Marius Goring",
+          "synopsis": "Alors que son bombardier prend feu, le commandant Peter Carter s'en sort indemne. Peu de temps après, son guide céleste vient néanmoins le trouver, lui expliquant qu'il n'est pas parvenu à le trouver dans le brouillard. Il tente alors de le convaincre de le suivre au paradis.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 20223,
+              "duree": 104,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 4302
+        }
+      ]
+    },
+    {
+      "idSeance": 134036,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21692,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-24T17:15:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42561,
+          "titre": "Chaussons rouges",
+          "art": "Les",
+          "titreVo": "Red Shoes",
+          "artVo": "The",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1947,
+          "generique": "Anton Walbrook, Moira Shearer, Marius Goring",
+          "adaptation": "D'après la nouvelle _De røde sko_ de Hans Christian Andersen.",
+          "synopsis": "Quand Victoria, danseuse étoile des « Chaussons rouges », tombe amoureuse du compositeur de l'opéra, le cruel directeur va tout faire pour, au nom de l'art, séparer les deux jeunes amoureux.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 20216,
+              "duree": 133,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 553
+        }
+      ]
+    },
+    {
       "idSeance": 133625,
       "idProg": 182,
       "idCycleCategories": [
@@ -13449,7 +13963,8 @@
           "titre": "Toute une vie",
           "realisateurs": "Claude Lelouch",
           "annee": 1973,
-          "status": 0,
+          "generique": "Marthe Keller, André Dussollier, Charles Denner",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28052,
@@ -13501,6 +14016,50 @@
       ]
     },
     {
+      "idSeance": 133346,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3409
+        }
+      ],
+      "idEvenement": 21665,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-24T20:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35996,
+          "titre": "Voyeur",
+          "art": "Le",
+          "titreVo": "Peeping Tom",
+          "realisateurs": "Michael Powell",
+          "annee": 1959,
+          "generique": "Karlheinz Böhm, Anna Massey, Maxine Audley",
+          "synopsis": "Un photographe tue ses modèles avec un stylet installé dans son trépied. Il filme la scène, cherchant ainsi à capturer le visage de la peur.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 20208,
+              "duree": 101,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1070
+        }
+      ]
+    },
+    {
       "idSeance": 133627,
       "idProg": 182,
       "idCycleCategories": [
@@ -13522,7 +14081,8 @@
           "titre": "Smic, Smac, Smoc",
           "realisateurs": "Claude Lelouch",
           "annee": 1971,
-          "status": 0,
+          "generique": "Catherine Allégret, Amidou, Charles Gérard",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28048,
