@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-31T07:57:16.733Z",
+  "updatedAt": "2024-05-31T12:17:07.709Z",
   "data": [
     {
       "idSeance": 130975,
@@ -112,8 +112,9 @@
             {
               "idCopie": 28222,
               "duree": 74,
-              "format": "35 mm",
-              "version": "VO"
+              "format": "16 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 118874
@@ -228,8 +229,9 @@
             {
               "idCopie": 28224,
               "duree": 80,
-              "format": "35 mm",
-              "version": "VO"
+              "format": "16 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 118986
@@ -892,7 +894,8 @@
               "idCopie": 28019,
               "duree": 110,
               "format": "16 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 119138
@@ -927,8 +930,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28124,
-              "duree": 107
+              "idCopie": 28315,
+              "duree": 108,
+              "format": "DCP",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 2987
@@ -1631,7 +1636,15 @@
           "adaptation": "D'après la pièce _Haute société_ de W. Somerset Maugham.",
           "miniTexte": "Exercice de godille entre cynisme et désillusions pour Constance Bennett, dans le rôle d'une ambitieuse Américaine plongée dans l'aristocratie anglaise. Et pour Cukor, qui, à grand renfort de dialogues acides, adapte la pièce de Somerset Maugham et parvient à marier le vice et la vertu. Le dernier film du cinéaste pour la RKO, avant qu'il n'intègre la MGM.",
           "status": 2,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28314,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
           "idFilmBoxoffice": 118974
         }
       ]
@@ -3200,7 +3213,8 @@
               "idCopie": 28193,
               "duree": 100,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 97415
@@ -3507,17 +3521,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 16567,
-              "duree": 114,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 27983,
               "duree": 114,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 2334
@@ -3685,8 +3693,7 @@
               "idCopie": 28024,
               "duree": 115,
               "format": "DCP",
-              "version": "VO",
-              "stDemande": true
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 118987
@@ -12204,7 +12211,8 @@
           ],
           "idFilmBoxoffice": 14029
         }
-      ]
+      ],
+      "mention": "Séance présentée par Daniel Vigne"
     },
     {
       "idSeance": 133664,
@@ -13240,7 +13248,8 @@
           ],
           "idFilmBoxoffice": 34267
         }
-      ]
+      ],
+      "mention": "Séance présentée par Erik Berchot"
     },
     {
       "idSeance": 133969,
@@ -13943,7 +13952,7 @@
           "idFilmBoxoffice": 34195
         }
       ],
-      "mention": "Séance présentée par Simon Lelouch"
+      "mention": "Séance présentée par Simon Lelouch et Michel Boujenah"
     },
     {
       "idSeance": 133332,
@@ -14145,7 +14154,8 @@
           ],
           "idFilmBoxoffice": 228049
         }
-      ]
+      ],
+      "mention": "Séance présentée par Elsa Zylberstein"
     },
     {
       "idSeance": 134033,
