@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-30T15:03:59.177Z",
+  "updatedAt": "2024-05-31T07:57:16.733Z",
   "data": [
     {
       "idSeance": 130975,
@@ -2183,7 +2183,8 @@
           ],
           "idFilmBoxoffice": 270508
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec Pierre Sénélas, Pascal Cervo et Mireille Roussel"
     },
     {
       "idSeance": 133635,
@@ -6759,7 +6760,7 @@
       ]
     },
     {
-      "idSeance": 132126,
+      "idSeance": 134068,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -6769,23 +6770,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30781,
+      "idEvenement": 30782,
       "typeEvenement": 13,
       "dateHeure": "2024-10-10T21:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 60519,
-          "titre": "Kardiogramma",
-          "titreNx": "Кардиограмма",
+          "idFilm": 76647,
+          "titre": "Route",
+          "art": "La",
+          "titreVo": "Jol",
+          "titreNx": "Жол",
           "realisateurs": "Darejan Omirbaev",
-          "annee": 1995,
-          "generique": "Zhasulan Asauov, Gulnara Dusmatova, Ilyas Kalymbetov",
-          "miniTexte": "Atteint d'une maladie cardiaque, un garçon de 12 ans quitte sa steppe natale pour rejoindre Almaty, la capitale. Après les rêves éveillés de _Kaïrat_, Omirbaev signe un superbe conte sur la découverte du monde extérieur. L'exil d'un jeune Kazakh non russophone, confronté à la tristesse, l'exclusion et les humiliations, mais aussi aux rapports de force et aux désirs charnels. Une histoire de nostalgie autant que de liberté, où le ressort social se révèle par l'intime, sans ornements ni artifices. Une œuvre simple, pudique, d'une sensibilité universelle.",
+          "annee": 2001,
+          "generique": "Djamshed Usmonov, Saule Toktybayeva, Alnur Turgambayeva",
+          "miniTexte": "Une plongée dans les pensées d'un jeune cinéaste appelé au chevet de sa mère malade. Une réflexion sur la création artistique en même temps qu'une autocritique cocasse, qui suit la ligne dépouillée d'un road movie des steppes, où plane l'ombre de l'âne Balthazar du film de Bresson.",
           "status": 2,
-          "copies": [],
-          "idFilmBoxoffice": 13818
+          "copies": [
+            {
+              "idCopie": 28138,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 37343
         }
       ]
     },
@@ -7150,7 +7161,7 @@
       ]
     },
     {
-      "idSeance": 133806,
+      "idSeance": 134069,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7160,25 +7171,23 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30779,
+      "idEvenement": 30781,
       "typeEvenement": 13,
       "dateHeure": "2024-10-12T18:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 106346,
-          "titre": "Chouga",
-          "titreVo": "Shuga",
-          "titreNx": "Шуға",
+          "idFilm": 60519,
+          "titre": "Kardiogramma",
+          "titreNx": "Кардиограмма",
           "realisateurs": "Darejan Omirbaev",
-          "annee": 2007,
-          "generique": "Aidos Sagatov, Alnur Turgambayeva",
-          "adaptation": "D'après le roman _Anna Karénine_ de Léon Tolstoï.",
-          "miniTexte": "Attirée par un nouveau riche, une bourgeoise bien rangée délaisse mari et enfant. Dans une transposition contemporaine et épurée d'_Anna Karenine_, Omirbaev décrit les brèches du Kazakhstan, de l'ancienne à la nouvelle capitale. Entre les murs d'une société en mutation, l'amour se révèle illusoire et la passion sans issue.",
+          "annee": 1995,
+          "generique": "Zhasulan Asauov, Gulnara Dusmatova, Ilyas Kalymbetov",
+          "miniTexte": "Atteint d'une maladie cardiaque, un garçon de 12 ans quitte sa steppe natale pour rejoindre Almaty, la capitale. Après les rêves éveillés de _Kaïrat_, Omirbaev signe un superbe conte sur la découverte du monde extérieur. L'exil d'un jeune Kazakh non russophone, confronté à la tristesse, l'exclusion et les humiliations, mais aussi aux rapports de force et aux désirs charnels. Une histoire de nostalgie autant que de liberté, où le ressort social se révèle par l'intime, sans ornements ni artifices. Une œuvre simple, pudique, d'une sensibilité universelle.",
           "status": 2,
           "copies": [],
-          "idFilmBoxoffice": 140647
+          "idFilmBoxoffice": 13818
         }
       ]
     },
@@ -7351,7 +7360,7 @@
       ]
     },
     {
-      "idSeance": 133808,
+      "idSeance": 134070,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7361,33 +7370,25 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30782,
+      "idEvenement": 30779,
       "typeEvenement": 13,
       "dateHeure": "2024-10-13T17:45:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 76647,
-          "titre": "Route",
-          "art": "La",
-          "titreVo": "Jol",
-          "titreNx": "Жол",
+          "idFilm": 106346,
+          "titre": "Chouga",
+          "titreVo": "Shuga",
+          "titreNx": "Шуға",
           "realisateurs": "Darejan Omirbaev",
-          "annee": 2001,
-          "generique": "Djamshed Usmonov, Saule Toktybayeva, Alnur Turgambayeva",
-          "miniTexte": "Une plongée dans les pensées d'un jeune cinéaste appelé au chevet de sa mère malade. Une réflexion sur la création artistique en même temps qu'une autocritique cocasse, qui suit la ligne dépouillée d'un road movie des steppes, où plane l'ombre de l'âne Balthazar du film de Bresson.",
+          "annee": 2007,
+          "generique": "Aidos Sagatov, Alnur Turgambayeva",
+          "adaptation": "D'après le roman _Anna Karénine_ de Léon Tolstoï.",
+          "miniTexte": "Attirée par un nouveau riche, une bourgeoise bien rangée délaisse mari et enfant. Dans une transposition contemporaine et épurée d'_Anna Karenine_, Omirbaev décrit les brèches du Kazakhstan, de l'ancienne à la nouvelle capitale. Entre les murs d'une société en mutation, l'amour se révèle illusoire et la passion sans issue.",
           "status": 2,
-          "copies": [
-            {
-              "idCopie": 28138,
-              "duree": 85,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 37343
+          "copies": [],
+          "idFilmBoxoffice": 140647
         }
       ]
     },
@@ -7619,7 +7620,13 @@
           "annee": 1961,
           "adaptation": "D'après le roman _The Intruder_ de Charles Beaumont.",
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28306,
+              "duree": 84,
+              "format": "35 mm"
+            }
+          ],
           "idFilmBoxoffice": 4679
         }
       ],
@@ -7718,7 +7725,13 @@
           "realisateurs": "Roger Corman",
           "annee": 1956,
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28311,
+              "duree": 71,
+              "format": "16 mm"
+            }
+          ],
           "idFilmBoxoffice": 18613
         }
       ]
@@ -7749,7 +7762,18 @@
           "realisateurs": "Roger Corman",
           "annee": 1961,
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28309,
+              "duree": 70,
+              "format": "16 mm"
+            },
+            {
+              "idCopie": 28310,
+              "duree": 70,
+              "format": "Numérique"
+            }
+          ],
           "idFilmBoxoffice": 34395
         }
       ]
@@ -7809,7 +7833,19 @@
           "generique": "Vincent Price, Hazel Court, Patrick Magee",
           "synopsis": "Au Moyen-Âge, le Prince sataniste Prospero terrorise les populations alentour. Quand un mal, nommé Mort Rouge, s'abat sur le pays, il convie à un bal les nobles, qui doivent se prêter à des jeux sadiques.",
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 20754,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 28312,
+              "duree": 90,
+              "format": "16 mm"
+            }
+          ],
           "idFilmBoxoffice": 54215
         }
       ]
@@ -7906,7 +7942,15 @@
           "realisateurs": "Roger Corman",
           "annee": 1963,
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28313,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 9756
         }
       ]
@@ -7977,7 +8021,20 @@
           "generique": "Peter Fonda, Susan Strasberg, Dennis Hopper, Bruce Dern",
           "synopsis": "Paul Groves vient de divorcer avec sa femme. Profondément déprimé, il essaye pour la première fois le LSD.",
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 13014,
+              "duree": 79,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28308,
+              "duree": 85,
+              "format": "Numérique"
+            }
+          ],
           "idFilmBoxoffice": 4680
         }
       ]
@@ -8147,7 +8204,13 @@
           "realisateurs": "Roger Corman",
           "annee": 1990,
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28307,
+              "duree": 82,
+              "format": "35 mm"
+            }
+          ],
           "idFilmBoxoffice": 110230
         }
       ]
@@ -8203,7 +8266,15 @@
           "realisateurs": "Monte Hellman",
           "annee": 1974,
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28303,
+              "duree": 0,
+              "format": "Numérique",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 4278
         }
       ]
@@ -8336,7 +8407,18 @@
           "realisateurs": "Jonathan Demme",
           "annee": 1974,
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28302,
+              "duree": 83,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 28301,
+              "duree": 83,
+              "format": "16 mm"
+            }
+          ],
           "idFilmBoxoffice": 329
         }
       ]
@@ -8442,7 +8524,18 @@
           "realisateurs": "Paul Bartel",
           "annee": 1975,
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28305,
+              "duree": 0,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 28304,
+              "duree": 0,
+              "format": "16 mm"
+            }
+          ],
           "idFilmBoxoffice": 10049
         }
       ]
@@ -8768,6 +8861,50 @@
       ]
     },
     {
+      "idSeance": 134055,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 801,
+          "idCategorie": 3418,
+          "titreCycle": "Roger Corman",
+          "titreSousCycle": "Roger Corman producteur"
+        }
+      ],
+      "idEvenement": 31158,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-25T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36045,
+          "titre": "Bertha Boxcar",
+          "titreVo": "Boxcar Bertha",
+          "realisateurs": "Martin Scorsese",
+          "annee": 1972,
+          "generique": "Barbara Hershey, David Carradine, Barry Primus",
+          "synopsis": "Pendant la Grande Dépression dans l'Arkansas, Bertha Thompson, une jeune fille assiste à la mort accidentelle de son père, provoquée par un employeur tyrannique.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28299,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28300,
+              "duree": 105,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 10239
+        }
+      ]
+    },
+    {
       "idSeance": 132541,
       "idProg": 182,
       "idCycleCategories": [
@@ -8849,7 +8986,7 @@
       ]
     },
     {
-      "idSeance": 132543,
+      "idSeance": 134056,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -8861,7 +8998,7 @@
       ],
       "idEvenement": 30867,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-25T19:00:00",
+      "dateHeure": "2024-10-25T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -8922,44 +9059,6 @@
             }
           ],
           "idFilmBoxoffice": 39205
-        }
-      ]
-    },
-    {
-      "idSeance": 132544,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 791,
-          "idCategorie": 3379,
-          "titreCycle": "Zucker, Abrahams et Zucker",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30868,
-      "typeEvenement": 13,
-      "dateHeure": "2024-10-25T21:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 37170,
-          "titre": "Y a-t-il un flic pour sauver la reine ?",
-          "titreVo": "Naked Gun",
-          "artVo": "The",
-          "realisateurs": "David Zucker",
-          "annee": 1989,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28045,
-              "duree": 85,
-              "format": "DCP",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 4528
         }
       ]
     },
@@ -9055,7 +9154,7 @@
       ]
     },
     {
-      "idSeance": 132586,
+      "idSeance": 134057,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -9065,28 +9164,30 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30862,
+      "idEvenement": 30868,
       "typeEvenement": 13,
       "dateHeure": "2024-10-26T15:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 45670,
-          "titre": "Hot Shots!",
-          "realisateurs": "Jim Abrahams",
-          "annee": 1991,
-          "status": 1,
+          "idFilm": 37170,
+          "titre": "Y a-t-il un flic pour sauver la reine ?",
+          "titreVo": "Naked Gun",
+          "artVo": "The",
+          "realisateurs": "David Zucker",
+          "annee": 1989,
+          "status": 0,
           "copies": [
             {
-              "idCopie": 28118,
-              "duree": 84,
+              "idCopie": 28045,
+              "duree": 85,
               "format": "DCP",
               "version": "VO",
               "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 7173
+          "idFilmBoxoffice": 4528
         }
       ]
     },
@@ -9234,7 +9335,7 @@
       ]
     },
     {
-      "idSeance": 132587,
+      "idSeance": 134061,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -9244,30 +9345,28 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30861,
+      "idEvenement": 30862,
       "typeEvenement": 13,
       "dateHeure": "2024-10-26T19:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 57426,
-          "titre": "Hamburger Film Sandwich",
-          "titreVo": "Kentucky Fried Movie",
-          "artVo": "The",
-          "realisateurs": "John Landis",
-          "annee": 1977,
+          "idFilm": 45670,
+          "titre": "Hot Shots!",
+          "realisateurs": "Jim Abrahams",
+          "annee": 1991,
           "status": 1,
           "copies": [
             {
-              "idCopie": 28042,
-              "duree": 85,
+              "idCopie": 28118,
+              "duree": 84,
               "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 13264
+          "idFilmBoxoffice": 7173
         }
       ]
     },
@@ -9521,6 +9620,44 @@
             }
           ],
           "idFilmBoxoffice": 16928
+        }
+      ]
+    },
+    {
+      "idSeance": 134060,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 791,
+          "idCategorie": 3379,
+          "titreCycle": "Zucker, Abrahams et Zucker",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30861,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-27T19:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 57426,
+          "titre": "Hamburger Film Sandwich",
+          "titreVo": "Kentucky Fried Movie",
+          "artVo": "The",
+          "realisateurs": "John Landis",
+          "annee": 1977,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28042,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 13264
         }
       ]
     },

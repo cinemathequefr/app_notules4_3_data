@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-30T15:06:10.451Z",
+  "updatedAt": "2024-05-31T07:59:55.519Z",
   "data": [
     {
       "idSeance": 128873,
@@ -1426,7 +1426,8 @@
         {
           "ordre": 1,
           "idFilm": 154847,
-          "titre": "Julie zwijgt",
+          "titre": "Julie se tait",
+          "titreVo": "Julie zwijgt",
           "realisateurs": "Leonardo van Dijl",
           "annee": 2024,
           "generique": "Tessa van den Broeck, Ruth Becquart, Koen De Bouw",
@@ -2431,7 +2432,8 @@
         {
           "ordre": 5,
           "idFilm": 154863,
-          "titre": "Noksan",
+          "titre": "Absent",
+          "titreVo": "Noksan",
           "realisateurs": "Cem Demirer",
           "annee": 2024,
           "generique": "Haydar Şahin, Şencan Aslan",
@@ -4584,6 +4586,12 @@
       "idSeance": 130754,
       "idProg": 179,
       "idCycleCategories": [
+        {
+          "idCycle": 730,
+          "idCategorie": 3179,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        },
         {
           "idCycle": 741,
           "idCategorie": 3235,
