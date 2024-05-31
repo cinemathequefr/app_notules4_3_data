@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-31T12:17:07.709Z",
+  "updatedAt": "2024-05-31T15:10:02.551Z",
   "data": [
     {
       "idSeance": 130975,
@@ -2372,33 +2372,6 @@
       ]
     },
     {
-      "idSeance": 134051,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3399,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 31027,
-      "typeEvenement": 14,
-      "dateHeure": "2024-09-13T15:30:00",
-      "typeConference": "Conférence",
-      "idSalle": "GF",
-      "duree": 90,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 31027,
-          "idTypeConf": 55,
-          "titre": "Conférence de Georges Mourier",
-          "duree": 90
-        }
-      ]
-    },
-    {
       "idSeance": 133977,
       "idProg": 182,
       "idCycleCategories": [
@@ -2435,6 +2408,33 @@
             }
           ],
           "idFilmBoxoffice": 52429
+        }
+      ]
+    },
+    {
+      "idSeance": 134051,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3399,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31027,
+      "typeEvenement": 14,
+      "dateHeure": "2024-09-13T19:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "GF",
+      "duree": 90,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31027,
+          "idTypeConf": 55,
+          "titre": "Conférence de Georges Mourier",
+          "duree": 90
         }
       ]
     },
@@ -3373,7 +3373,8 @@
           ],
           "idFilmBoxoffice": 43218
         }
-      ]
+      ],
+      "mention": "Séance présentée par Judith Godrèche"
     },
     {
       "idSeance": 133946,
@@ -9109,7 +9110,7 @@
       ]
     },
     {
-      "idSeance": 132581,
+      "idSeance": 134071,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -9119,44 +9120,38 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21695,
+      "idEvenement": 21697,
       "typeEvenement": 13,
       "dateHeure": "2024-10-26T14:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 42024,
-          "titre": "Colonel Blimp",
-          "titreVo": "Life and Death of Colonel Blimp",
-          "artVo": "The",
+          "idFilm": 42007,
+          "titre": "Je sais où je vais",
+          "titreVo": "I Know Where I'm Going",
           "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1942,
-          "generique": "Anton Walbrook, Deborah Kerr, Roger Livesey",
-          "synopsis": "A la suite d'un duel, Candy et Théo, respectivement anglais et allemand, se lient d'amitié l'un pour l'autre.",
-          "status": 1,
+          "annee": 1945,
+          "generique": "Wendy Hiller, Roger Livesey, Pamela Brown",
+          "synopsis": "Joan, jeune femme ambitieuse, doit rejoindre sur une île écossaise isolée le riche industriel qu'elle s'apprête à épouser. Mais le brouillard empêche la traversée, et la jeune femme fait la connaissance d'un jeune officier de marine qui doit aussi se rendre sur l'île.",
+          "status": 2,
           "copies": [
             {
-              "idCopie": 20203,
-              "duree": 163,
+              "idCopie": 20194,
+              "duree": 91,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             },
             {
-              "idCopie": 3199,
-              "duree": 163,
+              "idCopie": 20237,
+              "duree": 92,
               "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 20215,
-              "duree": 163,
-              "format": "DCP"
+              "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 4082
+          "idFilmBoxoffice": 4301
         }
       ]
     },
@@ -9300,7 +9295,7 @@
       ]
     },
     {
-      "idSeance": 132582,
+      "idSeance": 134072,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -9310,34 +9305,39 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21692,
+      "idEvenement": 21688,
       "typeEvenement": 13,
       "dateHeure": "2024-10-26T18:15:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 42561,
-          "titre": "Chaussons rouges",
-          "art": "Les",
-          "titreVo": "Red Shoes",
-          "artVo": "The",
+          "idFilm": 41089,
+          "titre": "Renarde",
+          "art": "La",
+          "titreVo": "Gone to Earth",
           "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1947,
-          "generique": "Anton Walbrook, Moira Shearer, Marius Goring",
-          "adaptation": "D'après la nouvelle _De røde sko_ de Hans Christian Andersen.",
-          "synopsis": "Quand Victoria, danseuse étoile des « Chaussons rouges », tombe amoureuse du compositeur de l'opéra, le cruel directeur va tout faire pour, au nom de l'art, séparer les deux jeunes amoureux.",
+          "annee": 1950,
+          "generique": "Jennifer Jones, Esmond Knight, David Farrar",
+          "adaptation": "D'après le roman _La Renarde_ de Mary Webb.",
+          "synopsis": "Au XIXe siecle, en Angleterre près du pays de Galles, Hazel Woodus vit en communion avec la nature. Elle a pour amie et confidente une renarde. Mais le châtelain, chasseur de renards, la poursuit, tandis que le pasteur du village la demande en mariage.",
           "status": 1,
           "copies": [
             {
-              "idCopie": 20216,
-              "duree": 133,
-              "format": "DCP",
+              "idCopie": 20278,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 27063,
+              "duree": 110,
+              "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 553
+          "idFilmBoxoffice": 11262
         }
       ]
     },
@@ -9416,7 +9416,7 @@
       ]
     },
     {
-      "idSeance": 132583,
+      "idSeance": 134073,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -9426,39 +9426,34 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21688,
+      "idEvenement": 21692,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-26T21:00:00",
+      "dateHeure": "2024-10-26T20:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 41089,
-          "titre": "Renarde",
-          "art": "La",
-          "titreVo": "Gone to Earth",
+          "idFilm": 42561,
+          "titre": "Chaussons rouges",
+          "art": "Les",
+          "titreVo": "Red Shoes",
+          "artVo": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1950,
-          "generique": "Jennifer Jones, Esmond Knight, David Farrar",
-          "adaptation": "D'après le roman _La Renarde_ de Mary Webb.",
-          "synopsis": "Au XIXe siecle, en Angleterre près du pays de Galles, Hazel Woodus vit en communion avec la nature. Elle a pour amie et confidente une renarde. Mais le châtelain, chasseur de renards, la poursuit, tandis que le pasteur du village la demande en mariage.",
+          "annee": 1947,
+          "generique": "Anton Walbrook, Moira Shearer, Marius Goring",
+          "adaptation": "D'après la nouvelle _De røde sko_ de Hans Christian Andersen.",
+          "synopsis": "Quand Victoria, danseuse étoile des « Chaussons rouges », tombe amoureuse du compositeur de l'opéra, le cruel directeur va tout faire pour, au nom de l'art, séparer les deux jeunes amoureux.",
           "status": 1,
           "copies": [
             {
-              "idCopie": 20278,
-              "duree": 110,
-              "format": "35 mm",
-              "version": "VO"
-            },
-            {
-              "idCopie": 27063,
-              "duree": 110,
-              "format": "35 mm",
+              "idCopie": 20216,
+              "duree": 133,
+              "format": "DCP",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 11262
+          "idFilmBoxoffice": 553
         }
       ]
     },
