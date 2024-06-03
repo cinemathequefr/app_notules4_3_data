@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-31T15:10:02.551Z",
+  "updatedAt": "2024-06-03T11:11:27.473Z",
   "data": [
     {
       "idSeance": 130975,
@@ -2724,6 +2724,8 @@
           "annee": 1933,
           "generique": "Katharine Hepburn, Joan Bennett, Paul Lukas",
           "adaptation": "D'après le roman _Les Quatre filles du docteur March_ de Louisa May Alcott.",
+          "ageMinimal": 10,
+          "synopsisJP": "D'après le best-seller de la littérature américaine, la vie d'une famille sur fond de guerre de Sécession. Aux côtés de ses sœurs Amy, Beth et Meg, l'indépendante et espiègle Jo se rêve en écrivaine. Un grand classique hollywoodien porté par Katharine Hepburn, pleine de panache.",
           "miniTexte": "D'après le best-seller de la littérature américaine, la vie d'une famille sur fond de guerre de Sécession, entre esprit de sacrifice et rigueur morale. Katharine Hepburn incarne avec panache l'indépendante Jo, et Cukor s'affirme comme un grand directeur d'actrices. Un immense succès au box-office.",
           "status": 2,
           "copies": [
@@ -3970,12 +3972,18 @@
           "idCategorie": 3383,
           "titreCycle": "Sophie Fillières",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 794,
+          "idCategorie": 3420,
+          "titreCycle": "Sophie Fillières",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 30903,
-      "typeEvenement": 13,
       "dateHeure": "2024-09-21T15:00:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -3993,8 +4001,16 @@
             }
           ],
           "idFilmBoxoffice": 57667
+        },
+        {
+          "ordre": 2,
+          "idConf": 31161,
+          "idTypeConf": 16,
+          "titre": "Table ronde autour de Sophie Fillières",
+          "duree": 60
         }
-      ]
+      ],
+      "mention": "Séance présentée par Emmanuelle Devos"
     },
     {
       "idSeance": 133890,
@@ -4135,7 +4151,8 @@
           ],
           "idFilmBoxoffice": 25634
         }
-      ]
+      ],
+      "mention": "Séance présentée par Hélène Fillières et André Dussollier"
     },
     {
       "idSeance": 133692,
@@ -4415,7 +4432,8 @@
           ],
           "idFilmBoxoffice": 144548
         }
-      ]
+      ],
+      "mention": "Séance présentée par Justine Triet"
     },
     {
       "idSeance": 131670,
@@ -4567,7 +4585,8 @@
           ],
           "idFilmBoxoffice": 220855
         }
-      ]
+      ],
+      "mention": "Séance présentée par Emmanuelle Devos"
     },
     {
       "idSeance": 133717,
@@ -5601,14 +5620,14 @@
         {
           "ordre": 1,
           "idFilm": 131745,
-          "titre": "Ma vie de courgette",
+          "titre": "Ma vie de Courgette",
           "realisateurs": "Claude Barras",
           "annee": 2015,
           "generique": "Gaspard Schlatter, Sixtine Murat, Michel Vuillermoz",
-          "adaptation": "D'après le roman _Autobiographie d'une Courgette_ de Gilles Paris.",
+          "adaptation": "D'après le roman _Autobiographie d'une courgette_ de Gilles Paris.",
           "ageMinimal": 6,
-          "synopsis": "Courgette n'a rien d'un légume, c'est un vaillant petit garçon. Il croit qu'il est seul au monde quand il perd sa mère. Mais c'est sans compter sur les rencontres qu'il va faire dans sa nouvelle vie au foyer pour enfants. Prix à la diffusion Festival d'Annecy 2015 (Fondation Gan pour le cinéma).\n\n---\n\nFilm d'animation en volume. Drôle de nom, Courgette, pour ce petit garçon dont les débuts dans la vie ont été difficiles. C'est en arrivant au Foyer des fontaines qu'il rencontrera des amis qui vont l'aider à grandir et à retrouver l'espoir. Séance suivie d'une discussion avec Marianne Chazelas, assistante-réalisatrice, qui viendra accompagnée de quelques marionnettes-actrices de ce film.",
-          "status": 0,
+          "synopsisJP": "Nouveau venu dans un orphelinat, un garçon, surnommé Courgette, découvre qu'il n'est finalement pas seul au monde. Réalisée en animation en volume, une fable optimiste sur l'amitié, l'amour, et l'apprentissage de la vie. Le César du meilleur film d'animation, scénarisé par Céline Sciamma, et Grand Prix 2016 au festival d'Annecy.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 14365,
@@ -6077,7 +6096,8 @@
         {
           "idCycle": 391,
           "idCategorie": 3419,
-          "titreCycle": "MK2"
+          "titreCycle": "MK2",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31160,
@@ -6152,7 +6172,18 @@
       "idSalle": "GF",
       "items": [
         {
+          "idFilm": 58927,
+          "titre": "COMÉDIE",
           "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28326,
+              "duree": 20
+            }
+          ]
+        },
+        {
+          "ordre": 2,
           "idFilm": 49439,
           "titre": "Camarades",
           "realisateurs": "Marin Karmitz",
@@ -6234,8 +6265,10 @@
           "titreVo": "City Lights",
           "realisateurs": "Charles Chaplin",
           "annee": 1931,
-          "generique": "Charles Chaplin, Robert Parrish, Jean Harlow",
+          "generique": "Charles Chaplin, Virginia Cherrill, Robert Parrish",
+          "ageMinimal": 6,
           "synopsis": "Charlot le vagabond s'essaye à différents métiers pour aider une jeune fille aveugle à recouvrer la vue.",
+          "synopsisJP": "Charlot tente par tous les moyens d'aider une jeune marchande de fleurs, aveugle, à retrouver la vue, et essaie ainsi différents métiers, prétextes à une kyrielle de gags et de quiproquos. Tout le talent de Chaplin au service de la poésie, dans un sommet de burlesque à la fin bouleversante.",
           "status": 2,
           "copies": [
             {
@@ -6512,7 +6545,9 @@
           "titreVo": "Sleeping Beauty",
           "realisateurs": "Clyde Geronimi",
           "annee": 1958,
-          "status": 0,
+          "adaptation": "D'après le conte _La Belle au bois dormant_ de Charles Perrault et les Frères Grimm.",
+          "synopsisJP": "Walt Disney et son équipe de créateurs adaptent le conte populaire signé Charles Perrault et repris par les frères Grimm. Ou comment la princesse Aurore est plongée dans un sommeil éternel par la diabolique fée Maléfique, l'une des plus grandes méchantes de dessin animé.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28267,
@@ -6724,7 +6759,15 @@
           "realisateurs": "Pietro Germi",
           "annee": 1965,
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28320,
+              "duree": 95,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 4013
         }
       ],
@@ -7316,7 +7359,9 @@
           "titreVo": "Sleeping Beauty",
           "realisateurs": "Clyde Geronimi",
           "annee": 1958,
-          "status": 0,
+          "adaptation": "D'après le conte _La Belle au bois dormant_ de Charles Perrault et les Frères Grimm.",
+          "synopsisJP": "Walt Disney et son équipe de créateurs adaptent le conte populaire signé Charles Perrault et repris par les frères Grimm. Ou comment la princesse Aurore est plongée dans un sommeil éternel par la diabolique fée Maléfique, l'une des plus grandes méchantes de dessin animé.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28267,
@@ -7485,7 +7530,9 @@
             {
               "idCopie": 28293,
               "duree": 79,
-              "format": "DCP"
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 174794
@@ -7519,7 +7566,14 @@
           "annee": 1952,
           "adaptation": "D'après la nouvelle _Il Brigante di Tacca del Lupo_ de Riccardo Bacchelli.",
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28317,
+              "duree": 93,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ],
           "idFilmBoxoffice": 174796
         }
       ]
@@ -7665,7 +7719,15 @@
           "realisateurs": "Pietro Germi",
           "annee": 1954,
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28318,
+              "duree": 0,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 138932
         }
       ]
@@ -7888,7 +7950,9 @@
             {
               "idCopie": 28294,
               "duree": 114,
-              "format": "DCP"
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 125474
@@ -7921,7 +7985,15 @@
           "realisateurs": "Pietro Germi",
           "annee": 1958,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28319,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -8140,14 +8212,15 @@
         {
           "ordre": 1,
           "idFilm": 41256,
-          "titre": "Jeune et innocent",
+          "titre": "Jeune et Innocent",
           "titreVo": "Young and Innocent",
           "realisateurs": "Alfred Hitchcock",
           "annee": 1937,
           "generique": "Nova Pilbeam, Derrick De Marney, Edward Rigby",
           "adaptation": "D'après le roman _A Shilling for Candles_ de Josephine Tey.",
-          "ageMinimal": 9,
+          "ageMinimal": 10,
           "synopsis": "Une star de cinéma est retrouvée morte, étranglée avec une ceinture d'imperméable. Robert Tisdall, qui découvre le corps, est accusé du meurtre. Il se met alors à la recherche du vrai coupable.",
+          "synopsisJP": "Un écrivain est soupçonné du meurtre de sa fiancée, dont il a découvert le corps. Sur l'un de ses thèmes fétiches – le criminel présumé cherche le vrai coupable pour prouver son innocence –, Hitchcock réalise un polar classique avec poursuite en voiture, histoire d'amour, et quelques belles prouesses techniques.",
           "status": 2,
           "copies": [
             {
@@ -8185,7 +8258,13 @@
           "realisateurs": "Pietro Germi",
           "annee": 1953,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28322,
+              "duree": 86,
+              "format": "35 mm"
+            }
+          ]
         }
       ]
     },
@@ -8310,7 +8389,15 @@
           "realisateurs": "Pietro Germi",
           "annee": 1972,
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28321,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
           "idFilmBoxoffice": 143216
         }
       ]
@@ -8376,7 +8463,7 @@
           "generique": "Buster Keaton, Kathryn McGuire, Ward Crane",
           "ageMinimal": 4,
           "synopsis": "Un jeune projectionniste, apprenti Sherlock Holmes, néglige son travail et se réfugie dans l'imaginaire. Au cours d'une visite chez sa petite amie, il est injustement accusé du vol d'une montre.",
-          "synopsisJP": "Buster, qui rêve de devenir détective, projette des films dans un cinéma de quartier. Quand il s'endort dans la cabine, il peut entrer dans l'écran et, de l'autre côté, c'est lui qui mène l'enquête.",
+          "synopsisJP": "Un projectionniste, qui rêve de devenir détective, est injustement accusé de vol, s'endort dans sa cabine, et se retrouve dans la peau de l'enquêteur. La rencontre de deux univers, le rêve et le burlesque, une succession de mises en abîmes hilarantes, et le génie Buster Keaton au sommet. Un joyau incontournable du muet.",
           "commentaire": "Copie avec musique.",
           "status": 2,
           "copies": [
@@ -8388,6 +8475,43 @@
             }
           ],
           "idFilmBoxoffice": 2426
+        }
+      ]
+    },
+    {
+      "idSeance": 132467,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31132,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-23T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42038,
+          "titre": "Ces messieurs dames",
+          "titreVo": "Signore e signori",
+          "realisateurs": "Pietro Germi",
+          "annee": 1965,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28320,
+              "duree": 95,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 4013
         }
       ]
     },
@@ -8428,35 +8552,6 @@
             }
           ],
           "idFilmBoxoffice": 329
-        }
-      ]
-    },
-    {
-      "idSeance": 132467,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 803,
-          "idCategorie": 3414,
-          "titreCycle": "Pietro Germi",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31132,
-      "typeEvenement": 13,
-      "dateHeure": "2024-10-23T18:30:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 42038,
-          "titre": "Ces messieurs dames",
-          "titreVo": "Signore e signori",
-          "realisateurs": "Pietro Germi",
-          "annee": 1965,
-          "status": 0,
-          "copies": [],
-          "idFilmBoxoffice": 4013
         }
       ]
     },
@@ -8986,7 +9081,9 @@
             {
               "idCopie": 28294,
               "duree": 114,
-              "format": "DCP"
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 125474
@@ -9118,12 +9215,18 @@
           "idCategorie": 2201,
           "titreCycle": "Michael Powell",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 476,
+          "idCategorie": 3406,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 21697,
-      "typeEvenement": 13,
       "dateHeure": "2024-10-26T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -9152,6 +9255,13 @@
             }
           ],
           "idFilmBoxoffice": 4301
+        },
+        {
+          "ordre": 2,
+          "idConf": 31067,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Natacha Thiéry ",
+          "duree": 60
         }
       ]
     },
@@ -9194,33 +9304,6 @@
       ]
     },
     {
-      "idSeance": 133863,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 476,
-          "idCategorie": 3406,
-          "titreCycle": "Michael Powell",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 31067,
-      "typeEvenement": 14,
-      "dateHeure": "2024-10-26T16:30:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 31067,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Natacha Thiéry ",
-          "duree": 60
-        }
-      ]
-    },
-    {
       "idSeance": 134044,
       "idProg": 182,
       "idCycleCategories": [
@@ -9233,7 +9316,7 @@
       ],
       "idEvenement": 31145,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-26T16:30:00",
+      "dateHeure": "2024-10-26T16:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -9249,7 +9332,9 @@
             {
               "idCopie": 28293,
               "duree": 79,
-              "format": "DCP"
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 174794
@@ -9295,6 +9380,44 @@
       ]
     },
     {
+      "idSeance": 134045,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31133,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-26T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41957,
+          "titre": "Chemin de l'espérance",
+          "art": "Le",
+          "titreVo": "Cammino della speranza",
+          "artVo": "Il",
+          "realisateurs": "Pietro Germi",
+          "annee": 1950,
+          "adaptation": "D'après le roman _Cuori negli abissi_ de Nino Di Maria.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28292,
+              "duree": 99,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 34090
+        }
+      ]
+    },
+    {
       "idSeance": 134072,
       "idProg": 182,
       "idCycleCategories": [
@@ -9307,7 +9430,7 @@
       ],
       "idEvenement": 21688,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-26T18:15:00",
+      "dateHeure": "2024-10-26T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -9378,44 +9501,6 @@
       ]
     },
     {
-      "idSeance": 134045,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 803,
-          "idCategorie": 3414,
-          "titreCycle": "Pietro Germi",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31133,
-      "typeEvenement": 13,
-      "dateHeure": "2024-10-26T20:15:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 41957,
-          "titre": "Chemin de l'espérance",
-          "art": "Le",
-          "titreVo": "Cammino della speranza",
-          "artVo": "Il",
-          "realisateurs": "Pietro Germi",
-          "annee": 1950,
-          "adaptation": "D'après le roman _Cuori negli abissi_ de Nino Di Maria.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28292,
-              "duree": 99,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 34090
-        }
-      ]
-    },
-    {
       "idSeance": 134073,
       "idProg": 182,
       "idCycleCategories": [
@@ -9428,7 +9513,7 @@
       ],
       "idEvenement": 21692,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-26T20:30:00",
+      "dateHeure": "2024-10-26T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -9481,7 +9566,8 @@
           "titreNx": "崖の上のポニョ",
           "realisateurs": "Hayao Miyazaki",
           "annee": 2008,
-          "synopsis": "Un petit garçon découvre une créature magique, mi-poisson rouge, mi-petite fille. Mais l'amitié naissante entre les deux enfants déclenche la rage du Seigneur des fonds marins, qui provoque une terrible tempête.",
+          "ageMinimal": 4,
+          "synopsisJP": "L'amitié entre un fils de pêcheur et un poisson magique, dont le rêve est de se transformer en petite fille, déclenche la fureur du Seigneur de la Mer. Le mythe de la Petite Sirène revisité avec toute la beauté du trait et des couleurs de Miyazaki, qui s'inspire de l'aquarelle pour composer un poème d'animation. Un incontournable des studios Ghibli.",
           "status": 2,
           "copies": [
             {
@@ -9492,6 +9578,41 @@
             }
           ],
           "idFilmBoxoffice": 127194
+        }
+      ]
+    },
+    {
+      "idSeance": 134075,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31140,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-27T16:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54730,
+          "titre": "Meurtre à l'italienne",
+          "titreVo": "Un maledetto imbroglio",
+          "realisateurs": "Pietro Germi",
+          "annee": 1959,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28295,
+              "duree": 115,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 3448
         }
       ]
     },
@@ -9587,7 +9708,7 @@
       ]
     },
     {
-      "idSeance": 134046,
+      "idSeance": 134047,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -9597,31 +9718,23 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31129,
+      "idEvenement": 31144,
       "typeEvenement": 13,
       "dateHeure": "2024-10-27T18:30:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 41967,
-          "titre": "Au nom de la loi",
-          "titreVo": "In nome della legge",
+          "idFilm": 64403,
+          "titre": "Témoin",
+          "art": "Le",
+          "titreVo": "Testimone",
+          "artVo": "Il",
           "realisateurs": "Pietro Germi",
-          "annee": 1949,
-          "dureeStd": 99,
-          "generique": "Massimo Girotti, Jone Salinas, Charles Vanel, Camillo Mastrocinque",
-          "adaptation": "D'après le roman _Piccola pretura_ de Giuseppe Guido Lo Schiavo.",
-          "synopsis": "Un juge d'instruction nouvellement arrivé en Sicile se heurte à la mafia. Avant de quitter l'île, il décide d'élucider un crime qu'il refuse de laisser impuni.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28296,
-              "duree": 101,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 16928
+          "annee": 1948,
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 208728
         }
       ]
     },
@@ -9699,37 +9812,6 @@
             }
           ],
           "idFilmBoxoffice": 4302
-        }
-      ]
-    },
-    {
-      "idSeance": 134047,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 803,
-          "idCategorie": 3414,
-          "titreCycle": "Pietro Germi",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31144,
-      "typeEvenement": 13,
-      "dateHeure": "2024-10-27T20:45:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 64403,
-          "titre": "Témoin",
-          "art": "Le",
-          "titreVo": "Testimone",
-          "artVo": "Il",
-          "realisateurs": "Pietro Germi",
-          "annee": 1948,
-          "status": 0,
-          "copies": [],
-          "idFilmBoxoffice": 208728
         }
       ]
     },
@@ -10493,8 +10575,10 @@
           "realisateurs": "Paul Grimault",
           "annee": 1980,
           "generique": "Roger Blin, Raymond Bussières, Philippe Derrez",
-          "adaptation": "D'après le conte _La Bergère et la ramoneur_ de Hans Christian Andersen.",
+          "adaptation": "D'après le conte _La Bergère et le Ramoneur_ de Hans Christian Andersen.",
+          "ageMinimal": 6,
           "synopsis": "Au royaume de Takicardie, le roi Charles- V-Et-Trois-Font-Huit-Et-Huit-Font-Seize règne en tyran. Mais un oiseau narquois et insaisissable se moque de son pouvoir, et prend sous son aile deux jeunes amoureux, une bergère et un petit ramoneur.",
+          "synopsisJP": "Un oiseau moqueur provoque le tyran qui règne sur la Tachycardie, et prend sous son aile deux jeunes amoureux. D'après _La Bergère et le Ramoneur_ d'Andersen, une merveille de poésie visuelle (les dessins plein de finesse de Grimault) et orale (les textes de Prévert). Une vision du monde mélancolique, et l'une des inspirations majeures pour Miyazaki et Takahata.",
           "status": 2,
           "copies": [
             {
@@ -10793,8 +10877,8 @@
           "annee": 2002,
           "generique": "Franck Dubosc, Céline Monsarrat, Kevin Sommier",
           "ageMinimal": 4,
-          "synopsis": "Marin, le poisson clown réussira-t-il à traverser tout l'océan pour retrouver son fiston ? Visite des fonds marins avec à la clé de belles rencontres, du requin végétarien à la tortue super cool !",
-          "status": 0,
+          "synopsisJP": "Les aventures d'un poisson-clown, parti à la recherche de son fils à travers l'océan, où il rencontre des créatures tantôt amicales, tantôt féroces. Pour les enfants, une merveille colorée sur le monde subaquatique, et pour les cinéphiles, une ribambelle de références (un requin nommé Bruce, des clins d'œil à Kubrick ou Hitchcock...). Un délice, parfaitement réalisé, signé Pixar.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 8212,
@@ -11333,8 +11417,9 @@
           "generique": "Conrad Veidt, Sabu, John Justin",
           "ageMinimal": 8,
           "synopsis": "Après avoir été trompé et chassé de Bagdad par le diabolique Jaffra, le roi Ahmad unit ses forces à un voleur nommé Abu pour récupérer son trône, sa ville et la princesse qu'il aime.",
+          "synopsisJP": "Pour se débarrasser du machiavélique Jaffar, récupérer son trône et la princesse qu'il aime, le roi Ahmad unit ses forces à un voleur malicieux nommé Abu. Un film en forme de livre d'images féériques, aux incroyables effets visuels (première utilisation d'un fond vert), qui inspirera Walt Disney pour son dessin animé _Aladdin_.",
           "commentaire": "Après avoir acquis les droits du film réalisé par Raoul Walsh en 1929, avec Douglas Fairbanks, Alexandre Korda confie à Ludwig Berger, puis à Michael Powell et Tim Whelan, la mise en scène de son _Voleur de Bagdad_. Le tournage, qui se déroule dans les studios britanniques de Denham en 1939, est interrompu par la guerre. Il se poursuit en 1940 à Hollywood et dans le Grand Canyon, avec deux réalisateurs supplémentaires (non crédités). Le jeune Sabu partage l'affiche avec le brillant Conrad Veidt. La féerie exotique de l'œuvre est appuyée par ses couleurs éclatantes et ses multiples effets spéciaux. La photographie en Technicolor de Georges Périnal sera récompensée par un Oscar en 1941.\n\nMarion Langlois",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 8456,
@@ -11655,6 +11740,7 @@
           "adaptation": "D'après la comédie musicale _West Side Story_ de Leonard Bernstein, Stephen Sondheim et Arthur Laurents.",
           "ageMinimal": 10,
           "synopsis": "Dans le West Side, bas quartier de New York, deux bandes de jeunes s'affrontent, les Sharks de Bernardo et les Jets de Riff. Un ancien membre des Jets, Tony, s'éprend de Maria, la sœur de Bernardo.",
+          "synopsisJP": "À New York, deux gangs rivaux, les Jets et les Sharks, s'affrontent dans des chorégraphies éblouissantes, sur la célèbre partition de Leonard Bernstein, tandis que Tony et Maria tentent de vivre leur amour naissant. Racisme, rivalités ethniques, rêve américain : la version moderne de _Roméo et Juliette_ aux 10 Oscars, devenue culte.",
           "status": 2,
           "copies": [
             {
@@ -11969,8 +12055,9 @@
           "generique": "Conrad Veidt, Sabu, John Justin",
           "ageMinimal": 8,
           "synopsis": "Après avoir été trompé et chassé de Bagdad par le diabolique Jaffra, le roi Ahmad unit ses forces à un voleur nommé Abu pour récupérer son trône, sa ville et la princesse qu'il aime.",
+          "synopsisJP": "Pour se débarrasser du machiavélique Jaffar, récupérer son trône et la princesse qu'il aime, le roi Ahmad unit ses forces à un voleur malicieux nommé Abu. Un film en forme de livre d'images féériques, aux incroyables effets visuels (première utilisation d'un fond vert), qui inspirera Walt Disney pour son dessin animé _Aladdin_.",
           "commentaire": "Après avoir acquis les droits du film réalisé par Raoul Walsh en 1929, avec Douglas Fairbanks, Alexandre Korda confie à Ludwig Berger, puis à Michael Powell et Tim Whelan, la mise en scène de son _Voleur de Bagdad_. Le tournage, qui se déroule dans les studios britanniques de Denham en 1939, est interrompu par la guerre. Il se poursuit en 1940 à Hollywood et dans le Grand Canyon, avec deux réalisateurs supplémentaires (non crédités). Le jeune Sabu partage l'affiche avec le brillant Conrad Veidt. La féerie exotique de l'œuvre est appuyée par ses couleurs éclatantes et ses multiples effets spéciaux. La photographie en Technicolor de Georges Périnal sera récompensée par un Oscar en 1941.\n\nMarion Langlois",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 27054,
@@ -14360,9 +14447,9 @@
           "realisateurs": "James Whale",
           "annee": 1933,
           "generique": "Claude Rains, Gloria Stuart, William Harrigan",
-          "adaptation": "D'après le roman _L'homme invisible_ de H.G. Wells.",
-          "synopsis": "Le docteur Jack Griffin, a découvert le secret de l'invisibilité grâce au « monocane »...",
-          "status": 0,
+          "adaptation": "D'après le roman _L'Homme invisible_ de H. G. Wells.",
+          "synopsisJP": "Un scientifique, qui a trouvé comment devenir invisible mais se retrouve incapable de mettre au point l'antidote, dérive vers la violence et la folie. Bourré d'humour noir et de morceaux d'épouvante, avec sa photo magnifique et ses trucages ingénieux, un classique du cinéma fantastique qui n'a pas pris une ride.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 13792,
