@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-03T15:11:54.331Z",
+  "updatedAt": "2024-06-04T07:33:28.833Z",
   "data": [
     {
       "idSeance": 128873,
@@ -7523,7 +7523,7 @@
       ]
     },
     {
-      "idSeance": 130895,
+      "idSeance": 130894,
       "idProg": 179,
       "idCycleCategories": [
         {
@@ -7531,36 +7531,50 @@
           "idCategorie": 3340,
           "titreCycle": "La Shaw Brothers et le kung-fu",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 779,
+          "idCategorie": 3347,
+          "titreCycle": "La Shaw Brothers et le kung-fu",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
-      "idEvenement": 30526,
-      "typeEvenement": 13,
-      "dateHeure": "2024-07-06T14:30:00",
+      "idEvenement": 30515,
+      "dateHeure": "2024-07-06T14:59:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154778,
-          "titre": "Vengeance des infirmes",
-          "art": "La",
-          "titreVo": "Can que",
-          "titreNx": "殘缺",
+          "idFilm": 154794,
+          "titre": "Justicier de Shanghaï",
+          "art": "Le",
+          "titreVo": "Ma Yong Zhen",
+          "titreNx": "馬永貞",
           "realisateurs": "Chang Cheh",
-          "annee": 1978,
-          "duree": 104,
-          "generique": "Chen Kuan-tai, Lo Mang, Chiang Sheng",
-          "miniTexte": "Quelques mois après les _Cinq Venins mortels_, Chang Cheh retrouve le Venom Mob, cette troupe d'acteurs chorégraphes constituée à l'école de l'opéra de Pékin qui redonna un sérieux coup de fouet à son cinéma à la fin des années 70. Et, avec eux, signe un _kung-fu pian_ délirant de brutalité, dont la première scène donne le ton (la mutilation d'une mère et de son jeune fils).",
+          "annee": 1972,
+          "duree": 134,
+          "generique": "Chen Kuan-tai, Cheng Hong-yip, David Chiang",
+          "miniTexte": "L'ascension d'un jeune homme intègre au sein de la mafia, filmée avec une fureur opératique qui évoque, dans ses meilleurs moments, les westerns crépusculaires de la fin des années 60. Le final, épique, monumental, a des accents de _Scarface_ (version De Palma) avant l'heure. Pour l'histoire, deux cinéastes de renom font ici leurs débuts en tant qu'assistants réalisateurs : Godfrey Ho et John Woo.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27755,
-              "duree": 104,
+              "idCopie": 27747,
+              "duree": 134,
               "format": "DCP",
               "version": "VO",
               "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 49992
+          "idFilmBoxoffice": 61574
+        },
+        {
+          "ordre": 2,
+          "idConf": 30574,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Christophe Gans",
+          "texte": "De tous les films réalisés par Chang Cheh, _Le Justicier de Shanghaï_ (sorti sous le titre _La Brute, le Bonze et le Méchant_) était le plus avidement recherché. En 1976, il passait fort peu dans les salles : son interdiction aux moins de 18 ans en avait fait une rareté. De fait, ce film d'une réelle profondeur thématique est resté le plus apocalyptique de la filmo pourtant dévastatrice du cinéaste. Considéré à juste titre comme l'équivalent chinois de _La Horde sauvage_, il organise le plus grand massacre à mains nues jamais chorégraphié à la Shaw pour atteindre à une sauvagerie épique qui peut paraître, si l'on ne connait pas les obsessions de son auteur, étrangement sensuelle. Pas étonnant que John Woo ait été premier assistant sur ce monument écarlate... — Christophe Gans",
+          "duree": 60
         }
       ]
     },
@@ -7653,34 +7667,6 @@
         }
       ],
       "mention": "Séance présentée par Adirley Queirós"
-    },
-    {
-      "idSeance": 130810,
-      "idProg": 179,
-      "idCycleCategories": [
-        {
-          "idCycle": 779,
-          "idCategorie": 3347,
-          "titreCycle": "La Shaw Brothers et le kung-fu",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 30574,
-      "typeEvenement": 14,
-      "dateHeure": "2024-07-06T16:45:00",
-      "typeConference": "Dialogue",
-      "idSalle": "GF",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 30574,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Christophe Gans",
-          "texte": "De tous les films réalisés par Chang Cheh, _Le Justicier de Shanghaï_ (sorti sous le titre _La Brute, le Bonze et le Méchant_) était le plus avidement recherché. En 1976, il passait fort peu dans les salles : son interdiction aux moins de 18 ans en avait fait une rareté. De fait, ce film d'une réelle profondeur thématique est resté le plus apocalyptique de la filmo pourtant dévastatrice du cinéaste. Considéré à juste titre comme l'équivalent chinois de _La Horde sauvage_, il organise le plus grand massacre à mains nues jamais chorégraphié à la Shaw pour atteindre à une sauvagerie épique qui peut paraître, si l'on ne connait pas les obsessions de son auteur, étrangement sensuelle. Pas étonnant que John Woo ait été premier assistant sur ce monument écarlate... — Christophe Gans",
-          "duree": 60
-        }
-      ]
     },
     {
       "idSeance": 133596,
@@ -7980,7 +7966,7 @@
       "mention": "Séance présentée par Adirley Queirós"
     },
     {
-      "idSeance": 130894,
+      "idSeance": 130895,
       "idProg": 179,
       "idCycleCategories": [
         {
@@ -7988,36 +7974,50 @@
           "idCategorie": 3340,
           "titreCycle": "La Shaw Brothers et le kung-fu",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 779,
+          "idCategorie": 3347,
+          "titreCycle": "La Shaw Brothers et le kung-fu",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
-      "idEvenement": 30515,
-      "typeEvenement": 13,
+      "idEvenement": 30526,
       "dateHeure": "2024-07-07T17:00:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154794,
-          "titre": "Justicier de Shanghaï",
-          "art": "Le",
-          "titreVo": "Ma Yong Zhen",
-          "titreNx": "馬永貞",
+          "idFilm": 154778,
+          "titre": "Vengeance des infirmes",
+          "art": "La",
+          "titreVo": "Can que",
+          "titreNx": "殘缺",
           "realisateurs": "Chang Cheh",
-          "annee": 1972,
-          "duree": 134,
-          "generique": "Chen Kuan-tai, Cheng Hong-yip, David Chiang",
-          "miniTexte": "L'ascension d'un jeune homme intègre au sein de la mafia, filmée avec une fureur opératique qui évoque, dans ses meilleurs moments, les westerns crépusculaires de la fin des années 60. Le final, épique, monumental, a des accents de _Scarface_ (version De Palma) avant l'heure. Pour l'histoire, deux cinéastes de renom font ici leurs débuts en tant qu'assistants réalisateurs : Godfrey Ho et John Woo.",
+          "annee": 1978,
+          "duree": 104,
+          "generique": "Chen Kuan-tai, Lo Mang, Chiang Sheng",
+          "miniTexte": "Quelques mois après les _Cinq Venins mortels_, Chang Cheh retrouve le Venom Mob, cette troupe d'acteurs chorégraphes constituée à l'école de l'opéra de Pékin qui redonna un sérieux coup de fouet à son cinéma à la fin des années 70. Et, avec eux, signe un _kung-fu pian_ délirant de brutalité, dont la première scène donne le ton (la mutilation d'une mère et de son jeune fils).",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27747,
-              "duree": 134,
+              "idCopie": 27755,
+              "duree": 104,
               "format": "DCP",
               "version": "VO",
               "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 61574
+          "idFilmBoxoffice": 49992
+        },
+        {
+          "ordre": 2,
+          "idConf": 30573,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Stéphane du Mesnildot",
+          "texte": "Comme dans _La Rage du tigre_, la mutilation du héros chez Chang Cheh mène à sa reconstruction surhumaine et la rencontre décisive avec son frère de sang. _La Vengeance des infirmes_ pousse ce principe jusqu'au délire puisque les culs-de-jatte, manchots, sourds-muets ou idiots, s'associent pour former un corps invincible. Beau comme la rencontre dans les studios de la Shaw Brothers entre Tod Browning et le film de sabre. — Stéphane du Mesnildot",
+          "duree": 60
         }
       ]
     },
@@ -8060,34 +8060,6 @@
       "mention": "Séance présentée par Adirley Queirós et Joanna Pimenta"
     },
     {
-      "idSeance": 130747,
-      "idProg": 179,
-      "idCycleCategories": [
-        {
-          "idCycle": 779,
-          "idCategorie": 3347,
-          "titreCycle": "La Shaw Brothers et le kung-fu",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 30573,
-      "typeEvenement": 14,
-      "dateHeure": "2024-07-07T18:45:00",
-      "typeConference": "Dialogue",
-      "idSalle": "GF",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 30573,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Stéphane du Mesnildot",
-          "texte": "Comme dans _La Rage du tigre_, la mutilation du héros chez Chang Cheh mène à sa reconstruction surhumaine et la rencontre décisive avec son frère de sang. _La Vengeance des infirmes_ pousse ce principe jusqu'au délire puisque les culs-de-jatte, manchots, sourds-muets ou idiots, s'associent pour former un corps invincible. Beau comme la rencontre dans les studios de la Shaw Brothers entre Tod Browning et le film de sabre. — Stéphane du Mesnildot",
-          "duree": 60
-        }
-      ]
-    },
-    {
       "idSeance": 130761,
       "idProg": 179,
       "idCycleCategories": [
@@ -8100,7 +8072,7 @@
       ],
       "idEvenement": 30523,
       "typeEvenement": 13,
-      "dateHeure": "2024-07-07T20:45:00",
+      "dateHeure": "2024-07-07T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -8511,12 +8483,18 @@
           "idCategorie": 3332,
           "titreCycle": "Road Movie, USA, 25 indispensables",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 773,
+          "idCategorie": 3346,
+          "titreCycle": "Road Movie, USA, 25 indispensables",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 30397,
-      "typeEvenement": 13,
       "dateHeure": "2024-07-11T19:00:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -8540,6 +8518,14 @@
             }
           ],
           "idFilmBoxoffice": 6472
+        },
+        {
+          "ordre": 2,
+          "idConf": 30572,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Robert M. Rubin",
+          "texte": "_Point limite zéro_ est le film ultime de course-poursuite automobile, avec ce _je-ne-sais-quoi_ en plus. Écrit par le célèbre romancier cubain Guillermo Cabrera Infante sous le pseudonyme de Guillermo Cain, c'est la saga d'un vétéran du Vietnam accro à la vitesse, en fuite existentielle à bord d'une Dodge Challenger. C'est aussi un western moderne, une allégorie dystopique sur notre société de surveillance et une lettre d'amour aux moteurs surgonflés (_muscle cars_), le tout en un seul film. Pas étonnant qu'il soit devenu culte, adulé et cité comme référence par Quentin Tarantino, Steven Spielberg, Bruce Springsteen, Richard Prince, Guns'n'Roses, Primal Scream, Audioslave, et tant d'autres. — Robert M. Rubin",
+          "duree": 60
         }
       ]
     },
@@ -8577,34 +8563,6 @@
             }
           ],
           "idFilmBoxoffice": 131026
-        }
-      ]
-    },
-    {
-      "idSeance": 130688,
-      "idProg": 179,
-      "idCycleCategories": [
-        {
-          "idCycle": 773,
-          "idCategorie": 3346,
-          "titreCycle": "Road Movie, USA, 25 indispensables",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 30572,
-      "typeEvenement": 14,
-      "dateHeure": "2024-07-11T20:45:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 30572,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Robert M. Rubin",
-          "texte": "_Point limite zéro_ est le film ultime de course-poursuite automobile, avec ce _je-ne-sais-quoi_ en plus. Écrit par le célèbre romancier cubain Guillermo Cabrera Infante sous le pseudonyme de Guillermo Cain, c'est la saga d'un vétéran du Vietnam accro à la vitesse, en fuite existentielle à bord d'une Dodge Challenger. C'est aussi un western moderne, une allégorie dystopique sur notre société de surveillance et une lettre d'amour aux moteurs surgonflés (_muscle cars_), le tout en un seul film. Pas étonnant qu'il soit devenu culte, adulé et cité comme référence par Quentin Tarantino, Steven Spielberg, Bruce Springsteen, Richard Prince, Guns'n'Roses, Primal Scream, Audioslave, et tant d'autres. — Robert M. Rubin",
-          "duree": 60
         }
       ]
     },
