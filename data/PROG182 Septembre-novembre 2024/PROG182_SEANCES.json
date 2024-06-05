@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-04T07:31:40.756Z",
+  "updatedAt": "2024-06-05T08:50:38.083Z",
   "data": [
     {
       "idSeance": 130975,
@@ -115,7 +115,7 @@
             {
               "idCopie": 28222,
               "duree": 74,
-              "format": "16 mm",
+              "format": "35 mm",
               "version": "VO",
               "stDemande": true
             }
@@ -227,15 +227,15 @@
           "titre": "Tarnished Lady",
           "realisateurs": "George Cukor",
           "annee": 1931,
-          "duree": 80,
+          "duree": 65,
           "generique": "Tallulah Bankhead, Clive Brook, Phoebe Foster",
           "miniTexte": "Débuts en solo derrière la caméra pour Cukor, premier film parlant de la star de Broadway Tallulah Bankhead. Issue d'une famille aisée désormais ruinée, une mondaine épouse un homme fortuné, qu'elle n'aime évidemment pas. Derrière le mélo classique, une étude sur les apparences sociales dans la bonne société new-yorkaise, rehaussée de l'humour cassant du cinéaste.",
           "status": 2,
           "copies": [
             {
               "idCopie": 28224,
-              "duree": 80,
-              "format": "16 mm",
+              "duree": 65,
+              "format": "35 mm",
               "version": "VO",
               "stDemande": true
             }
@@ -4131,6 +4131,11 @@
               "idCopie": 28171,
               "duree": 102,
               "format": "35 mm"
+            },
+            {
+              "idCopie": 28328,
+              "duree": 102,
+              "format": "35 mm"
             }
           ],
           "idFilmBoxoffice": 57667
@@ -4377,7 +4382,7 @@
               "sousTitres": "STF"
             },
             {
-              "idCopie": 10454,
+              "idCopie": 28331,
               "duree": 123,
               "format": "16 mm",
               "version": "VO"
@@ -4556,11 +4561,6 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 28081,
-              "duree": 5,
-              "format": "35 mm"
-            },
-            {
               "idCopie": 28169,
               "duree": 5,
               "format": "DCP"
@@ -4652,6 +4652,11 @@
           "copies": [
             {
               "idCopie": 28170,
+              "duree": 105,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 28329,
               "duree": 105,
               "format": "35 mm"
             }
@@ -4810,7 +4815,8 @@
           "copies": [
             {
               "idCopie": 28176,
-              "duree": 95
+              "duree": 95,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 253236
@@ -9034,7 +9040,8 @@
           "generique": "Deborah Kerr, Sabu, David Farrar",
           "adaptation": "D'après le roman _Le Narcisse noir_ de Rumer Godden.",
           "synopsis": "Suite à l'ouverture d'un couvent sur les contreforts de l'Himalaya, cinq sœurs anglicanes rencontrent des difficultés à s'adapter à leur nouvel environnement.",
-          "status": 1,
+          "miniTexte": "Une communauté religieuse est envoyée dans un couvent niché en haut de l'Himalaya. Adapté d'un roman de Rumer Godden, _Le Narcisse noir_ prend le contre-pied des films consacrés à la foi avec une réflexion sur les émotions humaines. Powell compose un ensemble d'images inoubliables, fortes d'un sens du cadrage et de la couleur sensationnels, et où Deborah Kerr irradie en sœur supérieure. Au gré de rapports de force inversés, allant jusqu'à la folie, il distille un érotisme lancinant dans un microcosme coupé du monde, mais pas de ses tentations.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 8430,
@@ -9158,7 +9165,8 @@
           "duree": 55,
           "generique": "Mark Dightam, Robert Eddison, Helen Weir",
           "synopsis": "John, qui vient de perdre sa petite souris, n'est pas très attentif à son cours d'électricité. Lorsqu'en rêve il devient jaune, il fait cependant la connaissance de Nick, qui va beaucoup lui apprendre.",
-          "status": 1,
+          "miniTexte": "La métamorphose inattendue d'un garçonnet londonien, qui devient jaune après avoir perdu sa souris de compagnie lors d'une excursion scolaire. Conçue pour la Children's Film Foundation, la dernière collaboration de Powell et Pressburger sublime la force de la narration et du cinéma. Une fantaisie à visée éducative, d'une touchante simplicité.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20277,
@@ -9274,7 +9282,8 @@
           "duree": 10,
           "generique": "Ralph Richardson, Flora Robson, Allan Jeayes",
           "synopsis": "Docu-fiction, le film présente, à travers l'histoire de John Smith, le rôle d'un organisme d'aide aux vétérans de l'armée. (Attention : 1 source WIKI)",
-          "status": 1,
+          "miniTexte": "Court métrage réalisé par Powell pour promouvoir une organisation caritative qui aidait les anciens militaires en difficulté. Découvert en 2003, le film a connu sa première projection publique un an plus tard, à Canterbury, près de 65 ans après son tournage.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 27051,
@@ -9293,8 +9302,8 @@
           "annee": 1941,
           "duree": 6,
           "generique": "John Gielgud",
-          "synopsis": "Lecture d'une lettre qu'un pilote de la Royal Air Force a écrit à sa mère à propos de son engagement, et parue dans le _Times_ de Londres.",
-          "status": 1,
+          "miniTexte": "Court métrage de propagande britannique, basé sur la lettre d'un pilote de bombardier adressée à sa mère, et publiée dans le _Times_ en juin 1940. Powell participe à l'effort de guerre avec une lecture poignante, portée par la voix de John Gielgud.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20291,
@@ -9315,7 +9324,8 @@
           "duree": 24,
           "generique": "Pat McGrath, Michael Powell, Ralph Richardson",
           "synopsis": "Commandé par le gouvernement britannique, ce film de propagande retrace l'histoire d'un habilleur devenu héros de guerre.",
-          "status": 1,
+          "miniTexte": "L'habilleur maladroit d'un célèbre acteur devient un héros après s'être engagé dans l'armée. Réalisé pendant la Seconde Guerre mondiale, _The Volunteer_ loue les qualités de la Fleet Air Arm à travers l'itinéraire d'un jeune inconstant, qui creuse sa voie dans le monde militaire. Une piquante propagande de recrutement aux nombreuses saillies humoristiques.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20429,
@@ -9344,7 +9354,8 @@
           "duree": 13,
           "adaptation": "D'après le poème _L'Apprenti sorcier_ de Goethe.",
           "synopsis": "Ballet dansé par Sonia Arova et le corps de ballet de l'Opéra d'État de Hambourg, d'après le poème de Goethe.",
-          "status": 1,
+          "miniTexte": "Après _Les Chaussons rouges_, Powell filme à nouveau la danse, avec une captation du ballet _L'Apprenti sorcier_, interprété par Sonia Arova et le corps de ballet de l'Opéra d'État de Hambourg. Une première, tournée en CinémaScope.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 27069,
@@ -9450,8 +9461,9 @@
           "annee": 1941,
           "duree": 123,
           "generique": "Richard George, Eric Portman, Raymond Lovell",
-          "synopsis": "Après que leur sous-marin ait été bombardé par les canadiens, six nazis se retrouvent seuls sur le territoire nord-américain. Ils tentent alors de rejoindre les Etats-Unis neutres pour retourner en Allemagne.",
-          "status": 1,
+          "synopsis": "Après que leur sous-marin a été bombardé par les canadiens, six nazis se retrouvent seuls sur le territoire nord-américain. Ils tentent alors de rejoindre les Etats-Unis neutres pour retourner en Allemagne.",
+          "miniTexte": "Devenu une référence avec _L'Espion noir_ et _Le Voleur de Bagdad_, Powell est appelé par le gouvernement de Churchill pour réaliser une fiction de propagande. Dans _49<sup>e</sup> Parallèle_, il suit un groupe de rescapés nazis, perdus sur une côte canadienne, qui tentent de rentrer au pays. Une œuvre ambitieuse, montée par David Lean, Oscar du meilleur scénario en 1941.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20230,
@@ -9543,7 +9555,7 @@
               "duree": 88,
               "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 36184
@@ -9577,6 +9589,7 @@
           "generique": "Dirk Bogarde, Cyril Cusack, Marius Goring",
           "adaptation": "D'après le récit _Ill Met by Moonlight_ de W. Stanley Moss.",
           "synopsis": "En 1941, dans la Crète occupée, un général allemand se fait kidnapper par les services secrets britanniques.",
+          "miniTexte": "L'histoire vraie de l'enlèvement en Crète d'Heinrich Kreipe, général de division allemand, par des résistants. D'après le récit _I'll Met by Moonlight_de W. Stanley Moss, Powell s'empare d'un épisode méconnu de la Seconde Guerre mondiale pour offrir deux partitions d'ampleur à Dick Bogarde et David Oxley, sur fond d'époustouflants paysages crétois.",
           "status": 2,
           "copies": [
             {
@@ -9707,7 +9720,7 @@
           "annee": 1945,
           "duree": 91,
           "generique": "Wendy Hiller, Roger Livesey, Pamela Brown",
-          "synopsis": "Joan, jeune femme ambitieuse, doit rejoindre sur une île écossaise isolée le riche industriel qu'elle s'apprête à épouser. Mais le brouillard empêche la traversée, et la jeune femme fait la connaissance d'un jeune officier de marine qui doit aussi se rendre sur l'île.",
+          "miniTexte": "Joan Webster sait ce qu'elle veut et où elle va, mais le trajet vers son destin est parsemé d'imprévus et de remises en question. Sur une idée de sa propre femme, Frankie, Powell utilise une chanson irlandaise, _I Know Where I'm Going_, comme point de départ d'un conte gaélique dans les brumes écossaises. Toute la malice du duo Powell et Pressburger exulte dans ce portrait pittoresque de l'Écosse profonde, dont les lumières crépusculaires et le folklore accompagnent à merveille cette histoire romanesque. Avec le superbe duo Roger Livesey et Wendy Hiller, en totale harmonie.",
           "status": 2,
           "copies": [
             {
@@ -9848,7 +9861,7 @@
             {
               "idCopie": 28049,
               "duree": 85,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VO",
               "stDemande": true
             }
@@ -9923,8 +9936,8 @@
           "duree": 110,
           "generique": "Jennifer Jones, Esmond Knight, David Farrar",
           "adaptation": "D'après le roman _La Renarde_ de Mary Webb.",
-          "synopsis": "Au XIXe siecle, en Angleterre près du pays de Galles, Hazel Woodus vit en communion avec la nature. Elle a pour amie et confidente une renarde. Mais le châtelain, chasseur de renards, la poursuit, tandis que le pasteur du village la demande en mariage.",
-          "status": 1,
+          "miniTexte": "Dans l'Angleterre victorienne, une jeune femme éprise de liberté doit choisir entre une vie rangée auprès de son mari et la tentation de l'amour charnel. Volontiers flamboyant, _La Renarde_ a l'allure d'un poème cinématographique, capable d'associer motifs picturaux et sens du contraste. Un hymne à la nature, qui influencera Kate Bush pour son album _Hounds of Love_.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20278,
@@ -10012,7 +10025,8 @@
           "generique": "Anton Walbrook, Moira Shearer, Marius Goring",
           "adaptation": "D'après la nouvelle _De røde sko_ de Hans Christian Andersen.",
           "synopsis": "Quand Victoria, danseuse étoile des « Chaussons rouges », tombe amoureuse du compositeur de l'opéra, le cruel directeur va tout faire pour, au nom de l'art, séparer les deux jeunes amoureux.",
-          "status": 1,
+          "miniTexte": "Qualifié par De Palma de « film parfait », _Les Chaussons rouges_ orchestre la rencontre du fantastique avec la rigueur du monde de la danse. Sur un sujet angoissant, volontiers sombre, Powell extirpe un déluge de couleurs, de tulles et de paillettes pour exprimer la passion dévorante des artistes et le besoin de s'y abandonner corps et âme. D'une durée de dix-sept minutes, illuminée par la chevelure flamboyante de Moira Shearer, la superbe séquence de ballet, qui oscille entre surréalisme et grâce, résume, à elle seule, ce parcours aussi tétanisant que galvanisant vers le don de soi.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20216,
@@ -10210,7 +10224,7 @@
           "duree": 82,
           "generique": "Conrad Veidt, Sebastian Shaw, Valerie Hobson",
           "adaptation": "D'après le roman _The Spy in Black_ de Joseph Storer Clouston.",
-          "synopsis": "Le capitaine d'un sous-marin allemand accepte le rôle déshonorant de recueillir des renseignements fournis par une espionne.",
+          "miniTexte": "Première collaboration entre Powell et son fidèle comparse, Emeric Pressburger, crédité comme scénariste. Dans cette adaptation du roman de Joseph Storer Clouston, le cinéaste adopte le point de vue de l'ennemi allemand et multiplie les rebondissements, loin de tout manichéisme. Un classique du film d'espionnage, porté par la fantastique prestation de Conrad Veidt (_Le Cabinet du docteur Caligari_).",
           "status": 2,
           "copies": [
             {
@@ -10329,7 +10343,8 @@
           "duree": 104,
           "generique": "David Niven, Kim Hunter, Marius Goring",
           "synopsis": "Alors que son bombardier prend feu, le commandant Peter Carter s'en sort indemne. Peu de temps après, son guide céleste vient néanmoins le trouver, lui expliquant qu'il n'est pas parvenu à le trouver dans le brouillard. Il tente alors de le convaincre de le suivre au paradis.",
-          "status": 1,
+          "miniTexte": "Pendant la Seconde Guerre mondiale, un aviateur en détresse obtient un sursis de l'univers pour retrouver la femme dont il vient de tomber amoureux. Powell réussit miraculeusement à transformer le film de propagande en romance merveilleuse. Une célébration de la toute-puissance des sentiments, où le fantastique rencontre l'espoir et le hasard.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20223,
@@ -10362,14 +10377,17 @@
         {
           "ordre": 1,
           "idFilm": 107630,
-          "titre": "They're a Weird Mob",
+          "titre": "Conquête du bout du monde",
+          "art": "La",
+          "titreVo": "They're a Weird Mob",
           "realisateurs": "Michael Powell",
           "annee": 1965,
           "duree": 112,
           "generique": "Walter Chiari, Claire Dunne, Chips Rafferty",
           "adaptation": "D'après le roman _They're a Weird Mob_ de Nino Culotta.",
           "synopsis": "Nino, journaliste italien, découvre en arrivant en Australie que son cousin, pour qui il espérait écrire, s'est enfui, laissant un journal sans argent. Il se retrouve alors à travailler sur un chantier et découvre la vie des ouvriers.",
-          "status": 1,
+          "miniTexte": "Adaptation d'un roman australien populaire, initialement destinée à Gregory Peck. Rejeté par son pays après le scandale du _Voyeur_, Powell trouve une terre d'asile en Australie pour son avant-dernière collaboration avec Pressburger. Une vision pertinente du choc des cultures vécu par les expatriés durant les sixties.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20229,
@@ -10407,8 +10425,9 @@
           "duree": 98,
           "generique": "James Mason, Helen Mirren, Jack MacGowran",
           "adaptation": "D'après le roman _Age of Consent_ de Norman Lindsay.",
-          "synopsis": "Pour retrouver l'inspiration, un peintre décide de s'installer au large des cotes australiennes. Il y fait alors la connaissance d'un couple dont la petite fille, Cora, deviendra sa muse...",
-          "status": 1,
+          "synopsis": "Pour retrouver l'inspiration, un peintre décide de s'installer au large des cotes australiennes. Il y fait alors la connaissance d'un couple dont la petite fille, Cora, deviendra sa muse.",
+          "miniTexte": "Épuisé par la vie new-yorkaise, un peintre rentre chez lui, en Australie, et trouve l'inspiration auprès d'une jeune muse (Helen Mirren, dans son premier grand rôle). Tourné comme un diptyque avec _They're a Weird Mob_, et restauré en 2005 sous l'égide de Scorsese, _Age of Consent_ aborde frontalement l'ambition créatrice d'un homme vieillissant confronté à la perte de ses illusions.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20231,
@@ -10473,7 +10492,8 @@
           "annee": 1939,
           "generique": "Conrad Veidt, Valerie Hobson, Hay Petrie",
           "synopsis": "1940. Bloqué dans un port britannique, Andersen, capitaine danois d'un navire de commerce, se retrouve malgré lui dans une affaire d'espionnage.",
-          "status": 1,
+          "miniTexte": "Accusé de contrebande, un capitaine danois se retrouve piégé dans une affaire d'espionnage. Définitivement associés, Powell et Pressburger signent leur première véritable collaboration pour un espiègle jeu du chat et de la souris entre Conrad Veidt et Valerie Hobson. L'alliance réussie de la singularité nordique et du suspense hitchcockien.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20293,
@@ -10512,8 +10532,8 @@
           "duree": 110,
           "generique": "Carl-Gustaf Lindstedt, Sven Wollter, Thomas Hellberg",
           "adaptation": "D'après le roman _L'Abominable Homme de Säffle_ de Maj Sjöwall et Per Wahlöö.",
-          "synopsis": "Un homme a entrepris d'abattre systématiquement les policiers qui passeront à proximité de ses armes. Le commissaire Beck est chargé de l'enquête : il apparaît bientôt qu'un policier devient le principal suspect...",
-          "status": 1,
+          "miniTexte": "L'adaptation d'un incontournable du polar scandinave, autour du meurtre sauvage d'un commissaire connu pour sa violence et ses abus de pouvoir. Fidèle à l'esprit du livre de Sjöwall & Wahlöö, Widerberg signe un thriller haletant qui dénonce certaines tares de la société suédoise.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 9993,
@@ -10553,7 +10573,8 @@
           "annee": 1963,
           "duree": 95,
           "generique": "Inger Taube, Thommy Berggren, Lars Passgård",
-          "status": 1,
+          "miniTexte": "Premier film de Widerberg sous l'influence de la Nouvelle Vague. Entre deux aventures amoureuses, une jeune ouvrière se confronte à des choix difficiles lorsqu'elle apprend qu'elle est enceinte. Un portrait doux-amer du passage à l'âge adulte dans la Suède des années 60.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28155,
@@ -10593,8 +10614,8 @@
           "annee": 1942,
           "duree": 163,
           "generique": "Anton Walbrook, Deborah Kerr, Roger Livesey",
-          "synopsis": "A la suite d'un duel, Candy et Théo, respectivement anglais et allemand, se lient d'amitié l'un pour l'autre.",
-          "status": 1,
+          "miniTexte": "L'amitié indéfectible entre un Allemand et un Anglais (le formidable duo Walbrook/Livesey) à travers les turpitudes de la guerre. Avec un humour typiquement british, Powell crée une fresque romanesque irrésistible, faisant écho à sa propre relation avec Pressburger. Le film culte de Scorsese, également admiré par Tavernier et Melville, qui le considérait comme « le plus beau film du monde ».",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20203,
@@ -10646,7 +10667,8 @@
           "annee": 1964,
           "duree": 100,
           "generique": "Thommy Berggren, Emy Storm, Keve Hjelm",
-          "status": 1,
+          "miniTexte": "Inspirés de la vie du cinéaste, les états d'âme d'une jeunesse prise sur le vif. Après _Le Péché suédois_, Widerberg pousse plus loin le réalisme social pour décrire la classe ouvrière de son enfance. Dans un quartier pauvre de Malmö, en 1936, entouré d'un père alcoolique et d'une mère malheureuse, le jeune Anders rêve de devenir écrivain, alors que la Suède manque de basculer dans le nazisme. Une œuvre majeure, classée parmi les meilleurs films suédois de tous les temps.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28156,
@@ -10684,8 +10706,9 @@
           "annee": 1944,
           "duree": 125,
           "generique": "Eric Portman, Sheila Sim, Dennis Price",
-          "synopsis": "Rencontrés par hasard à la sortie d'un train, un sergent américain en permission, un soldat anglais et une jeune volontaire se retrouvent à enquêter sur des agressions qui ont lieu dans ce village aux abords de Canterbury...",
-          "status": 1,
+          "synopsis": "Rencontrés par hasard à la sortie d'un train, un sergent américain en permission, un soldat anglais et une jeune volontaire se retrouvent à enquêter sur des agressions qui ont lieu dans ce village aux abords de Canterbury.",
+          "miniTexte": "Sur la route de Canterbury, trois destins se croisent après la mystérieuse agression d'une jeune femme. Très vite, l'enquête est reléguée au second plan, simple prétexte pour réunir ses protagonistes autour d'un chemin commun. Attaché au Kent, la région de son enfance, Powell signe, en réalité, une ode à la campagne anglaise, un vibrant hommage à une communauté. Tout à la fois romance, film de guerre, portrait de femme ou encore essai spirituel, _A Canterbury Tale_ s'émerveille du spectacle de la nature élégiaque, où les moments anodins font sourdre une émotion ravageuse.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20234,
@@ -10723,7 +10746,8 @@
           "annee": 1969,
           "duree": 110,
           "generique": "Peter Schildt, Kerstin Tidelius, Roland Hedlund",
-          "miniTexte": "Bo Widerberg, dont les films ont été longtemps invisibles, après avoir marqué les années 70 du siècle passé, a été récemment redécouvert, réévalué, et remis à sa juste place, celle d'un des cinéastes importants de la modernité de son époque. Sans doute les cinéastes suédois de sa génération ont-ils subi d'être dans l'ombre de Bergman. Mais l'œuvre de Widerberg, empreinte d'humanisme, baignée des couleurs de l'impressionnisme comme l'a été celle de Maurice Pialat, ne pâlit pas de la comparaison ; après avoir été un disciple scandinave de la Nouvelle Vague avec des films aussi marquants que _Quartier du corbeau_, il trouve sa voie toute personnelle dans les œuvres lumineuses de sa maturité comme _Ådalen 31_, _Joe Hill_, ou _Elvira Madigan_. — Olivier Assayas",
+          "miniTexte": "Au début des années 30, une grève des dockers paralyse le nord de la Suède, tandis qu'une relation amoureuse se noue entre le fils d'un ouvrier et la fille du directeur de l'usine. Autour des événements tragiques d'Ådalen qui mèneront les sociaux-démocrates au pouvoir, Widerberg signe une chronique familiale et sentimentale d'une sensibilité à fleur de peau. Un tableau de la lutte des classes aussi minutieux que bouillonnant, qui sait merveilleusement mêler la colère des hommes à la beauté des petits gestes.",
+          "commentaire": "Bo Widerberg, dont les films ont été longtemps invisibles, après avoir marqué les années 70 du siècle passé, a été récemment redécouvert, réévalué, et remis à sa juste place, celle d'un des cinéastes importants de la modernité de son époque. Sans doute les cinéastes suédois de sa génération ont-ils subi d'être dans l'ombre de Bergman. Mais l'œuvre de Widerberg, empreinte d'humanisme, baignée des couleurs de l'impressionnisme comme l'a été celle de Maurice Pialat, ne pâlit pas de la comparaison ; après avoir été un disciple scandinave de la Nouvelle Vague avec des films aussi marquants que _Quartier du corbeau_, il trouve sa voie toute personnelle dans les œuvres lumineuses de sa maturité comme _Ådalen 31_, _Joe Hill_, ou _Elvira Madigan_. — Olivier Assayas",
           "status": 2,
           "copies": [
             {
@@ -10796,12 +10820,15 @@
         {
           "ordre": 1,
           "idFilm": 94773,
-          "titre": "Mannen fran Mallorca",
+          "titre": "Homme de Majorque",
+          "art": "L'",
+          "titreVo": "Mannen från Mallorca",
           "realisateurs": "Bo Widerberg",
           "annee": 1984,
           "duree": 106,
           "generique": "Sven Wollter, Tomas von Brömssen, Håkan Serner",
-          "status": 1,
+          "miniTexte": "Stockholm, 1977. Deux inspecteurs de la brigade des mœurs enquêtent sur le braquage d'un bureau de poste. Une plongée dans les zones troubles du pouvoir, adaptée de _La Fête du cochon_ de Leif G. W. Persson, célèbre criminologue et auteur de polars suédois.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28167,
@@ -10837,7 +10864,8 @@
           "annee": 1970,
           "duree": 113,
           "generique": "Thommy Berggren, Kelvin Malave, Cathy Smith",
-          "status": 1,
+          "miniTexte": "Formidable conteur de la classe ouvrière, Widerberg décrit la vie et la mort de Joseph Hillström, émigrant suédois, poète et militant qui participa aux luttes sociales des États-Unis au début du XX<sup>e</sup> siècle. Prix du Jury à Cannes, l'épopée lyrique d'un pionnier de la _protest song_, portée par l'excellent Thommy Berggren.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28154,
@@ -10876,8 +10904,8 @@
           "annee": 1958,
           "duree": 109,
           "generique": "Anthony Steel, Ludmilla Tcherina, Antonio Ruiz Soler",
-          "synopsis": "Deux jeunes mariés britanniques voyagent en Espagne. Ils y rencontrent par hasard Antonio, célèbre danseur, qui les fait voyager à travers le pays. Celui-ci se met alors en tête de faire remonter la jeune femme, ancienne danseuse, sur scène. (Attention : que 2 synopsis et pas très concordants. Voir à la bifi)",
-          "status": 1,
+          "miniTexte": "Une célèbre ballerine renonce à son art par amour, mais sa rencontre avec un danseur espagnol bouleverse ses certitudes. Réalisé à partir de deux ballets d'Antonio, _L'Amour Sorcier_ et _Les Amants de Teruel_, _Lune de miel_ – Grand Prix technique à Cannes en 1959 – voit le minimalisme de son intrigue mettre en valeur les danses espagnoles.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 27073,
@@ -10917,7 +10945,8 @@
           "duree": 110,
           "generique": "Daniel Massey, Robert Stephens, Raymond Massey",
           "synopsis": "Le film raconte l'histoire de John, fils d'un capitaine à la retraite devenu officier. Mais il n'est pas facile de marcher dans les pas de son frère aîné, ancien officier regretté de tous, y compris de John lui-même. (Attention : 1 seule source : WIKI ANG)",
-          "status": 1,
+          "miniTexte": "Après la controverse suscitée par _Le Voyeur_, Powell retrouve un récit plus conventionnel avec le portrait d'un soldat, qui suit les traces de son frère aîné, mort au combat. Pour la seule apparition de Daniel et Raymond Massey ensemble au cinéma, il porte à l'écran l'idée d'un ami proche, Simon Harcourt-Smith, manière de promouvoir le régiment de la Garde.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28203,
@@ -10961,7 +10990,8 @@
           "annee": 1967,
           "duree": 91,
           "generique": "Thommy Berggren, Pia Degermark, Lennart Malmer",
-          "status": 1,
+          "miniTexte": "D'après un célèbre fait divers qui défraya la chronique à la fin du XIX<sup>e</sup> siècle, la fugue amoureuse d'une funambule danoise et d'un lieutenant suédois, marié et père de deux enfants. Widerberg délaisse le noir et blanc et le naturalisme de la ville pour filmer un hymne à l'amour fou, dans une suite de tableaux impressionnistes aussi sensuels que bucoliques. Au cœur d'une nature hédoniste, le couple formé par Pia Degermark (Prix d'interprétation à Cannes) et Thommy Berggren savoure l'ivresse d'un bel été à l'éclat du bonheur éphémère. Le film est un tel succès à sa sortie que le Concerto pour piano n°21 de Mozart, qui en constitue l'espace sonore, ressort dans une édition titrée Elvira Madigan.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28153,
@@ -11000,7 +11030,8 @@
           "annee": 1965,
           "duree": 96,
           "generique": "Keve Hjelm, Ann-Marie Gyllenspetz, Inger Taube",
-          "status": 1,
+          "synopsis": "Avec la crise existentielle d'un cinéaste en mal d'inspiration, Widerberg reprend un thème déjà abordé deux ans plus tôt par Godard (_Le Mépris_) et Fellini (_8 1/2_). Une variation sur l'art de créer et d'aimer, qui revendique une nouvelle forme de cinéma libre et spontané, inspirée de _Shadows_ de Cassavetes.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28152,
@@ -11043,7 +11074,8 @@
           "generique": "Robert Rounseville, Moira Shearer, Robert Helpmann",
           "adaptation": "D'après l'opéra _Les Contes d'Hoffmann_ de Jacques Offenbach, tiré des contes d'E. T. A. Hoffmann.",
           "synopsis": "Alors qu'il attend son nouvel amour à la sortie d'un ballet, le poète Hoffmann se remémore trois expériences sentimentales malheureuses.",
-          "status": 1,
+          "miniTexte": "L'affection de Powell pour l'art vivant explose dans _Les Contes d'Hoffmann_, grand spectacle baroque, ébouriffant de couleurs, d'idées et d'émotions. Aussi radical que visionnaire, le film, Ours d'argent à Berlin en 1951, embrasse l'exubérance propre à Offenbach pour un voyage en Technicolor. Un émerveillement, qui suscitera une vocation de cinéaste... chez George Romero.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 5915,
@@ -11206,7 +11238,8 @@
           "annee": 1966,
           "duree": 96,
           "generique": "Thommy Berggren, Mona Malm, Ulf Palme",
-          "status": 1,
+          "miniTexte": "Embauché dans une agence de publicité, Roland est chargé de faire une étude de marché sur un nouveau remède contre les boutons. Une comédie avec Thommy Berggren, acteur d'élection du cinéaste depuis ses débuts, et lauréat du Prix Guldbagge du cinéma suédois pour son rôle de jeune écrivain fauché.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28165,
@@ -11278,7 +11311,8 @@
           "annee": 1979,
           "duree": 89,
           "generique": "Michaela Jolin, Stephan Schwartz, Pia Skagermark",
-          "status": 1,
+          "miniTexte": "Fin du XIX<sup>e siècle, la romance tragique entre le fils d'un meunier et la fille d'un châtelain qui s'aiment depuis l'enfance. 13 ans après _Elvira Madigan_, Widerberg met en images l'histoire d'un bonheur impossible, dans les paysages lumineux des fjords norvégiens.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28166,
@@ -11355,7 +11389,8 @@
           "duree": 130,
           "generique": "Stina Ekblad, Stellan Skarsgård, Reine Brynolfsson",
           "adaptation": "D'après le roman _Le Chemin du serpent_ de Torgny Lindgren.",
-          "status": 1,
+          "miniTexte": "Dans la Suède paysanne du XIX<sup>e</sup> siècle, un propriétaire sans vergogne exerce le droit de cuissage sur une veuve sans ressources, pratique cruellement perpétuée sur plusieurs générations. Adapté de l'œuvre poignante de Torgny Lindgren, le film dénonce un système d'oppression à travers le portrait de femmes en lutte contre la misère et les injustices sociales.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28168,
@@ -11393,7 +11428,8 @@
           "annee": 1995,
           "duree": 130,
           "generique": "Johan Widerberg, Marika Lagercrantz, Tomas von Brömssen",
-          "status": 1,
+          "miniTexte": "Malmö, 1943. La liaison passionnelle entre un élève et sa professeure. En partie autobiographique, le dernier film de Widerberg aborde la sexualité et les relations charnelles vues avec les yeux d'un adolescent. Interprété par le fils du cinéaste, un testament longtemps resté inédit.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28157,
@@ -11468,7 +11504,9 @@
           "realisateurs": "Stefan Jarl",
           "annee": 1998,
           "duree": 90,
-          "status": 0,
+          "generique": "Thommy Berggren, Roy Andersson, Tomas von Brömssen",
+          "miniTexte": "Entretiens et images d'archives, qui composent un portrait de Bo Widerberg, mort en 1997.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28164,
@@ -11506,7 +11544,8 @@
           "generique": "Jerry Verno, Janet McGrew, Ben Welden",
           "adaptation": "D'après le roman _The Right Honorable_ d'Oliver Madox Hueffer.",
           "synopsis": "Un plombier hérite du jour au lendemain du titre de Lord. Il va alors faire la connaissance d'une actrice de cinéma...",
-          "status": 1,
+          "miniTexte": "Tandis qu'il hérite du titre de Lord, un plombier s'affiche avec une star de cinéma, ce qui déplaît à sa fiancée. Créé comme un _uota quickie_ – un film de commande peu coûteux –, _His Lordship_ préfigure _Les Contes d'Hoffmann_ et _Oh ! Rosalinda !_ avec ses numéros musicaux enlevés et sa satire réjouissante du système de classes britannique.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28188,
@@ -11587,7 +11626,8 @@
           "duree": 77,
           "generique": "Leslie Banks, Anne Grey, Carol Goodner",
           "synopsis": "Dans le jargon des assurances britanniques, les _Fire Raisers_ désignent ceux qui escroquent les assurances en déclarant des incendies. Expert pour des compagnies d'assurances, Bronson commence lui-même à côtoyer ces truands pour rembourser ses dettes...",
-          "status": 1,
+          "miniTexte": "Première production réalisée pour la Gaumont-British, _The Fire Raisers_ voit les débuts d'une collaboration fructueuse entre Powell et Leslie Banks (_Les Chasses du comte Zaroff_). De surprenantes ruptures de ton en sens inouï du suspense, le cinéaste élabore un polar social, qui porte déjà l'empreinte de son style.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20225,
@@ -11865,7 +11905,8 @@
           "duree": 66,
           "generique": "Ian Hunter, Nancy O'Neil, John Singer",
           "synopsis": "Au chômage, Peter croise le chemin de Cynthia, riche héritière. Celle-ci lui propose de rencontrer son père ainsi que M. Hatch, patron de plusieurs sociétés liées à l'essence. Mais quand ceux-ci refusent l'offre de Peter, ce dernier va se tourner vers la concurrence.",
-          "status": 1,
+          "miniTexte": "L'histoire d'amour contrariée entre un vendeur de voitures au chômage et la fille du directeur d'une compagnie pétrolière. En s'emparant des codes de la comédie loufoque américaine, Powell tisse une pétillante romance, pleine de finesse et d'esprit, visuellement marquée par _M le maudit_ de Fritz Lang.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28192,
@@ -11945,7 +11986,8 @@
           "duree": 66,
           "generique": "Leslie Banks, Carol Goodner, Frank Vosper",
           "synopsis": "Dans une Angleterre où les chantiers navals subissent une forte crise, un directeur d'entreprise prend le pari de fabriquer de nouveaux bateaux, plus performants. Le film raconte son aventure industrielle en même temps qu'il fait le portrait de ces chantiers disparus.",
-          "status": 1,
+          "miniTexte": "La lutte d'un constructeur de navires marchands pour maintenir à flot l'industrie navale écossaise. Powell retrouve ses acteurs de _The Fire Raisers_, Leslie Banks et Carol Goodner, dans un plaidoyer en faveur d'une industrie cinématographique britannique puissante, qui entremêle enjeux sociaux et volonté documentaire.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20228,
@@ -11988,6 +12030,7 @@
           "ageMinimal": 8,
           "synopsis": "Après avoir été trompé et chassé de Bagdad par le diabolique Jaffra, le roi Ahmad unit ses forces à un voleur nommé Abu pour récupérer son trône, sa ville et la princesse qu'il aime.",
           "synopsisJP": "Pour se débarrasser du machiavélique Jaffar, récupérer son trône et la princesse qu'il aime, le roi Ahmad unit ses forces à un voleur malicieux nommé Abu. Un film en forme de livre d'images féériques, aux incroyables effets visuels (première utilisation d'un fond vert), qui inspirera Walt Disney pour son dessin animé _Aladdin_.",
+          "miniTexte": "Seize ans après Raoul Walsh, Powell livre sa propre version du _Voleur de Bagdad_, qui servira d'inspiration au dessin animé Aladdin. Récipiendaire de trois Oscars (photographie, direction artistique et effets visuels) en 1941, le film – qui utilise, pour la première fois, la technique du « fond vert » – s'impose comme un livre d'images féeriques, où le cinéma devient un fantastique grenier à rêves.",
           "commentaire": "Après avoir acquis les droits du film réalisé par Raoul Walsh en 1929, avec Douglas Fairbanks, Alexandre Korda confie à Ludwig Berger, puis à Michael Powell et Tim Whelan, la mise en scène de son _Voleur de Bagdad_. Le tournage, qui se déroule dans les studios britanniques de Denham en 1939, est interrompu par la guerre. Il se poursuit en 1940 à Hollywood et dans le Grand Canyon, avec deux réalisateurs supplémentaires (non crédités). Le jeune Sabu partage l'affiche avec le brillant Conrad Veidt. La féerie exotique de l'œuvre est appuyée par ses couleurs éclatantes et ses multiples effets spéciaux. La photographie en Technicolor de Georges Périnal sera récompensée par un Oscar en 1941.\n\nMarion Langlois",
           "status": 2,
           "copies": [
@@ -12029,8 +12072,8 @@
           "duree": 63,
           "generique": "Leslie Banks, Malcolm Keen, Jane Baxter",
           "adaptation": "D'après la pièce _The Night of the Party_ de Roland Pertwee et John Hastings Turner.",
-          "synopsis": "Après avoir invité quelques amis à dîner, le puissant Lord Studholme est retrouvé mort. L'enquête est ouverte...",
-          "status": 1,
+          "miniTexte": "Sollicité par Michael Balcon, le patron britannique de Gaumont, Powell adapte la pièce de Roland Pertwee et John Hastings Turner en _whodunnit_ survolté que n'aurait pas renié Agatha Christie. L'occasion pour son casting (Malcolm Keen, Jane Baxter, Ian Hunter) de livrer des prestations aussi extravagantes que drolatiques.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28189,
@@ -12068,7 +12111,8 @@
           "duree": 63,
           "generique": "Judy Gunn, Louis Hayward, David Hutcheson",
           "synopsis": "Alors que Mary est nouvellement nommée directrice d'un laboratoire, Thompson et ses collègues, jaloux, demandent à John de la séduire, dans l'espoir de la distraire... (Attention : pas clair : Mary est déjà nommée directrice ou ses collègues ont peur qu'elle prenne le poste ?)",
-          "status": 1,
+          "miniTexte": "Des rivalités naissent entre chimistes dans un laboratoire consacré à la recherche d'une formule innovante. Powell s'essaie à la comédie romantique, mais trouve surtout un sujet d'une grande modernité, capable de mettre en scène des femmes puissantes (dont la formidable Judy Gunn). Une étude contemporaine, et l'une des premières apparitions de Bernard Miles.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20296,
@@ -12152,7 +12196,8 @@
           "generique": "Hugh Williams, Jane Baxter, Ronald Ward",
           "adaptation": "D'après le roman _The Case of the Golden Plate_ de Jacques Futrelle.",
           "synopsis": "Nick et June prévoyaient de s'enfuir secrètement ensemble à l'occasion d'un bal masqué. Mais le couple se fait attaquer...",
-          "status": 1,
+          "miniTexte": "Le dernier _quota quickie_ tourné par Powell. Avec cette histoire improbable de bal masqué et d'enlèvements, il signe l'un des tournants de sa carrière, le film qui lui permettra de rencontrer le futur producteur de _The Edge of the World_. Une curiosité aux frontières du gothique.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28197,
@@ -12236,7 +12281,8 @@
           "generique": "Binnie Hale, Gordon Harker, Donald Calthrop",
           "adaptation": "D'après la pièce _The Haunted Light_ d'Evadne Price et Joan Roy Byford.",
           "synopsis": "Sam Higgins arrive sur la côte galloise pour occuper le poste d'un gardien de phare dont on dit qu'il est hanté. Aidé par un lieutenant de marine et une jeune femme, il tente de résoudre le mystère.",
-          "status": 1,
+          "miniTexte": "Un cockney arrive sur la côte galloise pour prendre un poste de gardien de phare, mais celui-ci est hanté. Pour ce nouveau _quota quickie_, Powell transforme la pièce de théâtre d'Edvane Price et Joan Roy Byford en un récit mené tambour battant, qui alterne mystère et succession de bons mots.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20298,
@@ -12397,7 +12443,8 @@
           "generique": "Hugh Williams, Francis L. Sullivan, Viola Keats",
           "adaptation": "D'après la pièce _S. O. S._ de Walter Ellis.",
           "synopsis": "La femme d'un politicien est retrouvée morte dans une auberge, où elle avait été vue avec Alan, le secrétaire de son mari...",
-          "status": 1,
+          "miniTexte": "Adaptation de la pièce de théâtre à succès S.O.S. de Walter Ellis. Alors que la femme d'un politicien en vogue est retrouvée morte dans une auberge, le secrétaire de son mari est suspecté. Meurtre et romance se conjuguent dans un récit intelligent, qui met en lumière le tempérament comique de Googie Withers et John Laurie.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28194,
@@ -12476,7 +12523,8 @@
           "generique": "Ian Hunter, Claire Luce, Bernard Nedell",
           "adaptation": "D'après la pièce _Lazybones_ d'Ernest Denny.",
           "synopsis": "Jeune barronet vivant en dilettante, Reginald se voit couper les vivres par son père. Il décide alors de se marier à une riche Américaine qu'il vient de rencontrer. Mais les choses ne vont pas se passer comme il l'avait prévu.",
-          "status": 1,
+          "miniTexte": "Sous la contrainte de sa famille, un aristocrate sans-le-sou doit épouser une héritière américaine, mais les obstacles s'accumulent. Powell s'essaie à la _screwball comedy_ avec une adaptation de la pièce d'Ernest Denny, parfaitement servie par l'impertinence d'Ian Hunter et Claire Luce.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20227,
@@ -12644,6 +12692,7 @@
           "ageMinimal": 8,
           "synopsis": "Après avoir été trompé et chassé de Bagdad par le diabolique Jaffra, le roi Ahmad unit ses forces à un voleur nommé Abu pour récupérer son trône, sa ville et la princesse qu'il aime.",
           "synopsisJP": "Pour se débarrasser du machiavélique Jaffar, récupérer son trône et la princesse qu'il aime, le roi Ahmad unit ses forces à un voleur malicieux nommé Abu. Un film en forme de livre d'images féériques, aux incroyables effets visuels (première utilisation d'un fond vert), qui inspirera Walt Disney pour son dessin animé _Aladdin_.",
+          "miniTexte": "Seize ans après Raoul Walsh, Powell livre sa propre version du _Voleur de Bagdad_, qui servira d'inspiration au dessin animé Aladdin. Récipiendaire de trois Oscars (photographie, direction artistique et effets visuels) en 1941, le film – qui utilise, pour la première fois, la technique du « fond vert » – s'impose comme un livre d'images féeriques, où le cinéma devient un fantastique grenier à rêves.",
           "commentaire": "Après avoir acquis les droits du film réalisé par Raoul Walsh en 1929, avec Douglas Fairbanks, Alexandre Korda confie à Ludwig Berger, puis à Michael Powell et Tim Whelan, la mise en scène de son _Voleur de Bagdad_. Le tournage, qui se déroule dans les studios britanniques de Denham en 1939, est interrompu par la guerre. Il se poursuit en 1940 à Hollywood et dans le Grand Canyon, avec deux réalisateurs supplémentaires (non crédités). Le jeune Sabu partage l'affiche avec le brillant Conrad Veidt. La féerie exotique de l'œuvre est appuyée par ses couleurs éclatantes et ses multiples effets spéciaux. La photographie en Technicolor de Georges Périnal sera récompensée par un Oscar en 1941.\n\nMarion Langlois",
           "status": 2,
           "copies": [
@@ -12721,8 +12770,9 @@
           "annee": 1937,
           "duree": 81,
           "generique": "John Laurie, Belle Chrystall, Eric Berry",
-          "synopsis": "Dans une île au large de l'Écosse, la vie des petits pêcheurs se fait rude, d'autant plus depuis la concurrence des chalutiers. Alors que certains se montrent attachés à leur mode de vie traditionnel, d'autres envisagent de quitter l'île pour une vie meilleure...",
-          "status": 1,
+          "synopsis": "Dans une île au large de l'Écosse, la vie des petits pêcheurs se fait rude, d'autant plus depuis la concurrence des chalutiers. Alors que certains se montrent attachés à leur mode de vie traditionnel, d'autres envisagent de quitter l'île pour une vie meilleure.",
+          "miniTexte": "Pour son premier film personnel, inspiré par l'évacuation de l'île de Saint-Kilda, Powell s'immerge dans les paysages grandioses des Hébrides, où une communauté organise son quotidien au début du XX<sup>e</sup> siècle. Du réalisme d'un environnement hostile à la tragédie romantique, il documente la vie de petits pêcheurs face à la concurrence des chalutiers alors que la jeunesse est en quête d'ailleurs. Avec un sens du montage épatant, il raconte sobrement les difficultés inhérentes à ce mode de vie et questionne la manière dont chacun parvient à s'ancrer dans ses terres.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20213,
@@ -12742,8 +12792,8 @@
           "annee": 1978,
           "duree": 25,
           "generique": "Michael Powell, John Laurie, Frankie Reidy",
-          "synopsis": "« À l'angle du monde » de Michael Powell, remonté plus de 40 ans plus tard, et agrémenté d'interviews du réalisateur et de certains acteurs, revenus sur les lieux du film, l'île de Foula dans les Hébrides.",
-          "status": 1,
+          "miniTexte": "Complément du film _À l'angle du monde_, qui voit les protagonistes revenir sur l'île de Foula, 41 ans après le tournage. Les interviews de Powell et de ses acteurs se succèdent pour raconter ses conditions de production et son importance dans leurs carrières, mais aussi leurs vies.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 27596,
@@ -12792,7 +12842,8 @@
           "duree": 101,
           "generique": "Karlheinz Böhm, Anna Massey, Maxine Audley",
           "synopsis": "Un photographe tue ses modèles avec un stylet installé dans son trépied. Il filme la scène, cherchant ainsi à capturer le visage de la peur.",
-          "status": 1,
+          "miniTexte": "Sorti la même année que _Psychose_, _Le Voyeur_ est le premier long métrage de Powell réalisé sans la collaboration d'Emeric Pressburger, mais marque aussi le déclin de sa carrière après le scandale suscité par le film. Jugé choquant et malsain à l'époque, – c'est l'un des premiers à parler des _snuff movies_ – il met en scène un caméraman obsédé par la captation de la mort sur pellicule. Véritable méditation sur la magie de la caméra et la toute-puissance de l'artiste, il brille par sa construction en abîme aux allures de vertige visuel, qui bascule de la pathologie à l'illusion.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20208,
@@ -12832,15 +12883,17 @@
         {
           "ordre": 1,
           "idFilm": 41080,
-          "titre": "Elusive Pimpernel",
-          "art": "The",
+          "titre": "Chevalier de Londres",
+          "art": "Le",
+          "titreVo": "Elusive Pimpernel",
+          "artVo": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1950,
           "duree": 109,
           "generique": "David Niven, Margaret Leighton, Cyril Cusack",
           "adaptation": "D'après le roman _Le Mouron rouge_ d'Emma Orczy.",
-          "synopsis": "Un noble anglais, revient en France pour sauver les aristocrates de la Terreur.",
-          "status": 1,
+          "miniTexte": "Un aristocrate anglais, surnommé Le Mouron rouge, revient en France pour sauver les siens durant la Terreur. Initialement pensé comme une comédie musicale, _The Elusive Pimpernel_ reprend les personnages de la baronne Emma Orczy, plongés dans des décors splendides, propres à Powell et Pressburger, sur fond d'intrigue loufoque.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20202,
@@ -13222,8 +13275,8 @@
           "duree": 65,
           "generique": "Beatrix Thomson, Patric Knowles, Glennis Lorimer",
           "adaptation": "D'après le roman _Third Time Unlucky_ de Laurence Meynell.",
-          "synopsis": "Alors qu'elle doit beaucoup d'argent, une ancienne danseuse décide de se marier à un homme qu'elle croit riche. Si celui-ci s'avère infortuné, il possède cependant une forte assurance sur la vie...",
-          "status": 1,
+          "miniTexte": "Une ancienne danseuse endettée croit trouver la fortune auprès d'un mari, qui se révèle ruiné. Un mélodrame policier en forme de film noir, dont l'atmosphère ténébreuse tourne autour des sombres desseins d'une femme fatale. Avec l'épatante Beatrix Thompson, dans son seul grand rôle au cinéma.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28196,
@@ -13261,8 +13314,10 @@
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1952,
           "duree": 82,
-          "synopsis": "Nouvelle version de La Renarde, suite à un désaccord des réalisateurs avec le producteur David O. Selznick qui souhaite une nouvelle version pour le public américain.",
-          "status": 0,
+          "generique": "Jennifer Jones, Esmond Knight, David Farrar",
+          "adaptation": "D'après le roman _La Renarde_ de Mary Webb.",
+          "miniTexte": "Nouvelle version de _La Renarde_, à la suite d'un désaccord des réalisateurs avec le producteur David O. Selznick, qui souhaite une nouvelle version pour le public américain.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 27064,
@@ -13303,7 +13358,8 @@
           "generique": "Deborah Kerr, Sabu, David Farrar",
           "adaptation": "D'après le roman _Le Narcisse noir_ de Rumer Godden.",
           "synopsis": "Suite à l'ouverture d'un couvent sur les contreforts de l'Himalaya, cinq sœurs anglicanes rencontrent des difficultés à s'adapter à leur nouvel environnement.",
-          "status": 1,
+          "miniTexte": "Une communauté religieuse est envoyée dans un couvent niché en haut de l'Himalaya. Adapté d'un roman de Rumer Godden, _Le Narcisse noir_ prend le contre-pied des films consacrés à la foi avec une réflexion sur les émotions humaines. Powell compose un ensemble d'images inoubliables, fortes d'un sens du cadrage et de la couleur sensationnels, et où Deborah Kerr irradie en sœur supérieure. Au gré de rapports de force inversés, allant jusqu'à la folie, il distille un érotisme lancinant dans un microcosme coupé du monde, mais pas de ses tentations.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 8430,
@@ -13438,8 +13494,8 @@
           "annee": 1956,
           "duree": 119,
           "generique": "John Gregson, Anthony Quayle, Ian Hunter",
-          "synopsis": "Le film retrace la Bataille du Rio de la Plata qui eut lieu durant la Seconde Guerre mondiale, et pendant laquelle trois navires britanniques ont poursuivi un cuirassé allemand tout-puissant.",
-          "status": 1,
+          "miniTexte": "Dans un style quasiment documentaire, Powell livre une reconstitution soignée de la Bataille du Rio de la Plata grâce à une mise en scène immersive et une esthétique réaliste. Désireux de faire connaître la vie des vaisseaux, il compose une ode au respect militaire, mais aussi à la retenue du pays, sans se départir du sens de l'humour britannique.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20235,
@@ -13479,7 +13535,8 @@
           "duree": 76,
           "generique": "Merle Oberon, Ralph Richardson, June Duprez",
           "synopsis": "Fait d'images documentaires et de fiction, le film s'attache à montrer l'effort de guerre des anglais face à l'organisation militaire nazie. Visant à rassurer la population, ce film fait aussi le portrait d'hommes et de femmes se préparant à tout sacrifier pour leur liberté.",
-          "status": 1,
+          "miniTexte": "Quelques jours après la déclaration de guerre contre l'Allemagne, le producteur anglais Alexander Korda lance l'idée d'un film de propagande, destiné à rassurer la population sur la préparation de leurs armées. Une reconstitution des promesses non tenues par Hitler, associée à une vision volontaire des combats de la Royal Air Force.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20209,
@@ -13515,8 +13572,8 @@
           "realisateurs": "Michael Powell",
           "annee": 1940,
           "duree": 80,
-          "synopsis": "Texte à saisir",
-          "status": 0,
+          "synopsis": "1940. Bloqué dans un port britannique, Andersen, capitaine danois d'un navire de commerce, se retrouve malgré lui dans une affaire d'espionnage.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 27052,
@@ -13593,7 +13650,8 @@
           "duree": 106,
           "generique": "Godfrey Tearle, Eric Portman, Hugh Williams",
           "synopsis": "Durant la Deuxième Guerre mondiale, un bombardier britannique est abattu, obligeant son équipage à sauter en parachute. Ces derniers se retrouvent alors aux Pays-Bas, terre ennemie, et tentent de rejoindre leur pays.",
-          "status": 1,
+          "miniTexte": "Un bombardier anglais atterrit en territoire occupé après avoir subi les dommages d'un raid. Dans la lignée de _49<sup>e</sup> Parallèle_, Powell fait le pari d'un faux docu-fiction aux magnifiques jeux d'ombres et de lumières. Avec Googie Withers, parfaitement mutine, et Peter Ustinov, dans l'un de ses premiers rôles.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20239,
@@ -13651,7 +13709,7 @@
           "annee": 1945,
           "duree": 91,
           "generique": "Wendy Hiller, Roger Livesey, Pamela Brown",
-          "synopsis": "Joan, jeune femme ambitieuse, doit rejoindre sur une île écossaise isolée le riche industriel qu'elle s'apprête à épouser. Mais le brouillard empêche la traversée, et la jeune femme fait la connaissance d'un jeune officier de marine qui doit aussi se rendre sur l'île.",
+          "miniTexte": "Joan Webster sait ce qu'elle veut et où elle va, mais le trajet vers son destin est parsemé d'imprévus et de remises en question. Sur une idée de sa propre femme, Frankie, Powell utilise une chanson irlandaise, _I Know Where I'm Going_, comme point de départ d'un conte gaélique dans les brumes écossaises. Toute la malice du duo Powell et Pressburger exulte dans ce portrait pittoresque de l'Écosse profonde, dont les lumières crépusculaires et le folklore accompagnent à merveille cette histoire romanesque. Avec le superbe duo Roger Livesey et Wendy Hiller, en totale harmonie.",
           "status": 2,
           "copies": [
             {
@@ -13779,7 +13837,8 @@
           "generique": "Stewart Rome, John Longden, Dorothy Boyd",
           "adaptation": "D'après le roman _Rynox_ de Philip MacDonald.",
           "synopsis": "Après avoir affirmé s'être fait menacer par un inconnu répondant au nom de Marsh, le riche directeur de la société Rynox est retrouvé assassiné. Son fils, reprenant l'entreprise de son père, se met alors en chasse de l'insaisissable Marsh.",
-          "status": 1,
+          "miniTexte": "Un homme d'affaires ruiné simule son propre meurtre pour toucher l'argent de l'assurance. Premier film de Powell, retrouvé et restauré en 1990, _Rynox_ témoigne déjà de l'imagination visuelle du cinéaste, influencé par le cinéma expressionniste allemand, notamment celui de Fritz Lang.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28185,
@@ -13800,7 +13859,8 @@
           "duree": 53,
           "generique": "Jerry Verno, Anthony Holles, Edgar Norfolk",
           "synopsis": "Jerry hérite d'un hôtel au bord de la mer, et sous lequel se trouve un butin caché...",
-          "status": 1,
+          "miniTexte": "L'héritage imprévu d'un hôtel plonge un modeste employé dans une série d'arnaques. Réalisé avec un budget de 4 000 £ pour Gaumont-British, _Hotel Splendide_ fait la part belle à Jerry Verno, figure du music-hall, admirable de drôlerie, au gré d'une comédie chaleureuse et inventive.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28186,
@@ -14094,8 +14154,8 @@
           "duree": 111,
           "generique": "David Farrar, Kathleen Byron, Jack Hawkins",
           "adaptation": "D'après le roman _The Small Back Room_ de Nigel Balchin.",
-          "synopsis": "En pleine seconde guerre mondiale, Sammy Rice, jeune savant, manque singulièrement de confiance en lui et sombre dans l'alcool.",
-          "status": 1,
+          "miniTexte": "Un chercheur en explosifs accepte la responsabilité de désamorcer une bombe hautement dangereuse. Après des films en Technicolor (_Le Narcisse noir_, _Les Chaussons rouges_), Powell revient à la sobriété du noir et blanc pour filmer la lutte d'un homme contre ses démons. Un drame percutant, emmené par les formidables David Farrar et Kathleen Byron.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 27060,
@@ -14221,8 +14281,8 @@
           "duree": 62,
           "generique": "Norman Foster, Ana Raquel Satre",
           "adaptation": "D'après l'opéra _Le Château de Barbe-Bleue_ de Béla Bartók.",
-          "synopsis": "Enième épouse de Barbe-Bleue, Judit découvre le château de son mari. Curieuse de l'édifice, elle va franchir la porte qui fait l'objet de tous les interdits... Film inspiré de l'unique opéra de Béla Bartók.",
-          "status": 1,
+          "miniTexte": "Version filmée en studio de l'opéra éponyme de Béla Bartók. Chanté en allemand, le livret devient un psychodrame à la fois intense et expressionniste, baigné par un éclairage et un décor qui révèlent les tourments de Barbe-Bleue. Une plongée inventive et visuellement saisissante dans la psyché de personnages torturés.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 27074,
@@ -14351,8 +14411,8 @@
           "duree": 101,
           "generique": "Anthony Quayle, Anton Walbrook, Dennis Price",
           "adaptation": "D'après _La Chauve-Souris_ de Johann Strauss.",
-          "synopsis": "Inspirée de l'opérette _La Chauve-souris_ de Johann Straus, le film s'attache, dans le Vienne d'après guerre, à des jeux d'amour et de quiproquos.",
-          "status": 1,
+          "miniTexte": "Une comédie primesautière en Technicolor, inspirée de l'opérette _La Chauve-Souris_ de Strauss. Powell rivalise de fantaisie et d'espièglerie dans une version modernisée, à la fois surréaliste et subversive, qui doit beaucoup à Ludmila Tcherina, séduisante en diable face à Anton Walbrook.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 27070,
@@ -14733,7 +14793,7 @@
           "duree": 82,
           "generique": "Conrad Veidt, Sebastian Shaw, Valerie Hobson",
           "adaptation": "D'après le roman _The Spy in Black_ de Joseph Storer Clouston.",
-          "synopsis": "Le capitaine d'un sous-marin allemand accepte le rôle déshonorant de recueillir des renseignements fournis par une espionne.",
+          "miniTexte": "Première collaboration entre Powell et son fidèle comparse, Emeric Pressburger, crédité comme scénariste. Dans cette adaptation du roman de Joseph Storer Clouston, le cinéaste adopte le point de vue de l'ennemi allemand et multiplie les rebondissements, loin de tout manichéisme. Un classique du film d'espionnage, porté par la fantastique prestation de Conrad Veidt (_Le Cabinet du docteur Caligari_).",
           "status": 2,
           "copies": [
             {
@@ -14824,7 +14884,8 @@
           "generique": "Robert Rounseville, Moira Shearer, Robert Helpmann",
           "adaptation": "D'après l'opéra _Les Contes d'Hoffmann_ de Jacques Offenbach, tiré des contes d'E. T. A. Hoffmann.",
           "synopsis": "Alors qu'il attend son nouvel amour à la sortie d'un ballet, le poète Hoffmann se remémore trois expériences sentimentales malheureuses.",
-          "status": 1,
+          "miniTexte": "L'affection de Powell pour l'art vivant explose dans _Les Contes d'Hoffmann_, grand spectacle baroque, ébouriffant de couleurs, d'idées et d'émotions. Aussi radical que visionnaire, le film, Ours d'argent à Berlin en 1951, embrasse l'exubérance propre à Offenbach pour un voyage en Technicolor. Un émerveillement, qui suscitera une vocation de cinéaste... chez George Romero.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 5915,
@@ -14943,8 +15004,8 @@
           "duree": 110,
           "generique": "Jennifer Jones, Esmond Knight, David Farrar",
           "adaptation": "D'après le roman _La Renarde_ de Mary Webb.",
-          "synopsis": "Au XIXe siecle, en Angleterre près du pays de Galles, Hazel Woodus vit en communion avec la nature. Elle a pour amie et confidente une renarde. Mais le châtelain, chasseur de renards, la poursuit, tandis que le pasteur du village la demande en mariage.",
-          "status": 1,
+          "miniTexte": "Dans l'Angleterre victorienne, une jeune femme éprise de liberté doit choisir entre une vie rangée auprès de son mari et la tentation de l'amour charnel. Volontiers flamboyant, _La Renarde_ a l'allure d'un poème cinématographique, capable d'associer motifs picturaux et sens du contraste. Un hymne à la nature, qui influencera Kate Bush pour son album _Hounds of Love_.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20278,
@@ -14992,7 +15053,7 @@
           "duree": 100,
           "generique": "Michael Caine, Noël Coward, Maggie Blye",
           "synopsis": "Des gangsters anglais qui veulent voler l'or de Fiat s'opposent à la Mafia qui veut défendre l'honneur de l'Italie.",
-          "miniTexte": "Une comédie policière enlevée, qui voit des gangsters anglais confrontés à la Mafia alors qu'ils convoitent la fortune de Fiat. Le flegme et le charme minéral de Michael Caine, et comme climax la poursuite en Mini Cooper dans Turin (reprise dans _Braquage à l'italienne_ en 2003), et son embouteillage monstre : du plaisir à l'état pur.",
+          "miniTexte": "Une comédie policière enlevée, qui voit des gangsters anglais confrontés à la Mafia alors qu'ils convoitent la fortune de Fiat. Le flegme et le charme minéral de Michael Caine, et comme climax la poursuite en Mini Cooper dans Turin, et son embouteillage monstre : du plaisir à l'état pur.",
           "status": 2,
           "copies": [
             {
@@ -15173,7 +15234,8 @@
           "duree": 104,
           "generique": "David Niven, Kim Hunter, Marius Goring",
           "synopsis": "Alors que son bombardier prend feu, le commandant Peter Carter s'en sort indemne. Peu de temps après, son guide céleste vient néanmoins le trouver, lui expliquant qu'il n'est pas parvenu à le trouver dans le brouillard. Il tente alors de le convaincre de le suivre au paradis.",
-          "status": 1,
+          "miniTexte": "Pendant la Seconde Guerre mondiale, un aviateur en détresse obtient un sursis de l'univers pour retrouver la femme dont il vient de tomber amoureux. Powell réussit miraculeusement à transformer le film de propagande en romance merveilleuse. Une célébration de la toute-puissance des sentiments, où le fantastique rencontre l'espoir et le hasard.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20223,
@@ -15216,7 +15278,8 @@
           "generique": "Anton Walbrook, Moira Shearer, Marius Goring",
           "adaptation": "D'après la nouvelle _De røde sko_ de Hans Christian Andersen.",
           "synopsis": "Quand Victoria, danseuse étoile des « Chaussons rouges », tombe amoureuse du compositeur de l'opéra, le cruel directeur va tout faire pour, au nom de l'art, séparer les deux jeunes amoureux.",
-          "status": 1,
+          "miniTexte": "Qualifié par De Palma de « film parfait », _Les Chaussons rouges_ orchestre la rencontre du fantastique avec la rigueur du monde de la danse. Sur un sujet angoissant, volontiers sombre, Powell extirpe un déluge de couleurs, de tulles et de paillettes pour exprimer la passion dévorante des artistes et le besoin de s'y abandonner corps et âme. D'une durée de dix-sept minutes, illuminée par la chevelure flamboyante de Moira Shearer, la superbe séquence de ballet, qui oscille entre surréalisme et grâce, résume, à elle seule, ce parcours aussi tétanisant que galvanisant vers le don de soi.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20216,
@@ -15337,7 +15400,8 @@
           "duree": 101,
           "generique": "Karlheinz Böhm, Anna Massey, Maxine Audley",
           "synopsis": "Un photographe tue ses modèles avec un stylet installé dans son trépied. Il filme la scène, cherchant ainsi à capturer le visage de la peur.",
-          "status": 1,
+          "miniTexte": "Sorti la même année que _Psychose_, _Le Voyeur_ est le premier long métrage de Powell réalisé sans la collaboration d'Emeric Pressburger, mais marque aussi le déclin de sa carrière après le scandale suscité par le film. Jugé choquant et malsain à l'époque, – c'est l'un des premiers à parler des _snuff movies_ – il met en scène un caméraman obsédé par la captation de la mort sur pellicule. Véritable méditation sur la magie de la caméra et la toute-puissance de l'artiste, il brille par sa construction en abîme aux allures de vertige visuel, qui bascule de la pathologie à l'illusion.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 20208,
