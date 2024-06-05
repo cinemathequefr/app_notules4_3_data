@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-05T08:52:00.117Z",
+  "updatedAt": "2024-06-05T10:42:06.383Z",
   "data": [
     {
       "idSeance": 128873,
@@ -7532,18 +7532,12 @@
           "idCategorie": 3340,
           "titreCycle": "La Shaw Brothers et le kung-fu",
           "titreSousCycle": "Les films"
-        },
-        {
-          "idCycle": 779,
-          "idCategorie": 3347,
-          "titreCycle": "La Shaw Brothers et le kung-fu",
-          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 30515,
+      "typeEvenement": 13,
       "dateHeure": "2024-07-06T14:59:00",
       "idSalle": "GF",
-      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -7568,14 +7562,6 @@
             }
           ],
           "idFilmBoxoffice": 61574
-        },
-        {
-          "ordre": 2,
-          "idConf": 30574,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Christophe Gans",
-          "texte": "De tous les films réalisés par Chang Cheh, _Le Justicier de Shanghaï_ (sorti sous le titre _La Brute, le Bonze et le Méchant_) était le plus avidement recherché. En 1976, il passait fort peu dans les salles : son interdiction aux moins de 18 ans en avait fait une rareté. De fait, ce film d'une réelle profondeur thématique est resté le plus apocalyptique de la filmo pourtant dévastatrice du cinéaste. Considéré à juste titre comme l'équivalent chinois de _La Horde sauvage_, il organise le plus grand massacre à mains nues jamais chorégraphié à la Shaw pour atteindre à une sauvagerie épique qui peut paraître, si l'on ne connait pas les obsessions de son auteur, étrangement sensuelle. Pas étonnant que John Woo ait été premier assistant sur ce monument écarlate... — Christophe Gans",
-          "duree": 60
         }
       ]
     },
@@ -7668,6 +7654,34 @@
         }
       ],
       "mention": "Séance présentée par Adirley Queirós"
+    },
+    {
+      "idSeance": 130810,
+      "idProg": 179,
+      "idCycleCategories": [
+        {
+          "idCycle": 779,
+          "idCategorie": 3347,
+          "titreCycle": "La Shaw Brothers et le kung-fu",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 30574,
+      "typeEvenement": 14,
+      "dateHeure": "2024-07-06T16:45:00",
+      "typeConference": "Dialogue",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 30574,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Christophe Gans",
+          "texte": "De tous les films réalisés par Chang Cheh, _Le Justicier de Shanghaï_ (sorti sous le titre _La Brute, le Bonze et le Méchant_) était le plus avidement recherché. En 1976, il passait fort peu dans les salles : son interdiction aux moins de 18 ans en avait fait une rareté. De fait, ce film d'une réelle profondeur thématique est resté le plus apocalyptique de la filmo pourtant dévastatrice du cinéaste. Considéré à juste titre comme l'équivalent chinois de _La Horde sauvage_, il organise le plus grand massacre à mains nues jamais chorégraphié à la Shaw pour atteindre à une sauvagerie épique qui peut paraître, si l'on ne connait pas les obsessions de son auteur, étrangement sensuelle. Pas étonnant que John Woo ait été premier assistant sur ce monument écarlate... — Christophe Gans",
+          "duree": 60
+        }
+      ]
     },
     {
       "idSeance": 133596,
