@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-05T09:36:57.999Z",
+  "updatedAt": "2024-06-06T10:13:54.072Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1215,7 +1215,9 @@
           "realisateurs": "Abel Gance",
           "annee": 1938,
           "duree": 96,
-          "status": 0,
+          "generique": "Jules Berry, Blanchette Brunoy, Saturnin Fabre",
+          "adaptation": "D'après le roman _Le Voleur de femmes_ de Pierre Frondaie.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28122,
@@ -2564,17 +2566,16 @@
           "titreVo": "Wild Is the Wind",
           "realisateurs": "George Cukor",
           "annee": 1957,
-          "duree": 100,
+          "duree": 110,
           "generique": "Anna Magnani, Anthony Quinn, Anthony Franciosa",
           "miniTexte": "Sauvage est le vent, comme l'ardente diva italienne : la Magnani fait une incursion outre-Atlantique avec ce mélo rural – un immigré italien, installé dans le Nevada, épouse sa belle-sœur pour oublier son veuvage. Un Cukor méconnu, « drame de remariage », qui vaudra à la comédienne un Ours d'argent à Berlin et une nomination aux Oscars aux côtés d'Anthony Quinn.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28001,
-              "duree": 100,
+              "idCopie": 28352,
+              "duree": 110,
               "format": "16 mm",
-              "version": "VO",
-              "stDemande": true
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 37490
@@ -4891,7 +4892,7 @@
           "duree": 98,
           "generique": "Jack Nicholson, Karen Black, Billy Green Bush",
           "synopsis": "Robert Dupea, musicien ayant renoncé à sa carrière pour devenir ouvrier, retourne voir son père mourant à la demande de sa sœur.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 2829,
@@ -5012,7 +5013,8 @@
           "realisateurs": "Bob Rafelson",
           "annee": 1971,
           "duree": 103,
-          "status": 0,
+          "generique": "Jack Nicholson, Bruce Dern, Ellen Burstyn",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28285,
@@ -5052,8 +5054,9 @@
           "realisateurs": "Bob Rafelson",
           "annee": 1980,
           "duree": 122,
+          "generique": "Jack Nicholson, Jessica Lange, John Colicos",
           "adaptation": "D'après le roman _Le Facteur sonne toujours deux fois_ de James M. Cain.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28284,
@@ -5416,9 +5419,9 @@
           "realisateurs": "Bob Rafelson",
           "annee": 1968,
           "duree": 86,
-          "generique": "Davy Jones, Mike Nesmith, Peter Tork, Micky Dolenz",
+          "generique": "Davy Jones, Mike Nesmith, Peter Tork",
           "synopsis": "Viré au pays du LSD en compagnie du groupe The Monkees.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 13785,
@@ -5497,8 +5500,9 @@
           "titre": "Stay Hungry",
           "realisateurs": "Bob Rafelson",
           "annee": 1975,
+          "generique": "Jeff Bridges, Sally Field, Arnold Schwarzenegger",
           "adaptation": "D'après le roman _Stay Hungry_ de Charles Gaines.",
-          "status": 0,
+          "status": 1,
           "copies": [],
           "idFilmBoxoffice": 34473
         }
@@ -5615,7 +5619,9 @@
           "artVo": "The",
           "realisateurs": "Bob Rafelson",
           "annee": 2002,
-          "status": 0,
+          "generique": "Samuel L. Jackson, Milla Jovovich, Stellan Skarsgård",
+          "adaptation": "D'après la nouvelle _The House in Turk Street_ de Dashiell Hammett.",
+          "status": 1,
           "copies": [],
           "idFilmBoxoffice": 44418
         }
@@ -5662,7 +5668,8 @@
           "titre": "Man Trouble",
           "realisateurs": "Bob Rafelson",
           "annee": 1992,
-          "status": 0,
+          "generique": "Jack Nicholson, Ellen Barkin, Beverly D'Angelo",
+          "status": 1,
           "copies": [],
           "idFilmBoxoffice": 5170
         }
@@ -5733,7 +5740,8 @@
           "realisateurs": "Bob Rafelson",
           "annee": 1996,
           "duree": 101,
-          "status": 0,
+          "generique": "Jack Nicholson, Michael Caine, Stephen Dorff",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28287,
@@ -5931,7 +5939,8 @@
           "realisateurs": "Bob Rafelson",
           "annee": 1986,
           "duree": 102,
-          "status": 0,
+          "generique": "Debra Winger, Theresa Russell, Sami Frey",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28286,
@@ -5969,8 +5978,8 @@
           "realisateurs": "Bob Rafelson",
           "annee": 1989,
           "duree": 136,
-          "generique": "Omar Sharif",
-          "status": 0,
+          "generique": "Patrick Bergin, Iain Glen, Fiona Shaw",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28282,
@@ -6096,8 +6105,8 @@
           "realisateurs": "Claude Chabrol",
           "annee": 1995,
           "duree": 112,
-          "generique": "Isabelle Huppert, Sandrine Bonnaire, Jaqueline Bisset, Jean-Pierre Cassel, Virginie Ledoyen",
-          "adaptation": "D’après le roman _L'Analphabète_ de Ruth Rendell.",
+          "generique": "Isabelle Huppert, Sandrine Bonnaire, Jacqueline Bisset",
+          "adaptation": "D'après le roman _L'Analphabète_ de Ruth Rendell.",
           "status": 1,
           "copies": [
             {
@@ -6272,7 +6281,8 @@
           "realisateurs": "Marin Karmitz",
           "annee": 1971,
           "duree": 90,
-          "status": 0,
+          "generique": "Danielle Chinsky, François Knobelspiess, André Rouyer",
+          "status": 1,
           "copies": [
             {
               "idCopie": 27645,
@@ -6312,7 +6322,7 @@
           "duree": 108,
           "generique": "Omero Antonutti, Margarita Lozano, Claudio Bigagli",
           "synopsis": "10 août, nuit de la San Lorenzo : une femme se souvient de l'été 1944 quand, à peine âgée de dix ans, elle vit sa petite ville de Toscane subir dans la terreur les exactions de l'armée allemande.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20451,
@@ -6459,7 +6469,7 @@
           "annee": 1965,
           "duree": 20,
           "generique": "Delphine Seyrig, Michael Lonsdale, Eléonore Hirt",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28326,
@@ -6474,7 +6484,9 @@
           "realisateurs": "Marin Karmitz",
           "annee": 1969,
           "duree": 85,
-          "status": 0,
+          "generique": "Jean-Paul Giquel, Juliet Berto, Dominique Labourier",
+          "adaptation": "D'après le roman _Le Camarade_ de Cesare Pavese.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 27646,
@@ -6639,8 +6651,8 @@
           "realisateurs": "Bartabas",
           "annee": 1992,
           "duree": 111,
-          "generique": "Miguel Bosè, Bartabas, Brigitte Marty, Eva Schakmundes",
-          "status": 0,
+          "generique": "Miguel Bosé, Bartabas, Brigitte Marty",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28323,
@@ -6716,8 +6728,8 @@
           "realisateurs": "Marin Karmitz",
           "annee": 1964,
           "duree": 24,
-          "generique": "Maurice Garrel, Natasha Parry",
-          "status": 0,
+          "generique": "Maurice Garrel, Natasha Parry, Nicole Hiss",
+          "status": 1,
           "copies": [
             {
               "idCopie": 1271,
@@ -7010,7 +7022,8 @@
           "realisateurs": "Étienne Chatiliez",
           "annee": 1987,
           "duree": 93,
-          "status": 0,
+          "generique": "Benoît Magimel, Hélène Vincent, Valérie Lalonde",
+          "status": 1,
           "copies": [
             {
               "idCopie": 27652,
@@ -7045,7 +7058,8 @@
           "realisateurs": "Marin Karmitz",
           "annee": 1968,
           "duree": 100,
-          "status": 0,
+          "generique": "Jacques Higelin, Catherine Martin, Michèle Moretti",
+          "status": 1,
           "copies": [
             {
               "idCopie": 27649,
@@ -7226,6 +7240,7 @@
           "annee": 1999,
           "dureeStd": 117,
           "duree": 117,
+          "generique": "Juliette Binoche, Thierry Neuvic, Josef Bierbichler",
           "status": 1,
           "copies": [
             {
@@ -7301,7 +7316,7 @@
           "annee": 1998,
           "dureeStd": 118,
           "duree": 118,
-          "generique": "Behzad Dourani",
+          "generique": "Behzad Dourani, Noghre Asadi, Roushan Karam Elmi",
           "synopsis": "Motivés par une mystérieuse mission, des citadins se rendent dans un village au Kurdistan iranien.",
           "status": 1,
           "copies": [
@@ -8083,8 +8098,9 @@
           "realisateurs": "Roger Corman",
           "annee": 1961,
           "duree": 84,
+          "generique": "William Shatner, Frank Maxwell, Beverly Lunsford",
           "adaptation": "D'après le roman _The Intruder_ de Charles Beaumont.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28306,
@@ -8197,7 +8213,8 @@
           "realisateurs": "Roger Corman",
           "annee": 1956,
           "duree": 71,
-          "status": 0,
+          "generique": "Peter Graves, Lee Van Cleef, Beverly Garland",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28311,
@@ -8235,7 +8252,8 @@
           "realisateurs": "Roger Corman",
           "annee": 1961,
           "duree": 70,
-          "status": 0,
+          "generique": "Jonathan Haze, Jackie Joseph, Mel Welles",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28309,
@@ -8306,8 +8324,9 @@
           "annee": 1963,
           "duree": 90,
           "generique": "Vincent Price, Hazel Court, Patrick Magee",
+          "adaptation": "D'après les nouvelles _Le Masque de la mort rouge_ et _Hop-Frog_ d'Edgar Allan Poe.",
           "synopsis": "Au Moyen-Âge, le Prince sataniste Prospero terrorise les populations alentour. Quand un mal, nommé Mort Rouge, s'abat sur le pays, il convie à un bal les nobles, qui doivent se prêter à des jeux sadiques.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20754,
@@ -8428,7 +8447,8 @@
           "realisateurs": "Roger Corman",
           "annee": 1963,
           "duree": 80,
-          "status": 0,
+          "generique": "Ray Milland, Diana Van der Vlis, Harold J. Stone",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28313,
@@ -8507,9 +8527,9 @@
           "realisateurs": "Roger Corman",
           "annee": 1967,
           "duree": 79,
-          "generique": "Peter Fonda, Susan Strasberg, Dennis Hopper, Bruce Dern",
+          "generique": "Peter Fonda, Susan Strasberg, Dennis Hopper",
           "synopsis": "Paul Groves vient de divorcer avec sa femme. Profondément déprimé, il essaye pour la première fois le LSD.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 13014,
@@ -8588,9 +8608,9 @@
           "realisateurs": "Roger Corman",
           "annee": 1969,
           "duree": 90,
-          "generique": "Shelley Winters, Pat Hingle, Don Stroud, Diane Varsi",
+          "generique": "Shelley Winters, Pat Hingle, Don Stroud",
           "synopsis": "Aux États-Unis dans les années 1930, « Ma » Kate Barker, est mère de quatre fils et a fait de sa famille un gang violent semant la terreur.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 12189,
@@ -8743,7 +8763,9 @@
           "realisateurs": "Roger Corman",
           "annee": 1990,
           "duree": 82,
-          "status": 0,
+          "generique": "John Hurt, Raúl Juliá, Bridget Fonda",
+          "adaptation": "D'après le roman _Frankenstein délivré_ de Brian Aldiss.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28307,
@@ -8805,7 +8827,9 @@
           "titre": "Cock Fighter",
           "realisateurs": "Monte Hellman",
           "annee": 1974,
-          "status": 0,
+          "generique": "Warren Oates, Richard B. Shull, Harry Dean Stanton",
+          "adaptation": "D'après le roman _Cockfighter_ de Charles Willeford.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28303,
@@ -8841,7 +8865,8 @@
           "titre": "Alfredo Alfredo",
           "realisateurs": "Pietro Germi",
           "annee": 1972,
-          "status": 0,
+          "generique": "Dustin Hoffman, Stefania Sandrelli, Carla Gravina",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28321,
@@ -8994,7 +9019,8 @@
           "realisateurs": "Jonathan Demme",
           "annee": 1974,
           "duree": 83,
-          "status": 0,
+          "generique": "Juanita Brown, Roberta Collins, Erica Gavin",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28302,
@@ -9084,7 +9110,9 @@
           "titre": "Death Race 2000",
           "realisateurs": "Paul Bartel",
           "annee": 1975,
-          "status": 0,
+          "generique": "David Carradine, Sylvester Stallone, Simone Griffeth",
+          "adaptation": "D'après la nouvelle _Le Pilote_ d'Ib Melchior.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28305,
@@ -9268,34 +9296,13 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21680,
+      "idEvenement": 31173,
       "typeEvenement": 13,
       "dateHeure": "2024-10-24T19:30:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 107613,
-          "titre": "Smith",
-          "realisateurs": "Michael Powell",
-          "annee": 1939,
-          "duree": 10,
-          "generique": "Ralph Richardson, Flora Robson, Allan Jeayes",
-          "synopsis": "Docu-fiction, le film présente, à travers l'histoire de John Smith, le rôle d'un organisme d'aide aux vétérans de l'armée. (Attention : 1 source WIKI)",
-          "miniTexte": "Court métrage réalisé par Powell pour promouvoir une organisation caritative qui aidait les anciens militaires en difficulté. Découvert en 2003, le film a connu sa première projection publique un an plus tard, à Canterbury, près de 65 ans après son tournage.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 27051,
-              "duree": 10,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
-            }
-          ]
-        },
-        {
-          "ordre": 2,
           "idFilm": 91360,
           "titre": "An Airman's Letter to His Mother",
           "realisateurs": "Michael Powell",
@@ -9315,7 +9322,7 @@
           "idFilmBoxoffice": 170722
         },
         {
-          "ordre": 3,
+          "ordre": 2,
           "idFilm": 107614,
           "titre": "Volunteer",
           "art": "The",
@@ -9345,26 +9352,27 @@
           "idFilmBoxoffice": 171079
         },
         {
-          "ordre": 4,
-          "idFilm": 107616,
-          "titre": "Sorcerer's Apprentice",
-          "art": "The",
+          "ordre": 3,
+          "idFilm": 107576,
+          "titre": "Rynox",
           "realisateurs": "Michael Powell",
-          "annee": 1956,
-          "duree": 13,
-          "adaptation": "D'après le poème _L'Apprenti sorcier_ de Goethe.",
-          "synopsis": "Ballet dansé par Sonia Arova et le corps de ballet de l'Opéra d'État de Hambourg, d'après le poème de Goethe.",
-          "miniTexte": "Après _Les Chaussons rouges_, Powell filme à nouveau la danse, avec une captation du ballet _L'Apprenti sorcier_, interprété par Sonia Arova et le corps de ballet de l'Opéra d'État de Hambourg. Une première, tournée en CinémaScope.",
+          "annee": 1931,
+          "duree": 47,
+          "generique": "Stewart Rome, John Longden, Dorothy Boyd",
+          "adaptation": "D'après le roman _Rynox_ de Philip MacDonald.",
+          "synopsis": "Après avoir affirmé s'être fait menacer par un inconnu répondant au nom de Marsh, le riche directeur de la société Rynox est retrouvé assassiné. Son fils, reprenant l'entreprise de son père, se met alors en chasse de l'insaisissable Marsh.",
+          "miniTexte": "Un homme d'affaires ruiné simule son propre meurtre pour toucher l'argent de l'assurance. Premier film de Powell, retrouvé et restauré en 1990, _Rynox_ témoigne déjà de l'imagination visuelle du cinéaste, influencé par le cinéma expressionniste allemand, notamment celui de Fritz Lang.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27069,
-              "duree": 13,
+              "idCopie": 28185,
+              "duree": 47,
               "format": "DCP",
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmBoxoffice": 187768
         }
       ]
     },
@@ -9407,7 +9415,7 @@
           "idFilmBoxoffice": 951
         }
       ],
-      "mention": "Ouverture de la rétrospective"
+      "mention": "Ouverture de la rétrospective. Séance présentée par Alain Chabat"
     },
     {
       "idSeance": 133892,
@@ -9669,8 +9677,9 @@
           "annee": 1972,
           "duree": 105,
           "generique": "Barbara Hershey, David Carradine, Barry Primus",
+          "adaptation": "D'après l'œuvre _Sisters of the Road_ de Ben L. Reitman.",
           "synopsis": "Pendant la Grande Dépression dans l'Arkansas, Bertha Thompson, une jeune fille assiste à la mort accidentelle de son père, provoquée par un employeur tyrannique.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28299,
@@ -9729,6 +9738,13 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28335,
+              "duree": 92,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             },
             {
               "idCopie": 20237,
@@ -10461,14 +10477,63 @@
       ],
       "idEvenement": 31099,
       "typeEvenement": 13,
-      "libelleEvenement": "PROGRAMME DE COURTS MÉTRAGES : PETITS FANTÔMES D'HALLOWEEN",
       "dateHeure": "2024-10-30T15:00:00",
       "idSalle": "GF",
-      "theorique": true,
-      "items": []
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32706,
+          "titre": "Malec chez les fantômes",
+          "titreVo": "Haunted House",
+          "artVo": "The",
+          "realisateurs": "Buster Keaton, Eddie Cline",
+          "annee": 1921,
+          "duree": 24,
+          "generique": "Buster Keaton, Joe Roberts",
+          "ageMinimal": 6,
+          "synopsis": "Buster, caissier dans une banque, soupçonne son patron de malversations. Il se rend chez ce dernier, dont la maison semble peuplée de fantômes... à moins qu'il ne s'agisse de faux-monnayeurs. _Copie avec musique_\n\n---\n\nFilms à trucs des pionniers du cinéma et film d'animation deviennent le terrain de jeu de fantômes en tout genre! Apparitions, disparitions, objets qui se déplacent seuls, le cinéma s'amuse à nous faire croire aux phénomènes les plus invraisemblables.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 1844,
+              "duree": 24,
+              "format": "DCP",
+              "intertitres": "INT. ANG."
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 154912,
+          "titre": "Días de los muertos",
+          "art": "Los",
+          "realisateurs": "Pauline Pinson",
+          "annee": 2017,
+          "status": 1,
+          "copies": []
+        },
+        {
+          "ordre": 3,
+          "idFilm": 154913,
+          "titre": "How to Paint Your Rainbow",
+          "realisateurs": "Erick Oh",
+          "annee": 2018,
+          "status": 0,
+          "copies": []
+        },
+        {
+          "ordre": 4,
+          "idFilm": 154914,
+          "titre": "Six pattes sous terre",
+          "realisateurs": "Nicolas Bianco-Levrin",
+          "annee": 2021,
+          "status": 1,
+          "copies": []
+        }
+      ]
     },
     {
-      "idSeance": 132651,
+      "idSeance": 134103,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -10478,7 +10543,7 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21655,
+      "idEvenement": 21649,
       "typeEvenement": 13,
       "dateHeure": "2024-10-30T18:30:00",
       "idSalle": "GF",
@@ -10490,15 +10555,18 @@
           "titreVo": "Contraband",
           "realisateurs": "Michael Powell",
           "annee": 1939,
+          "duree": 80,
           "generique": "Conrad Veidt, Valerie Hobson, Hay Petrie",
           "synopsis": "1940. Bloqué dans un port britannique, Andersen, capitaine danois d'un navire de commerce, se retrouve malgré lui dans une affaire d'espionnage.",
           "miniTexte": "Accusé de contrebande, un capitaine danois se retrouve piégé dans une affaire d'espionnage. Définitivement associés, Powell et Pressburger signent leur première véritable collaboration pour un espiègle jeu du chat et de la souris entre Conrad Veidt et Valerie Hobson. L'alliance réussie de la singularité nordique et du suspense hitchcockien.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 20293,
-              "duree": 0,
-              "format": "35 mm"
+              "idCopie": 27052,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 131898
@@ -10546,6 +10614,47 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 134104,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21668,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-30T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 107605,
+          "titre": "Phantom Light",
+          "art": "The",
+          "realisateurs": "Michael Powell",
+          "annee": 1935,
+          "duree": 76,
+          "generique": "Binnie Hale, Gordon Harker, Donald Calthrop",
+          "adaptation": "D'après la pièce _The Haunted Light_ d'Evadne Price et Joan Roy Byford.",
+          "synopsis": "Sam Higgins arrive sur la côte galloise pour occuper le poste d'un gardien de phare dont on dit qu'il est hanté. Aidé par un lieutenant de marine et une jeune femme, il tente de résoudre le mystère.",
+          "miniTexte": "Un cockney arrive sur la côte galloise pour prendre un poste de gardien de phare, mais celui-ci est hanté. Pour ce nouveau _quota quickie_, Powell transforme la pièce de théâtre d'Edvane Price et Joan Roy Byford en un récit mené tambour battant, qui alterne mystère et succession de bons mots.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20298,
+              "duree": 76,
+              "format": "DCP",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 133248
+        }
+      ]
     },
     {
       "idSeance": 132684,
@@ -11993,6 +12102,7 @@
               "idCopie": 20228,
               "duree": 66,
               "format": "DCP",
+              "version": "VO",
               "stDemande": true
             }
           ],
@@ -12078,6 +12188,8 @@
             {
               "idCopie": 28189,
               "duree": 63,
+              "format": "DCP",
+              "version": "VO",
               "stDemande": true
             }
           ],
@@ -12742,7 +12854,8 @@
           ],
           "idFilmBoxoffice": 44240
         }
-      ]
+      ],
+      "mention": "Séance présentée par Pierre Uytterhoeven"
     },
     {
       "idSeance": 133854,
@@ -13017,7 +13130,8 @@
           ],
           "idFilmBoxoffice": 25203
         }
-      ]
+      ],
+      "mention": "Séance présentée par Elie Chouraqui"
     },
     {
       "idSeance": 133059,
@@ -13185,7 +13299,8 @@
           ],
           "idFilmBoxoffice": 177165
         }
-      ]
+      ],
+      "mention": "Séance présentée par Stéphane Mazalaigue"
     },
     {
       "idSeance": 133099,
@@ -13498,6 +13613,13 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 28336,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            },
+            {
               "idCopie": 20235,
               "duree": 119,
               "stDemande": true
@@ -13550,7 +13672,7 @@
       ]
     },
     {
-      "idSeance": 133840,
+      "idSeance": 134105,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -13567,13 +13689,16 @@
       "items": [
         {
           "ordre": 1,
-          "idFilm": 56883,
-          "titre": "Blackout",
+          "idFilm": 53350,
+          "titre": "Espionne à bord",
+          "titreVo": "Contraband",
           "realisateurs": "Michael Powell",
-          "annee": 1940,
+          "annee": 1939,
           "duree": 80,
+          "generique": "Conrad Veidt, Valerie Hobson, Hay Petrie",
           "synopsis": "1940. Bloqué dans un port britannique, Andersen, capitaine danois d'un navire de commerce, se retrouve malgré lui dans une affaire d'espionnage.",
-          "status": 1,
+          "miniTexte": "Accusé de contrebande, un capitaine danois se retrouve piégé dans une affaire d'espionnage. Définitivement associés, Powell et Pressburger signent leur première véritable collaboration pour un espiègle jeu du chat et de la souris entre Conrad Veidt et Valerie Hobson. L'alliance réussie de la singularité nordique et du suspense hitchcockien.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 27052,
@@ -13582,7 +13707,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmBoxoffice": 131898
         }
       ]
     },
@@ -13720,6 +13846,13 @@
               "sousTitres": "STF"
             },
             {
+              "idCopie": 28335,
+              "duree": 92,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            },
+            {
               "idCopie": 20237,
               "duree": 92,
               "format": "DCP",
@@ -13817,38 +13950,36 @@
       "idCycleCategories": [
         {
           "idCycle": 476,
-          "idCategorie": 2201,
+          "idCategorie": 3401,
           "titreCycle": "Michael Powell",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21684,
+      "idEvenement": 31172,
       "typeEvenement": 13,
       "dateHeure": "2024-11-17T17:30:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 107576,
-          "titre": "Rynox",
+          "idFilm": 107613,
+          "titre": "Smith",
           "realisateurs": "Michael Powell",
-          "annee": 1931,
-          "duree": 47,
-          "generique": "Stewart Rome, John Longden, Dorothy Boyd",
-          "adaptation": "D'après le roman _Rynox_ de Philip MacDonald.",
-          "synopsis": "Après avoir affirmé s'être fait menacer par un inconnu répondant au nom de Marsh, le riche directeur de la société Rynox est retrouvé assassiné. Son fils, reprenant l'entreprise de son père, se met alors en chasse de l'insaisissable Marsh.",
-          "miniTexte": "Un homme d'affaires ruiné simule son propre meurtre pour toucher l'argent de l'assurance. Premier film de Powell, retrouvé et restauré en 1990, _Rynox_ témoigne déjà de l'imagination visuelle du cinéaste, influencé par le cinéma expressionniste allemand, notamment celui de Fritz Lang.",
+          "annee": 1939,
+          "duree": 10,
+          "generique": "Ralph Richardson, Flora Robson, Allan Jeayes",
+          "synopsis": "Docu-fiction, le film présente, à travers l'histoire de John Smith, le rôle d'un organisme d'aide aux vétérans de l'armée. (Attention : 1 source WIKI)",
+          "miniTexte": "Court métrage réalisé par Powell pour promouvoir une organisation caritative qui aidait les anciens militaires en difficulté. Découvert en 2003, le film a connu sa première projection publique un an plus tard, à Canterbury, près de 65 ans après son tournage.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28185,
-              "duree": 47,
-              "format": "DCP",
+              "idCopie": 27051,
+              "duree": 10,
+              "format": "35 mm",
               "version": "VO",
               "stDemande": true
             }
-          ],
-          "idFilmBoxoffice": 187768
+          ]
         },
         {
           "ordre": 2,
@@ -13949,7 +14080,8 @@
           ],
           "idFilmBoxoffice": 31044
         }
-      ]
+      ],
+      "mention": "Séance présentée par Brigitte Fossey"
     },
     {
       "idSeance": 133171,
@@ -14029,7 +14161,7 @@
           "idFilmBoxoffice": 34267
         }
       ],
-      "mention": "Séance présentée par Erik Berchot"
+      "mention": "Séance présentée par Erik Berchot et Jean-Yves Le Mener"
     },
     {
       "idSeance": 133969,
@@ -14265,13 +14397,35 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21661,
+      "idEvenement": 31170,
       "typeEvenement": 13,
       "dateHeure": "2024-11-20T21:30:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
+          "idFilm": 107616,
+          "titre": "Sorcerer's Apprentice",
+          "art": "The",
+          "realisateurs": "Michael Powell",
+          "annee": 1956,
+          "duree": 13,
+          "adaptation": "D'après le poème _L'Apprenti sorcier_ de Goethe.",
+          "synopsis": "Ballet dansé par Sonia Arova et le corps de ballet de l'Opéra d'État de Hambourg, d'après le poème de Goethe.",
+          "miniTexte": "Après _Les Chaussons rouges_, Powell filme à nouveau la danse, avec une captation du ballet _L'Apprenti sorcier_, interprété par Sonia Arova et le corps de ballet de l'Opéra d'État de Hambourg. Une première, tournée en CinémaScope.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27069,
+              "duree": 13,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
           "idFilm": 107628,
           "titre": "Château de Barbe-Bleue",
           "art": "Le",
@@ -14333,7 +14487,7 @@
           "idFilmBoxoffice": 12732
         }
       ],
-      "mention": "Séance présentée par Françoise Fabian"
+      "mention": "Séance présentée par Françoise Fabian et Alain Terzian"
     },
     {
       "idSeance": 133913,
@@ -14420,6 +14574,12 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27071,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 130403
@@ -14975,7 +15135,7 @@
           "idFilmBoxoffice": 228049
         }
       ],
-      "mention": "Séance présentée par Elsa Zylberstein"
+      "mention": "Séance présentée par Elsa Zylberstein et Jean Dujardin"
     },
     {
       "idSeance": 134033,
@@ -15103,7 +15263,8 @@
           ],
           "idFilmBoxoffice": 4266
         }
-      ]
+      ],
+      "mention": "Séance présentée par Paul Belmondo"
     },
     {
       "idSeance": 133970,
