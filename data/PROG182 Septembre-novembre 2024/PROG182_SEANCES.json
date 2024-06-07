@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-06T12:39:55.186Z",
+  "updatedAt": "2024-06-07T08:16:01.012Z",
   "data": [
     {
       "idSeance": 130975,
@@ -2742,14 +2742,14 @@
           "art": "Les",
           "realisateurs": "Abel Gance",
           "annee": 1916,
-          "duree": 69,
+          "duree": 71,
           "generique": "Léon Mathot, Emile Keppens, Henri Maillard, Maud Richard",
           "synopsis": "Au début de la Première Guerre mondiale, un vieux savant est sollicité par le gouvernement français pour inventer des substances toxiques afin de les utiliser contre l'ennemi.",
           "status": 0,
           "copies": [
             {
               "idCopie": 4891,
-              "duree": 69,
+              "duree": 71,
               "format": "35 mm",
               "intertitres": "INT. FR."
             }
@@ -4137,6 +4137,11 @@
               "idCopie": 28328,
               "duree": 102,
               "format": "35 mm"
+            },
+            {
+              "idCopie": 28355,
+              "duree": 102,
+              "format": "35 mm"
             }
           ],
           "idFilmBoxoffice": 57667
@@ -4661,6 +4666,15 @@
               "idCopie": 28329,
               "duree": 105,
               "format": "35 mm"
+            },
+            {
+              "idCopie": 28356,
+              "duree": 105,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 28357,
+              "duree": 105
             }
           ],
           "idFilmBoxoffice": 137664
@@ -4894,7 +4908,7 @@
           "generique": "Jack Nicholson, Karen Black, Billy Green Bush",
           "synopsis": "Robert Dupea, musicien ayant renoncé à sa carrière pour devenir ouvrier, retourne voir son père mourant à la demande de sa sœur.",
           "miniTexte": "Second film et coup de maître pour Rafelson avec cet itinéraire mélancolique sur le désarroi des jeunes générations américaines. Les cinq pièces faciles du titre – des morceaux de Chopin, Bach et Mozart –, scandent l'existence d'un ouvrier caractériel, fin dissimulateur de ses véritables origines sociales, qui personnifie le mal de vivre de tout un pays. Dans un style sobre, spontané, sans concession, Rafelson déploie une tragédie intimiste et confirme le talent brut de Jack Nicholson, fantastique de lyrisme. L'un des chefs-d'œuvre du Nouvel Hollywood.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 2829,
@@ -5017,7 +5031,7 @@
           "duree": 103,
           "generique": "Jack Nicholson, Bruce Dern, Ellen Burstyn",
           "miniTexte": "Comme un prolongement à _Cinq pièces faciles_, Rafelson met en scène la virée sinueuse de deux frères, persuadés qu'ils vont réaliser le rêve américain à Atlantic City. Sous l'influence de Salinger, il tisse une méditation sur l'art et son mythe, mais aussi la famille et la nostalgie de son cocon. Exigeante et troublante, sa vision d'une Amérique des destins ratés trouve de parfaites incarnations avec les performances de Bruce Dern à contre-emploi, et Jack Nicholson, exemplaire de sobriété.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28285,
@@ -5060,7 +5074,7 @@
           "generique": "Jack Nicholson, Jessica Lange, John Colicos",
           "adaptation": "D'après le roman _Le Facteur sonne toujours deux fois_ de James M. Cain.",
           "miniTexte": "35 ans après la version de Tay Garnett, Rafelson dévoile sa propre adaptation du roman sulfureux de James M. Cain. Fidèle à ses thématiques fétiches, il capte à merveille l'atmosphère de la Grande Dépression dans un film funèbre et violemment sensuel sur l'inéluctabilité du destin. Au gré d'inventions techniques et de découpages incisifs, la fuite criminelle de deux amants maudits se fait vibrant déchaînement de passions. Une analyse sans faux-semblants de l'errance et du déracinement, avec un duo Jack Nicholson/Jessica Lange étonnant de naturel et de séduction.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28284,
@@ -5425,7 +5439,7 @@
           "duree": 86,
           "generique": "Davy Jones, Mike Nesmith, Peter Tork",
           "miniTexte": "Premier long métrage de Bob Rafelson, adapté d'une série télévisée de la NBC, _The Monkees_. Influencé par la Nouvelle Vague et _8 1⁄2_, le cinéaste suit le groupe dans ses pérégrinations ubuesques pour un trip psychédélique, qui se moque ouvertement de la guerre et de la télévision de l'époque.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 13785,
@@ -5507,7 +5521,7 @@
           "generique": "Jeff Bridges, Sally Field, Arnold Schwarzenegger",
           "adaptation": "D'après le roman _Stay Hungry_ de Charles Gaines.",
           "miniTexte": "Un riche héritier est confronté au monde complexe des culturistes. Névroses, sexe et violence se rencontrent dans une illustration de l'affairisme d'une société américaine profondément contradictoire. Une œuvre effervescente à l'humour fou, qui vaudra à Schwarzenegger le Golden Globe de la révélation masculine.",
-          "status": 1,
+          "status": 2,
           "copies": [],
           "idFilmBoxoffice": 34473
         }
@@ -5620,14 +5634,13 @@
           "ordre": 1,
           "idFilm": 88428,
           "titre": "Sans motif apparent",
-          "titreVo": "House on Turk Street = No Good Deed",
-          "artVo": "The",
+          "titreVo": "No Good Deed",
           "realisateurs": "Bob Rafelson",
           "annee": 2002,
           "generique": "Samuel L. Jackson, Milla Jovovich, Stellan Skarsgård",
           "adaptation": "D'après la nouvelle _The House in Turk Street_ de Dashiell Hammett.",
           "miniTexte": "Alors qu'il enquête sur la disparition d'une adolescente, un vétéran de la police se retrouve pris au piège d'une machination. Absent des plateaux depuis six ans, Rafelson signe un dernier long métrage en forme de huis clos infernal, adapté d'une nouvelle de Dashiell Hammett. Un cocktail de chantage et de manipulations pour un thriller sous haute tension.",
-          "status": 1,
+          "status": 2,
           "copies": [],
           "idFilmBoxoffice": 44418
         }
@@ -5676,7 +5689,7 @@
           "annee": 1992,
           "generique": "Jack Nicholson, Ellen Barkin, Beverly D'Angelo",
           "miniTexte": "Un dresseur de chiens véreux tente d'escroquer une célèbre cantatrice. De petites magouilles en quiproquos amoureux, Rafelson s'essaie à la comédie satirique façon Wilder et Edwards avec une succession de séquences survoltées, impeccablement servies par le piquant duo Nicholson/Barkin.",
-          "status": 1,
+          "status": 2,
           "copies": [],
           "idFilmBoxoffice": 5170
         }
@@ -5749,7 +5762,7 @@
           "duree": 101,
           "generique": "Jack Nicholson, Michael Caine, Stephen Dorff",
           "miniTexte": "Pour son dernier film avec Jack Nicholson, Rafelson met en scène un casse qui tourne mal, pensé comme le troisième volet d'une trilogie non officielle avec _Cinq pièces faciles_ et _The King of Marvin Gardens_. Un polar néo-noir percutant, où Michael Caine, sacré meilleur acteur au Festival de San Sebastian, livre une prestation d'envergure en sociopathe.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28287,
@@ -5949,7 +5962,7 @@
           "duree": 102,
           "generique": "Debra Winger, Theresa Russell, Sami Frey",
           "miniTexte": "Une agente fédérale enquête sur la mort suspecte et rapprochée de trois riches industriels, qui ont légué leur fortune à la même femme. Sur fond d'investigation policière, Rafelson compose un jeu du chat et de la souris entre deux égéries des années 80, la blonde Theresa Russell et la brune Debra Winger. Fait d'esquives, d'érotisme soft et de stratagèmes inventifs, leur affrontement s'accorde avec la mise en scène élégante, où le cinéaste multiplie les rebondissements dans une Floride de carte postale.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28286,
@@ -5989,7 +6002,7 @@
           "duree": 136,
           "generique": "Patrick Bergin, Iain Glen, Fiona Shaw",
           "miniTexte": "La rencontre de Richard Burton et John Hanning Speke, en aventuriers désireux de percer le secret des sources du Nil. En réunissant son amour pour l'Afrique et son admiration pour Burton, Rafelson réalise son film le plus personnel : le choc visuel et émotionnel d'un premier contact entre Européens et Africains, une exploration exotique de paysages et de caractères. Il laisse s'exprimer sa passion du voyage avec ce portrait attachant de personnages unis par une odyssée et une amitié hors du commun.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28282,
@@ -6305,7 +6318,7 @@
       ]
     },
     {
-      "idSeance": 133811,
+      "idSeance": 134106,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -6315,35 +6328,35 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31045,
+      "idEvenement": 31028,
       "typeEvenement": 13,
       "dateHeure": "2024-10-05T14:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 42717,
-          "titre": "Nuit de San Lorenzo",
-          "art": "La",
-          "titreVo": "Notte di San Lorenzo",
-          "artVo": "La",
-          "realisateurs": "Paolo Taviani, Vittorio Taviani",
-          "annee": 1981,
-          "duree": 108,
-          "generique": "Omero Antonutti, Margarita Lozano, Claudio Bigagli",
-          "synopsis": "10 août, nuit de la San Lorenzo : une femme se souvient de l'été 1944 quand, à peine âgée de dix ans, elle vit sa petite ville de Toscane subir dans la terreur les exactions de l'armée allemande.",
+          "idFilm": 65565,
+          "titre": "Vent nous emportera",
+          "art": "Le",
+          "titreVo": "Bād mā rā khāhad bord",
+          "titreNx": "باد ما را خواهد برد",
+          "realisateurs": "Abbas Kiarostami",
+          "annee": 1998,
+          "dureeStd": 118,
+          "duree": 118,
+          "generique": "Behzad Dourani, Noghre Asadi, Roushan Karam Elmi",
+          "synopsis": "Motivés par une mystérieuse mission, des citadins se rendent dans un village au Kurdistan iranien.",
           "status": 1,
           "copies": [
             {
-              "idCopie": 20451,
-              "duree": 108,
+              "idCopie": 890,
+              "duree": 118,
               "format": "DCP",
               "version": "VO",
-              "sousTitres": "STA",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 1872
+          "idFilmBoxoffice": 21463
         }
       ]
     },
@@ -7303,7 +7316,7 @@
       ]
     },
     {
-      "idSeance": 132173,
+      "idSeance": 134107,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7313,35 +7326,35 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31028,
+      "idEvenement": 31045,
       "typeEvenement": 13,
       "dateHeure": "2024-10-11T20:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 65565,
-          "titre": "Vent nous emportera",
-          "art": "Le",
-          "titreVo": "Bād mā rā khāhad bord",
-          "titreNx": "باد ما را خواهد برد",
-          "realisateurs": "Abbas Kiarostami",
-          "annee": 1998,
-          "dureeStd": 118,
-          "duree": 118,
-          "generique": "Behzad Dourani, Noghre Asadi, Roushan Karam Elmi",
-          "synopsis": "Motivés par une mystérieuse mission, des citadins se rendent dans un village au Kurdistan iranien.",
+          "idFilm": 42717,
+          "titre": "Nuit de San Lorenzo",
+          "art": "La",
+          "titreVo": "Notte di San Lorenzo",
+          "artVo": "La",
+          "realisateurs": "Paolo Taviani, Vittorio Taviani",
+          "annee": 1981,
+          "duree": 108,
+          "generique": "Omero Antonutti, Margarita Lozano, Claudio Bigagli",
+          "synopsis": "10 août, nuit de la San Lorenzo : une femme se souvient de l'été 1944 quand, à peine âgée de dix ans, elle vit sa petite ville de Toscane subir dans la terreur les exactions de l'armée allemande.",
           "status": 1,
           "copies": [
             {
-              "idCopie": 890,
-              "duree": 118,
+              "idCopie": 20451,
+              "duree": 108,
               "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF"
+              "sousTitres": "STA",
+              "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 21463
+          "idFilmBoxoffice": 1872
         }
       ]
     },
@@ -14280,7 +14293,7 @@
           "generique": "Melina Mercouri, Maximilian Schell, Peter Ustinov",
           "adaptation": "D'après le roman _The Light of Day_ d'Eric Ambler.",
           "synopsis": "Une association de malfaiteurs convoite une dague incrustée de diamants exposée au musée Topkapi d'Istanbul.",
-          "miniTexte": "Le trio classique cerveau/homme fort/bricoleur cherche un pigeon, pour transporter l'équipement nécessaire à un cambriolage à Istanbul. Avec notamment Mélina Mercouri, muse du cinéaste, Peter Ustinov, oscarisé, et Joe Dassin dans un petit rôle, une comédie policière exotique d'après un roman d'Eric Ambler, qui inspirera _Le Corniaud_ ou certaines séquences de _Mission : Impossible_.",
+          "miniTexte": "Le trio classique cerveau/homme fort/bricoleur cherche un pigeon, pour transporter l'équipement nécessaire à un cambriolage à Istanbul. Avec notamment Mélina Mercouri, muse du cinéaste, Peter Ustinov, oscarisé, et Joe Dassin dans un petit rôle, une comédie policière exotique d'après un roman d'Eric Ambler, qui certaines séquences de _Mission : Impossible_.",
           "status": 2,
           "copies": [
             {
@@ -15248,7 +15261,7 @@
           "duree": 100,
           "generique": "Michael Caine, Noël Coward, Maggie Blye",
           "synopsis": "Des gangsters anglais qui veulent voler l'or de Fiat s'opposent à la mafia qui veut défendre l'honneur de l'Italie.",
-          "miniTexte": "Une comédie policière enlevée, qui voit des gangsters anglais confrontés à la mafia alors qu'ils convoitent la fortune de Fiat. Le flegme et le charme minéral de Michael Caine, et comme climax la poursuite en Mini Cooper dans Turin, et son embouteillage monstre : du plaisir à l'état pur.",
+          "miniTexte": "Une comédie policière enlevée, qui voit des gangsters anglais confrontés à la mafia alors qu'ils convoitent la fortune de la Fiat. Le flegme et le charme minéral de Michael Caine, et comme climax la poursuite en Mini Cooper dans Turin, et son embouteillage monstre : du plaisir à l'état pur.",
           "status": 2,
           "copies": [
             {
