@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-05-27T12:37:02.645Z",
+  "updatedAt": "2024-06-10T12:22:58.916Z",
   "data": [
     {
       "idSeance": 24307,
@@ -159,7 +159,8 @@
               "sousTitres": "STA",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 114
         }
       ],
       "mention": "Séance présentée par Chloë Roddick"
@@ -191,7 +192,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 92
         }
       ],
       "mention": "Séance suivie d'une discussion avec Wim Wenders"
@@ -218,6 +220,7 @@
           "art": "Les",
           "realisateurs": "Robert Enrico",
           "annee": 1967,
+          "duree": 110,
           "generique": "Alain Delon, Lino Ventura, Joanna Shimkus, Serge Reggiani",
           "adaptation": "D'après le roman _Les Aventuriers_ de José Giovanni.",
           "synopsis": "Roland et Manu, amis de longue date et amateurs de sensations fortes, tentent de s'emparer d'un trésor perdu dans un avion englouti. Au large du Congo, leur quête va les mettre en grand danger.",
@@ -260,7 +263,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 11
         },
         {
           "idFilm": 138105,
@@ -274,7 +278,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 12
         },
         {
           "idFilm": 138106,
@@ -288,7 +293,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 9
         },
         {
           "idFilm": 138107,
@@ -302,7 +308,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 12
         },
         {
           "idFilm": 138111,
@@ -316,7 +323,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 11
         },
         {
           "idFilm": 138110,
@@ -330,7 +338,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 12
         }
       ],
       "mention": "Accompagnement musical par Jean-François Zygel"
@@ -362,7 +371,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 90
         }
       ]
     },
@@ -472,7 +482,8 @@
               "sousTitres": "STA",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 106
         }
       ],
       "mention": "Séance présentée par Chloë Roddick"
@@ -522,7 +533,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 114
         }
       ]
     },
@@ -550,6 +562,7 @@
           "artVo": "The",
           "realisateurs": "Nicholas Ray, Robert Parrish",
           "annee": 1953,
+          "duree": 113,
           "generique": "Susan Hayward, Robert Mitchum, Arthur Kennedy",
           "synopsis": "Ancien champion de rodéo, Jeff McCloud s'est retiré suite à un accident. De retour sur les lieux de son enfance, il rencontre Wes Merritt, qu'il initie à son sport, et sa femme Louise, dont il va tomber amoureux.",
           "status": 2,
@@ -565,48 +578,6 @@
         }
       ],
       "mention": "Séance présentée par Wim Wenders"
-    },
-    {
-      "idSeance": 25188,
-      "idProg": 46,
-      "idCycleCategories": [
-        {
-          "idCycle": 290,
-          "idCategorie": 1429
-        },
-        {
-          "idCycle": 290,
-          "idCategorie": 1385
-        }
-      ],
-      "idEvenement": 15027,
-      "libelleEvenement": "HOLLYWOOD OU LE TEMPS D'UN RETOUR (EN ARRIÈRE) + EXPLOITS DE PEARL WHITE (LES)",
-      "dateHeure": "2018-03-07T16:30:00",
-      "idSalle": "JE",
-      "typeAssoc": 118,
-      "items": [
-        {
-          "idConf": 15479,
-          "titre": "HOLLYWOOD OU LE TEMPS D'UN RETOUR (EN ARRIÈRE)",
-          "duree": 30,
-          "ordre": 2
-        },
-        {
-          "idFilm": 34533,
-          "titre": "EXPLOITS DE PEARL WHITE",
-          "ordre": 1,
-          "copies": [
-            {
-              "idCopie": 13769,
-              "duree": 95,
-              "format": "16 mm",
-              "version": "VO",
-              "stDemande": true
-            }
-          ]
-        }
-      ],
-      "mention": "Séance présentée par Bernard Benoliel"
     },
     {
       "idSeance": 24708,
@@ -639,7 +610,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 95
         },
         {
           "idConf": 15479,
@@ -698,6 +670,7 @@
           "titreVo": "Blackmail",
           "realisateurs": "Alfred Hitchcock",
           "annee": 1929,
+          "duree": 84,
           "generique": "Anny Ondra, John Longden, Sara Allgood",
           "adaptation": "D'après la pièce _Blackmail_ de Charles Bennett.",
           "synopsis": "Alice, fiancée à Frank, détective à Scotland Yard, se dispute avec lui et s'enfuit. Elle suit naïvement un jeune artiste, mais, quand il tente de la violer, elle se défend et le tue. L'enquête est confiée à Frank.",
@@ -738,6 +711,7 @@
           "artVo": "Gli",
           "realisateurs": "Mario Bava",
           "annee": 1961,
+          "duree": 90,
           "generique": "Cameron Mitchell, Folco Lulli, Françoise Christophe",
           "synopsis": "Deux frères, combattant dans des camps opposés, affrontent le félon qui les a séparés et cherchent à venger la mort de leur père.",
           "status": 2,
@@ -776,6 +750,7 @@
           "titreVo": "Houdini",
           "realisateurs": "George Marshall",
           "annee": 1953,
+          "duree": 105,
           "generique": "Tony Curtis, Janet Leigh",
           "synopsis": "La vie du célèbre illusionniste spécialiste de l'évasion spectaculaire.",
           "status": 0,
@@ -820,7 +795,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 127
         }
       ],
       "mention": "Ouverture de la rétrospective. Séance présentée par Wim Wenders"
@@ -850,7 +826,8 @@
               "duree": 3,
               "format": "35 mm"
             }
-          ]
+          ],
+          "duree": 3
         },
         {
           "idFilm": 137886,
@@ -865,7 +842,8 @@
               "sousTitres": "STA",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 76
         }
       ]
     },
@@ -896,7 +874,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 84
         }
       ],
       "mention": "Séance présentée par Emile Breton"
@@ -928,7 +907,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 143
         }
       ],
       "mention": "Séance présentée par David Strohmaier et Randy Gitsch"
@@ -961,7 +941,8 @@
               "sousTitres": "STA",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 107
         }
       ],
       "mention": "Séance présentée par Chloë Roddick"
@@ -987,6 +968,7 @@
           "titre": "Ziegfeld Follies",
           "realisateurs": "Vincente Minnelli, George Sidney, Roy Del Ruth, Robert Lewis, Lemuel Ayers",
           "annee": 1945,
+          "duree": 110,
           "generique": "William Powell, Fred Astaire, Judy Garland, Lucille Ball",
           "synopsis": "Le grand Ziegfeld est au ciel et, de là-haut, rêve à une nouvelle revue dans le style rétro qui a fait sa gloire. Comme à la grande époque, numéros comiques, dansés et chantés se succèdent.",
           "status": 2,
@@ -1029,7 +1011,8 @@
               "format": "35 mm",
               "intertitres": "INT. FR."
             }
-          ]
+          ],
+          "duree": 41
         },
         {
           "idFilm": 128267,
@@ -1042,7 +1025,8 @@
               "format": "35 mm",
               "intertitres": "INT. FR."
             }
-          ]
+          ],
+          "duree": 38
         },
         {
           "idFilm": 93587,
@@ -1055,7 +1039,8 @@
               "format": "35 mm",
               "intertitres": "INT. FR."
             }
-          ]
+          ],
+          "duree": 48
         }
       ],
       "mention": "Accompagnement musical par Maud Nelissen"
@@ -1087,7 +1072,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 108
         }
       ],
       "mention": "Séance présentée par Christine Leteux. Accompagnement musical par Jean-François Zygel"
@@ -1119,7 +1105,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 90
         }
       ]
     },
@@ -1144,6 +1131,7 @@
           "titre": "Paris, Texas",
           "realisateurs": "Wim Wenders",
           "annee": 1984,
+          "duree": 148,
           "generique": "Harry Dean Stanton, Nastassja Kinski, Dean Stockwell",
           "synopsis": "Travis, que tous croyaient mort, réapparaît et retrouve son fils. Ils partent ensemble au Texas, à la recherche de la mère de l'enfant.",
           "miniTexte": "Les riffs de Ry Cooder, Harry Dean Stanton et son visage buriné, le désert, le sable et les motels, la résurrection d'un homme et les retrouvailles avec son fils, une scène bouleversante à travers la glace sans tain d'un peep-show, la grâce et la douleur d'un amour incandescent. Et Nastassja Kinski. Wenders pose sur l'Amérique son regard d'inconditionnel passionné et réalise un chef-d'œuvre. La Palme d'or 1984.",
@@ -1188,7 +1176,8 @@
               "duree": 106,
               "format": "DCP"
             }
-          ]
+          ],
+          "duree": 106
         }
       ]
     },
@@ -1219,7 +1208,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 75
         }
       ],
       "mention": "Accompagnement musical par Jean-François Zygel"
@@ -1252,7 +1242,8 @@
               "sousTitres": "STA",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 108
         }
       ],
       "mention": "Séance présentée par Chloë Roddick"
@@ -1284,7 +1275,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 141
         }
       ],
       "mention": "Séance présentée par David Strohmaier et Randy Gitsch"
@@ -1314,7 +1306,8 @@
               "duree": 60,
               "format": "DCP"
             }
-          ]
+          ],
+          "duree": 60
         }
       ],
       "mention": "Séance présentée par Manuela Padoan et Dominique Païni"
@@ -1353,7 +1346,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 310
         }
       ],
       "mention": "Séance présentée par Stefania Sandrelli et Gian Luca Farinelli"
@@ -1385,7 +1379,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 74
         }
       ],
       "mention": "Séance présentée par Tim Lanza"
@@ -1414,6 +1409,7 @@
           "artVo": "Der",
           "realisateurs": "Wim Wenders",
           "annee": 1977,
+          "duree": 123,
           "generique": "Bruno Ganz, Dennis Hopper, Lisa Kreuzer",
           "adaptation": "D'après le roman _Ripley s'amuse_ de Patricia Highsmith.",
           "synopsis": "Atteint de leucémie, Jonathan est mourant. Pour assurer un avenir à sa famille, il accepte la proposition d'un trafiquant de tableaux américain : tuer un inconnu contre une forte somme d'argent.",
@@ -1456,7 +1452,8 @@
               "duree": 21,
               "format": "35 mm"
             }
-          ]
+          ],
+          "duree": 21
         },
         {
           "idFilm": 138039,
@@ -1470,7 +1467,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 129
         }
       ],
       "mention": "Séance présentée par Ross Lipman"
@@ -1500,7 +1498,8 @@
               "duree": 91,
               "format": "DCP"
             }
-          ]
+          ],
+          "duree": 91
         }
       ],
       "mention": "Séance présentée par Stéphane Audran et Jean-François Rauger"
@@ -1531,7 +1530,8 @@
               "format": "DCP",
               "intertitres": "INT. FR."
             }
-          ]
+          ],
+          "duree": 61
         }
       ]
     },
@@ -1562,7 +1562,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 110
         }
       ],
       "mention": "Séance présentée par Wim Wenders"
@@ -1594,7 +1595,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 91
         }
       ],
       "mention": "Séance présentée par Chloë Roddick"
@@ -1627,7 +1629,8 @@
               "sousTitres": "STA",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 85
         }
       ],
       "mention": "Séance présentée par Chloë Roddick"
@@ -1685,7 +1688,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 78
         }
       ],
       "mention": "Accompagnement musical par Jean-François Zygel"
@@ -1717,7 +1721,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 97
         }
       ]
     },
@@ -1748,7 +1753,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 103
         }
       ],
       "mention": "Séance suivie d'une discussion avec Wim Wenders"
@@ -1781,7 +1787,8 @@
               "sousTitres": "STA",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 12
         },
         {
           "idFilm": 137663,
@@ -1796,7 +1803,8 @@
               "sousTitres": "STA",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 10
         },
         {
           "idFilm": 82851,
@@ -1811,7 +1819,8 @@
               "sousTitres": "STA",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 14
         },
         {
           "idFilm": 137665,
@@ -1826,7 +1835,8 @@
               "sousTitres": "STA",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 13
         }
       ],
       "mention": "Séance présentée par Peter Nestler"
@@ -1852,6 +1862,7 @@
           "titre": "Paparazzi",
           "realisateurs": "Jacques Rozier",
           "annee": 1963,
+          "duree": 22,
           "generique": "Brigitte Bardot, Jean-Luc Godard, Michel Piccoli",
           "synopsis": "« Pourquoi cet article dans le journal ? » (Brigitte Bardot, 1963)",
           "commentaire": "Restauré en 2017 en 2K par Jacques Rozier et la Cinémathèque française, au laboratoire Hiventy, avec le soutien du CNC, de la Cinémathèque suisse, des Archives audiovisuelles de Monaco et d'Extérieur nuit.",
@@ -1871,6 +1882,7 @@
           "titreVo": "Romy – Portrait eines Gesichts",
           "realisateurs": "Hans-Jürgen Syberberg",
           "annee": 1966,
+          "duree": 61,
           "generique": "Romy Schneider",
           "synopsis": "« Portrait original et intime d'une femme à la recherche de sa propre identité, tourné durant trois jours à l'écart des sollicitations mondaines, dans une station de ski bavaroise. » (Christian Longchamp)",
           "status": 2,
@@ -1914,7 +1926,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 94
         }
       ],
       "mention": "Accompagnement musical par Jean-François Zygel"
@@ -1946,7 +1959,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 9
         },
         {
           "idFilm": 116495,
@@ -1960,7 +1974,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 19
         },
         {
           "idFilm": 138113,
@@ -1974,7 +1989,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 11
         },
         {
           "idFilm": 138115,
@@ -1988,7 +2004,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 19
         }
       ],
       "mention": "Séance présentée par Tim Lanza"
@@ -2021,7 +2038,8 @@
               "sousTitres": "STA",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 85
         }
       ],
       "mention": "Séance présentée par Chloë Roddick"
@@ -2047,6 +2065,7 @@
           "titre": "Deux ou trois choses que je sais d'elle",
           "realisateurs": "Jean-Luc Godard",
           "annee": 1966,
+          "duree": 90,
           "generique": "Marina Vlady, Anny Duperey, Roger Montsoret",
           "synopsis": "« ELLE, la cruauté du néo-capitalisme. ELLE, la mort de la beauté moderne. ELLE, la Gestapo des structures. » (JLG, 1966)",
           "commentaire": "Restauré par Argos Films avec le soutien du CNC aux Laboratoire Eclair et L.E. Diapason.",
@@ -2087,7 +2106,8 @@
               "duree": 88,
               "format": "DCP"
             }
-          ]
+          ],
+          "duree": 88
         }
       ],
       "mention": "Séance présentée par Béatrice de Pastre"
@@ -2119,7 +2139,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 97
         }
       ]
     },
@@ -2150,7 +2171,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 135
         }
       ],
       "mention": "Séance présentée par David Strohmaier et Randy Gitsch"
@@ -2182,7 +2204,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 103
         }
       ],
       "mention": "Séance présentée par Christine Leteux. Accompagnement musical par Jean-François Zygel"
@@ -2208,6 +2231,7 @@
           "titre": "Maurice",
           "realisateurs": "James Ivory",
           "annee": 1987,
+          "duree": 140,
           "generique": "James Wilby, Hugh Grant, Rupert Graves",
           "adaptation": "D'après le roman _Maurice_ d'E. M. Forster.",
           "synopsis": "Dans la société conservatrice victorienne, Maurice, un jeune bourgeois londonien, intelligent et sensible, découvre son homosexualité.",
@@ -2251,7 +2275,8 @@
               "format": "DCP",
               "intertitres": "INT. FR."
             }
-          ]
+          ],
+          "duree": 127
         }
       ],
       "mention": "Séance présentée par Manuela Padoan et Agnès Bertola. Accompagnement musical par Maud Nelissen"
@@ -2278,6 +2303,7 @@
           "titreVo": "Singin' in the Rain",
           "realisateurs": "Gene Kelly, Stanley Donen",
           "annee": 1951,
+          "duree": 103,
           "generique": "Gene Kelly, Donald O'Connor, Debbie Reynolds, Jean Hagen",
           "ageMinimal": 10,
           "synopsis": "Les studios de Hollywood à l'aube du parlant : techniciens, réalisateurs et acteurs ont bien du mal à s'adapter aux nouvelles conditions de tournage.",
@@ -2324,7 +2350,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 92
         }
       ],
       "mention": "Séance présentée par Márta Mészáros"
@@ -2367,7 +2394,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 102
         }
       ]
     },
@@ -2394,6 +2422,7 @@
           "titreVo": "Meet Me in St. Louis",
           "realisateurs": "Vincente Minnelli",
           "annee": 1944,
+          "duree": 113,
           "generique": "Judy Garland, Margaret O'Brien, Mary Astor",
           "adaptation": "D'après le roman _Meet Me in St. Louis_ de Sally Benson.",
           "synopsis": "Les Smith vivent paisiblement à Saint-Louis, Missouri. Lorsque le père accepte un emploi à New York, les enfants ne peuvent se résoudre à quitter leurs amis, d'autant plus que les aînées vivent leurs premières amours.",
@@ -2429,9 +2458,16 @@
       "idSalle": "HO",
       "items": [
         {
-          "idFilm": 42121,
-          "titre": "SÉDUITE ET ABANDONNÉE",
           "ordre": 1,
+          "idFilm": 42121,
+          "titre": "Séduite et abandonnée",
+          "titreVo": "Sedotta e abbandonata",
+          "realisateurs": "Pietro Germi",
+          "annee": 1963,
+          "duree": 120,
+          "generique": "Stefania Sandrelli, Saro Urzì, Aldo Puglisi",
+          "synopsis": "Dans un village de Sicile, le jeune Peppino, fiancé à l'une des filles de l'influent Vincenzo Ascalone, séduit une de ses sœurs, Agnese, qui tombe enceinte. Le père fait tout ce qu'il peut pour éviter le déshonneur de sa famille.\n\n---\n\nDans un village de Sicile, le jeune Peppino, fiancé à l'une des filles de l'influent Vincenzo Ascalone, séduit une de ses sœurs, Agnese, qui tombe enceinte. Le père fait son possible pour éviter le déshonneur de sa famille.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 2926,
@@ -2440,7 +2476,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 20297
         }
       ],
       "mention": "Séance présentée par Stefania Sandrelli"
@@ -2467,6 +2504,7 @@
           "art": "Le",
           "realisateurs": "Roberto Rossellini",
           "annee": 1956,
+          "duree": 53,
           "miniTexte": "Les débuts de Rossellini à la télévision, qui signe un portrait de Jacob Levy Moreno, l'inventeur du psychodrame. Le cinéaste utilise le petit écran comme un outil didactique et enregistre une expérience totalement inédite.",
           "commentaire": "En 1956, après deux « échecs » (_Où est la liberté ?_, _La Peur_), Roberto Rossellini tourne _Psychodrame_ pour le CERT (Centre d'études de radiotélévision), alors qu'il commence à regarder au-delà du cinéma, avec la mise en scène théâtrale et cinématographique de l'oratorio _Giovanna d'Arco al rogo_ (_Jeanne au bûcher_, musique de Honegger et livret de Claudel), puis avec la réalisation d'une émission télévisée pour l'ORTF, en même temps qu'_India_, en 1959. La mise en scène de trois « psychodrames », organisée par le professeur Jacob Moreno avec son assistante Anne Ancelin Schützenberger, donne à Rossellini l'occasion de réfléchir sur une technique d'interprétation qui pourrait lui convenir tout particulièrement et, en général, sur le potentiel de la télévision comme outil didactique. D'ailleurs, le thème lancé par Moreno pour déclencher le psychodrame ne pouvait qu'interpeller le cinéaste : « Il faut s'engager en politique. »\n\nSergio Toffetti",
           "status": 2,
@@ -2505,6 +2543,7 @@
           "art": "Les",
           "realisateurs": "Roger Vadim",
           "annee": 1959,
+          "duree": 104,
           "generique": "Jeanne Moreau, Gérard Philipe, Annette Vadim, Jeanne Valérie",
           "adaptation": "D'après le roman _Les Liaisons dangereuses_ de Pierre Choderlos de Laclos.",
           "synopsis": "Juliette de Merteuil et Valmont forment un couple cynique et libertin. À la demande de son épouse, Valmont cherche à séduire la jeune Cécile, mais va s'éprendre de la vertueuse Marianne de Tourvel.",
@@ -2547,7 +2586,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 155
         }
       ],
       "mention": "Séance présentée par David Strohmaier et Randy Gitsch"
@@ -2575,6 +2615,7 @@
           "titreVo": "Feldobott kö",
           "realisateurs": "Sándor Sára",
           "annee": 1968,
+          "duree": 84,
           "generique": "Lajos Balázsovits, Nadesda Kazassian, Todor Todorov",
           "synopsis": "Budapest, 1950. Balázs, qui ne peut plus suivre ses études de cinéma, parcourt la campagne hongroise en tant que géomètre, pour convaincre les paysans du bien-fondé de la collectivisation.",
           "status": 0,
@@ -2617,7 +2658,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 75
         }
       ],
       "mention": "Accompagnement musical par Jean-François Zygel"
@@ -2649,7 +2691,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 94
         }
       ],
       "mention": "Accompagnement musical par Jean-François Zygel"
@@ -2680,7 +2723,8 @@
               "format": "DCP",
               "intertitres": "INT. FR."
             }
-          ]
+          ],
+          "duree": 85
         }
       ],
       "mention": "Accompagnement musical par Neuveritelno"
@@ -2713,7 +2757,8 @@
               "sousTitres": "STA",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 98
         }
       ]
     },
@@ -2748,7 +2793,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 121
         },
         {
           "idConf": 15756,
@@ -2782,6 +2828,7 @@
           "titreNx": "お早う",
           "realisateurs": "Yasujirō Ozu",
           "annee": 1959,
+          "duree": 94,
           "generique": "Kōji Shidara, Masahiko Shimazu, Chishū Ryū, Kuniko Miyake",
           "ageMinimal": 10,
           "synopsis": "Dans la banlieue de Tokyo, deux jeunes garçons réclament une télévision à leurs parents qui refusent et leur demandent de se taire. Les deux frères entament alors une grève de la parole.",
@@ -2824,7 +2871,8 @@
               "duree": 258,
               "format": "Numérique"
             }
-          ]
+          ],
+          "duree": 258
         }
       ],
       "mention": "Séance présentée par Dominique Rabourdin et Régis Debray"
@@ -2860,7 +2908,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 28
         },
         {
           "idFilm": 137668,
@@ -2874,7 +2923,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 41
         },
         {
           "idConf": 15758,
@@ -2912,7 +2962,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 100
         }
       ],
       "mention": "Séance présentée par Tim Lanza"
@@ -2944,7 +2995,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 11
         },
         {
           "idFilm": 138105,
@@ -2958,7 +3010,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 12
         },
         {
           "idFilm": 138106,
@@ -2972,7 +3025,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 9
         },
         {
           "idFilm": 138107,
@@ -2986,7 +3040,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 12
         },
         {
           "idFilm": 138111,
@@ -3000,7 +3055,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 11
         },
         {
           "idFilm": 138110,
@@ -3014,7 +3070,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 12
         }
       ],
       "mention": "Séance présentée par Bryony Dixon. Accompagnement musical par Jean-François Zygel"
@@ -3045,7 +3102,8 @@
               "format": "DCP",
               "intertitres": "INT. FR."
             }
-          ]
+          ],
+          "duree": 117
         }
       ],
       "mention": "Séance présentée par Pascale Raynaud, Hervé Pichard, Béatrice de Pastre et Benjamin Alimi. Accompagnement musical par Mauro Coceano"
@@ -3077,7 +3135,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 116
         }
       ],
       "mention": "Séance présentée par Stefania Sandrelli"
@@ -3104,6 +3163,7 @@
           "titreVo": "Only Angels Have Wings",
           "realisateurs": "Howard Hawks",
           "annee": 1938,
+          "duree": 121,
           "generique": "Cary Grant, Jean Arthur, Rita Hayworth",
           "synopsis": "Les pilotes d'une modeste flotte aéropostale d'Amérique du Sud ont l'habitude de se retrouver au bar de l'aérodrome. Un soir, une musicienne en escale s'invite au comptoir, et s'éprend bientôt de l'ombrageux directeur de la compagnie.",
           "status": 2,
@@ -3160,6 +3220,7 @@
           "artVo": "The",
           "realisateurs": "Marcel Ophuls",
           "annee": 1976,
+          "duree": 278,
           "synopsis": "L'impact du procès de Nuremberg sur la société allemande à la lumière des guerres de la seconde moitié du XX<sup>e</sup> siècle, le Vietnam et l'Algérie, et des crimes qui y ont été commis.",
           "status": 2,
           "copies": [
@@ -3202,7 +3263,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 104
         }
       ],
       "mention": "Séance présentée par Bernard Benoliel"
@@ -3230,6 +3292,7 @@
           "titreVo": "Sullivan's Travels",
           "realisateurs": "Preston Sturges",
           "annee": 1941,
+          "duree": 91,
           "generique": "Joel McCrea, Veronica Lake, Robert Warwick",
           "synopsis": "À Hollywood, le réalisateur John L. Sullivan voudrait faire un film sur la misère. Pour se documenter, il décide de traverser les États-Unis dans la peau d'un vagabond, avec 10 cents en poche.",
           "miniTexte": "Un cinéaste, désireux de réaliser un film « à la Capra » sur la vie d'un homme ordinaire, décide de traverser les États-Unis dans la peau d'un vagabond, pour éprouver la rudesse du quotidien. Rire de tout, conjurer la misère : Preston Sturges met en images avec adresse le rêve d'un retour à un temps révolu, aux sources de l'_entertainment_ hollywoodien. Mention spéciale au formidable duo Veronica Lake/Joel McCrea.",
@@ -3274,7 +3337,8 @@
               "duree": 126,
               "format": "DCP"
             }
-          ]
+          ],
+          "duree": 126
         }
       ],
       "mention": "Séance présentée par Jean-Paul Belmondo, Jean-Claude Carrière et Alain Delon"
@@ -3300,6 +3364,7 @@
           "titre": "Paris, Texas",
           "realisateurs": "Wim Wenders",
           "annee": 1984,
+          "duree": 148,
           "generique": "Harry Dean Stanton, Nastassja Kinski, Dean Stockwell",
           "synopsis": "Travis, que tous croyaient mort, réapparaît et retrouve son fils. Ils partent ensemble au Texas, à la recherche de la mère de l'enfant.",
           "miniTexte": "Les riffs de Ry Cooder, Harry Dean Stanton et son visage buriné, le désert, le sable et les motels, la résurrection d'un homme et les retrouvailles avec son fils, une scène bouleversante à travers la glace sans tain d'un peep-show, la grâce et la douleur d'un amour incandescent. Et Nastassja Kinski. Wenders pose sur l'Amérique son regard d'inconditionnel passionné et réalise un chef-d'œuvre. La Palme d'or 1984.",
@@ -3345,7 +3410,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 90
         }
       ],
       "mention": "Séance présentée par Peter Nestler"
@@ -3377,7 +3443,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 110
         }
       ]
     },
@@ -3408,7 +3475,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 83
         }
       ],
       "mention": "Séance présentée par Jean-François Rauger"
@@ -3435,6 +3503,7 @@
           "titreVo": "Beyond the Valley of the Dolls",
           "realisateurs": "Russ Meyer",
           "annee": 1969,
+          "duree": 109,
           "generique": "Dolly Read, Cynthia Myers, Marcia McBroom",
           "synopsis": "Trois jeunes femmes candides arrivent à Hollywood avec leur ami Harris pour faire connaître leur groupe de rock. Elles vont découvrir un univers de stupre, de sexe et de drogue.",
           "miniTexte": "Russ Meyer, le plus iconoclaste et indépendant des cinéastes américains, se voit offrir un ticket pour Hollywood. Armé du plus sûr des mauvais goûts, il pose une bombe au cœur du système avec une énergie et un plaisir ultracommunicatif. Fortement déconseillé aux adeptes de la sobriété cinématographique. Indispensable pour tous les admirateurs d'excès en tout genre ! — D. P.",
@@ -3479,7 +3548,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 104
         }
       ]
     },
@@ -3510,7 +3580,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 80
         }
       ]
     },
@@ -3541,7 +3612,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 97
         }
       ],
       "mention": "Séance présentée par David Strohmaier et Randy Gitsch"
@@ -3568,6 +3640,7 @@
           "titreVo": "Blackmail",
           "realisateurs": "Alfred Hitchcock",
           "annee": 1929,
+          "duree": 84,
           "generique": "Anny Ondra, John Longden, Sara Allgood",
           "adaptation": "D'après la pièce _Blackmail_ de Charles Bennett.",
           "synopsis": "Alice, fiancée à Frank, détective à Scotland Yard, se dispute avec lui et s'enfuit. Elle suit naïvement un jeune artiste, mais, quand il tente de la violer, elle se défend et le tue. L'enquête est confiée à Frank.",
@@ -3608,6 +3681,7 @@
           "artVo": "The",
           "realisateurs": "Frank Tashlin",
           "annee": 1956,
+          "duree": 97,
           "generique": "Tom Ewell, Jayne Mansfield, Edmond O'Brien",
           "synopsis": "Le mafieux Marty Murdock engage Tom Miller, un imprésario alcoolique, pour faire de sa petite amie Jerri Jordan une vedette de la chanson.",
           "status": 2,
@@ -3651,7 +3725,8 @@
               "sousTitres": "STA",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 24
         },
         {
           "idFilm": 137676,
@@ -3666,7 +3741,8 @@
               "sousTitres": "STA",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 43
         }
       ],
       "mention": "Séance présentée par Peter Nestler"
@@ -3698,7 +3774,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 92
         }
       ],
       "mention": "Séance suivie d'une discussion avec Stefania Sandrelli"
@@ -3730,7 +3807,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 103
         }
       ],
       "mention": "Accompagnement musical par Jean-François Zygel"
@@ -3757,6 +3835,7 @@
           "titreVo": "Close Encounters of the Third Kind",
           "realisateurs": "Steven Spielberg",
           "annee": 1977,
+          "duree": 137,
           "generique": "Richard Dreyfuss, François Truffaut, Teri Garr",
           "synopsis": "Quelque part dans l'univers, il existe certainement une vie extraterrestre. Des faits étranges attirent de nombreux chercheurs et spécialistes d'ovnis vers un même lieu. Au Mexique, en plein désert de Sonora, un scientifique français, Claude Lacombe, tente d'établir le contact.",
           "commentaire": "Après la terre (_Duel_, 1971) et la mer (_Les Dents de la mer_, 1975), le ciel. À trente ans, le plus jeune de la bande du Nouvel Hollywood décroche un budget de vingt millions de dollars chez Columbia et signe un film qui bat tous les records de recettes, surpassant _Le Parrain_ de Francis Coppola, avant de s'incliner face à _La Guerre des étoiles_ de George Lucas. Les extraterrestres débarquent sur Terre, en plein cœur des États-Unis. Les objets se révoltent, animés par des forces obscures : rencontre du premier type. Des soucoupes volantes sont aperçues : rencontre du deuxième type. Une approche est organisée avec les extraterrestres : rencontre du troisième type. Pendant les années 1950 les ovnis étaient inquiétants, menaçants, envahisseurs. Les États-Unis redoutaient tout ce qui venait d'ailleurs. En 1977, en pleine Amérique de Jimmy Carter, nous quittons le champ du rêve pour entrer dans celui de la science, de la religion, de la technologie et du possible. Avec Steven Spielberg qui, fasciné par _2001 : l'odyssée de l'espace_, fait appel à son chef des effets spéciaux Douglas Trumbull, ainsi qu'à François Truffaut en tant qu'ambassadeur humaniste, le possible devient probable, et le probable certain. Nous sommes main dans la main face à l'évidence : les extraterrestres arrivent et sont nos amis. Naïf et féérique, _Rencontres du troisième type_ nous apprend à ne pas grandir. C'est un miroir tendu par son réalisateur à toute une génération pour qui la contreculture commence avec Mickey Mouse. Mais c'est en croyant à l'incroyable que l'on transcende sa condition humaine. Plutôt qu'aux extraterrestres, croyons au cinéma.\n\nArthur Avisseau",
@@ -3794,6 +3873,7 @@
           "titre": "Deux ou trois choses que je sais d'elle",
           "realisateurs": "Jean-Luc Godard",
           "annee": 1966,
+          "duree": 90,
           "generique": "Marina Vlady, Anny Duperey, Roger Montsoret",
           "synopsis": "« ELLE, la cruauté du néo-capitalisme. ELLE, la mort de la beauté moderne. ELLE, la Gestapo des structures. » (JLG, 1966)",
           "commentaire": "Restauré par Argos Films avec le soutien du CNC aux Laboratoire Eclair et L.E. Diapason.",
@@ -3839,7 +3919,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 118
         },
         {
           "idConf": 15880,
@@ -3877,7 +3958,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 173
         }
       ]
     },
@@ -3908,7 +3990,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 108
         }
       ],
       "mention": "Accompagnement musical par Jean-François Zygel"
@@ -3941,7 +4024,8 @@
               "sousTitres": "STA",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 36
         },
         {
           "idFilm": 137674,
@@ -3955,7 +4039,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 47
         }
       ]
     },
@@ -3986,7 +4071,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "duree": 111
         }
       ],
       "mention": "Séance présentée par Stefania Sandrelli"
@@ -4016,7 +4102,8 @@
               "duree": 120,
               "format": "DCP"
             }
-          ]
+          ],
+          "duree": 120
         }
       ],
       "mention": "Séance présentée par Jacques Perrin et Aurore Clément"
@@ -4048,7 +4135,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 78
         }
       ],
       "mention": "Accompagnement musical par Jean-François Zygel"
@@ -4077,6 +4165,7 @@
           "artVo": "Der",
           "realisateurs": "Wim Wenders",
           "annee": 1981,
+          "duree": 121,
           "generique": "Patrick Bauchau, Paul Getty Jr., Isabelle Weingarten",
           "synopsis": "Le tournage d'un film de science-fiction est interrompu par manque d'argent, et de pellicule. L'équipe du film s'alanguit, dans l'attente de nouvelles du producteur.",
           "commentaire": "Restauration 4K à partir du négatif original 35 mm menée par la Fondation Wim Wenders.",
@@ -4120,7 +4209,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 11
         },
         {
           "idFilm": 137670,
@@ -4134,7 +4224,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 24
         },
         {
           "idFilm": 137671,
@@ -4149,7 +4240,8 @@
               "sousTitres": "STA",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 23
         },
         {
           "idFilm": 137672,
@@ -4163,7 +4255,8 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "duree": 7
         }
       ],
       "mention": "Séance présentée par Peter Nestler"
@@ -4192,6 +4285,7 @@
           "artVo": "Die",
           "realisateurs": "Georg Wilhelm Pabst",
           "annee": 1928,
+          "duree": 134,
           "generique": "Louise Brooks, Fritz Kortner, Franz Lederer, Carl Goetz",
           "adaptation": "D'après les pièces _Die Büchse der Pandora_ et _Erdgeist_ de Frank Wedekind.",
           "synopsis": "Loulou, femme fatale, parvient à épouser le docteur Schön, un riche propriétaire de journaux. Le soir des noces, son mari la surprend avec son propre fils.",
