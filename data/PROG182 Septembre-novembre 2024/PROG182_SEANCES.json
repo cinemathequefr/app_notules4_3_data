@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-10T12:24:45.635Z",
+  "updatedAt": "2024-06-10T14:59:11.950Z",
   "data": [
     {
       "idSeance": 130975,
@@ -642,7 +642,7 @@
       ]
     },
     {
-      "idSeance": 134085,
+      "idSeance": 134178,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -652,7 +652,7 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 29888,
+      "idEvenement": 30020,
       "typeEvenement": 13,
       "dateHeure": "2024-09-01T14:30:00",
       "idSalle": "HL",
@@ -665,15 +665,15 @@
           "artVo": "The",
           "realisateurs": "James Cameron",
           "annee": 1989,
-          "duree": 140,
+          "duree": 171,
           "generique": "Ed Harris, Mary Elizabeth Mastrantonio, Michael Biehn",
           "miniTexte": "Budget considérable, innovations technologiques, effets spéciaux enchanteurs : Cameron, au sommet à Hollywood après _Terminator_ et _Aliens, le retour_, déploie tout son génie dans un huis clos à plus de 7 000 mètres de fond. L'équipage d'une plateforme de forage est envoyé en mission de sauvetage auprès d'un sous-marin nucléaire en perdition au bord d'un abysse. Un blockbuster puissant et poétique, qui convoque Kubrick et _2001_, explore les peurs primales et fustige la bêtise humaine. Un sommet de science-fiction, pour une rencontre du troisième type en apnée.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 3944,
-              "duree": 140,
-              "format": "70 mm",
+              "idCopie": 27261,
+              "duree": 171,
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -746,7 +746,7 @@
       ],
       "idEvenement": 30745,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-01T17:15:00",
+      "dateHeure": "2024-09-01T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -787,7 +787,7 @@
       ],
       "idEvenement": 30040,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-01T18:15:00",
+      "dateHeure": "2024-09-01T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -799,7 +799,7 @@
           "duree": 92,
           "generique": "Edwige Feuillère, Gabriel Gabrio, Roger Karl, Maurice Escande",
           "synopsis": "César Borgia, fils du pape, suit les conseils du cruel Machiavel et décide de se servir de sa charmante sœur pour amadouer et éliminer ses principaux rivaux.",
-          "miniTexte": "La vie d'une femme à la recherche du bonheur, en lutte contre la volonté d'un frère dévoré d'ambition. Une évocation du siècle des Borgia, à laquelle Gance insuffle une atmosphère épicurienne qui atteint son paroxysme au cours d'une scène d'orgie d'une rare audace pour l'époque.",
+          "miniTexte": "La vie d'une femme à la recherche du bonheur, en lutte contre la volonté d'un frère dévoré d'ambition. Une évocation du siècle des Borgia, à laquelle Gance insuffle une atmosphère érotique qui atteint son paroxysme au cours d'une scène d'orgie d'une rare audace pour l'époque.",
           "status": 1,
           "copies": [
             {
@@ -809,6 +809,43 @@
             }
           ],
           "idFilmBoxoffice": 3234
+        }
+      ]
+    },
+    {
+      "idSeance": 133858,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30673,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-01T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50899,
+          "titre": "Dame aux camélias",
+          "art": "La",
+          "realisateurs": "Abel Gance, Fernand Rivers",
+          "annee": 1934,
+          "duree": 110,
+          "adaptation": "D'après le roman _La Dame aux camélias_ d'Alexandre Dumas fils.",
+          "miniTexte": "Les amours d'Armand Duval et de Marguerite Gautier. Une version du roman de Dumas fils, coréalisée avec Fernand Rivers, qui marque les premiers pas cinématographiques d'Yvonne Printemps.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28114,
+              "duree": 110
+            }
+          ],
+          "idFilmBoxoffice": 218609
         }
       ]
     },
@@ -825,7 +862,7 @@
       ],
       "idEvenement": 30729,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-01T19:45:00",
+      "dateHeure": "2024-09-01T21:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -850,43 +887,6 @@
             }
           ],
           "idFilmBoxoffice": 118896
-        }
-      ]
-    },
-    {
-      "idSeance": 133858,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30673,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-01T20:15:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 50899,
-          "titre": "Dame aux camélias",
-          "art": "La",
-          "realisateurs": "Abel Gance, Fernand Rivers",
-          "annee": 1934,
-          "duree": 110,
-          "adaptation": "D'après le roman _La Dame aux camélias_ d'Alexandre Dumas fils.",
-          "miniTexte": "Les amours d'Armand Duval et de Marguerite Gautier. Une version du roman de Dumas fils, coréalisée avec Fernand Rivers, qui marque les premiers pas cinématographiques d'Yvonne Printemps.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 28114,
-              "duree": 110
-            }
-          ],
-          "idFilmBoxoffice": 218609
         }
       ]
     },
@@ -1765,7 +1765,7 @@
       "mention": "Séance présentée par Serge Bozon"
     },
     {
-      "idSeance": 131296,
+      "idSeance": 134179,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -1775,7 +1775,7 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 29887,
+      "idEvenement": 30021,
       "typeEvenement": 13,
       "dateHeure": "2024-09-08T14:30:00",
       "idSalle": "HL",
@@ -1793,20 +1793,6 @@
           "miniTexte": "Ripley revient ! Avec ce deuxième volet de la saga, Cameron s'empare du mythe installé par Ridley Scott et y pose sa griffe, lui donnant une ampleur inattendue : après une première partie très martiale (les Marines caricaturaux missionnés pour sauver des colons aux prises avec les xénomorphes), Ripley reprend la main, à la fois terrorisée (humaine) et déterminée (surhumaine). Elle renoue avec sa propre maternité, tendue vers un seul but, sauver une fillette, et trouve le chemin de la rédemption dans un affrontement final de mère à mère. Monstrueux, intense, éblouissant.",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 4979,
-              "duree": 0,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 21912,
-              "duree": 137,
-              "format": "70 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
             {
               "idCopie": 5041,
               "duree": 137,
@@ -1843,7 +1829,7 @@
           "annee": 1990,
           "duree": 5,
           "generique": "Laurence Côte, René Rabreau",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28228,
@@ -1861,7 +1847,7 @@
           "annee": 1994,
           "duree": 30,
           "generique": "Olivia Bouet-Willaumez, Julien Rivière, Pierre Lhuillier",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28227,
@@ -1877,7 +1863,8 @@
           "realisateurs": "Laurent Achard",
           "annee": 1997,
           "duree": 30,
-          "status": 0,
+          "generique": "Babet Ferrier, Vincent Taveau, Jérôme Le Paulmier",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28229,
@@ -1893,7 +1880,7 @@
           "realisateurs": "Laurent Achard",
           "annee": 2021,
           "duree": 3,
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28251,
@@ -1912,7 +1899,7 @@
           "duree": 9,
           "generique": "Mireille Roussel, Martin Buisson, Pierre Beaux",
           "synopsis": "À la campagne, un jour de novembre, un enfant recroquevillé n'ose pas rentrer dans sa maison. Il attend que sa mère le rejoigne dans le jardin.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 26874,
@@ -1938,7 +1925,7 @@
       ],
       "idEvenement": 30788,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-08T17:30:00",
+      "dateHeure": "2024-09-08T17:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1960,7 +1947,8 @@
           ],
           "idFilmBoxoffice": 190793
         }
-      ]
+      ],
+      "mention": "Séance présentée par Sabine Lancelin"
     },
     {
       "idSeance": 133735,
@@ -2017,7 +2005,7 @@
       ],
       "idEvenement": 30076,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-08T19:45:00",
+      "dateHeure": "2024-09-08T19:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2246,7 +2234,7 @@
           "duree": 30,
           "generique": "Thérèse Roussel, Fred Personne, Pascal Cervo",
           "synopsis": "Au crépuscule de leur vie, Odile et Marcèle s'aiment toujours. Atteinte d'une maladie incurable, Odile doit être hospitalisée. Le temps d'un dernier dimanche, ils revoient les gens qu'ils aiment.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 3173,
@@ -2263,7 +2251,7 @@
           "realisateurs": "Laurent Achard",
           "annee": 2016,
           "duree": 52,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28027,
@@ -3224,7 +3212,7 @@
           "annee": 1917,
           "duree": 96,
           "generique": "Léon Mathot, Émile Keppens, Henri Maillard",
-          "miniTexte": "Un journaliste commet lui-même des méfaits afin d'être le premier à les annoncer dans son journal. Abel Gance laisse libre cours à son imagination en utilisant pour la première fois le travelling au cinéma, dans le but d'approcher les acteurs au plus près, ce qui provoque à l'époque un petit scandale.",
+          "miniTexte": "Un journaliste commet lui-même des méfaits afin d'être le premier à les annoncer dans son journal. Abel Gance laisse libre cours à son imagination un utilisant le travelling, dans le but d'approcher les acteurs au plus près, ce qui provoque à l'époque un petit scandale.",
           "status": 1,
           "copies": [
             {
@@ -6191,7 +6179,7 @@
           "generique": "Isabelle Huppert, Sandrine Bonnaire, Jacqueline Bisset",
           "adaptation": "D'après le roman _L'Analphabète_ de Ruth Rendell.",
           "miniTexte": "La bonne et la postière, et une famille bien sous tous rapports, au cœur d'un polar de classes, où se révèlent hypocrisie, manipulation et colère qui gronde. D'après _L'Analphabète_ de Ruth Rendell, une _Cérémonie_menée de main de maître, dans une peinture au vitriol de la bourgeoisie française de province, sans doute la plus sournoise de son auteur.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 27647,
@@ -6367,7 +6355,7 @@
           "duree": 90,
           "generique": "Danielle Chinsky, François Knobelspiess, André Rouyer",
           "miniTexte": "Elbeuf, Normandie. Les ouvrières d'une petite entreprise de textile se mettent en grève, jusqu'à, tensions, escalade, séquestrer leur patron. À la lisière du documentaire (les employées jouent leur propres rôles), Karmitz réalise son dernier film avant de se consacrer pleinement à la production, et met un point final à sa trilogie militante, sur les conflits sociaux et la révolte des travailleurs opprimés.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 27645,
@@ -6409,7 +6397,7 @@
           "generique": "Behzad Dourani, Noghre Asadi, Roushan Karam Elmi",
           "synopsis": "Motivés par une mystérieuse mission, des citadins se rendent dans un village au Kurdistan iranien.",
           "miniTexte": "La quête mystérieuse de quelques hommes de Téhéran dans un village du Kurdistan iranien. Cinéaste des paysages et du temps qui passe, Kiarostami signe une fable philosophique, d'une splendeur picturale absolue, sur le rapport à la nature, à la mort, sur l'éternité des lieux et le sens de la vie.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 890,
@@ -6556,7 +6544,7 @@
           "duree": 20,
           "generique": "Delphine Seyrig, Michael Lonsdale, Eléonore Hirt",
           "miniTexte": "D'après la pièce de Samuel Beckett, un exercice de déconstruction sonore et visuelle, qui met en scène un homme et deux femmes (le mari, la femme, la maîtresse), emprisonnés côte à côte, dans des jarres identiques.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28326,
@@ -6574,7 +6562,7 @@
           "generique": "Jean-Paul Giquel, Juliet Berto, Dominique Labourier",
           "adaptation": "D'après le roman _Le Camarade_ de Cesare Pavese.",
           "miniTexte": "Refusant le confort bourgeois, un jeune homme travaille à l'usine et milite dans un groupe d'extrême-gauche. Ce deuxième volet d'une partition engagée mêle un roman de Pavese aux souvenirs de la grève chez Citroën à Nanterre, en 68. Entre deux discussions passionnées et une séance de ciné-club (bel hommage à Solanas), Karmitz fabrique avec finesse un « cinéma d'information politique destiné au plus grand nombre ».",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 27646,
@@ -6741,7 +6729,7 @@
           "duree": 111,
           "generique": "Miguel Bosé, Bartabas, Brigitte Marty",
           "miniTexte": "Bartabas puise dans le poème de Lord Byron sur la légende du héros ukrainien, Ivan Mazepa, pour évoquer la rencontre de deux artistes, le peintre Géricault et l'écuyer Franconi qui partageaient la même passion des chevaux. Une œuvre onirique à l'atmosphère sombre et sensuelle, d'une puissance hypnotique.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28323,
@@ -6819,7 +6807,7 @@
           "duree": 24,
           "generique": "Maurice Garrel, Natasha Parry, Nicole Hiss",
           "miniTexte": "Au départ, la commande d'un laboratoire pharmaceutique pour un médicament censé soigner l'alcoolisme. À l'arrivée, la chute d'un écrivain ivrogne, vice-consul à Calcutta, scénarisée par Marguerite Duras.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 1271,
@@ -6836,7 +6824,7 @@
           "annee": 2024,
           "duree": 74,
           "miniTexte": "Réalisé à l'occasion de l'exposition « Corps à corps » au Centre Pompidou, un portrait de Marin Karmitz par l'ami de 50 ans. À travers la passion du producteur pour la photographie, Goupil retrace l'Histoire tragique du XX<sup>e</sup> siècle, tout en s'interrogeant sur l'importance du souvenir et de la transmission.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28226,
@@ -7037,7 +7025,7 @@
           "generique": "Gaspard Manesse, Raphaël Fejtö, Francine Racette",
           "ageMinimal": 10,
           "miniTexte": "En 1944, Julien, pensionnaire dans un collège catholique, se lie d'amitié avec Jean, un nouveau venu énigmatique qui partage son dortoir. De retour en France après 10 ans d'exil aux États-Unis, Louis Malle fait appel à ses souvenirs d'enfance pour livrer l'émouvante chronique d'un pensionnat sous l'Occupation. L'histoire de deux écoliers qui semblent partager les mêmes inquiétudes, mais quand l'un gardera ses privilèges, l'autre sera renvoyé au sort le plus atroce.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 7513,
@@ -7116,7 +7104,7 @@
           "duree": 93,
           "generique": "Benoît Magimel, Hélène Vincent, Valérie Lalonde",
           "miniTexte": "Benoît Magimel dans son premier rôle, des répliques cultes (« C'est lundi, c'est ravioli ! »), et la parodie désopilante de Patrick Bouchitey en curé catéchiste, avec son fameux « Jésus revient ». Chatiliez trouve dans une histoire de bébé échangé à la naissance le prétexte idéal pour passer au vitriol les stéréotypes sociaux. Carton plein : pour ses débuts au cinéma, il fait rire la France entière avec les déboires des Groseille et des Le Quesnoy, et remporte 4 Césars.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 27652,
@@ -7125,6 +7113,44 @@
             }
           ],
           "idFilmBoxoffice": 3130
+        }
+      ]
+    },
+    {
+      "idSeance": 133801,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759,
+          "titreCycle": "MK2",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31040,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-10T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 68645,
+          "titre": "Code inconnu",
+          "realisateurs": "Michael Haneke",
+          "annee": 1999,
+          "dureeStd": 117,
+          "duree": 117,
+          "generique": "Juliette Binoche, Thierry Neuvic, Josef Bierbichler",
+          "miniTexte": "Dans les rues de Paris, un papier froissé, jeté à une mendiante roumaine, constitue le point de départ d'un récit fragmenté, autour d'une poignée d'hommes et de femmes de milieux divers. De fausses pistes en ruptures de tons, Haneke montre les bonnes intentions et les failles de ses personnages, comme autant de réflexions sur l'immigration, l'indifférence ou l'incapacité à communiquer dans une société moderne.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27644,
+              "duree": 117,
+              "format": "Vidéo"
+            }
+          ],
+          "idFilmBoxoffice": 25994
         }
       ]
     },
@@ -7153,7 +7179,7 @@
           "duree": 100,
           "generique": "Jacques Higelin, Catherine Martin, Michèle Moretti",
           "miniTexte": "Un pianiste, marié-un appartement-un enfant, étouffe dans son quotidien familial et part voir ailleurs à l'occasion d'une tournée en province. Tourné juste avant 68 et imprégné de ses balbutiements, capté en son direct, le premier acte de la trilogie de Karmitz sur le malaise social, d'un réalisme mordant. Un état des lieux désenchanté qui pointe la solitude mais raconte aussi l'envie, souvent paralysante, de renverser la table.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 27649,
@@ -7230,6 +7256,49 @@
       ]
     },
     {
+      "idSeance": 134107,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759,
+          "titreCycle": "MK2",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31045,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-10T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42717,
+          "titre": "Nuit de San Lorenzo",
+          "art": "La",
+          "titreVo": "Notte di San Lorenzo",
+          "artVo": "La",
+          "realisateurs": "Paolo Taviani, Vittorio Taviani",
+          "annee": 1981,
+          "duree": 108,
+          "generique": "Omero Antonutti, Margarita Lozano, Claudio Bigagli",
+          "miniTexte": "La nuit du 10 août, une femme se souvient de l'été 44, quand la terreur des exactions de l'armée allemande régnait sur son village. Dans la tradition des bardes toscans et fortement inspirés de leurs souvenirs personnels, les frères Taviani invitent à écouter le conte historique de _La Nuit de San Lorenzo_, pendant laquelle chacun peut exaucer un vœu. Grand prix du jury à Cannes.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20451,
+              "duree": 108,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STA",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 1872
+        }
+      ]
+    },
+    {
       "idSeance": 132131,
       "idProg": 182,
       "idCycleCategories": [
@@ -7256,7 +7325,7 @@
           "generique": "Irène Jacob, Jean-Louis Trintignant, Frédérique Feder",
           "synopsis": "Un juge à la retraite a mis ses voisins sur écoute téléphonique. Parmi eux, Valentine, étudiante et mannequin. Un jour, Valentine ramène au juge son chien égaré. Une étrange relation se noue alors entre eux.",
           "miniTexte": "Dernier volet de la trilogie tricolore, Rouge rassemble les pièces d'un puzzle à trois personnages, qu'un chien renversé va relier au fil des hasards et du destin. Obsédé par les signes et le sens du détail, Kieslowski mêle amour et voyeurisme dans un subtil jeu de piste qui marque le point final, incandescent, d'une œuvre exemplaire.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 22422,
@@ -7265,86 +7334,6 @@
             }
           ],
           "idFilmBoxoffice": 74338
-        }
-      ]
-    },
-    {
-      "idSeance": 134068,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 788,
-          "idCategorie": 3373,
-          "titreCycle": "Darejan Omirbaev",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30782,
-      "typeEvenement": 13,
-      "dateHeure": "2024-10-10T21:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 76647,
-          "titre": "Route",
-          "art": "La",
-          "titreVo": "Jol",
-          "titreNx": "Жол",
-          "realisateurs": "Darejan Omirbaev",
-          "annee": 2001,
-          "duree": 85,
-          "generique": "Djamshed Usmonov, Saule Toktybayeva, Alnur Turgambayeva",
-          "miniTexte": "Une plongée dans les pensées d'un jeune cinéaste appelé au chevet de sa mère malade. Une réflexion sur la création artistique en même temps qu'une autocritique cocasse, qui suit la ligne dépouillée d'un road movie des steppes, où plane l'ombre de l'âne Balthazar du film de Bresson.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28138,
-              "duree": 85,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 37343
-        }
-      ]
-    },
-    {
-      "idSeance": 133801,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 391,
-          "idCategorie": 1759,
-          "titreCycle": "MK2",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31040,
-      "typeEvenement": 13,
-      "dateHeure": "2024-10-11T17:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 68645,
-          "titre": "Code inconnu",
-          "realisateurs": "Michael Haneke",
-          "annee": 1999,
-          "dureeStd": 117,
-          "duree": 117,
-          "generique": "Juliette Binoche, Thierry Neuvic, Josef Bierbichler",
-          "miniTexte": "Dans les rues de Paris, un papier froissé, jeté à une mendiante roumaine, constitue le point de départ d'un récit fragmenté, autour d'une poignée d'hommes et de femmes de milieux divers. De fausses pistes en ruptures de tons, Haneke montre les bonnes intentions et les failles de ses personnages, comme autant de réflexions sur l'immigration, l'indifférence ou l'incapacité à communiquer dans une société moderne.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 27644,
-              "duree": 117,
-              "format": "Vidéo"
-            }
-          ],
-          "idFilmBoxoffice": 25994
         }
       ]
     },
@@ -7387,49 +7376,6 @@
       ]
     },
     {
-      "idSeance": 134107,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 391,
-          "idCategorie": 1759,
-          "titreCycle": "MK2",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31045,
-      "typeEvenement": 13,
-      "dateHeure": "2024-10-11T20:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 42717,
-          "titre": "Nuit de San Lorenzo",
-          "art": "La",
-          "titreVo": "Notte di San Lorenzo",
-          "artVo": "La",
-          "realisateurs": "Paolo Taviani, Vittorio Taviani",
-          "annee": 1981,
-          "duree": 108,
-          "generique": "Omero Antonutti, Margarita Lozano, Claudio Bigagli",
-          "miniTexte": "La nuit du 10 août, une femme se souvient de l'été 44, quand la terreur des exactions de l'armée allemande régnait sur son village. Dans la tradition des bardes toscans et fortement inspirés de leurs souvenirs personnels, les frères Taviani invitent à écouter le conte historique de _La Nuit de San Lorenzo_, pendant laquelle chacun peut exaucer un vœu. Grand prix du jury à Cannes.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 20451,
-              "duree": 108,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STA",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 1872
-        }
-      ]
-    },
-    {
       "idSeance": 134001,
       "idProg": 182,
       "idCycleCategories": [
@@ -7464,6 +7410,48 @@
             }
           ],
           "idFilmBoxoffice": 20297
+        }
+      ]
+    },
+    {
+      "idSeance": 134068,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3373,
+          "titreCycle": "Darejan Omirbaev",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30782,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-11T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 76647,
+          "titre": "Route",
+          "art": "La",
+          "titreVo": "Jol",
+          "titreNx": "Жол",
+          "realisateurs": "Darejan Omirbaev",
+          "annee": 2001,
+          "duree": 85,
+          "generique": "Djamshed Usmonov, Saule Toktybayeva, Alnur Turgambayeva",
+          "miniTexte": "Une plongée dans les pensées d'un jeune cinéaste appelé au chevet de sa mère malade. Une réflexion sur la création artistique en même temps qu'une autocritique cocasse, qui suit la ligne dépouillée d'un road movie des steppes, où plane l'ombre de l'âne Balthazar du film de Bresson.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28138,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 37343
         }
       ]
     },
@@ -7629,7 +7617,7 @@
           "duree": 122,
           "generique": "Marcello Mastroianni, Nadia Mourouzi, Serge Reggiani",
           "miniTexte": "Spyros, 50 ans, marie sa fille, et quitte tout pour devenir apiculteur. Un bord de mer, un cinéma abandonné, une touche de tension érotique, l'interprétation de Mastroianni : construit sur le contraste de génération avec la jeune auto-stoppeuse qu'il rencontre, un voyage nostalgique vers l'intime, dont les silences et la lenteur contemplative font un instant de poésie suspendue.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 27650,
@@ -8427,7 +8415,7 @@
         {
           "ordre": 1,
           "idFilm": 41251,
-          "titre": "Masque de la Mort Rouge",
+          "titre": "Masque de la mort rouge",
           "art": "Le",
           "titreVo": "Masque of the Red Death",
           "artVo": "The",
@@ -8436,7 +8424,7 @@
           "duree": 90,
           "generique": "Vincent Price, Hazel Court, Patrick Magee",
           "adaptation": "D'après les nouvelles _Le Masque de la mort rouge_ et _Hop-Frog_ d'Edgar Allan Poe.",
-          "synopsis": "Au Moyen-Âge, le Prince sataniste Prospero terrorise les populations alentour. Quand un mal, nommé Mort Rouge, s'abat sur le pays, il convie à un bal les nobles, qui doivent se prêter à des jeux sadiques.",
+          "synopsis": "Au Moyen-Âge, le prince sataniste Prospero terrorise les populations alentour. Quand un mal nommé « mort rouge » s'abat sur le pays, il convie à un bal les nobles qui doivent se prêter à des jeux sadiques.",
           "status": 1,
           "copies": [
             {
@@ -8776,7 +8764,7 @@
       ]
     },
     {
-      "idSeance": 132417,
+      "idSeance": 134175,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -8786,35 +8774,34 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31076,
+      "idEvenement": 31201,
       "typeEvenement": 13,
       "dateHeure": "2024-10-20T15:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 41256,
-          "titre": "Jeune et Innocent",
-          "titreVo": "Young and Innocent",
-          "realisateurs": "Alfred Hitchcock",
-          "annee": 1937,
-          "duree": 80,
-          "generique": "Nova Pilbeam, Derrick De Marney, Edward Rigby",
-          "adaptation": "D'après le roman _A Shilling for Candles_ de Josephine Tey.",
-          "ageMinimal": 10,
-          "synopsis": "Une star de cinéma est retrouvée morte, étranglée avec une ceinture d'imperméable. Robert Tisdall, qui découvre le corps, est accusé du meurtre. Il se met alors à la recherche du vrai coupable.",
-          "synopsisJP": "Un écrivain est soupçonné du meurtre de sa fiancée, dont il a découvert le corps. Sur l'un de ses thèmes fétiches – le criminel présumé cherche le vrai coupable pour prouver son innocence –, Hitchcock réalise un polar classique avec poursuite en voiture, histoire d'amour, et quelques belles prouesses techniques.",
+          "idFilm": 36241,
+          "titre": "Flibustière des Antilles",
+          "art": "La",
+          "titreVo": "Anne of the Indies",
+          "realisateurs": "Jacques Tourneur",
+          "annee": 1951,
+          "duree": 81,
+          "generique": "Jean Peters, Louis Jourdan, Thomas Gomez",
+          "adaptation": "D'après la nouvelle _Anne of the Indies_ de Herbert Ravenel Sass.",
+          "synopsis": "Anne Providence, capitaine d'un navire pirate, sème la terreur sur les mers du monde entier. Le capitaine Pierre-François La Rochelle, chargé de l'arrêter, se fait emprisonner par son équipage et entreprend alors de la séduire.",
+          "synopsisJP": "Anne Providence, la femme pirate, a de qui tenir : son père adoptif n'est autre que le redoutable Barbe Noire. Mais quand un capitaine français fait irruption dans sa vie, son cœur chavire !",
+          "commentaire": "« Tous les héros tourneuriens ont ceci de particulier qu'ils vont toujours au bout de leurs volontés et de leurs intentions, n'hésitant pas à risquer leur vie (et la perdre) pour défendre leur cause. Le capitaine Anne Providence sacrifie ses hommes et son navire pour sauver celui qu'elle a aimé, et personne de son équipage ne renoncera à un combat perdu d'avance. Personne ne songe à se révolter devant un destin contraire. On se bat pour la vie, avec obstination (comme Mitchum dans _Pendez-moi haut et court_) mais on ne bat pas en retraite, et on sait regarder la mort en face. » (Dominique Rabourdin)",
           "status": 2,
           "copies": [
             {
-              "idCopie": 8723,
-              "duree": 80,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "idCopie": 7694,
+              "duree": 81,
+              "format": "35 mm",
+              "version": "VF"
             }
-          ],
-          "idFilmBoxoffice": 335
+          ]
         }
       ]
     },
@@ -10172,7 +10159,7 @@
         {
           "ordre": 1,
           "idFilm": 58901,
-          "titre": "Hot Shots! 2",
+          "titre": "Hot Shots! Part 2",
           "realisateurs": "Jim Abrahams",
           "annee": 1992,
           "duree": 88,
@@ -11765,43 +11752,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 9157,
+              "idCopie": 28363,
               "duree": 112,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 9184,
-              "duree": 112,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 9260,
-              "duree": 112,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 9287,
-              "duree": 112,
-              "format": "35 mm",
-              "version": "VO"
-            },
-            {
-              "idCopie": 24793,
-              "duree": 112,
-              "format": "35 mm",
-              "version": "VO"
-            },
-            {
-              "idCopie": 18721,
-              "duree": 112,
-              "format": "DCP",
-              "version": "VO"
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 491
@@ -12499,7 +12452,7 @@
           "titre": "West Side Story",
           "realisateurs": "Robert Wise, Jerome Robbins",
           "annee": 1960,
-          "duree": 148,
+          "duree": 152,
           "generique": "Natalie Wood, Richard Beymer, George Chakiris",
           "adaptation": "D'après la comédie musicale _West Side Story_ de Leonard Bernstein, Stephen Sondheim et Arthur Laurents.",
           "ageMinimal": 10,
@@ -12508,11 +12461,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 16573,
-              "duree": 148,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
+              "idCopie": 9921,
+              "duree": 152,
+              "format": "70 mm",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 1073
@@ -13643,14 +13595,9 @@
           "copies": [
             {
               "idCopie": 28336,
-              "duree": 0,
+              "duree": 119,
               "format": "35 mm",
               "version": "VO",
-              "stDemande": true
-            },
-            {
-              "idCopie": 20235,
-              "duree": 119,
               "stDemande": true
             }
           ],
@@ -15418,7 +15365,7 @@
       ]
     },
     {
-      "idSeance": 133971,
+      "idSeance": 134177,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -15428,35 +15375,32 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31077,
+      "idEvenement": 31167,
       "typeEvenement": 13,
       "dateHeure": "2024-11-24T15:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 37811,
-          "titre": "Homme invisible",
-          "art": "L'",
-          "titreVo": "Invisible Man",
-          "artVo": "The",
-          "realisateurs": "James Whale",
-          "annee": 1933,
-          "duree": 71,
-          "generique": "Claude Rains, Gloria Stuart, William Harrigan",
-          "adaptation": "D'après le roman _L'Homme invisible_ de H. G. Wells.",
-          "synopsisJP": "Un scientifique, qui a trouvé comment devenir invisible mais se retrouve incapable de mettre au point l'antidote, dérive vers la violence et la folie. Bourré d'humour noir et de morceaux d'épouvante, avec sa photo magnifique et ses trucages ingénieux, un classique du cinéma fantastique qui n'a pas pris une ride.",
+          "idFilm": 46566,
+          "titre": "Aventures d'Arsène Lupin",
+          "art": "Les",
+          "realisateurs": "Jacques Becker",
+          "annee": 1956,
+          "duree": 104,
+          "generique": "Robert Lamoureux, Liselotte Pulver, O. E. Hasse",
+          "ageMinimal": 8,
+          "synopsis": "Personne ne connait la véritable identité d'Arsène Lupin, tour à tour diplomate ou riche viticulteur. Mais c'est toujours avec une grande élégance et une incroyable inventivité qu'il commet ses forfaits.",
+          "synopsisJP": "Vol de tableau et de bijoux, kidnapping et documents secrets : les exploits du gentleman-cambrioleur, avec déguisements et transformations ingénieuses. Une comédie policière pleine de bonne humeur, imprégnée de l'esprit malicieux de Maurice Leblanc.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 13792,
-              "duree": 71,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "idCopie": 10920,
+              "duree": 104,
+              "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 2582
+          "idFilmBoxoffice": 1097
         }
       ]
     },
