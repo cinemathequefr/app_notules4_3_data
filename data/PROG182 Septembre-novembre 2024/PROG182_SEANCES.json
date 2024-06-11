@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-10T14:59:11.950Z",
+  "updatedAt": "2024-06-11T08:21:48.784Z",
   "data": [
     {
       "idSeance": 130975,
@@ -7192,33 +7192,6 @@
       ]
     },
     {
-      "idSeance": 133788,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 788,
-          "idCategorie": 3390,
-          "titreCycle": "Darejan Omirbaev",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 30968,
-      "typeEvenement": 14,
-      "dateHeure": "2024-10-10T19:00:00",
-      "typeConference": "Conférence",
-      "idSalle": "GF",
-      "duree": 90,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 30968,
-          "idTypeConf": 55,
-          "titre": "Qui êtes-vous... Darejan Omirbaev ?",
-          "duree": 90
-        }
-      ]
-    },
-    {
       "idSeance": 134090,
       "idProg": 182,
       "idCycleCategories": [
@@ -7338,7 +7311,7 @@
       ]
     },
     {
-      "idSeance": 134037,
+      "idSeance": 134181,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7348,30 +7321,60 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31140,
+      "idEvenement": 31137,
       "typeEvenement": 13,
       "dateHeure": "2024-10-11T18:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 54730,
-          "titre": "Meurtre à l'italienne",
-          "titreVo": "Un maledetto imbroglio",
+          "idFilm": 42128,
+          "titre": "Homme de paille",
+          "art": "L'",
+          "titreVo": "Uomo di paglia",
+          "artVo": "L'",
           "realisateurs": "Pietro Germi",
-          "annee": 1959,
-          "duree": 115,
-          "generique": "Pietro Germi, Claudia Cardinale, Franco Fabrizi",
-          "adaptation": "D'après le roman _Meurtre à l'italienne_ de Carlo Emilio Gadda.",
+          "annee": 1958,
+          "generique": "Pietro Germi, Franca Bettoia, Luisa Della Noce",
           "status": 1,
           "copies": [
             {
-              "idCopie": 28358,
-              "duree": 115,
-              "format": "DCP"
+              "idCopie": 28319,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
-          ],
-          "idFilmBoxoffice": 3448
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 133788,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 788,
+          "idCategorie": 3390,
+          "titreCycle": "Darejan Omirbaev",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 30968,
+      "typeEvenement": 14,
+      "dateHeure": "2024-10-11T19:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "GF",
+      "duree": 90,
+      "idSeanceAssoc": 134068,
+      "typeAssoc": 117,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 30968,
+          "idTypeConf": 55,
+          "titre": "Qui êtes-vous... Darejan Omirbaev ?",
+          "duree": 90
         }
       ]
     },
@@ -7428,6 +7431,8 @@
       "typeEvenement": 13,
       "dateHeure": "2024-10-11T21:30:00",
       "idSalle": "GF",
+      "idSeanceAssoc": 133788,
+      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -8483,7 +8488,7 @@
       ]
     },
     {
-      "idSeance": 134010,
+      "idSeance": 134180,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -8491,33 +8496,45 @@
           "idCategorie": 3414,
           "titreCycle": "Pietro Germi",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 803,
+          "idCategorie": 3416,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
-      "idEvenement": 31137,
-      "typeEvenement": 13,
+      "idEvenement": 31140,
       "dateHeure": "2024-10-19T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
-          "idFilm": 42128,
-          "titre": "Homme de paille",
-          "art": "L'",
-          "titreVo": "Uomo di paglia",
-          "artVo": "L'",
+          "idFilm": 54730,
+          "titre": "Meurtre à l'italienne",
+          "titreVo": "Un maledetto imbroglio",
           "realisateurs": "Pietro Germi",
-          "annee": 1958,
-          "generique": "Pietro Germi, Franca Bettoia, Luisa Della Noce",
+          "annee": 1959,
+          "duree": 115,
+          "generique": "Pietro Germi, Claudia Cardinale, Franco Fabrizi",
+          "adaptation": "D'après le roman _Meurtre à l'italienne_ de Carlo Emilio Gadda.",
           "status": 1,
           "copies": [
             {
-              "idCopie": 28319,
-              "duree": 0,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
+              "idCopie": 28358,
+              "duree": 115,
+              "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 3448
+        },
+        {
+          "ordre": 2,
+          "idConf": 31202,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec David Perrault",
+          "duree": 60
         }
       ]
     },
@@ -8558,47 +8575,6 @@
             }
           ],
           "idFilmBoxoffice": 9756
-        }
-      ]
-    },
-    {
-      "idSeance": 134011,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 803,
-          "idCategorie": 3414,
-          "titreCycle": "Pietro Germi",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31135,
-      "typeEvenement": 13,
-      "dateHeure": "2024-10-19T16:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 41959,
-          "titre": "Divorce à l'italienne",
-          "titreVo": "Divorzio all'italiana",
-          "realisateurs": "Pietro Germi",
-          "annee": 1961,
-          "duree": 104,
-          "generique": "Marcello Mastroianni, Daniela Rocca, Stefania Sandrelli",
-          "synopsis": "Un baron sicilien tombe amoureux de sa jeune cousine et cherche à se débarrasser de sa femme.",
-          "miniTexte": "Un noble sicilien manigance un crime d'honneur pour se débarrasser de son épouse. Loin de ses rôles de séducteur romantique, Mastroianni incarne un homme aussi cynique que ridicule, dans une satire grinçante de la société conservatrice des années 60.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28225,
-              "duree": 104,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 97129
         }
       ]
     },
@@ -8648,7 +8624,7 @@
       ]
     },
     {
-      "idSeance": 134012,
+      "idSeance": 134011,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -8658,30 +8634,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31130,
+      "idEvenement": 31135,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-19T18:45:00",
+      "dateHeure": "2024-10-19T18:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 42115,
-          "titre": "Beaucoup trop pour un seul homme",
-          "titreVo": "Immorale",
-          "artVo": "L'",
+          "idFilm": 41959,
+          "titre": "Divorce à l'italienne",
+          "titreVo": "Divorzio all'italiana",
           "realisateurs": "Pietro Germi",
-          "annee": 1966,
-          "duree": 90,
-          "generique": "Ugo Tognazzi, Stefania Sandrelli, Renée Longarini",
-          "status": 1,
+          "annee": 1961,
+          "duree": 104,
+          "generique": "Marcello Mastroianni, Daniela Rocca, Stefania Sandrelli",
+          "synopsis": "Un baron sicilien tombe amoureux de sa jeune cousine et cherche à se débarrasser de sa femme.",
+          "miniTexte": "Un noble sicilien manigance un crime d'honneur pour se débarrasser de son épouse. Loin de ses rôles de séducteur romantique, Mastroianni incarne un homme aussi cynique que ridicule, dans une satire grinçante de la société conservatrice des années 60.",
+          "status": 2,
           "copies": [
             {
-              "idCopie": 13934,
-              "duree": 90,
-              "format": "35 mm"
+              "idCopie": 28225,
+              "duree": 104,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 48405
+          "idFilmBoxoffice": 97129
         }
       ]
     },
@@ -8721,6 +8700,44 @@
             }
           ],
           "idFilmBoxoffice": 28147
+        }
+      ]
+    },
+    {
+      "idSeance": 134012,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31130,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-19T20:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42115,
+          "titre": "Beaucoup trop pour un seul homme",
+          "titreVo": "Immorale",
+          "artVo": "L'",
+          "realisateurs": "Pietro Germi",
+          "annee": 1966,
+          "duree": 90,
+          "generique": "Ugo Tognazzi, Stefania Sandrelli, Renée Longarini",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 13934,
+              "duree": 90,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 48405
         }
       ]
     },
@@ -9183,6 +9200,13 @@
               "duree": 100,
               "format": "DCP",
               "version": "VO"
+            },
+            {
+              "idCopie": 28365,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 4305
@@ -9442,11 +9466,6 @@
               "duree": 123,
               "format": "35 mm",
               "version": "VO",
-              "stDemande": true
-            },
-            {
-              "idCopie": 20287,
-              "duree": 123,
               "stDemande": true
             }
           ],
@@ -9921,12 +9940,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 20278,
-              "duree": 110,
-              "format": "35 mm",
-              "version": "VO"
-            },
-            {
               "idCopie": 27063,
               "duree": 110,
               "format": "35 mm",
@@ -10015,6 +10028,13 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27057,
+              "duree": 133,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 553
@@ -10419,13 +10439,6 @@
               "format": "35 mm",
               "version": "VO",
               "stDemande": true
-            },
-            {
-              "idCopie": 20290,
-              "duree": 98,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 43982
@@ -10582,7 +10595,7 @@
           "idFilmBoxoffice": 59465
         }
       ],
-      "mention": "Ouverture de la rétrospective"
+      "mention": "Ouverture de la rétrospective. Séance présentée par Mårten Blomkvist et Nina Widerberg"
     },
     {
       "idSeance": 134104,
@@ -10998,6 +11011,33 @@
       ]
     },
     {
+      "idSeance": 134183,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3392,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 30974,
+      "typeEvenement": 14,
+      "dateHeure": "2024-11-02T16:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 30974,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Olivier Assayas",
+          "duree": 60
+        }
+      ]
+    },
+    {
       "idSeance": 132772,
       "idProg": 182,
       "idCycleCategories": [
@@ -11032,12 +11072,6 @@
               "format": "35 mm",
               "version": "VO",
               "stDemande": true
-            },
-            {
-              "idCopie": 20204,
-              "duree": 110,
-              "format": "16 mm",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 187923
@@ -11790,12 +11824,6 @@
           "miniTexte": "La métamorphose inattendue d'un garçonnet londonien, qui devient jaune après avoir perdu sa souris de compagnie lors d'une excursion scolaire. Conçue pour la Children's Film Foundation, la dernière collaboration de Powell et Pressburger sublime la force de la narration et du cinéma. Une fantaisie à visée éducative, d'une touchante simplicité.",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 20277,
-              "duree": 55,
-              "format": "16 mm",
-              "version": "VO"
-            },
             {
               "idCopie": 27595,
               "duree": 55,
@@ -13469,6 +13497,13 @@
               "duree": 100,
               "format": "DCP",
               "version": "VO"
+            },
+            {
+              "idCopie": 28365,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 4305
@@ -13676,14 +13711,7 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 20429,
-              "duree": 24,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
-            },
-            {
-              "idCopie": 28202,
+              "idCopie": 28364,
               "duree": 24,
               "format": "35 mm",
               "version": "VO",
@@ -15206,12 +15234,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 20278,
-              "duree": 110,
-              "format": "35 mm",
-              "version": "VO"
-            },
-            {
               "idCopie": 27063,
               "duree": 110,
               "format": "35 mm",
@@ -15483,6 +15505,13 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27057,
+              "duree": 133,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 553
