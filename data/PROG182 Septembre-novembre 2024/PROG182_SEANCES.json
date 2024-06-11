@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-11T08:21:48.784Z",
+  "updatedAt": "2024-06-11T12:45:08.824Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1409,7 +1409,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Vincent Merlier et Martine Lancelot"
     },
     {
       "idSeance": 133867,
@@ -1536,7 +1537,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Vincent Merlier et Martine Lancelot"
     },
     {
       "idSeance": 133760,
@@ -2308,6 +2310,195 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 133977,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30847,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-12T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45957,
+          "titre": "Rapt à l'italienne",
+          "titreVo": "Mordi e fuggi",
+          "realisateurs": "Dino Risi",
+          "annee": 1972,
+          "duree": 101,
+          "generique": "Marcello Mastroianni, Nicoletta Machiavelli, Oliver Reed",
+          "synopsis": "Un industriel et sa maîtresse sont pris en otage par une bande de terroristes en fuite.",
+          "miniTexte": "Dans l'Italie des années 70, un industriel et sa maîtresse sont pris en otage par des terroristes en fuite. Derrière le récit tragi-comique, Risi évoque la descente aux enfers d'un type médiocre, au centre d'une charge irrévérencieuse, qui s'en prend autant aux flics et aux médias qu'aux anarchistes et aux bourgeois.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 2875,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 52429
+        }
+      ]
+    },
+    {
+      "idSeance": 134051,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3399,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31027,
+      "typeEvenement": 14,
+      "dateHeure": "2024-09-12T19:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "GF",
+      "duree": 90,
+      "idSeanceAssoc": 131429,
+      "typeAssoc": 117,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31027,
+          "idTypeConf": 55,
+          "titre": "Conférence de Georges Mourier",
+          "duree": 90
+        }
+      ]
+    },
+    {
+      "idSeance": 133978,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30835,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-12T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43797,
+          "titre": "Pigeon",
+          "art": "Le",
+          "titreVo": "Soliti ignoti",
+          "artVo": "I",
+          "realisateurs": "Mario Monicelli",
+          "annee": 1958,
+          "duree": 110,
+          "generique": "Marcello Mastroianni, Vittorio Gassman, Totò, Claudia Cardinale",
+          "synopsis": "En prison, Cosimo révèle à Peppe les détails du gros coup infaillible qu'il se réserve pour sa sortie. Mais Peppe est libéré le premier et organise le casse avec les complices de Cosimo.",
+          "miniTexte": "Une bande de branquignols se met en tête d'organiser le cambriolage du Mont de Piété, forcément foireux. Au-delà de la cocasserie, le film reflète le climat d'amertume et d'échec qui sera la marque de la comédie italienne et son refus du miracle économique. Les interprètes s'y donnent de savoureuses répliques et campent des personnages aussi drôles que pittoresques.",
+          "commentaire": "Enthousiasmés par le film de Jules Dassin, _Du rififi chez les hommes_, Monicelli et ses scénaristes. Cecchi D'Amico, Age et Scarpelli. imaginent une version italienne. Une bande de branquignols se mettent en tête d'organiser le casse du siècle, évidemment foireux. Au-delà de la cocasserie, le film reflète ce climat d'amertume et d'échec qui seront la marque de la comédie italienne. Ses interprètes s'y donnent de savoureuses répliques et campent des personnages aussi drôles que pittoresques. Artisans d'un fiasco flamboyant, ces clowns pitoyables contribuent à la magie de cette œuvre charnière, inspirant autant Louis Malle pour _Crackers_ que Bob Fosse à Broadway pour _Big Deal_.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 12276,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 2619
+        }
+      ]
+    },
+    {
+      "idSeance": 133770,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30702,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-12T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31473,
+          "titre": "Car sauvage est le vent",
+          "titreVo": "Wild Is the Wind",
+          "realisateurs": "George Cukor",
+          "annee": 1957,
+          "duree": 110,
+          "generique": "Anna Magnani, Anthony Quinn, Anthony Franciosa",
+          "miniTexte": "Sauvage est le vent, comme l'ardente diva italienne : la Magnani fait une incursion outre-Atlantique avec ce mélo rural – un immigré italien, installé dans le Nevada, épouse sa belle-sœur pour oublier son veuvage. Un Cukor méconnu, « drame de remariage », qui vaudra à la comédienne un Ours d'argent à Berlin et une nomination aux Oscars aux côtés d'Anthony Quinn.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28352,
+              "duree": 110,
+              "format": "16 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 37490
+        }
+      ]
+    },
+    {
+      "idSeance": 131429,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30939,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-12T21:15:00",
+      "idSalle": "JE",
+      "idSeanceAssoc": 134051,
+      "typeAssoc": 117,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 106408,
+          "titre": "A l'ombre des grands chênes (Abel Gance)",
+          "realisateurs": "Georges Mourier",
+          "annee": 2005,
+          "duree": 52,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28143,
+              "duree": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 133979,
       "idProg": 182,
       "idCycleCategories": [
@@ -2320,7 +2511,7 @@
       ],
       "idEvenement": 30056,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-12T18:30:00",
+      "dateHeure": "2024-09-13T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2366,7 +2557,7 @@
         }
       ],
       "idEvenement": 30841,
-      "dateHeure": "2024-09-12T19:00:00",
+      "dateHeure": "2024-09-13T19:00:00",
       "idSalle": "HL",
       "typeAssoc": 118,
       "items": [
@@ -2416,7 +2607,7 @@
       ],
       "idEvenement": 30055,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-12T20:00:00",
+      "dateHeure": "2024-09-13T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2439,191 +2630,6 @@
             }
           ],
           "idFilmBoxoffice": 97136
-        }
-      ]
-    },
-    {
-      "idSeance": 133977,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 786,
-          "idCategorie": 3371,
-          "titreCycle": "Marcello Mastroianni",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30847,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-13T18:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 45957,
-          "titre": "Rapt à l'italienne",
-          "titreVo": "Mordi e fuggi",
-          "realisateurs": "Dino Risi",
-          "annee": 1972,
-          "duree": 101,
-          "generique": "Marcello Mastroianni, Nicoletta Machiavelli, Oliver Reed",
-          "synopsis": "Un industriel et sa maîtresse sont pris en otage par une bande de terroristes en fuite.",
-          "miniTexte": "Dans l'Italie des années 70, un industriel et sa maîtresse sont pris en otage par des terroristes en fuite. Derrière le récit tragi-comique, Risi évoque la descente aux enfers d'un type médiocre, au centre d'une charge irrévérencieuse, qui s'en prend autant aux flics et aux médias qu'aux anarchistes et aux bourgeois.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 2875,
-              "duree": 101,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 52429
-        }
-      ]
-    },
-    {
-      "idSeance": 134051,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3399,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 31027,
-      "typeEvenement": 14,
-      "dateHeure": "2024-09-13T19:00:00",
-      "typeConference": "Conférence",
-      "idSalle": "GF",
-      "duree": 90,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 31027,
-          "idTypeConf": 55,
-          "titre": "Conférence de Georges Mourier",
-          "duree": 90
-        }
-      ]
-    },
-    {
-      "idSeance": 133978,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 786,
-          "idCategorie": 3371,
-          "titreCycle": "Marcello Mastroianni",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30835,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-13T20:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 43797,
-          "titre": "Pigeon",
-          "art": "Le",
-          "titreVo": "Soliti ignoti",
-          "artVo": "I",
-          "realisateurs": "Mario Monicelli",
-          "annee": 1958,
-          "duree": 110,
-          "generique": "Marcello Mastroianni, Vittorio Gassman, Totò, Claudia Cardinale",
-          "synopsis": "En prison, Cosimo révèle à Peppe les détails du gros coup infaillible qu'il se réserve pour sa sortie. Mais Peppe est libéré le premier et organise le casse avec les complices de Cosimo.",
-          "miniTexte": "Une bande de branquignols se met en tête d'organiser le cambriolage du Mont de Piété, forcément foireux. Au-delà de la cocasserie, le film reflète le climat d'amertume et d'échec qui sera la marque de la comédie italienne et son refus du miracle économique. Les interprètes s'y donnent de savoureuses répliques et campent des personnages aussi drôles que pittoresques.",
-          "commentaire": "Enthousiasmés par le film de Jules Dassin, _Du rififi chez les hommes_, Monicelli et ses scénaristes. Cecchi D'Amico, Age et Scarpelli. imaginent une version italienne. Une bande de branquignols se mettent en tête d'organiser le casse du siècle, évidemment foireux. Au-delà de la cocasserie, le film reflète ce climat d'amertume et d'échec qui seront la marque de la comédie italienne. Ses interprètes s'y donnent de savoureuses répliques et campent des personnages aussi drôles que pittoresques. Artisans d'un fiasco flamboyant, ces clowns pitoyables contribuent à la magie de cette œuvre charnière, inspirant autant Louis Malle pour _Crackers_ que Bob Fosse à Broadway pour _Big Deal_.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 12276,
-              "duree": 110,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 2619
-        }
-      ]
-    },
-    {
-      "idSeance": 133770,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30702,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-13T21:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 31473,
-          "titre": "Car sauvage est le vent",
-          "titreVo": "Wild Is the Wind",
-          "realisateurs": "George Cukor",
-          "annee": 1957,
-          "duree": 110,
-          "generique": "Anna Magnani, Anthony Quinn, Anthony Franciosa",
-          "miniTexte": "Sauvage est le vent, comme l'ardente diva italienne : la Magnani fait une incursion outre-Atlantique avec ce mélo rural – un immigré italien, installé dans le Nevada, épouse sa belle-sœur pour oublier son veuvage. Un Cukor méconnu, « drame de remariage », qui vaudra à la comédienne un Ours d'argent à Berlin et une nomination aux Oscars aux côtés d'Anthony Quinn.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28352,
-              "duree": 110,
-              "format": "16 mm",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 37490
-        }
-      ]
-    },
-    {
-      "idSeance": 131429,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30939,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-13T21:15:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 106408,
-          "titre": "A l'ombre des grands chênes (Abel Gance)",
-          "realisateurs": "Georges Mourier",
-          "annee": 2005,
-          "duree": 52,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28143,
-              "duree": 52
-            }
-          ]
         }
       ]
     },
@@ -4021,9 +4027,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 27992,
+              "idCopie": 28367,
               "duree": 90,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VO",
               "stDemande": true
             }
@@ -5393,12 +5399,18 @@
           "idCategorie": 3413,
           "titreCycle": "Bob Rafelson",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 802,
+          "idCategorie": 3425,
+          "titreCycle": "Bob Rafelson",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31117,
-      "typeEvenement": 13,
       "dateHeure": "2024-09-28T15:00:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -5422,29 +5434,9 @@
             }
           ],
           "idFilmBoxoffice": 4892
-        }
-      ]
-    },
-    {
-      "idSeance": 134174,
-      "idProg": 182,
-      "idCycleCategories": [
+        },
         {
-          "idCycle": 802,
-          "idCategorie": 3425,
-          "titreCycle": "Bob Rafelson",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 31176,
-      "typeEvenement": 14,
-      "dateHeure": "2024-09-28T16:30:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
+          "ordre": 2,
           "idConf": 31176,
           "idTypeConf": 16,
           "titre": "Dialogue avec Jean-Baptiste Thoret",
@@ -5635,7 +5627,7 @@
           "titreVo": "Per le antiche scale",
           "realisateurs": "Mauro Bolognini",
           "annee": 1975,
-          "duree": 97,
+          "duree": 101,
           "generique": "Marcello Mastroianni, Françoise Fabian, Marthe Keller",
           "adaptation": "D'après le roman _Par les escaliers anciens_ de Mario Tobino.",
           "synopsis": "Dans la Toscane des années 1930, le professeur Bonaccorsi, psychiatre réputé, mène des recherches sur la folie dans l'asile où il travaille. Une nouvelle venue, le docteur Anna Bersani, s'oppose très vite à ses théories.",
@@ -5645,7 +5637,7 @@
           "copies": [
             {
               "idCopie": 10120,
-              "duree": 97,
+              "duree": 101,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
@@ -6108,7 +6100,7 @@
           "idFilmBoxoffice": 99078
         }
       ],
-      "mention": "Ouverture de la rétrospective"
+      "mention": "Ouverture de la rétrospective. Séance présentée par Marin Karmitz"
     },
     {
       "idSeance": 133817,
@@ -6248,7 +6240,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Melissa Gignac"
     },
     {
       "idSeance": 133961,
@@ -6328,7 +6321,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Joël Daire"
     },
     {
       "idSeance": 131985,
@@ -6365,7 +6359,8 @@
           ],
           "idFilmBoxoffice": 9887
         }
-      ]
+      ],
+      "mention": "Séance présentée par Marin Karmitz"
     },
     {
       "idSeance": 134106,
@@ -6376,12 +6371,18 @@
           "idCategorie": 1759,
           "titreCycle": "MK2",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 391,
+          "idCategorie": 3419,
+          "titreCycle": "MK2",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31028,
-      "typeEvenement": 13,
       "dateHeure": "2024-10-05T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -6408,6 +6409,13 @@
             }
           ],
           "idFilmBoxoffice": 21463
+        },
+        {
+          "ordre": 2,
+          "idConf": 31160,
+          "idTypeConf": 16,
+          "titre": "Marin Karmitz par Marin Karmitz, une leçon de cinéma",
+          "duree": 60
         }
       ]
     },
@@ -6449,33 +6457,6 @@
             }
           ],
           "idFilmBoxoffice": 4360
-        }
-      ]
-    },
-    {
-      "idSeance": 134052,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 391,
-          "idCategorie": 3419,
-          "titreCycle": "MK2",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 31160,
-      "typeEvenement": 14,
-      "dateHeure": "2024-10-05T16:15:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 31160,
-          "idTypeConf": 16,
-          "titre": "Marin Karmitz par Marin Karmitz, une leçon de cinéma",
-          "duree": 60
         }
       ]
     },
@@ -6572,7 +6553,8 @@
           ],
           "idFilmBoxoffice": 3611
         }
-      ]
+      ],
+      "mention": "Séance présentée par Marin Karmitz"
     },
     {
       "idSeance": 133818,
@@ -6738,7 +6720,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Marin Karmitz"
     },
     {
       "idSeance": 133962,
@@ -6833,7 +6816,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec Marin Karmitz et Romain Goupil"
     },
     {
       "idSeance": 133819,
@@ -7189,7 +7173,8 @@
           ],
           "idFilmBoxoffice": 21464
         }
-      ]
+      ],
+      "mention": "Séance présentée par Marin Karmitz"
     },
     {
       "idSeance": 134090,
@@ -9325,8 +9310,9 @@
           "duree": 52,
           "generique": "Philippe Beuzen, Catherine Sée, Christian Charrière",
           "synopsis": "Deux étudiants abordent dans un café une jeune femme indépendante. Par jeu, l'un d'eux entreprend de la séduire. Le second admire l'attitude donjuanesque de son camarade, tandis qu'il s'agace de celle, trop libre à son goût, de la jeune femme...",
+          "synopsisJP": "Un homme rencontre une femme, puis en rencontre une seconde, hésite, et retourne à la première. Sur ce motif minimal, les deux premiers _Contes moraux_ d'Éric Rohmer, produits (et interprété, pour _La Boulangère de Monceau_) par Barbet Schroeder, admirateur et ami. Création des Films du Losange qui fêtent donc leurs soixante ans. Modestie des moyens, primat de la mise en scène. — F. B.",
           "miniTexte": "Les chassés-croisés amoureux de deux Don Juan avec une jeune femme libre qui ne s'en laisse pas conter. Un portrait de la jeunesse d'après-guerre, ses conservatismes et sa misogynie, avant le dégel de 1968. Schroeder fut à la fois assistant-réalisateur et producteur du film.",
-          "commentaire": "Un homme rencontre une femme, puis en rencontre une seconde, hésite, et retourne à la première. Sur ce motif minimal, les deux premiers _Contes moraux_ d'Éric Rohmer, produits (et interprété, pour _La Boulangère de Monceau_) par Barbet Schroeder, admirateur et ami. Création des Films du Losange qui fêtent donc leurs soixante ans. Modestie des moyens, primat de la mise en scène. — F. B.",
+          "commentaire": "Rohmer épingle la férocité des enjeux de classe et de domination au sein d'un trio d'étudiants. Bertrand et Guillaume se jouent de Suzanne avec qui le second flirtait. Bertrand se fait le narrateur des mesquineries échafaudées avec son ami. La technique fonctionne si bien qu'on prend la jeune femme en pitié, avant d'être pris au piège de nos préjugés. – Nine Antico",
           "status": 2,
           "copies": [
             {
@@ -9345,7 +9331,9 @@
           "realisateurs": "Sophie Letourneur",
           "annee": 2011,
           "duree": 36,
-          "status": 0,
+          "generique": "Sophie Letourneur, Laetitia Goffi, Johan Libéreau",
+          "miniTexte": "De passage à Quimper avec son amie, Laetitia retombe sur son amour d'enfance. Dans son cinéma, Sophie Letourneur aime s'amuser avec le son. Ici, les protagonistes commentent l'histoire. L'humour et la mélancolie naissent de la mise en abîme du souvenir en train de se construire et du décalage entre fantasme et réalité. – Nine Antico",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28262,
@@ -9532,7 +9520,7 @@
           "ordre": 1,
           "idFilm": 30104,
           "titre": "Y a-t-il un pilote dans l'avion ?",
-          "titreVo": "Airplane !",
+          "titreVo": "Airplane!",
           "realisateurs": "Jim Abrahams, David Zucker, Jerry Zucker",
           "annee": 1980,
           "duree": 88,
@@ -11865,7 +11853,9 @@
           "realisateurs": "Lizzie Borden",
           "annee": 1986,
           "duree": 90,
-          "status": 0,
+          "generique": "Louise Smith, Ellen McElduff, Amanda Goodwin",
+          "miniTexte": "Molly se rend à vélo à son travail dans une maison close de Manhattan. Elle gagne sa vie en se prostituant. C'est ce quotidien auquel la réalisatrice Lizzie Borden ôte toute mythologie et clichés, que l'on voit se dérouler le temps d'une journée. Un huis clos sur la routine des travailleuses du sexe, aussi original par son propos que par son esthétique minimaliste aux couleurs pastel. – Nine Antico",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28263,
@@ -12858,7 +12848,8 @@
           "copies": [
             {
               "idCopie": 22953,
-              "duree": 131
+              "duree": 131,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 44240
@@ -13059,7 +13050,8 @@
           "copies": [
             {
               "idCopie": 28041,
-              "duree": 115
+              "duree": 115,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 14029
@@ -13096,7 +13088,8 @@
           "copies": [
             {
               "idCopie": 28037,
-              "duree": 27
+              "duree": 27,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 51073
@@ -13114,7 +13107,8 @@
           "copies": [
             {
               "idCopie": 28038,
-              "duree": 9
+              "duree": 9,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 3854
@@ -13212,8 +13206,10 @@
           "realisateurs": "John Badham",
           "annee": 1977,
           "duree": 118,
+          "generique": "John Travolta, Karen Lynn Gorney, Barry Miller",
           "adaptation": "D'après l'article _Tribal Rites of the New Saturday Night_ de Nik Cohn.",
-          "status": 0,
+          "miniTexte": "Les rêves de gloire de Tony Manero, Gatsby de la boîte de nuit de son quartier, prennent une nouvelle tournure quand il s'éprend de l'ambitieuse Stephanie, obsédée par l'idée de quitter Brooklyn pour rejoindre Manhattan. John Badham réalise une quête initiatique sur fond de Bee Gees, alternant la comédie et le drame social, grâce à l'incroyable performance de John Travolta. – Nine Antico",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28260,
@@ -13340,7 +13336,8 @@
           "copies": [
             {
               "idCopie": 28046,
-              "duree": 115
+              "duree": 115,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 43194
@@ -13540,7 +13537,8 @@
           "copies": [
             {
               "idCopie": 28047,
-              "duree": 120
+              "duree": 120,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 40870
@@ -13584,7 +13582,8 @@
           "copies": [
             {
               "idCopie": 28050,
-              "duree": 122
+              "duree": 122,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 4090
@@ -13639,6 +13638,25 @@
           "idFilmBoxoffice": 39188
         }
       ]
+    },
+    {
+      "idSeance": 134185,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 798,
+          "idCategorie": 3398,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31105,
+      "typeEvenement": 13,
+      "libelleEvenement": "EVENEMENT NETFLIX : SPELLBOUND",
+      "dateHeure": "2024-11-16T15:00:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
     },
     {
       "idSeance": 133839,
@@ -13817,7 +13835,8 @@
           "copies": [
             {
               "idCopie": 28039,
-              "duree": 102
+              "duree": 102,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 1334
@@ -13997,7 +14016,8 @@
           "copies": [
             {
               "idCopie": 28040,
-              "duree": 90
+              "duree": 90,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 268175
@@ -14138,7 +14158,8 @@
           "copies": [
             {
               "idCopie": 28053,
-              "duree": 108
+              "duree": 108,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 31044
@@ -14222,20 +14243,16 @@
           "titre": "Un autre homme, une autre chance",
           "realisateurs": "Claude Lelouch",
           "annee": 1976,
-          "duree": 136,
+          "duree": 138,
           "generique": "Geneviève Bujold, James Caan, Francis Huster",
           "synopsis": "Jeanne et Francis tombent amoureux et décident de partir pour le Nouveau Monde. En Arizona, ils rencontrent David et sa femme Mary. Après de nombreuses années et de nombreux drames, Jeanne et David se retrouvent.",
           "miniTexte": "Dans l'Amérique des pionniers, Lelouch s'essaie au western avec la rencontre inattendue d'une émigrée française et d'un vétérinaire local. Deux histoires parallèles entrecroisent les traditions de l'Ouest dans la lumière ocre des grands espaces, avec les prestations touchantes du duo Caan/Bujold.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 17094,
-              "duree": 136,
-              "format": "35 mm"
-            },
-            {
               "idCopie": 16743,
-              "duree": 138
+              "duree": 138,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 32003
@@ -14272,7 +14289,8 @@
           "copies": [
             {
               "idCopie": 28057,
-              "duree": 118
+              "duree": 118,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 34267
@@ -14328,7 +14346,8 @@
           "copies": [
             {
               "idCopie": 28056,
-              "duree": 162
+              "duree": 162,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 8401
@@ -14495,7 +14514,8 @@
           "copies": [
             {
               "idCopie": 28102,
-              "duree": 98
+              "duree": 98,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 1541
@@ -14682,7 +14702,8 @@
           "copies": [
             {
               "idCopie": 28055,
-              "duree": 184
+              "duree": 184,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 667
@@ -14801,7 +14822,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Delphine Voiry-Humbert et Nicolas Rey"
     },
     {
       "idSeance": 133845,
@@ -14874,7 +14896,8 @@
           "copies": [
             {
               "idCopie": 28059,
-              "duree": 117
+              "duree": 117,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 5582
@@ -14908,7 +14931,8 @@
           "status": 0,
           "copies": []
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Delphine Voiry-Humbert et Camilo Restrepo"
     },
     {
       "idSeance": 133286,
@@ -14983,7 +15007,8 @@
           "copies": [
             {
               "idCopie": 28060,
-              "duree": 175
+              "duree": 175,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 34195
@@ -15195,7 +15220,8 @@
           "copies": [
             {
               "idCopie": 28063,
-              "duree": 113
+              "duree": 113,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 228049
@@ -15318,7 +15344,8 @@
           "copies": [
             {
               "idCopie": 28058,
-              "duree": 124
+              "duree": 124,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 4266
@@ -15387,7 +15414,7 @@
       ]
     },
     {
-      "idSeance": 134177,
+      "idSeance": 134184,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -15397,32 +15424,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31167,
+      "idEvenement": 31204,
       "typeEvenement": 13,
       "dateHeure": "2024-11-24T15:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 46566,
-          "titre": "Aventures d'Arsène Lupin",
-          "art": "Les",
-          "realisateurs": "Jacques Becker",
+          "idFilm": 29869,
+          "titre": "Homme qui rétrécit",
+          "art": "L'",
+          "titreVo": "Incredible Shrinking Man",
+          "artVo": "The",
+          "realisateurs": "Jack Arnold",
           "annee": 1956,
-          "duree": 104,
-          "generique": "Robert Lamoureux, Liselotte Pulver, O. E. Hasse",
-          "ageMinimal": 8,
-          "synopsis": "Personne ne connait la véritable identité d'Arsène Lupin, tour à tour diplomate ou riche viticulteur. Mais c'est toujours avec une grande élégance et une incroyable inventivité qu'il commet ses forfaits.",
-          "synopsisJP": "Vol de tableau et de bijoux, kidnapping et documents secrets : les exploits du gentleman-cambrioleur, avec déguisements et transformations ingénieuses. Une comédie policière pleine de bonne humeur, imprégnée de l'esprit malicieux de Maurice Leblanc.",
+          "duree": 81,
+          "generique": "Randy Stuart, Grant Williams, April Kent",
+          "adaptation": "D'après la nouvelle _The Incredible Shrinking Man_ de Richard Matheson.",
+          "synopsis": "Quelques mois plus tard après avoir traversé un mystérieux brouillard, Scott s'aperçoit qu'il a rétrécit chaque jour. Il doit désormais s'adapter à un univers hostile.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 10920,
-              "duree": 104,
-              "format": "DCP"
+              "idCopie": 28368,
+              "duree": 81,
+              "format": "DCP",
+              "version": "VF"
             }
-          ],
-          "idFilmBoxoffice": 1097
+          ]
         }
       ]
     },
@@ -15547,7 +15575,8 @@
           "copies": [
             {
               "idCopie": 28052,
-              "duree": 134
+              "duree": 134,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 29589
@@ -15669,7 +15698,8 @@
           "copies": [
             {
               "idCopie": 28048,
-              "duree": 92
+              "duree": 92,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 40405
