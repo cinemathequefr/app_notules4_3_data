@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-11T12:45:08.824Z",
+  "updatedAt": "2024-06-11T15:40:43.799Z",
   "data": [
     {
       "idSeance": 130975,
@@ -2166,7 +2166,12 @@
           "realisateurs": "Douglas Buck",
           "annee": 2011,
           "status": 1,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28370,
+              "duree": 0
+            }
+          ],
           "idFilmBoxoffice": 196549
         },
         {
@@ -2176,8 +2181,17 @@
           "titreVo": "Family portraits : A trilogy of America",
           "realisateurs": "Douglas Buck",
           "annee": 2004,
+          "duree": 104,
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28369,
+              "duree": 104,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 120802
         }
       ]
@@ -2204,8 +2218,17 @@
           "titre": "Sisters",
           "realisateurs": "Douglas Buck",
           "annee": 2006,
+          "duree": 92,
           "status": 1,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28376,
+              "duree": 92,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 51590
         }
       ]
@@ -2308,6 +2331,40 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 133824,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3402,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Claire Angelini"
+        }
+      ],
+      "idEvenement": 31050,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-11T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154884,
+          "titre": "Jeanne fait des siennes",
+          "realisateurs": "Claire Angelini",
+          "annee": 2023,
+          "duree": 92,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28238,
+              "duree": 92,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 133977,
@@ -2535,7 +2592,8 @@
           ],
           "idFilmBoxoffice": 26523
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Nicolas Giraud et Fixi"
     },
     {
       "idSeance": 133976,
@@ -2631,7 +2689,8 @@
           ],
           "idFilmBoxoffice": 97136
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Benjamin Moussay"
     },
     {
       "idSeance": 134048,
@@ -2776,7 +2835,7 @@
           "idFilmBoxoffice": 26520
         }
       ],
-      "mention": "Accompagnement musical par (Etudiant) Zygel"
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 131470,
@@ -2859,7 +2918,7 @@
           "idFilmBoxoffice": 26305
         }
       ],
-      "mention": "Accompagnement musical par (Etudiant) Zygel"
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 131471,
@@ -3112,7 +3171,7 @@
           "idFilmBoxoffice": 27025
         }
       ],
-      "mention": "Accompagnement musical par (Etudiant) Zygel"
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 133705,
@@ -3319,6 +3378,40 @@
       "mention": "Avant-première"
     },
     {
+      "idSeance": 134193,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3423,
+          "titreCycle": "Aujourd'hui le cinéma"
+        }
+      ],
+      "idEvenement": 31174,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-16T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 110865,
+          "titre": "Domaine",
+          "realisateurs": "Patric Chiha",
+          "annee": 2009,
+          "duree": 110,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28337,
+              "duree": 110,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance suivie d'une discussion avec Patric Chiha et Béatrice Dalle"
+    },
+    {
       "idSeance": 133739,
       "idProg": 182,
       "idCycleCategories": [
@@ -3332,7 +3425,7 @@
       "idEvenement": 30732,
       "typeEvenement": 13,
       "dateHeure": "2024-09-16T20:30:00",
-      "idSalle": "GF",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
@@ -3682,47 +3775,6 @@
       ]
     },
     {
-      "idSeance": 133859,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30087,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-19T18:30:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48660,
-          "titre": "Poliche",
-          "realisateurs": "Abel Gance",
-          "annee": 1934,
-          "duree": 89,
-          "miniTexte": "Version larmoyante à succès d'une pièce d'Henry Bataille. L'une des œuvres commerciales de Gance, qui voit un homme souffrir d'amour pour la belle Rosine, laquelle en préfère un autre.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 28112,
-              "duree": 89,
-              "format": "16 mm"
-            },
-            {
-              "idCopie": 28113,
-              "duree": 90,
-              "format": "16 mm"
-            }
-          ],
-          "idFilmBoxoffice": 26417
-        }
-      ]
-    },
-    {
       "idSeance": 133684,
       "idProg": 182,
       "idCycleCategories": [
@@ -3899,6 +3951,88 @@
       "mention": "Séance présentée par Jean A. Gili"
     },
     {
+      "idSeance": 134186,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30087,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-20T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48660,
+          "titre": "Poliche",
+          "realisateurs": "Abel Gance",
+          "annee": 1934,
+          "duree": 89,
+          "miniTexte": "Version larmoyante à succès d'une pièce d'Henry Bataille. L'une des œuvres commerciales de Gance, qui voit un homme souffrir d'amour pour la belle Rosine, laquelle en préfère un autre.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28112,
+              "duree": 89,
+              "format": "16 mm"
+            },
+            {
+              "idCopie": 28113,
+              "duree": 90,
+              "format": "16 mm"
+            }
+          ],
+          "idFilmBoxoffice": 26417
+        }
+      ]
+    },
+    {
+      "idSeance": 131612,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30701,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-20T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31384,
+          "titre": "Actress",
+          "art": "The",
+          "realisateurs": "George Cukor",
+          "annee": 1953,
+          "duree": 90,
+          "generique": "Spencer Tracy, Jean Simmons, Teresa Wright",
+          "adaptation": "D'après la pièce _Years Ago_ de Ruth Gordon.",
+          "miniTexte": "Les rêves d'évasion d'une jeune fille, déterminée à devenir comédienne, qui se heurte aux réticences de son père inquiet. D'après la pièce autobiographique de l'actrice/scénariste Ruth Gordon (la future voisine maléfique de _Rosemary's Baby_), et avec Anthony Perkins dans son premier rôle au cinéma.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28367,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 2249
+        }
+      ]
+    },
+    {
       "idSeance": 131615,
       "idProg": 182,
       "idCycleCategories": [
@@ -3911,7 +4045,7 @@
       ],
       "idEvenement": 30074,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-20T18:30:00",
+      "dateHeure": "2024-09-20T20:30:00",
       "idSalle": "JE",
       "items": [
         {
@@ -3994,47 +4128,6 @@
               "duree": 15
             }
           ]
-        }
-      ]
-    },
-    {
-      "idSeance": 131612,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30701,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-20T20:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 31384,
-          "titre": "Actress",
-          "art": "The",
-          "realisateurs": "George Cukor",
-          "annee": 1953,
-          "duree": 90,
-          "generique": "Spencer Tracy, Jean Simmons, Teresa Wright",
-          "adaptation": "D'après la pièce _Years Ago_ de Ruth Gordon.",
-          "miniTexte": "Les rêves d'évasion d'une jeune fille, déterminée à devenir comédienne, qui se heurte aux réticences de son père inquiet. D'après la pièce autobiographique de l'actrice/scénariste Ruth Gordon (la future voisine maléfique de _Rosemary's Baby_), et avec Anthony Perkins dans son premier rôle au cinéma.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28367,
-              "duree": 90,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 2249
         }
       ]
     },
@@ -4832,6 +4925,62 @@
       "mention": "Séance présentée par Emmanuelle Devos"
     },
     {
+      "idSeance": 131685,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3424,
+          "titreCycle": "Aujourd'hui le cinéma"
+        }
+      ],
+      "idEvenement": 31175,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-23T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154899,
+          "titre": "luna de hierro",
+          "art": "Una",
+          "realisateurs": "Francisco Rodriguez Teare",
+          "annee": 2017,
+          "duree": 28,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28339,
+              "duree": 28,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 154898,
+          "titre": "Otro Sol",
+          "realisateurs": "Francisco Rodriguez Teare",
+          "annee": 2023,
+          "duree": 86,
+          "synopsis": "Otro Sol est un film s'attelant à inventer, tout en l'investiguant, la légende d'Alberto, voleur international chilien, prisonnier en Europe et mort au Chili à l'âge de 29 ans. Le film traverse pour cela deux territoires, reliés par l'histoire coloniale : le désert d'Atacama au Chili et le sud de l'Espagne.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28338,
+              "duree": 86,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance suivie d'une discussion avec Francisco Rodriguez Teare"
+    },
+    {
       "idSeance": 133717,
       "idProg": 182,
       "idCycleCategories": [
@@ -4945,6 +5094,13 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28372,
+              "duree": 103,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 2612
@@ -5056,11 +5212,19 @@
           "titre": "Stay Hungry",
           "realisateurs": "Bob Rafelson",
           "annee": 1975,
+          "duree": 103,
           "generique": "Jeff Bridges, Sally Field, Arnold Schwarzenegger",
           "adaptation": "D'après le roman _Stay Hungry_ de Charles Gaines.",
           "miniTexte": "Un riche héritier est confronté au monde complexe des culturistes. Névroses, sexe et violence se rencontrent dans une illustration de l'affairisme d'une société américaine profondément contradictoire. Une œuvre effervescente à l'humour fou, qui vaudra à Schwarzenegger le Golden Globe de la révélation masculine.",
           "status": 2,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28373,
+              "duree": 103,
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
           "idFilmBoxoffice": 34473
         }
       ]
@@ -5187,7 +5351,7 @@
       ]
     },
     {
-      "idSeance": 133732,
+      "idSeance": 134191,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -5277,7 +5441,7 @@
       ],
       "idEvenement": 30856,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-27T20:30:00",
+      "dateHeure": "2024-09-27T21:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -5457,7 +5621,7 @@
       ],
       "idEvenement": 30721,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-28T16:30:00",
+      "dateHeure": "2024-09-28T16:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -5541,7 +5705,7 @@
       ],
       "idEvenement": 31118,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-28T19:00:00",
+      "dateHeure": "2024-09-28T19:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -5896,6 +6060,108 @@
       ]
     },
     {
+      "idSeance": 131871,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3426,
+          "titreCycle": "Aujourd'hui le cinéma"
+        }
+      ],
+      "idEvenement": 31181,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-30T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154904,
+          "titre": "Trouble-fête",
+          "realisateurs": "Axel Würsten",
+          "annee": 2018,
+          "duree": 15,
+          "synopsis": "Dans un château perdu au milieu de la campagne, un mystérieux jeune homme arrive pour faire le service d'une soirée mondaine. Confronté à une famille de châtelains bien plus étrange qu'il ne l'avait prévu, la soirée va prendre un tournant inattendu.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28344,
+              "duree": 15,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 154902,
+          "titre": "Lit de punaise",
+          "realisateurs": "Axel Würsten",
+          "annee": 2019,
+          "duree": 8,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28342,
+              "duree": 8,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 154903,
+          "titre": "En chien",
+          "realisateurs": "Axel Würsten",
+          "annee": 2021,
+          "duree": 7,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28343,
+              "duree": 7,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 154901,
+          "titre": "Samantha Chérie",
+          "realisateurs": "Axel Würsten",
+          "annee": 2023,
+          "duree": 26,
+          "synopsis": "Corinne, 50 ans, est une ancienne starlette de la chanson des années 90, connue sous le nom de « Samantha Chérie ». Désormais seule et oubliée, elle a du mal à vivre la réussite de sa fille, instagrammeuse à succès. Un soir, lorsque Corinne se fait prendre en otage chez elle pour une demande de rançon par un mystérieux inconnu, la peur et l'incompréhension laissent progressivement place à l'espoir. Et si c'était l'occasion de faire à nouveau parler de Samantha Chérie et d'effectuer un come-back sous le feu des projecteurs ?",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28341,
+              "duree": 26,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 154900,
+          "titre": "Passion selon Karim",
+          "art": "La",
+          "realisateurs": "Axel Würsten",
+          "annee": 2024,
+          "duree": 24,
+          "synopsis": "Une patrouille scout arrive pour donner une représentation de la Crucifixion du Christ dans un village isolé, réputé pour avoir été le théâtre d'apparitions extra-terrestres dans les années 70. Rien ne peut dévier de son but obsessionnel le scout qui a hérité du rôle du Christ, Karim, 17 ans : trouver l'extase pour bien interpréter le martyre en croix.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28340,
+              "duree": 24,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance suivie d'une discussion avec Axel Würsten"
+    },
+    {
       "idSeance": 133923,
       "idProg": 182,
       "idCycleCategories": [
@@ -6058,6 +6324,76 @@
             }
           ],
           "idFilmBoxoffice": 5581
+        }
+      ]
+    },
+    {
+      "idSeance": 134192,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 472,
+          "idCategorie": 2757,
+          "titreCycle": "Archi Vives",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31190,
+      "typeEvenement": 14,
+      "dateHeure": "2024-10-03T17:30:00",
+      "typeConference": "Conférence",
+      "idSalle": "JE",
+      "duree": 90,
+      "idSeanceAssoc": 133935,
+      "typeAssoc": 117,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31190,
+          "idTypeConf": 55,
+          "titre": "Cinéma imaginaire",
+          "duree": 90
+        }
+      ]
+    },
+    {
+      "idSeance": 133935,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 472,
+          "idCategorie": 3352,
+          "titreCycle": "Archi Vives",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31166,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-03T19:30:00",
+      "idSalle": "JE",
+      "idSeanceAssoc": 134192,
+      "typeAssoc": 117,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42412,
+          "titre": "Carnet de notes pour une Orestie africaine",
+          "titreVo": "Appunti per un'Orestiade africana",
+          "realisateurs": "Pier Paolo Pasolini",
+          "annee": 1969,
+          "duree": 71,
+          "generique": "Pier Paolo Pasolini",
+          "synopsis": "Le réalisateur montre à des étudiants son ébauche d'un film inspiré d'Eschyle sur l'Afrique.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 1807,
+              "duree": 71,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -6241,7 +6577,7 @@
           ]
         }
       ],
-      "mention": "Séance présentée par Melissa Gignac"
+      "mention": "Séance présentée par Melissa Gignac. Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 133961,
@@ -6322,7 +6658,7 @@
           ]
         }
       ],
-      "mention": "Séance présentée par Joël Daire"
+      "mention": "Séance présentée par Joël Daire. Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 131985,
@@ -7661,7 +7997,7 @@
       ]
     },
     {
-      "idSeance": 134069,
+      "idSeance": 133804,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7671,23 +8007,47 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30781,
+      "idEvenement": 30783,
       "typeEvenement": 13,
       "dateHeure": "2024-10-12T18:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 60519,
-          "titre": "Kardiogramma",
-          "titreNx": "Кардиограмма",
+          "idFilm": 29437,
+          "titre": "Tueur à gages",
+          "titreVo": "Killer",
+          "titreNx": "Киллер",
           "realisateurs": "Darejan Omirbaev",
-          "annee": 1995,
-          "generique": "Zhasulan Asauov, Gulnara Dusmatova, Ilyas Kalymbetov",
-          "miniTexte": "Atteint d'une maladie cardiaque, un garçon de 12 ans quitte sa steppe natale pour rejoindre Almaty, la capitale. Après les rêves éveillés de _Kaïrat_, Omirbaev signe un superbe conte sur la découverte du monde extérieur. L'exil d'un jeune Kazakh non russophone, confronté à la tristesse, l'exclusion et les humiliations, mais aussi aux rapports de force et aux désirs charnels. Une histoire de nostalgie autant que de liberté, où le ressort social se révèle par l'intime, sans ornements ni artifices. Une œuvre simple, pudique, d'une sensibilité universelle.",
+          "annee": 1998,
+          "duree": 80,
+          "generique": "Talgat Assetov, Roksana Abouova",
+          "miniTexte": "Après les années étudiantes de _Kaïrat_ et l'enfance de _Kardiogramma_, Omirbaev conte la descente aux enfers d'un jeune père contraint d'emprunter de l'argent à un mafieux, après avoir embouti la voiture d'un nouveau riche. Comme ses « petits frères » des films précédents, Marat plonge dans la brutalité du monde urbain. Mutique, crispé, impuissant face à l'impasse morale et économique de son pays. Sous ses airs de polar minimaliste, où la violence n'apparaît qu'en hors-champ, le film décrit le désespoir d'un homme qui n'a d'autre issue que le suicide ou la contrainte d'un meurtre commandité (une scène que le cinéaste reprendra dans son film suivant, _La Route_, dans un autoplagiat onirique). Prix Un certain regard au Festival de Cannes, _Tueur à gages_ confirme le talent de son auteur, témoin et rare messager du Kazakhstan moderne.",
           "status": 2,
-          "copies": [],
-          "idFilmBoxoffice": 13818
+          "copies": [
+            {
+              "idCopie": 28139,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28253,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28254,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 62380
         }
       ]
     },
@@ -7732,7 +8092,7 @@
       ]
     },
     {
-      "idSeance": 133804,
+      "idSeance": 134069,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7742,47 +8102,23 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30783,
+      "idEvenement": 30781,
       "typeEvenement": 13,
       "dateHeure": "2024-10-12T20:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 29437,
-          "titre": "Tueur à gages",
-          "titreVo": "Killer",
-          "titreNx": "Киллер",
+          "idFilm": 60519,
+          "titre": "Kardiogramma",
+          "titreNx": "Кардиограмма",
           "realisateurs": "Darejan Omirbaev",
-          "annee": 1998,
-          "duree": 80,
-          "generique": "Talgat Assetov, Roksana Abouova",
-          "miniTexte": "Après les années étudiantes de _Kaïrat_ et l'enfance de _Kardiogramma_, Omirbaev conte la descente aux enfers d'un jeune père contraint d'emprunter de l'argent à un mafieux, après avoir embouti la voiture d'un nouveau riche. Comme ses « petits frères » des films précédents, Marat plonge dans la brutalité du monde urbain. Mutique, crispé, impuissant face à l'impasse morale et économique de son pays. Sous ses airs de polar minimaliste, où la violence n'apparaît qu'en hors-champ, le film décrit le désespoir d'un homme qui n'a d'autre issue que le suicide ou la contrainte d'un meurtre commandité (une scène que le cinéaste reprendra dans son film suivant, _La Route_, dans un autoplagiat onirique). Prix Un certain regard au Festival de Cannes, _Tueur à gages_ confirme le talent de son auteur, témoin et rare messager du Kazakhstan moderne.",
+          "annee": 1995,
+          "generique": "Zhasulan Asauov, Gulnara Dusmatova, Ilyas Kalymbetov",
+          "miniTexte": "Atteint d'une maladie cardiaque, un garçon de 12 ans quitte sa steppe natale pour rejoindre Almaty, la capitale. Après les rêves éveillés de _Kaïrat_, Omirbaev signe un superbe conte sur la découverte du monde extérieur. L'exil d'un jeune Kazakh non russophone, confronté à la tristesse, l'exclusion et les humiliations, mais aussi aux rapports de force et aux désirs charnels. Une histoire de nostalgie autant que de liberté, où le ressort social se révèle par l'intime, sans ornements ni artifices. Une œuvre simple, pudique, d'une sensibilité universelle.",
           "status": 2,
-          "copies": [
-            {
-              "idCopie": 28139,
-              "duree": 0,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 28253,
-              "duree": 80,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 28254,
-              "duree": 80,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 62380
+          "copies": [],
+          "idFilmBoxoffice": 13818
         }
       ]
     },
@@ -8264,10 +8600,17 @@
           "art": "Le",
           "realisateurs": "Jacques Becker",
           "annee": 1959,
+          "duree": 115,
           "generique": "Jean Kéraudy, Marc Michel, Raymond Meunier",
           "synopsis": "Un jeune homme est incarcéré à la prison de la Santé. Il est adopté par ses quatre compagnons de cellule qui l'informent de leur projet d'évasion.",
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 5408,
+              "duree": 115,
+              "format": "DCP"
+            }
+          ],
           "idFilmBoxoffice": 1101
         },
         {
@@ -8312,6 +8655,33 @@
             }
           ],
           "idFilmBoxoffice": 18613
+        }
+      ]
+    },
+    {
+      "idSeance": 134187,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3416,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31127,
+      "typeEvenement": 14,
+      "dateHeure": "2024-10-18T16:15:00",
+      "typeConference": "Conférence",
+      "idSalle": "GF",
+      "duree": 90,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31127,
+          "idTypeConf": 55,
+          "titre": "Qui êtes-vous... Pietro Germi ?",
+          "duree": 90
         }
       ]
     },
@@ -8564,7 +8934,7 @@
       ]
     },
     {
-      "idSeance": 134022,
+      "idSeance": 134188,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -8662,7 +9032,7 @@
       ],
       "idEvenement": 31148,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-19T19:15:00",
+      "dateHeure": "2024-10-19T19:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -8983,6 +9353,129 @@
           "idFilmBoxoffice": 143216
         }
       ]
+    },
+    {
+      "idSeance": 132429,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3427,
+          "titreCycle": "Aujourd'hui le cinéma"
+        }
+      ],
+      "idEvenement": 31185,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-21T20:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154905,
+          "titre": "Ce qui appartient à César",
+          "realisateurs": "Violette Gitton",
+          "annee": 2024,
+          "duree": 18,
+          "synopsis": "Texte à saisir\n\n---\n\nCésar a douze ans lorsque sa grande sœur est victime d'une agression sexuelle. Dans les vestiaires des cours d'escrime qu'il fréquente, tout se mesure à l'aune de la violence. César voudrait prendre part à tous les combats mais n'a pas les armes.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28345,
+              "duree": 18,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 154906,
+          "titre": "Belles cicatrices",
+          "art": "Les",
+          "realisateurs": "Raphaël Jouzeau",
+          "annee": 2024,
+          "duree": 15,
+          "synopsis": "Gaspard aime toujours Leil̈a. Un mois après qu'elle l'ait quitté, ils se retrouvent dans un bar bondé. Alors que le rendez-vous tourne mal et qu'il sent les larmes monter, Gaspard se réfugie sous la nappe. Loin des regards et plus près des souvenirs.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28346,
+              "duree": 15,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 154907,
+          "titre": "Across the waters",
+          "realisateurs": "Viv Li",
+          "annee": 2024,
+          "duree": 15,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28347,
+              "duree": 15,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 154908,
+          "titre": "Plus douce est la nuit",
+          "realisateurs": "Fabienne Wagenaar",
+          "annee": 2024,
+          "duree": 18,
+          "synopsis": "Afrique de l'Ouest, début des années 1960 : un officier français est chargé de retrouver un missionnaire disparu. Son enquête, entre méfiance, silence et préjugés, le conduit loin de la lumière des rivages, là où le jour et la nuit se confondent.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28348,
+              "duree": 18,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 154909,
+          "titre": "Na Marei",
+          "realisateurs": "Léa-Jade Horlier",
+          "annee": 2023,
+          "duree": 21,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28349,
+              "duree": 21,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 6,
+          "idFilm": 154910,
+          "titre": "Mont Noir",
+          "realisateurs": "Jean-Baptiste Peltier, Erika Haglund",
+          "annee": 2024,
+          "duree": 15,
+          "synopsis": "La petite Marguerite vit un triple deuil : sa mère morte en couches, le chien dont elle hérite, puis sa nourrice, congédiée par le père. À partir de ces pertes successives, dans la solitude et la nature du mont Noir, elle s'apprête à devenir écrivaine.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28350,
+              "duree": 15,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance suivie d'une discussion avec Hélène Vayssières et Et les équipes Des films"
     },
     {
       "idSeance": 134083,
@@ -9657,11 +10150,6 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 28300,
-              "duree": 105,
-              "format": "35 mm"
             }
           ],
           "idFilmBoxoffice": 10239
@@ -12479,13 +12967,120 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 9921,
+              "idCopie": 11812,
               "duree": 152,
-              "format": "70 mm",
-              "version": "VO"
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 1073
+        }
+      ]
+    },
+    {
+      "idSeance": 132974,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 3422,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Courts métrages"
+        }
+      ],
+      "idEvenement": 31193,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-10T15:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 107613,
+          "titre": "Smith",
+          "realisateurs": "Michael Powell",
+          "annee": 1939,
+          "duree": 10,
+          "generique": "Ralph Richardson, Flora Robson, Allan Jeayes",
+          "synopsis": "Docu-fiction, le film présente, à travers l'histoire de John Smith, le rôle d'un organisme d'aide aux vétérans de l'armée. (Attention : 1 source WIKI)",
+          "miniTexte": "Court métrage réalisé par Powell pour promouvoir une organisation caritative qui aidait les anciens militaires en difficulté. Découvert en 2003, le film a connu sa première projection publique un an plus tard, à Canterbury, près de 65 ans après son tournage.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27051,
+              "duree": 10,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 91360,
+          "titre": "An Airman's Letter to His Mother",
+          "realisateurs": "Michael Powell",
+          "annee": 1941,
+          "duree": 6,
+          "generique": "John Gielgud",
+          "miniTexte": "Court métrage de propagande britannique, basé sur la lettre d'un pilote de bombardier adressée à sa mère, et publiée dans le _Times_ en juin 1940. Powell participe à l'effort de guerre avec une lecture poignante, portée par la voix de John Gielgud.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20291,
+              "duree": 6,
+              "format": "35 mm",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 170722
+        },
+        {
+          "ordre": 3,
+          "idFilm": 107614,
+          "titre": "Volunteer",
+          "art": "The",
+          "realisateurs": "Michael Powell",
+          "annee": 1943,
+          "duree": 24,
+          "generique": "Pat McGrath, Michael Powell, Ralph Richardson",
+          "synopsis": "Commandé par le gouvernement britannique, ce film de propagande retrace l'histoire d'un habilleur devenu héros de guerre.",
+          "miniTexte": "L'habilleur maladroit d'un célèbre acteur devient un héros après s'être engagé dans l'armée. Réalisé pendant la Seconde Guerre mondiale, _The Volunteer_ loue les qualités de la Fleet Air Arm à travers l'itinéraire d'un jeune inconstant, qui creuse sa voie dans le monde militaire. Une piquante propagande de recrutement aux nombreuses saillies humoristiques.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28364,
+              "duree": 24,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 171079
+        },
+        {
+          "ordre": 4,
+          "idFilm": 42028,
+          "titre": "Lion a des ailes",
+          "art": "Le",
+          "titreVo": "Lion Has Wings",
+          "artVo": "The",
+          "realisateurs": "Michael Powell, Adrian Brunel, Brian Desmond Hurst",
+          "annee": 1939,
+          "duree": 76,
+          "generique": "Merle Oberon, Ralph Richardson, June Duprez",
+          "synopsis": "Fait d'images documentaires et de fiction, le film s'attache à montrer l'effort de guerre des anglais face à l'organisation militaire nazie. Visant à rassurer la population, ce film fait aussi le portrait d'hommes et de femmes se préparant à tout sacrifier pour leur liberté.",
+          "miniTexte": "Quelques jours après la déclaration de guerre contre l'Allemagne, le producteur anglais Alexander Korda lance l'idée d'un film de propagande, destiné à rassurer la population sur la préparation de leurs armées. Une reconstitution des promesses non tenues par Hitler, associée à une vision volontaire des combats de la Royal Air Force.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20209,
+              "duree": 76,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 170165
         }
       ]
     },
@@ -12541,7 +13136,7 @@
       ],
       "idEvenement": 21660,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-10T19:30:00",
+      "dateHeure": "2024-11-10T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -12621,7 +13216,7 @@
       ],
       "idEvenement": 21667,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-10T21:30:00",
+      "dateHeure": "2024-11-10T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -13598,48 +14193,6 @@
       ]
     },
     {
-      "idSeance": 133853,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 476,
-          "idCategorie": 2201,
-          "titreCycle": "Michael Powell",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 21687,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-16T15:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 58543,
-          "titre": "Bataille du Rio de la Plata",
-          "art": "La",
-          "titreVo": "Battle of the River Plate",
-          "artVo": "The",
-          "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1956,
-          "duree": 119,
-          "generique": "John Gregson, Anthony Quayle, Ian Hunter",
-          "miniTexte": "Dans un style quasiment documentaire, Powell livre une reconstitution soignée de la Bataille du Rio de la Plata grâce à une mise en scène immersive et une esthétique réaliste. Désireux de faire connaître la vie des vaisseaux, il compose une ode au respect militaire, mais aussi à la retenue du pays, sans se départir du sens de l'humour britannique.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28336,
-              "duree": 119,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 39188
-        }
-      ]
-    },
-    {
       "idSeance": 134185,
       "idProg": 182,
       "idCycleCategories": [
@@ -13659,108 +14212,42 @@
       "items": []
     },
     {
-      "idSeance": 133839,
+      "idSeance": 134172,
       "idProg": 182,
       "idCycleCategories": [
         {
           "idCycle": 476,
-          "idCategorie": 3422,
+          "idCategorie": 2201,
           "titreCycle": "Michael Powell",
-          "titreSousCycle": "Courts métrages"
+          "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31193,
+      "idEvenement": 21698,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-16T17:30:00",
-      "idSalle": "GF",
+      "dateHeure": "2024-11-16T15:00:00",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 107613,
-          "titre": "Smith",
-          "realisateurs": "Michael Powell",
-          "annee": 1939,
-          "duree": 10,
-          "generique": "Ralph Richardson, Flora Robson, Allan Jeayes",
-          "synopsis": "Docu-fiction, le film présente, à travers l'histoire de John Smith, le rôle d'un organisme d'aide aux vétérans de l'armée. (Attention : 1 source WIKI)",
-          "miniTexte": "Court métrage réalisé par Powell pour promouvoir une organisation caritative qui aidait les anciens militaires en difficulté. Découvert en 2003, le film a connu sa première projection publique un an plus tard, à Canterbury, près de 65 ans après son tournage.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 27051,
-              "duree": 10,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
-            }
-          ]
-        },
-        {
-          "ordre": 2,
-          "idFilm": 91360,
-          "titre": "An Airman's Letter to His Mother",
-          "realisateurs": "Michael Powell",
-          "annee": 1941,
-          "duree": 6,
-          "generique": "John Gielgud",
-          "miniTexte": "Court métrage de propagande britannique, basé sur la lettre d'un pilote de bombardier adressée à sa mère, et publiée dans le _Times_ en juin 1940. Powell participe à l'effort de guerre avec une lecture poignante, portée par la voix de John Gielgud.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 20291,
-              "duree": 6,
-              "format": "35 mm",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 170722
-        },
-        {
-          "ordre": 3,
-          "idFilm": 107614,
-          "titre": "Volunteer",
+          "idFilm": 86567,
+          "titre": "Wild Heart",
           "art": "The",
-          "realisateurs": "Michael Powell",
-          "annee": 1943,
-          "duree": 24,
-          "generique": "Pat McGrath, Michael Powell, Ralph Richardson",
-          "synopsis": "Commandé par le gouvernement britannique, ce film de propagande retrace l'histoire d'un habilleur devenu héros de guerre.",
-          "miniTexte": "L'habilleur maladroit d'un célèbre acteur devient un héros après s'être engagé dans l'armée. Réalisé pendant la Seconde Guerre mondiale, _The Volunteer_ loue les qualités de la Fleet Air Arm à travers l'itinéraire d'un jeune inconstant, qui creuse sa voie dans le monde militaire. Une piquante propagande de recrutement aux nombreuses saillies humoristiques.",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1952,
+          "duree": 82,
+          "generique": "Jennifer Jones, Esmond Knight, David Farrar",
+          "adaptation": "D'après le roman _La Renarde_ de Mary Webb.",
+          "miniTexte": "Nouvelle version de _La Renarde_, à la suite d'un désaccord des réalisateurs avec le producteur David O. Selznick, qui souhaite une nouvelle version pour le public américain.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28364,
-              "duree": 24,
-              "format": "35 mm",
-              "version": "VO",
+              "idCopie": 27064,
+              "duree": 82,
+              "format": "16 mm",
               "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 171079
-        },
-        {
-          "ordre": 4,
-          "idFilm": 42028,
-          "titre": "Lion a des ailes",
-          "art": "Le",
-          "titreVo": "Lion Has Wings",
-          "artVo": "The",
-          "realisateurs": "Michael Powell, Adrian Brunel, Brian Desmond Hurst",
-          "annee": 1939,
-          "duree": 76,
-          "generique": "Merle Oberon, Ralph Richardson, June Duprez",
-          "synopsis": "Fait d'images documentaires et de fiction, le film s'attache à montrer l'effort de guerre des anglais face à l'organisation militaire nazie. Visant à rassurer la population, ce film fait aussi le portrait d'hommes et de femmes se préparant à tout sacrifier pour leur liberté.",
-          "miniTexte": "Quelques jours après la déclaration de guerre contre l'Allemagne, le producteur anglais Alexander Korda lance l'idée d'un film de propagande, destiné à rassurer la population sur la préparation de leurs armées. Une reconstitution des promesses non tenues par Hitler, associée à une vision volontaire des combats de la Royal Air Force.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 20209,
-              "duree": 76,
-              "format": "35 mm",
-              "version": "VO"
-            }
-          ],
-          "idFilmBoxoffice": 170165
+          "idFilmBoxoffice": 140474
         }
       ]
     },
@@ -13777,7 +14264,7 @@
       ],
       "idEvenement": 21655,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-16T19:15:00",
+      "dateHeure": "2024-11-16T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -13802,6 +14289,47 @@
             }
           ],
           "idFilmBoxoffice": 131898
+        }
+      ]
+    },
+    {
+      "idSeance": 133841,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21699,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-16T19:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 57597,
+          "titre": "Un de nos avions n'est pas rentré",
+          "titreVo": "One of Our Aircraft Is Missing",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1942,
+          "duree": 106,
+          "generique": "Godfrey Tearle, Eric Portman, Hugh Williams",
+          "synopsis": "Durant la Deuxième Guerre mondiale, un bombardier britannique est abattu, obligeant son équipage à sauter en parachute. Ces derniers se retrouvent alors aux Pays-Bas, terre ennemie, et tentent de rejoindre leur pays.",
+          "miniTexte": "Un bombardier anglais atterrit en territoire occupé après avoir subi les dommages d'un raid. Dans la lignée de _49<sup>e</sup> Parallèle_, Powell fait le pari d'un faux docu-fiction aux magnifiques jeux d'ombres et de lumières. Avec Googie Withers, parfaitement mutine, et Peter Ustinov, dans l'un de ses premiers rôles.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20239,
+              "duree": 106,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 56549
         }
       ]
     },
@@ -13845,7 +14373,7 @@
       "mention": "Séance présentée par Antoine Sire"
     },
     {
-      "idSeance": 133841,
+      "idSeance": 134189,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -13855,33 +14383,34 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21699,
+      "idEvenement": 21687,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-16T21:00:00",
+      "dateHeure": "2024-11-17T14:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 57597,
-          "titre": "Un de nos avions n'est pas rentré",
-          "titreVo": "One of Our Aircraft Is Missing",
+          "idFilm": 58543,
+          "titre": "Bataille du Rio de la Plata",
+          "art": "La",
+          "titreVo": "Battle of the River Plate",
+          "artVo": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1942,
-          "duree": 106,
-          "generique": "Godfrey Tearle, Eric Portman, Hugh Williams",
-          "synopsis": "Durant la Deuxième Guerre mondiale, un bombardier britannique est abattu, obligeant son équipage à sauter en parachute. Ces derniers se retrouvent alors aux Pays-Bas, terre ennemie, et tentent de rejoindre leur pays.",
-          "miniTexte": "Un bombardier anglais atterrit en territoire occupé après avoir subi les dommages d'un raid. Dans la lignée de _49<sup>e</sup> Parallèle_, Powell fait le pari d'un faux docu-fiction aux magnifiques jeux d'ombres et de lumières. Avec Googie Withers, parfaitement mutine, et Peter Ustinov, dans l'un de ses premiers rôles.",
+          "annee": 1956,
+          "duree": 119,
+          "generique": "John Gregson, Anthony Quayle, Ian Hunter",
+          "miniTexte": "Dans un style quasiment documentaire, Powell livre une reconstitution soignée de la Bataille du Rio de la Plata grâce à une mise en scène immersive et une esthétique réaliste. Désireux de faire connaître la vie des vaisseaux, il compose une ode au respect militaire, mais aussi à la retenue du pays, sans se départir du sens de l'humour britannique.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 20239,
-              "duree": 106,
+              "idCopie": 28336,
+              "duree": 119,
               "format": "35 mm",
               "version": "VO",
               "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 56549
+          "idFilmBoxoffice": 39188
         }
       ]
     },
@@ -13903,46 +14432,6 @@
       "idSalle": "HL",
       "theorique": true,
       "items": []
-    },
-    {
-      "idSeance": 134172,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 476,
-          "idCategorie": 2201,
-          "titreCycle": "Michael Powell",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 21698,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-17T15:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 86567,
-          "titre": "Wild Heart",
-          "art": "The",
-          "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1952,
-          "duree": 82,
-          "generique": "Jennifer Jones, Esmond Knight, David Farrar",
-          "adaptation": "D'après le roman _La Renarde_ de Mary Webb.",
-          "miniTexte": "Nouvelle version de _La Renarde_, à la suite d'un désaccord des réalisateurs avec le producteur David O. Selznick, qui souhaite une nouvelle version pour le public américain.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 27064,
-              "duree": 82,
-              "format": "16 mm",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 140474
-        }
-      ]
     },
     {
       "idSeance": 133157,
@@ -14311,7 +14800,7 @@
       ],
       "idEvenement": 31092,
       "typeEvenement": 13,
-      "libelleEvenement": "LILA LUMIÈRE : CONTES",
+      "libelleEvenement": "LILA LUMIÈRE RACONTE MOI UNE HISTOIRE",
       "dateHeure": "2024-11-20T15:00:00",
       "idSalle": "GF",
       "theorique": true,
@@ -14639,7 +15128,7 @@
       ],
       "idEvenement": 21693,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-21T19:00:00",
+      "dateHeure": "2024-11-21T18:30:00",
       "idSalle": "JE",
       "items": [
         {
@@ -15366,7 +15855,7 @@
       ],
       "idEvenement": 31092,
       "typeEvenement": 13,
-      "libelleEvenement": "LILA LUMIÈRE : CONTES",
+      "libelleEvenement": "LILA LUMIÈRE RACONTE MOI UNE HISTOIRE",
       "dateHeure": "2024-11-24T11:30:00",
       "idSalle": "GF",
       "theorique": true,
