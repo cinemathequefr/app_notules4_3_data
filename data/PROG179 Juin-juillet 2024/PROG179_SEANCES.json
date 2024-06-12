@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-12T09:12:37.648Z",
+  "updatedAt": "2024-06-12T12:11:50.566Z",
   "data": [
     {
       "idSeance": 128873,
@@ -1304,7 +1304,7 @@
           "idFilmBoxoffice": 1000001161
         }
       ],
-      "mention": "Séance présentée par Rémi Bigot, Marc Irmer et Claire Chassagne"
+      "mention": "Séance présentée par Rémi Bigot, Marc Irmer, Claire Chassagne et Nicolas Philibert"
     },
     {
       "idSeance": 134108,
@@ -1404,7 +1404,8 @@
           ],
           "idFilmBoxoffice": 1000001158
         }
-      ]
+      ],
+      "mention": "Séance présentée par Ava Cahen"
     },
     {
       "idSeance": 133748,
@@ -1444,7 +1445,8 @@
           ],
           "idFilmBoxoffice": 1000000604
         }
-      ]
+      ],
+      "mention": "Séance présentée par Perrine Quennesson et Carlos Rincones"
     },
     {
       "idSeance": 133749,
@@ -1484,7 +1486,8 @@
           ],
           "idFilmBoxoffice": 328204
         }
-      ]
+      ],
+      "mention": "Séance présentée par Perrine Quennesson, Leonardo Van Dijl, Tessa Van den Broeck et Roxanne Sarkozi"
     },
     {
       "idSeance": 130817,
@@ -1519,7 +1522,8 @@
               "duree": 102,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 316634
         }
       ],
       "mention": "Séance présentée par Nabil Djedouani"
@@ -1600,7 +1604,7 @@
           "idFilmBoxoffice": 279360
         }
       ],
-      "mention": "Séance présentée par Alexis Langlois"
+      "mention": "Séance présentée par Perrine Quennesson, Alexis Langlois et Inès Daïen Dasi"
     },
     {
       "idSeance": 130818,
@@ -1909,7 +1913,8 @@
           ],
           "idFilmBoxoffice": 1000001470
         }
-      ]
+      ],
+      "mention": "Séance présentée par Marie-Pauline Mollaret, Elena López Riera, Lucie Borleteau et Angèle Dupont"
     },
     {
       "idSeance": 130835,
@@ -2030,7 +2035,7 @@
           "idFilmBoxoffice": 316304
         }
       ],
-      "mention": "Séance présentée par Emma Benestan"
+      "mention": "Séance présentée par Emma Benestan, Thomas Rosso et Oulaya Amamra"
     },
     {
       "idSeance": 133754,
@@ -2069,7 +2074,8 @@
           ],
           "idFilmBoxoffice": 1000001160
         }
-      ]
+      ],
+      "mention": "Séance présentée par Thomas Rosso, Juliette Lepoutre et Pierre Menahem"
     },
     {
       "idSeance": 129202,
@@ -2192,7 +2198,7 @@
           "idFilmBoxoffice": 291594
         }
       ],
-      "mention": "Séance présentée par Antoine Chevrollier"
+      "mention": "Séance présentée par Antoine Chevrollier et Damien Leblanc"
     },
     {
       "idSeance": 130793,
@@ -2394,7 +2400,7 @@
           "idFilmBoxoffice": 317096
         }
       ],
-      "mention": "Séance présentée par Saïd Hamich Benlarbi"
+      "mention": "Séance présentée par Saïd Hamich Benlarbi, Damien Leblanc et Sophie Penson"
     },
     {
       "idSeance": 133757,
@@ -2520,7 +2526,8 @@
           ],
           "idFilmBoxoffice": 1000001464
         }
-      ]
+      ],
+      "mention": "Séance présentée par Léo Ortuno et Isadora Neves Marques"
     },
     {
       "idSeance": 133758,
@@ -2645,7 +2652,8 @@
           ],
           "idFilmBoxoffice": 1000001465
         }
-      ]
+      ],
+      "mention": "Séance présentée par Esther Bréjon, Guil Sela, Martin Jérôme, Jules Grange et Nicole Frausto Perez"
     },
     {
       "idSeance": 133888,
@@ -2764,7 +2772,8 @@
           ],
           "idFilmBoxoffice": 1000001159
         }
-      ]
+      ],
+      "mention": "Séance présentée par Ava Cahen, Constance Tsang et Ke-Xi Wu"
     },
     {
       "idSeance": 130795,
@@ -3861,7 +3870,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 281970
         }
       ],
       "mention": "Séance suivie d'une discussion avec Kamal Lazraq"
@@ -7605,8 +7615,9 @@
           "realisateurs": "Abel Gance",
           "annee": 1927,
           "duree": 220,
+          "generique": "Albert Dieudonné, Maryse Damia, Wladimir Roudenko",
           "miniTexte": "Objet de fascination depuis le triomphe de sa première projection en 1927, l'un des plus grands films de l'histoire du cinéma aura connu plusieurs variantes, entre autres disparition et résurrection, jusqu'à la « grande version » voulue par Gance. Reconstruite et restaurée par la Cinémathèque sous la direction de Georges Mourier, l'œuvre frappe, un siècle après son tournage, par ses audaces visuelles et ses prouesses techniques (triple écran). De l'enfance à Brienne à la Campagne d'Italie, en passant par la Révolution française, l'épopée napoléonienne dans toute sa splendeur et sa démesure retrouvées.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 27803,
@@ -7623,7 +7634,8 @@
           "realisateurs": "Abel Gance",
           "annee": 1927,
           "duree": 205,
-          "status": 1,
+          "generique": "Wladimir Roudenko, Albert Dieudonné, Maryse Damia",
+          "status": 2,
           "copies": [
             {
               "idCopie": 27804,
@@ -7863,8 +7875,9 @@
           "realisateurs": "Abel Gance",
           "annee": 1927,
           "duree": 220,
+          "generique": "Albert Dieudonné, Maryse Damia, Wladimir Roudenko",
           "miniTexte": "Objet de fascination depuis le triomphe de sa première projection en 1927, l'un des plus grands films de l'histoire du cinéma aura connu plusieurs variantes, entre autres disparition et résurrection, jusqu'à la « grande version » voulue par Gance. Reconstruite et restaurée par la Cinémathèque sous la direction de Georges Mourier, l'œuvre frappe, un siècle après son tournage, par ses audaces visuelles et ses prouesses techniques (triple écran). De l'enfance à Brienne à la Campagne d'Italie, en passant par la Révolution française, l'épopée napoléonienne dans toute sa splendeur et sa démesure retrouvées.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 27803,
@@ -7881,7 +7894,8 @@
           "realisateurs": "Abel Gance",
           "annee": 1927,
           "duree": 205,
-          "status": 1,
+          "generique": "Wladimir Roudenko, Albert Dieudonné, Maryse Damia",
+          "status": 2,
           "copies": [
             {
               "idCopie": 27804,
@@ -8808,8 +8822,9 @@
           "realisateurs": "Abel Gance",
           "annee": 1927,
           "duree": 220,
+          "generique": "Albert Dieudonné, Maryse Damia, Wladimir Roudenko",
           "miniTexte": "Objet de fascination depuis le triomphe de sa première projection en 1927, l'un des plus grands films de l'histoire du cinéma aura connu plusieurs variantes, entre autres disparition et résurrection, jusqu'à la « grande version » voulue par Gance. Reconstruite et restaurée par la Cinémathèque sous la direction de Georges Mourier, l'œuvre frappe, un siècle après son tournage, par ses audaces visuelles et ses prouesses techniques (triple écran). De l'enfance à Brienne à la Campagne d'Italie, en passant par la Révolution française, l'épopée napoléonienne dans toute sa splendeur et sa démesure retrouvées.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 27803,
@@ -8826,7 +8841,8 @@
           "realisateurs": "Abel Gance",
           "annee": 1927,
           "duree": 205,
-          "status": 1,
+          "generique": "Wladimir Roudenko, Albert Dieudonné, Maryse Damia",
+          "status": 2,
           "copies": [
             {
               "idCopie": 27804,
@@ -8986,8 +9002,9 @@
           "realisateurs": "Abel Gance",
           "annee": 1927,
           "duree": 220,
+          "generique": "Albert Dieudonné, Maryse Damia, Wladimir Roudenko",
           "miniTexte": "Objet de fascination depuis le triomphe de sa première projection en 1927, l'un des plus grands films de l'histoire du cinéma aura connu plusieurs variantes, entre autres disparition et résurrection, jusqu'à la « grande version » voulue par Gance. Reconstruite et restaurée par la Cinémathèque sous la direction de Georges Mourier, l'œuvre frappe, un siècle après son tournage, par ses audaces visuelles et ses prouesses techniques (triple écran). De l'enfance à Brienne à la Campagne d'Italie, en passant par la Révolution française, l'épopée napoléonienne dans toute sa splendeur et sa démesure retrouvées.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 27803,
@@ -9004,7 +9021,8 @@
           "realisateurs": "Abel Gance",
           "annee": 1927,
           "duree": 205,
-          "status": 1,
+          "generique": "Wladimir Roudenko, Albert Dieudonné, Maryse Damia",
+          "status": 2,
           "copies": [
             {
               "idCopie": 27804,
@@ -9922,8 +9940,9 @@
           "realisateurs": "Abel Gance",
           "annee": 1927,
           "duree": 220,
+          "generique": "Albert Dieudonné, Maryse Damia, Wladimir Roudenko",
           "miniTexte": "Objet de fascination depuis le triomphe de sa première projection en 1927, l'un des plus grands films de l'histoire du cinéma aura connu plusieurs variantes, entre autres disparition et résurrection, jusqu'à la « grande version » voulue par Gance. Reconstruite et restaurée par la Cinémathèque sous la direction de Georges Mourier, l'œuvre frappe, un siècle après son tournage, par ses audaces visuelles et ses prouesses techniques (triple écran). De l'enfance à Brienne à la Campagne d'Italie, en passant par la Révolution française, l'épopée napoléonienne dans toute sa splendeur et sa démesure retrouvées.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 27803,
@@ -9940,7 +9959,8 @@
           "realisateurs": "Abel Gance",
           "annee": 1927,
           "duree": 205,
-          "status": 1,
+          "generique": "Wladimir Roudenko, Albert Dieudonné, Maryse Damia",
+          "status": 2,
           "copies": [
             {
               "idCopie": 27804,
@@ -10089,8 +10109,9 @@
           "realisateurs": "Abel Gance",
           "annee": 1927,
           "duree": 220,
+          "generique": "Albert Dieudonné, Maryse Damia, Wladimir Roudenko",
           "miniTexte": "Objet de fascination depuis le triomphe de sa première projection en 1927, l'un des plus grands films de l'histoire du cinéma aura connu plusieurs variantes, entre autres disparition et résurrection, jusqu'à la « grande version » voulue par Gance. Reconstruite et restaurée par la Cinémathèque sous la direction de Georges Mourier, l'œuvre frappe, un siècle après son tournage, par ses audaces visuelles et ses prouesses techniques (triple écran). De l'enfance à Brienne à la Campagne d'Italie, en passant par la Révolution française, l'épopée napoléonienne dans toute sa splendeur et sa démesure retrouvées.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 27803,
@@ -10107,7 +10128,8 @@
           "realisateurs": "Abel Gance",
           "annee": 1927,
           "duree": 205,
-          "status": 1,
+          "generique": "Wladimir Roudenko, Albert Dieudonné, Maryse Damia",
+          "status": 2,
           "copies": [
             {
               "idCopie": 27804,
