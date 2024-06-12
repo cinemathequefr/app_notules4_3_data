@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-11T15:40:43.799Z",
+  "updatedAt": "2024-06-12T09:11:55.202Z",
   "data": [
     {
       "idSeance": 130975,
@@ -427,9 +427,9 @@
           "realisateurs": "Abel Gance",
           "annee": 1918,
           "duree": 165,
-          "generique": "Séverin-Mars, Romuald Joubé, Maxime Desjardins, Marise Dauvray",
+          "generique": "Séverin-Mars, Romuald Joubé, Maxime Desjardins, Maryse Dauvray",
           "miniTexte": "Pacifiste convaincu, Abel Gance écrit entre 1917 et 1918 un plaidoyer anti-guerre d'un souffle inédit. Sur fond d'intrigue sentimentale entre une femme et deux hommes mobilisés, le film, qui emprunte son titre au cri indigné de Zola durant l'affaire Dreyfus, impressionne encore aujourd'hui par ses innovations, la maîtrise de sa mise en scène et son rythme crescendo jusque dans la saisissante scène du réveil des morts au champ de bataille. Incarnée par de vraies gueules cassées et des soldats en permission, une armée de zombies (les premiers de l'histoire du cinéma ?) rentrent au pays voir ce que les vivants pensent de leur sacrifice, apogée d'une réflexion sur la mort, emphatique, humaniste et visionnaire.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 3865,
@@ -507,8 +507,9 @@
           "realisateurs": "Abel Gance",
           "annee": 1962,
           "duree": 146,
+          "generique": "José Ferrer, Jean-Pierre Cassel, Sylva Koscina",
           "miniTexte": "À 75 ans et un demi-siècle de cinéma, Abel Gance réunit les héros de Rostand et Dumas père dans une revue de cape et d'épée aussi tonique que raffinée, où l'on ferraille et batifole, en vers et contre tous. Poète extravagant, le vieux Gance s'amuse avec panache.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28141,
@@ -707,7 +708,7 @@
           "duree": 137,
           "generique": "Pierre Mondy, Martine Carol, Claudia Cardinale",
           "miniTexte": "Comme dans une suite de son _Napoléon_, 33 ans après, Abel Gance livre une reconstitution, qu'il dirige en stratège et compose en peintre, de la bataille d'Austerlitz. Une épopée en deux volets, portée par un Napoléon inattendu (Pierre Mondy) et par un défilé d'illustres interprètes (Welles, De Sica, Palance...).",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28136,
@@ -836,9 +837,10 @@
           "realisateurs": "Abel Gance, Fernand Rivers",
           "annee": 1934,
           "duree": 110,
+          "generique": "Yvonne Printemps, Pierre Fresnay, Jane Marken",
           "adaptation": "D'après le roman _La Dame aux camélias_ d'Alexandre Dumas fils.",
           "miniTexte": "Les amours d'Armand Duval et de Marguerite Gautier. Une version du roman de Dumas fils, coréalisée avec Fernand Rivers, qui marque les premiers pas cinématographiques d'Yvonne Printemps.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28114,
@@ -956,6 +958,7 @@
           "annee": 1942,
           "duree": 108,
           "generique": "Fernand Gravey, Assia Noris, Jean Weber",
+          "adaptation": "D'après le roman _Le Capitaine Fracasse_ de Théophile Gautier.",
           "synopsis": "Au XVII<sup>e</sup> siècle, un baron ruiné décide, par amour pour une actrice, de suivre une troupe ambulante. Il remplace un comédien et prend le nom de capitaine Fracasse.",
           "miniTexte": "L'une des nombreuses adaptations du roman picaresque de Théophile Gautier, les aventures du Baron de Sigognac (Gascon désargenté qui suit une troupe de comédiens ambulants), où la fougue de Fernand Gravey éclate dans le faste des décors taillés comme des Gustave Doré.",
           "status": 2,
@@ -968,6 +971,40 @@
             }
           ],
           "idFilmBoxoffice": 2987
+        }
+      ]
+    },
+    {
+      "idSeance": 131127,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3431,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Vincent Weber"
+        }
+      ],
+      "idEvenement": 31206,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-02T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154916,
+          "titre": "Un jour j'aurai une île",
+          "realisateurs": "Vincent Weber",
+          "annee": 2024,
+          "duree": 50,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28374,
+              "duree": 50,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },
@@ -994,8 +1031,10 @@
           "realisateurs": "Abel Gance",
           "annee": 1935,
           "duree": 114,
+          "generique": "Georges Milton, Samson Fainsilber, Tania Fédor",
+          "adaptation": "D'après le roman _Jérôme Perreau, héros des barricades_ d'Henri Dupuy-Mazuel.",
           "miniTexte": "Sur une idée de l'acteur Georges Milton (série des « Bouboule »), une fantaisie historique centrée sur un titi des faubourgs qui croise la route du jeune Louis XIV, de Mazarin et d'Anne d'Autriche, au temps de la Fronde.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28115,
@@ -1146,8 +1185,10 @@
           "realisateurs": "Abel Gance",
           "annee": 1938,
           "duree": 85,
+          "generique": "Grace Moore, Georges Thill, André Pernet",
+          "adaptation": "D'après l'opéra _Louise_ de Gustave Charpentier.",
           "miniTexte": "D'après l'opéra de Gustave Charpentier, l'amour d'une ouvrière pour un musicien, contre l'approbation de ses parents. Gance utilise pour la première fois avec succès le Pictographe, ancêtre du décor incrusté, qu'il met au point avec l'opticien Pierre Angénieux.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28123,
@@ -1308,7 +1349,7 @@
           "generique": "Victor Francen, Line Noro, Jean Max, Renée Devillers",
           "synopsis": "Jean Diaz, scientifique, s'est juré d'empêcher une nouvelle guerre. Il invente un verre indestructible dont l'invention lui est volée et sombre dans la folie. Vingt ans plus tard, il retrouve sa raison pour apprendre qu'une nouvelle guerre se prépare.",
           "miniTexte": "Dans une version sonore qui reprend plusieurs extraits du film de 1919, Gance signe un nouveau chef-d'œuvre au pacifisme exacerbé, d'autant plus puissant qu'il sort à la veille de la Seconde Guerre mondiale.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 3500,
@@ -2165,11 +2206,12 @@
           "art": "The",
           "realisateurs": "Douglas Buck",
           "annee": 2011,
+          "duree": 10,
           "status": 1,
           "copies": [
             {
               "idCopie": 28370,
-              "duree": 0
+              "duree": 10
             }
           ],
           "idFilmBoxoffice": 196549
@@ -2193,6 +2235,42 @@
             }
           ],
           "idFilmBoxoffice": 120802
+        }
+      ]
+    },
+    {
+      "idSeance": 131313,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3430,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Rayane Mcirdi"
+        }
+      ],
+      "idEvenement": 31205,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-09T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154915,
+          "titre": "Après le soleil",
+          "realisateurs": "Rayane Mcirdi",
+          "annee": 2024,
+          "duree": 25,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28371,
+              "duree": 25,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -2582,7 +2660,7 @@
           "generique": "Léon Mathot, Georges Paulais, Andrée Brabant",
           "synopsis": "Un grand financier de la bourse de Paris et l'un de ses secrétaires sont épris de la même jeune fille, qui est la pupille du premier.",
           "miniTexte": "Rongé par un mal incurable, un financier parisien souhaite épouser sa pupille, une jeune fille de 18 ans, elle-même éprise de son modeste secrétaire. Un drame de l'amour et de l'argent, qui s'inspire d'une pensée de Shakespeare : « Je veux avant de mourir manger jusqu'aux dernières miettes de mon festin. »",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28075,
@@ -2679,7 +2757,7 @@
           "generique": "Séverin-Mars, Jean Toulout, André Lefaur",
           "synopsis": "La vie d'un musicien dont le génie est contesté par ses contemporains.",
           "miniTexte": "Premier grand film de Gance, _La Dixième Symphonie_ suit les états d'âme d'un compositeur remarié à une femme harcelée par son ex-amant. Sur le thème de la douleur créatrice, Abel Gance impose son style visuel (décor surchargé, éclairage en clair-obscur) et signe un drame mondain au lyrisme luxuriant. Construit comme un polar (qui s'ouvre sur un crime et se clôt sur un suicide), le film captive par la richesse de ses images et sa longue scène musicale, où l'expression de la souffrance humaine devient une œuvre d'art. Motif que le cinéaste reprendra vingt ans plus tard en version sonore, avec _Un grand amour de Beethoven_.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28087,
@@ -3135,11 +3213,11 @@
           "realisateurs": "Abel Gance",
           "annee": 1915,
           "duree": 14,
-          "generique": "Albert Dieudonné",
+          "generique": "Albert Dieudonné, Séverin-Mars",
           "ageMinimal": 8,
           "synopsis": "Un savant trouve le moyen de décomposer les rayons lumineux.",
           "miniTexte": "Dans son laboratoire, un savant fou expérimente une poudre qui altère l'apparence physique. Pour exprimer cette vision, à partir d'un procédé déformant, le jeune cinéaste jette sans le savoir les bases du surréalisme au cinéma.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 1142,
@@ -3159,7 +3237,7 @@
           "duree": 36,
           "generique": "Max Linder, Gina Palerme, Jean Toulout",
           "miniTexte": "Max parie qu'il peut résister à l'épouvante d'un manoir hanté pendant une heure, sans appeler au secours. Nichée entre _La Roue_ et _Napoléon_, une pochade mi-burlesque, mi-horrifique, dans laquelle Gance met tout son savoir-faire et sa panoplie d'astuces cinématographiques au service du divertissement.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 20644,
@@ -3290,7 +3368,7 @@
           "idFilmBoxoffice": 5239
         }
       ],
-      "mention": "Accompagnement musical par (Etudiant) Zygel"
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 133738,
@@ -3384,7 +3462,8 @@
         {
           "idCycle": 140,
           "idCategorie": 3423,
-          "titreCycle": "Aujourd'hui le cinéma"
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Patric Chiha"
         }
       ],
       "idEvenement": 31174,
@@ -3562,9 +3641,10 @@
           "annee": 1930,
           "duree": 103,
           "generique": "Colette Darfeuil, Abel Gance, Victor Francen",
+          "adaptation": "D'après le roman _La Fin du monde_ de Camille Flammarion.",
           "synopsis": "Un savant a découvert une comète qui se dirige droit vers la Terre et la détruira. Voyant que la panique s'empare de l'humanité, le savant tente alors de faire voter la proclamation d'une république universelle.",
           "miniTexte": "Œuvre pionnière du film catastrophe (une comète s'approche inexorablement de la Terre), une fresque sociale cosmique d'une ampleur extraordinaire. Mutilé par son producteur, le premier film parlant d'Abel Gance (un échec à sa sortie) vaut pour la singularité et la puissance de certaines scènes, évocation lyrique des derniers instants de la vie, quatre-vingts ans avant _Melancholia_.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28109,
@@ -4931,7 +5011,8 @@
         {
           "idCycle": 140,
           "idCategorie": 3424,
-          "titreCycle": "Aujourd'hui le cinéma"
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Francisco Rodríguez Teare"
         }
       ],
       "idEvenement": 31175,
@@ -6066,7 +6147,8 @@
         {
           "idCycle": 140,
           "idCategorie": 3426,
-          "titreCycle": "Aujourd'hui le cinéma"
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Axel Würsten"
         }
       ],
       "idEvenement": 31181,
@@ -6393,7 +6475,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 10722
         }
       ]
     },
@@ -6646,7 +6729,6 @@
           "annee": 1923,
           "duree": 77,
           "generique": "Ève Francis, Van Daële, Ginette Maddie",
-          "synopsis": "Un fermier riche, fiancé a une jeune fille, en aime une autre.\n\n---\n\nDans un village en bord du Rhône, Alban, jeune fermier, s'apprête à épouser la coquette et frivole Margot. Monsieur Broc, employé de mairie solitaire, retrouve sa fille adorée Germaine, devenue une charmante jeune femme. Germaine s'est éprise d'Alban.\n\n---\n\nAlban, jeune fermier, va épouser Margot. Germaine, la fille de l'employé de mairie, s'est éprise de lui. Lorsqu'il l'éconduit, elle s'effondre.",
           "status": 0,
           "copies": [
             {
@@ -7238,6 +7320,25 @@
           "idFilmBoxoffice": 37407
         }
       ]
+    },
+    {
+      "idSeance": 132057,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3435,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Festival Biarritz Amérique latine 2024"
+        }
+      ],
+      "idEvenement": 31211,
+      "typeEvenement": 13,
+      "libelleEvenement": "PALMARÈS DU FESTIVAL BIARRITZ AMÉRIQUE LATINE",
+      "dateHeure": "2024-10-07T19:00:00",
+      "idSalle": "JE",
+      "theorique": true,
+      "items": []
     },
     {
       "idSeance": 133812,
@@ -8416,6 +8517,40 @@
       ]
     },
     {
+      "idSeance": 132243,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3433,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Yuna Alonzo"
+        }
+      ],
+      "idEvenement": 31208,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-14T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154918,
+          "titre": "Te quiero ma Vahiné",
+          "realisateurs": "Yuna Alonzo",
+          "annee": 2024,
+          "duree": 33,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28375,
+              "duree": 33,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 132242,
       "idProg": 182,
       "idCycleCategories": [
@@ -8655,33 +8790,6 @@
             }
           ],
           "idFilmBoxoffice": 18613
-        }
-      ]
-    },
-    {
-      "idSeance": 134187,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 803,
-          "idCategorie": 3416,
-          "titreCycle": "Pietro Germi",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 31127,
-      "typeEvenement": 14,
-      "dateHeure": "2024-10-18T16:15:00",
-      "typeConference": "Conférence",
-      "idSalle": "GF",
-      "duree": 90,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 31127,
-          "idTypeConf": 55,
-          "titre": "Qui êtes-vous... Pietro Germi ?",
-          "duree": 90
         }
       ]
     },
@@ -9173,7 +9281,8 @@
               "format": "35 mm",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 12917
         }
       ]
     },
@@ -9361,7 +9470,8 @@
         {
           "idCycle": 140,
           "idCategorie": 3427,
-          "titreCycle": "Aujourd'hui le cinéma"
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Courts métrages Arte"
         }
       ],
       "idEvenement": 31185,
@@ -9411,7 +9521,7 @@
           "realisateurs": "Viv Li",
           "annee": 2024,
           "duree": 15,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28347,
@@ -9420,7 +9530,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1000001849
         },
         {
           "ordre": 4,
@@ -10881,6 +10992,43 @@
       ]
     },
     {
+      "idSeance": 132615,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3437,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Frédéric Lavigne"
+        }
+      ],
+      "idEvenement": 31210,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-28T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154919,
+          "titre": "Cœurs perdus",
+          "realisateurs": "Frédéric Lavigne",
+          "annee": 2023,
+          "duree": 34,
+          "generique": "Guillaume Soubeyran, Isaak Dessaux",
+          "synopsis": "Paris, 1992. Julien, étudiant en thèse scientifique, apprend la mort de Christophe, jeune coiffeur de banlieue rencontré quelques mois plus tôt. Commence alors pour lui un voyage sur les traces de leur histoire pour tenter de comprendre et pardonner.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28377,
+              "duree": 34,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Frédéric Lavigne"
+    },
+    {
       "idSeance": 132614,
       "idProg": 182,
       "idCycleCategories": [
@@ -11698,12 +11846,13 @@
           "idFilm": 37903,
           "titre": "Godzilla",
           "titreVo": "Gojira",
-          "realisateurs": "Ishirô Honda",
+          "titreNx": "ゴジラ",
+          "realisateurs": "Ishirō Honda",
           "annee": 1954,
           "duree": 93,
-          "generique": "Akira Takarada, Momoko Kôchi, Akihiko Hirata",
+          "generique": "Akira Takarada, Momoko Kōchi, Akihiko Hirata",
           "synopsis": "Au large des côtes japonaises, plusieurs navires disparaissent mystérieusement. Alertées, les autorités dépêchent une expédition scientifique qui recueille les témoignages de pêcheurs terrorisés. Tous assurent avoir vu un monstre remonté du fond des mers. Lequel s'avère être un dinosaure réveillé par des explosions atomiques.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 9818,
@@ -11987,6 +12136,40 @@
             }
           ],
           "idFilmBoxoffice": 4188
+        }
+      ]
+    },
+    {
+      "idSeance": 132801,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3432,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Mathieu Morel"
+        }
+      ],
+      "idEvenement": 31207,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-04T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154917,
+          "titre": "Anapidae",
+          "realisateurs": "Mathieu Morel",
+          "annee": 2024,
+          "duree": 43,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28378,
+              "duree": 43,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },
@@ -14750,6 +14933,26 @@
       "mention": "Séance présentée par Francis Huster"
     },
     {
+      "idSeance": 133173,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3436,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Çağla Zencirci et Guillaume Giovanetti"
+        }
+      ],
+      "idEvenement": 31209,
+      "typeEvenement": 13,
+      "libelleEvenement": "ÇAĞLA ZENCIRCI & GUILLAUME GIOVANETTI (AVEC LA VILLA ALBERTINE)",
+      "dateHeure": "2024-11-18T20:30:00",
+      "idSalle": "JE",
+      "theorique": true,
+      "mention": "Séance suivie d'une discussion avec Cagla Zencirci et Guillaume Giovanetti",
+      "items": []
+    },
+    {
       "idSeance": 133620,
       "idProg": 182,
       "idCycleCategories": [
@@ -15939,7 +16142,8 @@
               "format": "DCP",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 409
         }
       ]
     },
