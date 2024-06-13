@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-12T14:32:19.323Z",
+  "updatedAt": "2024-06-13T08:54:22.210Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1569,11 +1569,11 @@
         {
           "ordre": 1,
           "idFilm": 49649,
-          "titre": "S'il vous plaît, la mer ?",
+          "titre": "S'il vous plaît... la mer ?",
           "realisateurs": "Martine Lancelot",
           "annee": 1978,
           "generique": "Micheline Presle, François Marié, Mad Rimbaud",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28276,
@@ -1813,7 +1813,7 @@
       "mention": "Séance présentée par Serge Bozon"
     },
     {
-      "idSeance": 134179,
+      "idSeance": 134200,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -1823,33 +1823,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30021,
+      "idEvenement": 29893,
       "typeEvenement": 13,
       "dateHeure": "2024-09-08T14:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 30809,
-          "titre": "Aliens, le retour",
-          "titreVo": "Aliens",
+          "idFilm": 110101,
+          "titre": "Avatar",
           "realisateurs": "James Cameron",
-          "annee": 1985,
-          "duree": 137,
-          "generique": "Sigourney Weaver, Michael Biehn, Lance Henriksen",
-          "synopsis": "Ripley et un groupe de Marines retournent vers la planète où une créature monstrueuse a été découverte pour la première fois.",
-          "miniTexte": "Ripley revient ! Avec ce deuxième volet de la saga, Cameron s'empare du mythe installé par Ridley Scott et y pose sa griffe, lui donnant une ampleur inattendue : après une première partie très martiale (les Marines caricaturaux missionnés pour sauver des colons aux prises avec les xénomorphes), Ripley reprend la main, à la fois terrorisée (humaine) et déterminée (surhumaine). Elle renoue avec sa propre maternité, tendue vers un seul but, sauver une fillette, et trouve le chemin de la rédemption dans un affrontement final de mère à mère. Monstrueux, intense, éblouissant.",
+          "annee": 2009,
+          "duree": 150,
+          "generique": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
+          "ageMinimal": 10,
+          "synopsisJP": "Un ancien soldat est envoyé sur la planète Pandora, habitée par le peuple des Na'vi. Entre rêve et mythologie, une ode à la nature dans un univers unique, splendide, d'un réalisme saisissant, et aux effets spéciaux à couper le souffle. Le plus grand succès de toute l'histoire du cinéma.",
+          "miniTexte": "_Avatar_, ou tout simplement le plus grand succès au box-office de toute l'histoire du cinéma. Un ancien Marine est envoyé par un groupe industriel sur la planète Pandora, habitée par le peuple des Na'vi. Cameron emmène le spectateur très loin dans la mythologie et le rêve, compose une ode à la nature dans un univers unique, pensé dans ses moindres détails. Trouvailles visuelles splendides (végétation, personnages), effets spéciaux à couper le souffle (_motion capture_, 3D) d'un réalisme saisissant : du très grand divertissement, pour en prendre plein les yeux.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 5041,
-              "duree": 137,
+              "idCopie": 4859,
+              "duree": 150,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 2167
+          "idFilmBoxoffice": 61282
         }
       ]
     },
@@ -2564,7 +2564,8 @@
           ],
           "idFilmBoxoffice": 2619
         }
-      ]
+      ],
+      "mention": "Séance présentée par Jean A. Gili"
     },
     {
       "idSeance": 133770,
@@ -2836,56 +2837,41 @@
       ]
     },
     {
-      "idSeance": 133670,
+      "idSeance": 134201,
       "idProg": 182,
       "idCycleCategories": [
         {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
+          "idCycle": 741,
+          "idCategorie": 3235,
+          "titreCycle": "James Cameron",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30935,
+      "idEvenement": 29975,
       "typeEvenement": 13,
       "dateHeure": "2024-09-14T15:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154798,
-          "titre": "Napoléon vu par Abel Gance (partie 1)",
-          "realisateurs": "Abel Gance",
-          "annee": 1927,
-          "duree": 220,
-          "generique": "Albert Dieudonné, Maryse Damia, Wladimir Roudenko",
-          "miniTexte": "Objet de fascination depuis le triomphe de sa première projection en 1927, l'un des plus grands films de l'histoire du cinéma aura connu plusieurs variantes, entre autres disparition et résurrection, jusqu'à la « grande version » voulue par Gance. Reconstruite et restaurée par la Cinémathèque sous la direction de Georges Mourier, l'œuvre frappe, un siècle après son tournage, par ses audaces visuelles et ses prouesses techniques (triple écran). De l'enfance à Brienne à la Campagne d'Italie, en passant par la Révolution française, l'épopée napoléonienne dans toute sa splendeur et sa démesure retrouvées.",
+          "idFilm": 154672,
+          "titre": "Avatar : La Voie de l'eau",
+          "titreVo": "Avatar: The Way of Water",
+          "realisateurs": "James Cameron",
+          "annee": 2022,
+          "generique": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
+          "miniTexte": "Projet pharaonique de James Cameron, le deuxième volet des aventures de Jake Sully est une épopée éblouissante, sur fond de récit initiatique. Une nouvelle fois, le maître des effets spéciaux repousse les frontières, orchestre un feu d'artifice visuel avec notamment des séquences de _performance capture_ filmées sous l'eau. L'écran est pour lui l'écrin rêvé pour partager avec le spectateur sa passion pour la technologie et ses défis les plus fous. Davantage qu'un film, une expérience de cinéma.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27803,
-              "duree": 220,
-              "format": "DCP"
+              "idCopie": 27179,
+              "duree": 0,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 645
-        },
-        {
-          "ordre": 2,
-          "idFilm": 154797,
-          "titre": "Napoléon vu par Abel Gance (partie 2)",
-          "realisateurs": "Abel Gance",
-          "annee": 1927,
-          "duree": 205,
-          "generique": "Wladimir Roudenko, Albert Dieudonné, Maryse Damia",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 27804,
-              "duree": 205,
-              "format": "DCP"
-            }
-          ]
+          "idFilmBoxoffice": 178014
         }
       ]
     },
@@ -2930,6 +2916,48 @@
       "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
+      "idSeance": 133771,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30857,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-14T18:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55717,
+          "titre": "Ginger et Fred",
+          "titreVo": "Ginger e Fred",
+          "realisateurs": "Federico Fellini",
+          "annee": 1985,
+          "duree": 127,
+          "generique": "Marcello Mastroianni, Giulietta Masina, Franco Fabrizi",
+          "synopsis": "Deux danseurs, qui imitaient trente ans plus tôt le couple Ginger Rogers / Fred Astaire, se retrouvent à l'occasion d'une émission de télévision invitant des sosies d'artistes.",
+          "miniTexte": "À la télévision, les retrouvailles d'un vieux couple de danseurs venus présenter un ancien numéro de music-hall, une imitation de Fred Astaire et Ginger Rogers. Fellini règle ses comptes avec la télé de Berlusconi, un monde névrotique où l'audience et le pouvoir de la publicité ont pris le pas sur la féerie du spectacle.",
+          "commentaire": "1986, Fellini règle ses comptes avec la télévision de Berlusconi. Interviewé pendant le tournage de _Ginger et Fred_, il fustige la télé spectacle qui abrutit le public. « C'est une image schizophrène, psychédélique, névrotique, \"confettisée\", dispersée. Une sorte de kaléidoscope qui chatouille l'œil. On finit par créer un spectateur impatient, superficiel, qui veut faire son film lui-même en sautant sans cesse d'un programme à un autre. » Un combat que le cinéaste mène à la scène comme à la ville. En pleine bataille juridique contre les chaînes du « Cavaliere », il tente de faire interdire les coupures de pub pendant les films. En vain. Telle une riposte drôle et acide, il reste _Ginger et Fred_ et ses merveilleux interprètes complices, Giulietta et Marcello, pour un ultime pas de danse.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 16751,
+              "duree": 127,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1255
+        }
+      ]
+    },
+    {
       "idSeance": 131470,
       "idProg": 182,
       "idCycleCategories": [
@@ -2942,7 +2970,7 @@
       ],
       "idEvenement": 30733,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-14T18:30:00",
+      "dateHeure": "2024-09-14T18:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3013,6 +3041,46 @@
       "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
+      "idSeance": 133705,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30848,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-14T19:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48437,
+          "titre": "Grande Bouffe",
+          "art": "La",
+          "realisateurs": "Marco Ferreri",
+          "annee": 1973,
+          "duree": 125,
+          "generique": "Marcello Mastroianni, Philippe Noiret, Michel Piccoli, Ugo Tognazzi, Andréa Ferréol",
+          "synopsis": "Fatigués de vivre, quatre hommes se réunissent dans une villa isolée pour célébrer la bouffe, le sexe, l'amitié et la mort.",
+          "miniTexte": "Fatigués de vivre, quatre hommes se réunissent dans une villa isolée pour célébrer la ripaille, le sexe, l'amitié et la mort. Une « farce physiologique », un rejet catégorique de la société de consommation, arrière-fond d'une œuvre radicale, désespérée. Et un scandale au Festival de Cannes.",
+          "commentaire": "Sur la table, pâtés de foie, poulettes de Bresse, cuissots de chevreuil, sein en gélatine et tarte aux fesses. Cest un banquet qui sent le vomi, la merde et le sexe. La chère et la chair se rejoignent dans un excès de sueurs, vertiges et hurlements. Tognazzi, Mastroianni, Piccoli et Noiret, accompagnés d'Andréa Ferréol, s'adonnent aux bacchanales de Ferreri, se goinfrant jusqu'à en crever. Quatre personnages dans leur rôle de machine. « Une machine à manger, à baiser, à chier », dans ce que le cinéaste décrit lui-même comme une « farce physiologique », exprimant un rejet catégorique de la société de consommation. Une œuvre radicale, d'un profond désespoir, qui laisse le public du Festival de Cannes au bord de la nausée. « C'est immonde ! Une ignominie ! Vous êtes de honteux pornographes ! », entend-on à la descente des marches. Le producteur Jean-Pierre Rassam profite du scandale pour faire monter la sauce et déclare que « les gens de cinéma sont tous des cons ». Les semaines suivantes, dans le plus grand calme, les spectateurs se rendent en nombre voir le film. Déjà culte.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21806,
+              "duree": 125,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 1372
+        }
+      ]
+    },
+    {
       "idSeance": 131471,
       "idProg": 182,
       "idCycleCategories": [
@@ -3025,7 +3093,7 @@
       ],
       "idEvenement": 30737,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-14T21:00:00",
+      "dateHeure": "2024-09-14T21:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3081,83 +3149,56 @@
       ]
     },
     {
-      "idSeance": 131482,
+      "idSeance": 133670,
       "idProg": 182,
       "idCycleCategories": [
         {
-          "idCycle": 741,
-          "idCategorie": 3235,
-          "titreCycle": "James Cameron",
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 29886,
+      "idEvenement": 30935,
       "typeEvenement": 13,
       "dateHeure": "2024-09-15T15:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 30824,
-          "titre": "Terminator",
-          "realisateurs": "James Cameron",
-          "annee": 1984,
-          "duree": 107,
-          "generique": "Arnold Schwarzenegger, Michael Biehn, Linda Hamilton",
-          "miniTexte": "2029, l'humanité est en guerre contre les machines, et la Résistance envoie l'un des siens dans le passé pour influer sur le cours de l'Histoire. Linda Hamilton est Sarah Connor, Michael Biehn son ange gardien, et Arnold Schwarzenegger le T-800, cyborg meurtrier. _Terminator_ marque les débuts de la franchise avec un premier volet musclé : courses-poursuites efficaces, effets spéciaux impeccables, pour une réflexion sur l'intelligence artificielle qui trouve aujourd'hui un écho tout particulier. Une référence du cinéma d'anticipation, et la naissance du mythe Schwarzie (_« I'll be back! »_), qui inscrit son nom au panthéon de la pop culture.",
+          "idFilm": 154798,
+          "titre": "Napoléon vu par Abel Gance (partie 1)",
+          "realisateurs": "Abel Gance",
+          "annee": 1927,
+          "duree": 220,
+          "generique": "Albert Dieudonné, Maryse Damia, Wladimir Roudenko",
+          "miniTexte": "Objet de fascination depuis le triomphe de sa première projection en 1927, l'un des plus grands films de l'histoire du cinéma aura connu plusieurs variantes, entre autres disparition et résurrection, jusqu'à la « grande version » voulue par Gance. Reconstruite et restaurée par la Cinémathèque sous la direction de Georges Mourier, l'œuvre frappe, un siècle après son tournage, par ses audaces visuelles et ses prouesses techniques (triple écran). De l'enfance à Brienne à la Campagne d'Italie, en passant par la Révolution française, l'épopée napoléonienne dans toute sa splendeur et sa démesure retrouvées.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 9957,
-              "duree": 107,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "idCopie": 27803,
+              "duree": 220,
+              "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 309
-        }
-      ]
-    },
-    {
-      "idSeance": 133771,
-      "idProg": 182,
-      "idCycleCategories": [
+          "idFilmBoxoffice": 645
+        },
         {
-          "idCycle": 786,
-          "idCategorie": 3371,
-          "titreCycle": "Marcello Mastroianni",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30857,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-15T17:15:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 55717,
-          "titre": "Ginger et Fred",
-          "titreVo": "Ginger e Fred",
-          "realisateurs": "Federico Fellini",
-          "annee": 1985,
-          "duree": 127,
-          "generique": "Marcello Mastroianni, Giulietta Masina, Franco Fabrizi",
-          "synopsis": "Deux danseurs, qui imitaient trente ans plus tôt le couple Ginger Rogers / Fred Astaire, se retrouvent à l'occasion d'une émission de télévision invitant des sosies d'artistes.",
-          "miniTexte": "À la télévision, les retrouvailles d'un vieux couple de danseurs venus présenter un ancien numéro de music-hall, une imitation de Fred Astaire et Ginger Rogers. Fellini règle ses comptes avec la télé de Berlusconi, un monde névrotique où l'audience et le pouvoir de la publicité ont pris le pas sur la féerie du spectacle.",
-          "commentaire": "1986, Fellini règle ses comptes avec la télévision de Berlusconi. Interviewé pendant le tournage de _Ginger et Fred_, il fustige la télé spectacle qui abrutit le public. « C'est une image schizophrène, psychédélique, névrotique, \"confettisée\", dispersée. Une sorte de kaléidoscope qui chatouille l'œil. On finit par créer un spectateur impatient, superficiel, qui veut faire son film lui-même en sautant sans cesse d'un programme à un autre. » Un combat que le cinéaste mène à la scène comme à la ville. En pleine bataille juridique contre les chaînes du « Cavaliere », il tente de faire interdire les coupures de pub pendant les films. En vain. Telle une riposte drôle et acide, il reste _Ginger et Fred_ et ses merveilleux interprètes complices, Giulietta et Marcello, pour un ultime pas de danse.",
+          "ordre": 2,
+          "idFilm": 154797,
+          "titre": "Napoléon vu par Abel Gance (partie 2)",
+          "realisateurs": "Abel Gance",
+          "annee": 1927,
+          "duree": 205,
+          "generique": "Wladimir Roudenko, Albert Dieudonné, Maryse Damia",
           "status": 2,
           "copies": [
             {
-              "idCopie": 16751,
-              "duree": 127,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "idCopie": 27804,
+              "duree": 205,
+              "format": "DCP"
             }
-          ],
-          "idFilmBoxoffice": 1255
+          ]
         }
       ]
     },
@@ -3174,7 +3215,7 @@
       ],
       "idEvenement": 30705,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-15T17:45:00",
+      "dateHeure": "2024-09-15T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3264,46 +3305,6 @@
         }
       ],
       "mention": "Accompagnement musical par Jean-François Zygel"
-    },
-    {
-      "idSeance": 133705,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 786,
-          "idCategorie": 3371,
-          "titreCycle": "Marcello Mastroianni",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30848,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-15T19:45:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48437,
-          "titre": "Grande Bouffe",
-          "art": "La",
-          "realisateurs": "Marco Ferreri",
-          "annee": 1973,
-          "duree": 125,
-          "generique": "Marcello Mastroianni, Philippe Noiret, Michel Piccoli, Ugo Tognazzi, Andréa Ferréol",
-          "synopsis": "Fatigués de vivre, quatre hommes se réunissent dans une villa isolée pour célébrer la bouffe, le sexe, l'amitié et la mort.",
-          "miniTexte": "Fatigués de vivre, quatre hommes se réunissent dans une villa isolée pour célébrer la ripaille, le sexe, l'amitié et la mort. Une « farce physiologique », un rejet catégorique de la société de consommation, arrière-fond d'une œuvre radicale, désespérée. Et un scandale au Festival de Cannes.",
-          "commentaire": "Sur la table, pâtés de foie, poulettes de Bresse, cuissots de chevreuil, sein en gélatine et tarte aux fesses. Cest un banquet qui sent le vomi, la merde et le sexe. La chère et la chair se rejoignent dans un excès de sueurs, vertiges et hurlements. Tognazzi, Mastroianni, Piccoli et Noiret, accompagnés d'Andréa Ferréol, s'adonnent aux bacchanales de Ferreri, se goinfrant jusqu'à en crever. Quatre personnages dans leur rôle de machine. « Une machine à manger, à baiser, à chier », dans ce que le cinéaste décrit lui-même comme une « farce physiologique », exprimant un rejet catégorique de la société de consommation. Une œuvre radicale, d'un profond désespoir, qui laisse le public du Festival de Cannes au bord de la nausée. « C'est immonde ! Une ignominie ! Vous êtes de honteux pornographes ! », entend-on à la descente des marches. Le producteur Jean-Pierre Rassam profite du scandale pour faire monter la sauce et déclare que « les gens de cinéma sont tous des cons ». Les semaines suivantes, dans le plus grand calme, les spectateurs se rendent en nombre voir le film. Déjà culte.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 21806,
-              "duree": 125,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 1372
-        }
-      ]
     },
     {
       "idSeance": 133677,
@@ -4621,7 +4622,7 @@
       ]
     },
     {
-      "idSeance": 131668,
+      "idSeance": 134202,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -4631,33 +4632,31 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 29889,
+      "idEvenement": 29886,
       "typeEvenement": 13,
       "dateHeure": "2024-09-22T15:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 30829,
-          "titre": "Terminator 2 : Le Jugement dernier",
-          "titreVo": "Terminator 2: Judgment Day",
+          "idFilm": 30824,
+          "titre": "Terminator",
           "realisateurs": "James Cameron",
-          "annee": 1991,
-          "duree": 136,
-          "generique": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",
-          "synopsis": "Le nouveau modèle de cyborg Terminator, le T-1000, est invincible car son pouvoir métamorphe lui permet d'usurper par simple contact n'importe quelle identité.",
-          "miniTexte": "_« Hasta la vista, baby! »_ Après le succès colossal du premier opus, la suite très attendue, avec un prologue de feu et d'acier, des effets spéciaux bluffants, et une poursuite d'anthologie en moto et camion, qui marquent le retour de Schwarzie – cette fois en héros, icône hollywoodienne oblige. Cameron donne davantage de profondeur à ses personnages, et Robert Patrick est un parfait T-1000, tout en métal liquide, qui traque le jeune John Connor (la révélation Edward Furlong). Un pur plaisir de spectateur.",
+          "annee": 1984,
+          "duree": 107,
+          "generique": "Arnold Schwarzenegger, Michael Biehn, Linda Hamilton",
+          "miniTexte": "2029, l'humanité est en guerre contre les machines, et la Résistance envoie l'un des siens dans le passé pour influer sur le cours de l'Histoire. Linda Hamilton est Sarah Connor, Michael Biehn son ange gardien, et Arnold Schwarzenegger le T-800, cyborg meurtrier. _Terminator_ marque les débuts de la franchise avec un premier volet musclé : courses-poursuites efficaces, effets spéciaux impeccables, pour une réflexion sur l'intelligence artificielle qui trouve aujourd'hui un écho tout particulier. Une référence du cinéma d'anticipation, et la naissance du mythe Schwarzie (_« I'll be back! »_), qui inscrit son nom au panthéon de la pop culture.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 8975,
-              "duree": 136,
+              "idCopie": 9957,
+              "duree": 107,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 7124
+          "idFilmBoxoffice": 309
         }
       ]
     },
@@ -6353,7 +6352,7 @@
       ],
       "idEvenement": 31124,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-02T18:00:00",
+      "dateHeure": "2024-10-02T19:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6394,7 +6393,7 @@
       ],
       "idEvenement": 31115,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-02T20:15:00",
+      "dateHeure": "2024-10-02T21:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7038,14 +7037,9 @@
       ]
     },
     {
-      "idSeance": 134029,
+      "idSeance": 134203,
       "idProg": 182,
       "idCycleCategories": [
-        {
-          "idCycle": 18,
-          "idCategorie": 3355,
-          "titreCycle": "Conservatoire des techniques cinématographiques"
-        },
         {
           "idCycle": 741,
           "idCategorie": 3235,
@@ -7053,33 +7047,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 29891,
+      "idEvenement": 29889,
       "typeEvenement": 13,
       "dateHeure": "2024-10-06T14:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 29089,
-          "titre": "Titanic",
+          "idFilm": 30829,
+          "titre": "Terminator 2 : Le Jugement dernier",
+          "titreVo": "Terminator 2: Judgment Day",
           "realisateurs": "James Cameron",
-          "annee": 1997,
-          "duree": 194,
-          "generique": "Leonardo DiCaprio, Kate Winslet, Billy Zane",
-          "synopsis": "1912. Le paquebot Titanic appareille pour son premier voyage, mais heurte un iceberg quatre jours après le départ, tandis qu'à bord, un jeune homme fauché et une jolie bourgeoise tombent amoureux.",
-          "miniTexte": "Reconstitution minutieuse et grandiose du plus grand naufrage connu, à la fois le _magnum opus_ de James Cameron, et _la_ superproduction des années 90. Le film de tous les records, au budget colossal, installé plus d'une décennie en tête du box-office mondial, récompensé par 11 Oscars. Mais au-delà des chiffres, _Titanic_ marque un nouveau tournant dans l'histoire des effets spéciaux et fait basculer Hollywood dans le tout numérique, à grands coups d'innovations techniques combinées à l'ingéniosité de son auteur. Une œuvre monumentale, qui célèbre autant l'amour fou de Jack et Rose que le cinéma comme art de l'invention, de l'illusion et de l'émerveillement.",
-          "commentaire": "Ultime superproduction hollywoodienne du XX<sup>e</sup> siècle, dernier avatar d'une longue lignée de tournages dantesques (_Cléopâtre_, _Ben Hur_, _Lawrence d'Arabie_...), le _magnum opus_ de James Cameron est le trait d'union entre deux époques. L'une s'estompera inexorablement après _Titanic_. Celle des artisans fous, des _matte painters_, des truqueurs optiques ; celle d'une cheminée de paquebot bricolée en carton, des maquettes de bateaux en balsa et des fausses perspectives en miroirs. L'autre naît au début du film, avec le « one million shot », monumental survol du _Titanic_ à son départ de Southampton. Impressionnant millefeuille mêlant prises de vues réelles, couches numériques et personnages en motion capture, ce plan saisissant n'est pas le premier du genre. Mais c'est le plus ambitieux, et le plus accompli. Un jalon, pour une nouvelle ère dans l'histoire des effets spéciaux. Chef d'orchestre de cette révolution, qui fera bientôt basculer Hollywood dans le tout numérique, Rob Legato est le passeur entre ces deux mondes. Il fait de ce tournage fou son chef-d'œuvre, un monument d'ingéniosité et d'innovations tantôt mécaniques, tantôt numériques, le plus souvent combinées. Sa collaboration féconde avec James Cameron fera de _Titanic_ l'un des plus gros succès de l'histoire. Un film plus grand que tout, qui célèbre autant l'amour fou de Jack (Leonardo DiCaprio) et Rose (Kate Winslet) que le cinéma comme art de l'invention, de l'illusion et de l'émerveillement.\n\nXavier Jamet",
+          "annee": 1991,
+          "duree": 136,
+          "generique": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",
+          "synopsis": "Le nouveau modèle de cyborg Terminator, le T-1000, est invincible car son pouvoir métamorphe lui permet d'usurper par simple contact n'importe quelle identité.",
+          "miniTexte": "_« Hasta la vista, baby! »_ Après le succès colossal du premier opus, la suite très attendue, avec un prologue de feu et d'acier, des effets spéciaux bluffants, et une poursuite d'anthologie en moto et camion, qui marquent le retour de Schwarzie – cette fois en héros, icône hollywoodienne oblige. Cameron donne davantage de profondeur à ses personnages, et Robert Patrick est un parfait T-1000, tout en métal liquide, qui traque le jeune John Connor (la révélation Edward Furlong). Un pur plaisir de spectateur.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27095,
-              "duree": 194,
+              "idCopie": 8975,
+              "duree": 136,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 5818
+          "idFilmBoxoffice": 7124
         }
       ]
     },
@@ -7443,7 +7437,7 @@
       ]
     },
     {
-      "idSeance": 132093,
+      "idSeance": 132094,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7453,30 +7447,30 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31035,
+      "idEvenement": 31032,
       "typeEvenement": 13,
       "dateHeure": "2024-10-09T18:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 49994,
-          "titre": "Au revoir les enfants",
-          "realisateurs": "Louis Malle",
+          "idFilm": 47518,
+          "titre": "Vie est un long fleuve tranquille",
+          "art": "La",
+          "realisateurs": "Étienne Chatiliez",
           "annee": 1987,
-          "duree": 104,
-          "generique": "Gaspard Manesse, Raphaël Fejtö, Francine Racette",
-          "ageMinimal": 10,
-          "miniTexte": "En 1944, Julien, pensionnaire dans un collège catholique, se lie d'amitié avec Jean, un nouveau venu énigmatique qui partage son dortoir. De retour en France après 10 ans d'exil aux États-Unis, Louis Malle fait appel à ses souvenirs d'enfance pour livrer l'émouvante chronique d'un pensionnat sous l'Occupation. L'histoire de deux écoliers qui semblent partager les mêmes inquiétudes, mais quand l'un gardera ses privilèges, l'autre sera renvoyé au sort le plus atroce.",
+          "duree": 93,
+          "generique": "Benoît Magimel, Hélène Vincent, Valérie Lalonde",
+          "miniTexte": "Benoît Magimel dans son premier rôle, des répliques cultes (« C'est lundi, c'est ravioli ! »), et la parodie désopilante de Patrick Bouchitey en curé catéchiste, avec son fameux « Jésus revient ». Chatiliez trouve dans une histoire de bébé échangé à la naissance le prétexte idéal pour passer au vitriol les stéréotypes sociaux. Carton plein : pour ses débuts au cinéma, il fait rire la France entière avec les déboires des Groseille et des Le Quesnoy, et remporte 4 Césars.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 7513,
-              "duree": 104,
+              "idCopie": 27652,
+              "duree": 93,
               "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 2725
+          "idFilmBoxoffice": 3130
         }
       ]
     },
@@ -7523,7 +7517,7 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 132094,
+      "idSeance": 132093,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7533,30 +7527,30 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31032,
+      "idEvenement": 31035,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-09T20:45:00",
+      "dateHeure": "2024-10-09T20:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 47518,
-          "titre": "Vie est un long fleuve tranquille",
-          "art": "La",
-          "realisateurs": "Étienne Chatiliez",
+          "idFilm": 49994,
+          "titre": "Au revoir les enfants",
+          "realisateurs": "Louis Malle",
           "annee": 1987,
-          "duree": 93,
-          "generique": "Benoît Magimel, Hélène Vincent, Valérie Lalonde",
-          "miniTexte": "Benoît Magimel dans son premier rôle, des répliques cultes (« C'est lundi, c'est ravioli ! »), et la parodie désopilante de Patrick Bouchitey en curé catéchiste, avec son fameux « Jésus revient ». Chatiliez trouve dans une histoire de bébé échangé à la naissance le prétexte idéal pour passer au vitriol les stéréotypes sociaux. Carton plein : pour ses débuts au cinéma, il fait rire la France entière avec les déboires des Groseille et des Le Quesnoy, et remporte 4 Césars.",
+          "duree": 104,
+          "generique": "Gaspard Manesse, Raphaël Fejtö, Francine Racette",
+          "ageMinimal": 10,
+          "miniTexte": "En 1944, Julien, pensionnaire dans un collège catholique, se lie d'amitié avec Jean, un nouveau venu énigmatique qui partage son dortoir. De retour en France après 10 ans d'exil aux États-Unis, Louis Malle fait appel à ses souvenirs d'enfance pour livrer l'émouvante chronique d'un pensionnat sous l'Occupation. L'histoire de deux écoliers qui semblent partager les mêmes inquiétudes, mais quand l'un gardera ses privilèges, l'autre sera renvoyé au sort le plus atroce.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27652,
-              "duree": 93,
+              "idCopie": 7513,
+              "duree": 104,
               "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 3130
+          "idFilmBoxoffice": 2725
         }
       ]
     },
@@ -7597,44 +7591,6 @@
           "idFilmBoxoffice": 25994
         }
       ]
-    },
-    {
-      "idSeance": 133814,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 391,
-          "idCategorie": 1759,
-          "titreCycle": "MK2",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31036,
-      "typeEvenement": 13,
-      "dateHeure": "2024-10-10T18:30:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 52177,
-          "titre": "Sept jours ailleurs",
-          "realisateurs": "Marin Karmitz",
-          "annee": 1968,
-          "duree": 100,
-          "generique": "Jacques Higelin, Catherine Martin, Michèle Moretti",
-          "miniTexte": "Un pianiste, marié-un appartement-un enfant, étouffe dans son quotidien familial et part voir ailleurs à l'occasion d'une tournée en province. Tourné juste avant 68 et imprégné de ses balbutiements, capté en son direct, le premier acte de la trilogie de Karmitz sur le malaise social, d'un réalisme mordant. Un état des lieux désenchanté qui pointe la solitude mais raconte aussi l'envie, souvent paralysante, de renverser la table.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 27649,
-              "duree": 100,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 21464
-        }
-      ],
-      "mention": "Séance présentée par Marin Karmitz"
     },
     {
       "idSeance": 134090,
@@ -7717,45 +7673,6 @@
       ]
     },
     {
-      "idSeance": 132131,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 391,
-          "idCategorie": 1759,
-          "titreCycle": "MK2",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31034,
-      "typeEvenement": 13,
-      "dateHeure": "2024-10-10T21:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 52785,
-          "titre": "Trois couleurs : Rouge",
-          "realisateurs": "Krzysztof Kieślowski",
-          "annee": 1993,
-          "dureeStd": 96,
-          "duree": 95,
-          "generique": "Irène Jacob, Jean-Louis Trintignant, Frédérique Feder",
-          "synopsis": "Un juge à la retraite a mis ses voisins sur écoute téléphonique. Parmi eux, Valentine, étudiante et mannequin. Un jour, Valentine ramène au juge son chien égaré. Une étrange relation se noue alors entre eux.",
-          "miniTexte": "Dernier volet de la trilogie tricolore, Rouge rassemble les pièces d'un puzzle à trois personnages, qu'un chien renversé va relier au fil des hasards et du destin. Obsédé par les signes et le sens du détail, Kieslowski mêle amour et voyeurisme dans un subtil jeu de piste qui marque le point final, incandescent, d'une œuvre exemplaire.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 22422,
-              "duree": 95,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 74338
-        }
-      ]
-    },
-    {
       "idSeance": 134181,
       "idProg": 182,
       "idCycleCategories": [
@@ -7793,6 +7710,44 @@
           ]
         }
       ]
+    },
+    {
+      "idSeance": 133814,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759,
+          "titreCycle": "MK2",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31036,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-11T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 52177,
+          "titre": "Sept jours ailleurs",
+          "realisateurs": "Marin Karmitz",
+          "annee": 1968,
+          "duree": 100,
+          "generique": "Jacques Higelin, Catherine Martin, Michèle Moretti",
+          "miniTexte": "Un pianiste, marié-un appartement-un enfant, étouffe dans son quotidien familial et part voir ailleurs à l'occasion d'une tournée en province. Tourné juste avant 68 et imprégné de ses balbutiements, capté en son direct, le premier acte de la trilogie de Karmitz sur le malaise social, d'un réalisme mordant. Un état des lieux désenchanté qui pointe la solitude mais raconte aussi l'envie, souvent paralysante, de renverser la table.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27649,
+              "duree": 100,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 21464
+        }
+      ],
+      "mention": "Séance présentée par Marin Karmitz"
     },
     {
       "idSeance": 133788,
@@ -7858,6 +7813,45 @@
             }
           ],
           "idFilmBoxoffice": 20297
+        }
+      ]
+    },
+    {
+      "idSeance": 132131,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759,
+          "titreCycle": "MK2",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31034,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-11T21:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 52785,
+          "titre": "Trois couleurs : Rouge",
+          "realisateurs": "Krzysztof Kieślowski",
+          "annee": 1993,
+          "dureeStd": 96,
+          "duree": 95,
+          "generique": "Irène Jacob, Jean-Louis Trintignant, Frédérique Feder",
+          "synopsis": "Un juge à la retraite a mis ses voisins sur écoute téléphonique. Parmi eux, Valentine, étudiante et mannequin. Un jour, Valentine ramène au juge son chien égaré. Une étrange relation se noue alors entre eux.",
+          "miniTexte": "Dernier volet de la trilogie tricolore, Rouge rassemble les pièces d'un puzzle à trois personnages, qu'un chien renversé va relier au fil des hasards et du destin. Obsédé par les signes et le sens du détail, Kieslowski mêle amour et voyeurisme dans un subtil jeu de piste qui marque le point final, incandescent, d'une œuvre exemplaire.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22422,
+              "duree": 95,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 74338
         }
       ]
     },
@@ -8247,9 +8241,14 @@
       ]
     },
     {
-      "idSeance": 132226,
+      "idSeance": 134204,
       "idProg": 182,
       "idCycleCategories": [
+        {
+          "idCycle": 18,
+          "idCategorie": 3355,
+          "titreCycle": "Conservatoire des techniques cinématographiques"
+        },
         {
           "idCycle": 741,
           "idCategorie": 3235,
@@ -8257,33 +8256,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 29893,
+      "idEvenement": 29891,
       "typeEvenement": 13,
       "dateHeure": "2024-10-13T14:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 110101,
-          "titre": "Avatar",
+          "idFilm": 29089,
+          "titre": "Titanic",
           "realisateurs": "James Cameron",
-          "annee": 2009,
-          "duree": 150,
-          "generique": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
-          "ageMinimal": 10,
-          "synopsisJP": "Un ancien soldat est envoyé sur la planète Pandora, habitée par le peuple des Na'vi. Entre rêve et mythologie, une ode à la nature dans un univers unique, splendide, d'un réalisme saisissant, et aux effets spéciaux à couper le souffle. Le plus grand succès de toute l'histoire du cinéma.",
-          "miniTexte": "_Avatar_, ou tout simplement le plus grand succès au box-office de toute l'histoire du cinéma. Un ancien Marine est envoyé par un groupe industriel sur la planète Pandora, habitée par le peuple des Na'vi. Cameron emmène le spectateur très loin dans la mythologie et le rêve, compose une ode à la nature dans un univers unique, pensé dans ses moindres détails. Trouvailles visuelles splendides (végétation, personnages), effets spéciaux à couper le souffle (_motion capture_, 3D) d'un réalisme saisissant : du très grand divertissement, pour en prendre plein les yeux.",
+          "annee": 1997,
+          "duree": 194,
+          "generique": "Leonardo DiCaprio, Kate Winslet, Billy Zane",
+          "synopsis": "1912. Le paquebot Titanic appareille pour son premier voyage, mais heurte un iceberg quatre jours après le départ, tandis qu'à bord, un jeune homme fauché et une jolie bourgeoise tombent amoureux.",
+          "miniTexte": "Reconstitution minutieuse et grandiose du plus grand naufrage connu, à la fois le _magnum opus_ de James Cameron, et _la_ superproduction des années 90. Le film de tous les records, au budget colossal, installé plus d'une décennie en tête du box-office mondial, récompensé par 11 Oscars. Mais au-delà des chiffres, _Titanic_ marque un nouveau tournant dans l'histoire des effets spéciaux et fait basculer Hollywood dans le tout numérique, à grands coups d'innovations techniques combinées à l'ingéniosité de son auteur. Une œuvre monumentale, qui célèbre autant l'amour fou de Jack et Rose que le cinéma comme art de l'invention, de l'illusion et de l'émerveillement.",
+          "commentaire": "Ultime superproduction hollywoodienne du XX<sup>e</sup> siècle, dernier avatar d'une longue lignée de tournages dantesques (_Cléopâtre_, _Ben Hur_, _Lawrence d'Arabie_...), le _magnum opus_ de James Cameron est le trait d'union entre deux époques. L'une s'estompera inexorablement après _Titanic_. Celle des artisans fous, des _matte painters_, des truqueurs optiques ; celle d'une cheminée de paquebot bricolée en carton, des maquettes de bateaux en balsa et des fausses perspectives en miroirs. L'autre naît au début du film, avec le « one million shot », monumental survol du _Titanic_ à son départ de Southampton. Impressionnant millefeuille mêlant prises de vues réelles, couches numériques et personnages en motion capture, ce plan saisissant n'est pas le premier du genre. Mais c'est le plus ambitieux, et le plus accompli. Un jalon, pour une nouvelle ère dans l'histoire des effets spéciaux. Chef d'orchestre de cette révolution, qui fera bientôt basculer Hollywood dans le tout numérique, Rob Legato est le passeur entre ces deux mondes. Il fait de ce tournage fou son chef-d'œuvre, un monument d'ingéniosité et d'innovations tantôt mécaniques, tantôt numériques, le plus souvent combinées. Sa collaboration féconde avec James Cameron fera de _Titanic_ l'un des plus gros succès de l'histoire. Un film plus grand que tout, qui célèbre autant l'amour fou de Jack (Leonardo DiCaprio) et Rose (Kate Winslet) que le cinéma comme art de l'invention, de l'illusion et de l'émerveillement.\n\nXavier Jamet",
           "status": 2,
           "copies": [
             {
-              "idCopie": 4859,
-              "duree": 150,
+              "idCopie": 27095,
+              "duree": 194,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 61282
+          "idFilmBoxoffice": 5818
         }
       ]
     },
@@ -8329,46 +8328,6 @@
       ]
     },
     {
-      "idSeance": 134039,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 803,
-          "idCategorie": 3414,
-          "titreCycle": "Pietro Germi",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31133,
-      "typeEvenement": 13,
-      "dateHeure": "2024-10-13T17:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 41957,
-          "titre": "Chemin de l'espérance",
-          "art": "Le",
-          "titreVo": "Cammino della speranza",
-          "artVo": "Il",
-          "realisateurs": "Pietro Germi",
-          "annee": 1950,
-          "duree": 99,
-          "generique": "Raf Vallone, Elena Varzi, Saro Urzi",
-          "adaptation": "D'après le roman _Cuori negli abissi_ de Nino Di Maria.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 28292,
-              "duree": 99,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 34090
-        }
-      ]
-    },
-    {
       "idSeance": 134070,
       "idProg": 182,
       "idCycleCategories": [
@@ -8398,6 +8357,46 @@
           "status": 2,
           "copies": [],
           "idFilmBoxoffice": 140647
+        }
+      ]
+    },
+    {
+      "idSeance": 134039,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31133,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-13T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41957,
+          "titre": "Chemin de l'espérance",
+          "art": "Le",
+          "titreVo": "Cammino della speranza",
+          "artVo": "Il",
+          "realisateurs": "Pietro Germi",
+          "annee": 1950,
+          "duree": 99,
+          "generique": "Raf Vallone, Elena Varzi, Saro Urzi",
+          "adaptation": "D'après le roman _Cuori negli abissi_ de Nino Di Maria.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28292,
+              "duree": 99,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 34090
         }
       ]
     },
@@ -8472,7 +8471,7 @@
       ],
       "idEvenement": 31145,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-13T20:15:00",
+      "dateHeure": "2024-10-13T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -9293,7 +9292,7 @@
       ]
     },
     {
-      "idSeance": 132412,
+      "idSeance": 134205,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -9303,31 +9302,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 29975,
+      "idEvenement": 30021,
       "typeEvenement": 13,
       "dateHeure": "2024-10-20T14:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154672,
-          "titre": "Avatar : La Voie de l'eau",
-          "titreVo": "Avatar: The Way of Water",
+          "idFilm": 30809,
+          "titre": "Aliens, le retour",
+          "titreVo": "Aliens",
           "realisateurs": "James Cameron",
-          "annee": 2022,
-          "generique": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
-          "miniTexte": "Projet pharaonique de James Cameron, le deuxième volet des aventures de Jake Sully est une épopée éblouissante, sur fond de récit initiatique. Une nouvelle fois, le maître des effets spéciaux repousse les frontières, orchestre un feu d'artifice visuel avec notamment des séquences de _performance capture_ filmées sous l'eau. L'écran est pour lui l'écrin rêvé pour partager avec le spectateur sa passion pour la technologie et ses défis les plus fous. Davantage qu'un film, une expérience de cinéma.",
+          "annee": 1985,
+          "duree": 137,
+          "generique": "Sigourney Weaver, Michael Biehn, Lance Henriksen",
+          "synopsis": "Ripley et un groupe de Marines retournent vers la planète où une créature monstrueuse a été découverte pour la première fois.",
+          "miniTexte": "Ripley revient ! Avec ce deuxième volet de la saga, Cameron s'empare du mythe installé par Ridley Scott et y pose sa griffe, lui donnant une ampleur inattendue : après une première partie très martiale (les Marines caricaturaux missionnés pour sauver des colons aux prises avec les xénomorphes), Ripley reprend la main, à la fois terrorisée (humaine) et déterminée (surhumaine). Elle renoue avec sa propre maternité, tendue vers un seul but, sauver une fillette, et trouve le chemin de la rédemption dans un affrontement final de mère à mère. Monstrueux, intense, éblouissant.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27179,
-              "duree": 0,
+              "idCopie": 5041,
+              "duree": 137,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 178014
+          "idFilmBoxoffice": 2167
         }
       ]
     },
@@ -10724,7 +10725,7 @@
       ]
     },
     {
-      "idSeance": 134088,
+      "idSeance": 134206,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -10734,33 +10735,36 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30021,
+      "idEvenement": 29890,
       "typeEvenement": 13,
       "dateHeure": "2024-10-27T14:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 30809,
-          "titre": "Aliens, le retour",
-          "titreVo": "Aliens",
+          "idFilm": 59914,
+          "titre": "True Lies",
           "realisateurs": "James Cameron",
-          "annee": 1985,
-          "duree": 137,
-          "generique": "Sigourney Weaver, Michael Biehn, Lance Henriksen",
-          "synopsis": "Ripley et un groupe de Marines retournent vers la planète où une créature monstrueuse a été découverte pour la première fois.",
-          "miniTexte": "Ripley revient ! Avec ce deuxième volet de la saga, Cameron s'empare du mythe installé par Ridley Scott et y pose sa griffe, lui donnant une ampleur inattendue : après une première partie très martiale (les Marines caricaturaux missionnés pour sauver des colons aux prises avec les xénomorphes), Ripley reprend la main, à la fois terrorisée (humaine) et déterminée (surhumaine). Elle renoue avec sa propre maternité, tendue vers un seul but, sauver une fillette, et trouve le chemin de la rédemption dans un affrontement final de mère à mère. Monstrueux, intense, éblouissant.",
+          "annee": 1994,
+          "duree": 141,
+          "generique": "Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold",
+          "miniTexte": "James Cameron adapte le scénario de _La Totale !_ de Claude Zidi dans un film d'aventures doublé d'une comédie conjugale : espion d'élite pour le gouvernement américain, Harry Tasker tient sa femme à l'écart de ses activités. Un duo au sommet pour Arnold Schwarzenegger et Jamie Lee Curtis (récompensée par un Golden Globe), pur divertissement enlevé et énergique où les incontournables quiproquos alternent avec des scènes d'action ébouriffantes.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 5041,
-              "duree": 137,
-              "format": "DCP",
+              "idCopie": 24364,
+              "duree": 141,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27635,
+              "duree": 141,
+              "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 2167
+          "idFilmBoxoffice": 10644
         }
       ]
     },
@@ -12353,6 +12357,47 @@
       ]
     },
     {
+      "idSeance": 132837,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21656,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-06T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 107581,
+          "titre": "His Lordship",
+          "realisateurs": "Michael Powell",
+          "annee": 1932,
+          "duree": 77,
+          "generique": "Jerry Verno, Janet McGrew, Ben Welden",
+          "adaptation": "D'après le roman _The Right Honorable_ d'Oliver Madox Hueffer.",
+          "synopsis": "Un plombier hérite du jour au lendemain du titre de Lord. Il va alors faire la connaissance d'une actrice de cinéma...",
+          "miniTexte": "Tandis qu'il hérite du titre de Lord, un plombier s'affiche avec une star de cinéma, ce qui déplaît à sa fiancée. Créé comme un _uota quickie_ – un film de commande peu coûteux –, _His Lordship_ préfigure _Les Contes d'Hoffmann_ et _Oh ! Rosalinda !_ avec ses numéros musicaux enlevés et sa satire réjouissante du système de classes britannique.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28188,
+              "duree": 77,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 171748
+        }
+      ]
+    },
+    {
       "idSeance": 132839,
       "idProg": 182,
       "idCycleCategories": [
@@ -12386,47 +12431,6 @@
             }
           ],
           "idFilmBoxoffice": 6197
-        }
-      ]
-    },
-    {
-      "idSeance": 132837,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 476,
-          "idCategorie": 2201,
-          "titreCycle": "Michael Powell",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 21656,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-06T19:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 107581,
-          "titre": "His Lordship",
-          "realisateurs": "Michael Powell",
-          "annee": 1932,
-          "duree": 77,
-          "generique": "Jerry Verno, Janet McGrew, Ben Welden",
-          "adaptation": "D'après le roman _The Right Honorable_ d'Oliver Madox Hueffer.",
-          "synopsis": "Un plombier hérite du jour au lendemain du titre de Lord. Il va alors faire la connaissance d'une actrice de cinéma...",
-          "miniTexte": "Tandis qu'il hérite du titre de Lord, un plombier s'affiche avec une star de cinéma, ce qui déplaît à sa fiancée. Créé comme un _uota quickie_ – un film de commande peu coûteux –, _His Lordship_ préfigure _Les Contes d'Hoffmann_ et _Oh ! Rosalinda !_ avec ses numéros musicaux enlevés et sa satire réjouissante du système de classes britannique.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28188,
-              "duree": 77,
-              "format": "DCP",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 171748
         }
       ]
     },
@@ -12484,7 +12488,7 @@
       ],
       "idEvenement": 21658,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-06T21:30:00",
+      "dateHeure": "2024-11-06T20:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -12924,47 +12928,6 @@
             }
           ],
           "idFilmBoxoffice": 7072
-        }
-      ]
-    },
-    {
-      "idSeance": 132957,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 476,
-          "idCategorie": 2201,
-          "titreCycle": "Michael Powell",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 21657,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-09T15:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 107584,
-          "titre": "Night of the Party",
-          "art": "The",
-          "realisateurs": "Michael Powell",
-          "annee": 1934,
-          "duree": 63,
-          "generique": "Leslie Banks, Malcolm Keen, Jane Baxter",
-          "adaptation": "D'après la pièce _The Night of the Party_ de Roland Pertwee et John Hastings Turner.",
-          "miniTexte": "Sollicité par Michael Balcon, le patron britannique de Gaumont, Powell adapte la pièce de Roland Pertwee et John Hastings Turner en _whodunnit_ survolté que n'aurait pas renié Agatha Christie. L'occasion pour son casting (Malcolm Keen, Jane Baxter, Ian Hunter) de livrer des prestations aussi extravagantes que drolatiques.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28189,
-              "duree": 63,
-              "format": "DCP",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 187823
         }
       ]
     },
@@ -13419,7 +13382,7 @@
       ],
       "idEvenement": 21660,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-10T18:00:00",
+      "dateHeure": "2024-11-10T18:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -13565,6 +13528,69 @@
       ]
     },
     {
+      "idSeance": 132987,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21647,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-11T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41077,
+          "titre": "À l'angle du monde",
+          "titreVo": "Edge of the World",
+          "artVo": "The",
+          "realisateurs": "Michael Powell",
+          "annee": 1937,
+          "duree": 81,
+          "generique": "John Laurie, Belle Chrystall, Eric Berry",
+          "synopsis": "Dans une île au large de l'Écosse, la vie des petits pêcheurs se fait rude, d'autant plus depuis la concurrence des chalutiers. Alors que certains se montrent attachés à leur mode de vie traditionnel, d'autres envisagent de quitter l'île pour une vie meilleure.",
+          "miniTexte": "Pour son premier film personnel, inspiré par l'évacuation de l'île de Saint-Kilda, Powell s'immerge dans les paysages grandioses des Hébrides, où une communauté organise son quotidien au début du XX<sup>e</sup> siècle. Du réalisme d'un environnement hostile à la tragédie romantique, il documente la vie de petits pêcheurs face à la concurrence des chalutiers alors que la jeunesse est en quête d'ailleurs. Avec un sens du montage épatant, il raconte sobrement les difficultés inhérentes à ce mode de vie et questionne la manière dont chacun parvient à s'ancrer dans ses terres.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20213,
+              "duree": 81,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 147884
+        },
+        {
+          "ordre": 2,
+          "idFilm": 107632,
+          "titre": "Return to the Edge of the World",
+          "realisateurs": "Michael Powell",
+          "annee": 1978,
+          "duree": 25,
+          "generique": "Michael Powell, John Laurie, Frankie Reidy",
+          "miniTexte": "Complément du film _À l'angle du monde_, qui voit les protagonistes revenir sur l'île de Foula, 41 ans après le tournage. Les interviews de Powell et de ses acteurs se succèdent pour raconter ses conditions de production et son importance dans leurs carrières, mais aussi leurs vies.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27596,
+              "duree": 25,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 175889
+        }
+      ]
+    },
+    {
       "idSeance": 132983,
       "idProg": 182,
       "idCycleCategories": [
@@ -13648,6 +13674,49 @@
             }
           ],
           "idFilmBoxoffice": 70321
+        }
+      ]
+    },
+    {
+      "idSeance": 134197,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21690,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-11T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41080,
+          "titre": "Chevalier de Londres",
+          "art": "Le",
+          "titreVo": "Elusive Pimpernel",
+          "artVo": "The",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1950,
+          "duree": 109,
+          "generique": "David Niven, Margaret Leighton, Cyril Cusack",
+          "adaptation": "D'après le roman _Le Mouron rouge_ d'Emma Orczy.",
+          "miniTexte": "Un aristocrate anglais, surnommé Le Mouron rouge, revient en France pour sauver les siens durant la Terreur. Initialement pensé comme une comédie musicale, _The Elusive Pimpernel_ reprend les personnages de la baronne Emma Orczy, plongés dans des décors splendides, propres à Powell et Pressburger, sur fond d'intrigue loufoque.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20202,
+              "duree": 109,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 132375
         }
       ]
     },
@@ -13736,69 +13805,6 @@
       "mention": "Séance présentée par Pierre Uytterhoeven"
     },
     {
-      "idSeance": 133854,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 476,
-          "idCategorie": 2201,
-          "titreCycle": "Michael Powell",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 21647,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-13T18:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 41077,
-          "titre": "À l'angle du monde",
-          "titreVo": "Edge of the World",
-          "artVo": "The",
-          "realisateurs": "Michael Powell",
-          "annee": 1937,
-          "duree": 81,
-          "generique": "John Laurie, Belle Chrystall, Eric Berry",
-          "synopsis": "Dans une île au large de l'Écosse, la vie des petits pêcheurs se fait rude, d'autant plus depuis la concurrence des chalutiers. Alors que certains se montrent attachés à leur mode de vie traditionnel, d'autres envisagent de quitter l'île pour une vie meilleure.",
-          "miniTexte": "Pour son premier film personnel, inspiré par l'évacuation de l'île de Saint-Kilda, Powell s'immerge dans les paysages grandioses des Hébrides, où une communauté organise son quotidien au début du XX<sup>e</sup> siècle. Du réalisme d'un environnement hostile à la tragédie romantique, il documente la vie de petits pêcheurs face à la concurrence des chalutiers alors que la jeunesse est en quête d'ailleurs. Avec un sens du montage épatant, il raconte sobrement les difficultés inhérentes à ce mode de vie et questionne la manière dont chacun parvient à s'ancrer dans ses terres.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 20213,
-              "duree": 81,
-              "format": "DCP",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 147884
-        },
-        {
-          "ordre": 2,
-          "idFilm": 107632,
-          "titre": "Return to the Edge of the World",
-          "realisateurs": "Michael Powell",
-          "annee": 1978,
-          "duree": 25,
-          "generique": "Michael Powell, John Laurie, Frankie Reidy",
-          "miniTexte": "Complément du film _À l'angle du monde_, qui voit les protagonistes revenir sur l'île de Foula, 41 ans après le tournage. Les interviews de Powell et de ses acteurs se succèdent pour raconter ses conditions de production et son importance dans leurs carrières, mais aussi leurs vies.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 27596,
-              "duree": 25,
-              "format": "DCP",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 175889
-        }
-      ]
-    },
-    {
       "idSeance": 133941,
       "idProg": 182,
       "idCycleCategories": [
@@ -13856,49 +13862,6 @@
           "idTypeConf": 16,
           "titre": "Dialogue avec Frédéric Bonnaud",
           "duree": 60
-        }
-      ]
-    },
-    {
-      "idSeance": 133025,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 476,
-          "idCategorie": 2201,
-          "titreCycle": "Michael Powell",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 21690,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-13T20:15:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 41080,
-          "titre": "Chevalier de Londres",
-          "art": "Le",
-          "titreVo": "Elusive Pimpernel",
-          "artVo": "The",
-          "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1950,
-          "duree": 109,
-          "generique": "David Niven, Margaret Leighton, Cyril Cusack",
-          "adaptation": "D'après le roman _Le Mouron rouge_ d'Emma Orczy.",
-          "miniTexte": "Un aristocrate anglais, surnommé Le Mouron rouge, revient en France pour sauver les siens durant la Terreur. Initialement pensé comme une comédie musicale, _The Elusive Pimpernel_ reprend les personnages de la baronne Emma Orczy, plongés dans des décors splendides, propres à Powell et Pressburger, sur fond d'intrigue loufoque.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 20202,
-              "duree": 109,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 132375
         }
       ]
     },
@@ -14733,7 +14696,7 @@
       ],
       "idEvenement": 31022,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-17T17:00:00",
+      "dateHeure": "2024-11-17T17:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -14761,45 +14724,6 @@
           "idFilmBoxoffice": 20498
         }
       ]
-    },
-    {
-      "idSeance": 133662,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 793,
-          "idCategorie": 3381,
-          "titreCycle": "Claude Lelouch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30928,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-17T17:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 142000,
-          "titre": "Plus belles années d'une vie",
-          "art": "Les",
-          "realisateurs": "Claude Lelouch",
-          "annee": 2018,
-          "duree": 90,
-          "generique": "Anouk Aimée, Jean-Louis Trintignant, Antoine Sire",
-          "miniTexte": "Les retrouvailles d'_Un homme et une femme_, cinquante ans plus tard. D'une nostalgie et d'une douceur bouleversantes, Jean-Louis Trintignant et Anouk Aimée se remémorent leur amour passé dans un poignant dialogue à cœur ouvert. Un film lumineux, où la fantaisie rencontre l'émotion.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28040,
-              "duree": 90,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 268175
-        }
-      ],
-      "mention": "Séance présentée par Antoine Sire"
     },
     {
       "idSeance": 133160,
@@ -14865,47 +14789,7 @@
       ]
     },
     {
-      "idSeance": 133158,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 797,
-          "idCategorie": 3396,
-          "titreCycle": "Casses, hold-ups et braquages en 25 indispensables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31018,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-17T19:15:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 45005,
-          "titre": "Reservoir Dogs",
-          "realisateurs": "Quentin Tarantino",
-          "annee": 1991,
-          "duree": 99,
-          "generique": "Harvey Keitel, Tim Roth, Michael Madsen",
-          "synopsis": "Six truands désignés par des noms de code entreprennent de dévaliser une bijouterie sous la direction de Joe Cabot et de son fils Nice Guy Eddie. L'opération échoue et se solde par un bain de sang. Les malfrats se réfugient dans un entrepôt sordide. L'un d'eux soupçonne la présence d'une taupe...",
-          "miniTexte": "Mr. White, Mr. Orange, Mr. Pink... Une bande de gangsters se retrouvent dans un hangar après un hold-up raté. Structure narrative non linéaire, violence explicite, humour noir et dialogues percutants, le style Tarantino est né. En s'offrant le luxe de ne jamais montrer le braquage, le cinéaste multiplie les références à la pop culture et réinvente le film noir.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28220,
-              "duree": 99,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 7524
-        }
-      ]
-    },
-    {
-      "idSeance": 133163,
+      "idSeance": 133662,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -14915,33 +14799,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30877,
+      "idEvenement": 30928,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-17T19:45:00",
+      "dateHeure": "2024-11-17T18:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 49805,
-          "titre": "Bon et les Méchants",
-          "art": "Le",
+          "idFilm": 142000,
+          "titre": "Plus belles années d'une vie",
+          "art": "Les",
           "realisateurs": "Claude Lelouch",
-          "annee": 1975,
-          "duree": 108,
-          "generique": "Jacques Dutronc, Marlène Jobert, Jacques Villeret",
-          "miniTexte": "Quiproquos, coïncidences et règlements de comptes entre flics et voyous dans la France de l'avant-guerre et de l'Occupation. D'abord léger, le récit se métamorphose en sombre conte sépia, qui remet en question le Bien et le Mal au gré de rebondissements originaux et d'une mise en scène inventive.",
+          "annee": 2018,
+          "duree": 90,
+          "generique": "Anouk Aimée, Jean-Louis Trintignant, Antoine Sire",
+          "miniTexte": "Les retrouvailles d'_Un homme et une femme_, cinquante ans plus tard. D'une nostalgie et d'une douceur bouleversantes, Jean-Louis Trintignant et Anouk Aimée se remémorent leur amour passé dans un poignant dialogue à cœur ouvert. Un film lumineux, où la fantaisie rencontre l'émotion.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28053,
-              "duree": 108,
+              "idCopie": 28040,
+              "duree": 90,
               "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 31044
+          "idFilmBoxoffice": 268175
         }
       ],
-      "mention": "Séance présentée par Brigitte Fossey"
+      "mention": "Séance présentée par Antoine Sire"
     },
     {
       "idSeance": 133842,
@@ -14994,6 +14878,85 @@
             }
           ],
           "idFilmBoxoffice": 4301
+        }
+      ]
+    },
+    {
+      "idSeance": 133163,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 793,
+          "idCategorie": 3381,
+          "titreCycle": "Claude Lelouch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30877,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-17T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49805,
+          "titre": "Bon et les Méchants",
+          "art": "Le",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1975,
+          "duree": 108,
+          "generique": "Jacques Dutronc, Marlène Jobert, Jacques Villeret",
+          "miniTexte": "Quiproquos, coïncidences et règlements de comptes entre flics et voyous dans la France de l'avant-guerre et de l'Occupation. D'abord léger, le récit se métamorphose en sombre conte sépia, qui remet en question le Bien et le Mal au gré de rebondissements originaux et d'une mise en scène inventive.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28053,
+              "duree": 108,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 31044
+        }
+      ],
+      "mention": "Séance présentée par Brigitte Fossey"
+    },
+    {
+      "idSeance": 133158,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396,
+          "titreCycle": "Casses, hold-ups et braquages en 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31018,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-17T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45005,
+          "titre": "Reservoir Dogs",
+          "realisateurs": "Quentin Tarantino",
+          "annee": 1991,
+          "duree": 99,
+          "generique": "Harvey Keitel, Tim Roth, Michael Madsen",
+          "synopsis": "Six truands désignés par des noms de code entreprennent de dévaliser une bijouterie sous la direction de Joe Cabot et de son fils Nice Guy Eddie. L'opération échoue et se solde par un bain de sang. Les malfrats se réfugient dans un entrepôt sordide. L'un d'eux soupçonne la présence d'une taupe...",
+          "miniTexte": "Mr. White, Mr. Orange, Mr. Pink... Une bande de gangsters se retrouvent dans un hangar après un hold-up raté. Structure narrative non linéaire, violence explicite, humour noir et dialogues percutants, le style Tarantino est né. En s'offrant le luxe de ne jamais montrer le braquage, le cinéaste multiplie les références à la pop culture et réinvente le film noir.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28220,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 7524
         }
       ]
     },
@@ -15383,6 +15346,50 @@
       ]
     },
     {
+      "idSeance": 134032,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21694,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-21T17:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42029,
+          "titre": "Contes d'Hoffmann",
+          "art": "Les",
+          "titreVo": "Tales of Hoffmann",
+          "artVo": "The",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1950,
+          "duree": 123,
+          "generique": "Robert Rounseville, Moira Shearer, Robert Helpmann",
+          "adaptation": "D'après l'opéra _Les Contes d'Hoffmann_ de Jacques Offenbach, tiré des contes d'E. T. A. Hoffmann.",
+          "synopsis": "Alors qu'il attend son nouvel amour à la sortie d'un ballet, le poète Hoffmann se remémore trois expériences sentimentales malheureuses.",
+          "miniTexte": "L'affection de Powell pour l'art vivant explose dans _Les Contes d'Hoffmann_, grand spectacle baroque, ébouriffant de couleurs, d'idées et d'émotions. Aussi radical que visionnaire, le film, Ours d'argent à Berlin en 1951, embrasse l'exubérance propre à Offenbach pour un voyage en Technicolor. Un émerveillement, qui suscitera une vocation de cinéaste... chez George Romero.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 5915,
+              "duree": 123,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 26177
+        }
+      ]
+    },
+    {
       "idSeance": 133665,
       "idProg": 182,
       "idCycleCategories": [
@@ -15396,7 +15403,7 @@
       "idEvenement": 30878,
       "typeEvenement": 13,
       "dateHeure": "2024-11-21T18:00:00",
-      "idSalle": "HL",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -15423,7 +15430,7 @@
       "mention": "Séance présentée par Françoise Fabian et Alain Terzian"
     },
     {
-      "idSeance": 133852,
+      "idSeance": 133346,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -15431,40 +15438,42 @@
           "idCategorie": 2201,
           "titreCycle": "Michael Powell",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3409,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21693,
+      "idEvenement": 21665,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-21T18:30:00",
-      "idSalle": "JE",
+      "dateHeure": "2024-11-21T20:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 70991,
-          "titre": "Oh... Rosalinda!!",
-          "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1955,
+          "idFilm": 35996,
+          "titre": "Voyeur",
+          "art": "Le",
+          "titreVo": "Peeping Tom",
+          "realisateurs": "Michael Powell",
+          "annee": 1959,
           "duree": 101,
-          "generique": "Anthony Quayle, Anton Walbrook, Dennis Price",
-          "adaptation": "D'après _La Chauve-Souris_ de Johann Strauss.",
-          "miniTexte": "Une comédie primesautière en Technicolor, inspirée de l'opérette _La Chauve-Souris_ de Strauss. Powell rivalise de fantaisie et d'espièglerie dans une version modernisée, à la fois surréaliste et subversive, qui doit beaucoup à Ludmila Tcherina, séduisante en diable face à Anton Walbrook.",
+          "generique": "Karlheinz Böhm, Anna Massey, Maxine Audley",
+          "synopsis": "Un photographe tue ses modèles avec un stylet installé dans son trépied. Il filme la scène, cherchant ainsi à capturer le visage de la peur.",
+          "miniTexte": "Sorti la même année que _Psychose_, _Le Voyeur_ est le premier long métrage de Powell réalisé sans la collaboration d'Emeric Pressburger, mais marque aussi le déclin de sa carrière après le scandale suscité par le film. Jugé choquant et malsain à l'époque, – c'est l'un des premiers à parler des _snuff movies_ – il met en scène un caméraman obsédé par la captation de la mort sur pellicule. Véritable méditation sur la magie de la caméra et la toute-puissance de l'artiste, il brille par sa construction en abîme aux allures de vertige visuel, qui bascule de la pathologie à l'illusion.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27070,
+              "idCopie": 20208,
               "duree": 101,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 27071,
-              "duree": 101,
-              "format": "35 mm",
-              "version": "VO"
             }
           ],
-          "idFilmBoxoffice": 130403
+          "idFilmBoxoffice": 1070
         }
       ]
     },
@@ -15482,7 +15491,7 @@
       "idEvenement": 30891,
       "typeEvenement": 13,
       "dateHeure": "2024-11-21T20:45:00",
-      "idSalle": "HL",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -15815,7 +15824,7 @@
       "mention": "Séance présentée par Simon Lelouch et Michel Boujenah"
     },
     {
-      "idSeance": 133332,
+      "idSeance": 134198,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -15825,41 +15834,38 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21654,
+      "idEvenement": 21693,
       "typeEvenement": 13,
       "dateHeure": "2024-11-23T14:30:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 42009,
-          "titre": "Espion noir",
-          "art": "L'",
-          "titreVo": "Spy in Black",
-          "artVo": "The",
-          "realisateurs": "Michael Powell",
-          "annee": 1939,
-          "duree": 82,
-          "generique": "Conrad Veidt, Sebastian Shaw, Valerie Hobson",
-          "adaptation": "D'après le roman _The Spy in Black_ de Joseph Storer Clouston.",
-          "miniTexte": "Première collaboration entre Powell et son fidèle comparse, Emeric Pressburger, crédité comme scénariste. Dans cette adaptation du roman de Joseph Storer Clouston, le cinéaste adopte le point de vue de l'ennemi allemand et multiplie les rebondissements, loin de tout manichéisme. Un classique du film d'espionnage, porté par la fantastique prestation de Conrad Veidt (_Le Cabinet du docteur Caligari_).",
+          "idFilm": 70991,
+          "titre": "Oh... Rosalinda!!",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1955,
+          "duree": 101,
+          "generique": "Anthony Quayle, Anton Walbrook, Dennis Price",
+          "adaptation": "D'après _La Chauve-Souris_ de Johann Strauss.",
+          "miniTexte": "Une comédie primesautière en Technicolor, inspirée de l'opérette _La Chauve-Souris_ de Strauss. Powell rivalise de fantaisie et d'espièglerie dans une version modernisée, à la fois surréaliste et subversive, qui doit beaucoup à Ludmila Tcherina, séduisante en diable face à Anton Walbrook.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 20207,
-              "duree": 82,
-              "format": "35 mm",
+              "idCopie": 27070,
+              "duree": 101,
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             },
             {
-              "idCopie": 3945,
-              "duree": 82,
+              "idCopie": 27071,
+              "duree": 101,
               "format": "35 mm",
               "version": "VO"
             }
           ],
-          "idFilmBoxoffice": 8130
+          "idFilmBoxoffice": 130403
         }
       ]
     },
@@ -15905,7 +15911,7 @@
       ]
     },
     {
-      "idSeance": 134032,
+      "idSeance": 133332,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -15915,36 +15921,41 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21694,
+      "idEvenement": 21654,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-23T16:30:00",
+      "dateHeure": "2024-11-23T16:45:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 42029,
-          "titre": "Contes d'Hoffmann",
-          "art": "Les",
-          "titreVo": "Tales of Hoffmann",
+          "idFilm": 42009,
+          "titre": "Espion noir",
+          "art": "L'",
+          "titreVo": "Spy in Black",
           "artVo": "The",
-          "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1950,
-          "duree": 123,
-          "generique": "Robert Rounseville, Moira Shearer, Robert Helpmann",
-          "adaptation": "D'après l'opéra _Les Contes d'Hoffmann_ de Jacques Offenbach, tiré des contes d'E. T. A. Hoffmann.",
-          "synopsis": "Alors qu'il attend son nouvel amour à la sortie d'un ballet, le poète Hoffmann se remémore trois expériences sentimentales malheureuses.",
-          "miniTexte": "L'affection de Powell pour l'art vivant explose dans _Les Contes d'Hoffmann_, grand spectacle baroque, ébouriffant de couleurs, d'idées et d'émotions. Aussi radical que visionnaire, le film, Ours d'argent à Berlin en 1951, embrasse l'exubérance propre à Offenbach pour un voyage en Technicolor. Un émerveillement, qui suscitera une vocation de cinéaste... chez George Romero.",
+          "realisateurs": "Michael Powell",
+          "annee": 1939,
+          "duree": 82,
+          "generique": "Conrad Veidt, Sebastian Shaw, Valerie Hobson",
+          "adaptation": "D'après le roman _The Spy in Black_ de Joseph Storer Clouston.",
+          "miniTexte": "Première collaboration entre Powell et son fidèle comparse, Emeric Pressburger, crédité comme scénariste. Dans cette adaptation du roman de Joseph Storer Clouston, le cinéaste adopte le point de vue de l'ennemi allemand et multiplie les rebondissements, loin de tout manichéisme. Un classique du film d'espionnage, porté par la fantastique prestation de Conrad Veidt (_Le Cabinet du docteur Caligari_).",
           "status": 2,
           "copies": [
             {
-              "idCopie": 5915,
-              "duree": 123,
-              "format": "DCP",
+              "idCopie": 20207,
+              "duree": 82,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 3945,
+              "duree": 82,
+              "format": "35 mm",
+              "version": "VO"
             }
           ],
-          "idFilmBoxoffice": 26177
+          "idFilmBoxoffice": 8130
         }
       ]
     },
@@ -16040,7 +16051,7 @@
       ],
       "idEvenement": 21688,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-23T19:00:00",
+      "dateHeure": "2024-11-23T18:45:00",
       "idSalle": "JE",
       "items": [
         {
@@ -16425,7 +16436,7 @@
       ]
     },
     {
-      "idSeance": 133346,
+      "idSeance": 134199,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -16433,42 +16444,35 @@
           "idCategorie": 2201,
           "titreCycle": "Michael Powell",
           "titreSousCycle": "Les films"
-        },
-        {
-          "idCycle": 525,
-          "idCategorie": 3409,
-          "titreCycle": "Ciné-club de Frédéric Bonnaud",
-          "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21665,
+      "idEvenement": 21657,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-24T20:00:00",
+      "dateHeure": "2024-11-24T19:00:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 35996,
-          "titre": "Voyeur",
-          "art": "Le",
-          "titreVo": "Peeping Tom",
+          "idFilm": 107584,
+          "titre": "Night of the Party",
+          "art": "The",
           "realisateurs": "Michael Powell",
-          "annee": 1959,
-          "duree": 101,
-          "generique": "Karlheinz Böhm, Anna Massey, Maxine Audley",
-          "synopsis": "Un photographe tue ses modèles avec un stylet installé dans son trépied. Il filme la scène, cherchant ainsi à capturer le visage de la peur.",
-          "miniTexte": "Sorti la même année que _Psychose_, _Le Voyeur_ est le premier long métrage de Powell réalisé sans la collaboration d'Emeric Pressburger, mais marque aussi le déclin de sa carrière après le scandale suscité par le film. Jugé choquant et malsain à l'époque, – c'est l'un des premiers à parler des _snuff movies_ – il met en scène un caméraman obsédé par la captation de la mort sur pellicule. Véritable méditation sur la magie de la caméra et la toute-puissance de l'artiste, il brille par sa construction en abîme aux allures de vertige visuel, qui bascule de la pathologie à l'illusion.",
+          "annee": 1934,
+          "duree": 63,
+          "generique": "Leslie Banks, Malcolm Keen, Jane Baxter",
+          "adaptation": "D'après la pièce _The Night of the Party_ de Roland Pertwee et John Hastings Turner.",
+          "miniTexte": "Sollicité par Michael Balcon, le patron britannique de Gaumont, Powell adapte la pièce de Roland Pertwee et John Hastings Turner en _whodunnit_ survolté que n'aurait pas renié Agatha Christie. L'occasion pour son casting (Malcolm Keen, Jane Baxter, Ian Hunter) de livrer des prestations aussi extravagantes que drolatiques.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 20208,
-              "duree": 101,
+              "idCopie": 28189,
+              "duree": 63,
               "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 1070
+          "idFilmBoxoffice": 187823
         }
       ]
     },
