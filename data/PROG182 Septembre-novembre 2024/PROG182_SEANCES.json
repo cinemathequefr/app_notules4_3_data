@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-13T14:10:47.171Z",
+  "updatedAt": "2024-06-13T15:22:15.624Z",
   "data": [
     {
       "idSeance": 130975,
@@ -2256,7 +2256,7 @@
           "titreSousCycle": "Rayane Mcirdi"
         }
       ],
-      "idEvenement": 31205,
+      "idEvenement": 31220,
       "typeEvenement": 13,
       "dateHeure": "2024-09-09T19:00:00",
       "idSalle": "JE",
@@ -2279,6 +2279,29 @@
             }
           ],
           "idFilmBoxoffice": 1000001290
+        },
+        {
+          "ordre": 2,
+          "idFilm": 60477,
+          "titre": "Anges déchus",
+          "art": "Les",
+          "titreVo": "Fallen Angels",
+          "realisateurs": "Wong Kar-wai",
+          "annee": 1996,
+          "dureeStd": 97,
+          "duree": 97,
+          "generique": "Leon Lai, Takeshi Kaneshiro, Charlie Young",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 8451,
+              "duree": 97,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 14388
         }
       ]
     },
@@ -6428,6 +6451,7 @@
             {
               "idCopie": 28283,
               "duree": 136,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -9987,13 +10011,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 8430,
-              "duree": 100,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 27059,
               "duree": 100,
               "format": "DCP",
@@ -10812,7 +10829,7 @@
           "titreVo": "Red Shoes",
           "artVo": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1947,
+          "annee": 1948,
           "duree": 133,
           "generique": "Anton Walbrook, Moira Shearer, Marius Goring",
           "adaptation": "D'après la nouvelle _De røde sko_ de Hans Christian Andersen.",
@@ -10821,11 +10838,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 20216,
+              "idCopie": 27058,
               "duree": 133,
               "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "version": "VO"
             },
             {
               "idCopie": 27057,
@@ -11186,7 +11202,7 @@
           "art": "La",
           "titreVo": "They're a Weird Mob",
           "realisateurs": "Michael Powell",
-          "annee": 1965,
+          "annee": 1966,
           "duree": 112,
           "generique": "Walter Chiari, Claire Dunne, Chips Rafferty",
           "adaptation": "D'après le roman _They're a Weird Mob_ de Nino Culotta.",
@@ -11270,7 +11286,7 @@
           "idFilm": 71690,
           "titre": "Age of Consent",
           "realisateurs": "Michael Powell",
-          "annee": 1968,
+          "annee": 1969,
           "duree": 98,
           "generique": "James Mason, Helen Mirren, Jack MacGowran",
           "adaptation": "D'après le roman _Age of Consent_ de Norman Lindsay.",
@@ -11384,7 +11400,7 @@
           "titre": "Espionne à bord",
           "titreVo": "Contraband",
           "realisateurs": "Michael Powell",
-          "annee": 1939,
+          "annee": 1940,
           "duree": 80,
           "generique": "Conrad Veidt, Valerie Hobson, Hay Petrie",
           "synopsis": "1940. Bloqué dans un port britannique, Andersen, capitaine danois d'un navire de commerce, se retrouve malgré lui dans une affaire d'espionnage.",
@@ -11550,7 +11566,7 @@
           "titreVo": "Life and Death of Colonel Blimp",
           "artVo": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1942,
+          "annee": 1943,
           "duree": 163,
           "generique": "Anton Walbrook, Deborah Kerr, Roger Livesey",
           "miniTexte": "L'amitié indéfectible entre un Allemand et un Anglais (le formidable duo Walbrook/Livesey) à travers les turpitudes de la guerre. Avec un humour typiquement british, Powell crée une fresque romanesque irrésistible, faisant écho à sa propre relation avec Pressburger. Le film culte de Scorsese, également admiré par Tavernier et Melville, qui le considérait comme « le plus beau film du monde ».",
@@ -11564,11 +11580,10 @@
               "sousTitres": "STF"
             },
             {
-              "idCopie": 3199,
+              "idCopie": 27055,
               "duree": 163,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "format": "35 mm",
+              "version": "VO"
             },
             {
               "idCopie": 20215,
@@ -11840,7 +11855,7 @@
           "titre": "Lune de miel",
           "titreVo": "Luna de miel",
           "realisateurs": "Michael Powell",
-          "annee": 1958,
+          "annee": 1959,
           "duree": 109,
           "generique": "Anthony Steel, Ludmilla Tcherina, Antonio Ruiz Soler",
           "miniTexte": "Une célèbre ballerine renonce à son art par amour, mais sa rencontre avec un danseur espagnol bouleverse ses certitudes. Réalisé à partir de deux ballets d'Antonio, _L'Amour Sorcier_ et _Les Amants de Teruel_, _Lune de miel_ – Grand Prix technique à Cannes en 1959 – voit le minimalisme de son intrigue mettre en valeur les danses espagnoles.",
@@ -12029,7 +12044,7 @@
           "titreVo": "Tales of Hoffmann",
           "artVo": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1950,
+          "annee": 1951,
           "duree": 123,
           "generique": "Robert Rounseville, Moira Shearer, Robert Helpmann",
           "adaptation": "D'après l'opéra _Les Contes d'Hoffmann_ de Jacques Offenbach, tiré des contes d'E. T. A. Hoffmann.",
@@ -12379,8 +12394,15 @@
           "titre": "Anapidae (appelle-moi)",
           "realisateurs": "Mathieu Morel",
           "annee": 2024,
+          "duree": 43,
           "status": 1,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28388,
+              "duree": 43,
+              "format": "DCP"
+            }
+          ],
           "idFilmBoxoffice": 1000004561
         },
         {
@@ -12624,7 +12646,7 @@
           "titre": "Fire Raisers",
           "art": "The",
           "realisateurs": "Michael Powell",
-          "annee": 1933,
+          "annee": 1934,
           "duree": 77,
           "generique": "Leslie Banks, Anne Grey, Carol Goodner",
           "synopsis": "Dans le jargon des assurances britanniques, les _Fire Raisers_ désignent ceux qui escroquent les assurances en déclarant des incendies. Expert pour des compagnies d'assurances, Bronson commence lui-même à côtoyer ces truands pour rembourser ses dettes...",
@@ -13037,7 +13059,7 @@
           "artVo": "The",
           "realisateurs": "Ludwig Berger, Tim Whelan, Michael Powell",
           "annee": 1940,
-          "duree": 105,
+          "duree": 106,
           "generique": "Conrad Veidt, Sabu, John Justin",
           "ageMinimal": 8,
           "synopsis": "Après avoir été trompé et chassé de Bagdad par le diabolique Jaffra, le roi Ahmad unit ses forces à un voleur nommé Abu pour récupérer son trône, sa ville et la princesse qu'il aime.",
@@ -13047,11 +13069,16 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 8456,
-              "duree": 105,
+              "idCopie": 27053,
+              "duree": 106,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 27054,
+              "duree": 106,
               "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "version": "VF"
             }
           ],
           "idFilmBoxoffice": 7072
@@ -13080,7 +13107,7 @@
           "titre": "Love Test",
           "art": "The",
           "realisateurs": "Michael Powell",
-          "annee": 1934,
+          "annee": 1935,
           "duree": 63,
           "generique": "Judy Gunn, Louis Hayward, David Hutcheson",
           "synopsis": "Alors que Mary est nouvellement nommée directrice d'un laboratoire, Thompson et ses collègues, jaloux, demandent à John de la séduire, dans l'espoir de la distraire... (Attention : pas clair : Mary est déjà nommée directrice ou ses collègues ont peur qu'elle prenne le poste ?)",
@@ -13966,7 +13993,7 @@
           "art": "Le",
           "titreVo": "Peeping Tom",
           "realisateurs": "Michael Powell",
-          "annee": 1959,
+          "annee": 1960,
           "duree": 101,
           "generique": "Karlheinz Böhm, Anna Massey, Maxine Audley",
           "synopsis": "Un photographe tue ses modèles avec un stylet installé dans son trépied. Il filme la scène, cherchant ainsi à capturer le visage de la peur.",
@@ -14455,13 +14482,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 8430,
-              "duree": 100,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 27059,
               "duree": 100,
               "format": "DCP",
@@ -14650,7 +14670,7 @@
           "titre": "Espionne à bord",
           "titreVo": "Contraband",
           "realisateurs": "Michael Powell",
-          "annee": 1939,
+          "annee": 1940,
           "duree": 80,
           "generique": "Conrad Veidt, Valerie Hobson, Hay Petrie",
           "synopsis": "1940. Bloqué dans un port britannique, Andersen, capitaine danois d'un navire de commerce, se retrouve malgré lui dans une affaire d'espionnage.",
@@ -15304,7 +15324,7 @@
           "titre": "Small Back Room",
           "art": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1948,
+          "annee": 1949,
           "duree": 111,
           "generique": "David Farrar, Kathleen Byron, Jack Hawkins",
           "adaptation": "D'après le roman _The Small Back Room_ de Nigel Balchin.",
@@ -15454,7 +15474,7 @@
           "art": "Le",
           "titreVo": "Herzog Blaubarts Burg",
           "realisateurs": "Michael Powell",
-          "annee": 1964,
+          "annee": 1963,
           "duree": 62,
           "generique": "Norman Foster, Ana Raquel Satre",
           "adaptation": "D'après l'opéra _Le Château de Barbe-Bleue_ de Béla Bartók.",
@@ -15496,7 +15516,7 @@
           "titreVo": "Tales of Hoffmann",
           "artVo": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1950,
+          "annee": 1951,
           "duree": 123,
           "generique": "Robert Rounseville, Moira Shearer, Robert Helpmann",
           "adaptation": "D'après l'opéra _Les Contes d'Hoffmann_ de Jacques Offenbach, tiré des contes d'E. T. A. Hoffmann.",
@@ -15585,7 +15605,7 @@
           "art": "Le",
           "titreVo": "Peeping Tom",
           "realisateurs": "Michael Powell",
-          "annee": 1959,
+          "annee": 1960,
           "duree": 101,
           "generique": "Karlheinz Böhm, Anna Massey, Maxine Audley",
           "synopsis": "Un photographe tue ses modèles avec un stylet installé dans son trépied. Il filme la scène, cherchant ainsi à capturer le visage de la peur.",
@@ -16458,7 +16478,7 @@
           "titreVo": "Red Shoes",
           "artVo": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1947,
+          "annee": 1948,
           "duree": 133,
           "generique": "Anton Walbrook, Moira Shearer, Marius Goring",
           "adaptation": "D'après la nouvelle _De røde sko_ de Hans Christian Andersen.",
@@ -16467,11 +16487,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 20216,
+              "idCopie": 27058,
               "duree": 133,
               "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "version": "VO"
             },
             {
               "idCopie": 27057,
@@ -16584,7 +16603,7 @@
           "titre": "Night of the Party",
           "art": "The",
           "realisateurs": "Michael Powell",
-          "annee": 1934,
+          "annee": 1935,
           "duree": 63,
           "generique": "Leslie Banks, Malcolm Keen, Jane Baxter",
           "adaptation": "D'après la pièce _The Night of the Party_ de Roland Pertwee et John Hastings Turner.",
