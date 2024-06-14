@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-13T15:22:50.319Z",
+  "updatedAt": "2024-06-14T10:50:27.815Z",
   "data": [
     {
       "idSeance": 128873,
@@ -5327,7 +5327,7 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30404,
+      "idEvenement": 31203,
       "typeEvenement": 13,
       "dateHeure": "2024-06-26T20:00:00",
       "idSalle": "HL",
@@ -5335,6 +5335,25 @@
       "items": [
         {
           "ordre": 1,
+          "idFilm": 130894,
+          "titre": "Bip Bip au pied léger",
+          "titreVo": "Fast and Furry Ous",
+          "realisateurs": "Chuck Jones",
+          "annee": 1948,
+          "duree": 7,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 9085,
+              "duree": 7,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
           "idFilm": 30343,
           "titre": "En route pour la gloire",
           "titreVo": "Bound for Glory",
