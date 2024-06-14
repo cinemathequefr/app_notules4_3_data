@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-14T07:36:44.829Z",
+  "updatedAt": "2024-06-14T09:18:39.113Z",
   "data": [
     {
       "idSeance": 130975,
@@ -46,45 +46,6 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 133768,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30711,
-      "typeEvenement": 13,
-      "dateHeure": "2024-08-29T16:15:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 79003,
-          "titre": "Girls About Town",
-          "realisateurs": "George Cukor",
-          "annee": 1931,
-          "duree": 80,
-          "generique": "Kay Francis, Joel McCrea, Lilyan Tashman",
-          "miniTexte": "Deux jeunes élégantes sans scrupules se font entretenir par de riches hommes d'affaires. Une comédie joyeusement amorale avec ses scènes osées (beuveries, flirts), porté par un Joel McCrea remarquable, et le tandem énergique Kay Francis/Lilyan Tashman. Drôle et décapant.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28206,
-              "duree": 80,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 118876
-        }
-      ]
-    },
-    {
       "idSeance": 133779,
       "idProg": 182,
       "idCycleCategories": [
@@ -97,7 +58,7 @@
       ],
       "idEvenement": 30712,
       "typeEvenement": 13,
-      "dateHeure": "2024-08-29T18:00:00",
+      "dateHeure": "2024-08-29T16:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -121,6 +82,45 @@
             }
           ],
           "idFilmBoxoffice": 118874
+        }
+      ]
+    },
+    {
+      "idSeance": 133768,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30711,
+      "typeEvenement": 13,
+      "dateHeure": "2024-08-29T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 79003,
+          "titre": "Girls About Town",
+          "realisateurs": "George Cukor",
+          "annee": 1931,
+          "duree": 80,
+          "generique": "Kay Francis, Joel McCrea, Lilyan Tashman",
+          "miniTexte": "Deux jeunes élégantes sans scrupules se font entretenir par de riches hommes d'affaires. Une comédie joyeusement amorale avec ses scènes osées (beuveries, flirts), porté par un Joel McCrea remarquable, et le tandem énergique Kay Francis/Lilyan Tashman. Drôle et décapant.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28206,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 118876
         }
       ]
     },
@@ -3759,6 +3759,7 @@
           "generique": "Marcello Mastroianni, Daniela Rocca, Stefania Sandrelli",
           "synopsis": "Un baron sicilien tombe amoureux de sa jeune cousine et cherche à se débarrasser de sa femme.",
           "miniTexte": "Un noble sicilien manigance un crime d'honneur pour se débarrasser de son épouse. Loin de ses rôles de séducteur romantique, Mastroianni incarne un homme aussi cynique que ridicule, dans une satire grinçante de la société conservatrice des années 60.",
+          "commentaire": "Loin de ses rôles de séducteur romantique, Mastroianni incarne un homme aussi cynique que ridicule, dans une critique grinçante de la société italienne des années 60. Avec l'histoire d'un noble sicilien qui manigance un crime d'honneur pour se débarrasser de son épouse, Germi se moque de la situation législative archaïque de son pays, où l'absence de loi sur le divorce et la réglementation du crime d'honneur (inscrite au code pénal) poussent les maris volages à trouver des solutions parfaitement immorales. Fleuron de la comédie italienne, son film marque l'imaginaire collectif au point de donner naissance à un titre labellisé, qui sera décliné dans nombre d'œuvres satiriques transalpines.",
           "status": 2,
           "copies": [
             {
@@ -7773,6 +7774,7 @@
           "annee": 1965,
           "duree": 95,
           "generique": "Virna Lisi, Gastone Moschin, Nora Ricci",
+          "miniTexte": "En trois sketches rythmés, cruels, truculents, Pietro Germi raille la petite bourgeoisie du Nord de l'Italie en proie aux affres des lois rigides et d'une morale contenue par l'Église. Maris veules, épouses infidèles et amants nigauds, ses personnages tout droit sortis d'un vaudeville, découpés au scalpel, défilent de sauteries grotesques en petits scandales étouffés. Un jeu de massacre qui déclencha les huées d'un certain public du Festival de Cannes, tandis que d'autres attribuèrent à _Ces messieurs dames_ la Palme d'Or, partagée avec _Un homme et une femme_ de Claude Lelouch.",
           "status": 1,
           "copies": [
             {
@@ -7855,6 +7857,7 @@
           "realisateurs": "Pietro Germi",
           "annee": 1958,
           "generique": "Pietro Germi, Franca Bettoia, Luisa Della Noce",
+          "miniTexte": "Resté seul à Rome pendant la convalescence de son fils, un ouvrier se laisse emporter dans une passion amoureuse aux répercussions dramatiques. Pietro Germi, qui interprète lui-même le rôle du mari infidèle, rompt avec les conventions sociales du drame bourgeois, en situant son histoire d'adultère dans un milieu populaire, filmé avec une émouvante sincérité.",
           "status": 1,
           "copies": [
             {
@@ -8564,6 +8567,7 @@
           "duree": 99,
           "generique": "Raf Vallone, Elena Varzi, Saro Urzi",
           "adaptation": "D'après le roman _Cuori negli abissi_ de Nino Di Maria.",
+          "miniTexte": "Le parcours d'un groupe de Siciliens vers la France, après la fermeture de la mine du village. Dans un geste néoréaliste, Pietro Germi filme l'exode italien de l'après-guerre, des promesses d'un passeur jusqu'aux cruelles désillusions. Habillé des plus beaux atours du mélodrame, _Le Chemin de l'espérance_ se voit comme une version italienne des _Raisins de la colère_ de John Ford.",
           "status": 1,
           "copies": [
             {
@@ -9198,6 +9202,7 @@
           "annee": 1955,
           "duree": 114,
           "generique": "Pietro Germi, Luisa Della Noce, Edoardo Nevola",
+          "miniTexte": "Pietro Germi se met en scène dans le rôle d'un cheminot responsable d'un terrible accident de train. Plus proche des personnages que des luttes sociales d'un pays en pleine modernisation, le cinéaste dresse un portrait cruel du monde ouvrier, à travers le regard d'un petit garçon qui, devant la déchéance de son père, cherche à retrouver l'unité familiale.",
           "status": 1,
           "copies": [
             {
@@ -9375,6 +9380,7 @@
           "generique": "Marcello Mastroianni, Daniela Rocca, Stefania Sandrelli",
           "synopsis": "Un baron sicilien tombe amoureux de sa jeune cousine et cherche à se débarrasser de sa femme.",
           "miniTexte": "Un noble sicilien manigance un crime d'honneur pour se débarrasser de son épouse. Loin de ses rôles de séducteur romantique, Mastroianni incarne un homme aussi cynique que ridicule, dans une satire grinçante de la société conservatrice des années 60.",
+          "commentaire": "Loin de ses rôles de séducteur romantique, Mastroianni incarne un homme aussi cynique que ridicule, dans une critique grinçante de la société italienne des années 60. Avec l'histoire d'un noble sicilien qui manigance un crime d'honneur pour se débarrasser de son épouse, Germi se moque de la situation législative archaïque de son pays, où l'absence de loi sur le divorce et la réglementation du crime d'honneur (inscrite au code pénal) poussent les maris volages à trouver des solutions parfaitement immorales. Fleuron de la comédie italienne, son film marque l'imaginaire collectif au point de donner naissance à un titre labellisé, qui sera décliné dans nombre d'œuvres satiriques transalpines.",
           "status": 2,
           "copies": [
             {
@@ -9578,6 +9584,7 @@
           "duree": 86,
           "generique": "Marisa Belli, Erno Crisa, Vincenzo Musolino",
           "adaptation": "D'après le roman _Il marchese di Roccaverdina_ de Luigi Capuana.",
+          "miniTexte": "L'amour d'un marquis pour une paysanne sur les terres arides de la Sicile. La superbe photographie de Leonida Barboni, chef opérateur attitré du cinéaste, et la partition du compositeur Carlo Rustichelli contribuent à faire de _Jalousie_ un grand drame passionnel sur la culpabilité et la folie amoureuse.",
           "status": 1,
           "copies": [
             {
@@ -9883,6 +9890,7 @@
           "realisateurs": "Pietro Germi",
           "annee": 1970,
           "generique": "Gianni Morandi, Stefania Casini, Nicoletta Machiavelli",
+          "miniTexte": "La relation amoureuse d'un réalisateur de télévision sans scrupules avec une étudiante en architecture, attachée aux valeurs chrétiennes. Dans l'un de ses derniers films, Germi oppose la ville moderne, source de corruption, à la campagne où la beauté des choses simples ressemble à une poignée de « bonnes châtaignes ».",
           "status": 1,
           "copies": [
             {
@@ -9962,6 +9970,7 @@
           "annee": 1965,
           "duree": 95,
           "generique": "Virna Lisi, Gastone Moschin, Nora Ricci",
+          "miniTexte": "En trois sketches rythmés, cruels, truculents, Pietro Germi raille la petite bourgeoisie du Nord de l'Italie en proie aux affres des lois rigides et d'une morale contenue par l'Église. Maris veules, épouses infidèles et amants nigauds, ses personnages tout droit sortis d'un vaudeville, découpés au scalpel, défilent de sauteries grotesques en petits scandales étouffés. Un jeu de massacre qui déclencha les huées d'un certain public du Festival de Cannes, tandis que d'autres attribuèrent à _Ces messieurs dames_ la Palme d'Or, partagée avec _Un homme et une femme_ de Claude Lelouch.",
           "status": 1,
           "copies": [
             {
@@ -10358,6 +10367,7 @@
           "annee": 1955,
           "duree": 114,
           "generique": "Pietro Germi, Luisa Della Noce, Edoardo Nevola",
+          "miniTexte": "Pietro Germi se met en scène dans le rôle d'un cheminot responsable d'un terrible accident de train. Plus proche des personnages que des luttes sociales d'un pays en pleine modernisation, le cinéaste dresse un portrait cruel du monde ouvrier, à travers le regard d'un petit garçon qui, devant la déchéance de son père, cherche à retrouver l'unité familiale.",
           "status": 1,
           "copies": [
             {
@@ -10577,13 +10587,6 @@
               "sousTitres": "STF"
             },
             {
-              "idCopie": 28335,
-              "duree": 92,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
-            },
-            {
               "idCopie": 20237,
               "duree": 92,
               "format": "DCP",
@@ -10752,6 +10755,7 @@
           "duree": 99,
           "generique": "Raf Vallone, Elena Varzi, Saro Urzi",
           "adaptation": "D'après le roman _Cuori negli abissi_ de Nino Di Maria.",
+          "miniTexte": "Le parcours d'un groupe de Siciliens vers la France, après la fermeture de la mine du village. Dans un geste néoréaliste, Pietro Germi filme l'exode italien de l'après-guerre, des promesses d'un passeur jusqu'aux cruelles désillusions. Habillé des plus beaux atours du mélodrame, _Le Chemin de l'espérance_ se voit comme une version italienne des _Raisins de la colère_ de John Ford.",
           "status": 1,
           "copies": [
             {
@@ -12098,6 +12102,12 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27066,
+              "duree": 123,
+              "format": "35 mm",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 26177
@@ -15050,13 +15060,6 @@
               "sousTitres": "STF"
             },
             {
-              "idCopie": 28335,
-              "duree": 92,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
-            },
-            {
               "idCopie": 20237,
               "duree": 92,
               "format": "DCP",
@@ -15570,6 +15573,12 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27066,
+              "duree": 123,
+              "format": "35 mm",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 26177
