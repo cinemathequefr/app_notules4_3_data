@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-13T15:22:15.624Z",
+  "updatedAt": "2024-06-14T07:36:44.829Z",
   "data": [
     {
       "idSeance": 130975,
@@ -4465,6 +4465,42 @@
       ]
     },
     {
+      "idSeance": 131658,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31212,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-21T17:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48686,
+          "titre": "Napoléon Bonaparte",
+          "realisateurs": "Abel Gance",
+          "annee": 1935,
+          "duree": 132,
+          "generique": "Albert Dieudonné, Gina Manès, Damia",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28116,
+              "duree": 132,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 4810
+        }
+      ]
+    },
+    {
       "idSeance": 133781,
       "idProg": 182,
       "idCycleCategories": [
@@ -5041,7 +5077,7 @@
           "idFilmBoxoffice": 220855
         }
       ],
-      "mention": "Séance présentée par Emmanuelle Devos"
+      "mention": "Séance présentée par Emmanuelle Devos et Mathieu Amalric"
     },
     {
       "idSeance": 131685,
@@ -8336,6 +8372,7 @@
           "generique": "Massimo Girotti, Jone Salinas, Charles Vanel, Camillo Mastrocinque",
           "adaptation": "D'après le roman _Piccola pretura_ de Giuseppe Guido Lo Schiavo.",
           "synopsis": "Un juge d'instruction nouvellement arrivé en Sicile se heurte à la mafia. Avant de quitter l'île, il décide d'élucider un crime qu'il refuse de laisser impuni.",
+          "miniTexte": "Avec l'histoire d'un juge de Palerme, affecté au village isolé de Capodarso, Germi évoque l'emprise de la mafia sur une contrée miséreuse. Terre de prédilection du cinéaste pour ses tournages, la Sicile déploie ses paysages arides, aux maisons blanches décrépites, comme dans un western hollywoodien. Monicelli et Fellini participent à l'écriture du scénario. L'intrigue est captivante, les personnages authentiques. Face au regard pur de Massimo Girotti (le vagabond d'_Ossessione_), Charles Vanel campe un parrain local plus vrai que nature. Et tandis que la tension monte, le drame se resserre jusqu'au crime de trop, dans un final inattendu.",
           "status": 2,
           "copies": [
             {
@@ -9418,6 +9455,7 @@
           "annee": 1966,
           "duree": 90,
           "generique": "Ugo Tognazzi, Stefania Sandrelli, Renée Longarini",
+          "miniTexte": "Une épouse, deux maîtresses, une kyrielle d'enfants. Débordé, Sergio se confie à un prêtre. Entre la pure comédie italienne et le drame, une chronique de la vie sentimentale de l'Italien moyen, où chaque nouvelle aventure et chaque nouveau mensonge révèlent la médiocrité d'un tendre don Juan. Drôle et sombre à la fois, Tognazzi est impérial.",
           "status": 1,
           "copies": [
             {
@@ -9680,6 +9718,7 @@
           "realisateurs": "Pietro Germi",
           "annee": 1972,
           "generique": "Dustin Hoffman, Stefania Sandrelli, Carla Gravina",
+          "miniTexte": "À peine sorti des _Chiens de paille_ de Peckinpah, Dustin Hoffman endosse avec aisance le rôle d'un Italien aussi émotif que timide, qui tombe sous la coupe d'une épouse abusive. En observateur féroce qui ne manque pas de tendresse, Germi combat par le rire les lois matrimoniales et les coutumes absurdes de son pays, dans une farce hilarante. Son dernier film.",
           "status": 1,
           "copies": [
             {
@@ -10441,6 +10480,7 @@
           "generique": "Massimo Girotti, Jone Salinas, Charles Vanel, Camillo Mastrocinque",
           "adaptation": "D'après le roman _Piccola pretura_ de Giuseppe Guido Lo Schiavo.",
           "synopsis": "Un juge d'instruction nouvellement arrivé en Sicile se heurte à la mafia. Avant de quitter l'île, il décide d'élucider un crime qu'il refuse de laisser impuni.",
+          "miniTexte": "Avec l'histoire d'un juge de Palerme, affecté au village isolé de Capodarso, Germi évoque l'emprise de la mafia sur une contrée miséreuse. Terre de prédilection du cinéaste pour ses tournages, la Sicile déploie ses paysages arides, aux maisons blanches décrépites, comme dans un western hollywoodien. Monicelli et Fellini participent à l'écriture du scénario. L'intrigue est captivante, les personnages authentiques. Face au regard pur de Massimo Girotti (le vagabond d'_Ossessione_), Charles Vanel campe un parrain local plus vrai que nature. Et tandis que la tension monte, le drame se resserre jusqu'au crime de trop, dans un final inattendu.",
           "status": 2,
           "copies": [
             {
@@ -11795,7 +11835,7 @@
       ]
     },
     {
-      "idSeance": 132767,
+      "idSeance": 134214,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -11805,31 +11845,31 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30953,
+      "idEvenement": 30951,
       "typeEvenement": 13,
       "dateHeure": "2024-11-02T14:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 58122,
-          "titre": "Joe Hill",
+          "idFilm": 44983,
+          "titre": "Elvira Madigan",
           "realisateurs": "Bo Widerberg",
-          "annee": 1970,
-          "duree": 113,
-          "generique": "Thommy Berggren, Kelvin Malave, Cathy Smith",
-          "miniTexte": "Formidable conteur de la classe ouvrière, Widerberg décrit la vie et la mort de Joseph Hillström, émigrant suédois, poète et militant qui participa aux luttes sociales des États-Unis au début du XX<sup>e</sup> siècle. Prix du Jury à Cannes, l'épopée lyrique d'un pionnier de la _protest song_, portée par l'excellent Thommy Berggren.",
+          "annee": 1967,
+          "duree": 91,
+          "generique": "Thommy Berggren, Pia Degermark, Lennart Malmer",
+          "miniTexte": "D'après un célèbre fait divers qui défraya la chronique à la fin du XIX<sup>e</sup> siècle, la fugue amoureuse d'une funambule danoise et d'un lieutenant suédois, marié et père de deux enfants. Widerberg délaisse le noir et blanc et le naturalisme de la ville pour filmer un hymne à l'amour fou, dans une suite de tableaux impressionnistes aussi sensuels que bucoliques. Au cœur d'une nature hédoniste, le couple formé par Pia Degermark (Prix d'interprétation à Cannes) et Thommy Berggren savoure l'ivresse d'un bel été à l'éclat du bonheur éphémère. Le film est un tel succès à sa sortie que le Concerto pour piano n°21 de Mozart, qui en constitue l'espace sonore, ressort dans une édition titrée Elvira Madigan.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28154,
-              "duree": 113,
+              "idCopie": 28153,
+              "duree": 91,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 59673
+          "idFilmBoxoffice": 8607
         }
       ]
     },
@@ -11942,7 +11982,7 @@
       ]
     },
     {
-      "idSeance": 132769,
+      "idSeance": 134215,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -11952,31 +11992,31 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30951,
+      "idEvenement": 30953,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-02T19:00:00",
+      "dateHeure": "2024-11-02T18:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 44983,
-          "titre": "Elvira Madigan",
+          "idFilm": 58122,
+          "titre": "Joe Hill",
           "realisateurs": "Bo Widerberg",
-          "annee": 1967,
-          "duree": 91,
-          "generique": "Thommy Berggren, Pia Degermark, Lennart Malmer",
-          "miniTexte": "D'après un célèbre fait divers qui défraya la chronique à la fin du XIX<sup>e</sup> siècle, la fugue amoureuse d'une funambule danoise et d'un lieutenant suédois, marié et père de deux enfants. Widerberg délaisse le noir et blanc et le naturalisme de la ville pour filmer un hymne à l'amour fou, dans une suite de tableaux impressionnistes aussi sensuels que bucoliques. Au cœur d'une nature hédoniste, le couple formé par Pia Degermark (Prix d'interprétation à Cannes) et Thommy Berggren savoure l'ivresse d'un bel été à l'éclat du bonheur éphémère. Le film est un tel succès à sa sortie que le Concerto pour piano n°21 de Mozart, qui en constitue l'espace sonore, ressort dans une édition titrée Elvira Madigan.",
+          "annee": 1970,
+          "duree": 113,
+          "generique": "Thommy Berggren, Kelvin Malave, Cathy Smith",
+          "miniTexte": "Formidable conteur de la classe ouvrière, Widerberg décrit la vie et la mort de Joseph Hillström, émigrant suédois, poète et militant qui participa aux luttes sociales des États-Unis au début du XX<sup>e</sup> siècle. Prix du Jury à Cannes, l'épopée lyrique d'un pionnier de la _protest song_, portée par l'excellent Thommy Berggren.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28153,
-              "duree": 91,
+              "idCopie": 28154,
+              "duree": 113,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 8607
+          "idFilmBoxoffice": 59673
         }
       ]
     },
