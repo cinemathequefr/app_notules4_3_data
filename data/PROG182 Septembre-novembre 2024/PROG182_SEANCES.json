@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-14T13:18:34.032Z",
+  "updatedAt": "2024-06-14T15:23:29.694Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1849,7 +1849,7 @@
           "titreSousCycle": "Courts métrages"
         }
       ],
-      "idEvenement": 31060,
+      "idEvenement": 31223,
       "typeEvenement": 13,
       "dateHeure": "2024-09-08T15:00:00",
       "idSalle": "GF",
@@ -1891,20 +1891,23 @@
         },
         {
           "ordre": 3,
-          "idFilm": 76313,
-          "titre": "Une odeur de géranium",
+          "idFilm": 121778,
+          "titre": "Tableau",
+          "art": "Le",
           "realisateurs": "Laurent Achard",
-          "annee": 1997,
+          "annee": 2012,
           "duree": 30,
-          "generique": "Babet Ferrier, Vincent Taveau, Jérôme Le Paulmier",
+          "generique": "Thérèse Roussel, Fred Personne, Pascal Cervo",
+          "synopsis": "Au crépuscule de leur vie, Odile et Marcèle s'aiment toujours. Atteinte d'une maladie incurable, Odile doit être hospitalisée. Le temps d'un dernier dimanche, ils revoient les gens qu'ils aiment.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28229,
+              "idCopie": 3173,
               "duree": 30,
-              "format": "35 mm"
+              "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 225688
         },
         {
           "ordre": 4,
@@ -2333,18 +2336,53 @@
       "idCycleCategories": [
         {
           "idCycle": 787,
-          "idCategorie": 3375,
+          "idCategorie": 3374,
           "titreCycle": "Laurent Achard",
-          "titreSousCycle": "Documentaires sur le cinéma"
+          "titreSousCycle": "Courts métrages"
         }
       ],
-      "idEvenement": 31056,
+      "idEvenement": 31223,
       "typeEvenement": 13,
       "dateHeure": "2024-09-11T18:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
+          "idFilm": 75543,
+          "titre": "Qu'en savent les morts ?",
+          "realisateurs": "Laurent Achard",
+          "annee": 1990,
+          "duree": 5,
+          "generique": "Laurence Côte, René Rabreau",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28228,
+              "duree": 5,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 60534
+        },
+        {
+          "ordre": 2,
+          "idFilm": 76312,
+          "titre": "Dimanche ou les fantômes",
+          "realisateurs": "Laurent Achard",
+          "annee": 1994,
+          "duree": 30,
+          "generique": "Olivia Bouet-Willaumez, Julien Rivière, Pierre Lhuillier",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28227,
+              "duree": 30
+            }
+          ],
+          "idFilmBoxoffice": 10177
+        },
+        {
+          "ordre": 3,
           "idFilm": 121778,
           "titre": "Tableau",
           "art": "Le",
@@ -2364,21 +2402,40 @@
           "idFilmBoxoffice": 225688
         },
         {
-          "ordre": 2,
-          "idFilm": 154838,
-          "titre": "Un, parfois deux...",
+          "ordre": 4,
+          "idFilm": 154889,
+          "titre": "De ma fenêtre",
           "realisateurs": "Laurent Achard",
-          "annee": 2016,
-          "duree": 52,
+          "annee": 2021,
+          "duree": 3,
           "status": 2,
           "copies": [
             {
-              "idCopie": 28027,
-              "duree": 52,
+              "idCopie": 28251,
+              "duree": 3,
               "format": "DCP"
             }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 91824,
+          "titre": "Peur, petit chasseur",
+          "art": "La",
+          "realisateurs": "Laurent Achard",
+          "annee": 2003,
+          "duree": 9,
+          "generique": "Mireille Roussel, Martin Buisson, Pierre Beaux",
+          "synopsis": "À la campagne, un jour de novembre, un enfant recroquevillé n'ose pas rentrer dans sa maison. Il attend que sa mère le rejoigne dans le jardin.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 26874,
+              "duree": 9,
+              "format": "35 mm"
+            }
           ],
-          "idFilmBoxoffice": 270508
+          "idFilmBoxoffice": 109954
         }
       ],
       "mention": "Séance suivie d'une discussion avec Pierre Sénélas, Pascal Cervo et Mireille Roussel"
