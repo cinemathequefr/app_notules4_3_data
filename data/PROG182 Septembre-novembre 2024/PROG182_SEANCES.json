@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-17T10:08:03.019Z",
+  "updatedAt": "2024-06-17T13:01:10.136Z",
   "data": [
     {
       "idSeance": 130975,
@@ -6470,6 +6470,47 @@
       "items": []
     },
     {
+      "idSeance": 134216,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 802,
+          "idCategorie": 3413,
+          "titreCycle": "Bob Rafelson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31124,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-02T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35873,
+          "titre": "Veuve noire",
+          "art": "La",
+          "titreVo": "Black Widow",
+          "realisateurs": "Bob Rafelson",
+          "annee": 1986,
+          "duree": 102,
+          "generique": "Debra Winger, Theresa Russell, Sami Frey",
+          "miniTexte": "Une agente fédérale enquête sur la mort suspecte et rapprochée de trois riches industriels, qui ont légué leur fortune à la même femme. Sur fond d'investigation policière, Rafelson compose un jeu du chat et de la souris entre deux égéries des années 80, la blonde Theresa Russell et la brune Debra Winger. Fait d'esquives, d'érotisme soft et de stratagèmes inventifs, leur affrontement s'accorde avec la mise en scène élégante, où le cinéaste multiplie les rebondissements dans une Floride de carte postale.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28286,
+              "duree": 102,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 597
+        }
+      ]
+    },
+    {
       "idSeance": 131905,
       "idProg": 182,
       "idCycleCategories": [
@@ -8908,12 +8949,12 @@
           "titre": "Intruder",
           "art": "The",
           "realisateurs": "Roger Corman",
-          "annee": 1961,
+          "annee": 1962,
           "duree": 84,
           "generique": "William Shatner, Frank Maxwell, Beverly Lunsford",
           "adaptation": "D'après le roman _The Intruder_ de Charles Beaumont.",
           "miniTexte": "Alors que vient d'y être votée une loi anti-ségrégationniste, un jeune homme débarque dans une ville sudiste pour semer le trouble en attisant le racisme larvé de la population. Un grand film politique, adaptation d'un roman de Charles Beaumont, prolifique scénariste pour _La Quatrième Dimension_, qui frappe à la fois par son réalisme et la crudité de son propos, réquisitoire violent contre la xénophobie de la population américaine. Trop virulent pour les spectateurs, le film sera le seul échec de toute la carrière de Corman cinéaste.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28306,
@@ -9084,7 +9125,7 @@
           "duree": 71,
           "generique": "Peter Graves, Lee Van Cleef, Beverly Garland",
           "miniTexte": "Dans l'espoir d'améliorer le sort de l'humanité, un scientifique guide une force extraterrestre qui prend secrètement le contrôle de la Terre. Avec son monstre en caoutchouc, ses décors et ses effets spéciaux rudimentaires, Corman utilise les peurs paranoïaques de la Guerre froide pour signer une série B efficace, devenue un classique de la science-fiction des années 50.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28311,
@@ -9120,11 +9161,11 @@
           "titreVo": "Little Shop of Horrors",
           "artVo": "The",
           "realisateurs": "Roger Corman",
-          "annee": 1961,
+          "annee": 1960,
           "duree": 70,
           "generique": "Jonathan Haze, Jackie Joseph, Mel Welles",
           "miniTexte": "Une plante carnivore affamée devient l'attraction d'un magasin de fleurs en faillite. Tourné en quelques jours avec un budget dérisoire, le film doit son charme à l'esprit inventif et bricoleur de Corman. Sa comédie horrifique, dans laquelle le jeune Jack Nicholson apparaît en patient masochiste d'un dentiste sadique, inspira la comédie musicale à succès de Broadway, ainsi que la version de Frank Oz, qui acheva de l'inscrire dans la culture populaire.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28309,
@@ -9192,7 +9233,7 @@
           "titreVo": "Masque of the Red Death",
           "artVo": "The",
           "realisateurs": "Roger Corman",
-          "annee": 1963,
+          "annee": 1964,
           "duree": 90,
           "generique": "Vincent Price, Hazel Court, Patrick Magee",
           "adaptation": "D'après les nouvelles _Le Masque de la mort rouge_ et _Hop-Frog_ d'Edgar Allan Poe.",
@@ -9327,15 +9368,15 @@
         {
           "ordre": 1,
           "idFilm": 32099,
-          "titre": "Horrible Cas du docteur X",
+          "titre": "Horrible cas du docteur X",
           "art": "L'",
-          "titreVo": "X-The Man with the X-ray Eyes",
+          "titreVo": "X-The Man With the X-Ray Eyes",
           "realisateurs": "Roger Corman",
           "annee": 1963,
           "duree": 80,
           "generique": "Ray Milland, Diana Van der Vlis, Harold J. Stone",
           "miniTexte": "Un chercheur met au point des gouttes oculaires, générateurs de rayons X. Décidé à les expérimenter lui-même, il acquiert le pouvoir de voir à travers la matière. Dans un tourbillon de formes et de couleurs acidulées, Corman opte pour le point de vue de son héros, qui se délecte de son privilège jusqu'à la mégalomanie. L'excellent Ray Milland module sa transformation de savant fou en voyeur surpuissant, bientôt terrorisé par l'existence, dans un final à la dimension cosmique.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28313,
@@ -9457,7 +9498,7 @@
           "idFilm": 58647,
           "titre": "Bloody Mama",
           "realisateurs": "Roger Corman",
-          "annee": 1969,
+          "annee": 1970,
           "duree": 90,
           "generique": "Shelley Winters, Pat Hingle, Don Stroud, Robert De Niro",
           "synopsis": "Aux États-Unis dans les années 1930, « Ma » Kate Barker, est mère de quatre fils et a fait de sa famille un gang violent semant la terreur.",
@@ -9656,14 +9697,16 @@
         {
           "ordre": 1,
           "idFilm": 76844,
-          "titre": "Frankenstein Unbound",
+          "titre": "Résurrection de Frankenstein",
+          "art": "La",
+          "titreVo": "Frankenstein Unbound",
           "realisateurs": "Roger Corman",
           "annee": 1990,
           "duree": 82,
           "generique": "John Hurt, Raúl Juliá, Bridget Fonda",
           "adaptation": "D'après le roman _Frankenstein délivré_ de Brian Aldiss.",
           "miniTexte": "Créateur d'une arme révolutionnaire, un scientifique découvre qu'elle permet de voyager dans le temps. Pour son dernier film, Corman adapte le roman éponyme de Brian Aldiss dans une variation autour du mythe de Frankenstein. Une série B audacieuse, portée par le duo John Hurt/Raúl Juliá.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28307,
@@ -9724,7 +9767,7 @@
         {
           "ordre": 1,
           "idFilm": 33339,
-          "titre": "Cock Fighter",
+          "titre": "Cockfighter",
           "realisateurs": "Monte Hellman",
           "annee": 1974,
           "generique": "Warren Oates, Richard B. Shull, Harry Dean Stanton",
@@ -10146,13 +10189,15 @@
         {
           "ordre": 1,
           "idFilm": 54953,
-          "titre": "Death Race 2000",
+          "titre": "Course à la mort de l'an 2000",
+          "art": "La",
+          "titreVo": "Death Race 2000",
           "realisateurs": "Paul Bartel",
           "annee": 1975,
           "generique": "David Carradine, Sylvester Stallone, Simone Griffeth",
           "adaptation": "D'après la nouvelle _Le Pilote_ d'Ib Melchior.",
           "miniTexte": "Une course automobile intercontinentale aux règles anarchiques – écraser des enfants ou des vieillards permet d'encaisser des bonus – oppose Machine Gun Joe Viterbo à quatre autres pilotes. Du pain, des jeux, et des bolides : l'uchronie déjantée de Paul Bartel, au fort sous-texte politique, se révèle aujourd'hui visionnaire. Une petite bombe vrombissante avec David Carradine et un tout jeune Sylvester Stallone.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28305,
@@ -12611,6 +12656,45 @@
       ]
     },
     {
+      "idSeance": 134217,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30959,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-06T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46450,
+          "titre": "Tom Foot",
+          "titreVo": "Fimpen",
+          "realisateurs": "Bo Widerberg",
+          "annee": 1974,
+          "duree": 89,
+          "generique": "Johan Bergman, Monica Zetterlund, Magnus Härenstam",
+          "synopsisJP": "Les exploits d'un petit génie du football, qui se retrouve à jouer dans l'équipe nationale de Suède avec ses idoles. Une drôle de fable, où les adultes sont tournés en ridicule et les enfants obligés de reprendre le chemin de l'école pour apprendre à signer des autographes.",
+          "miniTexte": "Les exploits d'un petit génie du football, qui se retrouve à jouer dans l'équipe nationale de Suède avec ses idoles. Une drôle de fable, où les adultes sont tournés en ridicule et les enfants obligés de reprendre le chemin de l'école pour apprendre à signer des autographes.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28163,
+              "duree": 89,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 189026
+        }
+      ]
+    },
+    {
       "idSeance": 132837,
       "idProg": 182,
       "idCycleCategories": [
@@ -12648,43 +12732,6 @@
             }
           ],
           "idFilmBoxoffice": 171748
-        }
-      ]
-    },
-    {
-      "idSeance": 132839,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 795,
-          "idCategorie": 3387,
-          "titreCycle": "Bo Widerberg",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30954,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-06T19:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 80521,
-          "titre": "Liv till varje pris",
-          "realisateurs": "Stefan Jarl",
-          "annee": 1998,
-          "duree": 90,
-          "generique": "Thommy Berggren, Roy Andersson, Tomas von Brömssen",
-          "miniTexte": "Entretiens et images d'archives, qui composent un portrait de Bo Widerberg, mort en 1997.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28164,
-              "duree": 90,
-              "format": "35 mm"
-            }
-          ],
-          "idFilmBoxoffice": 6197
         }
       ]
     },
@@ -12728,6 +12775,43 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 132839,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30954,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-06T20:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80521,
+          "titre": "Liv till varje pris",
+          "realisateurs": "Stefan Jarl",
+          "annee": 1998,
+          "duree": 90,
+          "generique": "Thommy Berggren, Roy Andersson, Tomas von Brömssen",
+          "miniTexte": "Entretiens et images d'archives, qui composent un portrait de Bo Widerberg, mort en 1997.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28164,
+              "duree": 90,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 6197
+        }
+      ]
     },
     {
       "idSeance": 132838,
