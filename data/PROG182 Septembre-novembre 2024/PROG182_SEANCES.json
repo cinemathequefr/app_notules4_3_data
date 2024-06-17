@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-17T08:19:38.147Z",
+  "updatedAt": "2024-06-17T10:08:03.019Z",
   "data": [
     {
       "idSeance": 130975,
@@ -10111,7 +10111,8 @@
               "idCopie": 27059,
               "duree": 100,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "sousTitres": "STF"
             },
             {
               "idCopie": 28365,
@@ -10640,7 +10641,7 @@
               "duree": 92,
               "format": "DCP",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 4301
@@ -10949,7 +10950,8 @@
               "idCopie": 27058,
               "duree": 133,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "sousTitres": "STF"
             },
             {
               "idCopie": 27057,
@@ -11689,15 +11691,18 @@
               "sousTitres": "STF"
             },
             {
+              "idCopie": 20215,
+              "duree": 163,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF",
+              "stDemande": true
+            },
+            {
               "idCopie": 27055,
               "duree": 163,
               "format": "35 mm",
               "version": "VO"
-            },
-            {
-              "idCopie": 20215,
-              "duree": 163,
-              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 4082
@@ -12381,7 +12386,7 @@
           "annee": 1979,
           "duree": 89,
           "generique": "Michaela Jolin, Stephan Schwartz, Pia Skagermark",
-          "miniTexte": "Fin du XIX<sup>e siècle, la romance tragique entre le fils d'un meunier et la fille d'un châtelain qui s'aiment depuis l'enfance. 13 ans après _Elvira Madigan_, Widerberg met en images l'histoire d'un bonheur impossible, dans les paysages lumineux des fjords norvégiens.",
+          "miniTexte": "Fin du XIX<sup>e</sup> siècle, la romance tragique entre le fils d'un meunier et la fille d'un châtelain qui s'aiment depuis l'enfance. 13 ans après _Elvira Madigan_, Widerberg met en images l'histoire d'un bonheur impossible, dans les paysages lumineux des fjords norvégiens.",
           "status": 2,
           "copies": [
             {
@@ -13176,17 +13181,18 @@
               "sousTitres": "STF"
             },
             {
-              "idCopie": 27053,
-              "duree": 106,
-              "format": "35 mm",
-              "version": "VO"
-            },
-            {
               "idCopie": 27054,
               "duree": 106,
               "format": "DCP",
               "version": "VO",
+              "sousTitres": "STF",
               "stDemande": true
+            },
+            {
+              "idCopie": 27053,
+              "duree": 106,
+              "format": "35 mm",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 7072
@@ -14020,7 +14026,8 @@
               "idCopie": 27054,
               "duree": 106,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 7072
@@ -14472,7 +14479,7 @@
       "idEvenement": 31048,
       "typeEvenement": 14,
       "dateHeure": "2024-11-15T18:30:00",
-      "typeConference": "Conférence",
+      "typeConference": "Dialogue",
       "idSalle": "GF",
       "duree": 90,
       "items": [
@@ -14607,7 +14614,8 @@
               "idCopie": 27059,
               "duree": 100,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "sousTitres": "STF"
             },
             {
               "idCopie": 28365,
@@ -14927,6 +14935,13 @@
               "format": "35 mm",
               "version": "VO",
               "stDemande": true
+            },
+            {
+              "idCopie": 20235,
+              "duree": 119,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 39188
@@ -15136,7 +15151,7 @@
               "duree": 92,
               "format": "DCP",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 4301
@@ -16127,17 +16142,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 27070,
-              "duree": 101,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 27071,
+              "idCopie": 20240,
               "duree": 101,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VF"
             }
           ],
           "idFilmBoxoffice": 130403
@@ -16637,7 +16645,8 @@
               "idCopie": 27058,
               "duree": 133,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "sousTitres": "STF"
             },
             {
               "idCopie": 27057,
