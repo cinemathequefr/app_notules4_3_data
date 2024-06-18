@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-17T13:42:09.913Z",
+  "updatedAt": "2024-06-18T15:06:17.853Z",
   "data": [
     {
       "idSeance": 130975,
@@ -442,7 +442,8 @@
           ],
           "idFilmBoxoffice": 27600
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Cosmic Neman, Jérôme Lorichon, Shane Aspegren et Fabrice Laureau"
     },
     {
       "idSeance": 134054,
@@ -2786,7 +2787,7 @@
           "generique": "Marcello Mastroianni, Claudia Cardinale, Anouk Aimée",
           "synopsis": "Le cinéaste Guido Anselmi, en cure dans une station thermale, éprouve la crise du créateur. Alors qu'il cherche l'inspiration pour son prochain film, il se trouve happé par ses souvenirs et ses fantasmes.",
           "miniTexte": "En cure dans une station thermale, un cinéaste en mal d'inspiration se trouve happé par ses souvenirs et ses fantasmes. Les angoisses existentielles de Guido/Mastroianni, double notoire de Fellini, dans l'un de ses plus beaux films, au final indissociable de la ritournelle de Nino Rota.",
-          "commentaire": "« Au moment du tournage de _8½_, il m'arriva une chose que je redoutais depuis longtemps. Je fus victime d'un blocage, comme les écrivains en ont parfois devant leur page blanche. » Le blocage de Fellini devint le sujet même du film. Les angoisses d'un cinéaste en mal d'inspiration et en mal de vivre tout court. Guido/Mastroianni, double notoire arborant tous les attributs felliniens (manteau noir, écharpe et Borsalino), se laisse porter par le souffle du vent à travers les fantasmes et les rêves du passé, jusqu'à la farandole finale, d'une beauté infinie, indissociable du thème légendaire de la fanfare de Nino Rota.",
+          "commentaire": "« Au moment du tournage de _8½_, il m'arriva une chose que je redoutais depuis longtemps. Je fus victime d'un blocage, comme les écrivains en ont parfois devant leur page blanche. » Le blocage de Fellini devint le sujet même du film. Les angoisses d'un cinéaste en mal d'inspiration et en mal de vivre tout court. Guido/Mastroianni, double notoire arborant tous les attributs felliniens (manteau noir, écharpe et Borsalino), se laisse porter par le souffle du vent à travers les fantasmes et les rêves du passé, jusqu'à la farandole finale, d'une beauté infinie, indissociable du thème légendaire de la fanfare de Nino Rota.\n\nEt Fellini devint définitivement Fellini... Trois ans après le triomphe de _La dolce vita_ (succès commercial et critique, Grand Prix à Cannes), le maestro se libère d'une certaine pesanteur psychologique et largue les amarres, au propre comme au figuré, pour filmer ses fantasmes, complètement désinhibé et fouet en main. Autour de Marcello Mastroianni en double idéalisé, il réunit le plus brillant casting féminin de l'histoire du cinéma italien : Anouk Aimée, Claudia Cardinale, Sandra Milo, Barbara Steele. — F.B.",
           "status": 2,
           "copies": [
             {
@@ -4697,12 +4698,6 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 28331,
-              "duree": 123,
-              "format": "16 mm",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 59917
@@ -9079,9 +9074,11 @@
           "realisateurs": "Jacques Becker",
           "annee": 1959,
           "duree": 115,
-          "generique": "Jean Kéraudy, Marc Michel, Raymond Meunier",
+          "generique": "Philippe Leroy, Michel Constantin, Jean Kéraudy, Marc Michel",
+          "adaptation": "D'après le roman _Le Trou_ de José Giovanni.",
           "synopsis": "Un jeune homme est incarcéré à la prison de la Santé. Il est adopté par ses quatre compagnons de cellule qui l'informent de leur projet d'évasion.",
-          "status": 0,
+          "commentaire": "Jacques Becker est le plus grand cinéaste français _classique_ de l'après-guerre. Il a beaucoup appris de Jean Renoir mais possède en plus une efficacité et une minutie qui n'appartiennent qu'à lui et donnent à sa _façon_ une résonnance proprement hollywoodienne. Son dernier film, terminé malgré la maladie, est un sommet de style en même temps qu'une gageure : un autoportrait collectif de son auteur. — F.B.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 5408,
@@ -11011,7 +11008,7 @@
       ]
     },
     {
-      "idSeance": 134206,
+      "idSeance": 134219,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -11021,36 +11018,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 29890,
+      "idEvenement": 30020,
       "typeEvenement": 13,
       "dateHeure": "2024-10-27T14:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 59914,
-          "titre": "True Lies",
+          "idFilm": 30822,
+          "titre": "Abyss",
+          "titreVo": "Abyss",
+          "artVo": "The",
           "realisateurs": "James Cameron",
-          "annee": 1994,
-          "duree": 141,
-          "generique": "Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold",
-          "miniTexte": "James Cameron adapte le scénario de _La Totale !_ de Claude Zidi dans un film d'aventures doublé d'une comédie conjugale : espion d'élite pour le gouvernement américain, Harry Tasker tient sa femme à l'écart de ses activités. Un duo au sommet pour Arnold Schwarzenegger et Jamie Lee Curtis (récompensée par un Golden Globe), pur divertissement enlevé et énergique où les incontournables quiproquos alternent avec des scènes d'action ébouriffantes.",
+          "annee": 1989,
+          "duree": 171,
+          "generique": "Ed Harris, Mary Elizabeth Mastrantonio, Michael Biehn",
+          "miniTexte": "Budget considérable, innovations technologiques, effets spéciaux enchanteurs : Cameron, au sommet à Hollywood après _Terminator_ et _Aliens, le retour_, déploie tout son génie dans un huis clos à plus de 7 000 mètres de fond. L'équipage d'une plateforme de forage est envoyé en mission de sauvetage auprès d'un sous-marin nucléaire en perdition au bord d'un abysse. Un blockbuster puissant et poétique, qui convoque Kubrick et _2001_, explore les peurs primales et fustige la bêtise humaine. Un sommet de science-fiction, pour une rencontre du troisième type en apnée.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 24364,
-              "duree": 141,
-              "format": "35 mm",
+              "idCopie": 27261,
+              "duree": 171,
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 27635,
-              "duree": 141,
-              "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 10644
+          "idFilmBoxoffice": 4992
         }
       ]
     },
@@ -14197,6 +14191,7 @@
           "generique": "Karlheinz Böhm, Anna Massey, Maxine Audley",
           "synopsis": "Un photographe tue ses modèles avec un stylet installé dans son trépied. Il filme la scène, cherchant ainsi à capturer le visage de la peur.",
           "miniTexte": "Sorti la même année que _Psychose_, _Le Voyeur_ est le premier long métrage de Powell réalisé sans la collaboration d'Emeric Pressburger, mais marque aussi le déclin de sa carrière après le scandale suscité par le film. Jugé choquant et malsain à l'époque, – c'est l'un des premiers à parler des _snuff movies_ – il met en scène un caméraman obsédé par la captation de la mort sur pellicule. Véritable méditation sur la magie de la caméra et la toute-puissance de l'artiste, il brille par sa construction en abîme aux allures de vertige visuel, qui bascule de la pathologie à l'illusion.",
+          "commentaire": "Entre deux films de série sans grand intérêt, ce brillant formaliste qu'est Michael Powell dévoile d'un coup ses obsessions érotiques les plus morbides, dans un chatoiement de formes et de couleurs, et avec une précision qui laisse pantoise la censure britannique. Métaphore évidente, presque trop, du cinéma sur son versant le plus glauque, _Le Voyeur_ s'inspire de _M le Maudit_ pour l'étude clinique d'un criminel. Mais celui de Powell a été littéralement dressé pour tuer... — F.B.",
           "status": 2,
           "copies": [
             {
@@ -15830,6 +15825,7 @@
           "generique": "Karlheinz Böhm, Anna Massey, Maxine Audley",
           "synopsis": "Un photographe tue ses modèles avec un stylet installé dans son trépied. Il filme la scène, cherchant ainsi à capturer le visage de la peur.",
           "miniTexte": "Sorti la même année que _Psychose_, _Le Voyeur_ est le premier long métrage de Powell réalisé sans la collaboration d'Emeric Pressburger, mais marque aussi le déclin de sa carrière après le scandale suscité par le film. Jugé choquant et malsain à l'époque, – c'est l'un des premiers à parler des _snuff movies_ – il met en scène un caméraman obsédé par la captation de la mort sur pellicule. Véritable méditation sur la magie de la caméra et la toute-puissance de l'artiste, il brille par sa construction en abîme aux allures de vertige visuel, qui bascule de la pathologie à l'illusion.",
+          "commentaire": "Entre deux films de série sans grand intérêt, ce brillant formaliste qu'est Michael Powell dévoile d'un coup ses obsessions érotiques les plus morbides, dans un chatoiement de formes et de couleurs, et avec une précision qui laisse pantoise la censure britannique. Métaphore évidente, presque trop, du cinéma sur son versant le plus glauque, _Le Voyeur_ s'inspire de _M le Maudit_ pour l'étude clinique d'un criminel. Mais celui de Powell a été littéralement dressé pour tuer... — F.B.",
           "status": 2,
           "copies": [
             {
