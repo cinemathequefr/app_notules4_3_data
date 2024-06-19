@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-19T14:03:23.500Z",
+  "updatedAt": "2024-06-19T15:21:26.078Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1683,9 +1683,10 @@
           "titre": "Plus qu'hier, moins que demain",
           "realisateurs": "Laurent Achard",
           "annee": 1998,
+          "dureeStd": 86,
           "duree": 86,
           "generique": "Martin Mihelich, Laëtitia Legrix, Mireille Roussel",
-          "miniTexte": "Une jeune fille, écouteurs sur les oreilles, fredonne un tube de Vanessa Paradis. Elle rêve d'ailleurs, loin de sa petite ville de province. Sans jamais s'enferrer dans le piège de la chronique naturaliste, Laurent Achard raconte les secrets familiaux, les pères absents, l'inceste que tout le monde préfèrerait taire. Son art est sûr, celui de la pure mise en scène, jeu savant de plans séquences et de hors champs affiné dans ses premiers courts métrages.",
+          "miniTexte": "Une jeune fille, écouteurs sur les oreilles, fredonne un tube de Vanessa Paradis. Elle rêve d'ailleurs, loin de sa petite ville de province. Sans jamais s'enferrer dans le piège de la chronique naturaliste, Laurent Achard raconte les secrets familiaux, les pères absents, l'inceste que tout le monde préfèrerait taire. Son art est sûr, celui de la pure mise en scène, jeu savant de plans-séquences et de hors-champs affiné dans ses premiers courts métrages.",
           "status": 2,
           "copies": [
             {
@@ -1840,7 +1841,7 @@
       ]
     },
     {
-      "idSeance": 133871,
+      "idSeance": 134227,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -1946,8 +1947,7 @@
           ],
           "idFilmBoxoffice": 109954
         }
-      ],
-      "mention": "Séance présentée par Philippe Grivel, Frank Beauvais et Martial Salomon"
+      ]
     },
     {
       "idSeance": 133889,
@@ -2332,114 +2332,56 @@
       ]
     },
     {
-      "idSeance": 133952,
+      "idSeance": 134228,
       "idProg": 182,
       "idCycleCategories": [
         {
           "idCycle": 787,
-          "idCategorie": 3374,
+          "idCategorie": 3375,
           "titreCycle": "Laurent Achard",
-          "titreSousCycle": "Courts métrages"
+          "titreSousCycle": "Documentaires sur le cinéma"
         }
       ],
-      "idEvenement": 31223,
+      "idEvenement": 31222,
       "typeEvenement": 13,
       "dateHeure": "2024-09-11T18:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 75543,
-          "titre": "Qu'en savent les morts ?",
+          "idFilm": 76313,
+          "titre": "Une odeur de géranium",
           "realisateurs": "Laurent Achard",
-          "annee": 1990,
-          "duree": 5,
-          "generique": "Laurence Côte, René Rabreau",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28228,
-              "duree": 5,
-              "format": "35 mm"
-            }
-          ],
-          "idFilmBoxoffice": 60534
-        },
-        {
-          "ordre": 2,
-          "idFilm": 76312,
-          "titre": "Dimanche ou les fantômes",
-          "realisateurs": "Laurent Achard",
-          "annee": 1994,
+          "annee": 1997,
           "duree": 30,
-          "generique": "Olivia Bouet-Willaumez, Julien Rivière, Pierre Lhuillier",
+          "generique": "Babet Ferrier, Vincent Taveau, Jérôme Le Paulmier",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28227,
-              "duree": 30
-            }
-          ],
-          "idFilmBoxoffice": 10177
-        },
-        {
-          "ordre": 3,
-          "idFilm": 121778,
-          "titre": "Tableau",
-          "art": "Le",
-          "realisateurs": "Laurent Achard",
-          "annee": 2012,
-          "duree": 30,
-          "generique": "Thérèse Roussel, Fred Personne, Pascal Cervo",
-          "synopsis": "Au crépuscule de leur vie, Odile et Marcèle s'aiment toujours. Atteinte d'une maladie incurable, Odile doit être hospitalisée. Le temps d'un dernier dimanche, ils revoient les gens qu'ils aiment.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 3173,
+              "idCopie": 28229,
               "duree": 30,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 225688
-        },
-        {
-          "ordre": 4,
-          "idFilm": 154889,
-          "titre": "De ma fenêtre",
-          "realisateurs": "Laurent Achard",
-          "annee": 2021,
-          "duree": 3,
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28251,
-              "duree": 3,
-              "format": "DCP"
+              "format": "35 mm"
             }
           ]
         },
         {
-          "ordre": 5,
-          "idFilm": 91824,
-          "titre": "Peur, petit chasseur",
-          "art": "La",
+          "ordre": 2,
+          "idFilm": 154838,
+          "titre": "Un, parfois deux...",
           "realisateurs": "Laurent Achard",
-          "annee": 2003,
-          "duree": 9,
-          "generique": "Mireille Roussel, Martin Buisson, Pierre Beaux",
-          "synopsis": "À la campagne, un jour de novembre, un enfant recroquevillé n'ose pas rentrer dans sa maison. Il attend que sa mère le rejoigne dans le jardin.",
+          "annee": 2016,
+          "duree": 52,
           "status": 2,
           "copies": [
             {
-              "idCopie": 26874,
-              "duree": 9,
-              "format": "35 mm"
+              "idCopie": 28027,
+              "duree": 52,
+              "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 109954
+          "idFilmBoxoffice": 270508
         }
-      ],
-      "mention": "Séance suivie d'une discussion avec Pierre Sénélas, Pascal Cervo et Mireille Roussel"
+      ]
     },
     {
       "idSeance": 133635,
@@ -3758,7 +3700,7 @@
           "idFilm": 52078,
           "titre": "Grande petite",
           "realisateurs": "Sophie Fillières",
-          "annee": 1993,
+          "annee": 1994,
           "duree": 105,
           "generique": "Judith Godrèche, Hélène Fillières, Emmanuel Salinger",
           "miniTexte": "Alors qu'elle découvre un pistolet et une liasse de billets, une jeune fille, quittée ou poursuivie par les hommes de sa vie, doit trouver le sens de son existence. Pour son premier long métrage, Sophie Fillières écrit un rôle sur mesure à Judith Godrèche, parfaite d'ingénuité, dans une comédie aussi ubuesque que fantaisiste.",
@@ -4401,7 +4343,7 @@
           "idFilm": 97823,
           "titre": "Gentille",
           "realisateurs": "Sophie Fillières",
-          "annee": 2004,
+          "annee": 2005,
           "duree": 102,
           "generique": "Emmanuelle Devos, Lambert Wilson, Bruno Todeschini",
           "miniTexte": "Une anesthésiste (Emmanuelle Devos, follement désinvolte) hésite entre accepter la demande en mariage de son compagnon et vivre une histoire d'amour avec l'un de ses patients. Sur un canevas attendu, Sophie Fillières dynamite les codes avec une comédie surprenante, influencée par Rohmer et son amour de la parole. Loin du film romantique ou du drame passionnel, lapsus, quiproquos et dialogues incisifs font le sel d'une œuvre décalée, qui privilégie le surréalisme pour raconter les élans tortueux du désir.",
@@ -4604,7 +4546,7 @@
           "idFilm": 69656,
           "titre": "Aïe",
           "realisateurs": "Sophie Fillières",
-          "annee": 1999,
+          "annee": 2000,
           "duree": 113,
           "generique": "André Dussollier, Hélène Fillières, Emmanuelle Devos",
           "miniTexte": "Sur une idée surréaliste – un quinquagénaire perdu rencontre une serveuse qui lui propose de tomber amoureuse de lui –, Sophie Fillières imagine une romance saugrenue aux dialogues piquants, et soigne la psychologie de ses personnages. Avec André Dussollier, irrésistiblement lunaire face à Hélène Fillières.",
@@ -4840,7 +4782,7 @@
           "realisateurs": "Sophie Fillières",
           "annee": 1987,
           "duree": 5,
-          "miniTexte": "Le second court métrage de Sophie Fillières, alors en formation à la Fémis, un docu-fiction sur les trous dans les portes présents dans les vestiaires de piscine.",
+          "miniTexte": "Le second court métrage de Sophie Fillières, alors étudiante à la Fémis, un docu-fiction sur les trous dans les portes des vestiaires de piscine.",
           "status": 2,
           "copies": [
             {
@@ -4910,7 +4852,7 @@
         {
           "ordre": 6,
           "idFilm": 154876,
-          "titre": "Nathalie Moretti ...",
+          "titre": "Nathalie Moretti...",
           "realisateurs": "Sophie Fillières",
           "annee": 2006,
           "duree": 6,
@@ -4928,10 +4870,10 @@
         {
           "ordre": 7,
           "idFilm": 154877,
-          "titre": "Véritée zébrée",
+          "titre": "Vérité zébrée",
           "art": "La",
           "realisateurs": "Sophie Fillières",
-          "annee": 2015,
+          "annee": 2008,
           "duree": 10,
           "generique": "Hélène Fillières",
           "miniTexte": "Une trentenaire reçoit une chaise étrange de la part de ses parents, en guise de cadeau d'anniversaire. Un court métrage surréaliste, où Sophie Fillières dirige, une nouvelle fois, sa sœur, Hélène Fillières.",
@@ -4969,7 +4911,7 @@
           "idFilm": 106995,
           "titre": "Un chat, un chat",
           "realisateurs": "Sophie Fillières",
-          "annee": 2008,
+          "annee": 2009,
           "duree": 105,
           "generique": "Chiara Mastroianni, Agathe Bonitzer, Malik Zidi",
           "miniTexte": "Une écrivaine en panne d'inspiration est harcelée par une fan qui tente de lui redonner l'envie d'écrire. Fidèle à son attachement pour les héroïnes perturbées, Sophie Fillières offre un rôle décalé, de répliques affûtées en situations cocasses, à Chiara Mastroianni, hilarante de maladresse.",
@@ -5098,7 +5040,7 @@
           "idFilm": 122494,
           "titre": "Arrête ou je continue",
           "realisateurs": "Sophie Fillières",
-          "annee": 2013,
+          "annee": 2014,
           "duree": 102,
           "generique": "Emmanuelle Devos, Mathieu Amalric, Anne Brochet",
           "synopsis": "Pomme et Pierre, couple de longue date, sont confrontés à une crise qui menace leur relation.",
