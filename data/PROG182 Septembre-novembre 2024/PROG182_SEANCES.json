@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-19T12:35:13.291Z",
+  "updatedAt": "2024-06-19T14:03:23.500Z",
   "data": [
     {
       "idSeance": 130975,
@@ -8355,7 +8355,7 @@
       ]
     },
     {
-      "idSeance": 134222,
+      "idSeance": 134225,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -8365,7 +8365,7 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31134,
+      "idEvenement": 31234,
       "typeEvenement": 13,
       "dateHeure": "2024-10-12T17:15:00",
       "idSalle": "HL",
@@ -9266,6 +9266,8 @@
       "typeConference": "Conférence",
       "idSalle": "GF",
       "duree": 90,
+      "idSeanceAssoc": 134224,
+      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -9309,15 +9311,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 20754,
+              "idCopie": 28398,
               "duree": 90,
-              "format": "35 mm",
-              "version": "VO"
-            },
-            {
-              "idCopie": 28312,
-              "duree": 90,
-              "format": "16 mm"
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 54215
@@ -9325,7 +9323,7 @@
       ]
     },
     {
-      "idSeance": 134041,
+      "idSeance": 134224,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -9335,32 +9333,35 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31134,
+      "idEvenement": 31235,
       "typeEvenement": 13,
       "dateHeure": "2024-10-18T21:15:00",
       "idSalle": "GF",
+      "idSeanceAssoc": 133998,
+      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
-          "idFilm": 41966,
-          "titre": "Disque rouge",
+          "idFilm": 41957,
+          "titre": "Chemin de l'espérance",
           "art": "Le",
-          "titreVo": "Ferroviere",
+          "titreVo": "Cammino della speranza",
           "artVo": "Il",
           "realisateurs": "Pietro Germi",
-          "annee": 1955,
-          "duree": 114,
-          "generique": "Pietro Germi, Luisa Della Noce, Sylva Koscina",
-          "miniTexte": "Pietro Germi se met en scène dans le rôle d'un cheminot responsable d'un terrible accident de train. Plus proche des personnages que des luttes sociales d'un pays en pleine modernisation, le cinéaste dresse un portrait cruel du monde ouvrier, à travers le regard d'un petit garçon qui, devant la déchéance de son père, cherche à retrouver l'unité familiale.",
+          "annee": 1950,
+          "duree": 99,
+          "generique": "Raf Vallone, Elena Varzi, Saro Urzi",
+          "adaptation": "D'après le roman _Cuori negli abissi_ de Nino Di Maria.",
+          "miniTexte": "Le parcours d'un groupe de Siciliens vers la France, après la fermeture de la mine du village. Dans un geste néoréaliste, Pietro Germi filme l'exode italien de l'après-guerre, des promesses d'un passeur jusqu'aux cruelles désillusions. Habillé des plus beaux atours du mélodrame, _Le Chemin de l'espérance_ se voit comme une version italienne des _Raisins de la colère_ de John Ford.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28361,
-              "duree": 114,
+              "idCopie": 28292,
+              "duree": 99,
               "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 125474
+          "idFilmBoxoffice": 34090
         }
       ]
     },
@@ -10262,6 +10263,7 @@
           "titreVo": "Death Race 2000",
           "realisateurs": "Paul Bartel",
           "annee": 1975,
+          "duree": 80,
           "generique": "David Carradine, Sylvester Stallone, Simone Griffeth",
           "adaptation": "D'après la nouvelle _Le Pilote_ d'Ib Melchior.",
           "miniTexte": "Une course automobile intercontinentale aux règles anarchiques – écraser des enfants ou des vieillards permet d'encaisser des bonus – oppose Machine Gun Joe Viterbo à quatre autres pilotes. Du pain, des jeux, et des bolides : l'uchronie déjantée de Paul Bartel, au fort sous-texte politique, se révèle aujourd'hui visionnaire. Une petite bombe vrombissante avec David Carradine et un tout jeune Sylvester Stallone.",
@@ -10269,12 +10271,12 @@
           "copies": [
             {
               "idCopie": 28305,
-              "duree": 0,
+              "duree": 80,
               "format": "35 mm"
             },
             {
               "idCopie": 28304,
-              "duree": 0,
+              "duree": 80,
               "format": "16 mm"
             }
           ],
