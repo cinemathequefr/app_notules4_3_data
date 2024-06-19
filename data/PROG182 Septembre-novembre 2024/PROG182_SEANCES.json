@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-18T15:06:17.853Z",
+  "updatedAt": "2024-06-19T09:29:45.211Z",
   "data": [
     {
       "idSeance": 130975,
@@ -2875,7 +2875,7 @@
           "ordre": 1,
           "idFilm": 31387,
           "titre": "Madame porte la culotte",
-          "titreVo": "Adam's rib",
+          "titreVo": "Adam's Rib",
           "realisateurs": "George Cukor",
           "annee": 1949,
           "duree": 101,
@@ -2965,7 +2965,7 @@
           "realisateurs": "Abel Gance",
           "annee": 1916,
           "duree": 71,
-          "generique": "Léon Mathot, Emile Keppens, Henri Maillard, Maud Richard",
+          "generique": "Léon Mathot, Émile Keppens, Henri Maillard, Maud Richard",
           "miniTexte": "Première Guerre mondiale, un scientifique est sollicité par le gouvernement français pour élaborer des substances toxiques afin de les utiliser contre l'ennemi. Également connu sous le titre _Les Brouillards sur la ville_, un drame d'espionnage photographié par Léonce-Henri Burel, opérateur attitré d'Abel Gance puis de Robert Bresson.",
           "status": 1,
           "copies": [
@@ -3119,7 +3119,7 @@
       ],
       "idEvenement": 30848,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-14T19:45:00",
+      "dateHeure": "2024-09-14T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4022,6 +4022,49 @@
       ]
     },
     {
+      "idSeance": 134186,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30087,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-20T17:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48660,
+          "titre": "Poliche",
+          "realisateurs": "Abel Gance",
+          "annee": 1934,
+          "duree": 89,
+          "generique": "Constant Rémy, Marie Bell, Alexander D'Arcy",
+          "adaptation": "D'après la pièce _Poliche_ d'Henry Bataille.",
+          "miniTexte": "Version larmoyante à succès d'une pièce d'Henry Bataille. L'une des œuvres commerciales de Gance, qui voit un homme souffrir d'amour pour la belle Rosine, laquelle en préfère un autre.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28112,
+              "duree": 89,
+              "format": "16 mm"
+            },
+            {
+              "idCopie": 28113,
+              "duree": 90,
+              "format": "16 mm"
+            }
+          ],
+          "idFilmBoxoffice": 26417
+        }
+      ]
+    },
+    {
       "idSeance": 131611,
       "idProg": 182,
       "idCycleCategories": [
@@ -4107,90 +4150,6 @@
       "mention": "Séance présentée par Jean A. Gili"
     },
     {
-      "idSeance": 134186,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30087,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-20T18:30:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48660,
-          "titre": "Poliche",
-          "realisateurs": "Abel Gance",
-          "annee": 1934,
-          "duree": 89,
-          "generique": "Constant Rémy, Marie Bell, Alexander D'Arcy",
-          "adaptation": "D'après la pièce _Poliche_ d'Henry Bataille.",
-          "miniTexte": "Version larmoyante à succès d'une pièce d'Henry Bataille. L'une des œuvres commerciales de Gance, qui voit un homme souffrir d'amour pour la belle Rosine, laquelle en préfère un autre.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28112,
-              "duree": 89,
-              "format": "16 mm"
-            },
-            {
-              "idCopie": 28113,
-              "duree": 90,
-              "format": "16 mm"
-            }
-          ],
-          "idFilmBoxoffice": 26417
-        }
-      ]
-    },
-    {
-      "idSeance": 131612,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30701,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-20T20:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 31384,
-          "titre": "Actress",
-          "art": "The",
-          "realisateurs": "George Cukor",
-          "annee": 1953,
-          "duree": 90,
-          "generique": "Spencer Tracy, Jean Simmons, Teresa Wright",
-          "adaptation": "D'après la pièce _Years Ago_ de Ruth Gordon.",
-          "miniTexte": "Les rêves d'évasion d'une jeune fille, déterminée à devenir comédienne, qui se heurte aux réticences de son père inquiet. D'après la pièce autobiographique de l'actrice/scénariste Ruth Gordon (la future voisine maléfique de _Rosemary's Baby_), et avec Anthony Perkins dans son premier rôle au cinéma.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28367,
-              "duree": 90,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 2249
-        }
-      ]
-    },
-    {
       "idSeance": 131615,
       "idProg": 182,
       "idCycleCategories": [
@@ -4203,7 +4162,7 @@
       ],
       "idEvenement": 30074,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-20T20:30:00",
+      "dateHeure": "2024-09-20T19:30:00",
       "idSalle": "JE",
       "items": [
         {
@@ -4286,6 +4245,47 @@
               "duree": 15
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 131612,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30701,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-20T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31384,
+          "titre": "Actress",
+          "art": "The",
+          "realisateurs": "George Cukor",
+          "annee": 1953,
+          "duree": 90,
+          "generique": "Spencer Tracy, Jean Simmons, Teresa Wright",
+          "adaptation": "D'après la pièce _Years Ago_ de Ruth Gordon.",
+          "miniTexte": "Les rêves d'évasion d'une jeune fille, déterminée à devenir comédienne, qui se heurte aux réticences de son père inquiet. D'après la pièce autobiographique de l'actrice/scénariste Ruth Gordon (la future voisine maléfique de _Rosemary's Baby_), et avec Anthony Perkins dans son premier rôle au cinéma.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28367,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 2249
         }
       ]
     },
@@ -4763,7 +4763,7 @@
       ],
       "idEvenement": 30855,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-22T17:45:00",
+      "dateHeure": "2024-09-22T17:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4955,7 +4955,7 @@
       ],
       "idEvenement": 30907,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-22T20:45:00",
+      "dateHeure": "2024-09-22T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -5001,7 +5001,7 @@
       ],
       "idEvenement": 30853,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-22T21:00:00",
+      "dateHeure": "2024-09-22T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -5167,6 +5167,46 @@
         }
       ],
       "mention": "Séance suivie d'une discussion avec Francisco Rodriguez Teare"
+    },
+    {
+      "idSeance": 134220,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3442,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Avant-première Payal Kapadia"
+        }
+      ],
+      "idEvenement": 31231,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-23T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 43,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154926,
+          "titre": "All We Imagine As Light",
+          "realisateurs": "Payal Kapadia",
+          "annee": 2024,
+          "duree": 115,
+          "generique": "Kani Kurusti, Divya Prabha, Chhaya Kadam, Hridhu Haroon",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28396,
+              "duree": 115,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 290444
+        }
+      ],
+      "mention": "Avant-première. Séance présentée par Payal Kapadia"
     },
     {
       "idSeance": 133717,
@@ -6228,7 +6268,7 @@
           "ordre": 1,
           "idFilm": 31387,
           "titre": "Madame porte la culotte",
-          "titreVo": "Adam's rib",
+          "titreVo": "Adam's Rib",
           "realisateurs": "George Cukor",
           "annee": 1949,
           "duree": 101,
@@ -8817,7 +8857,7 @@
           "titreSousCycle": "Yuna Alonzo"
         }
       ],
-      "idEvenement": 31208,
+      "idEvenement": 31228,
       "typeEvenement": 13,
       "dateHeure": "2024-10-14T19:00:00",
       "idSalle": "JE",
@@ -8837,6 +8877,31 @@
               "format": "DCP"
             }
           ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 44574,
+          "titre": "Ruines",
+          "art": "Les",
+          "titreVo": "Khandhar",
+          "titreNx": "कंधार",
+          "realisateurs": "Mrinal Sen",
+          "annee": 1984,
+          "dureeStd": 102,
+          "duree": 102,
+          "generique": "Shabana Azmi, Naseeruddin Shah, Gita Sen, Pankaj Kapoor",
+          "adaptation": "D'après le roman _Khandar_ de Premendra Mitra.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28393,
+              "duree": 102,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 137277
         }
       ]
     },
@@ -11167,7 +11232,7 @@
       ]
     },
     {
-      "idSeance": 132599,
+      "idSeance": 133901,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -11177,41 +11242,38 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21654,
+      "idEvenement": 21700,
       "typeEvenement": 13,
       "dateHeure": "2024-10-27T18:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 42009,
-          "titre": "Espion noir",
-          "art": "L'",
-          "titreVo": "Spy in Black",
-          "artVo": "The",
-          "realisateurs": "Michael Powell",
-          "annee": 1939,
-          "duree": 82,
-          "generique": "Conrad Veidt, Sebastian Shaw, Valerie Hobson",
-          "adaptation": "D'après le roman _The Spy in Black_ de Joseph Storer Clouston.",
-          "miniTexte": "Première collaboration entre Powell et son fidèle comparse, Emeric Pressburger, crédité comme scénariste. Dans cette adaptation du roman de Joseph Storer Clouston, le cinéaste adopte le point de vue de l'ennemi allemand et multiplie les rebondissements, loin de tout manichéisme. Un classique du film d'espionnage, porté par la fantastique prestation de Conrad Veidt (_Le Cabinet du docteur Caligari_).",
+          "idFilm": 41083,
+          "titre": "Une question de vie ou de mort",
+          "titreVo": "A Matter of Life and Death",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1946,
+          "duree": 104,
+          "generique": "David Niven, Kim Hunter, Marius Goring",
+          "synopsis": "Alors que son bombardier prend feu, le commandant Peter Carter s'en sort indemne. Peu de temps après, son guide céleste vient néanmoins le trouver, lui expliquant qu'il n'est pas parvenu à le trouver dans le brouillard. Il tente alors de le convaincre de le suivre au paradis.",
+          "miniTexte": "Pendant la Seconde Guerre mondiale, un aviateur en détresse obtient un sursis de l'univers pour retrouver la femme dont il vient de tomber amoureux. Powell réussit miraculeusement à transformer le film de propagande en romance merveilleuse. Une célébration de la toute-puissance des sentiments, où le fantastique rencontre l'espoir et le hasard.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 20207,
-              "duree": 82,
-              "format": "35 mm",
+              "idCopie": 20223,
+              "duree": 104,
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             },
             {
-              "idCopie": 3945,
-              "duree": 82,
-              "format": "35 mm",
-              "version": "VO"
+              "idCopie": 28390,
+              "duree": 104,
+              "format": "35 mm"
             }
           ],
-          "idFilmBoxoffice": 8130
+          "idFilmBoxoffice": 4302
         }
       ]
     },
@@ -11290,7 +11352,7 @@
       ]
     },
     {
-      "idSeance": 133901,
+      "idSeance": 132599,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -11300,38 +11362,41 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21700,
+      "idEvenement": 21654,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-27T20:00:00",
+      "dateHeure": "2024-10-27T20:15:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 41083,
-          "titre": "Une question de vie ou de mort",
-          "titreVo": "A Matter of Life and Death",
-          "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1946,
-          "duree": 104,
-          "generique": "David Niven, Kim Hunter, Marius Goring",
-          "synopsis": "Alors que son bombardier prend feu, le commandant Peter Carter s'en sort indemne. Peu de temps après, son guide céleste vient néanmoins le trouver, lui expliquant qu'il n'est pas parvenu à le trouver dans le brouillard. Il tente alors de le convaincre de le suivre au paradis.",
-          "miniTexte": "Pendant la Seconde Guerre mondiale, un aviateur en détresse obtient un sursis de l'univers pour retrouver la femme dont il vient de tomber amoureux. Powell réussit miraculeusement à transformer le film de propagande en romance merveilleuse. Une célébration de la toute-puissance des sentiments, où le fantastique rencontre l'espoir et le hasard.",
+          "idFilm": 42009,
+          "titre": "Espion noir",
+          "art": "L'",
+          "titreVo": "Spy in Black",
+          "artVo": "The",
+          "realisateurs": "Michael Powell",
+          "annee": 1939,
+          "duree": 82,
+          "generique": "Conrad Veidt, Sebastian Shaw, Valerie Hobson",
+          "adaptation": "D'après le roman _The Spy in Black_ de Joseph Storer Clouston.",
+          "miniTexte": "Première collaboration entre Powell et son fidèle comparse, Emeric Pressburger, crédité comme scénariste. Dans cette adaptation du roman de Joseph Storer Clouston, le cinéaste adopte le point de vue de l'ennemi allemand et multiplie les rebondissements, loin de tout manichéisme. Un classique du film d'espionnage, porté par la fantastique prestation de Conrad Veidt (_Le Cabinet du docteur Caligari_).",
           "status": 2,
           "copies": [
             {
-              "idCopie": 20223,
-              "duree": 104,
-              "format": "DCP",
+              "idCopie": 20207,
+              "duree": 82,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             },
             {
-              "idCopie": 28390,
-              "duree": 104,
-              "format": "35 mm"
+              "idCopie": 3945,
+              "duree": 82,
+              "format": "35 mm",
+              "version": "VO"
             }
           ],
-          "idFilmBoxoffice": 4302
+          "idFilmBoxoffice": 8130
         }
       ]
     },
@@ -12820,7 +12885,7 @@
       ],
       "idEvenement": 21658,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-06T20:15:00",
+      "dateHeure": "2024-11-06T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -14565,7 +14630,7 @@
         {
           "ordre": 1,
           "idConf": 31048,
-          "idTypeConf": 55,
+          "idTypeConf": 16,
           "titre": "Le Technicolor",
           "duree": 90
         }
@@ -14976,7 +15041,7 @@
           "idFilmBoxoffice": 1334
         }
       ],
-      "mention": "Séance présentée par Antoine Sire"
+      "mention": "Séance présentée par Antoine Sire et Souad Amidou"
     },
     {
       "idSeance": 134189,
@@ -15188,7 +15253,7 @@
           "idFilmBoxoffice": 268175
         }
       ],
-      "mention": "Séance présentée par Antoine Sire et Marianne Denicourt"
+      "mention": "Séance présentée par Antoine Sire, Souad Amidou et Marianne Denicourt"
     },
     {
       "idSeance": 133842,
@@ -15545,8 +15610,7 @@
               "duree": 111,
               "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 4318
