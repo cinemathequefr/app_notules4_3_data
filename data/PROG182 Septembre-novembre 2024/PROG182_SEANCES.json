@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-19T15:21:26.078Z",
+  "updatedAt": "2024-06-20T07:50:19.804Z",
   "data": [
     {
       "idSeance": 130975,
@@ -4442,9 +4442,12 @@
           "idFilmBoxoffice": 6798
         },
         {
-          "idFilm": 154928,
-          "titre": "NAPOLÉON : DANSES, GALOPS",
           "ordre": 4,
+          "idFilm": 154928,
+          "titre": "Napoléon : danses, galops",
+          "realisateurs": "Abel Gance",
+          "annee": 1927,
+          "status": 0,
           "copies": []
         }
       ]
@@ -12602,9 +12605,13 @@
       "typeSeance": 43,
       "items": [
         {
-          "idFilm": 154927,
-          "titre": "GRAND TOUR",
           "ordre": 1,
+          "idFilm": 154927,
+          "titre": "Grand Tour",
+          "realisateurs": "Miguel Gomes",
+          "annee": 2024,
+          "duree": 129,
+          "status": 0,
           "copies": [
             {
               "idCopie": 28397,
@@ -12612,8 +12619,7 @@
               "format": "DCP",
               "version": "VO"
             }
-          ],
-          "duree": 129
+          ]
         }
       ],
       "mention": "Avant-première"
@@ -14658,46 +14664,6 @@
             }
           ],
           "idFilmBoxoffice": 187833
-        }
-      ]
-    },
-    {
-      "idSeance": 133855,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 476,
-          "idCategorie": 2201,
-          "titreCycle": "Michael Powell",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 21698,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-15T20:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 86567,
-          "titre": "Wild Heart",
-          "art": "The",
-          "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1952,
-          "duree": 82,
-          "generique": "Jennifer Jones, Esmond Knight, David Farrar",
-          "adaptation": "D'après le roman _La Renarde_ de Mary Webb.",
-          "miniTexte": "Nouvelle version de _La Renarde_, à la suite d'un désaccord des réalisateurs avec le producteur David O. Selznick, qui souhaite une nouvelle version pour le public américain.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 27064,
-              "duree": 82,
-              "format": "16 mm",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 140474
         }
       ]
     },
