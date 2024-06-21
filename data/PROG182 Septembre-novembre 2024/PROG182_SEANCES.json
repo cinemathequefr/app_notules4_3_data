@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-21T09:22:07.091Z",
+  "updatedAt": "2024-06-21T09:30:38.148Z",
   "data": [
     {
       "idSeance": 130975,
@@ -5071,12 +5071,11 @@
         {
           "ordre": 1,
           "idFilm": 154899,
-          "titre": "luna de hierro",
-          "art": "Una",
+          "titre": "Una luna de hierro",
           "realisateurs": "Francisco Rodriguez Teare",
           "annee": 2017,
           "duree": 28,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28339,
@@ -8816,9 +8815,9 @@
           "titre": "Captive",
           "art": "La",
           "realisateurs": "Chantal Akerman",
-          "annee": 1999,
+          "annee": 2000,
           "duree": 108,
-          "generique": "Stanislas Merhar, Sylvie Testud",
+          "generique": "Stanislas Merhar, Sylvie Testud, Olivia Bonamy",
           "adaptation": "D'après le roman _La Prisonnière_ de Marcel Proust.",
           "synopsis": "Simon vit avec Ariane. Amoureux et jaloux, il la fait surveiller.",
           "status": 2,
@@ -8828,7 +8827,8 @@
               "duree": 108,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 24733
         },
         {
           "ordre": 2,
