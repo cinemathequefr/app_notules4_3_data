@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-21T08:21:54.881Z",
+  "updatedAt": "2024-06-21T09:22:07.091Z",
   "data": [
     {
       "idSeance": 130975,
@@ -965,7 +965,7 @@
       ]
     },
     {
-      "idSeance": 139444,
+      "idSeance": 139448,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -975,7 +975,7 @@
           "titreSousCycle": "Mathieu Morel"
         }
       ],
-      "idEvenement": 31215,
+      "idEvenement": 31286,
       "typeEvenement": 13,
       "dateHeure": "2024-09-02T19:00:00",
       "idSalle": "JE",
@@ -7424,6 +7424,7 @@
       "typeEvenement": 13,
       "dateHeure": "2024-10-06T20:00:00",
       "idSalle": "GF",
+      "typeSeance": 43,
       "items": [
         {
           "ordre": 1,
@@ -7461,7 +7462,7 @@
           ]
         }
       ],
-      "mention": "Séance suivie d'une discussion avec Marin Karmitz et Romain Goupil"
+      "mention": "Avant-première. Séance suivie d'une discussion avec Marin Karmitz et Romain Goupil"
     },
     {
       "idSeance": 133819,
@@ -7564,6 +7565,7 @@
       "dateHeure": "2024-10-07T19:00:00",
       "idSalle": "JE",
       "theorique": true,
+      "mention": "Séance présentée par Jean-Christophe Berjon",
       "items": []
     },
     {
@@ -8793,63 +8795,63 @@
       ]
     },
     {
-      "idSeance": 132243,
+      "idSeance": 139445,
       "idProg": 182,
       "idCycleCategories": [
         {
           "idCycle": 140,
-          "idCategorie": 3433,
+          "idCategorie": 3441,
           "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "Yuna Alonzo"
+          "titreSousCycle": "Laura Tuillier"
         }
       ],
-      "idEvenement": 31228,
+      "idEvenement": 31230,
       "typeEvenement": 13,
       "dateHeure": "2024-10-14T19:00:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154918,
-          "titre": "Te quiero ma Vahiné",
-          "realisateurs": "Yuna Alonzo",
-          "annee": 2024,
-          "duree": 33,
-          "status": 0,
+          "idFilm": 69094,
+          "titre": "Captive",
+          "art": "La",
+          "realisateurs": "Chantal Akerman",
+          "annee": 1999,
+          "duree": 108,
+          "generique": "Stanislas Merhar, Sylvie Testud",
+          "adaptation": "D'après le roman _La Prisonnière_ de Marcel Proust.",
+          "synopsis": "Simon vit avec Ariane. Amoureux et jaloux, il la fait surveiller.",
+          "status": 2,
           "copies": [
             {
-              "idCopie": 28375,
-              "duree": 33,
+              "idCopie": 28394,
+              "duree": 108,
               "format": "DCP"
             }
           ]
         },
         {
           "ordre": 2,
-          "idFilm": 44574,
-          "titre": "Ruines",
-          "art": "Les",
-          "titreVo": "Khandhar",
-          "titreNx": "कंधार",
-          "realisateurs": "Mrinal Sen",
-          "annee": 1984,
-          "dureeStd": 102,
-          "duree": 102,
-          "generique": "Shabana Azmi, Naseeruddin Shah, Gita Sen, Pankaj Kapoor",
-          "adaptation": "D'après le roman _Khandar_ de Premendra Mitra.",
+          "idFilm": 154925,
+          "titre": "Cœur ailleurs",
+          "art": "Le",
+          "realisateurs": "Laura Tuillier",
+          "annee": 2023,
+          "dureeStd": 43,
+          "duree": 42,
+          "generique": "Stanislas Merhar",
+          "synopsis": "C'est l'histoire d'un comédien qui s'entraîne, d'un homme qui se souvient, d'un fils qui fait son deuil. C'est aussi l'histoire d'un livre, et d'un personnage qui entre dedans. « J'ai commencé à filmer Stanislas Merhar en pensant faire le portrait d'un acteur qui s'entraîne inlassablement, en attendant de jouer. Peu à peu, le film est devenu autre chose. Il me semble qu'il témoigne aussi de mon admiration pour Marcel Proust et Chantal Akerman, et du lien que nous créons avec Stanislas autour des œuvres qui nous consolent. » (Laura Tuillier)",
           "status": 1,
           "copies": [
             {
-              "idCopie": 28393,
-              "duree": 102,
-              "format": "DCP",
-              "version": "VO",
-              "stDemande": true
+              "idCopie": 28395,
+              "duree": 42,
+              "format": "DCP"
             }
-          ],
-          "idFilmBoxoffice": 137277
+          ]
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec Laura Tuillier"
     },
     {
       "idSeance": 132274,
@@ -11225,7 +11227,8 @@
           ],
           "idFilmBoxoffice": 4302
         }
-      ]
+      ],
+      "mention": "Séance présentée par L'association Super Seven"
     },
     {
       "idSeance": 134047,
@@ -12535,58 +12538,64 @@
       ]
     },
     {
-      "idSeance": 134207,
+      "idSeance": 139447,
       "idProg": 182,
       "idCycleCategories": [
         {
           "idCycle": 140,
-          "idCategorie": 3432,
+          "idCategorie": 3433,
           "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "Mathieu Morel"
+          "titreSousCycle": "Yuna Alonzo"
         }
       ],
-      "idEvenement": 31215,
+      "idEvenement": 31289,
       "typeEvenement": 13,
       "dateHeure": "2024-11-04T19:00:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154917,
-          "titre": "Anapidae (appelle-moi)",
-          "realisateurs": "Mathieu Morel",
-          "annee": 2024,
-          "duree": 43,
+          "idFilm": 44574,
+          "titre": "Ruines",
+          "art": "Les",
+          "titreVo": "Khandhar",
+          "titreNx": "कंधार",
+          "realisateurs": "Mrinal Sen",
+          "annee": 1984,
+          "dureeStd": 102,
+          "duree": 102,
+          "generique": "Shabana Azmi, Naseeruddin Shah, Gita Sen, Pankaj Kapoor",
+          "adaptation": "D'après le roman _Khandar_ de Premendra Mitra.",
           "status": 1,
           "copies": [
             {
-              "idCopie": 28388,
-              "duree": 43,
-              "format": "DCP"
+              "idCopie": 28393,
+              "duree": 102,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 1000004561
+          "idFilmBoxoffice": 137277
         },
         {
           "ordre": 2,
-          "idFilm": 154920,
-          "titre": "Corps du délit",
-          "art": "Le",
-          "realisateurs": "Léolo Victor-Pujebet",
-          "annee": 2023,
-          "duree": 81,
-          "generique": "Mathieu Morel, Bertrand Bonello, Aurélien Deniel",
-          "status": 1,
+          "idFilm": 154918,
+          "titre": "Te quiero ma Vahiné",
+          "realisateurs": "Yuna Alonzo",
+          "annee": 2024,
+          "duree": 33,
+          "status": 0,
           "copies": [
             {
-              "idCopie": 28380,
-              "duree": 81,
+              "idCopie": 28375,
+              "duree": 33,
               "format": "DCP"
             }
-          ],
-          "idFilmBoxoffice": 321763
+          ]
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec Yuna Alonzo"
     },
     {
       "idSeance": 132797,
@@ -15765,7 +15774,8 @@
           ],
           "idFilmBoxoffice": 26177
         }
-      ]
+      ],
+      "mention": "Séance présentée par L'association Super Seven"
     },
     {
       "idSeance": 133665,
