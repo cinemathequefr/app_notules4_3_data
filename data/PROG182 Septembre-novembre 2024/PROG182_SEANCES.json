@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-20T12:10:00.375Z",
+  "updatedAt": "2024-06-21T08:21:54.881Z",
   "data": [
     {
       "idSeance": 130975,
@@ -762,7 +762,8 @@
           ],
           "idFilmBoxoffice": 4731
         }
-      ]
+      ],
+      "mention": "Séance présentée par Yola Le Caïnec"
     },
     {
       "idSeance": 133721,
@@ -964,38 +965,59 @@
       ]
     },
     {
-      "idSeance": 131127,
+      "idSeance": 139444,
       "idProg": 182,
       "idCycleCategories": [
         {
           "idCycle": 140,
-          "idCategorie": 3431,
+          "idCategorie": 3432,
           "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "Vincent Weber"
+          "titreSousCycle": "Mathieu Morel"
         }
       ],
-      "idEvenement": 31206,
+      "idEvenement": 31215,
       "typeEvenement": 13,
       "dateHeure": "2024-09-02T19:00:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154916,
-          "titre": "Un jour j'aurai une île",
-          "realisateurs": "Vincent Weber",
+          "idFilm": 154917,
+          "titre": "Anapidae (appelle-moi)",
+          "realisateurs": "Mathieu Morel",
           "annee": 2024,
-          "duree": 50,
-          "status": 0,
+          "duree": 43,
+          "status": 1,
           "copies": [
             {
-              "idCopie": 28374,
-              "duree": 50,
+              "idCopie": 28388,
+              "duree": 43,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1000004561
+        },
+        {
+          "ordre": 2,
+          "idFilm": 154920,
+          "titre": "Corps du délit",
+          "art": "Le",
+          "realisateurs": "Léolo Victor-Pujebet",
+          "annee": 2023,
+          "duree": 81,
+          "generique": "Mathieu Morel, Bertrand Bonello, Aurélien Deniel",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28380,
+              "duree": 81,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 321763
         }
-      ]
+      ],
+      "mention": "Séance présentée par Léolo Victor-Pujebet et suivie d'une discussion avec Mathieu Morel"
     },
     {
       "idSeance": 133655,
@@ -1074,7 +1096,8 @@
           ],
           "idFilmBoxoffice": 4360
         }
-      ]
+      ],
+      "mention": "Séance présentée par Yola Le Caïnec"
     },
     {
       "idSeance": 133701,
@@ -1841,17 +1864,17 @@
       ]
     },
     {
-      "idSeance": 134227,
+      "idSeance": 134233,
       "idProg": 182,
       "idCycleCategories": [
         {
           "idCycle": 787,
-          "idCategorie": 3374,
+          "idCategorie": 3375,
           "titreCycle": "Laurent Achard",
-          "titreSousCycle": "Courts métrages"
+          "titreSousCycle": "Documentaires sur le cinéma"
         }
       ],
-      "idEvenement": 31223,
+      "idEvenement": 31243,
       "typeEvenement": 13,
       "dateHeure": "2024-09-08T15:00:00",
       "idSalle": "GF",
@@ -1862,16 +1885,9 @@
           "titre": "Qu'en savent les morts ?",
           "realisateurs": "Laurent Achard",
           "annee": 1990,
-          "duree": 5,
           "generique": "Laurence Côte, René Rabreau",
           "status": 2,
-          "copies": [
-            {
-              "idCopie": 28228,
-              "duree": 5,
-              "format": "35 mm"
-            }
-          ],
+          "copies": [],
           "idFilmBoxoffice": 60534
         },
         {
@@ -1880,15 +1896,9 @@
           "titre": "Dimanche ou les fantômes",
           "realisateurs": "Laurent Achard",
           "annee": 1994,
-          "duree": 30,
           "generique": "Olivia Bouet-Willaumez, Julien Rivière, Pierre Lhuillier",
           "status": 2,
-          "copies": [
-            {
-              "idCopie": 28227,
-              "duree": 30
-            }
-          ],
+          "copies": [],
           "idFilmBoxoffice": 10177
         },
         {
@@ -1898,17 +1908,10 @@
           "art": "Le",
           "realisateurs": "Laurent Achard",
           "annee": 2012,
-          "duree": 30,
           "generique": "Thérèse Roussel, Fred Personne, Pascal Cervo",
           "synopsis": "Au crépuscule de leur vie, Odile et Marcèle s'aiment toujours. Atteinte d'une maladie incurable, Odile doit être hospitalisée. Le temps d'un dernier dimanche, ils revoient les gens qu'ils aiment.",
           "status": 2,
-          "copies": [
-            {
-              "idCopie": 3173,
-              "duree": 30,
-              "format": "DCP"
-            }
-          ],
+          "copies": [],
           "idFilmBoxoffice": 225688
         },
         {
@@ -1917,15 +1920,8 @@
           "titre": "De ma fenêtre",
           "realisateurs": "Laurent Achard",
           "annee": 2021,
-          "duree": 3,
           "status": 2,
-          "copies": [
-            {
-              "idCopie": 28251,
-              "duree": 3,
-              "format": "DCP"
-            }
-          ]
+          "copies": []
         },
         {
           "ordre": 5,
@@ -1934,17 +1930,10 @@
           "art": "La",
           "realisateurs": "Laurent Achard",
           "annee": 2003,
-          "duree": 9,
           "generique": "Mireille Roussel, Martin Buisson, Pierre Beaux",
           "synopsis": "À la campagne, un jour de novembre, un enfant recroquevillé n'ose pas rentrer dans sa maison. Il attend que sa mère le rejoigne dans le jardin.",
           "status": 2,
-          "copies": [
-            {
-              "idCopie": 26874,
-              "duree": 9,
-              "format": "35 mm"
-            }
-          ],
+          "copies": [],
           "idFilmBoxoffice": 109954
         }
       ]
@@ -2215,12 +2204,12 @@
         {
           "ordre": 2,
           "idFilm": 100023,
-          "titre": "Family portraits",
-          "titreVo": "Family portraits : A trilogy of America",
+          "titre": "Family Portraits, une trilogie américaine",
+          "titreVo": "Family Portraits: A Trilogy of America",
           "realisateurs": "Douglas Buck",
           "annee": 2004,
           "duree": 104,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28369,
@@ -2292,7 +2281,8 @@
           ],
           "idFilmBoxoffice": 14388
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec Rayane Mcirdi"
     },
     {
       "idSeance": 133720,
@@ -2332,7 +2322,7 @@
       ]
     },
     {
-      "idSeance": 134228,
+      "idSeance": 134232,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -2342,7 +2332,7 @@
           "titreSousCycle": "Documentaires sur le cinéma"
         }
       ],
-      "idEvenement": 31222,
+      "idEvenement": 31237,
       "typeEvenement": 13,
       "dateHeure": "2024-09-11T18:00:00",
       "idSalle": "GF",
@@ -2636,7 +2626,7 @@
         {
           "ordre": 1,
           "idFilm": 106408,
-          "titre": "A l'ombre des grands chênes (Abel Gance)",
+          "titre": "À l'ombre des grands chênes (Abel Gance)",
           "realisateurs": "Georges Mourier",
           "annee": 2005,
           "duree": 52,
@@ -2902,7 +2892,7 @@
         {
           "ordre": 1,
           "idFilm": 48678,
-          "titre": "Gaz mortels = Les Brouillards sur la ville",
+          "titre": "Gaz mortels",
           "art": "Les",
           "realisateurs": "Abel Gance",
           "annee": 1916,
@@ -4045,7 +4035,8 @@
           ],
           "idFilmBoxoffice": 118987
         }
-      ]
+      ],
+      "mention": "Séance présentée par Yola Le Caïnec"
     },
     {
       "idSeance": 133947,
@@ -7415,7 +7406,8 @@
           ],
           "idFilmBoxoffice": 2748
         }
-      ]
+      ],
+      "mention": "Séance présentée par Yola Le Caïnec"
     },
     {
       "idSeance": 134079,
@@ -7774,7 +7766,7 @@
       ]
     },
     {
-      "idSeance": 133801,
+      "idSeance": 134234,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7784,30 +7776,29 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31040,
+      "idEvenement": 31036,
       "typeEvenement": 13,
       "dateHeure": "2024-10-10T17:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 68645,
-          "titre": "Code inconnu",
-          "realisateurs": "Michael Haneke",
-          "annee": 1999,
-          "dureeStd": 117,
-          "duree": 117,
-          "generique": "Juliette Binoche, Thierry Neuvic, Josef Bierbichler",
-          "miniTexte": "Dans les rues de Paris, un papier froissé, jeté à une mendiante roumaine, constitue le point de départ d'un récit fragmenté, autour d'une poignée d'hommes et de femmes de milieux divers. De fausses pistes en ruptures de tons, Haneke montre les bonnes intentions et les failles de ses personnages, comme autant de réflexions sur l'immigration, l'indifférence ou l'incapacité à communiquer dans une société moderne.",
+          "idFilm": 52177,
+          "titre": "Sept jours ailleurs",
+          "realisateurs": "Marin Karmitz",
+          "annee": 1968,
+          "duree": 100,
+          "generique": "Jacques Higelin, Catherine Martin, Michèle Moretti",
+          "miniTexte": "Un pianiste, marié-un appartement-un enfant, étouffe dans son quotidien familial et part voir ailleurs à l'occasion d'une tournée en province. Tourné juste avant 68 et imprégné de ses balbutiements, capté en son direct, le premier acte de la trilogie de Karmitz sur le malaise social, d'un réalisme mordant. Un état des lieux désenchanté qui pointe la solitude mais raconte aussi l'envie, souvent paralysante, de renverser la table.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27644,
-              "duree": 117,
-              "format": "Vidéo"
+              "idCopie": 27649,
+              "duree": 100,
+              "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 25994
+          "idFilmBoxoffice": 21464
         }
       ]
     },
@@ -7935,7 +7926,7 @@
       ]
     },
     {
-      "idSeance": 133814,
+      "idSeance": 134235,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7945,32 +7936,32 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31036,
+      "idEvenement": 31040,
       "typeEvenement": 13,
       "dateHeure": "2024-10-11T18:30:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 52177,
-          "titre": "Sept jours ailleurs",
-          "realisateurs": "Marin Karmitz",
-          "annee": 1968,
-          "duree": 100,
-          "generique": "Jacques Higelin, Catherine Martin, Michèle Moretti",
-          "miniTexte": "Un pianiste, marié-un appartement-un enfant, étouffe dans son quotidien familial et part voir ailleurs à l'occasion d'une tournée en province. Tourné juste avant 68 et imprégné de ses balbutiements, capté en son direct, le premier acte de la trilogie de Karmitz sur le malaise social, d'un réalisme mordant. Un état des lieux désenchanté qui pointe la solitude mais raconte aussi l'envie, souvent paralysante, de renverser la table.",
+          "idFilm": 68645,
+          "titre": "Code inconnu",
+          "realisateurs": "Michael Haneke",
+          "annee": 1999,
+          "dureeStd": 117,
+          "duree": 117,
+          "generique": "Juliette Binoche, Thierry Neuvic, Josef Bierbichler",
+          "miniTexte": "Dans les rues de Paris, un papier froissé, jeté à une mendiante roumaine, constitue le point de départ d'un récit fragmenté, autour d'une poignée d'hommes et de femmes de milieux divers. De fausses pistes en ruptures de tons, Haneke montre les bonnes intentions et les failles de ses personnages, comme autant de réflexions sur l'immigration, l'indifférence ou l'incapacité à communiquer dans une société moderne.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27649,
-              "duree": 100,
-              "format": "DCP"
+              "idCopie": 27644,
+              "duree": 117,
+              "format": "Vidéo"
             }
           ],
-          "idFilmBoxoffice": 21464
+          "idFilmBoxoffice": 25994
         }
-      ],
-      "mention": "Séance présentée par Marin Karmitz"
+      ]
     },
     {
       "idSeance": 133788,
@@ -8105,6 +8096,7 @@
           "titreNx": "Жол",
           "realisateurs": "Darejan Omirbaev",
           "annee": 2001,
+          "dureeStd": 85,
           "duree": 85,
           "generique": "Djamshed Usmonov, Saule Toktybayeva, Alnur Turgambayeva",
           "miniTexte": "Une plongée dans les pensées d'un jeune cinéaste appelé au chevet de sa mère malade. Une réflexion sur la création artistique en même temps qu'une autocritique cocasse, qui suit la ligne dépouillée d'un road movie des steppes, où plane l'ombre de l'âne Balthazar du film de Bresson.",
@@ -8665,8 +8657,10 @@
           "idFilm": 154897,
           "titre": "Juillet",
           "titreVo": "Shilde",
-          "realisateurs": "Darezhan Omirbaev",
+          "titreNx": "Шілде",
+          "realisateurs": "Darejan Omirbaev",
           "annee": 1988,
+          "dureeStd": 28,
           "duree": 28,
           "miniTexte": "Par une chaude journée d'été, deux garçons tentent de gagner de l'argent pour aller au cinéma. Une magnifique évocation de l'enfance dans les paysages déserts du Kazakhstan.",
           "status": 1,
@@ -8684,9 +8678,11 @@
           "idFilm": 154896,
           "titre": "Dernière Séance",
           "art": "La",
-          "titreVo": "Songy Seans",
+          "titreVo": "Songy seans",
+          "titreNx": "Соңғы сеанс",
           "realisateurs": "Darejan Omirbaev",
           "annee": 2022,
+          "dureeStd": 30,
           "duree": 30,
           "miniTexte": "Dans une métropole animée, les passagers d'un bus restent rivés sur leurs smartphones. Interprétée par des artistes et des étudiants, une réflexion sur la solitude et le monde moderne hyperconnecté.",
           "status": 1,
@@ -9001,6 +8997,7 @@
           "titreNx": "Ақын",
           "realisateurs": "Darejan Omirbaev",
           "annee": 2021,
+          "dureeStd": 105,
           "duree": 105,
           "generique": "Yerdos Kanaev, Gulmira Khasanova, Klara Kabylgazina",
           "miniTexte": "Portrait désenchanté d'un poète kazakh à l'ère de la consommation de masse. Construit sur deux temporalités, le film évoque la solitude et la difficulté d'envisager son art dans une société en transition, tout en affirmant l'importance d'être à contre-courant des pouvoirs politiques de son époque.",
@@ -12326,9 +12323,10 @@
         {
           "ordre": 1,
           "idFilm": 74370,
-          "titre": "Monstres des planètes secrètes = La Planète des monstres",
-          "art": "Les",
-          "titreVo": "Kaiju shima no kessen : Gojira no musuko",
+          "titre": "Planète des monstres",
+          "art": "La",
+          "titreVo": "Kaijū-tō no kessen: Gojira no musuko",
+          "titreNx": "怪獣島の決戦 ゴジラの息子",
           "realisateurs": "Jun Fukuda",
           "annee": 1967,
           "duree": 85,
@@ -12403,10 +12401,11 @@
           "idFilm": 120329,
           "titre": "Godzilla contre Mecanik Monster",
           "titreVo": "Gojira tai Mekagojira",
+          "titreNx": "ゴジラ対メカゴジラ",
           "realisateurs": "Jun Fukuda",
           "annee": 1974,
           "duree": 83,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28268,
@@ -12475,12 +12474,13 @@
         {
           "ordre": 1,
           "idFilm": 97016,
-          "titre": "Godzilla : Final wars",
-          "titreVo": "Gojira : Fainaru uôzu",
+          "titre": "Godzilla: Final Wars",
+          "titreVo": "Gojira: Fainaru wōzu",
+          "titreNx": "ゴジラ ファイナルウォーズ",
           "realisateurs": "Ryuhei Kitamura",
           "annee": 2004,
           "duree": 124,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28271,
@@ -14860,7 +14860,7 @@
           "duree": 82,
           "generique": "Jennifer Jones, Esmond Knight, David Farrar",
           "adaptation": "D'après le roman _La Renarde_ de Mary Webb.",
-          "miniTexte": "Nouvelle version de _La Renarde_, à la suite d'un désaccord des réalisateurs avec le producteur David O. Selznick, qui souhaite une nouvelle version pour le public américain.",
+          "miniTexte": "À la suite d'un désaccord avec les réalisateurs, le producteur David O. Selznick impose une nouvelle version de _La Renarde_ pour le public américain, montage censé davantage mettre en lumière le talent de Jennifer Jones, par ailleurs son épouse.",
           "status": 2,
           "copies": [
             {
@@ -15903,7 +15903,7 @@
       "mention": "Séance présentée par Francis Huster, Macha Méril et Nicole Garcia"
     },
     {
-      "idSeance": 133850,
+      "idSeance": 133845,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -15913,33 +15913,34 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31024,
+      "idEvenement": 31025,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-22T14:30:00",
-      "idSalle": "GF",
+      "dateHeure": "2024-11-22T18:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 99269,
-          "titre": "Inside Man : L'Homme de l'intérieur",
-          "titreVo": "Inside Man",
-          "realisateurs": "Spike Lee",
-          "annee": 2006,
-          "duree": 130,
-          "generique": "Denzel Washington, Clive Owen, Jodie Foster",
-          "synopsis": "Ce devait être le hold-up parfait, le chef-d'œuvre d'un génie du crime.",
-          "miniTexte": "La caméra alerte de Spike Lee s'amuse, le spectateur aussi, captivé par une histoire en trompe-l'œil de prise d'otages dans une banque prestigieuse. Dans un New York cosmopolite, en proie à un racisme primaire, un film d'action bourré d'humour et parfaitement ficelé, sous influence marquée du _Dog Day Afternoon_ de Lumet. Avec un casting trois étoiles et un twist final réjouissant.",
+          "idFilm": 113249,
+          "titre": "Drive",
+          "realisateurs": "Nicolas Winding Refn",
+          "annee": 2011,
+          "duree": 95,
+          "generique": "Ryan Gosling, Carey Mulligan, Bryan Cranston",
+          "adaptation": "D'après le roman _Drive_ de James Sallis.",
+          "synopsis": "Mécanicien et cascadeur de jour, un jeune homme mutique devient chauffeur pour des gangsters la nuit. Un jour, il croise le chemin de sa voisine Irène et de son jeune fils.",
+          "miniTexte": "L'histoire d'un type taciturne, cascadeur le jour, chauffeur la nuit, au service de quelques braqueurs. Une existence bien réglée, jusqu'au moment où il s'éprend de sa voisine. Le cinéaste danois signe un thriller électrique, violent, porté par le jeu laconique de Ryan Gosling, irrésistible en samouraï urbain, impénétrable et magnétique.",
+          "commentaire": "_Drive_, c'est le résultat d'une rencontre qui aurait peut-être pu ne jamais avoir lieu entre un roman éponyme de James Sallis, un acteur et un réalisateur, réunis grâce à une chanson des années 1980. En effet, alors que le scénario circule depuis 2008, il est finalement proposé, deux ans plus tard, à Ryan Gosling, qui admire les films de Nicolas Winding Refn et suggère qu'il le réalise. La première rencontre entre l'acteur et le réalisateur semble tourner court car Refn, grippé, reste de marbre. Alors qu'il le raccompagne en voiture, Gosling allume la radio qui passe _Can't Fight This Feeling_ et... Refn fond alors en larmes : il a trouvé la figure de son chauffeur mutique qui écoute des chansons pop exprimant ses sentiments. Une relation presque télépathique se met alors en place entre l'acteur et son réalisateur. Si Gosling apparaît comme le pur héritier des héros mutiques et sans nom des films de Leone et de Melville, ses explosions de violence l'écartent du flegme de ses prédécesseurs. Le film joue en permanence sur les codes tout en les détournant : film d'action avec un héros majoritairement passif – la scène d'ouverture magistrale joue plus sur l'attente que l'action –, une attente qui se prolongera jusqu'à la moitié du film ; une femme « fatale » malgré elle, à l'irréprochable innocence ; un dur au regard angélique et amateur de chansons sucrées. _Drive_ embarque son spectateur dans une déambulation hallucinée au cœur d'un Los Angeles à la fois quotidien, pop et cauchemardesque.\n\nWafa Ghermani",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28221,
-              "duree": 130,
+              "idCopie": 9786,
+              "duree": 95,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 60285
+          "idFilmBoxoffice": 135082
         }
       ]
     },
@@ -15956,7 +15957,7 @@
       ],
       "idEvenement": 30888,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-22T17:30:00",
+      "dateHeure": "2024-11-22T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -16018,7 +16019,7 @@
       "mention": "Séance présentée par Delphine Voiry-Humbert et Nicolas Rey"
     },
     {
-      "idSeance": 133845,
+      "idSeance": 133286,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -16028,74 +16029,36 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31025,
+      "idEvenement": 31015,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-22T18:30:00",
+      "dateHeure": "2024-11-22T20:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 113249,
-          "titre": "Drive",
-          "realisateurs": "Nicolas Winding Refn",
-          "annee": 2011,
-          "duree": 95,
-          "generique": "Ryan Gosling, Carey Mulligan, Bryan Cranston",
-          "adaptation": "D'après le roman _Drive_ de James Sallis.",
-          "synopsis": "Mécanicien et cascadeur de jour, un jeune homme mutique devient chauffeur pour des gangsters la nuit. Un jour, il croise le chemin de sa voisine Irène et de son jeune fils.",
-          "miniTexte": "L'histoire d'un type taciturne, cascadeur le jour, chauffeur la nuit, au service de quelques braqueurs. Une existence bien réglée, jusqu'au moment où il s'éprend de sa voisine. Le cinéaste danois signe un thriller électrique, violent, porté par le jeu laconique de Ryan Gosling, irrésistible en samouraï urbain, impénétrable et magnétique.",
-          "commentaire": "_Drive_, c'est le résultat d'une rencontre qui aurait peut-être pu ne jamais avoir lieu entre un roman éponyme de James Sallis, un acteur et un réalisateur, réunis grâce à une chanson des années 1980. En effet, alors que le scénario circule depuis 2008, il est finalement proposé, deux ans plus tard, à Ryan Gosling, qui admire les films de Nicolas Winding Refn et suggère qu'il le réalise. La première rencontre entre l'acteur et le réalisateur semble tourner court car Refn, grippé, reste de marbre. Alors qu'il le raccompagne en voiture, Gosling allume la radio qui passe _Can't Fight This Feeling_ et... Refn fond alors en larmes : il a trouvé la figure de son chauffeur mutique qui écoute des chansons pop exprimant ses sentiments. Une relation presque télépathique se met alors en place entre l'acteur et son réalisateur. Si Gosling apparaît comme le pur héritier des héros mutiques et sans nom des films de Leone et de Melville, ses explosions de violence l'écartent du flegme de ses prédécesseurs. Le film joue en permanence sur les codes tout en les détournant : film d'action avec un héros majoritairement passif – la scène d'ouverture magistrale joue plus sur l'attente que l'action –, une attente qui se prolongera jusqu'à la moitié du film ; une femme « fatale » malgré elle, à l'irréprochable innocence ; un dur au regard angélique et amateur de chansons sucrées. _Drive_ embarque son spectateur dans une déambulation hallucinée au cœur d'un Los Angeles à la fois quotidien, pop et cauchemardesque.\n\nWafa Ghermani",
+          "idFilm": 34777,
+          "titre": "Un après-midi de chien",
+          "titreVo": "Dog Day Afternoon",
+          "realisateurs": "Sidney Lumet",
+          "annee": 1975,
+          "duree": 130,
+          "generique": "Al Pacino, John Cazale, Charles Durning",
+          "adaptation": "D'après l'article _The Boys in the Bank_ de P. F. Kluge et Thomas Moore.",
+          "synopsis": "Par un chaud après-midi d'août, Sonny et ses complices braquent une banque de Brooklyn. Mais le coffre est quasiment vide et la police a encerclé les lieux. Le braquage se transforme en prise d'otages et en cirque médiatique.",
+          "miniTexte": "Lumet, qui excelle dans les univers confinés, filme avec minimalisme une prise d'otages, effectuée par un désespéré qui veut offrir une chirurgie de réattribution sexuelle à l'homme qu'il aime. Un réquisitoire contre l'image reine (le braquage est suivi en direct par la foule), un plaidoyer pour les paumés, avec John Cazale, spectral, et Al Pacino en bisexuel, hallucinant et habité.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 9786,
-              "duree": 95,
+              "idCopie": 25624,
+              "duree": 130,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 135082
+          "idFilmBoxoffice": 1621
         }
       ]
-    },
-    {
-      "idSeance": 133288,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 793,
-          "idCategorie": 3381,
-          "titreCycle": "Claude Lelouch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30887,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-22T20:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 49807,
-          "titre": "Il y a des jours et des lunes",
-          "realisateurs": "Claude Lelouch",
-          "annee": 1989,
-          "duree": 117,
-          "generique": "Gérard Lanvin, Patrick Chesnais, Annie Girardot",
-          "miniTexte": "À travers l'influence de la Lune sur ses personnages, Lelouch aborde la complexité de la vie, son absurdité et ses hasards. Soutenus par une mise en scène aux élans lyriques, les destins se heurtent dans un film choral – le 31<sup>e</sup> long métrage du cinéaste, tourné en... 31 jours –, qui multiplie les chassés-croisés pittoresques.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28059,
-              "duree": 117,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 5582
-        }
-      ],
-      "mention": "Séance présentée par Patrick Chesnais et Vincent Lindon"
     },
     {
       "idSeance": 133984,
@@ -16128,46 +16091,42 @@
       "mention": "Séance présentée par Delphine Voiry-Humbert et Camilo Restrepo"
     },
     {
-      "idSeance": 133286,
+      "idSeance": 133288,
       "idProg": 182,
       "idCycleCategories": [
         {
-          "idCycle": 797,
-          "idCategorie": 3396,
-          "titreCycle": "Casses, hold-ups et braquages en 25 indispensables",
+          "idCycle": 793,
+          "idCategorie": 3381,
+          "titreCycle": "Claude Lelouch",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31015,
+      "idEvenement": 30887,
       "typeEvenement": 13,
       "dateHeure": "2024-11-22T20:30:00",
-      "idSalle": "HL",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 34777,
-          "titre": "Un après-midi de chien",
-          "titreVo": "Dog Day Afternoon",
-          "realisateurs": "Sidney Lumet",
-          "annee": 1975,
-          "duree": 130,
-          "generique": "Al Pacino, John Cazale, Charles Durning",
-          "adaptation": "D'après l'article _The Boys in the Bank_ de P. F. Kluge et Thomas Moore.",
-          "synopsis": "Par un chaud après-midi d'août, Sonny et ses complices braquent une banque de Brooklyn. Mais le coffre est quasiment vide et la police a encerclé les lieux. Le braquage se transforme en prise d'otages et en cirque médiatique.",
-          "miniTexte": "Lumet, qui excelle dans les univers confinés, filme avec minimalisme une prise d'otages, effectuée par un désespéré qui veut offrir une chirurgie de réattribution sexuelle à l'homme qu'il aime. Un réquisitoire contre l'image reine (le braquage est suivi en direct par la foule), un plaidoyer pour les paumés, avec John Cazale, spectral, et Al Pacino en bisexuel, hallucinant et habité.",
+          "idFilm": 49807,
+          "titre": "Il y a des jours et des lunes",
+          "realisateurs": "Claude Lelouch",
+          "annee": 1989,
+          "duree": 117,
+          "generique": "Gérard Lanvin, Patrick Chesnais, Annie Girardot",
+          "miniTexte": "À travers l'influence de la Lune sur ses personnages, Lelouch aborde la complexité de la vie, son absurdité et ses hasards. Soutenus par une mise en scène aux élans lyriques, les destins se heurtent dans un film choral – le 31<sup>e</sup> long métrage du cinéaste, tourné en... 31 jours –, qui multiplie les chassés-croisés pittoresques.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 25624,
-              "duree": 130,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "idCopie": 28059,
+              "duree": 117,
+              "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 1621
+          "idFilmBoxoffice": 5582
         }
-      ]
+      ],
+      "mention": "Séance présentée par Patrick Chesnais et Vincent Lindon"
     },
     {
       "idSeance": 133329,
