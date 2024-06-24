@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-24T08:16:14.257Z",
+  "updatedAt": "2024-06-24T10:37:41.033Z",
   "data": [
     {
       "idSeance": 130975,
@@ -4929,7 +4929,8 @@
           ],
           "idFilmBoxoffice": 137664
         }
-      ]
+      ],
+      "mention": "Séance présentée par Agathe Bonitzer"
     },
     {
       "idSeance": 131670,
@@ -12559,6 +12560,22 @@
       "items": [
         {
           "ordre": 1,
+          "idFilm": 154918,
+          "titre": "Te quiero ma Vahiné",
+          "realisateurs": "Yuna Alonzo",
+          "annee": 2024,
+          "duree": 33,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28375,
+              "duree": 33,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
           "idFilm": 44574,
           "titre": "Ruines",
           "art": "Les",
@@ -12581,22 +12598,6 @@
             }
           ],
           "idFilmBoxoffice": 137277
-        },
-        {
-          "ordre": 2,
-          "idFilm": 154918,
-          "titre": "Te quiero ma Vahiné",
-          "realisateurs": "Yuna Alonzo",
-          "annee": 2024,
-          "duree": 33,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28375,
-              "duree": 33,
-              "format": "DCP"
-            }
-          ]
         }
       ],
       "mention": "Séance suivie d'une discussion avec Yuna Alonzo"
