@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-24T12:06:09.669Z",
+  "updatedAt": "2024-06-24T12:58:59.434Z",
   "data": [
     {
       "idSeance": 130975,
@@ -5067,7 +5067,7 @@
       ],
       "idEvenement": 31175,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-23T19:00:00",
+      "dateHeure": "2024-09-23T20:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -12673,7 +12673,8 @@
           "copies": [
             {
               "idCopie": 28157,
-              "duree": 130
+              "duree": 130,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 87886
@@ -12848,9 +12849,9 @@
       "idCycleCategories": [
         {
           "idCycle": 795,
-          "idCategorie": 3387,
+          "idCategorie": 3454,
           "titreCycle": "Bo Widerberg",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Autour de Bo Widerberg"
         }
       ],
       "idEvenement": 30954,
