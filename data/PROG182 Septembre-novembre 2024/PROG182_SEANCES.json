@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-25T09:55:21.650Z",
+  "updatedAt": "2024-06-25T10:48:52.143Z",
   "data": [
     {
       "idSeance": 130975,
@@ -6375,12 +6375,33 @@
       ]
     },
     {
+      "idSeance": 144350,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 54,
+          "idCategorie": 3439,
+          "titreCycle": "Courts métrages de la Fémis",
+          "titreSousCycle": "Films de l'Atelier Ludwigsburg-Paris 2024"
+        }
+      ],
+      "idEvenement": 31340,
+      "typeEvenement": 13,
+      "libelleEvenement": "LA FEMIS : FILMS DE L'ATELIER LUDWISBURG-PARIS 2024",
+      "dateHeure": "2024-10-02T12:00:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
       "idSeance": 131906,
       "idProg": 182,
       "idCycleCategories": [
         {
           "idCycle": 54,
-          "idCategorie": 3438
+          "idCategorie": 3438,
+          "titreCycle": "Courts métrages de la Fémis",
+          "titreSousCycle": "Films de fin d'études de la promotion 2024"
         }
       ],
       "idEvenement": 31216,
@@ -6436,13 +6457,34 @@
       "idCycleCategories": [
         {
           "idCycle": 54,
-          "idCategorie": 3438
+          "idCategorie": 3438,
+          "titreCycle": "Courts métrages de la Fémis",
+          "titreSousCycle": "Films de fin d'études de la promotion 2024"
         }
       ],
       "idEvenement": 31216,
       "typeEvenement": 13,
       "libelleEvenement": "LA FEMIS : FILMS DE FIN D'ÉTUDES (PROMOTION 2024)",
       "dateHeure": "2024-10-02T16:00:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 144349,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 54,
+          "idCategorie": 3438,
+          "titreCycle": "Courts métrages de la Fémis",
+          "titreSousCycle": "Films de fin d'études de la promotion 2024"
+        }
+      ],
+      "idEvenement": 31216,
+      "typeEvenement": 13,
+      "libelleEvenement": "LA FEMIS : FILMS DE FIN D'ÉTUDES (PROMOTION 2024)",
+      "dateHeure": "2024-10-02T18:00:00",
       "idSalle": "GF",
       "theorique": true,
       "items": []
@@ -6494,7 +6536,9 @@
       "idCycleCategories": [
         {
           "idCycle": 54,
-          "idCategorie": 3438
+          "idCategorie": 3438,
+          "titreCycle": "Courts métrages de la Fémis",
+          "titreSousCycle": "Films de fin d'études de la promotion 2024"
         }
       ],
       "idEvenement": 31216,
@@ -6558,7 +6602,9 @@
       "idCycleCategories": [
         {
           "idCycle": 54,
-          "idCategorie": 3438
+          "idCategorie": 3438,
+          "titreCycle": "Courts métrages de la Fémis",
+          "titreSousCycle": "Films de fin d'études de la promotion 2024"
         }
       ],
       "idEvenement": 31216,
@@ -6575,7 +6621,9 @@
       "idCycleCategories": [
         {
           "idCycle": 54,
-          "idCategorie": 3438
+          "idCategorie": 3438,
+          "titreCycle": "Courts métrages de la Fémis",
+          "titreSousCycle": "Films de fin d'études de la promotion 2024"
         }
       ],
       "idEvenement": 31216,
@@ -6592,7 +6640,9 @@
       "idCycleCategories": [
         {
           "idCycle": 54,
-          "idCategorie": 3438
+          "idCategorie": 3438,
+          "titreCycle": "Courts métrages de la Fémis",
+          "titreSousCycle": "Films de fin d'études de la promotion 2024"
         }
       ],
       "idEvenement": 31216,
@@ -6633,17 +6683,19 @@
       ]
     },
     {
-      "idSeance": 134211,
+      "idSeance": 144351,
       "idProg": 182,
       "idCycleCategories": [
         {
           "idCycle": 54,
-          "idCategorie": 3439
+          "idCategorie": 3455,
+          "titreCycle": "Courts métrages de la Fémis",
+          "titreSousCycle": "Films de la Résidence, promotion 2024 "
         }
       ],
-      "idEvenement": 31217,
+      "idEvenement": 31341,
       "typeEvenement": 13,
-      "libelleEvenement": "LA FEMIS : FILMS DE L'ATELIER LUDWISBURG-PARIS (PROMOTION 2024)",
+      "libelleEvenement": "LA FEMIS : FILMS DE LA RÉSIDENCE (PROMOTION 2024)",
       "dateHeure": "2024-10-03T18:00:00",
       "idSalle": "GF",
       "theorique": true,
@@ -6697,7 +6749,9 @@
       "idCycleCategories": [
         {
           "idCycle": 54,
-          "idCategorie": 3440
+          "idCategorie": 3440,
+          "titreCycle": "Courts métrages de la Fémis",
+          "titreSousCycle": "Présentation des travaux du département scénario, promotion 2024"
         }
       ],
       "idEvenement": 31218,
@@ -11877,7 +11931,7 @@
         {
           "ordre": 1,
           "idFilm": 44980,
-          "titre": "Ådalen 31",
+          "titre": "Ådalen '31",
           "realisateurs": "Bo Widerberg",
           "annee": 1969,
           "duree": 110,
@@ -14819,7 +14873,7 @@
         {
           "ordre": 1,
           "idFilm": 49804,
-          "titre": "Aventure, c'est l'aventure",
+          "titre": "Aventure c'est l'aventure",
           "art": "L'",
           "realisateurs": "Claude Lelouch",
           "annee": 1972,
