@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-26T12:21:33.617Z",
+  "updatedAt": "2024-06-26T14:59:50.300Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1504,13 +1504,13 @@
               "version": "VF"
             },
             {
-              "idCopie": 28239,
-              "duree": 96
-            },
-            {
               "idCopie": 28241,
               "duree": 96,
               "format": "35 mm"
+            },
+            {
+              "idCopie": 28239,
+              "duree": 96
             }
           ],
           "idFilmBoxoffice": 110259
@@ -2639,7 +2639,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Georges Mourier"
     },
     {
       "idSeance": 133979,
@@ -2679,7 +2680,7 @@
           "idFilmBoxoffice": 26523
         }
       ],
-      "mention": "Accompagnement musical par Nicolas Giraud et Fixi"
+      "mention": "Séance présentée par Hervé Pichard. Accompagnement musical par Nicolas Giraud et Fixi"
     },
     {
       "idSeance": 133976,
@@ -2780,7 +2781,7 @@
           "idFilmBoxoffice": 97136
         }
       ],
-      "mention": "Accompagnement musical par Benjamin Moussay"
+      "mention": "Séance présentée par Hervé Pichard. Accompagnement musical par Benjamin Moussay"
     },
     {
       "idSeance": 133679,
@@ -4161,7 +4162,7 @@
           "titreSousCycle": "Courts métrages"
         }
       ],
-      "idEvenement": 30074,
+      "idEvenement": 31346,
       "typeEvenement": 13,
       "dateHeure": "2024-09-20T19:30:00",
       "idSalle": "JE",
@@ -4184,20 +4185,15 @@
         },
         {
           "ordre": 2,
-          "idFilm": 73472,
-          "titre": "Magirama (J'accuse)",
-          "realisateurs": "Abel Gance, Nelly Kaplan",
+          "idFilm": 154935,
+          "titre": "J'accuse (Magirama)",
+          "realisateurs": "Abel Gance",
           "annee": 1956,
-          "dureeStd": 57,
           "duree": 60,
-          "generique": "Abel Gance, Robert Vattier",
-          "synopsis": "Abel Gance développe le dispositif de projection sur trois écrans éprouvé avec _Napoléon_ en 1928, avec les images du _J'accuse_ de 1937. Il revient donc une nouvelle fois sur la Première guerre Mondiale dans un format permettant de restituer l'ampleur du traumatisme vécu.",
-          "miniTexte": "30 ans après avoir expérimenté la polyvision dans _Napoléon_, Abel Gance conçoit avec Nelly Kaplan une suite de courts métrages (_Auprès de ma blonde_, _Châteaux de nuages_, _Fête foraine_, _Begone Dull Care_de Norman McLaren), enrichie d'une version raccourcie du _J'accuse !_ de 1937, projetées en triple écran. Une expérience de spectateur hors norme, présentée pendant huit semaines au Studio 28 à Montmartre, sous le titre Magirama.",
-          "commentaire": "Abel Gance expérimente la polyvision dans trois séquences de _Napoléon_ en 1927. Elle lui permet de développer sur trois écrans une narration qui révèle la capacité du cinéma à raconter autrement. Ces triptyques créent une expérience filmique et spectatorielle nouvelle. Mais difficiles à exploiter, Gance doit attendre près de trente ans pour renouveler l'essai. Il conçoit en 1954, avec le soutien du CNC, le Proterama, « polyphonie visuelle » qui permet de « voir simultanément le dessin mélodique du sujet (écran central) et son orchestration (écrans latéraux) ». Ce n'est que le 19 décembre 1956 que l'on peut découvrir, au Studio 28, le Magirama, spectacle qui concrétise ces recherches. Composé avec Nelly Kaplan, le dispositif comprend quatre courts métrages : _Auprès de ma blonde_, _Châteaux de nuages_, _Fête foraine_, _Begone Dull Care_ de Norman MacLaren et une version d'une heure du _J'accuse_ de 1937. Conçu pour « sauver le cinéma qui se meurt », le Magirama quitta l'affiche au bout de huit semaines.\n\nBéatrice de Pastre",
-          "status": 2,
+          "status": 1,
           "copies": [
             {
-              "idCopie": 28128,
+              "idCopie": 28442,
               "duree": 60,
               "format": "DCP"
             }
@@ -4247,7 +4243,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Béatrice de Pastre"
     },
     {
       "idSeance": 131612,
@@ -5074,7 +5071,7 @@
           "ordre": 1,
           "idFilm": 154899,
           "titre": "Una luna de hierro",
-          "realisateurs": "Francisco Rodriguez Teare",
+          "realisateurs": "Francisco Rodríguez Teare",
           "annee": 2017,
           "duree": 28,
           "status": 1,
@@ -5091,12 +5088,12 @@
         {
           "ordre": 2,
           "idFilm": 154898,
-          "titre": "Otro Sol",
-          "realisateurs": "Francisco Rodriguez Teare",
+          "titre": "Otro sol",
+          "realisateurs": "Francisco Rodríguez Teare",
           "annee": 2023,
           "duree": 86,
-          "synopsis": "Otro Sol est un film s'attelant à inventer, tout en l'investiguant, la légende d'Alberto, voleur international chilien, prisonnier en Europe et mort au Chili à l'âge de 29 ans. Le film traverse pour cela deux territoires, reliés par l'histoire coloniale : le désert d'Atacama au Chili et le sud de l'Espagne.",
-          "status": 0,
+          "synopsis": "_Otro sol_ est un film s'attelant à inventer, tout en l'investiguant, la légende d'Alberto, voleur international chilien, prisonnier en Europe et mort au Chili à l'âge de 29 ans. Le film traverse pour cela deux territoires, reliés par l'histoire coloniale : le désert d'Atacama au Chili et le sud de l'Espagne.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28338,
@@ -5238,7 +5235,8 @@
         {
           "idCycle": 757,
           "idCategorie": 3449,
-          "titreCycle": "Abel Gance"
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Films pour la télévision"
         }
       ],
       "idEvenement": 31293,
@@ -6191,7 +6189,7 @@
           "annee": 1996,
           "duree": 101,
           "generique": "Jack Nicholson, Michael Caine, Stephen Dorff",
-          "miniTexte": "Pour son dernier film avec Jack Nicholson, Rafelson met en scène un casse qui tourne mal, pensé comme le troisième volet d'une trilogie non officielle avec _Cinq pièces faciles_ et _The King of Marvin Gardens_. Un polar néo-noir percutant, où Michael Caine, sacré meilleur acteur au Festival de San Sebastian, livre une prestation d'envergure en sociopathe.",
+          "miniTexte": "Pour son dernier film avec Jack Nicholson, Rafelson met en scène un casse qui tourne mal, pensé comme le troisième volet d'une trilogie non officielle avec _Cinq pièces faciles_ et _The King of Marvin Gardens_. Un polar néo-noir percutant, où Michael Caine, sacré meilleur acteur au Festival de San Sebastián, livre une prestation d'envergure en sociopathe.",
           "status": 2,
           "copies": [
             {
@@ -11566,9 +11564,19 @@
               "format": "DCP"
             }
           ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 60228,
+          "titre": "Vie à rebours",
+          "art": "La",
+          "realisateurs": "Gaël Morel",
+          "annee": 1996,
+          "status": 0,
+          "copies": []
         }
       ],
-      "mention": "Séance présentée par Frédéric Lavigne"
+      "mention": "Séance suivie d'une discussion avec Frédéric Lavigne et Gaël Morel"
     },
     {
       "idSeance": 132614,
@@ -14756,7 +14764,8 @@
           ],
           "idFilmBoxoffice": 43194
         }
-      ]
+      ],
+      "mention": "Séance présentée par Daniel Vigne"
     },
     {
       "idSeance": 133844,
