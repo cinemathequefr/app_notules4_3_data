@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-25T10:48:52.143Z",
+  "updatedAt": "2024-06-26T07:53:44.855Z",
   "data": [
     {
       "idSeance": 130975,
@@ -11471,13 +11471,31 @@
           "titreSousCycle": "Frédéric Lavigne"
         }
       ],
-      "idEvenement": 31210,
+      "idEvenement": 31343,
       "typeEvenement": 13,
       "dateHeure": "2024-10-28T19:00:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
+          "idFilm": 58354,
+          "titre": "Alger la blanche",
+          "realisateurs": "Cyril Collard",
+          "annee": 1986,
+          "duree": 28,
+          "generique": "Frédéric Deban, Ali Baouche, Rachida Chrouki",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28440,
+              "duree": 28,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 1882
+        },
+        {
+          "ordre": 2,
           "idFilm": 154919,
           "titre": "Cœurs perdus",
           "realisateurs": "Frédéric Lavigne",
@@ -15457,23 +15475,22 @@
       "mention": "Séance présentée par Francis Huster"
     },
     {
-      "idSeance": 133173,
+      "idSeance": 144355,
       "idProg": 182,
       "idCycleCategories": [
         {
           "idCycle": 140,
-          "idCategorie": 3436,
+          "idCategorie": 3450,
           "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "Çağla Zencirci et Guillaume Giovanetti"
+          "titreSousCycle": "Carte blanche à la revue Blink Blank"
         }
       ],
-      "idEvenement": 31209,
+      "idEvenement": 31342,
       "typeEvenement": 13,
-      "libelleEvenement": "ÇAĞLA ZENCIRCI & GUILLAUME GIOVANETTI (AVEC LA VILLA ALBERTINE)",
-      "dateHeure": "2024-11-18T20:30:00",
+      "libelleEvenement": "CARTE BLANCHE À LA REVUE BLINK BLANK",
+      "dateHeure": "2024-11-18T20:00:00",
       "idSalle": "JE",
       "theorique": true,
-      "mention": "Séance suivie d'une discussion avec Cagla Zencirci et Guillaume Giovanetti",
       "items": []
     },
     {
