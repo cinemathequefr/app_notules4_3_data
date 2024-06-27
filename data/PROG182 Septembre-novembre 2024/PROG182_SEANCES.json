@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-26T14:59:50.300Z",
+  "updatedAt": "2024-06-27T08:34:49.578Z",
   "data": [
     {
       "idSeance": 130975,
@@ -162,7 +162,7 @@
           "idFilmBoxoffice": 4074
         }
       ],
-      "mention": "Ouverture de la rétrospective"
+      "mention": "Ouverture de la rétrospective. Séance présentée par Élodie Tamayo"
     },
     {
       "idSeance": 133733,
@@ -3331,7 +3331,7 @@
           "idFilmBoxoffice": 27025
         }
       ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
+      "mention": "Séance présentée par Élodie Tamayo. Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 133677,
@@ -4186,7 +4186,7 @@
         {
           "ordre": 2,
           "idFilm": 154935,
-          "titre": "J'accuse (Magirama)",
+          "titre": "J'accuse",
           "realisateurs": "Abel Gance",
           "annee": 1956,
           "duree": 60,
@@ -6899,7 +6899,7 @@
       ]
     },
     {
-      "idSeance": 133813,
+      "idSeance": 131985,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -6909,33 +6909,32 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31031,
+      "idEvenement": 31038,
       "typeEvenement": 13,
       "dateHeure": "2024-10-04T18:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 57272,
-          "titre": "Cérémonie",
-          "art": "La",
-          "realisateurs": "Claude Chabrol",
-          "annee": 1995,
-          "duree": 112,
-          "generique": "Isabelle Huppert, Sandrine Bonnaire, Jacqueline Bisset",
-          "adaptation": "D'après le roman _L'Analphabète_ de Ruth Rendell.",
-          "miniTexte": "La bonne et la postière, et une famille bien sous tous rapports, au cœur d'un polar de classes, où se révèlent hypocrisie, manipulation et colère qui gronde. D'après _L'Analphabète_ de Ruth Rendell, une _Cérémonie_menée de main de maître, dans une peinture au vitriol de la bourgeoisie française de province, sans doute la plus sournoise de son auteur.",
+          "idFilm": 49441,
+          "titre": "Coup pour coup",
+          "realisateurs": "Marin Karmitz",
+          "annee": 1971,
+          "duree": 90,
+          "generique": "Danielle Chinsky, François Knobelspiess, André Rouyer",
+          "miniTexte": "Elbeuf, Normandie. Les ouvrières d'une petite entreprise de textile se mettent en grève, jusqu'à, tensions, escalade, séquestrer leur patron. À la lisière du documentaire (les employées jouent leur propres rôles), Karmitz réalise son dernier film avant de se consacrer pleinement à la production, et met un point final à sa trilogie militante, sur les conflits sociaux et la révolte des travailleurs opprimés.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27647,
-              "duree": 112,
+              "idCopie": 27645,
+              "duree": 90,
               "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 12992
+          "idFilmBoxoffice": 9887
         }
-      ]
+      ],
+      "mention": "Séance présentée par Marin Karmitz"
     },
     {
       "idSeance": 131987,
@@ -7042,6 +7041,45 @@
       ]
     },
     {
+      "idSeance": 133813,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759,
+          "titreCycle": "Les 50 ans de MK2",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31031,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-04T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 57272,
+          "titre": "Cérémonie",
+          "art": "La",
+          "realisateurs": "Claude Chabrol",
+          "annee": 1995,
+          "duree": 112,
+          "generique": "Isabelle Huppert, Sandrine Bonnaire, Jacqueline Bisset",
+          "adaptation": "D'après le roman _L'Analphabète_ de Ruth Rendell.",
+          "miniTexte": "La bonne et la postière, et une famille bien sous tous rapports, au cœur d'un polar de classes, où se révèlent hypocrisie, manipulation et colère qui gronde. D'après _L'Analphabète_ de Ruth Rendell, une _Cérémonie_menée de main de maître, dans une peinture au vitriol de la bourgeoisie française de province, sans doute la plus sournoise de son auteur.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27647,
+              "duree": 112,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 12992
+        }
+      ]
+    },
+    {
       "idSeance": 133983,
       "idProg": 182,
       "idCycleCategories": [
@@ -7079,44 +7117,6 @@
         }
       ],
       "mention": "Séance présentée par Joël Daire. Accompagnement musical par Jean-François Zygel"
-    },
-    {
-      "idSeance": 131985,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 391,
-          "idCategorie": 1759,
-          "titreCycle": "Les 50 ans de MK2",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31038,
-      "typeEvenement": 13,
-      "dateHeure": "2024-10-04T21:15:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 49441,
-          "titre": "Coup pour coup",
-          "realisateurs": "Marin Karmitz",
-          "annee": 1971,
-          "duree": 90,
-          "generique": "Danielle Chinsky, François Knobelspiess, André Rouyer",
-          "miniTexte": "Elbeuf, Normandie. Les ouvrières d'une petite entreprise de textile se mettent en grève, jusqu'à, tensions, escalade, séquestrer leur patron. À la lisière du documentaire (les employées jouent leur propres rôles), Karmitz réalise son dernier film avant de se consacrer pleinement à la production, et met un point final à sa trilogie militante, sur les conflits sociaux et la révolte des travailleurs opprimés.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 27645,
-              "duree": 90,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 9887
-        }
-      ],
-      "mention": "Séance présentée par Marin Karmitz"
     },
     {
       "idSeance": 134106,
