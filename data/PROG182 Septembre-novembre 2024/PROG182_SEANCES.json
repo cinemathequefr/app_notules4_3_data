@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-27T12:40:09.417Z",
+  "updatedAt": "2024-06-27T12:48:09.175Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1860,6 +1860,81 @@
             }
           ],
           "idFilmBoxoffice": 61282
+        }
+      ]
+    },
+    {
+      "idSeance": 134233,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 787,
+          "idCategorie": 3375,
+          "titreCycle": "Laurent Achard",
+          "titreSousCycle": "Documentaires sur le cinéma"
+        }
+      ],
+      "idEvenement": 31243,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-08T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 75543,
+          "titre": "Qu'en savent les morts ?",
+          "realisateurs": "Laurent Achard",
+          "annee": 1991,
+          "generique": "Laurence Côte, René Rabreau",
+          "status": 2,
+          "copies": [],
+          "idFilmBoxoffice": 60534
+        },
+        {
+          "ordre": 2,
+          "idFilm": 76312,
+          "titre": "Dimanche ou les fantômes",
+          "realisateurs": "Laurent Achard",
+          "annee": 1994,
+          "generique": "Olivia Bouet-Willaumez, Julien Rivière, Pierre Lhuillier",
+          "status": 2,
+          "copies": [],
+          "idFilmBoxoffice": 10177
+        },
+        {
+          "ordre": 3,
+          "idFilm": 121778,
+          "titre": "Tableau",
+          "art": "Le",
+          "realisateurs": "Laurent Achard",
+          "annee": 2012,
+          "generique": "Thérèse Roussel, Fred Personne, Pascal Cervo",
+          "synopsis": "Au crépuscule de leur vie, Odile et Marcèle s'aiment toujours. Atteinte d'une maladie incurable, Odile doit être hospitalisée. Le temps d'un dernier dimanche, ils revoient les gens qu'ils aiment.",
+          "status": 2,
+          "copies": [],
+          "idFilmBoxoffice": 225688
+        },
+        {
+          "ordre": 4,
+          "idFilm": 154889,
+          "titre": "De ma fenêtre",
+          "realisateurs": "Laurent Achard",
+          "annee": 2021,
+          "status": 2,
+          "copies": []
+        },
+        {
+          "ordre": 5,
+          "idFilm": 91824,
+          "titre": "Peur, petit chasseur",
+          "art": "La",
+          "realisateurs": "Laurent Achard",
+          "annee": 2004,
+          "generique": "Mireille Roussel, Martin Buisson, Pierre Beaux",
+          "synopsis": "À la campagne, un jour de novembre, un enfant recroquevillé n'ose pas rentrer dans sa maison. Il attend que sa mère le rejoigne dans le jardin.",
+          "status": 2,
+          "copies": [],
+          "idFilmBoxoffice": 109954
         }
       ]
     },
@@ -8617,6 +8692,64 @@
       ]
     },
     {
+      "idSeance": 134223,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3414,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31138,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-13T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154923,
+          "titre": "Scrittori e poeti anglosassoni a Roma",
+          "realisateurs": "Pietro Germi",
+          "annee": 1947,
+          "duree": 9,
+          "miniTexte": "L'une des premières œuvres de Germi, retrouvée dans les archives de la Cineteca Nazionale, un court documentaire en hommage aux Alliés britanniques et américains.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28386,
+              "duree": 9,
+              "format": "DCP",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 41970,
+          "titre": "Jeunesse perdue",
+          "titreVo": "Gioventù perduta",
+          "realisateurs": "Pietro Germi",
+          "annee": 1948,
+          "duree": 86,
+          "generique": "Massimo Girotti, Carla Del Poggio, Jacques Sernas",
+          "miniTexte": "Deuxième réalisation de Pietro Germi, l'enquête criminelle d'un jeune inspecteur de police dans les milieux universitaires. Rythme optimal et atmosphère glaciale, un polar à l'américaine, dont le principal suspect est interprété par Jacques Servais, acteur français qui illumina, par sa blondeur nordique, quelques grandes œuvres du cinéma italien.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28291,
+              "duree": 86,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 50620
+        }
+      ]
+    },
+    {
       "idSeance": 133999,
       "idProg": 182,
       "idCycleCategories": [
@@ -14867,6 +15000,46 @@
       "idSalle": "GF",
       "theorique": true,
       "items": []
+    },
+    {
+      "idSeance": 134172,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 2201,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 21698,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-16T15:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 86567,
+          "titre": "Wild Heart",
+          "art": "The",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1952,
+          "duree": 82,
+          "generique": "Jennifer Jones, Esmond Knight, David Farrar",
+          "adaptation": "D'après le roman _La Renarde_ de Mary Webb.",
+          "miniTexte": "À la suite d'un désaccord avec les réalisateurs, le producteur David O. Selznick impose une nouvelle version de _La Renarde_ pour le public américain, montage censé davantage mettre en lumière le talent de Jennifer Jones, par ailleurs son épouse.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27064,
+              "duree": 82,
+              "format": "16 mm",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 140474
+        }
+      ]
     },
     {
       "idSeance": 134173,
