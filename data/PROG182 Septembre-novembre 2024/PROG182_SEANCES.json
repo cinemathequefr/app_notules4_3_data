@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-28T11:55:53.688Z",
+  "updatedAt": "2024-06-28T13:38:35.663Z",
   "data": [
     {
       "idSeance": 130975,
@@ -2345,6 +2345,7 @@
           "annee": 1997,
           "duree": 30,
           "generique": "Babet Ferrier, Vincent Taveau, Jérôme Le Paulmier",
+          "miniTexte": "Une adolescente a rendez-vous avec son amoureux, mais elle est accompagnée de son petit frère. Troisième court métrage, et déjà Prix de la mise en scène au Festival de Clermont-Ferrand.",
           "status": 2,
           "copies": [
             {
@@ -2352,7 +2353,8 @@
               "duree": 30,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 124787
         },
         {
           "ordre": 2,
@@ -2361,6 +2363,7 @@
           "realisateurs": "Laurent Achard",
           "annee": 2016,
           "duree": 52,
+          "miniTexte": "Un portrait tendre et précis de Paul Vecchiali au travail, qui tourne alors deux films en parallèle, chez lui : _C'est l'amour_ et _Le Cancre_. Le premier documentaire de Laurent Achard.",
           "status": 2,
           "copies": [
             {
@@ -4128,7 +4131,7 @@
           "realisateurs": "Abel Gance",
           "annee": 1954,
           "duree": 14,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28126,
