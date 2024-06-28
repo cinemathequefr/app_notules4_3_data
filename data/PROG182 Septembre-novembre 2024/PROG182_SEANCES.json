@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-27T14:12:43.720Z",
+  "updatedAt": "2024-06-28T08:02:14.268Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1869,9 +1869,9 @@
       "idCycleCategories": [
         {
           "idCycle": 787,
-          "idCategorie": 3375,
+          "idCategorie": 3374,
           "titreCycle": "Laurent Achard",
-          "titreSousCycle": "Documentaires sur le cinéma"
+          "titreSousCycle": "Courts métrages"
         }
       ],
       "idEvenement": 31243,
@@ -2397,7 +2397,7 @@
           "titre": "Dolce vita",
           "art": "La",
           "realisateurs": "Federico Fellini",
-          "annee": 1959,
+          "annee": 1960,
           "duree": 173,
           "generique": "Marcello Mastroianni, Anita Ekberg, Anouk Aimée",
           "synopsis": "Un journaliste traverse avec désinvolture et amertume la folle vie nocturne de la _jet set_ romaine.",
@@ -2473,7 +2473,7 @@
           "titre": "Rapt à l'italienne",
           "titreVo": "Mordi e fuggi",
           "realisateurs": "Dino Risi",
-          "annee": 1972,
+          "annee": 1973,
           "duree": 101,
           "generique": "Marcello Mastroianni, Nicoletta Machiavelli, Oliver Reed",
           "synopsis": "Un industriel et sa maîtresse sont pris en otage par une bande de terroristes en fuite.",
@@ -2716,7 +2716,7 @@
           "titre": "8½",
           "titreVo": "Otto e mezzo",
           "realisateurs": "Federico Fellini",
-          "annee": 1962,
+          "annee": 1963,
           "duree": 137,
           "generique": "Marcello Mastroianni, Claudia Cardinale, Anouk Aimée",
           "synopsis": "Le cinéaste Guido Anselmi, en cure dans une station thermale, éprouve la crise du créateur. Alors qu'il cherche l'inspiration pour son prochain film, il se trouve happé par ses souvenirs et ses fantasmes.",
@@ -2784,43 +2784,41 @@
       "mention": "Séance présentée par Hervé Pichard. Accompagnement musical par Benjamin Moussay"
     },
     {
-      "idSeance": 133679,
+      "idSeance": 144441,
       "idProg": 182,
       "idCycleCategories": [
         {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
+          "idCycle": 741,
+          "idCategorie": 3235,
+          "titreCycle": "James Cameron",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30743,
+      "idEvenement": 29975,
       "typeEvenement": 13,
       "dateHeure": "2024-09-14T14:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 31402,
-          "titre": "Une étoile est née",
-          "titreVo": "A Star Is Born",
-          "realisateurs": "George Cukor",
-          "annee": 1954,
-          "duree": 176,
-          "generique": "Judy Garland, James Mason, Jack Carson",
-          "adaptation": "D'après le scénario _A Star Is Born_ de Dorothy Parker, Alan Campbell et Robert Carson pour le film de William A. Wellman.",
-          "miniTexte": "Amputé de 90 minutes, mutilé par la Warner sous d'obscurs prétextes de distribution, _Une étoile est née_ remporte pourtant un succès public et critique colossal. Norman Maine, grande vedette sur le déclin, fait d'une jeune chanteuse une star – et son épouse. Elle occupe le devant de la scène, il s'étiole peu à peu entre alcoolisme et dépression. Le jeu de James Mason, poignant, se conjugue au plus-que-parfait, tandis que Judy Garland, tantôt fragile ou douloureuse, est éblouissante. Cukor pose un regard plein de sagacité sur le monde du spectacle, ses vérités et ses illusions. Il tourne pour la première fois en Scope et en Technicolor, et s'impose comme l'un des plus grands stylistes hollywoodiens. Un drame désenchanté, une descente aux enfers rouge passion, un classique absolu.",
+          "idFilm": 154672,
+          "titre": "Avatar : La Voie de l'eau",
+          "titreVo": "Avatar: The Way of Water",
+          "realisateurs": "James Cameron",
+          "annee": 2022,
+          "generique": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
+          "miniTexte": "Projet pharaonique de James Cameron, le deuxième volet des aventures de Jake Sully est une épopée éblouissante, sur fond de récit initiatique. Une nouvelle fois, le maître des effets spéciaux repousse les frontières, orchestre un feu d'artifice visuel avec notamment des séquences de _performance capture_ filmées sous l'eau. L'écran est pour lui l'écrin rêvé pour partager avec le spectateur sa passion pour la technologie et ses défis les plus fous. Davantage qu'un film, une expérience de cinéma.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 10526,
-              "duree": 176,
+              "idCopie": 27179,
+              "duree": 0,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 1067
+          "idFilmBoxoffice": 178014
         }
       ]
     },
@@ -2930,7 +2928,7 @@
       ],
       "idEvenement": 30725,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-14T18:00:00",
+      "dateHeure": "2024-09-14T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2958,46 +2956,41 @@
       ]
     },
     {
-      "idSeance": 131470,
+      "idSeance": 144443,
       "idProg": 182,
       "idCycleCategories": [
         {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30733,
+      "idEvenement": 30067,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-14T18:45:00",
+      "dateHeure": "2024-09-14T18:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 31471,
-          "titre": "Quatre filles du docteur March",
+          "idFilm": 48678,
+          "titre": "Gaz mortels",
           "art": "Les",
-          "titreVo": "Little Women",
-          "realisateurs": "George Cukor",
-          "annee": 1933,
-          "duree": 115,
-          "generique": "Katharine Hepburn, Joan Bennett, Paul Lukas",
-          "adaptation": "D'après le roman _Les Quatre filles du docteur March_ de Louisa May Alcott.",
-          "ageMinimal": 10,
-          "synopsisJP": "D'après le best-seller de la littérature américaine, la vie d'une famille sur fond de guerre de Sécession. Aux côtés de ses sœurs Amy, Beth et Meg, l'indépendante et espiègle Jo se rêve en écrivaine. Un grand classique hollywoodien porté par Katharine Hepburn, pleine de panache.",
-          "miniTexte": "D'après le best-seller de la littérature américaine, la vie d'une famille sur fond de guerre de Sécession, entre esprit de sacrifice et rigueur morale. Katharine Hepburn incarne avec panache l'indépendante Jo, et Cukor s'affirme comme un grand directeur d'actrices. Un immense succès au box-office.",
-          "status": 2,
+          "realisateurs": "Abel Gance",
+          "annee": 1916,
+          "duree": 71,
+          "generique": "Léon Mathot, Émile Keppens, Henri Maillard, Maud Richard",
+          "miniTexte": "Première Guerre mondiale, un scientifique est sollicité par le gouvernement français pour élaborer des substances toxiques afin de les utiliser contre l'ennemi. Également connu sous le titre _Les Brouillards sur la ville_, un drame d'espionnage photographié par Léonce-Henri Burel, opérateur attitré d'Abel Gance puis de Robert Bresson.",
+          "status": 1,
           "copies": [
             {
-              "idCopie": 25532,
-              "duree": 115,
+              "idCopie": 4891,
+              "duree": 71,
               "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
+              "intertitres": "INT. FR."
             }
           ],
-          "idFilmBoxoffice": 7111
+          "idFilmBoxoffice": 26520
         }
       ]
     },
@@ -3014,8 +3007,8 @@
       ],
       "idEvenement": 30077,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-14T19:30:00",
-      "idSalle": "JE",
+      "dateHeure": "2024-09-14T20:15:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -3053,7 +3046,7 @@
       ],
       "idEvenement": 30727,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-14T20:15:00",
+      "dateHeure": "2024-09-14T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3077,47 +3070,6 @@
             }
           ],
           "idFilmBoxoffice": 2559
-        }
-      ]
-    },
-    {
-      "idSeance": 131471,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30737,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-14T21:15:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 31512,
-          "titre": "Roméo et Juliette",
-          "titreVo": "Romeo and Juliet",
-          "realisateurs": "George Cukor",
-          "annee": 1936,
-          "duree": 124,
-          "generique": "Norma Shearer, Leslie Howard, John Barrymore",
-          "adaptation": "D'après la pièce _Roméo et Juliette_ de William Shakespeare.",
-          "miniTexte": "Conçue comme une réponse de la MGM au _Songe d'une nuit d'été_ de la Warner (1935), une adaptation fidèle à l'esprit de Shakespeare, à laquelle Cukor apporte toute son expérience du théâtre. Dans les décors majestueux de Cédric Gibbons, Leslie Howard et Norma Shearer composent un portrait réaliste – nonobstant leur âge –, des amants de Vérone.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 27985,
-              "duree": 124,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 118873
         }
       ]
     },
@@ -3149,41 +3101,43 @@
       ]
     },
     {
-      "idSeance": 134201,
+      "idSeance": 144442,
       "idProg": 182,
       "idCycleCategories": [
         {
-          "idCycle": 741,
-          "idCategorie": 3235,
-          "titreCycle": "James Cameron",
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 29975,
+      "idEvenement": 30743,
       "typeEvenement": 13,
       "dateHeure": "2024-09-15T15:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154672,
-          "titre": "Avatar : La Voie de l'eau",
-          "titreVo": "Avatar: The Way of Water",
-          "realisateurs": "James Cameron",
-          "annee": 2022,
-          "generique": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
-          "miniTexte": "Projet pharaonique de James Cameron, le deuxième volet des aventures de Jake Sully est une épopée éblouissante, sur fond de récit initiatique. Une nouvelle fois, le maître des effets spéciaux repousse les frontières, orchestre un feu d'artifice visuel avec notamment des séquences de _performance capture_ filmées sous l'eau. L'écran est pour lui l'écrin rêvé pour partager avec le spectateur sa passion pour la technologie et ses défis les plus fous. Davantage qu'un film, une expérience de cinéma.",
+          "idFilm": 31402,
+          "titre": "Une étoile est née",
+          "titreVo": "A Star Is Born",
+          "realisateurs": "George Cukor",
+          "annee": 1954,
+          "duree": 176,
+          "generique": "Judy Garland, James Mason, Jack Carson",
+          "adaptation": "D'après le scénario _A Star Is Born_ de Dorothy Parker, Alan Campbell et Robert Carson pour le film de William A. Wellman.",
+          "miniTexte": "Amputé de 90 minutes, mutilé par la Warner sous d'obscurs prétextes de distribution, _Une étoile est née_ remporte pourtant un succès public et critique colossal. Norman Maine, grande vedette sur le déclin, fait d'une jeune chanteuse une star – et son épouse. Elle occupe le devant de la scène, il s'étiole peu à peu entre alcoolisme et dépression. Le jeu de James Mason, poignant, se conjugue au plus-que-parfait, tandis que Judy Garland, tantôt fragile ou douloureuse, est éblouissante. Cukor pose un regard plein de sagacité sur le monde du spectacle, ses vérités et ses illusions. Il tourne pour la première fois en Scope et en Technicolor, et s'impose comme l'un des plus grands stylistes hollywoodiens. Un drame désenchanté, une descente aux enfers rouge passion, un classique absolu.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27179,
-              "duree": 0,
+              "idCopie": 10526,
+              "duree": 176,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 178014
+          "idFilmBoxoffice": 1067
         }
       ]
     },
@@ -3242,7 +3196,7 @@
       ],
       "idEvenement": 30857,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-15T18:15:00",
+      "dateHeure": "2024-09-15T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3251,7 +3205,7 @@
           "titre": "Ginger et Fred",
           "titreVo": "Ginger e Fred",
           "realisateurs": "Federico Fellini",
-          "annee": 1985,
+          "annee": 1986,
           "duree": 127,
           "generique": "Marcello Mastroianni, Giulietta Masina, Franco Fabrizi",
           "synopsis": "Deux danseurs, qui imitaient trente ans plus tôt le couple Ginger Rogers / Fred Astaire, se retrouvent à l'occasion d'une émission de télévision invitant des sosies d'artistes.",
@@ -3374,46 +3328,6 @@
       ]
     },
     {
-      "idSeance": 133705,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 786,
-          "idCategorie": 3371,
-          "titreCycle": "Marcello Mastroianni",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30848,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-15T20:45:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48437,
-          "titre": "Grande Bouffe",
-          "art": "La",
-          "realisateurs": "Marco Ferreri",
-          "annee": 1973,
-          "duree": 125,
-          "generique": "Marcello Mastroianni, Philippe Noiret, Michel Piccoli, Ugo Tognazzi, Andréa Ferréol",
-          "synopsis": "Fatigués de vivre, quatre hommes se réunissent dans une villa isolée pour célébrer la bouffe, le sexe, l'amitié et la mort.",
-          "miniTexte": "Fatigués de vivre, quatre hommes se réunissent dans une villa isolée pour célébrer la ripaille, le sexe, l'amitié et la mort. Une « farce physiologique », un rejet catégorique de la société de consommation, arrière-fond d'une œuvre radicale, désespérée. Et un scandale au Festival de Cannes.",
-          "commentaire": "Sur la table, pâtés de foie, poulettes de Bresse, cuissots de chevreuil, sein en gélatine et tarte aux fesses. Cest un banquet qui sent le vomi, la merde et le sexe. La chère et la chair se rejoignent dans un excès de sueurs, vertiges et hurlements. Tognazzi, Mastroianni, Piccoli et Noiret, accompagnés d'Andréa Ferréol, s'adonnent aux bacchanales de Ferreri, se goinfrant jusqu'à en crever. Quatre personnages dans leur rôle de machine. « Une machine à manger, à baiser, à chier », dans ce que le cinéaste décrit lui-même comme une « farce physiologique », exprimant un rejet catégorique de la société de consommation. Une œuvre radicale, d'un profond désespoir, qui laisse le public du Festival de Cannes au bord de la nausée. « C'est immonde ! Une ignominie ! Vous êtes de honteux pornographes ! », entend-on à la descente des marches. Le producteur Jean-Pierre Rassam profite du scandale pour faire monter la sauce et déclare que « les gens de cinéma sont tous des cons ». Les semaines suivantes, dans le plus grand calme, les spectateurs se rendent en nombre voir le film. Déjà culte.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 21806,
-              "duree": 125,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 1372
-        }
-      ]
-    },
-    {
       "idSeance": 133828,
       "idProg": 182,
       "idCycleCategories": [
@@ -3451,6 +3365,46 @@
         }
       ],
       "mention": "Accompagnement musical par Jean-François Zygel"
+    },
+    {
+      "idSeance": 133705,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 786,
+          "idCategorie": 3371,
+          "titreCycle": "Marcello Mastroianni",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30848,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-15T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48437,
+          "titre": "Grande Bouffe",
+          "art": "La",
+          "realisateurs": "Marco Ferreri",
+          "annee": 1973,
+          "duree": 125,
+          "generique": "Marcello Mastroianni, Philippe Noiret, Michel Piccoli, Ugo Tognazzi, Andréa Ferréol",
+          "synopsis": "Fatigués de vivre, quatre hommes se réunissent dans une villa isolée pour célébrer la bouffe, le sexe, l'amitié et la mort.",
+          "miniTexte": "Fatigués de vivre, quatre hommes se réunissent dans une villa isolée pour célébrer la ripaille, le sexe, l'amitié et la mort. Une « farce physiologique », un rejet catégorique de la société de consommation, arrière-fond d'une œuvre radicale, désespérée. Et un scandale au Festival de Cannes.",
+          "commentaire": "Sur la table, pâtés de foie, poulettes de Bresse, cuissots de chevreuil, sein en gélatine et tarte aux fesses. Cest un banquet qui sent le vomi, la merde et le sexe. La chère et la chair se rejoignent dans un excès de sueurs, vertiges et hurlements. Tognazzi, Mastroianni, Piccoli et Noiret, accompagnés d'Andréa Ferréol, s'adonnent aux bacchanales de Ferreri, se goinfrant jusqu'à en crever. Quatre personnages dans leur rôle de machine. « Une machine à manger, à baiser, à chier », dans ce que le cinéaste décrit lui-même comme une « farce physiologique », exprimant un rejet catégorique de la société de consommation. Une œuvre radicale, d'un profond désespoir, qui laisse le public du Festival de Cannes au bord de la nausée. « C'est immonde ! Une ignominie ! Vous êtes de honteux pornographes ! », entend-on à la descente des marches. Le producteur Jean-Pierre Rassam profite du scandale pour faire monter la sauce et déclare que « les gens de cinéma sont tous des cons ». Les semaines suivantes, dans le plus grand calme, les spectateurs se rendent en nombre voir le film. Déjà culte.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21806,
+              "duree": 125,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 1372
+        }
+      ]
     },
     {
       "idSeance": 133738,
@@ -3877,7 +3831,7 @@
           "titreVo": "Bell'Antonio",
           "artVo": "Il",
           "realisateurs": "Mauro Bolognini",
-          "annee": 1961,
+          "annee": 1960,
           "duree": 102,
           "generique": "Marcello Mastroianni, Claudia Cardinale, Pierre Brasseur",
           "adaptation": "D'après le roman _Le Bel Antonio_ de Vitaliano Brancati.",
@@ -4678,7 +4632,7 @@
           "titreVo": "Terrazza",
           "artVo": "La",
           "realisateurs": "Ettore Scola",
-          "annee": 1979,
+          "annee": 1980,
           "duree": 160,
           "generique": "Ugo Tognazzi, Jean-Louis Trintignant, Marcello Mastroianni",
           "miniTexte": "Avec la fresque impitoyable d'un groupe d'intellectuels romains, Scola et ses scénaristes, Age et Scarpelli, mettent à nu les lâchetés, les mensonges et les illusions perdues d'anciens idéalistes à l'aube des années 80. Le constat d'échec d'une génération, interprété par les plus grands acteurs de la comédie italienne.",
@@ -4951,7 +4905,7 @@
           "titre": "Une journée particulière",
           "titreVo": "Una giornata particolare",
           "realisateurs": "Ettore Scola",
-          "annee": 1976,
+          "annee": 1977,
           "duree": 106,
           "generique": "Marcello Mastroianni, Sophia Loren, John Vernon",
           "miniTexte": "Mai 1938, tout Rome célèbre la visite officielle d'Hitler. Contrainte de rester chez elle, l'épouse d'un militant fasciste fait la rencontre d'un voisin, un intellectuel homosexuel menacé de déportation. Portrait de deux êtres abandonnés, magistralement interprétés, qui parviennent à voler quelques instants de bonheur aux heures les plus sombres de l'Histoire.",
@@ -5395,7 +5349,7 @@
           "idFilm": 42704,
           "titre": "Todo modo",
           "realisateurs": "Elio Petri",
-          "annee": 1975,
+          "annee": 1976,
           "duree": 130,
           "generique": "Marcello Mastroianni, Gian Maria Volonté, Mariangela Melato",
           "adaptation": "D'après le roman _Todo modo_ de Leonardo Sciascia.",
@@ -5557,7 +5511,7 @@
           "idFilm": 42426,
           "titre": "Splendor",
           "realisateurs": "Ettore Scola",
-          "annee": 1988,
+          "annee": 1989,
           "duree": 116,
           "generique": "Marcello Mastroianni, Marina Vlady, Massimo Troisi",
           "miniTexte": "En proie à la décrépitude et aux dettes, l'unique cinéma d'une petite ville de province va fermer ses portes. À coup d'allers-retours entre le passé et le présent, entre le noir et blanc et la couleur, une réflexion sur l'industrie cinématographique, doublée d'un vibrant hommage aux salles de cinéma.",
@@ -5599,7 +5553,7 @@
           "titreVo": "Otchi tchornyïé",
           "titreNx": "Очи чёрные",
           "realisateurs": "Nikita Mikhalkov",
-          "annee": 1986,
+          "annee": 1987,
           "duree": 144,
           "generique": "Marcello Mastroianni, Marthe Keller, Elena Safonova",
           "adaptation": "D'après les nouvelles _La Dame au petit chien_, _Ma femme_ et _Anne au cou_ d'Anton Tchekhov.",
@@ -6225,7 +6179,7 @@
           "idFilm": 41888,
           "titre": "Liza",
           "realisateurs": "Marco Ferreri",
-          "annee": 1971,
+          "annee": 1972,
           "duree": 96,
           "generique": "Catherine Deneuve, Marcello Mastroianni, Corinne Marchand",
           "adaptation": "D'après la nouvelle _Melampus_ d'Ennio Flaiano.",
@@ -7473,7 +7427,7 @@
           ]
         }
       ],
-      "mention": "Séance présentée par Marin Karmitz"
+      "mention": "Séance présentée par Bartabas et Marin Karmitz"
     },
     {
       "idSeance": 133962,
@@ -12992,45 +12946,6 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 132839,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 795,
-          "idCategorie": 3454,
-          "titreCycle": "Bo Widerberg",
-          "titreSousCycle": "Autour de Bo Widerberg"
-        }
-      ],
-      "idEvenement": 30954,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-06T20:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 80521,
-          "titre": "Vie à tout prix : Un film sur Bo Widerberg",
-          "art": "La",
-          "titreVo": "Liv till varje pris: En film om Bo Widerberg",
-          "realisateurs": "Stefan Jarl",
-          "annee": 1998,
-          "duree": 98,
-          "generique": "Thommy Berggren, Roy Andersson, Tomas von Brömssen",
-          "miniTexte": "Entretiens et images d'archives, qui composent un portrait de Bo Widerberg, mort en 1997.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28164,
-              "duree": 98,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 6197
-        }
-      ]
-    },
-    {
       "idSeance": 132838,
       "idProg": 182,
       "idCycleCategories": [
@@ -13068,6 +12983,45 @@
             }
           ],
           "idFilmBoxoffice": 170346
+        }
+      ]
+    },
+    {
+      "idSeance": 132839,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3454,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Autour de Bo Widerberg"
+        }
+      ],
+      "idEvenement": 30954,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-06T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80521,
+          "titre": "Vie à tout prix : Un film sur Bo Widerberg",
+          "art": "La",
+          "titreVo": "Liv till varje pris: En film om Bo Widerberg",
+          "realisateurs": "Stefan Jarl",
+          "annee": 1998,
+          "duree": 98,
+          "generique": "Thommy Berggren, Roy Andersson, Tomas von Brömssen",
+          "miniTexte": "Entretiens et images d'archives, qui composent un portrait de Bo Widerberg, mort en 1997.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28164,
+              "duree": 98,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 6197
         }
       ]
     },
