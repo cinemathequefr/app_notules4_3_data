@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-01T09:37:36.276Z",
+  "updatedAt": "2024-07-01T12:15:42.952Z",
   "data": [
     {
       "idSeance": 130975,
@@ -2236,7 +2236,8 @@
           "realisateurs": "Douglas Buck",
           "annee": 2011,
           "duree": 15,
-          "status": 1,
+          "generique": "Lena Kleine, Mélodie Simard, Jean-Paul Rivière",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28370,
@@ -2254,7 +2255,8 @@
           "realisateurs": "Douglas Buck",
           "annee": 2004,
           "duree": 104,
-          "status": 1,
+          "generique": "Gary Betsworth, Sally Conway, William Stone Mahoney",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28369,
@@ -2392,7 +2394,8 @@
           "realisateurs": "Douglas Buck",
           "annee": 2006,
           "duree": 92,
-          "status": 1,
+          "generique": "Chloë Sevigny, Stephen Rea, Lou Doillon",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28376,
@@ -2513,7 +2516,7 @@
           "idCycle": 11,
           "idCategorie": 3402,
           "titreCycle": "Séances spéciales",
-          "titreSousCycle": "Claire Angelini"
+          "titreSousCycle": "Avant-première Claire Angelini"
         }
       ],
       "idEvenement": 31050,
@@ -2527,8 +2530,10 @@
           "titre": "Jeanne fait des siennes",
           "realisateurs": "Claire Angelini",
           "annee": 2023,
+          "dureeStd": 92,
           "duree": 92,
-          "status": 0,
+          "generique": "Marie-Julie Lemercier, Geneviève Chan Lone, Marie-Ange Rey, Yadira Saís Ruiz",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28238,
@@ -5135,7 +5140,7 @@
           "annee": 2024,
           "duree": 115,
           "generique": "Kani Kurusti, Divya Prabha, Chhaya Kadam, Hridhu Haroon",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28396,
@@ -5418,7 +5423,7 @@
       "mention": "Séance présentée par Jean A. Gili"
     },
     {
-      "idSeance": 134166,
+      "idSeance": 144454,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -5643,7 +5648,8 @@
           "realisateurs": "Sergio Gobbi",
           "annee": 1971,
           "duree": 125,
-          "status": 1,
+          "generique": "Virna Lisi, Helmut Berger, Françoise Brion, Charles Aznavour",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28016,
@@ -7799,7 +7805,7 @@
       ]
     },
     {
-      "idSeance": 132091,
+      "idSeance": 144455,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7813,7 +7819,6 @@
       "typeEvenement": 13,
       "dateHeure": "2024-10-09T20:00:00",
       "idSalle": "HL",
-      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -7837,8 +7842,7 @@
           ],
           "idFilmBoxoffice": 6174
         }
-      ],
-      "mention": "Ouverture de la rétrospective"
+      ]
     },
     {
       "idSeance": 132093,
@@ -7972,7 +7976,7 @@
       ],
       "idEvenement": 31045,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-10T20:00:00",
+      "dateHeure": "2024-10-10T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -8862,7 +8866,7 @@
           "idCycle": 11,
           "idCategorie": 3353,
           "titreCycle": "Séances spéciales",
-          "titreSousCycle": "Anatole France / Micheline Presle"
+          "titreSousCycle": "Centenaire de la mort d'Anatole France"
         }
       ],
       "idEvenement": 30630,
@@ -8875,10 +8879,10 @@
           "idFilm": 53516,
           "titre": "Ceux de chez nous",
           "realisateurs": "Sacha Guitry",
-          "annee": 1914,
+          "annee": 1915,
           "duree": 21,
           "generique": "Sacha Guitry, Anatole France, Sarah Bernhardt",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 27805,
@@ -8895,7 +8899,8 @@
           "realisateurs": "Marc Allégret",
           "annee": 1942,
           "duree": 93,
-          "status": 0,
+          "generique": "Micheline Presle, Claude Dauphin, Louis Jourdan",
+          "status": 2,
           "copies": [
             {
               "idCopie": 27806,
@@ -8925,6 +8930,26 @@
       "items": [
         {
           "ordre": 1,
+          "idFilm": 154925,
+          "titre": "Cœur ailleurs",
+          "art": "Le",
+          "realisateurs": "Laura Tuillier",
+          "annee": 2023,
+          "dureeStd": 43,
+          "duree": 42,
+          "generique": "Stanislas Merhar",
+          "synopsis": "C'est l'histoire d'un comédien qui s'entraîne, d'un homme qui se souvient, d'un fils qui fait son deuil. C'est aussi l'histoire d'un livre, et d'un personnage qui entre dedans. « J'ai commencé à filmer Stanislas Merhar en pensant faire le portrait d'un acteur qui s'entraîne inlassablement, en attendant de jouer. Peu à peu, le film est devenu autre chose. Il me semble qu'il témoigne aussi de mon admiration pour Marcel Proust et Chantal Akerman, et du lien que nous créons avec Stanislas autour des œuvres qui nous consolent. » (Laura Tuillier)",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28395,
+              "duree": 42,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
           "idFilm": 69094,
           "titre": "Captive",
           "art": "La",
@@ -8943,26 +8968,6 @@
             }
           ],
           "idFilmBoxoffice": 24733
-        },
-        {
-          "ordre": 2,
-          "idFilm": 154925,
-          "titre": "Cœur ailleurs",
-          "art": "Le",
-          "realisateurs": "Laura Tuillier",
-          "annee": 2023,
-          "dureeStd": 43,
-          "duree": 42,
-          "generique": "Stanislas Merhar",
-          "synopsis": "C'est l'histoire d'un comédien qui s'entraîne, d'un homme qui se souvient, d'un fils qui fait son deuil. C'est aussi l'histoire d'un livre, et d'un personnage qui entre dedans. « J'ai commencé à filmer Stanislas Merhar en pensant faire le portrait d'un acteur qui s'entraîne inlassablement, en attendant de jouer. Peu à peu, le film est devenu autre chose. Il me semble qu'il témoigne aussi de mon admiration pour Marcel Proust et Chantal Akerman, et du lien que nous créons avec Stanislas autour des œuvres qui nous consolent. » (Laura Tuillier)",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 28395,
-              "duree": 42,
-              "format": "DCP"
-            }
-          ]
         }
       ],
       "mention": "Séance suivie d'une discussion avec Laura Tuillier et Stanislas Merhar"
@@ -10299,7 +10304,7 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 134027,
+      "idSeance": 144456,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -11332,11 +11337,6 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 28390,
-              "duree": 104,
-              "format": "35 mm"
             }
           ],
           "idFilmBoxoffice": 4302
@@ -11456,12 +11456,6 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 3945,
-              "duree": 82,
-              "format": "35 mm",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 8130
@@ -12362,12 +12356,6 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 27066,
-              "duree": 123,
-              "format": "35 mm",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 26177
@@ -12401,7 +12389,7 @@
           "duree": 93,
           "generique": "Akira Takarada, Momoko Kōchi, Akihiko Hirata",
           "synopsis": "Au large des côtes japonaises, plusieurs navires disparaissent mystérieusement. Alertées, les autorités dépêchent une expédition scientifique qui recueille les témoignages de pêcheurs terrorisés. Tous assurent avoir vu un monstre remonté du fond des mers. Lequel s'avère être un dinosaure réveillé par des explosions atomiques.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 9818,
@@ -12481,7 +12469,7 @@
           "realisateurs": "Jun Fukuda",
           "annee": 1967,
           "duree": 85,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28272,
@@ -12556,7 +12544,7 @@
           "realisateurs": "Jun Fukuda",
           "annee": 1974,
           "duree": 83,
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28268,
@@ -12632,7 +12620,7 @@
           "realisateurs": "Ryuhei Kitamura",
           "annee": 2004,
           "duree": 124,
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28271,
@@ -12772,7 +12760,8 @@
           "realisateurs": "Miguel Gomes",
           "annee": 2024,
           "duree": 129,
-          "status": 0,
+          "generique": "Gonçalo Waddington, Crista Alfaiate, Jani Zhao",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28397,
@@ -12780,7 +12769,8 @@
               "format": "DCP",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 325470
         }
       ],
       "mention": "Avant-première"
@@ -13485,12 +13475,6 @@
               "version": "VO",
               "sousTitres": "STF",
               "stDemande": true
-            },
-            {
-              "idCopie": 27053,
-              "duree": 106,
-              "format": "35 mm",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 7072
@@ -14417,13 +14401,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 20199,
-              "duree": 101,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 20208,
               "duree": 101,
               "format": "DCP",
@@ -15192,14 +15169,14 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28336,
+              "idCopie": 20235,
               "duree": 119,
               "format": "35 mm",
               "version": "VO",
               "stDemande": true
             },
             {
-              "idCopie": 20235,
+              "idCopie": 28336,
               "duree": 119,
               "format": "35 mm",
               "version": "VO",
@@ -15230,48 +15207,6 @@
       "items": []
     },
     {
-      "idSeance": 133157,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 797,
-          "idCategorie": 3396,
-          "titreCycle": "Casses, hold-ups et braquages en 25 indispensables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31022,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-17T17:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 64913,
-          "titre": "Thomas Crown",
-          "titreVo": "Thomas Crown Affair",
-          "artVo": "The",
-          "realisateurs": "John McTiernan",
-          "annee": 1999,
-          "duree": 105,
-          "generique": "Pierce Brosnan, Rene Russo, Denis Leary",
-          "synopsis": "Thomas Crown, amateur d'art, riche mécène, vole un tableau de Monet dans un grand musée new-yorkais. Catherine Banning, chasseuse de primes pour la compagnie assurant le tableau, le suspecte immédiatement.",
-          "miniTexte": "Le remake, bien meilleur que la version de 1968 signée Norman Jewison, avec Steve McQueen et Faye Dunaway. Le vol de tableau a remplacé le hold-up, Boston est devenue New York, Crown est sympathique et facétieux. Mais la substance est la même, qui célèbre le goût du risque, et cache un jeu de séduction vénéneux, pour l'amour de l'art et surtout l'art de l'amour.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 4974,
-              "duree": 105,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 20498
-        }
-      ]
-    },
-    {
       "idSeance": 133160,
       "idProg": 182,
       "idCycleCategories": [
@@ -15284,7 +15219,7 @@
       ],
       "idEvenement": 31196,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-17T17:30:00",
+      "dateHeure": "2024-11-17T16:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -15331,6 +15266,48 @@
             }
           ],
           "idFilmBoxoffice": 187771
+        }
+      ]
+    },
+    {
+      "idSeance": 133157,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396,
+          "titreCycle": "Casses, hold-ups et braquages en 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31022,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-17T17:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 64913,
+          "titre": "Thomas Crown",
+          "titreVo": "Thomas Crown Affair",
+          "artVo": "The",
+          "realisateurs": "John McTiernan",
+          "annee": 1999,
+          "duree": 105,
+          "generique": "Pierce Brosnan, Rene Russo, Denis Leary",
+          "synopsis": "Thomas Crown, amateur d'art, riche mécène, vole un tableau de Monet dans un grand musée new-yorkais. Catherine Banning, chasseuse de primes pour la compagnie assurant le tableau, le suspecte immédiatement.",
+          "miniTexte": "Le remake, bien meilleur que la version de 1968 signée Norman Jewison, avec Steve McQueen et Faye Dunaway. Le vol de tableau a remplacé le hold-up, Boston est devenue New York, Crown est sympathique et facétieux. Mais la substance est la même, qui célèbre le goût du risque, et cache un jeu de séduction vénéneux, pour l'amour de l'art et surtout l'art de l'amour.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 4974,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 20498
         }
       ]
     },
@@ -15386,7 +15363,7 @@
       ],
       "idEvenement": 21697,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-17T19:45:00",
+      "dateHeure": "2024-11-17T18:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -15921,12 +15898,6 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 27066,
-              "duree": 123,
-              "format": "35 mm",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 26177
@@ -16012,13 +15983,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 20199,
-              "duree": 101,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 20208,
               "duree": 101,
               "format": "DCP",
@@ -16068,48 +16032,6 @@
         }
       ],
       "mention": "Séance présentée par Francis Huster, Macha Méril et Nicole Garcia"
-    },
-    {
-      "idSeance": 133845,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 797,
-          "idCategorie": 3396,
-          "titreCycle": "Casses, hold-ups et braquages en 25 indispensables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31025,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-22T18:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 113249,
-          "titre": "Drive",
-          "realisateurs": "Nicolas Winding Refn",
-          "annee": 2011,
-          "duree": 95,
-          "generique": "Ryan Gosling, Carey Mulligan, Bryan Cranston",
-          "adaptation": "D'après le roman _Drive_ de James Sallis.",
-          "synopsis": "Mécanicien et cascadeur de jour, un jeune homme mutique devient chauffeur pour des gangsters la nuit. Un jour, il croise le chemin de sa voisine Irène et de son jeune fils.",
-          "miniTexte": "L'histoire d'un type taciturne, cascadeur le jour, chauffeur la nuit, au service de quelques braqueurs. Une existence bien réglée, jusqu'au moment où il s'éprend de sa voisine. Le cinéaste danois signe un thriller électrique, violent, porté par le jeu laconique de Ryan Gosling, irrésistible en samouraï urbain, impénétrable et magnétique.",
-          "commentaire": "_Drive_, c'est le résultat d'une rencontre qui aurait peut-être pu ne jamais avoir lieu entre un roman éponyme de James Sallis, un acteur et un réalisateur, réunis grâce à une chanson des années 1980. En effet, alors que le scénario circule depuis 2008, il est finalement proposé, deux ans plus tard, à Ryan Gosling, qui admire les films de Nicolas Winding Refn et suggère qu'il le réalise. La première rencontre entre l'acteur et le réalisateur semble tourner court car Refn, grippé, reste de marbre. Alors qu'il le raccompagne en voiture, Gosling allume la radio qui passe _Can't Fight This Feeling_ et... Refn fond alors en larmes : il a trouvé la figure de son chauffeur mutique qui écoute des chansons pop exprimant ses sentiments. Une relation presque télépathique se met alors en place entre l'acteur et son réalisateur. Si Gosling apparaît comme le pur héritier des héros mutiques et sans nom des films de Leone et de Melville, ses explosions de violence l'écartent du flegme de ses prédécesseurs. Le film joue en permanence sur les codes tout en les détournant : film d'action avec un héros majoritairement passif – la scène d'ouverture magistrale joue plus sur l'attente que l'action –, une attente qui se prolongera jusqu'à la moitié du film ; une femme « fatale » malgré elle, à l'irréprochable innocence ; un dur au regard angélique et amateur de chansons sucrées. _Drive_ embarque son spectateur dans une déambulation hallucinée au cœur d'un Los Angeles à la fois quotidien, pop et cauchemardesque.\n\nWafa Ghermani",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 9786,
-              "duree": 95,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 135082
-        }
-      ]
     },
     {
       "idSeance": 133623,
@@ -16186,7 +16108,7 @@
       "mention": "Séance présentée par Delphine Voiry-Humbert et Nicolas Rey"
     },
     {
-      "idSeance": 133286,
+      "idSeance": 133845,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -16196,34 +16118,34 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31015,
+      "idEvenement": 31025,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-22T20:00:00",
+      "dateHeure": "2024-11-22T18:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 34777,
-          "titre": "Un après-midi de chien",
-          "titreVo": "Dog Day Afternoon",
-          "realisateurs": "Sidney Lumet",
-          "annee": 1975,
-          "duree": 130,
-          "generique": "Al Pacino, John Cazale, Charles Durning",
-          "adaptation": "D'après l'article _The Boys in the Bank_ de P. F. Kluge et Thomas Moore.",
-          "synopsis": "Par un chaud après-midi d'août, Sonny et ses complices braquent une banque de Brooklyn. Mais le coffre est quasiment vide et la police a encerclé les lieux. Le braquage se transforme en prise d'otages et en cirque médiatique.",
-          "miniTexte": "Lumet, qui excelle dans les univers confinés, filme avec minimalisme une prise d'otages, effectuée par un désespéré qui veut offrir une chirurgie de réattribution sexuelle à l'homme qu'il aime. Un réquisitoire contre l'image reine (le braquage est suivi en direct par la foule), un plaidoyer pour les paumés, avec John Cazale, spectral, et Al Pacino en bisexuel, hallucinant et habité.",
+          "idFilm": 113249,
+          "titre": "Drive",
+          "realisateurs": "Nicolas Winding Refn",
+          "annee": 2011,
+          "duree": 95,
+          "generique": "Ryan Gosling, Carey Mulligan, Bryan Cranston",
+          "adaptation": "D'après le roman _Drive_ de James Sallis.",
+          "synopsis": "Mécanicien et cascadeur de jour, un jeune homme mutique devient chauffeur pour des gangsters la nuit. Un jour, il croise le chemin de sa voisine Irène et de son jeune fils.",
+          "miniTexte": "L'histoire d'un type taciturne, cascadeur le jour, chauffeur la nuit, au service de quelques braqueurs. Une existence bien réglée, jusqu'au moment où il s'éprend de sa voisine. Le cinéaste danois signe un thriller électrique, violent, porté par le jeu laconique de Ryan Gosling, irrésistible en samouraï urbain, impénétrable et magnétique.",
+          "commentaire": "_Drive_, c'est le résultat d'une rencontre qui aurait peut-être pu ne jamais avoir lieu entre un roman éponyme de James Sallis, un acteur et un réalisateur, réunis grâce à une chanson des années 1980. En effet, alors que le scénario circule depuis 2008, il est finalement proposé, deux ans plus tard, à Ryan Gosling, qui admire les films de Nicolas Winding Refn et suggère qu'il le réalise. La première rencontre entre l'acteur et le réalisateur semble tourner court car Refn, grippé, reste de marbre. Alors qu'il le raccompagne en voiture, Gosling allume la radio qui passe _Can't Fight This Feeling_ et... Refn fond alors en larmes : il a trouvé la figure de son chauffeur mutique qui écoute des chansons pop exprimant ses sentiments. Une relation presque télépathique se met alors en place entre l'acteur et son réalisateur. Si Gosling apparaît comme le pur héritier des héros mutiques et sans nom des films de Leone et de Melville, ses explosions de violence l'écartent du flegme de ses prédécesseurs. Le film joue en permanence sur les codes tout en les détournant : film d'action avec un héros majoritairement passif – la scène d'ouverture magistrale joue plus sur l'attente que l'action –, une attente qui se prolongera jusqu'à la moitié du film ; une femme « fatale » malgré elle, à l'irréprochable innocence ; un dur au regard angélique et amateur de chansons sucrées. _Drive_ embarque son spectateur dans une déambulation hallucinée au cœur d'un Los Angeles à la fois quotidien, pop et cauchemardesque.\n\nWafa Ghermani",
           "status": 2,
           "copies": [
             {
-              "idCopie": 25624,
-              "duree": 130,
+              "idCopie": 9786,
+              "duree": 95,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 1621
+          "idFilmBoxoffice": 135082
         }
       ]
     },
@@ -16294,6 +16216,48 @@
         }
       ],
       "mention": "Séance présentée par Patrick Chesnais et Vincent Lindon"
+    },
+    {
+      "idSeance": 133286,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396,
+          "titreCycle": "Casses, hold-ups et braquages en 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31015,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-22T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34777,
+          "titre": "Un après-midi de chien",
+          "titreVo": "Dog Day Afternoon",
+          "realisateurs": "Sidney Lumet",
+          "annee": 1975,
+          "duree": 130,
+          "generique": "Al Pacino, John Cazale, Charles Durning",
+          "adaptation": "D'après l'article _The Boys in the Bank_ de P. F. Kluge et Thomas Moore.",
+          "synopsis": "Par un chaud après-midi d'août, Sonny et ses complices braquent une banque de Brooklyn. Mais le coffre est quasiment vide et la police a encerclé les lieux. Le braquage se transforme en prise d'otages et en cirque médiatique.",
+          "miniTexte": "Lumet, qui excelle dans les univers confinés, filme avec minimalisme une prise d'otages, effectuée par un désespéré qui veut offrir une chirurgie de réattribution sexuelle à l'homme qu'il aime. Un réquisitoire contre l'image reine (le braquage est suivi en direct par la foule), un plaidoyer pour les paumés, avec John Cazale, spectral, et Al Pacino en bisexuel, hallucinant et habité.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 25624,
+              "duree": 130,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1621
+        }
+      ]
     },
     {
       "idSeance": 133329,
@@ -16452,12 +16416,6 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 3945,
-              "duree": 82,
-              "format": "35 mm",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 8130
@@ -16806,11 +16764,6 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 28390,
-              "duree": 104,
-              "format": "35 mm"
             }
           ],
           "idFilmBoxoffice": 4302
@@ -16972,7 +16925,7 @@
       ],
       "idEvenement": 21657,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-24T19:00:00",
+      "dateHeure": "2024-11-24T20:00:00",
       "idSalle": "JE",
       "items": [
         {
