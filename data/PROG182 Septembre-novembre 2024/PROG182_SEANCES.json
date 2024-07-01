@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-01T12:15:42.952Z",
+  "updatedAt": "2024-07-01T12:55:50.946Z",
   "data": [
     {
       "idSeance": 130975,
@@ -8880,8 +8880,10 @@
           "titre": "Ceux de chez nous",
           "realisateurs": "Sacha Guitry",
           "annee": 1915,
+          "dureeStd": 21,
           "duree": 21,
           "generique": "Sacha Guitry, Anatole France, Sarah Bernhardt",
+          "miniTexte": "D'André Antoine à Sarah Bernhardt en passant par Edgar Degas, Guitry filme onze « admirables Français » parmi les plus grandes personnalités de son temps. Alors que la guerre fait rage, il les observe en plein travail créatif et multiplie les anecdotes dans une volonté de transmission aux générations futures.",
           "status": 2,
           "copies": [
             {
@@ -8955,6 +8957,7 @@
           "art": "La",
           "realisateurs": "Chantal Akerman",
           "annee": 2000,
+          "dureeStd": 118,
           "duree": 108,
           "generique": "Stanislas Merhar, Sylvie Testud, Olivia Bonamy",
           "adaptation": "D'après le roman _La Prisonnière_ de Marcel Proust.",
@@ -10772,7 +10775,7 @@
       ]
     },
     {
-      "idSeance": 134071,
+      "idSeance": 144457,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -10780,54 +10783,59 @@
           "idCategorie": 2201,
           "titreCycle": "Michael Powell",
           "titreSousCycle": "Les films"
-        },
-        {
-          "idCycle": 476,
-          "idCategorie": 3406,
-          "titreCycle": "Michael Powell",
-          "titreSousCycle": "Rencontres et conférences"
         }
       ],
-      "idEvenement": 21697,
+      "idEvenement": 21692,
+      "typeEvenement": 13,
       "dateHeure": "2024-10-26T14:30:00",
       "idSalle": "HL",
-      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
-          "idFilm": 42007,
-          "titre": "Je sais où je vais",
-          "titreVo": "I Know Where I'm Going",
+          "idFilm": 42561,
+          "titre": "Chaussons rouges",
+          "art": "Les",
+          "titreVo": "Red Shoes",
+          "artVo": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1945,
-          "duree": 91,
-          "generique": "Wendy Hiller, Roger Livesey, Pamela Brown",
-          "miniTexte": "Joan Webster sait ce qu'elle veut et où elle va, mais le trajet vers son destin est parsemé d'imprévus et de remises en question. Sur une idée de sa propre femme, Frankie, Powell utilise une chanson irlandaise, _I Know Where I'm Going_, comme point de départ d'un conte gaélique dans les brumes écossaises. Toute la malice du duo Powell et Pressburger exulte dans ce portrait pittoresque de l'Écosse profonde, dont les lumières crépusculaires et le folklore accompagnent à merveille cette histoire romanesque. Avec le superbe duo Roger Livesey et Wendy Hiller, en totale harmonie.",
+          "annee": 1948,
+          "duree": 133,
+          "generique": "Anton Walbrook, Moira Shearer, Marius Goring",
+          "adaptation": "D'après la nouvelle _De røde sko_ de Hans Christian Andersen.",
+          "synopsis": "Quand Victoria, danseuse étoile des « Chaussons rouges », tombe amoureuse du compositeur de l'opéra, le cruel directeur va tout faire pour, au nom de l'art, séparer les deux jeunes amoureux.",
+          "miniTexte": "Qualifié par De Palma de « film parfait », _Les Chaussons rouges_ orchestre la rencontre du fantastique avec la rigueur du monde de la danse. Sur un sujet angoissant, volontiers sombre, Powell extirpe un déluge de couleurs, de tulles et de paillettes pour exprimer la passion dévorante des artistes et le besoin de s'y abandonner corps et âme. D'une durée de dix-sept minutes, illuminée par la chevelure flamboyante de Moira Shearer, la superbe séquence de ballet, qui oscille entre surréalisme et grâce, résume, à elle seule, ce parcours aussi tétanisant que galvanisant vers le don de soi.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 20194,
-              "duree": 91,
+              "idCopie": 20205,
+              "duree": 133,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             },
             {
-              "idCopie": 20237,
-              "duree": 92,
+              "idCopie": 20206,
+              "duree": 133,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27058,
+              "duree": 133,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 27057,
+              "duree": 133,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 4301
-        },
-        {
-          "ordre": 2,
-          "idConf": 31067,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Natacha Thiéry ",
-          "duree": 60
+          "idFilmBoxoffice": 553
         }
       ]
     },
@@ -10910,6 +10918,33 @@
             }
           ],
           "idFilmBoxoffice": 174794
+        }
+      ]
+    },
+    {
+      "idSeance": 133863,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 3406,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31067,
+      "typeEvenement": 14,
+      "dateHeure": "2024-10-26T16:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31067,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Natacha Thiéry ",
+          "duree": 60
         }
       ]
     },
@@ -12695,11 +12730,11 @@
         {
           "ordre": 1,
           "idFilm": 154918,
-          "titre": "Te quiero ma Vahiné",
+          "titre": "Te quiero ma vahiné",
           "realisateurs": "Yuna Alonzo",
           "annee": 2024,
           "duree": 33,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28375,
@@ -15523,7 +15558,7 @@
           "idCycle": 140,
           "idCategorie": 3450,
           "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "Carte blanche à la revue Blink Blank"
+          "titreSousCycle": "Carte blanche à la revue Blink Blank : Adam Elliot"
         }
       ],
       "idEvenement": 31342,
