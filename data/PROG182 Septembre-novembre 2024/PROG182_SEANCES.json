@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-28T13:38:35.663Z",
+  "updatedAt": "2024-07-01T08:17:03.997Z",
   "data": [
     {
       "idSeance": 130975,
@@ -9211,7 +9211,8 @@
             {
               "idCopie": 28311,
               "duree": 71,
-              "format": "16 mm"
+              "format": "16 mm",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 18613
@@ -10286,11 +10287,6 @@
               "idCopie": 28305,
               "duree": 80,
               "format": "35 mm"
-            },
-            {
-              "idCopie": 28304,
-              "duree": 80,
-              "format": "16 mm"
             }
           ],
           "idFilmBoxoffice": 10049
@@ -17037,6 +17033,74 @@
             }
           ],
           "idFilmBoxoffice": 1529
+        }
+      ]
+    },
+    {
+      "idSeance": 133359,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3456,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Lucie Plumet"
+        }
+      ],
+      "idEvenement": 31345,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-25T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154934,
+          "titre": "Après Anna",
+          "realisateurs": "Lucie Plumet",
+          "annee": 2024,
+          "duree": 17,
+          "generique": "Maxime Roy, Yoann Zimmer, Anna Stanic",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28441,
+              "duree": 17,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 153779,
+          "titre": "Donovan s'évade",
+          "realisateurs": "Lucie Plumet",
+          "annee": 2021,
+          "duree": 25,
+          "generique": "Yoann Zimmer, Aurélia Petit, Sébastien Houbani",
+          "synopsis": "Alors que des manifestations violentes ont lieu dans la région, Donovan, jeune garde du corps, est chargé de protéger la femme d'un ministre, en vacances avec des amis.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 24503,
+              "duree": 25,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 154936,
+          "titre": "D'un château l'autre",
+          "realisateurs": "Emmanuel Marre",
+          "annee": 2018,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28446,
+              "duree": 0,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-06-28T12:19:40.325Z",
+  "updatedAt": "2024-07-01T08:17:08.821Z",
   "data": [
     {
       "idSeance": 128873,
@@ -6875,8 +6875,7 @@
           ],
           "idFilmBoxoffice": 111361
         }
-      ],
-      "mention": "Séance présentée par Dominique Reymond"
+      ]
     },
     {
       "idSeance": 129810,
@@ -7468,11 +7467,27 @@
       ],
       "idEvenement": 30632,
       "typeEvenement": 13,
-      "libelleEvenement": "SÉANCE D'OUVERTURE REPRISE FID MARSEILLE 2024",
       "dateHeure": "2024-07-05T20:00:00",
       "idSalle": "GF",
-      "theorique": true,
-      "items": []
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154937,
+          "titre": "7 Promenades avec Mark Brown",
+          "realisateurs": "Pierre Creton, Vincent Barré",
+          "annee": 2024,
+          "duree": 104,
+          "synopsis": "Mark Brown est paléobotaniste. Il consacre sa vie à un projet fou : reconstituer une forêt primaire dans son jardin de Normandie. Les spectateurs d'Un Prince, le précédent film de Pierre Creton, le connaissent : il y donne une leçon sur l'origine des fleurs dans la classe d'Alberto, joué par Vincent Barré. Ceux qui suivent l'itinéraire de Pierre Creton connaissent toutes celles et ceux qui composent la petite bande ici rassemblée. Car l'origine de ses films, réalisés seul ou avec Vincent Barré, se situe toujours entre curiosité et amitié, aventure et fidélité. L'aventure, ici, consiste à se laisser conduire par Mark Brown, promenade après promenade, à la recherche des plantes endémiques du Pays-de-Caux. En 2006, Barré et Creton réalisaient un merveilleux film-herbier dans la haute vallée du Spiti, en Himalaya : L'Arc d'Iris (FID 2006), film vibrant de beauté, fleurs relevées à la main, caméra DV au point. Rejouant ce geste dans des paysages plus familiers, entre Seine et falaises, ils lui donnent une tout autre ampleur. C'est d'abord « Le tournage », filmé en numérique : la petite bande s'égaye de prairie en tourbière, dans le sillage de son guide. L'une prend des notes, un autre des sons, certains bavardent en chemin, Mark s'extasie de fleur en fleur. Un dernier s'affaire de son côté, concentré : il mesure la lumière, choisit la focale, déclenche la prise qui fixera sur la pellicule la singulière beauté de chaque plante. La collection de ces plans constitue la seconde partie du film : « L'herbier ». Après les plans larges et les paysages, après l'image numérique, le surgissement des fleurs en gros plan, transfigurées par le 16mm, est un émerveillement. Fleur après fleur, à voix basse, comme intimidé par tant de beauté, Mark Brown improvise un commentaire entre science et poésie. Trop pudique pour la dire, il partage par l'exemple une autre leçon : se rapprocher des plantes, partager leur vie, condition d'une survie poétique au cœur du désastre. Cyril Neyrat",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28447,
+              "duree": 104,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 130819,
@@ -8190,11 +8205,28 @@
       ],
       "idEvenement": 30637,
       "typeEvenement": 13,
-      "libelleEvenement": "SÉLECTION FID MARSEILLE SÉANCE 2",
       "dateHeure": "2024-07-08T18:00:00",
       "idSalle": "JE",
-      "theorique": true,
-      "items": []
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154938,
+          "titre": "Chambre d'ombres",
+          "art": "La",
+          "realisateurs": "Camilo Restrepo",
+          "annee": 2024,
+          "duree": 65,
+          "synopsis": "Il y a dix ans, dans L'Impression d'une guerre, Camilo Restrepo s'intéressait à la manière dont la guerre qui déchire depuis des décennies son pays natal, la Colombie, a laissé des traces constituant une mémoire visuelle. Avec La Chambre d'ombres, il invente un dispositif allégorique qui élargit et universalise la réflexion à partir d'exemples pris à toute l'histoire des représentations de la guerre et de la violence. Au centre de l'allégorie se tient une femme, seule dans sa maison par temps de guerre. Elle n'a pas de nom, pas d'identité propre, comme la guerre dont on ne perçoit que le vacarme au-dehors. Qui est cette femme ? Elle le dit au début du film, elle est celle qui, la première, a non seulement dessiné un portrait, mais surtout mémorisé une image : l'ombre projetée sur un mur par son amant avant de partir à la guerre – Pline l'Ancien relu par Restrepo. Imaginons que cette femme ait, depuis, mémorisé toutes les représentations de la guerre. Que, dans sa chambre assiégée, certaines représentations lui reviennent comme des ombres. Quand elle n'est pas occupée par la guerre qui menace de détruire sa maison, elle se met à les décrire, et à les interpréter, l'une après l'autre : un tableau de Paul Klee, un film de Travis Wilkerson, une photo de Susan Meiselas, etc. Sa parole projette les représentations dans le cerveau du spectateur qui devient, à son tour, chambre d'ombres et théâtre de la pensée. Au cœur du film, la description de L'ABC de la guerre énonce sa nature brechtienne : bien plus qu'un musée imaginaire, La Chambre d'ombres est un prototype de machine pédagogique, machine de guerre contre les illusions qui faussent notre relation aux représentations, contre toutes les formes de manipulation de la relation entre image et réalité. La chambre éclaire. Cyril Neyrat",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28448,
+              "duree": 65,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 129954,
@@ -8250,11 +8282,30 @@
       ],
       "idEvenement": 30638,
       "typeEvenement": 13,
-      "libelleEvenement": "SÉLECTION FID MARSEILLE SÉANCE 3",
       "dateHeure": "2024-07-08T20:15:00",
       "idSalle": "JE",
-      "theorique": true,
-      "items": []
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154939,
+          "titre": "Ballad of Suzanne Césaire",
+          "art": "The",
+          "realisateurs": "Madeleine Hunt-Ehrlich",
+          "annee": 2024,
+          "duree": 74,
+          "synopsis": "Poursuivant son attachement à exhumer des chapitres invisibilisés de l'histoire des femmes noires, Madeleine Hunt-Ehrlich s'empare de la figure de Suzanne Césaire, militante, écrivaine et intellectuelle méconnue. Restée dans l'ombre de son mari Aimé Césaire ou d'André Breton, elle fut co-fondatrice de la fameuse revue Tropiques, dont elle a été une contributrice déterminante et la cheville ouvrière, elle qui fut aussi femme, noire et mère. Sur et autour d'un plateau de tournage d'un film qui lui est dédié, reconstituant les années 1940, les questions s'entrelacent, se répondent : positions mises en abyme qui sont questionnées dans les écrits de Suzanne Césaire, par Madeleine Hunt-Ehrlich et par l'actrice qui incarne l'actrice l'incarnant, Zita Hanrot : « Comment a-t-elle pu écrire ? se demande-t-elle, elle qui a eu six enfants et enseignait à plein temps ». Et paradoxe, remarque-t-elle face caméra, « Nous faisons un film sur une artiste qui ne voulait pas qu'on se souvienne d'elle ». Dans ce jeu de positions, de résonances entre époques, la cinéaste fait sien le caractère fragmentaire des écrits de Suzanne Césaire (seuls subsistent sa correspondance et les textes publiés dans le revue), dont des extraits dits, lus, émaillent le film. Un des des enjeux est de redonner force et actualité à cette pensée située, le film formulant des questions dont il s'agit de s'emparer, aujourd'hui. Traversée des temps et des espaces que souligne le parti de se défaire des illusions de la reconstitution, le film est tourné dans un jardin tropical en Floride, lieu choisi comme point de rencontre de la diversité caribéenne (elle qui a écrit sur ces paysages) et de son caractère diasporique. Ce film magnifique s'offre autant comme un hommage que comme un envoi, afin de garder sa pensée vivante. Nicolas Feodoroff",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28449,
+              "duree": 74,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 130763,
