@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-01T12:55:50.946Z",
+  "updatedAt": "2024-07-01T15:11:04.678Z",
   "data": [
     {
       "idSeance": 130975,
@@ -990,7 +990,8 @@
           "realisateurs": "Mathieu Morel",
           "annee": 2024,
           "duree": 43,
-          "status": 1,
+          "generique": "Thomas Ducasse, Julie Morel",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28388,
@@ -1009,7 +1010,7 @@
           "annee": 2023,
           "duree": 81,
           "generique": "Mathieu Morel, Bertrand Bonello, Aurélien Deniel",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28380,
@@ -1192,7 +1193,7 @@
       ],
       "idEvenement": 30744,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-04T20:15:00",
+      "dateHeure": "2024-09-04T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1726,7 +1727,8 @@
           ],
           "idFilmBoxoffice": 2973
         }
-      ]
+      ],
+      "mention": "Séance présentée par Joël Daire"
     },
     {
       "idSeance": 133868,
@@ -2293,7 +2295,8 @@
           "realisateurs": "Rayane Mcirdi",
           "annee": 2024,
           "duree": 25,
-          "status": 1,
+          "generique": "Sonia Faidi, Bellamine Abdelmalek, Flore Hamidani, Romane Oukhemanou, Yanis Hamidani",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28371,
@@ -2316,7 +2319,7 @@
           "dureeStd": 97,
           "duree": 97,
           "generique": "Leon Lai, Takeshi Kaneshiro, Charlie Young",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 8451,
@@ -4266,7 +4269,7 @@
       ],
       "idEvenement": 30701,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-20T20:30:00",
+      "dateHeure": "2024-09-20T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4307,7 +4310,7 @@
       ],
       "idEvenement": 30842,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-20T21:00:00",
+      "dateHeure": "2024-09-20T21:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4390,7 +4393,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Joël Daire"
     },
     {
       "idSeance": 133710,
@@ -4543,45 +4547,6 @@
       ]
     },
     {
-      "idSeance": 134202,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 741,
-          "idCategorie": 3235,
-          "titreCycle": "James Cameron",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 29886,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-22T15:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 30824,
-          "titre": "Terminator",
-          "realisateurs": "James Cameron",
-          "annee": 1984,
-          "duree": 107,
-          "generique": "Arnold Schwarzenegger, Michael Biehn, Linda Hamilton",
-          "miniTexte": "2029, l'humanité est en guerre contre les machines, et la Résistance envoie l'un des siens dans le passé pour influer sur le cours de l'Histoire. Linda Hamilton est Sarah Connor, Michael Biehn son ange gardien, et Arnold Schwarzenegger le T-800, cyborg meurtrier. _Terminator_ marque les débuts de la franchise avec un premier volet musclé : courses-poursuites efficaces, effets spéciaux impeccables, pour une réflexion sur l'intelligence artificielle qui trouve aujourd'hui un écho tout particulier. Une référence du cinéma d'anticipation, et la naissance du mythe Schwarzie (_« I'll be back! »_), qui inscrit son nom au panthéon de la pop culture.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 9957,
-              "duree": 107,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 309
-        }
-      ]
-    },
-    {
       "idSeance": 133890,
       "idProg": 182,
       "idCycleCategories": [
@@ -4594,7 +4559,7 @@
       ],
       "idEvenement": 30931,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-22T15:00:00",
+      "dateHeure": "2024-09-22T14:30:00",
       "idSalle": "JE",
       "items": [
         {
@@ -4658,6 +4623,45 @@
           "annee": 1927,
           "status": 0,
           "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 134202,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 741,
+          "idCategorie": 3235,
+          "titreCycle": "James Cameron",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 29886,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-22T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30824,
+          "titre": "Terminator",
+          "realisateurs": "James Cameron",
+          "annee": 1984,
+          "duree": 107,
+          "generique": "Arnold Schwarzenegger, Michael Biehn, Linda Hamilton",
+          "miniTexte": "2029, l'humanité est en guerre contre les machines, et la Résistance envoie l'un des siens dans le passé pour influer sur le cours de l'Histoire. Linda Hamilton est Sarah Connor, Michael Biehn son ange gardien, et Arnold Schwarzenegger le T-800, cyborg meurtrier. _Terminator_ marque les débuts de la franchise avec un premier volet musclé : courses-poursuites efficaces, effets spéciaux impeccables, pour une réflexion sur l'intelligence artificielle qui trouve aujourd'hui un écho tout particulier. Une référence du cinéma d'anticipation, et la naissance du mythe Schwarzie (_« I'll be back! »_), qui inscrit son nom au panthéon de la pop culture.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 9957,
+              "duree": 107,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 309
         }
       ]
     },
@@ -4843,7 +4847,8 @@
           "copies": [
             {
               "idCopie": 28182,
-              "duree": 7
+              "duree": 7,
+              "format": "Numérique"
             }
           ],
           "idFilmBoxoffice": 144442
@@ -4861,7 +4866,8 @@
           "copies": [
             {
               "idCopie": 28179,
-              "duree": 6
+              "duree": 6,
+              "format": "Numérique"
             }
           ],
           "idFilmBoxoffice": 120961
@@ -4902,7 +4908,7 @@
       ],
       "idEvenement": 30907,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-22T20:00:00",
+      "dateHeure": "2024-09-22T20:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4949,7 +4955,7 @@
       ],
       "idEvenement": 30853,
       "typeEvenement": 13,
-      "dateHeure": "2024-09-22T20:30:00",
+      "dateHeure": "2024-09-22T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -6316,7 +6322,7 @@
           "annee": 2018,
           "duree": 15,
           "synopsis": "Dans un château perdu au milieu de la campagne, un mystérieux jeune homme arrive pour faire le service d'une soirée mondaine. Confronté à une famille de châtelains bien plus étrange qu'il ne l'avait prévu, la soirée va prendre un tournant inattendu.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28344,
@@ -6332,7 +6338,7 @@
           "realisateurs": "Axel Würsten",
           "annee": 2019,
           "duree": 8,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28342,
@@ -6348,7 +6354,7 @@
           "realisateurs": "Axel Würsten",
           "annee": 2021,
           "duree": 7,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28343,
@@ -6365,7 +6371,7 @@
           "annee": 2023,
           "duree": 26,
           "synopsis": "Corinne, 50 ans, est une ancienne starlette de la chanson des années 90, connue sous le nom de « Samantha Chérie ». Désormais seule et oubliée, elle a du mal à vivre la réussite de sa fille, instagrammeuse à succès. Un soir, lorsque Corinne se fait prendre en otage chez elle pour une demande de rançon par un mystérieux inconnu, la peur et l'incompréhension laissent progressivement place à l'espoir. Et si c'était l'occasion de faire à nouveau parler de Samantha Chérie et d'effectuer un come-back sous le feu des projecteurs ?",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28341,
@@ -6383,7 +6389,7 @@
           "annee": 2024,
           "duree": 24,
           "synopsis": "Une patrouille scout arrive pour donner une représentation de la Crucifixion du Christ dans un village isolé, réputé pour avoir été le théâtre d'apparitions extra-terrestres dans les années 70. Rien ne peut dévier de son but obsessionnel le scout qui a hérité du rôle du Christ, Karim, 17 ans : trouver l'extase pour bien interpréter le martyre en croix.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28340,
@@ -6907,7 +6913,7 @@
       ]
     },
     {
-      "idSeance": 131985,
+      "idSeance": 144464,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -6917,32 +6923,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31038,
+      "idEvenement": 31034,
       "typeEvenement": 13,
       "dateHeure": "2024-10-04T18:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 49441,
-          "titre": "Coup pour coup",
-          "realisateurs": "Marin Karmitz",
-          "annee": 1971,
-          "duree": 90,
-          "generique": "Danielle Chinsky, François Knobelspiess, André Rouyer",
-          "miniTexte": "Elbeuf, Normandie. Les ouvrières d'une petite entreprise de textile se mettent en grève, jusqu'à, tensions, escalade, séquestrer leur patron. À la lisière du documentaire (les employées jouent leur propres rôles), Karmitz réalise son dernier film avant de se consacrer pleinement à la production, et met un point final à sa trilogie militante, sur les conflits sociaux et la révolte des travailleurs opprimés.",
+          "idFilm": 52785,
+          "titre": "Trois couleurs : Rouge",
+          "realisateurs": "Krzysztof Kieślowski",
+          "annee": 1993,
+          "dureeStd": 96,
+          "duree": 95,
+          "generique": "Irène Jacob, Jean-Louis Trintignant, Frédérique Feder",
+          "synopsis": "Un juge à la retraite a mis ses voisins sur écoute téléphonique. Parmi eux, Valentine, étudiante et mannequin. Un jour, Valentine ramène au juge son chien égaré. Une étrange relation se noue alors entre eux.",
+          "miniTexte": "Dernier volet de la trilogie tricolore, Rouge rassemble les pièces d'un puzzle à trois personnages, qu'un chien renversé va relier au fil des hasards et du destin. Obsédé par les signes et le sens du détail, Kieslowski mêle amour et voyeurisme dans un subtil jeu de piste qui marque le point final, incandescent, d'une œuvre exemplaire.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27645,
-              "duree": 90,
+              "idCopie": 22422,
+              "duree": 95,
               "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 9887
+          "idFilmBoxoffice": 74338
         }
-      ],
-      "mention": "Séance présentée par Marin Karmitz"
+      ]
     },
     {
       "idSeance": 131987,
@@ -7767,7 +7774,7 @@
       ]
     },
     {
-      "idSeance": 132094,
+      "idSeance": 144466,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7777,30 +7784,29 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31032,
+      "idEvenement": 31038,
       "typeEvenement": 13,
       "dateHeure": "2024-10-09T18:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 47518,
-          "titre": "Vie est un long fleuve tranquille",
-          "art": "La",
-          "realisateurs": "Étienne Chatiliez",
-          "annee": 1987,
-          "duree": 93,
-          "generique": "Benoît Magimel, Hélène Vincent, Valérie Lalonde",
-          "miniTexte": "Benoît Magimel dans son premier rôle, des répliques cultes (« C'est lundi, c'est ravioli ! »), et la parodie désopilante de Patrick Bouchitey en curé catéchiste, avec son fameux « Jésus revient ». Chatiliez trouve dans une histoire de bébé échangé à la naissance le prétexte idéal pour passer au vitriol les stéréotypes sociaux. Carton plein : pour ses débuts au cinéma, il fait rire la France entière avec les déboires des Groseille et des Le Quesnoy, et remporte 4 Césars.",
+          "idFilm": 49441,
+          "titre": "Coup pour coup",
+          "realisateurs": "Marin Karmitz",
+          "annee": 1971,
+          "duree": 90,
+          "generique": "Danielle Chinsky, François Knobelspiess, André Rouyer",
+          "miniTexte": "Elbeuf, Normandie. Les ouvrières d'une petite entreprise de textile se mettent en grève, jusqu'à, tensions, escalade, séquestrer leur patron. À la lisière du documentaire (les employées jouent leur propres rôles), Karmitz réalise son dernier film avant de se consacrer pleinement à la production, et met un point final à sa trilogie militante, sur les conflits sociaux et la révolte des travailleurs opprimés.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27652,
-              "duree": 93,
+              "idCopie": 27645,
+              "duree": 90,
               "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 3130
+          "idFilmBoxoffice": 9887
         }
       ]
     },
@@ -7857,7 +7863,7 @@
       ],
       "idEvenement": 31035,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-09T20:30:00",
+      "dateHeure": "2024-10-09T20:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -8152,7 +8158,7 @@
       ]
     },
     {
-      "idSeance": 132131,
+      "idSeance": 144467,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -8162,31 +8168,30 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31034,
+      "idEvenement": 31032,
       "typeEvenement": 13,
       "dateHeure": "2024-10-11T21:00:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 52785,
-          "titre": "Trois couleurs : Rouge",
-          "realisateurs": "Krzysztof Kieślowski",
-          "annee": 1993,
-          "dureeStd": 96,
-          "duree": 95,
-          "generique": "Irène Jacob, Jean-Louis Trintignant, Frédérique Feder",
-          "synopsis": "Un juge à la retraite a mis ses voisins sur écoute téléphonique. Parmi eux, Valentine, étudiante et mannequin. Un jour, Valentine ramène au juge son chien égaré. Une étrange relation se noue alors entre eux.",
-          "miniTexte": "Dernier volet de la trilogie tricolore, Rouge rassemble les pièces d'un puzzle à trois personnages, qu'un chien renversé va relier au fil des hasards et du destin. Obsédé par les signes et le sens du détail, Kieslowski mêle amour et voyeurisme dans un subtil jeu de piste qui marque le point final, incandescent, d'une œuvre exemplaire.",
+          "idFilm": 47518,
+          "titre": "Vie est un long fleuve tranquille",
+          "art": "La",
+          "realisateurs": "Étienne Chatiliez",
+          "annee": 1987,
+          "duree": 93,
+          "generique": "Benoît Magimel, Hélène Vincent, Valérie Lalonde",
+          "miniTexte": "Benoît Magimel dans son premier rôle, des répliques cultes (« C'est lundi, c'est ravioli ! »), et la parodie désopilante de Patrick Bouchitey en curé catéchiste, avec son fameux « Jésus revient ». Chatiliez trouve dans une histoire de bébé échangé à la naissance le prétexte idéal pour passer au vitriol les stéréotypes sociaux. Carton plein : pour ses débuts au cinéma, il fait rire la France entière avec les déboires des Groseille et des Le Quesnoy, et remporte 4 Césars.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 22422,
-              "duree": 95,
+              "idCopie": 27652,
+              "duree": 93,
               "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 74338
+          "idFilmBoxoffice": 3130
         }
       ]
     },
@@ -8883,7 +8888,7 @@
           "dureeStd": 21,
           "duree": 21,
           "generique": "Sacha Guitry, Anatole France, Sarah Bernhardt",
-          "miniTexte": "D'André Antoine à Sarah Bernhardt en passant par Edgar Degas, Guitry filme onze « admirables Français » parmi les plus grandes personnalités de son temps. Alors que la guerre fait rage, il les observe en plein travail créatif et multiplie les anecdotes dans une volonté de transmission aux générations futures.",
+          "synopsis": "D'André Antoine à Sarah Bernhardt en passant par Edgar Degas, Guitry filme onze « admirables Français » parmi les plus grandes personnalités de son temps. Alors que la guerre fait rage, il les observe en plein travail créatif et multiplie les anecdotes dans une volonté de transmission aux générations futures.",
           "status": 2,
           "copies": [
             {
@@ -8941,7 +8946,7 @@
           "duree": 42,
           "generique": "Stanislas Merhar",
           "synopsis": "C'est l'histoire d'un comédien qui s'entraîne, d'un homme qui se souvient, d'un fils qui fait son deuil. C'est aussi l'histoire d'un livre, et d'un personnage qui entre dedans. « J'ai commencé à filmer Stanislas Merhar en pensant faire le portrait d'un acteur qui s'entraîne inlassablement, en attendant de jouer. Peu à peu, le film est devenu autre chose. Il me semble qu'il témoigne aussi de mon admiration pour Marcel Proust et Chantal Akerman, et du lien que nous créons avec Stanislas autour des œuvres qui nous consolent. » (Laura Tuillier)",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28395,
@@ -9273,6 +9278,34 @@
       ]
     },
     {
+      "idSeance": 144461,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 803,
+          "idCategorie": 3416,
+          "titreCycle": "Pietro Germi",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31127,
+      "typeEvenement": 14,
+      "dateHeure": "2024-10-18T15:30:00",
+      "typeConference": "Conférence",
+      "idSalle": "GF",
+      "duree": 90,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31127,
+          "idTypeConf": 55,
+          "titre": "Qui êtes-vous... Pietro Germi ?",
+          "texte": "_Le Chemin de l'espérance_, c'est un voyage dans l'Italie de 1950, une Italie dévastée non plus par la guerre comme au temps de Rossellini, mais par la pauvreté. Pietro Germi – fordien depuis son « western » _Au nom de la loi_ – superpose ici sur les images-souvenirs des _Raisins de la colère_ la stature de Raf Vallone, icône prolétarienne qui fait face à l'injustice avec son corps d'acteur. Viendront ensuite les mélos sociaux, le noir, la cruauté de la comédie d'un auteur à la fois cynique et sentimental, formaliste et populaire. — Sergio Toffetti",
+          "duree": 90
+        }
+      ]
+    },
+    {
       "idSeance": 134094,
       "idProg": 182,
       "idCycleCategories": [
@@ -9342,6 +9375,7 @@
           "idConf": 31127,
           "idTypeConf": 55,
           "titre": "Qui êtes-vous... Pietro Germi ?",
+          "texte": "_Le Chemin de l'espérance_, c'est un voyage dans l'Italie de 1950, une Italie dévastée non plus par la guerre comme au temps de Rossellini, mais par la pauvreté. Pietro Germi – fordien depuis son « western » _Au nom de la loi_ – superpose ici sur les images-souvenirs des _Raisins de la colère_ la stature de Raf Vallone, icône prolétarienne qui fait face à l'injustice avec son corps d'acteur. Viendront ensuite les mélos sociaux, le noir, la cruauté de la comédie d'un auteur à la fois cynique et sentimental, formaliste et populaire. — Sergio Toffetti",
           "duree": 90
         }
       ]
@@ -9997,13 +10031,13 @@
         {
           "ordre": 2,
           "idFilm": 154906,
-          "titre": "Belles Cicatrices",
+          "titre": "Belles cicatrices",
           "art": "Les",
           "realisateurs": "Raphaël Jouzeau",
           "annee": 2024,
           "duree": 15,
           "synopsis": "Gaspard aime toujours Leil̈a. Un mois après qu'elle l'ait quitté, ils se retrouvent dans un bar bondé. Alors que le rendez-vous tourne mal et qu'il sent les larmes monter, Gaspard se réfugie sous la nappe. Loin des regards et plus près des souvenirs.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28346,
@@ -10040,7 +10074,7 @@
           "annee": 2024,
           "duree": 18,
           "synopsis": "Afrique de l'Ouest, début des années 1960 : un officier français est chargé de retrouver un missionnaire disparu. Son enquête, entre méfiance, silence et préjugés, le conduit loin de la lumière des rivages, là où le jour et la nuit se confondent.",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28348,
@@ -10056,7 +10090,7 @@
           "realisateurs": "Léa-Jade Horlier",
           "annee": 2023,
           "duree": 21,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28349,
@@ -10075,7 +10109,7 @@
           "annee": 2024,
           "duree": 15,
           "synopsis": "La petite Marguerite vit un triple deuil : sa mère morte en couches, le chien dont elle hérite, puis sa nourrice, congédiée par le père. À partir de ces pertes successives, dans la solitude et la nature du mont Noir, elle s'apprête à devenir écrivaine.",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28350,
@@ -10662,7 +10696,7 @@
       ],
       "idEvenement": 21664,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-25T20:30:00",
+      "dateHeure": "2024-10-25T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -10704,7 +10738,7 @@
       ],
       "idEvenement": 31129,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-25T21:00:00",
+      "dateHeure": "2024-10-25T21:15:00",
       "idSalle": "JE",
       "items": [
         {
@@ -10745,7 +10779,7 @@
       ],
       "idEvenement": 31158,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-25T21:30:00",
+      "dateHeure": "2024-10-25T21:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -10783,12 +10817,18 @@
           "idCategorie": 2201,
           "titreCycle": "Michael Powell",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 476,
+          "idCategorie": 3406,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 21692,
-      "typeEvenement": 13,
       "dateHeure": "2024-10-26T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -10836,6 +10876,13 @@
             }
           ],
           "idFilmBoxoffice": 553
+        },
+        {
+          "idConf": 31350,
+          "titre": "RENCONTRE AVEC THELMA SCHOONMAKER",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
         }
       ]
     },
@@ -10918,33 +10965,6 @@
             }
           ],
           "idFilmBoxoffice": 174794
-        }
-      ]
-    },
-    {
-      "idSeance": 133863,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 476,
-          "idCategorie": 3406,
-          "titreCycle": "Michael Powell",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 31067,
-      "typeEvenement": 14,
-      "dateHeure": "2024-10-26T16:30:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 31067,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Natacha Thiéry ",
-          "duree": 60
         }
       ]
     },
@@ -11032,7 +11052,7 @@
       ]
     },
     {
-      "idSeance": 134072,
+      "idSeance": 144458,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -11042,37 +11062,49 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21688,
+      "idEvenement": 21695,
       "typeEvenement": 13,
       "dateHeure": "2024-10-26T18:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 41089,
-          "titre": "Renarde",
-          "art": "La",
-          "titreVo": "Gone to Earth",
+          "idFilm": 42024,
+          "titre": "Colonel Blimp",
+          "titreVo": "Life and Death of Colonel Blimp",
+          "artVo": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1950,
-          "duree": 110,
-          "generique": "Jennifer Jones, Esmond Knight, David Farrar",
-          "adaptation": "D'après le roman _La Renarde_ de Mary Webb.",
-          "miniTexte": "Dans l'Angleterre victorienne, une jeune femme éprise de liberté doit choisir entre une vie rangée auprès de son mari et la tentation de l'amour charnel. Volontiers flamboyant, _La Renarde_ a l'allure d'un poème cinématographique, capable d'associer motifs picturaux et sens du contraste. Un hymne à la nature, qui influencera Kate Bush pour son album _Hounds of Love_.",
+          "annee": 1943,
+          "duree": 163,
+          "generique": "Anton Walbrook, Deborah Kerr, Roger Livesey",
+          "miniTexte": "L'amitié indéfectible entre un Allemand et un Anglais (le formidable duo Walbrook/Livesey) à travers les turpitudes de la guerre. Avec un humour typiquement british, Powell crée une fresque romanesque irrésistible, faisant écho à sa propre relation avec Pressburger. Le film culte de Scorsese, également admiré par Tavernier et Melville, qui le considérait comme « le plus beau film du monde ».",
           "status": 2,
           "copies": [
             {
-              "idCopie": 27063,
-              "duree": 110,
+              "idCopie": 20203,
+              "duree": 163,
               "format": "35 mm",
               "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 20215,
+              "duree": 163,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF",
               "stDemande": true
+            },
+            {
+              "idCopie": 27055,
+              "duree": 163,
+              "format": "35 mm",
+              "version": "VO"
             }
           ],
-          "idFilmBoxoffice": 11262
+          "idFilmBoxoffice": 4082
         }
-      ],
-      "mention": "Séance présentée par Natacha Thiéry"
+      ]
     },
     {
       "idSeance": 134061,
@@ -11087,7 +11119,7 @@
       ],
       "idEvenement": 30862,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-26T19:00:00",
+      "dateHeure": "2024-10-26T19:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -11110,71 +11142,6 @@
             }
           ],
           "idFilmBoxoffice": 7173
-        }
-      ]
-    },
-    {
-      "idSeance": 134073,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 476,
-          "idCategorie": 2201,
-          "titreCycle": "Michael Powell",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 21692,
-      "typeEvenement": 13,
-      "dateHeure": "2024-10-26T20:45:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 42561,
-          "titre": "Chaussons rouges",
-          "art": "Les",
-          "titreVo": "Red Shoes",
-          "artVo": "The",
-          "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1948,
-          "duree": 133,
-          "generique": "Anton Walbrook, Moira Shearer, Marius Goring",
-          "adaptation": "D'après la nouvelle _De røde sko_ de Hans Christian Andersen.",
-          "synopsis": "Quand Victoria, danseuse étoile des « Chaussons rouges », tombe amoureuse du compositeur de l'opéra, le cruel directeur va tout faire pour, au nom de l'art, séparer les deux jeunes amoureux.",
-          "miniTexte": "Qualifié par De Palma de « film parfait », _Les Chaussons rouges_ orchestre la rencontre du fantastique avec la rigueur du monde de la danse. Sur un sujet angoissant, volontiers sombre, Powell extirpe un déluge de couleurs, de tulles et de paillettes pour exprimer la passion dévorante des artistes et le besoin de s'y abandonner corps et âme. D'une durée de dix-sept minutes, illuminée par la chevelure flamboyante de Moira Shearer, la superbe séquence de ballet, qui oscille entre surréalisme et grâce, résume, à elle seule, ce parcours aussi tétanisant que galvanisant vers le don de soi.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 20205,
-              "duree": 133,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 20206,
-              "duree": 133,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 27058,
-              "duree": 133,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 27057,
-              "duree": 133,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 553
         }
       ]
     },
@@ -11467,7 +11434,7 @@
       ],
       "idEvenement": 21654,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-27T20:15:00",
+      "dateHeure": "2024-10-27T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -11564,7 +11531,7 @@
           "annee": 1986,
           "duree": 28,
           "generique": "Frédéric Deban, Ali Baouche, Rachida Chrouki",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28440,
@@ -11583,7 +11550,7 @@
           "duree": 34,
           "generique": "Guillaume Soubeyran, Isaak Dessaux",
           "synopsis": "Paris, 1992. Julien, étudiant en thèse scientifique, apprend la mort de Christophe, jeune coiffeur de banlieue rencontré quelques mois plus tôt. Commence alors pour lui un voyage sur les traces de leur histoire pour tenter de comprendre et pardonner.",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28377,
@@ -11600,7 +11567,7 @@
           "realisateurs": "Gaël Morel",
           "annee": 1994,
           "generique": "Stéphane Rideau, Paul Morel, Aurélien Morel",
-          "status": 1,
+          "status": 2,
           "copies": [],
           "idFilmBoxoffice": 12586
         }
@@ -11887,7 +11854,7 @@
       ]
     },
     {
-      "idSeance": 133959,
+      "idSeance": 144459,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -11897,47 +11864,66 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21695,
+      "idEvenement": 21697,
       "typeEvenement": 13,
       "dateHeure": "2024-10-31T19:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 42024,
-          "titre": "Colonel Blimp",
-          "titreVo": "Life and Death of Colonel Blimp",
-          "artVo": "The",
+          "idFilm": 42007,
+          "titre": "Je sais où je vais",
+          "titreVo": "I Know Where I'm Going",
           "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1943,
-          "duree": 163,
-          "generique": "Anton Walbrook, Deborah Kerr, Roger Livesey",
-          "miniTexte": "L'amitié indéfectible entre un Allemand et un Anglais (le formidable duo Walbrook/Livesey) à travers les turpitudes de la guerre. Avec un humour typiquement british, Powell crée une fresque romanesque irrésistible, faisant écho à sa propre relation avec Pressburger. Le film culte de Scorsese, également admiré par Tavernier et Melville, qui le considérait comme « le plus beau film du monde ».",
+          "annee": 1945,
+          "duree": 91,
+          "generique": "Wendy Hiller, Roger Livesey, Pamela Brown",
+          "miniTexte": "Joan Webster sait ce qu'elle veut et où elle va, mais le trajet vers son destin est parsemé d'imprévus et de remises en question. Sur une idée de sa propre femme, Frankie, Powell utilise une chanson irlandaise, _I Know Where I'm Going_, comme point de départ d'un conte gaélique dans les brumes écossaises. Toute la malice du duo Powell et Pressburger exulte dans ce portrait pittoresque de l'Écosse profonde, dont les lumières crépusculaires et le folklore accompagnent à merveille cette histoire romanesque. Avec le superbe duo Roger Livesey et Wendy Hiller, en totale harmonie.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 20203,
-              "duree": 163,
+              "idCopie": 20194,
+              "duree": 91,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             },
             {
-              "idCopie": 20215,
-              "duree": 163,
+              "idCopie": 20237,
+              "duree": 92,
               "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF",
-              "stDemande": true
-            },
-            {
-              "idCopie": 27055,
-              "duree": 163,
-              "format": "35 mm",
-              "version": "VO"
+              "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 4082
+          "idFilmBoxoffice": 4301
+        }
+      ]
+    },
+    {
+      "idSeance": 144462,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 476,
+          "idCategorie": 3406,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31067,
+      "typeEvenement": 14,
+      "dateHeure": "2024-10-31T20:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31067,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Natacha Thiéry ",
+          "duree": 60
         }
       ]
     },
@@ -12063,43 +12049,47 @@
       ]
     },
     {
-      "idSeance": 133900,
+      "idSeance": 144460,
       "idProg": 182,
       "idCycleCategories": [
         {
-          "idCycle": 741,
-          "idCategorie": 3235,
-          "titreCycle": "James Cameron",
+          "idCycle": 476,
+          "idCategorie": 2201,
+          "titreCycle": "Michael Powell",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 29886,
+      "idEvenement": 21688,
       "typeEvenement": 13,
       "dateHeure": "2024-11-01T20:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 30824,
-          "titre": "Terminator",
-          "realisateurs": "James Cameron",
-          "annee": 1984,
-          "duree": 107,
-          "generique": "Arnold Schwarzenegger, Michael Biehn, Linda Hamilton",
-          "miniTexte": "2029, l'humanité est en guerre contre les machines, et la Résistance envoie l'un des siens dans le passé pour influer sur le cours de l'Histoire. Linda Hamilton est Sarah Connor, Michael Biehn son ange gardien, et Arnold Schwarzenegger le T-800, cyborg meurtrier. _Terminator_ marque les débuts de la franchise avec un premier volet musclé : courses-poursuites efficaces, effets spéciaux impeccables, pour une réflexion sur l'intelligence artificielle qui trouve aujourd'hui un écho tout particulier. Une référence du cinéma d'anticipation, et la naissance du mythe Schwarzie (_« I'll be back! »_), qui inscrit son nom au panthéon de la pop culture.",
+          "idFilm": 41089,
+          "titre": "Renarde",
+          "art": "La",
+          "titreVo": "Gone to Earth",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1950,
+          "duree": 110,
+          "generique": "Jennifer Jones, Esmond Knight, David Farrar",
+          "adaptation": "D'après le roman _La Renarde_ de Mary Webb.",
+          "miniTexte": "Dans l'Angleterre victorienne, une jeune femme éprise de liberté doit choisir entre une vie rangée auprès de son mari et la tentation de l'amour charnel. Volontiers flamboyant, _La Renarde_ a l'allure d'un poème cinématographique, capable d'associer motifs picturaux et sens du contraste. Un hymne à la nature, qui influencera Kate Bush pour son album _Hounds of Love_.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 9957,
-              "duree": 107,
-              "format": "DCP",
+              "idCopie": 27063,
+              "duree": 110,
+              "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 309
+          "idFilmBoxoffice": 11262
         }
-      ]
+      ],
+      "mention": "Séance présentée par Natacha Thiéry"
     },
     {
       "idSeance": 133766,
@@ -12504,6 +12494,7 @@
           "realisateurs": "Jun Fukuda",
           "annee": 1967,
           "duree": 85,
+          "generique": "Tadao Takashima, Akira Kubo, Bibari Maeda",
           "status": 2,
           "copies": [
             {
@@ -12579,6 +12570,7 @@
           "realisateurs": "Jun Fukuda",
           "annee": 1974,
           "duree": 83,
+          "generique": "Masaaki Daimon, Reiko Tajima, Kazuya Aoyama",
           "status": 2,
           "copies": [
             {
@@ -12655,6 +12647,7 @@
           "realisateurs": "Ryuhei Kitamura",
           "annee": 2004,
           "duree": 124,
+          "generique": "Masahiro Matsuoka, Rei Kikukawa, Akira Takarada",
           "status": 2,
           "copies": [
             {
@@ -12734,7 +12727,8 @@
           "realisateurs": "Yuna Alonzo",
           "annee": 2024,
           "duree": 33,
-          "status": 1,
+          "generique": "Louise Chevillotte, Lucie Cizeau, Simon Gaillot, Ysé Sorel",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28375,
@@ -12756,7 +12750,7 @@
           "duree": 102,
           "generique": "Shabana Azmi, Naseeruddin Shah, Gita Sen, Pankaj Kapoor",
           "adaptation": "D'après le roman _Khandar_ de Premendra Mitra.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28393,
@@ -13614,7 +13608,7 @@
       ],
       "idEvenement": 21672,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-09T18:00:00",
+      "dateHeure": "2024-11-09T18:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -14801,7 +14795,8 @@
           "ordre": 1,
           "idConf": 31048,
           "idTypeConf": 16,
-          "titre": "Le Technicolor",
+          "titre": "La magie du Technicolor chez Michael Powell, Emeric Pressburger et Jack Cardiff",
+          "texte": "Au lendemain de la Seconde Guerre mondiale, les Anglais Michael Powell et Emeric Pressburger décident de filmer en Technicolor avec l'aide d'un directeur de la photographie génial, Jack Cardiff, auteur d'un film promotionnel tourné avec ce procédé fabuleux, _This is Colour_. Suivent des films d'une beauté éblouissante, inégalable : _Une question de vie ou de mort_ (1946), _Le Narcisse noir_ (1947), _Les Chaussons rouges_ (1948). Comment fonctionne la technique Technicolor ? Quelle est l'esthétique du Technicolor ? Comme travaillaient ensemble Powell, Pressburger et Cardiff ? Difficile de trouver meilleur connaisseur de l'industrie cinématographique américaine que Robert Hoffman. Issu de l'American Film Institute, il a travaillé six ans en tant que responsable de la communication à Digital Domain (accompagnant notamment les films _True Lies_ et _Titanic_ de James Cameron et _Apollo 13_ de Ron Howard) ; il a exercé ses talents chez Warner Bros., Paramount, 20th Century Fox. Pendant dix-huit ans, Robert Hoffman a été vice-président du marketing et des relations publiques chez Technicolor. Il vient de publier un ouvrage splendide et fondamental sur la question : _Alchemy in Technicolor_. Au cours de cette rencontre, des extraits de films seront projetés, et Robert Hoffman présentera une caméra Technicolor conservée dans les collections de la Cinémathèque française.",
           "duree": 90
         }
       ]
@@ -15398,7 +15393,7 @@
       ],
       "idEvenement": 21697,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-17T18:00:00",
+      "dateHeure": "2024-11-17T18:15:00",
       "idSalle": "JE",
       "items": [
         {
@@ -15445,7 +15440,7 @@
       ],
       "idEvenement": 30877,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-17T20:00:00",
+      "dateHeure": "2024-11-17T20:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -15484,7 +15479,7 @@
       ],
       "idEvenement": 31018,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-17T20:30:00",
+      "dateHeure": "2024-11-17T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -15999,7 +15994,7 @@
       ],
       "idEvenement": 21665,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-21T20:00:00",
+      "dateHeure": "2024-11-21T20:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -17093,7 +17088,7 @@
           "annee": 2024,
           "duree": 17,
           "generique": "Maxime Roy, Yoann Zimmer, Anna Stanic",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28441,
