@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-02T12:51:50.737Z",
+  "updatedAt": "2024-07-02T14:57:08.395Z",
   "data": [
     {
       "idSeance": 130975,
@@ -2509,7 +2509,7 @@
           "idFilmBoxoffice": 4459
         }
       ],
-      "mention": "Ouverture de la rétrospective"
+      "mention": "Ouverture de la rétrospective. Séance présentée par Chiara Mastroianni"
     },
     {
       "idSeance": 133824,
@@ -3571,7 +3571,8 @@
           "realisateurs": "Patric Chiha",
           "annee": 2009,
           "duree": 110,
-          "status": 1,
+          "generique": "Béatrice Dalle, Isaïe Sultan",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28337,
@@ -5080,7 +5081,8 @@
           "realisateurs": "Francisco Rodríguez Teare",
           "annee": 2017,
           "duree": 28,
-          "status": 1,
+          "generique": "Carmen Godoi, Onoria Jimenez",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28339,
@@ -5099,7 +5101,7 @@
           "annee": 2023,
           "duree": 86,
           "synopsis": "_Otro sol_ est un film s'attelant à inventer, tout en l'investiguant, la légende d'Alberto, voleur international chilien, prisonnier en Europe et mort au Chili à l'âge de 29 ans. Le film traverse pour cela deux territoires, reliés par l'histoire coloniale : le désert d'Atacama au Chili et le sud de l'Espagne.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28338,
@@ -6315,8 +6317,9 @@
           "realisateurs": "Axel Würsten",
           "annee": 2018,
           "duree": 15,
+          "generique": "Théo Cholbi, Elliott Margueron",
           "synopsis": "Dans un château perdu au milieu de la campagne, un mystérieux jeune homme arrive pour faire le service d'une soirée mondaine. Confronté à une famille de châtelains bien plus étrange qu'il ne l'avait prévu, la soirée va prendre un tournant inattendu.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28344,
@@ -6332,7 +6335,8 @@
           "realisateurs": "Axel Würsten",
           "annee": 2019,
           "duree": 8,
-          "status": 1,
+          "generique": "Elliott Margueron, Mathilde Warnier",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28342,
@@ -6348,7 +6352,8 @@
           "realisateurs": "Axel Würsten",
           "annee": 2021,
           "duree": 7,
-          "status": 1,
+          "generique": "Chloé Delaume, Elliott Margueron",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28343,
@@ -6364,8 +6369,9 @@
           "realisateurs": "Axel Würsten",
           "annee": 2023,
           "duree": 26,
+          "generique": "Emmanuelle Bougerolle, Julien Desmarquest Prada",
           "synopsis": "Corinne, 50 ans, est une ancienne starlette de la chanson des années 90, connue sous le nom de « Samantha Chérie ». Désormais seule et oubliée, elle a du mal à vivre la réussite de sa fille, instagrammeuse à succès. Un soir, lorsque Corinne se fait prendre en otage chez elle pour une demande de rançon par un mystérieux inconnu, la peur et l'incompréhension laissent progressivement place à l'espoir. Et si c'était l'occasion de faire à nouveau parler de Samantha Chérie et d'effectuer un come-back sous le feu des projecteurs ?",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28341,
@@ -6382,8 +6388,9 @@
           "realisateurs": "Axel Würsten",
           "annee": 2024,
           "duree": 24,
+          "generique": "Arman Saibi, Pierre Gommé",
           "synopsis": "Une patrouille scout arrive pour donner une représentation de la Crucifixion du Christ dans un village isolé, réputé pour avoir été le théâtre d'apparitions extra-terrestres dans les années 70. Rien ne peut dévier de son but obsessionnel le scout qui a hérité du rôle du Christ, Karim, 17 ans : trouver l'extase pour bien interpréter le martyre en croix.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28340,
@@ -7449,7 +7456,7 @@
       ]
     },
     {
-      "idSeance": 134078,
+      "idSeance": 144472,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7459,31 +7466,34 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31163,
+      "idEvenement": 31029,
       "typeEvenement": 13,
       "dateHeure": "2024-10-06T17:15:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 46607,
-          "titre": "Mazeppa",
-          "realisateurs": "Bartabas",
-          "annee": 1992,
-          "duree": 111,
-          "generique": "Miguel Bosé, Bartabas, Brigitte Marty",
-          "miniTexte": "Bartabas puise dans le poème de Lord Byron sur la légende du héros ukrainien, Ivan Mazepa, pour évoquer la rencontre de deux artistes, le peintre Géricault et l'écuyer Franconi qui partageaient la même passion des chevaux. Une œuvre onirique à l'atmosphère sombre et sensuelle, d'une puissance hypnotique.",
+          "idFilm": 50887,
+          "titre": "Mélo",
+          "realisateurs": "Alain Resnais",
+          "annee": 1986,
+          "duree": 112,
+          "generique": "Sabine Azéma, Fanny Ardant, Pierre Arditi, André Dussollier",
+          "adaptation": "D'après la pièce de théâtre _Mélo_ d'Henri Bernstein.",
+          "synopsis": "Lorsque Pierre présente sa femme Romaine à son ami Marcel, tous deux tombent immédiatement amoureux. Romaine promet de quitter Pierre mais a peur d'avouer son infidélité.",
+          "miniTexte": "Le mari, la femme, l'amant, et toute la panoplie en règle du vaudeville. Passée au tamis Resnais, la pièce d'Henri Bernstein devient un écrin abritant les fêlures et les passions de trois musiciens émérites, pris dans un imbroglio sentimental destructeur. La mise en scène est d'une folle élégance, l'interprétation remarquable. Du pur mélodrame interprété par quatre acteurs au sommet.",
+          "commentaire": "« Mais les cocus ne sont pas si ingrats que cela. Si vous regardez bien, dans une histoire, c'est d'eux que viennent les sentiments. Ils font pleurer, les cocus. » (Pierre Arditi)",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28323,
-              "duree": 111,
-              "format": "35 mm"
+              "idCopie": 8968,
+              "duree": 112,
+              "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 2104
         }
-      ],
-      "mention": "Séance présentée par Bartabas et Marin Karmitz"
+      ]
     },
     {
       "idSeance": 133962,
@@ -7688,7 +7698,7 @@
       "items": []
     },
     {
-      "idSeance": 133812,
+      "idSeance": 144471,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7698,34 +7708,31 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31029,
+      "idEvenement": 31163,
       "typeEvenement": 13,
       "dateHeure": "2024-10-07T20:45:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 50887,
-          "titre": "Mélo",
-          "realisateurs": "Alain Resnais",
-          "annee": 1986,
-          "duree": 112,
-          "generique": "Sabine Azéma, Fanny Ardant, Pierre Arditi, André Dussollier",
-          "adaptation": "D'après la pièce de théâtre _Mélo_ d'Henri Bernstein.",
-          "synopsis": "Lorsque Pierre présente sa femme Romaine à son ami Marcel, tous deux tombent immédiatement amoureux. Romaine promet de quitter Pierre mais a peur d'avouer son infidélité.",
-          "miniTexte": "Le mari, la femme, l'amant, et toute la panoplie en règle du vaudeville. Passée au tamis Resnais, la pièce d'Henri Bernstein devient un écrin abritant les fêlures et les passions de trois musiciens émérites, pris dans un imbroglio sentimental destructeur. La mise en scène est d'une folle élégance, l'interprétation remarquable. Du pur mélodrame interprété par quatre acteurs au sommet.",
-          "commentaire": "« Mais les cocus ne sont pas si ingrats que cela. Si vous regardez bien, dans une histoire, c'est d'eux que viennent les sentiments. Ils font pleurer, les cocus. » (Pierre Arditi)",
+          "idFilm": 46607,
+          "titre": "Mazeppa",
+          "realisateurs": "Bartabas",
+          "annee": 1992,
+          "duree": 111,
+          "generique": "Miguel Bosé, Bartabas, Brigitte Marty",
+          "miniTexte": "Bartabas puise dans le poème de Lord Byron sur la légende du héros ukrainien, Ivan Mazepa, pour évoquer la rencontre de deux artistes, le peintre Géricault et l'écuyer Franconi qui partageaient la même passion des chevaux. Une œuvre onirique à l'atmosphère sombre et sensuelle, d'une puissance hypnotique.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 8968,
-              "duree": 112,
-              "format": "DCP"
+              "idCopie": 28323,
+              "duree": 111,
+              "format": "35 mm"
             }
-          ],
-          "idFilmBoxoffice": 2104
+          ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Bartabas et Marin Karmitz"
     },
     {
       "idSeance": 132088,
@@ -10015,7 +10022,8 @@
           "realisateurs": "Violette Gitton",
           "annee": 2024,
           "duree": 18,
-          "status": 1,
+          "generique": "Marius Plard, Billie Blain",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28345,
@@ -10050,7 +10058,8 @@
           "realisateurs": "Viv Li",
           "annee": 2024,
           "duree": 15,
-          "status": 1,
+          "generique": "Yang Yuxin, Zhao Qinglian",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28347,
@@ -10086,7 +10095,8 @@
           "realisateurs": "Léa-Jade Horlier",
           "annee": 2023,
           "duree": 21,
-          "status": 1,
+          "generique": "Sadaf Asgari, Setia Asadi",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28349,
@@ -12698,7 +12708,7 @@
           "titreSousCycle": "Yuna Alonzo"
         }
       ],
-      "idEvenement": 31289,
+      "idEvenement": 31390,
       "typeEvenement": 13,
       "dateHeure": "2024-11-04T19:00:00",
       "idSalle": "JE",
@@ -12722,28 +12732,23 @@
         },
         {
           "ordre": 2,
-          "idFilm": 44574,
-          "titre": "Ruines",
-          "art": "Les",
-          "titreVo": "Khandhar",
-          "titreNx": "कंधार",
-          "realisateurs": "Mrinal Sen",
-          "annee": 1984,
-          "dureeStd": 102,
-          "duree": 102,
-          "generique": "Shabana Azmi, Naseeruddin Shah, Gita Sen, Pankaj Kapoor",
-          "adaptation": "D'après le roman _Khandar_ de Premendra Mitra.",
+          "idFilm": 67331,
+          "titre": "Up the River",
+          "realisateurs": "John Ford",
+          "annee": 1930,
+          "duree": 92,
+          "generique": "Spencer Tracy, Warren Hymer, Humphrey Bogart",
+          "synopsis": "Judy, ancien détenu et Steve, en liberté conditionnelle, tentent de mettre derrière eux leur ancienne vie criminelle.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28393,
-              "duree": 102,
-              "format": "DCP",
+              "idCopie": 5558,
+              "duree": 92,
+              "format": "35 mm",
               "version": "VO",
               "stDemande": true
             }
-          ],
-          "idFilmBoxoffice": 137277
+          ]
         }
       ],
       "mention": "Séance suivie d'une discussion avec Yuna Alonzo"
@@ -15737,7 +15742,7 @@
           "duree": 8,
           "ageMinimal": 8,
           "synopsis": "Une petite fille pas comme les autres doit trouver sa voie pour s'affirmer face à son entourage. Alliant fantaisie et poésie, ce court métrage d'animation a le charme intemporel d'une fable sur la différence et l'affirmation de soi. Grâce à la rugosité de la texture des gravures, la cinéaste crée un univers de contrastes que vient renforcer une bande sonore cadencée.",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 2493,
@@ -15754,7 +15759,7 @@
           "annee": 2024,
           "duree": 11,
           "synopsis": "Sur fond de mer et d'Algarve urbaine, nous suivons le cycle complet de la vie d'un mollusque particulier appelé Percebes. Depuis sa formation jusqu'à l'assiette, nous traversons différents contextes qui nous permettent de mieux comprendre cette région et ceux qui l'habitent.",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28459,
@@ -15773,7 +15778,7 @@
           "annee": 2023,
           "duree": 6,
           "synopsis": "Une adaptation animée du livre Misérable Miracle d'Henri Michaux (1956), sur son expérience de la mescaline.",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28461,
@@ -15793,7 +15798,7 @@
           "annee": 2024,
           "duree": 20,
           "synopsis": "Au cœur des fonds marins, entre les rochers et les coraux, des algues primitives ondulent, bercées par le son feutré et vrombissant des courants. Là-haut, à la surface de l'eau, quelque chose d'extraordinaire vient d'apparaître : une voix.",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28462,
@@ -15812,7 +15817,7 @@
           "annee": 2024,
           "duree": 15,
           "synopsis": "Dans la mer, un homme nage. Au fur et à mesure de sa progression, les souvenirs remontent à la surface. De sa petite enfance à sa vie d'homme, tous ses souvenirs sont liés à l'eau. Certains sont heureux, d'autres glorieux, d'autres traumatiques.",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28463,
@@ -15830,7 +15835,7 @@
           "annee": 2024,
           "duree": 12,
           "synopsis": "Animé sur écran d'épingles, ce film revisite le destin tragique de la reine Marie-Anne d'Autriche, immortalisée en 1652 par le peintre Vélasquez.",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28464,
