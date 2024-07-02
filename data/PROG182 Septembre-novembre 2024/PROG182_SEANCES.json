@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-01T15:43:55.500Z",
+  "updatedAt": "2024-07-02T08:51:04.518Z",
   "data": [
     {
       "idSeance": 130975,
@@ -4923,18 +4923,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28170,
-              "duree": 105,
-              "format": "35 mm"
-            },
-            {
               "idCopie": 28356,
               "duree": 105,
               "format": "35 mm"
-            },
-            {
-              "idCopie": 28357,
-              "duree": 105
             }
           ],
           "idFilmBoxoffice": 137664
@@ -10878,11 +10869,11 @@
           "idFilmBoxoffice": 553
         },
         {
+          "ordre": 2,
           "idConf": 31350,
-          "titre": "RENCONTRE AVEC THELMA SCHOONMAKER",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Rencontre avec Thelma Schoonmaker ",
+          "duree": 60
         }
       ]
     },
@@ -11805,6 +11796,7 @@
               "idCopie": 20298,
               "duree": 76,
               "format": "DCP",
+              "version": "VO",
               "stDemande": true
             }
           ],
@@ -13222,6 +13214,47 @@
       ]
     },
     {
+      "idSeance": 144468,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30962,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-07T20:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55089,
+          "titre": "Un flic sur le toit",
+          "titreVo": "Mannen pa taket",
+          "realisateurs": "Bo Widerberg",
+          "annee": 1976,
+          "duree": 110,
+          "generique": "Carl-Gustaf Lindstedt, Sven Wollter, Thomas Hellberg",
+          "adaptation": "D'après le roman _L'Abominable Homme de Säffle_ de Maj Sjöwall et Per Wahlöö.",
+          "miniTexte": "L'adaptation d'un incontournable du polar scandinave, autour du meurtre sauvage d'un commissaire connu pour sa violence et ses abus de pouvoir. Fidèle à l'esprit du livre de Sjöwall & Wahlöö, Widerberg signe un thriller haletant qui dénonce certaines tares de la société suédoise.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 9803,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 59465
+        }
+      ]
+    },
+    {
       "idSeance": 132874,
       "idProg": 182,
       "idCycleCategories": [
@@ -13336,6 +13369,45 @@
       ]
     },
     {
+      "idSeance": 132917,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30951,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-08T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44983,
+          "titre": "Elvira Madigan",
+          "realisateurs": "Bo Widerberg",
+          "annee": 1967,
+          "duree": 91,
+          "generique": "Thommy Berggren, Pia Degermark, Lennart Malmer",
+          "miniTexte": "D'après un célèbre fait divers qui défraya la chronique à la fin du XIX<sup>e</sup> siècle, la fugue amoureuse d'une funambule danoise et d'un lieutenant suédois, marié et père de deux enfants. Widerberg délaisse le noir et blanc et le naturalisme de la ville pour filmer un hymne à l'amour fou, dans une suite de tableaux impressionnistes aussi sensuels que bucoliques. Au cœur d'une nature hédoniste, le couple formé par Pia Degermark (Prix d'interprétation à Cannes) et Thommy Berggren savoure l'ivresse d'un bel été à l'éclat du bonheur éphémère. Le film est un tel succès à sa sortie que le Concerto pour piano n°21 de Mozart, qui en constitue l'espace sonore, ressort dans une édition titrée Elvira Madigan.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28153,
+              "duree": 91,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 8607
+        }
+      ]
+    },
+    {
       "idSeance": 132915,
       "idProg": 182,
       "idCycleCategories": [
@@ -13367,6 +13439,7 @@
               "idCopie": 28192,
               "duree": 66,
               "format": "DCP",
+              "version": "VO",
               "stDemande": true
             }
           ],
@@ -13511,6 +13584,46 @@
       ]
     },
     {
+      "idSeance": 144469,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30960,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-09T16:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44980,
+          "titre": "Ådalen '31",
+          "realisateurs": "Bo Widerberg",
+          "annee": 1969,
+          "duree": 110,
+          "generique": "Peter Schildt, Kerstin Tidelius, Roland Hedlund",
+          "miniTexte": "Au début des années 30, une grève des dockers paralyse le nord de la Suède, tandis qu'une relation amoureuse se noue entre le fils d'un ouvrier et la fille du directeur de l'usine. Autour des événements tragiques d'Ådalen qui mèneront les sociaux-démocrates au pouvoir, Widerberg signe une chronique familiale et sentimentale d'une sensibilité à fleur de peau. Un tableau de la lutte des classes aussi minutieux que bouillonnant, qui sait merveilleusement mêler la colère des hommes à la beauté des petits gestes.",
+          "commentaire": "Bo Widerberg, dont les films ont été longtemps invisibles, après avoir marqué les années 70 du siècle passé, a été récemment redécouvert, réévalué, et remis à sa juste place, celle d'un des cinéastes importants de la modernité de son époque. Sans doute les cinéastes suédois de sa génération ont-ils subi d'être dans l'ombre de Bergman. Mais l'œuvre de Widerberg, empreinte d'humanisme, baignée des couleurs de l'impressionnisme comme l'a été celle de Maurice Pialat, ne pâlit pas de la comparaison ; après avoir été un disciple scandinave de la Nouvelle Vague avec des films aussi marquants que _Quartier du corbeau_, il trouve sa voie toute personnelle dans les œuvres lumineuses de sa maturité comme _Ådalen 31_, _Joe Hill_, ou _Elvira Madigan_. — Olivier Assayas",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27940,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 5862
+        }
+      ]
+    },
+    {
       "idSeance": 132958,
       "idProg": 182,
       "idCycleCategories": [
@@ -13638,6 +13751,45 @@
       ]
     },
     {
+      "idSeance": 144470,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 795,
+          "idCategorie": 3387,
+          "titreCycle": "Bo Widerberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30953,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-09T18:15:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 58122,
+          "titre": "Joe Hill",
+          "realisateurs": "Bo Widerberg",
+          "annee": 1970,
+          "duree": 113,
+          "generique": "Thommy Berggren, Kelvin Malave, Cathy Smith",
+          "miniTexte": "Formidable conteur de la classe ouvrière, Widerberg décrit la vie et la mort de Joseph Hillström, émigrant suédois, poète et militant qui participa aux luttes sociales des États-Unis au début du XX<sup>e</sup> siècle. Prix du Jury à Cannes, l'épopée lyrique d'un pionnier de la _protest song_, portée par l'excellent Thommy Berggren.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28154,
+              "duree": 113,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 59673
+        }
+      ]
+    },
+    {
       "idSeance": 132955,
       "idProg": 182,
       "idCycleCategories": [
@@ -13714,6 +13866,7 @@
               "idCopie": 20298,
               "duree": 76,
               "format": "DCP",
+              "version": "VO",
               "stDemande": true
             }
           ],
@@ -13856,6 +14009,7 @@
               "idCopie": 20291,
               "duree": 6,
               "format": "35 mm",
+              "version": "VO",
               "stDemande": true
             }
           ],
@@ -14061,6 +14215,8 @@
             {
               "idCopie": 20227,
               "duree": 66,
+              "format": "DCP",
+              "version": "VO",
               "stDemande": true
             }
           ],
@@ -15040,6 +15196,7 @@
               "idCopie": 27064,
               "duree": 82,
               "format": "16 mm",
+              "version": "VO",
               "stDemande": true
             }
           ],
