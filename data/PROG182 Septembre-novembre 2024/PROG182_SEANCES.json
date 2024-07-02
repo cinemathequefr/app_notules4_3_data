@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-02T10:05:53.159Z",
+  "updatedAt": "2024-07-02T11:57:07.552Z",
   "data": [
     {
       "idSeance": 130975,
@@ -2536,6 +2536,7 @@
           "dureeStd": 92,
           "duree": 92,
           "generique": "Marie-Julie Lemercier, Geneviève Chan Lone, Marie-Ange Rey, Yadira Saís Ruiz",
+          "miniTexte": "À travers le destin de Jeanne, paysanne pauvre du XVIII<sup>e</sup> siècle qui entreprit un long voyage déguisée en homme, Claire Angelini explore la place de la femme dans le monde, son rapport à la nature, à l'exil et à la question transgenre, autant de thèmes qui résonnent particulièrement aujourd'hui.",
           "status": 2,
           "copies": [
             {
@@ -3852,7 +3853,8 @@
           "realisateurs": "Abel Gance",
           "annee": 1937,
           "duree": 115,
-          "status": 0,
+          "miniTexte": "À partir de chutes retrouvées par Georges Mourier en 2006, un montage d'essais du Pictographe d'Abel Gance, invention technique qu'il met au point avec l'opticien Pierre Angénieux, utilisée pour les décors de plusieurs de ses films, de _Louise_ (1935) à _Marie Tudor_ (1965).",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28121,
@@ -5137,6 +5139,7 @@
           "annee": 2024,
           "duree": 115,
           "generique": "Kani Kurusti, Divya Prabha, Chhaya Kadam, Hridhu Haroon",
+          "miniTexte": "Les portraits intimes de trois femmes, travailleuses nocturnes à Bombay. Après son poignant documentaire _Toute une nuit sans savoir_, Payal Kapadia filme le désir d'émancipation et de liberté d'héroïnes happées par la rumeur d'une ville mystérieuse. Une chronique sensible et mélancolique, Grand Prix du dernier Festival de Cannes.",
           "status": 2,
           "copies": [
             {
@@ -12770,6 +12773,7 @@
           "annee": 2024,
           "duree": 129,
           "generique": "Gonçalo Waddington, Crista Alfaiate, Jani Zhao",
+          "miniTexte": "Le nouveau tour de magie hypnotique de Miguel Gomes, ou l'épopée de deux colons dans l'Asie du début du XX<sup>e</sup> siècle, filmée dans un noir et blanc somptueux – strié de rares éclats de couleurs. Comme en écho à _Tabou_ (2012), un grand huit bicéphale et fiévreux, prix de la mise en scène au dernier Festival de Cannes.",
           "status": 2,
           "copies": [
             {
@@ -15703,11 +15707,140 @@
       ],
       "idEvenement": 31342,
       "typeEvenement": 13,
-      "libelleEvenement": "CARTE BLANCHE À LA REVUE BLINK BLANK : PROGRAMME DE COURTS MÉTRAGES",
-      "dateHeure": "2024-11-18T20:00:00",
+      "dateHeure": "2024-11-18T19:00:00",
       "idSalle": "JE",
-      "theorique": true,
-      "items": []
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 142425,
+          "titre": "Oncle Thomas, la comptabilité des jours",
+          "realisateurs": "Regina Pessoa",
+          "annee": 2019,
+          "duree": 12,
+          "synopsis": "Le cri d'amour d'une cinéaste à son oncle, simple poète du quotidien et pourtant déterminant dans sa vie.",
+          "commentaire": "« À partir de mes souvenirs d'enfance, ce film rend hommage à mon oncle Thomas, un homme humble, un peu excentrique, qui a eu une vie simple et anonyme mais qui a beaucoup compté pour moi. Ceci est mon témoignage du fait qu'il n'est pas nécessaire que la vie de quelqu'un soit extraordinaire pour qu'il devienne quelqu'un d'exceptionnel dans notre vie. » (Regina Pessoa)",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 19225,
+              "duree": 12,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 100882,
+          "titre": "Histoire tragique avec fin heureuse",
+          "realisateurs": "Regina Pessoa",
+          "annee": 2005,
+          "duree": 8,
+          "ageMinimal": 8,
+          "synopsis": "Une petite fille pas comme les autres doit trouver sa voie pour s'affirmer face à son entourage. Alliant fantaisie et poésie, ce court métrage d'animation a le charme intemporel d'une fable sur la différence et l'affirmation de soi. Grâce à la rugosité de la texture des gravures, la cinéaste crée un univers de contrastes que vient renforcer une bande sonore cadencée.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 2493,
+              "duree": 8,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 154940,
+          "titre": "Bernacles",
+          "realisateurs": "Alexandra Ramires, Laura Gonçalves",
+          "annee": 2024,
+          "duree": 11,
+          "synopsis": "Sur fond de mer et d'Algarve urbaine, nous suivons le cycle complet de la vie d'un mollusque particulier appelé Percebes. Depuis sa formation jusqu'à l'assiette, nous traversons différents contextes qui nous permettent de mieux comprendre cette région et ceux qui l'habitent.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28459,
+              "duree": 11,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 154941,
+          "titre": "Misérable miracle",
+          "realisateurs": "Ryo Orikasa",
+          "annee": 2023,
+          "duree": 6,
+          "synopsis": "Une adaptation animée du livre Misérable Miracle d'Henri Michaux (1956), sur son expérience de la mescaline.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28461,
+              "duree": 6,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 154942,
+          "titre": "Voix des sirènes",
+          "art": "La",
+          "realisateurs": "Gianluigi Toccafondo",
+          "annee": 2024,
+          "duree": 20,
+          "synopsis": "Au cœur des fonds marins, entre les rochers et les coraux, des algues primitives ondulent, bercées par le son feutré et vrombissant des courants. Là-haut, à la surface de l'eau, quelque chose d'extraordinaire vient d'apparaître : une voix.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28462,
+              "duree": 20,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 6,
+          "idFilm": 154943,
+          "titre": "Papillon",
+          "realisateurs": "Florence Miailhe",
+          "annee": 2024,
+          "duree": 15,
+          "synopsis": "Dans la mer, un homme nage. Au fur et à mesure de sa progression, les souvenirs remontent à la surface. De sa petite enfance à sa vie d'homme, tous ses souvenirs sont liés à l'eau. Certains sont heureux, d'autres glorieux, d'autres traumatiques.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28463,
+              "duree": 15,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 7,
+          "idFilm": 154944,
+          "titre": "Tableau",
+          "art": "Le",
+          "realisateurs": "Michèle Lemieux",
+          "annee": 2024,
+          "duree": 12,
+          "synopsis": "Animé sur écran d'épingles, ce film revisite le destin tragique de la reine Marie-Anne d'Autriche, immortalisée en 1652 par le peintre Vélasquez.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28464,
+              "duree": 12,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Jacques Kermabon"
     },
     {
       "idSeance": 133620,
