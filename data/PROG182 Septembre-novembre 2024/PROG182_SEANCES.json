@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-02T08:51:04.518Z",
+  "updatedAt": "2024-07-02T10:05:53.159Z",
   "data": [
     {
       "idSeance": 130975,
@@ -6940,7 +6940,8 @@
           ],
           "idFilmBoxoffice": 74338
         }
-      ]
+      ],
+      "mention": "Séance présentée par Irène Jacob et Marin Karmitz"
     },
     {
       "idSeance": 131987,
@@ -7799,7 +7800,8 @@
           ],
           "idFilmBoxoffice": 9887
         }
-      ]
+      ],
+      "mention": "Séance présentée par Marin Karmitz"
     },
     {
       "idSeance": 144455,
@@ -11854,12 +11856,18 @@
           "idCategorie": 2201,
           "titreCycle": "Michael Powell",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 476,
+          "idCategorie": 3406,
+          "titreCycle": "Michael Powell",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 21697,
-      "typeEvenement": 13,
       "dateHeure": "2024-10-31T19:00:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -11889,29 +11897,9 @@
             }
           ],
           "idFilmBoxoffice": 4301
-        }
-      ]
-    },
-    {
-      "idSeance": 144462,
-      "idProg": 182,
-      "idCycleCategories": [
+        },
         {
-          "idCycle": 476,
-          "idCategorie": 3406,
-          "titreCycle": "Michael Powell",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 31067,
-      "typeEvenement": 14,
-      "dateHeure": "2024-10-31T20:30:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
+          "ordre": 2,
           "idConf": 31067,
           "idTypeConf": 16,
           "titre": "Dialogue avec Natacha Thiéry ",
@@ -12171,7 +12159,7 @@
           "ordre": 2,
           "idConf": 30974,
           "idTypeConf": 16,
-          "titre": "Dialogue avec Olivier Assayas",
+          "titre": "Dialogue avec Mårten Blomkvist et Nina Widerberg",
           "duree": 60
         }
       ]
@@ -15715,7 +15703,7 @@
       ],
       "idEvenement": 31342,
       "typeEvenement": 13,
-      "libelleEvenement": "CARTE BLANCHE À LA REVUE BLINK BLANK : « MÉMOIRES D'UN ESCARGOT » DE ADAM ELLIOT",
+      "libelleEvenement": "CARTE BLANCHE À LA REVUE BLINK BLANK : PROGRAMME DE COURTS MÉTRAGES",
       "dateHeure": "2024-11-18T20:00:00",
       "idSalle": "JE",
       "theorique": true,
