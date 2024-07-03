@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-03T13:53:18.318Z",
+  "updatedAt": "2024-07-03T16:21:03.059Z",
   "data": [
     {
       "idSeance": 130975,
@@ -46,7 +46,7 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 133779,
+      "idSeance": 144477,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -56,32 +56,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30712,
+      "idEvenement": 30732,
       "typeEvenement": 13,
       "dateHeure": "2024-08-29T16:15:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 80552,
-          "titre": "Grumpy",
-          "realisateurs": "George Cukor, Cyril Gardner",
-          "annee": 1930,
-          "duree": 74,
-          "generique": "Cyril Maude, Phillips Holmes, Frances Dade",
-          "adaptation": "D'après la pièce _Grumpy, a play in four acts_ de Horace Hodges et Thomas Wigney Percyval.",
-          "miniTexte": "Les débuts de Cukor, assisté de Cyril Gardner qui apporte sa science du montage. Après les planches, Cyril Maude reprend son rôle de vieillard grincheux (« _grumpy_ »), lancé dans une enquête sur un vol de diamant. Si sa diction british frise la caricature, les dialogues sont drôles, et Cukor montre déjà une certaine habileté dans la direction d'acteurs.",
+          "idFilm": 31400,
+          "titre": "Othello",
+          "titreVo": "A Double Life",
+          "realisateurs": "George Cukor",
+          "annee": 1947,
+          "duree": 100,
+          "generique": "Ronald Colman, Signe Hasso, Edmond O'Brien",
+          "adaptation": "D'après la pièce _Othello ou le Maure de Venise_ de William Shakespeare.",
+          "miniTexte": "Adaptation en forme de mise en abyme de la tragédie de Shakespeare, qui permet à Cukor de creuser encore et encore un sillon qu'il affectionne, l'imbrication entre travail d'acteur et vie personnelle. Le Britannique Ronald Colman sera oscarisé pour ce rôle de comédien entraîné dans la folie meurtrière de son personnage.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28222,
-              "duree": 74,
+              "idCopie": 28193,
+              "duree": 100,
               "format": "35 mm",
               "version": "VO",
               "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 118874
+          "idFilmBoxoffice": 97415
         }
       ]
     },
@@ -98,7 +99,7 @@
       ],
       "idEvenement": 30711,
       "typeEvenement": 13,
-      "dateHeure": "2024-08-29T18:00:00",
+      "dateHeure": "2024-08-29T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -177,7 +178,7 @@
       ],
       "idEvenement": 30738,
       "typeEvenement": 13,
-      "dateHeure": "2024-08-29T20:30:00",
+      "dateHeure": "2024-08-29T20:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2728,7 +2729,8 @@
           "realisateurs": "Georges Mourier",
           "annee": 2005,
           "duree": 52,
-          "status": 1,
+          "miniTexte": "Acteurs, cinéastes et proches évoquent leur relation avec Abel Gance.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28143,
@@ -2998,7 +3000,7 @@
           "duree": 71,
           "generique": "Léon Mathot, Émile Keppens, Henri Maillard, Maud Richard",
           "miniTexte": "Première Guerre mondiale, un scientifique est sollicité par le gouvernement français pour élaborer des substances toxiques afin de les utiliser contre l'ennemi. Également connu sous le titre _Les Brouillards sur la ville_, un drame d'espionnage photographié par Léonce-Henri Burel, opérateur attitré d'Abel Gance puis de Robert Bresson.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 4891,
@@ -3587,7 +3589,7 @@
       "mention": "Séance suivie d'une discussion avec Patric Chiha et Béatrice Dalle"
     },
     {
-      "idSeance": 133739,
+      "idSeance": 144476,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -3597,33 +3599,32 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30732,
+      "idEvenement": 30712,
       "typeEvenement": 13,
       "dateHeure": "2024-09-16T20:30:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 31400,
-          "titre": "Othello",
-          "titreVo": "A Double Life",
-          "realisateurs": "George Cukor",
-          "annee": 1947,
-          "duree": 100,
-          "generique": "Ronald Colman, Signe Hasso, Edmond O'Brien",
-          "adaptation": "D'après la pièce _Othello ou le Maure de Venise_ de William Shakespeare.",
-          "miniTexte": "Adaptation en forme de mise en abyme de la tragédie de Shakespeare, qui permet à Cukor de creuser encore et encore un sillon qu'il affectionne, l'imbrication entre travail d'acteur et vie personnelle. Le Britannique Ronald Colman sera oscarisé pour ce rôle de comédien entraîné dans la folie meurtrière de son personnage.",
+          "idFilm": 80552,
+          "titre": "Grumpy",
+          "realisateurs": "George Cukor, Cyril Gardner",
+          "annee": 1930,
+          "duree": 74,
+          "generique": "Cyril Maude, Phillips Holmes, Frances Dade",
+          "adaptation": "D'après la pièce _Grumpy, a play in four acts_ de Horace Hodges et Thomas Wigney Percyval.",
+          "miniTexte": "Les débuts de Cukor, assisté de Cyril Gardner qui apporte sa science du montage. Après les planches, Cyril Maude reprend son rôle de vieillard grincheux (« _grumpy_ »), lancé dans une enquête sur un vol de diamant. Si sa diction british frise la caricature, les dialogues sont drôles, et Cukor montre déjà une certaine habileté dans la direction d'acteurs.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28193,
-              "duree": 100,
+              "idCopie": 28222,
+              "duree": 74,
               "format": "35 mm",
               "version": "VO",
               "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 97415
+          "idFilmBoxoffice": 118874
         }
       ]
     },
@@ -4574,6 +4575,7 @@
           "annee": 1923,
           "duree": 17,
           "synopsis": "Documentaire sur le tournage de _La Roue_ d'Abel Gance.",
+          "miniTexte": "Assistant sur _La Roue_, le poète et romancier Blaise Cendrars filme les coulisses du tournage.",
           "status": 2,
           "copies": [
             {
@@ -4591,7 +4593,8 @@
           "realisateurs": "Jean Arroy",
           "annee": 1925,
           "duree": 21,
-          "status": 0,
+          "miniTexte": "Documentaire réalisé pendant le tournage du chef-d'œuvre d'Abel Gance.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28106,
@@ -4609,6 +4612,7 @@
           "annee": 1930,
           "duree": 15,
           "synopsis": "Abel Gance et son équipe se lancent dans le cinéma parlant. Leurs prouesses techniques permettent des prises de vue impressionnantes. Des essais d'acteurs et des plans coupés au montage s'interposent aux scènes de tournage.",
+          "miniTexte": "Les débuts du parlant pour Abel Gance et son équipe. Essais d'acteurs et prises de vue aux prouesses techniques impressionnantes s'interposent entre les scènes de tournage de _La Fin du monde_.",
           "status": 2,
           "copies": [
             {
@@ -4625,7 +4629,8 @@
           "titre": "Napoléon : danses, galops",
           "realisateurs": "Abel Gance",
           "annee": 1927,
-          "status": 0,
+          "miniTexte": "Des rushes de _Napoléon_ (montés par Gance pour tester le triple écran), composés d'une version plus dénudée de la scène du bal des victimes, ainsi que de la poursuite en Corse, filmée depuis le dos du cheval, et dont seuls quelques plans ont subsisté.",
+          "status": 2,
           "copies": []
         }
       ]
@@ -7852,7 +7857,8 @@
           ],
           "idFilmBoxoffice": 6174
         }
-      ]
+      ],
+      "mention": "Séance présentée par Darejan Omirbaev"
     },
     {
       "idSeance": 132093,
@@ -8345,7 +8351,7 @@
       ]
     },
     {
-      "idSeance": 134002,
+      "idSeance": 144478,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -8355,25 +8361,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31144,
+      "idEvenement": 31139,
       "typeEvenement": 13,
       "dateHeure": "2024-10-12T15:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 64403,
-          "titre": "Témoin",
-          "art": "Le",
-          "titreVo": "Testimone",
-          "artVo": "Il",
+          "idFilm": 53225,
+          "titre": "Mademoiselle la présidente",
+          "titreVo": "Presidentessa",
+          "artVo": "La",
           "realisateurs": "Pietro Germi",
-          "annee": 1946,
-          "generique": "Roldano Lupi, Marina Berti, Arnoldo Foa",
-          "miniTexte": "En pleine période néoréaliste, Pietro Germi habille de noir son premier film avec l'histoire d'un homme suspecté de meurtre, qui risque la peine de mort après la déposition d'un témoin inattendu. Derrière l'intrigue criminelle à l'atmosphère étouffante, une réflexion quasi dostoïevskienne sur la faute et la culpabilité dans l'Italie d'après-guerre.",
+          "annee": 1952,
+          "generique": "Silvana Pampanini, Carlo Dapporto, Ave Ninchi",
+          "adaptation": "D'après la pièce _Mademoiselle la présidente_ de Maurice Hennequin et Pierre Veber.",
+          "miniTexte": "D'après la pièce de Maurice Hennequin créée en 1912, les aventures d'une vedette du Moulin-Rouge qui s'attire les foudres d'un juge pudibond. Dans le rôle de Gobette, Silvana Pampanini enflamme l'adaptation de Germi, qui avec son sens de la satire impayable, réussit un vaudeville réjouissant, à la fois féroce et bien rythmé.",
           "status": 2,
-          "copies": [],
-          "idFilmBoxoffice": 208728
+          "copies": [
+            {
+              "idCopie": 28318,
+              "duree": 0,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 138932
         }
       ]
     },
@@ -9150,7 +9164,7 @@
       ]
     },
     {
-      "idSeance": 134007,
+      "idSeance": 144479,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -9160,33 +9174,25 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31139,
+      "idEvenement": 31144,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-17T18:30:00",
+      "dateHeure": "2024-10-17T18:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 53225,
-          "titre": "Mademoiselle la présidente",
-          "titreVo": "Presidentessa",
-          "artVo": "La",
+          "idFilm": 64403,
+          "titre": "Témoin",
+          "art": "Le",
+          "titreVo": "Testimone",
+          "artVo": "Il",
           "realisateurs": "Pietro Germi",
-          "annee": 1952,
-          "generique": "Silvana Pampanini, Carlo Dapporto, Ave Ninchi",
-          "adaptation": "D'après la pièce _Mademoiselle la présidente_ de Maurice Hennequin et Pierre Veber.",
-          "miniTexte": "D'après la pièce de Maurice Hennequin créée en 1912, les aventures d'une vedette du Moulin-Rouge qui s'attire les foudres d'un juge pudibond. Dans le rôle de Gobette, Silvana Pampanini enflamme l'adaptation de Germi, qui avec son sens de la satire impayable, réussit un vaudeville réjouissant, à la fois féroce et bien rythmé.",
+          "annee": 1946,
+          "generique": "Roldano Lupi, Marina Berti, Arnoldo Foa",
+          "miniTexte": "En pleine période néoréaliste, Pietro Germi habille de noir son premier film avec l'histoire d'un homme suspecté de meurtre, qui risque la peine de mort après la déposition d'un témoin inattendu. Derrière l'intrigue criminelle à l'atmosphère étouffante, une réflexion quasi dostoïevskienne sur la faute et la culpabilité dans l'Italie d'après-guerre.",
           "status": 2,
-          "copies": [
-            {
-              "idCopie": 28318,
-              "duree": 0,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 138932
+          "copies": [],
+          "idFilmBoxoffice": 208728
         }
       ]
     },
@@ -9257,7 +9263,7 @@
       ],
       "idEvenement": 31154,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-17T20:30:00",
+      "dateHeure": "2024-10-17T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -9279,34 +9285,6 @@
             }
           ],
           "idFilmBoxoffice": 18613
-        }
-      ]
-    },
-    {
-      "idSeance": 144461,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 803,
-          "idCategorie": 3416,
-          "titreCycle": "Pietro Germi",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 31127,
-      "typeEvenement": 14,
-      "dateHeure": "2024-10-18T15:30:00",
-      "typeConference": "Conférence",
-      "idSalle": "GF",
-      "duree": 90,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 31127,
-          "idTypeConf": 55,
-          "titre": "Qui êtes-vous... Pietro Germi ?",
-          "texte": "_Le Chemin de l'espérance_, c'est un voyage dans l'Italie de 1950, une Italie dévastée non plus par la guerre comme au temps de Rossellini, mais par la pauvreté. Pietro Germi – fordien depuis son « western » _Au nom de la loi_ – superpose ici sur les images-souvenirs des _Raisins de la colère_ la stature de Raf Vallone, icône prolétarienne qui fait face à l'injustice avec son corps d'acteur. Viendront ensuite les mélos sociaux, le noir, la cruauté de la comédie d'un auteur à la fois cynique et sentimental, formaliste et populaire. — Sergio Toffetti",
-          "duree": 90
         }
       ]
     },
@@ -11355,7 +11333,7 @@
       "mention": "Séance présentée par L'association Super Seven"
     },
     {
-      "idSeance": 134047,
+      "idSeance": 144481,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -11365,25 +11343,32 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31144,
+      "idEvenement": 31419,
       "typeEvenement": 13,
       "dateHeure": "2024-10-27T18:30:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 64403,
-          "titre": "Témoin",
-          "art": "Le",
-          "titreVo": "Testimone",
-          "artVo": "Il",
-          "realisateurs": "Pietro Germi",
-          "annee": 1946,
-          "generique": "Roldano Lupi, Marina Berti, Arnoldo Foa",
-          "miniTexte": "En pleine période néoréaliste, Pietro Germi habille de noir son premier film avec l'histoire d'un homme suspecté de meurtre, qui risque la peine de mort après la déposition d'un témoin inattendu. Derrière l'intrigue criminelle à l'atmosphère étouffante, une réflexion quasi dostoïevskienne sur la faute et la culpabilité dans l'Italie d'après-guerre.",
+          "idFilm": 42447,
+          "titre": "Mes chers amis",
+          "titreVo": "Amici miei",
+          "realisateurs": "Mario Monicelli",
+          "annee": 1975,
+          "duree": 140,
+          "generique": "Ugo Tognazzi, Philippe Noiret, Bernard Blier, Adolfo Celi",
+          "synopsis": "Après la mort d'un des leurs, des quadragénaires se souviennent de leurs plaisanteries.",
+          "commentaire": "Écrit par Pietro Germi peu avant sa mort, _Mes chers Amis_ raconte les aventures d'une bande de quinquagénaires désillusionnés. Cinq _vitelloni_ montés en graines, dans le prolongement du film de Fellini, qui, lorsque la routine de leur existence se fait trop pesante, inventent les pires blagues aux dépens de leurs compatriotes. Dirigés par Monicelli, avec toujours ce goût pour la farce mêlée de désespoir, les prodigieux Noiret, Tognazzi et Blier sont aussi à l'aise dans le comique que dans la mélancolie. Ils bâtissent ensemble un monument d'amertume et de dérision, doublé d'un hommage inconditionnel à la camaraderie.",
           "status": 2,
-          "copies": [],
-          "idFilmBoxoffice": 208728
+          "copies": [
+            {
+              "idCopie": 25377,
+              "duree": 140,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -15726,11 +15711,12 @@
           "ordre": 1,
           "idFilm": 142425,
           "titre": "Oncle Thomas, la comptabilité des jours",
+          "titreVo": "Tio Tomás, a contabilidade dos dias",
           "realisateurs": "Regina Pessoa",
           "annee": 2019,
           "duree": 12,
           "synopsis": "Le cri d'amour d'une cinéaste à son oncle, simple poète du quotidien et pourtant déterminant dans sa vie.",
-          "commentaire": "« À partir de mes souvenirs d'enfance, ce film rend hommage à mon oncle Thomas, un homme humble, un peu excentrique, qui a eu une vie simple et anonyme mais qui a beaucoup compté pour moi. Ceci est mon témoignage du fait qu'il n'est pas nécessaire que la vie de quelqu'un soit extraordinaire pour qu'il devienne quelqu'un d'exceptionnel dans notre vie. » (Regina Pessoa)",
+          "commentaire": "« À partir de mes souvenirs d'enfance, ce film rend hommage à mon oncle Tomás, un homme humble, un peu excentrique, qui a eu une vie simple et anonyme mais qui a beaucoup compté pour moi. Ceci est mon témoignage du fait qu'il n'est pas nécessaire que la vie de quelqu'un soit extraordinaire pour qu'il devienne quelqu'un d'exceptionnel dans notre vie. » (Regina Pessoa)",
           "status": 2,
           "copies": [
             {
@@ -15744,6 +15730,7 @@
           "ordre": 2,
           "idFilm": 100882,
           "titre": "Histoire tragique avec fin heureuse",
+          "titreVo": "História trágica com final feliz",
           "realisateurs": "Regina Pessoa",
           "annee": 2005,
           "duree": 8,
@@ -15762,10 +15749,11 @@
           "ordre": 3,
           "idFilm": 154940,
           "titre": "Bernacles",
+          "titreVo": "Percebes",
           "realisateurs": "Alexandra Ramires, Laura Gonçalves",
           "annee": 2024,
           "duree": 11,
-          "synopsis": "Sur fond de mer et d'Algarve urbaine, nous suivons le cycle complet de la vie d'un mollusque particulier appelé Percebes. Depuis sa formation jusqu'à l'assiette, nous traversons différents contextes qui nous permettent de mieux comprendre cette région et ceux qui l'habitent.",
+          "synopsis": "Sur fond de mer et d'Algarve urbaine, nous suivons le cycle complet de la vie d'un mollusque particulier appelé _percebes_. Depuis sa formation jusqu'à l'assiette, nous traversons différents contextes qui nous permettent de mieux comprendre cette région et ceux qui l'habitent.",
           "status": 2,
           "copies": [
             {
@@ -15852,7 +15840,7 @@
           ]
         }
       ],
-      "mention": "Séance présentée par Jacques Kermabon"
+      "mention": "Séance présentée par Jacques Kermabon et Xavier Kawa-Topor"
     },
     {
       "idSeance": 133620,
@@ -16492,8 +16480,15 @@
           "art": "Los",
           "realisateurs": "Camilo Restrepo",
           "annee": 2020,
+          "duree": 70,
           "status": 1,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28500,
+              "duree": 70,
+              "format": "35 mm"
+            }
+          ],
           "idFilmBoxoffice": 273881
         }
       ],
@@ -17422,7 +17417,8 @@
           ],
           "idFilmBoxoffice": 280260
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec Lucie Plumet et Emmanuel Marre"
     },
     {
       "idSeance": 133358,
