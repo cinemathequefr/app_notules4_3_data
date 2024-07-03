@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-02T11:57:13.551Z",
+  "updatedAt": "2024-07-03T08:33:10.573Z",
   "data": [
     {
       "idSeance": 128873,
@@ -7690,13 +7690,31 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30634,
+      "idEvenement": 31394,
       "typeEvenement": 13,
       "dateHeure": "2024-07-06T15:00:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
+          "idFilm": 154946,
+          "titre": "Figuras gravadas na faca com a seiva das bananeiras",
+          "art": "As",
+          "realisateurs": "Joana Pimenta",
+          "annee": 2014,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28466,
+              "duree": 0,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
           "idFilm": 154886,
           "titre": "Branco sai, preto fica",
           "realisateurs": "Adirley Queirós",
@@ -7993,13 +8011,32 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30635,
+      "idEvenement": 31395,
       "typeEvenement": 13,
       "dateHeure": "2024-07-07T15:00:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
+          "idFilm": 154945,
+          "titre": "Um campo de aviação",
+          "realisateurs": "Joana Pimenta",
+          "annee": 2016,
+          "duree": 14,
+          "synopsis": "Un aérodrome dans une banlieue inconnue. Dans le cratère d'un volcan, une ville modèle s'élève et se dissout. Deux personnes se rencontrent dans ce lieu, à cinquante ans d'écart.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28465,
+              "duree": 14,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
           "idFilm": 154887,
           "titre": "Era uma vez Brasília",
           "realisateurs": "Adirley Queirós",
@@ -8098,7 +8135,7 @@
           "ordre": 1,
           "idFilm": 154888,
           "titre": "Mato seco em chamas",
-          "realisateurs": "Adirley Queirós, Joanna Pimenta",
+          "realisateurs": "Adirley Queirós, Joana Pimenta",
           "annee": 2022,
           "dureeStd": 154,
           "duree": 150,
@@ -9028,7 +9065,7 @@
       ],
       "idEvenement": 30531,
       "typeEvenement": 13,
-      "dateHeure": "2024-07-13T20:30:00",
+      "dateHeure": "2024-07-13T21:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -9200,7 +9237,7 @@
       ],
       "idEvenement": 30584,
       "typeEvenement": 13,
-      "dateHeure": "2024-07-14T20:00:00",
+      "dateHeure": "2024-07-14T20:30:00",
       "idSalle": "GF",
       "items": [
         {
