@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-02T16:00:29.654Z",
+  "updatedAt": "2024-07-03T13:53:18.318Z",
   "data": [
     {
       "idSeance": 130975,
@@ -3009,7 +3009,8 @@
           ],
           "idFilmBoxoffice": 26520
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 133781,
@@ -8890,7 +8891,7 @@
           "annee": 1915,
           "dureeStd": 21,
           "duree": 21,
-          "generique": "Sacha Guitry, Anatole France, Sarah Bernhardt",
+          "generique": "Anatole France, Edgar Degas, Sarah Bernhardt, Claude Monet",
           "synopsis": "D'André Antoine à Sarah Bernhardt en passant par Edgar Degas, Guitry filme onze « admirables Français » parmi les plus grandes personnalités de son temps. Alors que la guerre fait rage, il les observe en plein travail créatif et multiplie les anecdotes dans une volonté de transmission aux générations futures.",
           "status": 2,
           "copies": [
@@ -12533,7 +12534,9 @@
             {
               "idCopie": 28165,
               "duree": 96,
-              "format": "DCP"
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
@@ -13070,7 +13073,10 @@
             {
               "idCopie": 28164,
               "duree": 98,
-              "format": "DCP"
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STA",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 6197
