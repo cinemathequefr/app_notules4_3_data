@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-03T16:21:03.059Z",
+  "updatedAt": "2024-07-04T09:14:57.495Z",
   "data": [
     {
       "idSeance": 130975,
@@ -4629,9 +4629,16 @@
           "titre": "Napoléon : danses, galops",
           "realisateurs": "Abel Gance",
           "annee": 1927,
+          "duree": 10,
           "miniTexte": "Des rushes de _Napoléon_ (montés par Gance pour tester le triple écran), composés d'une version plus dénudée de la scène du bal des victimes, ainsi que de la poursuite en Corse, filmée depuis le dos du cheval, et dont seuls quelques plans ont subsisté.",
           "status": 2,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28519,
+              "duree": 10,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },
@@ -5120,7 +5127,7 @@
           "idFilmBoxoffice": 302676
         }
       ],
-      "mention": "Séance suivie d'une discussion avec Francisco Rodriguez Teare"
+      "mention": "Séance suivie d'une discussion avec Francisco Rodríguez Teare"
     },
     {
       "idSeance": 134220,
@@ -5200,7 +5207,7 @@
           "idFilmBoxoffice": 253236
         }
       ],
-      "mention": "Séance présentée par Agathe Bonitzer et Melvil Poupaud"
+      "mention": "Séance présentée par Agathe Bonitzer, Melvil Poupaud et Sandrine Kiberlain"
     },
     {
       "idSeance": 131721,
@@ -14707,7 +14714,7 @@
           "idFilmBoxoffice": 25203
         }
       ],
-      "mention": "Séance présentée par Elie Chouraqui"
+      "mention": "Séance présentée par Élie Chouraqui"
     },
     {
       "idSeance": 133059,
@@ -15935,7 +15942,7 @@
           "idFilmBoxoffice": 8401
         }
       ],
-      "mention": "Séance présentée par Evelyne Bouix"
+      "mention": "Séance présentée par Évelyne Bouix"
     },
     {
       "idSeance": 133846,
