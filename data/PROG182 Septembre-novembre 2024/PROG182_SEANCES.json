@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-08T10:47:23.921Z",
+  "updatedAt": "2024-07-08T14:01:01.472Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1547,19 +1547,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 2291,
-              "duree": 96,
-              "format": "35 mm",
-              "version": "VF"
-            },
-            {
               "idCopie": 28241,
               "duree": 96,
               "format": "35 mm"
-            },
-            {
-              "idCopie": 28239,
-              "duree": 96
             }
           ],
           "idFilmBoxoffice": 110259
@@ -4016,6 +4006,25 @@
       ]
     },
     {
+      "idSeance": 133985,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3458,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Prix Serge Daney"
+        }
+      ],
+      "idEvenement": 31349,
+      "typeEvenement": 13,
+      "libelleEvenement": "PRIX SERGE DANEY – 2022",
+      "dateHeure": "2024-09-19T18:00:00",
+      "idSalle": "JE",
+      "theorique": true,
+      "items": []
+    },
+    {
       "idSeance": 133684,
       "idProg": 182,
       "idCycleCategories": [
@@ -5458,53 +5467,6 @@
         }
       ],
       "mention": "Séance présentée par Jean A. Gili"
-    },
-    {
-      "idSeance": 144483,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 11,
-          "idCategorie": 3465,
-          "titreCycle": "Séances spéciales",
-          "titreSousCycle": "Avant-première Emanuel Pârvu"
-        }
-      ],
-      "idEvenement": 31429,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-26T14:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 110552,
-          "titre": "Fantastic Mr. Fox",
-          "realisateurs": "Wes Anderson",
-          "annee": 2007,
-          "duree": 88,
-          "adaptation": "D'après le roman _Fantastique Maître Renard_ de Roald Dahl.",
-          "ageMinimal": 6,
-          "synopsisJP": "Un renard voleur de poules doit affronter trois redoutables fermiers. D'après Roald Dahl, un film d'aventures aux couleurs automnales, aux accents écologiques, en animation image par image de marionnettes, et qui aborde en douceur les thèmes de la famille et de la transmission chers à Wes Anderson.",
-          "commentaire": "_Fantastic Mr. Fox_ de Roald Dahl est le premier roman que Wes Anderson a lu dans son enfance. Lorsque Revolution Studios en acquiert les droits en 2004, Anderson est tout de suite associé au projet, d'abord avec Henry Selick (qui a déjà travaillé avec lui comme directeur de l'animation sur _La Vie aquatique_), puis avec Mark Gustafson et Noah Baumbach, ce dernier cosignant le scénario avec le réalisateur. Anderson commence par s'installer pendant plusieurs semaines dans la propriété anglaise où Dahl a écrit la plupart de ses romans, et s'inspire largement de cet environnement rural pour mettre au point la direction artistique du film. Sorti fin 2009 aux États-Unis, _Fantastic Mr. Fox_ est en partie éclipsé par le triomphe de la production Pixar _Là-haut_. Formellement, les deux films sont aussi éloignés que possible : Anderson refuse l'esthétique numérique pour privilégier l'animation image par image de marionnettes fabriquées et animées à la main (armatures en acier, fourrure et vêtements), évoluant dans cent cinquante décors entièrement manufacturés, dans une gamme chromatique très douce (magnifiques couleurs automnales). La surprise initiale de voir Wes Anderson s'aventurer sur le terrain du cinéma d'animation est vite occultée par une reconnaissance immédiate de son style visuel : élégance et précision de la composition des cadres, frontalité des plans balayés par des travellings latéraux, douceur de ton mêlée de brutales accélérations de rythme. Si _Fantastic Mr. Fox_ met en scène des renards, blaireaux et autres opossums, son grand sujet est aussi celui des films de fiction en prises de vue réelles du cinéaste (_La Famille Tenenbaum_, _La Vie aquatique_, _À bord du Darjeeling Limited_...) : la famille, les questions de filiation, de transmission, d'affranchissement du cadre ou de l'héritage familial. Le tout enveloppé dans un film d'aventures enlevé, porteur d'un message écologique et humaniste. Il en résulte un équilibre subtil entre fantaisie visuelle et réalisme des sentiments, entre péripéties trépidantes et drame existentiel poignant.\n\nCaroline Maleville",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28530,
-              "duree": 88,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 28531,
-              "duree": 88,
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 114976
-        }
-      ]
     },
     {
       "idSeance": 133731,
@@ -9126,6 +9088,48 @@
       "mention": "Séance suivie d'une discussion avec Laura Tuillier et Stanislas Merhar"
     },
     {
+      "idSeance": 144473,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3465,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Avant-première Emanuel Pârvu"
+        }
+      ],
+      "idEvenement": 31425,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-14T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 43,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154955,
+          "titre": "Trois kilomètres jusqu'à la fin du monde",
+          "titreVo": "Trei kilometri până la capătul lumii",
+          "realisateurs": "Emanuel Pârvu",
+          "annee": 2024,
+          "duree": 105,
+          "generique": "Bogdan Dumitrache, Ciprian Chiujdea, Laura Vasiliu",
+          "miniTexte": "Au cœur de l'été, l'agression d'un jeune homme qui vient bouleverser l'apparente quiétude d'un village roumain. Candidat à la Palme d'or au dernier Festival de Cannes, Emanuel Pârvu décrit l'obscurantisme d'une communauté isolée, dans une charge subtile contre l'homophobie ordinaire.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28525,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1000001770
+        }
+      ],
+      "mention": "Avant-première"
+    },
+    {
       "idSeance": 132274,
       "idProg": 182,
       "idCycleCategories": [
@@ -10590,8 +10594,8 @@
           "generique": "Philippe Beuzen, Catherine Sée, Christian Charrière",
           "synopsis": "Deux étudiants abordent dans un café une jeune femme indépendante. Par jeu, l'un d'eux entreprend de la séduire. Le second admire l'attitude donjuanesque de son camarade, tandis qu'il s'agace de celle, trop libre à son goût, de la jeune femme...",
           "synopsisJP": "Un homme rencontre une femme, puis en rencontre une seconde, hésite, et retourne à la première. Sur ce motif minimal, les deux premiers _Contes moraux_ d'Éric Rohmer, produits (et interprété, pour _La Boulangère de Monceau_) par Barbet Schroeder, admirateur et ami. Création des Films du Losange qui fêtent donc leurs soixante ans. Modestie des moyens, primat de la mise en scène. — F. B.",
-          "miniTexte": "Les chassés-croisés amoureux de deux Don Juan avec une jeune femme libre qui ne s'en laisse pas conter. Un portrait de la jeunesse d'après-guerre, ses conservatismes et sa misogynie, avant le dégel de 1968. Schroeder fut à la fois assistant-réalisateur et producteur du film.",
-          "commentaire": "Rohmer épingle la férocité des enjeux de classe et de domination au sein d'un trio d'étudiants. Bertrand et Guillaume se jouent de Suzanne avec qui le second flirtait. Bertrand se fait le narrateur des mesquineries échafaudées avec son ami. La technique fonctionne si bien qu'on prend la jeune femme en pitié, avant d'être pris au piège de nos préjugés. – Nine Antico",
+          "miniTexte": "Rohmer épingle la férocité des enjeux de classe et de domination au sein d'un trio d'étudiants. Bertrand et Guillaume se jouent de Suzanne avec qui le second flirtait. Bertrand se fait le narrateur des mesquineries échafaudées avec son ami. La technique fonctionne si bien qu'on prend la jeune femme en pitié, avant d'être pris au piège de nos préjugés. – Nine Antico",
+          "commentaire": "Les chassés-croisés amoureux de deux Don Juan avec une jeune femme libre qui ne s'en laisse pas conter. Un portrait de la jeunesse d'après-guerre, ses conservatismes et sa misogynie, avant le dégel de 1968. Schroeder fut à la fois assistant-réalisateur et producteur du film.",
           "status": 2,
           "copies": [
             {
@@ -12292,7 +12296,7 @@
           "annee": 1967,
           "duree": 91,
           "generique": "Thommy Berggren, Pia Degermark, Lennart Malmer",
-          "miniTexte": "D'après un célèbre fait divers qui défraya la chronique à la fin du XIX<sup>e</sup> siècle, la fugue amoureuse d'une funambule danoise et d'un lieutenant suédois, marié et père de deux enfants. Widerberg délaisse le noir et blanc et le naturalisme de la ville pour filmer un hymne à l'amour fou, dans une suite de tableaux impressionnistes aussi sensuels que bucoliques. Au cœur d'une nature hédoniste, le couple formé par Pia Degermark (Prix d'interprétation à Cannes) et Thommy Berggren savoure l'ivresse d'un bel été à l'éclat du bonheur éphémère. Le film est un tel succès à sa sortie que le Concerto pour piano n°21 de Mozart, qui en constitue l'espace sonore, ressort dans une édition titrée Elvira Madigan.",
+          "miniTexte": "D'après un célèbre fait divers qui défraya la chronique à la fin du XIX<sup>e</sup> siècle, la fugue amoureuse d'une funambule danoise et d'un lieutenant suédois, marié et père de deux enfants. Widerberg délaisse le noir et blanc et le naturalisme de la ville pour filmer un hymne à l'amour fou, dans une suite de tableaux impressionnistes aussi sensuels que bucoliques. Au cœur d'une nature hédoniste, le couple formé par Pia Degermark (Prix d'interprétation à Cannes) et Thommy Berggren savoure l'ivresse d'un bel été à l'éclat du bonheur éphémère.",
           "status": 2,
           "copies": [
             {
@@ -12674,6 +12678,45 @@
               "stDemande": true
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 144482,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3405,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Godzilla Day"
+        }
+      ],
+      "idEvenement": 31436,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-03T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41548,
+          "titre": "King Kong contre Godzilla",
+          "titreVo": "Kingu Kongu tai Gojira",
+          "titreNx": "キングコング対ゴジラ",
+          "realisateurs": "Ishirō Honda",
+          "annee": 1962,
+          "duree": 85,
+          "generique": "Tadao Takashima, Kenji Sahara, Yū Fujiki",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28535,
+              "duree": 85,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ],
+          "idFilmBoxoffice": 41227
         }
       ]
     },
@@ -13495,7 +13538,7 @@
           "annee": 1967,
           "duree": 91,
           "generique": "Thommy Berggren, Pia Degermark, Lennart Malmer",
-          "miniTexte": "D'après un célèbre fait divers qui défraya la chronique à la fin du XIX<sup>e</sup> siècle, la fugue amoureuse d'une funambule danoise et d'un lieutenant suédois, marié et père de deux enfants. Widerberg délaisse le noir et blanc et le naturalisme de la ville pour filmer un hymne à l'amour fou, dans une suite de tableaux impressionnistes aussi sensuels que bucoliques. Au cœur d'une nature hédoniste, le couple formé par Pia Degermark (Prix d'interprétation à Cannes) et Thommy Berggren savoure l'ivresse d'un bel été à l'éclat du bonheur éphémère. Le film est un tel succès à sa sortie que le Concerto pour piano n°21 de Mozart, qui en constitue l'espace sonore, ressort dans une édition titrée Elvira Madigan.",
+          "miniTexte": "D'après un célèbre fait divers qui défraya la chronique à la fin du XIX<sup>e</sup> siècle, la fugue amoureuse d'une funambule danoise et d'un lieutenant suédois, marié et père de deux enfants. Widerberg délaisse le noir et blanc et le naturalisme de la ville pour filmer un hymne à l'amour fou, dans une suite de tableaux impressionnistes aussi sensuels que bucoliques. Au cœur d'une nature hédoniste, le couple formé par Pia Degermark (Prix d'interprétation à Cannes) et Thommy Berggren savoure l'ivresse d'un bel été à l'éclat du bonheur éphémère.",
           "status": 2,
           "copies": [
             {

@@ -1,0 +1,264 @@
+{
+  "updatedAt": "2024-07-08T14:12:29.056Z",
+  "data": [
+    {
+      "idSeance": 136878,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459
+        }
+      ],
+      "idEvenement": 31403,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-27T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30806,
+          "titre": "Vengeance aux deux visages",
+          "art": "La",
+          "titreVo": "One-eyed Jacks",
+          "realisateurs": "Marlon Brando",
+          "annee": 1959,
+          "duree": 144,
+          "generique": "Marlon Brando, Karl Malden, Joan Petrone",
+          "adaptation": "D'après le roman _La Véritable Histoire de la mort d'Henry Jones_ de Charles Neider.",
+          "synopsis": "Après un hold-up, Dad Longworth abandonne son complice Rio à la police et disparaît avec le butin. Cinq ans après sa sortie de prison, Rio le retrouve.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 10668,
+              "duree": 144,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 136913,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459
+        }
+      ],
+      "idEvenement": 31432,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-28T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38003,
+          "titre": "C'étaient des hommes",
+          "titreVo": "Men",
+          "artVo": "The",
+          "realisateurs": "Fred Zinnemann",
+          "annee": 1949,
+          "duree": 85,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28532,
+              "duree": 85,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 136916,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 796,
+          "idCategorie": 3394
+        }
+      ],
+      "idEvenement": 30979,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-28T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 39828,
+          "titre": "Chevaux de feu",
+          "art": "Les",
+          "titreVo": "Teni zabytykh predkov",
+          "realisateurs": "Serguei Paradjanov",
+          "annee": 1965,
+          "duree": 97,
+          "generique": "Ivan Mikolaitchouk, Larissa Kadochnikova, Tatiana Bestaïeva",
+          "adaptation": "D'après l'oeuvre _Les Ombres des ancêtres oubliés_ de Mikhaïl Kotsioubinski.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28233,
+              "duree": 97,
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28174,
+              "duree": 97
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 144484,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459
+        }
+      ],
+      "idEvenement": 31454,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-28T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54207,
+          "titre": "Formule",
+          "art": "La",
+          "titreVo": "Formula",
+          "artVo": "The",
+          "realisateurs": "John G. Avildsen",
+          "annee": 1979,
+          "duree": 117,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28537,
+              "duree": 117,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137250,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31264,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-11T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 58648,
+          "titre": "Septième victime",
+          "art": "La",
+          "titreVo": "Seventh Victim",
+          "artVo": "The",
+          "realisateurs": "Mark Robson",
+          "annee": 1943,
+          "duree": 71,
+          "generique": "Kim Hunter, Jean Brooks, Tom Conway",
+          "synopsis": "Une jeune fille part à la recherche de sa sœur aînée, prisonnière d'une secte satanique installée à Greenwich Village. Les adeptes de celle-ci s'alarment de sa curiosité. Elle est bientôt désignée comme la future « septième victime ».",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 11367,
+              "duree": 71,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 137289,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31296,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-12T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54028,
+          "titre": "Flambeur",
+          "art": "Le",
+          "titreVo": "Gambler",
+          "artVo": "The",
+          "realisateurs": "Karel Reisz",
+          "annee": 1973,
+          "generique": "James Caan, Paul Sorvino, Lauren Hutton",
+          "synopsis": "Alex Freed est professeur de littérature. Cependant il a un vice qui lui fait perdre tout son argent et l'affection de ses proches: le jeu.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 138552,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31315,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-29T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32415,
+          "titre": "Pays de la violence",
+          "art": "Le",
+          "titreVo": "I Walk the Line",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1969,
+          "adaptation": "D'après le roman _An Exile_ de Madison Jones.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    }
+  ]
+}
