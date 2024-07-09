@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-08T14:01:01.472Z",
+  "updatedAt": "2024-07-09T07:53:12.496Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1177,7 +1177,8 @@
           "copies": [
             {
               "idCopie": 28120,
-              "duree": 115
+              "duree": 115,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 26221
@@ -1336,6 +1337,7 @@
             {
               "idCopie": 28122,
               "duree": 96,
+              "format": "35 mm",
               "version": "VF"
             }
           ],
@@ -2785,7 +2787,8 @@
           "copies": [
             {
               "idCopie": 28143,
-              "duree": 52
+              "duree": 52,
+              "format": "Numérique"
             }
           ]
         }
@@ -3127,7 +3130,7 @@
           "titre": "Mater dolorosa",
           "realisateurs": "Abel Gance",
           "annee": 1917,
-          "duree": 88,
+          "duree": 66,
           "generique": "Firmin Gémier, Emmy Lynn, Armand Tallier, Paul Vermoyal",
           "synopsis": "Un grand médecin découvre que son épouse a un amant, dont elle a eu un enfant. L'amant se suicide, le mari enlève l'enfant à sa mère et la chasse.",
           "miniTexte": "Le calvaire d'une mère, séparée de son enfant pour s'être éprise du frère de son mari. Avec la volonté d'anoblir le spectacle cinématographique, Gance s'inspire de la figure du Stabat Mater dans un drame psychologique au succès considérable, dont il fera lui-même un remake quinze ans plus tard.",
@@ -3135,8 +3138,8 @@
           "copies": [
             {
               "idCopie": 28077,
-              "duree": 88,
-              "format": "DCP"
+              "duree": 66,
+              "format": "35 mm"
             }
           ],
           "idFilmBoxoffice": 26305
@@ -3915,7 +3918,7 @@
             {
               "idCopie": 28121,
               "duree": 115,
-              "format": "Numérique"
+              "format": "DCP"
             }
           ]
         }
@@ -4131,17 +4134,12 @@
           "titre": "Poliche",
           "realisateurs": "Abel Gance",
           "annee": 1934,
-          "duree": 89,
+          "duree": 90,
           "generique": "Constant Rémy, Marie Bell, Alexander D'Arcy",
           "adaptation": "D'après la pièce _Poliche_ d'Henry Bataille.",
           "miniTexte": "Version larmoyante à succès d'une pièce d'Henry Bataille. L'une des œuvres commerciales de Gance, qui voit un homme souffrir d'amour pour la belle Rosine, laquelle en préfère un autre.",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 28112,
-              "duree": 89,
-              "format": "16 mm"
-            },
             {
               "idCopie": 28113,
               "duree": 90,
@@ -4277,7 +4275,7 @@
           "realisateurs": "Abel Gance",
           "annee": 1956,
           "duree": 60,
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28442,
@@ -4645,15 +4643,15 @@
           "titre": "Autour de La Roue",
           "realisateurs": "Blaise Cendrars",
           "annee": 1923,
-          "duree": 17,
+          "duree": 11,
           "synopsis": "Documentaire sur le tournage de _La Roue_ d'Abel Gance.",
           "miniTexte": "Assistant sur _La Roue_, le poète et romancier Blaise Cendrars filme les coulisses du tournage.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28105,
-              "duree": 17,
-              "format": "35 mm"
+              "idCopie": 24147,
+              "duree": 11,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 6799
@@ -4782,7 +4780,8 @@
             {
               "idCopie": 28116,
               "duree": 132,
-              "format": "35 mm"
+              "format": "35 mm",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 4810
@@ -5408,13 +5407,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28285,
-              "duree": 103,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 28372,
               "duree": 103,
               "format": "DCP",
@@ -6039,7 +6031,15 @@
           "adaptation": "D'après la nouvelle _The House in Turk Street_ de Dashiell Hammett.",
           "miniTexte": "Alors qu'il enquête sur la disparition d'une adolescente, un vétéran de la police se retrouve pris au piège d'une machination. Absent des plateaux depuis six ans, Rafelson signe un dernier long métrage en forme de huis clos infernal, adapté d'une nouvelle de Dashiell Hammett. Un cocktail de chantage et de manipulations pour un thriller sous haute tension.",
           "status": 2,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28545,
+              "duree": 0,
+              "format": "Numérique",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 44418
         }
       ]
@@ -6161,8 +6161,9 @@
             {
               "idCopie": 13785,
               "duree": 86,
-              "format": "Vidéo",
-              "version": "VO"
+              "format": "Numérique",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 36915
@@ -7458,7 +7459,7 @@
       ]
     },
     {
-      "idSeance": 134203,
+      "idSeance": 144489,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7468,33 +7469,32 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 29889,
+      "idEvenement": 31459,
       "typeEvenement": 13,
       "dateHeure": "2024-10-06T14:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 30829,
-          "titre": "Terminator 2 : Le Jugement dernier",
+          "idFilm": 154956,
+          "titre": "Terminator 2 : Le Jugement dernier (version 3D)",
           "titreVo": "Terminator 2: Judgment Day",
           "realisateurs": "James Cameron",
           "annee": 1991,
-          "duree": 136,
+          "duree": 137,
           "generique": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",
           "synopsis": "Le nouveau modèle de cyborg Terminator, le T-1000, est invincible car son pouvoir métamorphe lui permet d'usurper par simple contact n'importe quelle identité.",
           "miniTexte": "_« Hasta la vista, baby! »_ Après le succès colossal du premier opus, la suite très attendue, avec un prologue de feu et d'acier, des effets spéciaux bluffants, et une poursuite d'anthologie en moto et camion, qui marquent le retour de Schwarzie – cette fois en héros, icône hollywoodienne oblige. Cameron donne davantage de profondeur à ses personnages, et Robert Patrick est un parfait T-1000, tout en métal liquide, qui traque le jeune John Connor (la révélation Edward Furlong). Un pur plaisir de spectateur.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 8975,
-              "duree": 136,
+              "idCopie": 28544,
+              "duree": 137,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
-          ],
-          "idFilmBoxoffice": 7124
+          ]
         }
       ]
     },
@@ -8592,20 +8592,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28139,
-              "duree": 0,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 28253,
-              "duree": 80,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 28254,
               "duree": 80,
               "format": "35 mm",
@@ -8680,10 +8666,19 @@
           "titreNx": "Кардиограмма",
           "realisateurs": "Darejan Omirbaev",
           "annee": 1995,
+          "duree": 75,
           "generique": "Zhasulan Asauov, Gulnara Dusmatova, Ilyas Kalymbetov",
           "miniTexte": "Atteint d'une maladie cardiaque, un garçon de 12 ans quitte sa steppe natale pour rejoindre Almaty, la capitale. Après les rêves éveillés de _Kaïrat_, Omirbaev signe un superbe conte sur la découverte du monde extérieur. L'exil d'un jeune Kazakh non russophone, confronté à la tristesse, l'exclusion et les humiliations, mais aussi aux rapports de force et aux désirs charnels. Une histoire de nostalgie autant que de liberté, où le ressort social se révèle par l'intime, sans ornements ni artifices. Une œuvre simple, pudique, d'une sensibilité universelle.",
           "status": 2,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28542,
+              "duree": 75,
+              "format": "Numérique",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
           "idFilmBoxoffice": 13818
         }
       ]
@@ -8799,11 +8794,18 @@
           "titreNx": "Шуға",
           "realisateurs": "Darejan Omirbaev",
           "annee": 2007,
+          "duree": 88,
           "generique": "Aidos Sagatov, Alnur Turgambayeva",
           "adaptation": "D'après le roman _Anna Karénine_ de Léon Tolstoï.",
           "miniTexte": "Attirée par un nouveau riche, une bourgeoise bien rangée délaisse mari et enfant. Dans une transposition contemporaine et épurée d'_Anna Karenine_, Omirbaev décrit les brèches du Kazakhstan, de l'ancienne à la nouvelle capitale. Entre les murs d'une société en mutation, l'amour se révèle illusoire et la passion sans issue.",
           "status": 2,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28543,
+              "duree": 88,
+              "stDemande": true
+            }
+          ],
           "idFilmBoxoffice": 140647
         }
       ]
@@ -8899,7 +8901,9 @@
             {
               "idCopie": 28290,
               "duree": 28,
-              "format": "35 mm"
+              "format": "Numérique",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 32123
@@ -10455,25 +10459,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 20185,
-              "duree": 100,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 27059,
               "duree": 100,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 28365,
-              "duree": 100,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 4305
@@ -10512,9 +10502,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28305,
+              "idCopie": 28546,
               "duree": 80,
-              "format": "35 mm"
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 10049
@@ -10997,13 +10989,6 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 27057,
-              "duree": 133,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 553
@@ -11217,20 +11202,6 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 20215,
-              "duree": 163,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF",
-              "stDemande": true
-            },
-            {
-              "idCopie": 27055,
-              "duree": 163,
-              "format": "35 mm",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 4082
@@ -11835,7 +11806,7 @@
       ]
     },
     {
-      "idSeance": 134171,
+      "idSeance": 144487,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -11845,33 +11816,41 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21655,
+      "idEvenement": 21687,
       "typeEvenement": 13,
-      "dateHeure": "2024-10-30T18:30:00",
+      "dateHeure": "2024-10-30T18:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 53350,
-          "titre": "Espionne à bord",
-          "titreVo": "Contraband",
-          "realisateurs": "Michael Powell",
-          "annee": 1940,
-          "duree": 80,
-          "generique": "Conrad Veidt, Valerie Hobson, Hay Petrie",
-          "synopsis": "1940. Bloqué dans un port britannique, Andersen, capitaine danois d'un navire de commerce, se retrouve malgré lui dans une affaire d'espionnage.",
-          "miniTexte": "Accusé de contrebande, un capitaine danois se retrouve piégé dans une affaire d'espionnage. Définitivement associés, Powell et Pressburger signent leur première véritable collaboration pour un espiègle jeu du chat et de la souris entre Conrad Veidt et Valerie Hobson. L'alliance réussie de la singularité nordique et du suspense hitchcockien.",
+          "idFilm": 58543,
+          "titre": "Bataille du Rio de la Plata",
+          "art": "La",
+          "titreVo": "Battle of the River Plate",
+          "artVo": "The",
+          "realisateurs": "Michael Powell, Emeric Pressburger",
+          "annee": 1956,
+          "duree": 119,
+          "generique": "John Gregson, Anthony Quayle, Ian Hunter",
+          "miniTexte": "Dans un style quasiment documentaire, Powell livre une reconstitution soignée de la Bataille du Rio de la Plata grâce à une mise en scène immersive et réaliste. Désireux de faire connaître la vie des vaisseaux, il compose une ode au respect militaire, mais aussi à la retenue du pays, sans se départir du sens de l'humour britannique.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 20293,
-              "duree": 80,
+              "idCopie": 20235,
+              "duree": 119,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            },
+            {
+              "idCopie": 28336,
+              "duree": 119,
               "format": "35 mm",
               "version": "VO",
               "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 131898
+          "idFilmBoxoffice": 39188
         }
       ]
     },
@@ -12030,18 +12009,11 @@
           "titreVo": "I Know Where I'm Going",
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1945,
-          "duree": 91,
+          "duree": 92,
           "generique": "Wendy Hiller, Roger Livesey, Pamela Brown",
           "miniTexte": "Joan Webster sait ce qu'elle veut et où elle va, mais le trajet vers son destin est parsemé d'imprévus et de remises en question. Powell utilise une chanson irlandaise, _I Know Where I'm Going_, comme point de départ d'un conte gaélique dans les brumes écossaises. Toute la malice du duo Powell et Pressburger exulte dans ce portrait pittoresque de l'Écosse profonde, dont les lumières crépusculaires et le folklore accompagnent à merveille cette histoire romanesque. Avec le superbe duo Roger Livesey et Wendy Hiller, en totale harmonie.",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 20194,
-              "duree": 91,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
             {
               "idCopie": 20237,
               "duree": 92,
@@ -12929,7 +12901,8 @@
               "idCopie": 28397,
               "duree": 129,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 325470
@@ -14014,7 +13987,7 @@
       ]
     },
     {
-      "idSeance": 134089,
+      "idSeance": 144490,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -14024,33 +13997,32 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 29889,
+      "idEvenement": 31459,
       "typeEvenement": 13,
       "dateHeure": "2024-11-10T14:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 30829,
-          "titre": "Terminator 2 : Le Jugement dernier",
+          "idFilm": 154956,
+          "titre": "Terminator 2 : Le Jugement dernier (version 3D)",
           "titreVo": "Terminator 2: Judgment Day",
           "realisateurs": "James Cameron",
           "annee": 1991,
-          "duree": 136,
+          "duree": 137,
           "generique": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",
           "synopsis": "Le nouveau modèle de cyborg Terminator, le T-1000, est invincible car son pouvoir métamorphe lui permet d'usurper par simple contact n'importe quelle identité.",
           "miniTexte": "_« Hasta la vista, baby! »_ Après le succès colossal du premier opus, la suite très attendue, avec un prologue de feu et d'acier, des effets spéciaux bluffants, et une poursuite d'anthologie en moto et camion, qui marquent le retour de Schwarzie – cette fois en héros, icône hollywoodienne oblige. Cameron donne davantage de profondeur à ses personnages, et Robert Patrick est un parfait T-1000, tout en métal liquide, qui traque le jeune John Connor (la révélation Edward Furlong). Un pur plaisir de spectateur.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 8975,
-              "duree": 136,
+              "idCopie": 28544,
+              "duree": 137,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
-          ],
-          "idFilmBoxoffice": 7124
+          ]
         }
       ]
     },
@@ -15168,25 +15140,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 20185,
-              "duree": 100,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 27059,
               "duree": 100,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 28365,
-              "duree": 100,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 4305
@@ -15465,7 +15423,7 @@
       "mention": "Séance présentée par Antoine Sire et Souad Amidou"
     },
     {
-      "idSeance": 134189,
+      "idSeance": 144488,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -15475,41 +15433,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21687,
+      "idEvenement": 21695,
       "typeEvenement": 13,
       "dateHeure": "2024-11-17T14:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 58543,
-          "titre": "Bataille du Rio de la Plata",
-          "art": "La",
-          "titreVo": "Battle of the River Plate",
+          "idFilm": 42024,
+          "titre": "Colonel Blimp",
+          "titreVo": "Life and Death of Colonel Blimp",
           "artVo": "The",
           "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1956,
-          "duree": 119,
-          "generique": "John Gregson, Anthony Quayle, Ian Hunter",
-          "miniTexte": "Dans un style quasiment documentaire, Powell livre une reconstitution soignée de la Bataille du Rio de la Plata grâce à une mise en scène immersive et réaliste. Désireux de faire connaître la vie des vaisseaux, il compose une ode au respect militaire, mais aussi à la retenue du pays, sans se départir du sens de l'humour britannique.",
+          "annee": 1943,
+          "duree": 163,
+          "generique": "Anton Walbrook, Deborah Kerr, Roger Livesey",
+          "miniTexte": "L'amitié indéfectible entre un Allemand et un Anglais (le formidable duo Walbrook/Livesey) à travers les turpitudes de la guerre. Avec un humour typiquement _british_, Powell crée une fresque romanesque irrésistible, faisant écho à sa propre relation avec Pressburger. Le film culte de Scorsese, également admiré par Tavernier et Melville, qui le considérait comme « le plus beau film du monde ».",
           "status": 2,
           "copies": [
             {
-              "idCopie": 20235,
-              "duree": 119,
+              "idCopie": 20203,
+              "duree": 163,
               "format": "35 mm",
               "version": "VO",
-              "stDemande": true
-            },
-            {
-              "idCopie": 28336,
-              "duree": 119,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 39188
+          "idFilmBoxoffice": 4082
         }
       ]
     },
@@ -15699,18 +15649,11 @@
           "titreVo": "I Know Where I'm Going",
           "realisateurs": "Michael Powell, Emeric Pressburger",
           "annee": 1945,
-          "duree": 91,
+          "duree": 92,
           "generique": "Wendy Hiller, Roger Livesey, Pamela Brown",
           "miniTexte": "Joan Webster sait ce qu'elle veut et où elle va, mais le trajet vers son destin est parsemé d'imprévus et de remises en question. Powell utilise une chanson irlandaise, _I Know Where I'm Going_, comme point de départ d'un conte gaélique dans les brumes écossaises. Toute la malice du duo Powell et Pressburger exulte dans ce portrait pittoresque de l'Écosse profonde, dont les lumières crépusculaires et le folklore accompagnent à merveille cette histoire romanesque. Avec le superbe duo Roger Livesey et Wendy Hiller, en totale harmonie.",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 20194,
-              "duree": 91,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
             {
               "idCopie": 20237,
               "duree": 92,
@@ -16202,13 +16145,6 @@
               "idCopie": 28257,
               "duree": 170,
               "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 14789,
-              "duree": 171,
-              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -16765,7 +16701,7 @@
       "mention": "Séance présentée par Simon Lelouch et Michel Boujenah"
     },
     {
-      "idSeance": 134198,
+      "idSeance": 144485,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -16775,31 +16711,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 21693,
+      "idEvenement": 21655,
       "typeEvenement": 13,
       "dateHeure": "2024-11-23T14:30:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 70991,
-          "titre": "Oh... Rosalinda!!",
-          "realisateurs": "Michael Powell, Emeric Pressburger",
-          "annee": 1955,
-          "duree": 101,
-          "generique": "Anthony Quayle, Anton Walbrook, Dennis Price",
-          "adaptation": "D'après _La Chauve-Souris_ de Johann Strauss.",
-          "miniTexte": "Une comédie primesautière en Technicolor, inspirée de l'opérette _La Chauve-Souris_ de Strauss. Powell rivalise de fantaisie et d'espièglerie dans une version modernisée, à la fois surréaliste et subversive, qui doit beaucoup à Ludmila Tcherina, séduisante en diable face à Anton Walbrook.",
+          "idFilm": 53350,
+          "titre": "Espionne à bord",
+          "titreVo": "Contraband",
+          "realisateurs": "Michael Powell",
+          "annee": 1940,
+          "duree": 80,
+          "generique": "Conrad Veidt, Valerie Hobson, Hay Petrie",
+          "synopsis": "1940. Bloqué dans un port britannique, Andersen, capitaine danois d'un navire de commerce, se retrouve malgré lui dans une affaire d'espionnage.",
+          "miniTexte": "Accusé de contrebande, un capitaine danois se retrouve piégé dans une affaire d'espionnage. Définitivement associés, Powell et Pressburger signent leur première véritable collaboration pour un espiègle jeu du chat et de la souris entre Conrad Veidt et Valerie Hobson. L'alliance réussie de la singularité nordique et du suspense hitchcockien.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 20240,
-              "duree": 101,
+              "idCopie": 20293,
+              "duree": 80,
               "format": "35 mm",
-              "version": "VF"
+              "version": "VO",
+              "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 130403
+          "idFilmBoxoffice": 131898
         }
       ]
     },
@@ -17273,13 +17211,6 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 27057,
-              "duree": 133,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 553
