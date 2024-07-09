@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-09T08:46:21.432Z",
+  "updatedAt": "2024-07-09T11:03:10.131Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1508,7 +1508,7 @@
           "titre": "Portrait de Chantal Akerman",
           "realisateurs": "Martine Lancelot",
           "annee": 1983,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28275,
@@ -1524,7 +1524,7 @@
           "realisateurs": "Martine Lancelot",
           "annee": 2020,
           "duree": 44,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28274,
@@ -1641,9 +1641,9 @@
           "idFilm": 49649,
           "titre": "S'il vous plaît... la mer ?",
           "realisateurs": "Martine Lancelot",
-          "annee": 1978,
+          "annee": 1979,
           "generique": "Micheline Presle, François Marié, Mad Rimbaud",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28276,
@@ -7160,11 +7160,11 @@
           "titre": "Chemin d'Ernoa",
           "art": "Le",
           "realisateurs": "Louis Delluc",
-          "annee": 1920,
+          "annee": 1921,
           "duree": 50,
           "generique": "Ève Francis, Princesse Doudjam, Gaston Jacquet",
-          "synopsis": "Dans le campagnes du Pays basque, un riche paysan aime une belle Américaine. Le mari de celle-ci se cherche un alibi.\n\n---\n\nEtchégor, un riche paysan basque est épris de la belle américaine Majesty Parnell. L'époux de celle-ci, sur le point d'être arrêté pour vol, cherche à se forger un alibi.",
-          "status": 1,
+          "synopsis": "Etchegor, un riche paysan basque est épris de la belle américaine Majesty Parnell. L'époux de celle-ci, sur le point d'être arrêté pour vol, favorise leur rapprochement pour se forger un alibi.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 12700,
@@ -7284,8 +7284,10 @@
           "realisateurs": "Louis Delluc",
           "annee": 1923,
           "duree": 77,
-          "generique": "Ève Francis, Van Daële, Ginette Maddie",
-          "status": 1,
+          "generique": "Ève Francis, Edmond van Daële, Ginette Maddie",
+          "synopsis": "Dans un village des bords du Rhône, Alban, un fermier, s'apprête à épouser Margot. Mais Germaine, la fille de l'employé de mairie, s'est éprise du jeune homme. Lorsqu'il l'éconduit, elle s'effondre, alors qu'une crue soudaine du fleuve menace d'inonder le village.",
+          "commentaire": "Marcel L'Herbier suggère à Louis Delluc l'adaptation de _L'Inondation_, drame de l'écrivain provençal André Corthis. Delluc tire parti de cette histoire imposée qui aborde ses thèmes de prédilection : le passé qui ressurgit, ici à travers l'apparition de Germaine (Ève Francis) jadis arrachée aux bras de son père (Edmond van Daële) par une mère frivole, la tromperie, la rivalité et la désillusion amoureuse, le sentiment d'abandon et la vengeance. Le tournage a lieu aux studios de Boulogne-sur-Seine, puis sur les bords du Rhône, alors très agité en raison des crues de La Durance. Les plaines sont inondées par les eaux, ce qui correspond parfaitement aux exigences du scénario, mais le froid hivernal et l'humidité constante dégradent la santé déjà fragile de Delluc. La présentation corporative rencontre un bon succès, et Abel Gance écrit à Delluc : « _L'Inondation_ n'est pas loin d'être une manière de chef-d'œuvre. Il y a, en effet, un tel style personnel, une telle homogénéité dans le jeu et dans l'action, une telle qualité d'atmosphère, une telle couleur bleu ciel et cendre, que je ne puis résister au plaisir de vous écrire mon impression. Ce film est ponctué de silences qui sont de purs sanglots et la détresse en est si pleine et lourde que nos larmes sans tomber, retournent d'où elles venaient de sourdre pour que le chagrin soit plus enfoui et plus indélébile. » Louis Delluc n'assistera pas à la sortie le 9 mai 1924. Il est mort le 22 mars. — Samantha Leroy",
+          "status": 2,
           "copies": [
             {
               "idCopie": 12699,
@@ -8981,7 +8983,7 @@
           "dureeStd": 28,
           "duree": 28,
           "miniTexte": "Par une chaude journée d'été, deux garçons tentent de gagner de l'argent pour aller au cinéma. Une magnifique évocation de l'enfance dans les paysages déserts du Kazakhstan.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28290,
@@ -9005,7 +9007,7 @@
           "dureeStd": 30,
           "duree": 30,
           "miniTexte": "Dans une métropole animée, les passagers d'un bus restent rivés sur leurs smartphones. Interprétée par des artistes et des étudiants, une réflexion sur la solitude et le monde moderne hyperconnecté.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28289,
@@ -12736,7 +12738,7 @@
           "ordre": 1,
           "idFilm": 38654,
           "titre": "Hello, Roland !",
-          "titreVo": "Heja Roland !",
+          "titreVo": "Heja Roland!",
           "realisateurs": "Bo Widerberg",
           "annee": 1966,
           "duree": 96,
@@ -14889,7 +14891,7 @@
           "annee": 1965,
           "duree": 27,
           "generique": "Frank Alamo, Michel Barbey, Felice Gimondi",
-          "miniTexte": "Vision du Tour de France et de ses traditions, filmée la même année qu'_Un homme et une femme_. Avec authenticité et passion, Lelouch raconte l'effervescence de la course et son ambiance tourbillonnante, des klaxons assourdissants au rythme des applaudissements.",
+          "miniTexte": "Vision du Tour de France et de ses traditions. Avec authenticité et passion, Lelouch raconte l'effervescence de la course et son ambiance tourbillonnante, des applaudissements aux klaxons assourdissants.",
           "status": 2,
           "copies": [
             {
@@ -14909,7 +14911,7 @@
           "annee": 1976,
           "duree": 9,
           "generique": "Claude Lelouch, Gunilla Friden",
-          "miniTexte": "Une traversée de Paris dans un seul plan-séquence, filmé à grande vitesse depuis la Mercedes-Benz de Lelouch. La Porte Dauphine, l'avenue Foch ou encore la Concorde défilent au petit matin du 15 août 1976 pour un projet fou, tourné sans autorisation, qui sera l'une des inspirations de _Mission impossible : Fallout_.",
+          "miniTexte": "Une traversée de Paris dans un seul plan-séquence, filmé à grande vitesse depuis la voiture de Lelouch. La Porte Dauphine, l'avenue Foch ou encore la Concorde défilent au petit matin du 15 août 1976 pour un projet fou, tourné sans autorisation, qui sera l'une des inspirations de _Mission impossible: Fallout_.",
           "status": 2,
           "copies": [
             {
@@ -14927,16 +14929,17 @@
           "titre": "Treize jours en France",
           "realisateurs": "Claude Lelouch, François Reichenbach",
           "annee": 1968,
-          "duree": 115,
+          "duree": 112,
           "generique": "Dalida, Peggy Fleming, Jean-Claude Killy",
           "synopsis": "Documentaire sur les Jeux olympiques de Grenoble de 1968. Plus qu'aux compétitions sportives le film s'intéresse aux à-côtés qui entourent toute manifestation.",
-          "miniTexte": "Commande du Comité international olympique coréalisée avec le documentariste François Reichenbach. L'envers des Jeux olympiques de Grenoble est filmé sans emphase à travers les points de vue des coureurs et un ensemble d'anecdotes autour de l'événement. Une captation insolite, restée invisible durant quarante ans.",
+          "miniTexte": "L'envers des Jeux olympiques de Grenoble, filmé sans emphase à travers les points de vue des coureurs et des anecdotes autour de l'événement. Sur une commande du CIO, une captation insolite, restée invisible durant quarante ans.",
           "status": 2,
           "copies": [
             {
               "idCopie": 5658,
-              "duree": 115,
-              "format": "DCP"
+              "duree": 112,
+              "format": "DCP",
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 25203
@@ -16617,8 +16620,10 @@
           "titre": "Autrement, la Molussie",
           "realisateurs": "Nicolas Rey",
           "annee": 2012,
+          "dureeStd": 81,
           "duree": 81,
-          "status": 1,
+          "synopsis": "Des prisonniers d'une geôle d'un État fasciste imaginaire, la Molussie, se transmettent des histoires à propos du dehors, comme autant de fables à portée philosophique.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28280,
@@ -16697,7 +16702,7 @@
           "realisateurs": "Camilo Restrepo",
           "annee": 2020,
           "duree": 70,
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28500,
