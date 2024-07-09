@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-09T08:55:50.403Z",
+  "updatedAt": "2024-07-09T13:07:11.833Z",
   "data": [
     {
       "idSeance": 128873,
@@ -7713,7 +7713,7 @@
               "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 645
+          "idFilmBoxoffice": 1000004404
         },
         {
           "ordre": 2,
@@ -7730,7 +7730,8 @@
               "duree": 205,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1000004406
         }
       ]
     },
@@ -7992,7 +7993,7 @@
               "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 645
+          "idFilmBoxoffice": 1000004404
         },
         {
           "ordre": 2,
@@ -8009,7 +8010,8 @@
               "duree": 205,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1000004406
         }
       ],
       "mention": "Séance présentée par Joël Daire"
@@ -8728,7 +8730,7 @@
       ]
     },
     {
-      "idSeance": 133574,
+      "idSeance": 144491,
       "idProg": 179,
       "idCycleCategories": [
         {
@@ -8738,29 +8740,32 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30582,
+      "idEvenement": 31461,
       "typeEvenement": 13,
       "dateHeure": "2024-07-11T20:30:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 50518,
+          "idFilm": 32667,
           "titre": "Topaze",
-          "realisateurs": "Marcel Pagnol",
-          "annee": 1936,
-          "duree": 100,
-          "generique": "Alexandre Arnaudy, Sylvia Bataille, Pierre Asso",
-          "miniTexte": "Aussi honnête que naïf, Topaze enseigne la morale à ses élèves, jusqu'au jour où il tombe dans le milieu cynique des affaires. Mécontent de l'adaptation de Louis J. Gasnier, avec Louis Jouvet, Pagnol tourne lui-même une première version de sa pièce de théâtre, manifeste contre la corruption et le pouvoir, interprété par Arnaudy. Le rôle sera repris par Fernandel quinze ans plus tard.",
+          "realisateurs": "Louis Gasnier",
+          "annee": 1933,
+          "dureeStd": 103,
+          "duree": 103,
+          "generique": "Louis Jouvet, Marcel Vallée, Simone Héliard",
+          "adaptation": "D'après la pièce _Topaze_ de Marcel Pagnol.",
+          "miniTexte": "Première adaptation française de la pièce éponyme de Pagnol, qui voit les débuts à l'écran de Louis Jouvet, impeccable de naïveté et de cynisme. Vécue comme une trahison par l'auteur, cette transposition sera suivie de deux autres versions, avec Pagnol derrière la caméra, en 1936 et 1951.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28391,
-              "duree": 100,
-              "format": "35 mm"
+              "idCopie": 28548,
+              "duree": 103,
+              "format": "35 mm",
+              "langCopie": "FRE"
             }
           ],
-          "idFilmBoxoffice": 131026
+          "idFilmBoxoffice": 82248
         }
       ]
     },
@@ -9009,7 +9014,7 @@
               "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 645
+          "idFilmBoxoffice": 1000004404
         },
         {
           "ordre": 2,
@@ -9026,7 +9031,8 @@
               "duree": 205,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1000004406
         }
       ],
       "mention": "Séance présentée par Joël Daire"
@@ -9190,7 +9196,7 @@
               "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 645
+          "idFilmBoxoffice": 1000004404
         },
         {
           "ordre": 2,
@@ -9207,7 +9213,8 @@
               "duree": 205,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1000004406
         }
       ],
       "mention": "Séance présentée par Georges Mourier"
@@ -10140,7 +10147,7 @@
               "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 645
+          "idFilmBoxoffice": 1000004404
         },
         {
           "ordre": 2,
@@ -10157,7 +10164,8 @@
               "duree": 205,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1000004406
         }
       ],
       "mention": "Séance présentée par Thierry Lentz"
@@ -10311,7 +10319,7 @@
               "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 645
+          "idFilmBoxoffice": 1000004404
         },
         {
           "ordre": 2,
@@ -10328,7 +10336,8 @@
               "duree": 205,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1000004406
         }
       ]
     },
