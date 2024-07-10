@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-09T12:49:58.603Z",
+  "updatedAt": "2024-07-10T08:00:43.150Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1508,11 +1508,12 @@
           "titre": "Portrait de Chantal Akerman",
           "realisateurs": "Martine Lancelot",
           "annee": 1983,
+          "duree": 11,
           "status": 2,
           "copies": [
             {
               "idCopie": 28275,
-              "duree": 0,
+              "duree": 11,
               "format": "DCP"
             }
           ]
@@ -7471,7 +7472,8 @@
           "copies": [
             {
               "idCopie": 28326,
-              "duree": 20
+              "duree": 20,
+              "format": "DCP"
             }
           ]
         },
@@ -8260,7 +8262,7 @@
             {
               "idCopie": 27644,
               "duree": 117,
-              "format": "Vidéo"
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 25994
@@ -15376,11 +15378,31 @@
       ],
       "idEvenement": 31105,
       "typeEvenement": 13,
-      "libelleEvenement": "EVENEMENT NETFLIX : SPELLBOUND",
       "dateHeure": "2024-11-16T15:00:00",
       "idSalle": "GF",
-      "theorique": true,
-      "items": []
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154957,
+          "titre": "Ellian et le sortilège",
+          "titreVo": "Spellbound",
+          "realisateurs": "Vicky Jenson",
+          "annee": 2024,
+          "duree": 106,
+          "ageMinimal": 6,
+          "miniTexte": "Ellian, la jeune fille pugnace des monarques de Lumbria, doit s'embarquer dans une mission périlleuse pour sauver sa famille et le royaume lorsqu'un sort étrange transforme ses parents en monstres. Le film est réalisé par Vicky Jenson (_Shrek_), la musique est signée Alan Menken (_La Belle et la Bête_), lauréat d'un Emmy, d'un Grammy, d'un Oscar et d'un Tony, et les paroles sont de Glenn Slater (_Raiponce_).",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28550,
+              "duree": 106,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ],
+          "idFilmBoxoffice": 270853
+        }
+      ]
     },
     {
       "idSeance": 134172,
@@ -15599,11 +15621,31 @@
       ],
       "idEvenement": 31105,
       "typeEvenement": 13,
-      "libelleEvenement": "EVENEMENT NETFLIX : SPELLBOUND",
       "dateHeure": "2024-11-17T15:00:00",
       "idSalle": "HL",
-      "theorique": true,
-      "items": []
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154957,
+          "titre": "Ellian et le sortilège",
+          "titreVo": "Spellbound",
+          "realisateurs": "Vicky Jenson",
+          "annee": 2024,
+          "duree": 106,
+          "ageMinimal": 6,
+          "miniTexte": "Ellian, la jeune fille pugnace des monarques de Lumbria, doit s'embarquer dans une mission périlleuse pour sauver sa famille et le royaume lorsqu'un sort étrange transforme ses parents en monstres. Le film est réalisé par Vicky Jenson (_Shrek_), la musique est signée Alan Menken (_La Belle et la Bête_), lauréat d'un Emmy, d'un Grammy, d'un Oscar et d'un Tony, et les paroles sont de Glenn Slater (_Raiponce_).",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28550,
+              "duree": 106,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ],
+          "idFilmBoxoffice": 270853
+        }
+      ]
     },
     {
       "idSeance": 133160,

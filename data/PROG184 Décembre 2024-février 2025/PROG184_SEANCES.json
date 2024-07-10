@@ -1,13 +1,54 @@
 {
-  "updatedAt": "2024-07-08T14:12:29.056Z",
+  "updatedAt": "2024-07-10T08:03:52.491Z",
   "data": [
+    {
+      "idSeance": 144492,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3448,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31249,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-27T16:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43154,
+          "titre": "À chacun son dû",
+          "titreVo": "A ciascuno il suo",
+          "realisateurs": "Elio Petri",
+          "annee": 1966,
+          "duree": 99,
+          "generique": "Gian Maria Volonté, Irène Papas, Gabriele Ferzetti",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28404,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 131347
+        }
+      ]
+    },
     {
       "idSeance": 136878,
       "idProg": 184,
       "idCycleCategories": [
         {
           "idCycle": 809,
-          "idCategorie": 3459
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31403,
@@ -46,7 +87,9 @@
       "idCycleCategories": [
         {
           "idCycle": 809,
-          "idCategorie": 3459
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31432,
@@ -82,7 +125,9 @@
       "idCycleCategories": [
         {
           "idCycle": 796,
-          "idCategorie": 3394
+          "idCategorie": 3394,
+          "titreCycle": "Sergueï Paradjanov",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 30979,
@@ -125,7 +170,9 @@
       "idCycleCategories": [
         {
           "idCycle": 809,
-          "idCategorie": 3459
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31454,
@@ -148,6 +195,46 @@
             {
               "idCopie": 28537,
               "duree": 117,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137101,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31455,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-05T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37649,
+          "titre": "Corrupteur",
+          "art": "Le",
+          "titreVo": "Night Comers",
+          "artVo": "The",
+          "realisateurs": "Michael Winner",
+          "annee": 1971,
+          "duree": 96,
+          "adaptation": "D'après le roman _Le Tour d'écrou_ de Henry James.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28538,
+              "duree": 96,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
