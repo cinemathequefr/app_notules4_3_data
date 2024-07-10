@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-10T08:00:43.150Z",
+  "updatedAt": "2024-07-10T10:26:18.462Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1494,7 +1494,7 @@
           "idCycle": 143,
           "idCategorie": 3410,
           "titreCycle": "Fenêtre sur les collections",
-          "titreSousCycle": "Martine Lancelot"
+          "titreSousCycle": "Trois films rares de Martine Lancelot"
         }
       ],
       "idEvenement": 31106,
@@ -1629,7 +1629,7 @@
           "idCycle": 143,
           "idCategorie": 3410,
           "titreCycle": "Fenêtre sur les collections",
-          "titreSousCycle": "Martine Lancelot"
+          "titreSousCycle": "Trois films rares de Martine Lancelot"
         }
       ],
       "idEvenement": 31108,
@@ -1643,12 +1643,13 @@
           "titre": "S'il vous plaît... la mer ?",
           "realisateurs": "Martine Lancelot",
           "annee": 1979,
+          "duree": 73,
           "generique": "Micheline Presle, François Marié, Mad Rimbaud",
           "status": 2,
           "copies": [
             {
               "idCopie": 28276,
-              "duree": 0,
+              "duree": 73,
               "format": "DCP"
             }
           ]
@@ -3847,7 +3848,8 @@
           ],
           "idFilmBoxoffice": 26416
         }
-      ]
+      ],
+      "mention": "Séance présentée par Kseniia Chepurko"
     },
     {
       "idSeance": 133740,
@@ -5436,7 +5438,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Kseniia Chepurko"
     },
     {
       "idSeance": 134165,
@@ -7126,7 +7129,7 @@
           "idCycle": 143,
           "idCategorie": 3411,
           "titreCycle": "Fenêtre sur les collections",
-          "titreSousCycle": "Centenaire de la disparition de Louis Delluc"
+          "titreSousCycle": "Louis Delluc, de la critique à la réalisation"
         }
       ],
       "idEvenement": 31109,
@@ -7270,7 +7273,7 @@
           "idCycle": 143,
           "idCategorie": 3411,
           "titreCycle": "Fenêtre sur les collections",
-          "titreSousCycle": "Centenaire de la disparition de Louis Delluc"
+          "titreSousCycle": "Louis Delluc, de la critique à la réalisation"
         }
       ],
       "idEvenement": 31111,
@@ -8138,7 +8141,9 @@
             {
               "idCopie": 28296,
               "duree": 101,
-              "format": "DCP"
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 16928
@@ -8726,6 +8731,7 @@
               "idCopie": 28362,
               "duree": 95,
               "format": "DCP",
+              "version": "VO",
               "stDemande": true
             }
           ],
@@ -9301,7 +9307,8 @@
               "idCopie": 28317,
               "duree": 93,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 174796
@@ -9427,7 +9434,8 @@
               "idCopie": 28523,
               "duree": 98,
               "format": "Numérique",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 208728
@@ -9682,7 +9690,9 @@
             {
               "idCopie": 28292,
               "duree": 99,
-              "format": "DCP"
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 34090
@@ -9727,7 +9737,9 @@
             {
               "idCopie": 28358,
               "duree": 115,
-              "format": "DCP"
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 3448
@@ -9943,6 +9955,7 @@
               "idCopie": 13934,
               "duree": 90,
               "format": "35 mm",
+              "version": "VO",
               "stDemande": true
             }
           ],
@@ -10473,6 +10486,7 @@
               "idCopie": 28362,
               "duree": 95,
               "format": "DCP",
+              "version": "VO",
               "stDemande": true
             }
           ],
@@ -10996,7 +11010,9 @@
             {
               "idCopie": 28296,
               "duree": 101,
-              "format": "DCP"
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 16928
@@ -11261,7 +11277,9 @@
             {
               "idCopie": 28292,
               "duree": 99,
-              "format": "DCP"
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 34090
@@ -11462,7 +11480,9 @@
             {
               "idCopie": 28358,
               "duree": 115,
-              "format": "DCP"
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 3448
@@ -11557,9 +11577,9 @@
       "idCycleCategories": [
         {
           "idCycle": 803,
-          "idCategorie": 3414,
+          "idCategorie": 3468,
           "titreCycle": "Pietro Germi",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Pietro Germi scénariste"
         }
       ],
       "idEvenement": 31419,
@@ -15390,7 +15410,7 @@
           "annee": 2024,
           "duree": 106,
           "ageMinimal": 6,
-          "miniTexte": "Ellian, la jeune fille pugnace des monarques de Lumbria, doit s'embarquer dans une mission périlleuse pour sauver sa famille et le royaume lorsqu'un sort étrange transforme ses parents en monstres. Le film est réalisé par Vicky Jenson (_Shrek_), la musique est signée Alan Menken (_La Belle et la Bête_), lauréat d'un Emmy, d'un Grammy, d'un Oscar et d'un Tony, et les paroles sont de Glenn Slater (_Raiponce_).",
+          "synopsisJP": "Ellian, la jeune fille pugnace des monarques de Lumbria, doit s'embarquer dans une mission périlleuse pour sauver sa famille et le royaume lorsqu'un sort étrange transforme ses parents en monstres. Le film est réalisé par Vicky Jenson (_Shrek_), la musique est signée Alan Menken (_La Belle et la Bête_), lauréat d'un Emmy, d'un Grammy, d'un Oscar et d'un Tony, et les paroles sont de Glenn Slater (_Raiponce_).",
           "status": 2,
           "copies": [
             {
@@ -15633,7 +15653,7 @@
           "annee": 2024,
           "duree": 106,
           "ageMinimal": 6,
-          "miniTexte": "Ellian, la jeune fille pugnace des monarques de Lumbria, doit s'embarquer dans une mission périlleuse pour sauver sa famille et le royaume lorsqu'un sort étrange transforme ses parents en monstres. Le film est réalisé par Vicky Jenson (_Shrek_), la musique est signée Alan Menken (_La Belle et la Bête_), lauréat d'un Emmy, d'un Grammy, d'un Oscar et d'un Tony, et les paroles sont de Glenn Slater (_Raiponce_).",
+          "synopsisJP": "Ellian, la jeune fille pugnace des monarques de Lumbria, doit s'embarquer dans une mission périlleuse pour sauver sa famille et le royaume lorsqu'un sort étrange transforme ses parents en monstres. Le film est réalisé par Vicky Jenson (_Shrek_), la musique est signée Alan Menken (_La Belle et la Bête_), lauréat d'un Emmy, d'un Grammy, d'un Oscar et d'un Tony, et les paroles sont de Glenn Slater (_Raiponce_).",
           "status": 2,
           "copies": [
             {
