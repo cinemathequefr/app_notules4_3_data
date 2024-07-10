@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-10T10:26:18.462Z",
+  "updatedAt": "2024-07-10T16:05:27.306Z",
   "data": [
     {
       "idSeance": 130975,
@@ -266,7 +266,6 @@
       "typeEvenement": 13,
       "dateHeure": "2024-08-30T17:30:00",
       "idSalle": "GF",
-      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -289,8 +288,7 @@
           ],
           "idFilmBoxoffice": 26418
         }
-      ],
-      "mention": "Ouverture de la rétrospective"
+      ]
     },
     {
       "idSeance": 131053,
@@ -1561,7 +1559,7 @@
           "art": "Le",
           "realisateurs": "Laurent Achard",
           "annee": 2006,
-          "duree": 96,
+          "duree": 95,
           "generique": "Julien Cochelin, Pascal Cervo, Annie Cordy",
           "adaptation": "D'après le roman _The Last of the Crazy People_ de Timothy Findley.",
           "synopsis": "Le jeune Martin assiste impuissant à la désintégration de sa famille, entre un père absent, une mère presque folle, et un grand frère dépressif. Il ne trouve de réconfort qu'auprès de son chat et de la bonne, jusqu'au jour où il décide d'agir.",
@@ -1570,7 +1568,7 @@
           "copies": [
             {
               "idCopie": 28241,
-              "duree": 96,
+              "duree": 95,
               "format": "35 mm"
             }
           ],
@@ -2002,14 +2000,14 @@
           "art": "Le",
           "realisateurs": "Laurent Achard",
           "annee": 2012,
-          "duree": 30,
+          "duree": 31,
           "generique": "Thérèse Roussel, Fred Personne, Pascal Cervo",
           "synopsis": "Au crépuscule de leur vie, Odile et Marcèle s'aiment toujours. Atteinte d'une maladie incurable, Odile doit être hospitalisée. Le temps d'un dernier dimanche, ils revoient les gens qu'ils aiment.",
           "status": 2,
           "copies": [
             {
               "idCopie": 3173,
-              "duree": 30,
+              "duree": 31,
               "format": "DCP"
             }
           ],
@@ -2021,12 +2019,12 @@
           "titre": "De ma fenêtre",
           "realisateurs": "Laurent Achard",
           "annee": 2021,
-          "duree": 3,
+          "duree": 4,
           "status": 2,
           "copies": [
             {
               "idCopie": 28251,
-              "duree": 3,
+              "duree": 4,
               "format": "DCP"
             }
           ]
@@ -2076,14 +2074,14 @@
           "titre": "Dernière séance",
           "realisateurs": "Laurent Achard",
           "annee": 2011,
-          "duree": 91,
+          "duree": 81,
           "generique": "Pascal Cervo, Charlotte Van Kemmel, Karole Rocher",
           "miniTexte": "Une fois les portes de son cinéma fermées, un jeune projectionniste (génial Pascal Cervo) assassine des femmes à l'arme blanche. Laurent Achard convoque les fantômes de Powell (_Le Voyeur_) et Vecchiali (_L'Étrangleur_) mais aussi de Hitchcock (_Psychose_) ou Renoir (_French Cancan_), sans que jamais sa mise en scène, tranchante comme une lame, ne vire au clin d'œil. Un pur exercice de style, parfaite combinaison du film de genre et du film d'auteur.",
           "status": 2,
           "copies": [
             {
               "idCopie": 28240,
-              "duree": 91,
+              "duree": 81,
               "format": "35 mm"
             }
           ],
@@ -2193,13 +2191,13 @@
           "titre": "Patricia Mazuy : Avant Saturne",
           "realisateurs": "Laurent Achard",
           "annee": 2022,
-          "duree": 82,
+          "duree": 80,
           "miniTexte": "Le dernier film de Laurent Achard, comme un pas de côté : le making-of réinventé, ou comment raconter un tournage – celui de _Bowling Saturn_, de Patricia Mazuy – quelques jours avant le premier clap.",
           "status": 2,
           "copies": [
             {
               "idCopie": 24573,
-              "duree": 82,
+              "duree": 80,
               "format": "DCP"
             }
           ],
@@ -9350,7 +9348,8 @@
               "duree": 84,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 4679
@@ -9528,7 +9527,8 @@
               "duree": 71,
               "format": "16 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 18613
@@ -9566,14 +9566,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28309,
-              "duree": 70,
-              "format": "16 mm"
-            },
-            {
               "idCopie": 28310,
               "duree": 70,
-              "format": "Numérique"
+              "format": "Numérique",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 34395
@@ -13364,7 +13361,9 @@
             {
               "idCopie": 28363,
               "duree": 112,
-              "format": "DCP"
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 491
@@ -14499,7 +14498,8 @@
               "idCopie": 27655,
               "duree": 107,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 33208
@@ -16251,11 +16251,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28216,
+              "idCopie": 28553,
               "duree": 118,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 22151
@@ -17614,7 +17614,8 @@
               "duree": 90,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 1529

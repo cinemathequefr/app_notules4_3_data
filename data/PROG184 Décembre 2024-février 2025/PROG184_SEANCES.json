@@ -1,45 +1,6 @@
 {
-  "updatedAt": "2024-07-10T08:03:52.491Z",
+  "updatedAt": "2024-07-10T16:07:32.990Z",
   "data": [
-    {
-      "idSeance": 144492,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 806,
-          "idCategorie": 3448,
-          "titreCycle": "Elio Petri",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31249,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-27T16:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 43154,
-          "titre": "À chacun son dû",
-          "titreVo": "A ciascuno il suo",
-          "realisateurs": "Elio Petri",
-          "annee": 1966,
-          "duree": 99,
-          "generique": "Gian Maria Volonté, Irène Papas, Gabriele Ferzetti",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 28404,
-              "duree": 99,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 131347
-        }
-      ]
-    },
     {
       "idSeance": 136878,
       "idProg": 184,
@@ -204,7 +165,55 @@
       ]
     },
     {
-      "idSeance": 137101,
+      "idSeance": 136958,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 796,
+          "idCategorie": 3394,
+          "titreCycle": "Sergueï Paradjanov",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30977,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-29T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 70689,
+          "titre": "Andriech",
+          "realisateurs": "Serguei Paradjanov, Yakov Bazelyan",
+          "annee": 1954,
+          "duree": 73,
+          "generique": "Kostantin Russu, Nodar Šašik-ogly, Ljudmila Sokolova",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28191,
+              "duree": 73,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28209,
+              "duree": 63,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 28232,
+              "duree": 63,
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 144493,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -214,27 +223,853 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31455,
+      "idEvenement": 31458,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-05T17:00:00",
+      "dateHeure": "2024-11-29T19:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 37649,
-          "titre": "Corrupteur",
+          "idFilm": 32001,
+          "titre": "Parrain",
           "art": "Le",
-          "titreVo": "Night Comers",
+          "titreVo": "Godfather",
           "artVo": "The",
-          "realisateurs": "Michael Winner",
-          "annee": 1971,
-          "duree": 96,
-          "adaptation": "D'après le roman _Le Tour d'écrou_ de Henry James.",
+          "realisateurs": "Francis Ford Coppola",
+          "annee": 1972,
+          "dureeStd": 175,
+          "duree": 175,
+          "generique": "Marlon Brando, Al Pacino, James Caan, Diane Keaton",
+          "adaptation": "D'après le roman _Le Parrain_ de Mario Puzo.",
+          "synopsis": "Michael Corleone essaie de mener une vie éloignée de son père, un parrain de la mafia new-yorkaise. Mais quand le patriarche est menacé, Michael revient aider sa famille.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 5904,
+              "duree": 175,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 136959,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 796,
+          "idCategorie": 3394,
+          "titreCycle": "Sergueï Paradjanov",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30987,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-29T20:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 70690,
+          "titre": "Premier gars",
+          "art": "Le",
+          "titreVo": "Pervij paren",
+          "realisateurs": "Serguei Paradjanov",
+          "annee": 1958,
+          "duree": 83,
+          "generique": "Hryhorij Karpov, Liudmyla Sosjura, Jurij Satarov",
           "status": 0,
           "copies": [
             {
-              "idCopie": 28538,
-              "duree": 96,
+              "idCopie": 28423,
+              "duree": 83,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28200,
+              "duree": 83,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 136996,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 796,
+          "idCategorie": 3394,
+          "titreCycle": "Sergueï Paradjanov",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30989,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-30T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54854,
+          "titre": "Sayat nova – Couleur de la grenade",
+          "titreVo": "Tsvet granata",
+          "realisateurs": "Serguei Paradjanov",
+          "annee": 1968,
+          "duree": 73,
+          "generique": "Sofiko Tchiaoureli, Melkop Alekian, Vilen Galstian, Georgi Gegeckori",
+          "synopsis": "« Aimable public, ne va pas chercher dans ce film la vie de Sayat-Nova, grand poète arménien du XVIIIe siècle. Nous n'avons que tenté de rendre par les moyens du cinéma l'univers imagé de cette poésie dont le chantre russe Valéri Brioussov disait: « La poésie arménienne du Moyen-Âge est une des éclatantes victoires de l'esprit humain inscrites dans les annales de notre monde ». » (Sergueï Paradjanov)\n\n---\n\nL'univers de Sayat Nova, poète arménien à la cour géorgienne. Le chef-d'œuvre arménien de Paradjanov.\n\n---\n\nAu cours d'une vie racontée en tableaux, de l'enfance à la mort, le poète arménien est interprété par plusieurs acteurs qui se croisent, se dédoublent, se déguisent.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 6956,
+              "duree": 73,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137000,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31404,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-30T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44468,
+          "titre": "Poursuite impitoyable",
+          "art": "La",
+          "titreVo": "Chase",
+          "artVo": "The",
+          "realisateurs": "Arthur Penn",
+          "annee": 1965,
+          "duree": 133,
+          "generique": "Marlon Brando, Jane Fonda, Robert Redford",
+          "adaptation": "D'après le roman et la pièce _The Chase_ de Horton Foote.",
+          "synopsis": "Un bandit en fuite est traqué. Le shérif local va le protéger des habitants du village qui veulent sa mort.",
+          "miniTexte": "Le retour au pays d'un bad boy, échappé de prison, provoque un malaise prompt à faire tomber les masques d'une société rongée par l'alcool, le racisme et le mensonge. Un tableau corrosif de la bourgeoisie sudiste, d'une violence explosive, qui annonce le coup de tonnerre _Bonnie and Clyde_, réalisé l'année suivante.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 16185,
+              "duree": 133,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 407
+        }
+      ]
+    },
+    {
+      "idSeance": 136997,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31402,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-30T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33613,
+          "titre": "Un tramway nommé Désir",
+          "titreVo": "A Streetcar Named Desire",
+          "realisateurs": "Elia Kazan",
+          "annee": 1950,
+          "duree": 122,
+          "generique": "Marlon Brando, Vivien Leigh, Kim Hunter",
+          "adaptation": "D'après la pièce _Un tramway nommé désir_ de Tennessee Williams.",
+          "synopsis": "Blanche rend visite à sa sœur qui habite à La Nouvelle-Orléans dans un appartement miséreux avec son mari Stanley. Calme et distinguée, elle entre rapidement en conflit avec Stanley, un ouvrier impulsif et parfois violent.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 16314,
+              "duree": 122,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137001,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 796,
+          "idCategorie": 3394,
+          "titreCycle": "Sergueï Paradjanov",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30988,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-30T17:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 70691,
+          "titre": "Rhapsodie ukrainienne",
+          "titreVo": "Ukrainskaia rapsodia",
+          "realisateurs": "Serguei Paradjanov",
+          "annee": 1960,
+          "duree": 78,
+          "generique": "Olha Reus-Petrenko, Ėduard Košman, Jurij Guliaiev",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28426,
+              "duree": 78,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28201,
+              "duree": 88,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 136998,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31401,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-30T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46141,
+          "titre": "Viva Zapata !",
+          "realisateurs": "Elia Kazan",
+          "annee": 1951,
+          "duree": 113,
+          "generique": "Marlon Brando, Anthony Quinn, Jean Peters",
+          "synopsis": "Un groupe de paysans spolié par des propriétaires terriens décident de mener la révolte pour défendre leurs droits.\n\n---\n\nEn l'absence de réaction du dictateur mexicain Porfirio Diaz lorsque les paysans se font spolier leurs terres par des exploitants de canne à sucre, Emiliano Zapata prend la tête de la révolte et devient une légende.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 16384,
+              "duree": 113,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137002,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 796,
+          "idCategorie": 3394,
+          "titreCycle": "Sergueï Paradjanov",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30991,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-30T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 70693,
+          "titre": "Une petite fleur sur la pierre",
+          "titreVo": "Tsvetok na kamme",
+          "realisateurs": "Serguei Paradjanov",
+          "annee": 1962,
+          "duree": 75,
+          "generique": "Boris Dmochovskyj, Hryhorij Karpov, Liudmyla Čerepanova",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28208,
+              "duree": 75,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 28422,
+              "duree": 75,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137013,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31457,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-01T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 123997,
+          "titre": "Apocalypse Now Redux",
+          "realisateurs": "Francis Ford Coppola",
+          "annee": 1976,
+          "duree": 200,
+          "generique": "Martin Sheen, Robert Duvall, Marlon Brando, Dennis Hopper",
+          "synopsis": "Au cours de la guerre du Vietnam, le Capitaine Willard a pour mission de partir à la recherche et d'assassiner un colonel américain déserteur qui règne sur une peuplade du Cambodge.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 4904,
+              "duree": 200,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137019,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 796,
+          "idCategorie": 3394,
+          "titreCycle": "Sergueï Paradjanov",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30976,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-01T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 39866,
+          "titre": "Achik Kerib, conte d'un poète amoureux",
+          "titreVo": "Achik Kerib = Ashug-Karibi",
+          "realisateurs": "Serguei Paradjanov, David Abachidze",
+          "annee": 1988,
+          "duree": 80,
+          "generique": "Yuri Mgoyan, Sofiko Chiaureli, Ramaz Chkhikvadze",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28183,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28210,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137014,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31400,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-01T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30455,
+          "titre": "Equipée sauvage",
+          "art": "L'",
+          "titreVo": "Wild One",
+          "artVo": "The",
+          "realisateurs": "Lazslo Benedek",
+          "annee": 1953,
+          "duree": 79,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28472,
+              "duree": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137020,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 796,
+          "idCategorie": 3394,
+          "titreCycle": "Sergueï Paradjanov",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30984,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-01T19:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55489,
+          "titre": "Légende de la forteresse de Souram",
+          "art": "La",
+          "titreVo": "Legenda o Suramskoi kreposti",
+          "realisateurs": "Serguei Paradjanov, David Abachidze",
+          "annee": 1984,
+          "duree": 90,
+          "generique": "Veriko Anjaparidze, Dudukhana Tserodze, Sofiko Chiaureli",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28195,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28211,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28231,
+              "duree": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137016,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31434,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-01T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34800,
+          "titre": "Homme à la peau de serpent",
+          "art": "L'",
+          "titreVo": "Fugitive Kind",
+          "artVo": "The",
+          "realisateurs": "Sidney Lumet",
+          "annee": 1959,
+          "duree": 119,
+          "adaptation": "D'après la pièce _Orpheus Descending_ de Tennessee Williams.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28533,
+              "duree": 119,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137028,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 796,
+          "idCategorie": 3467,
+          "titreCycle": "Sergueï Paradjanov"
+        }
+      ],
+      "idEvenement": 30978,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-02T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 70698,
+          "titre": "Arabesque sue le thème de Pirosmani",
+          "titreVo": "Arabeski na temu Pirosmani",
+          "realisateurs": "Serguei Paradjanov",
+          "annee": 1986,
+          "duree": 20,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28180,
+              "duree": 20,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 65596,
+          "titre": "Dumka",
+          "realisateurs": "Serguei Paradjanov",
+          "annee": 1957,
+          "duree": 25,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28187,
+              "duree": 25,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 70696,
+          "titre": "Fresques de Kiev",
+          "art": "Les",
+          "titreVo": "Kievski freski",
+          "realisateurs": "Serguei Paradjanov",
+          "annee": 1966,
+          "duree": 13,
+          "generique": "Tengiz Arčvadze, Via Artmane",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28178,
+              "duree": 13,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 70695,
+          "titre": "Hagop hovnatanian",
+          "realisateurs": "Serguei Paradjanov",
+          "annee": 1965,
+          "duree": 9,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28181,
+              "duree": 9,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 65598,
+          "titre": "Mains d'or",
+          "art": "Les",
+          "titreVo": "Zolotye ruki",
+          "realisateurs": "Serguei Paradjanov",
+          "annee": 1957,
+          "duree": 36,
+          "generique": "M Kindzerskyi, I. Kononenko, Tolia Zajcev",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28198,
+              "duree": 36,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137029,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31431,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-02T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33498,
+          "titre": "Jules César",
+          "titreVo": "Julius Caesar",
+          "realisateurs": "Joseph L. Mankiewicz",
+          "annee": 1952,
+          "duree": 120,
+          "generique": "James Mason, Marlon Brando, John Gielgud, Deborah Kerr",
+          "synopsis": "Rome en 44 avant J.-C. Alors que la foule célèbre le triomphe de Jules César, on prédit à l'empereur un destin funeste, mais, se croyant invulnérable, il n'y prête guère attention. Lorsqu'il tombe sous les coups de Brutus, une guerre fratricide s'engage entre les partisans de celui-ci et ceux de Marc Antoine.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 18097,
+              "duree": 120,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137068,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 796,
+          "idCategorie": 3394,
+          "titreCycle": "Sergueï Paradjanov",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30979,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-04T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 39828,
+          "titre": "Chevaux de feu",
+          "art": "Les",
+          "titreVo": "Teni zabytykh predkov",
+          "realisateurs": "Serguei Paradjanov",
+          "annee": 1965,
+          "duree": 97,
+          "generique": "Ivan Mikolaitchouk, Larissa Kadochnikova, Tatiana Bestaïeva",
+          "adaptation": "D'après l'oeuvre _Les Ombres des ancêtres oubliés_ de Mikhaïl Kotsioubinski.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28233,
+              "duree": 97,
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28174,
+              "duree": 97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 144494,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 796,
+          "idCategorie": 3394,
+          "titreCycle": "Sergueï Paradjanov",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30989,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-04T20:45:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54854,
+          "titre": "Sayat nova – Couleur de la grenade",
+          "titreVo": "Tsvet granata",
+          "realisateurs": "Serguei Paradjanov",
+          "annee": 1968,
+          "duree": 73,
+          "generique": "Sofiko Tchiaoureli, Melkop Alekian, Vilen Galstian, Georgi Gegeckori",
+          "synopsis": "« Aimable public, ne va pas chercher dans ce film la vie de Sayat-Nova, grand poète arménien du XVIIIe siècle. Nous n'avons que tenté de rendre par les moyens du cinéma l'univers imagé de cette poésie dont le chantre russe Valéri Brioussov disait: « La poésie arménienne du Moyen-Âge est une des éclatantes victoires de l'esprit humain inscrites dans les annales de notre monde ». » (Sergueï Paradjanov)\n\n---\n\nL'univers de Sayat Nova, poète arménien à la cour géorgienne. Le chef-d'œuvre arménien de Paradjanov.\n\n---\n\nAu cours d'une vie racontée en tableaux, de l'enfance à la mort, le poète arménien est interprété par plusieurs acteurs qui se croisent, se dédoublent, se déguisent.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 6956,
+              "duree": 73,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137104,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 796,
+          "idCategorie": 3394,
+          "titreCycle": "Sergueï Paradjanov",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30984,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-05T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55489,
+          "titre": "Légende de la forteresse de Souram",
+          "art": "La",
+          "titreVo": "Legenda o Suramskoi kreposti",
+          "realisateurs": "Serguei Paradjanov, David Abachidze",
+          "annee": 1984,
+          "duree": 90,
+          "generique": "Veriko Anjaparidze, Dudukhana Tserodze, Sofiko Chiaureli",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28195,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28211,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28231,
+              "duree": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 144495,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 796,
+          "idCategorie": 3394,
+          "titreCycle": "Sergueï Paradjanov",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30976,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-05T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 39866,
+          "titre": "Achik Kerib, conte d'un poète amoureux",
+          "titreVo": "Achik Kerib = Ashug-Karibi",
+          "realisateurs": "Serguei Paradjanov, David Abachidze",
+          "annee": 1988,
+          "duree": 80,
+          "generique": "Yuri Mgoyan, Sofiko Chiaureli, Ramaz Chkhikvadze",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28183,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28210,
+              "duree": 80,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
