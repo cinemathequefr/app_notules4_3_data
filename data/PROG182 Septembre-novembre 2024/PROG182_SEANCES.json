@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-10T16:05:27.306Z",
+  "updatedAt": "2024-07-10T16:53:49.666Z",
   "data": [
     {
       "idSeance": 130975,
@@ -2082,7 +2082,9 @@
             {
               "idCopie": 28240,
               "duree": 81,
-              "format": "35 mm"
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 190793
@@ -14467,6 +14469,47 @@
       ]
     },
     {
+      "idSeance": 144496,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396,
+          "titreCycle": "Casses, hold-ups et braquages en 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31339,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-11T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 99269,
+          "titre": "Inside Man : L'Homme de l'intérieur",
+          "titreVo": "Inside Man",
+          "realisateurs": "Spike Lee",
+          "annee": 2006,
+          "duree": 130,
+          "generique": "Denzel Washington, Clive Owen, Jodie Foster",
+          "synopsis": "Ce devait être le hold-up parfait, le chef-d'œuvre d'un génie du crime.",
+          "miniTexte": "La caméra alerte de Spike Lee s'amuse, le spectateur aussi, captivé par une histoire en trompe-l'œil de prise d'otages dans une banque prestigieuse. Dans un New York cosmopolite, en proie à un racisme primaire, un film d'action bourré d'humour et parfaitement ficelé, sous influence marquée du _Dog Day Afternoon_ de Lumet. Avec un casting trois étoiles et un twist final réjouissant.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28221,
+              "duree": 130,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 60285
+        }
+      ]
+    },
+    {
       "idSeance": 132985,
       "idProg": 182,
       "idCycleCategories": [
@@ -15854,6 +15897,46 @@
       ]
     },
     {
+      "idSeance": 133158,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396,
+          "titreCycle": "Casses, hold-ups et braquages en 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31018,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-17T19:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45005,
+          "titre": "Reservoir Dogs",
+          "realisateurs": "Quentin Tarantino",
+          "annee": 1992,
+          "duree": 99,
+          "generique": "Harvey Keitel, Tim Roth, Michael Madsen",
+          "synopsis": "Six truands désignés par des noms de code entreprennent de dévaliser une bijouterie sous la direction de Joe Cabot et de son fils Nice Guy Eddie. L'opération échoue et se solde par un bain de sang. Les malfrats se réfugient dans un entrepôt sordide. L'un d'eux soupçonne la présence d'une taupe...",
+          "miniTexte": "Mr. White, Mr. Orange, Mr. Pink... Une bande de gangsters se retrouvent dans un hangar après un hold-up raté. Structure narrative non linéaire, violence explicite, humour noir et dialogues percutants, le style Tarantino est né. En s'offrant le luxe de ne jamais montrer le braquage, le cinéaste multiplie les références à la pop culture et réinvente le film noir.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28220,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 7524
+        }
+      ]
+    },
+    {
       "idSeance": 133163,
       "idProg": 182,
       "idCycleCategories": [
@@ -15892,46 +15975,6 @@
         }
       ],
       "mention": "Séance présentée par Brigitte Fossey"
-    },
-    {
-      "idSeance": 133158,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 797,
-          "idCategorie": 3396,
-          "titreCycle": "Casses, hold-ups et braquages en 25 indispensables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31018,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-17T20:45:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 45005,
-          "titre": "Reservoir Dogs",
-          "realisateurs": "Quentin Tarantino",
-          "annee": 1992,
-          "duree": 99,
-          "generique": "Harvey Keitel, Tim Roth, Michael Madsen",
-          "synopsis": "Six truands désignés par des noms de code entreprennent de dévaliser une bijouterie sous la direction de Joe Cabot et de son fils Nice Guy Eddie. L'opération échoue et se solde par un bain de sang. Les malfrats se réfugient dans un entrepôt sordide. L'un d'eux soupçonne la présence d'une taupe...",
-          "miniTexte": "Mr. White, Mr. Orange, Mr. Pink... Une bande de gangsters se retrouvent dans un hangar après un hold-up raté. Structure narrative non linéaire, violence explicite, humour noir et dialogues percutants, le style Tarantino est né. En s'offrant le luxe de ne jamais montrer le braquage, le cinéaste multiplie les références à la pop culture et réinvente le film noir.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28220,
-              "duree": 99,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 7524
-        }
-      ]
     },
     {
       "idSeance": 133171,
