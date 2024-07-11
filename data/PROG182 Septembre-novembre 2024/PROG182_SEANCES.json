@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-11T08:46:29.337Z",
+  "updatedAt": "2024-07-11T10:33:23.736Z",
   "data": [
     {
       "idSeance": 130975,
@@ -3364,11 +3364,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 16751,
+              "idCopie": 16679,
               "duree": 127,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ITA",
               "sousTitres": "STF"
             }
           ],
@@ -6256,11 +6255,29 @@
       ],
       "idEvenement": 31093,
       "typeEvenement": 13,
-      "libelleEvenement": "AVANT PREMIÈRE",
       "dateHeure": "2024-09-29T15:00:00",
       "idSalle": "HL",
-      "theorique": true,
-      "items": []
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154958,
+          "titre": "Angelo dans la forêt mystérieuse",
+          "realisateurs": "Vincent Paronnaud, Alexis Ducord",
+          "annee": 2024,
+          "duree": 80,
+          "ageMinimal": 8,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28556,
+              "duree": 80,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 299773
+        }
+      ]
     },
     {
       "idSeance": 133996,
@@ -12486,7 +12503,8 @@
               "duree": 110,
               "format": "16 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 187923
@@ -16218,7 +16236,7 @@
       ],
       "idEvenement": 31092,
       "typeEvenement": 13,
-      "libelleEvenement": "LILA LUMIÈRE RACONTE MOI UNE HISTOIRE",
+      "libelleEvenement": "LILA LUMIÈRE PERDUS DANS LA FORÊT ?",
       "dateHeure": "2024-11-20T15:00:00",
       "idSalle": "GF",
       "theorique": true,
@@ -17285,7 +17303,7 @@
       ],
       "idEvenement": 31092,
       "typeEvenement": 13,
-      "libelleEvenement": "LILA LUMIÈRE RACONTE MOI UNE HISTOIRE",
+      "libelleEvenement": "LILA LUMIÈRE PERDUS DANS LA FORÊT ?",
       "dateHeure": "2024-11-24T11:30:00",
       "idSalle": "GF",
       "theorique": true,
