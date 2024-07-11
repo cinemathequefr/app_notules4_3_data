@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-11T10:33:23.736Z",
+  "updatedAt": "2024-07-11T12:51:33.024Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1787,48 +1787,6 @@
       "mention": "Séance présentée par Robert Guédiguian et Ricardo Muñoz"
     },
     {
-      "idSeance": 131285,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3367,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30714,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-07T19:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 80555,
-          "titre": "Haute société",
-          "titreVo": "Our Betters",
-          "realisateurs": "George Cukor",
-          "annee": 1933,
-          "duree": 80,
-          "generique": "Constance Bennett, Violet Kemble Cooper, Phoebe Foster",
-          "adaptation": "D'après la pièce _Haute société_ de W. Somerset Maugham.",
-          "miniTexte": "Exercice de godille entre cynisme et désillusions pour Constance Bennett, dans le rôle d'une ambitieuse Américaine plongée dans l'aristocratie anglaise. Et pour Cukor, qui, à grand renfort de dialogues acides, adapte la pièce de Somerset Maugham et parvient à marier le vice et la vertu. Le dernier film du cinéaste pour la RKO, avant qu'il n'intègre la MGM.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28314,
-              "duree": 80,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 118974
-        }
-      ]
-    },
-    {
       "idSeance": 131286,
       "idProg": 182,
       "idCycleCategories": [
@@ -1863,6 +1821,48 @@
         }
       ],
       "mention": "Séance présentée par Bernard Eisenschitz et Gaël Teicher"
+    },
+    {
+      "idSeance": 131285,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30714,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-07T19:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80555,
+          "titre": "Haute société",
+          "titreVo": "Our Betters",
+          "realisateurs": "George Cukor",
+          "annee": 1933,
+          "duree": 80,
+          "generique": "Constance Bennett, Violet Kemble Cooper, Phoebe Foster",
+          "adaptation": "D'après la pièce _Haute société_ de W. Somerset Maugham.",
+          "miniTexte": "Exercice de godille entre cynisme et désillusions pour Constance Bennett, dans le rôle d'une ambitieuse Américaine plongée dans l'aristocratie anglaise. Et pour Cukor, qui, à grand renfort de dialogues acides, adapte la pièce de Somerset Maugham et parvient à marier le vice et la vertu. Le dernier film du cinéaste pour la RKO, avant qu'il n'intègre la MGM.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28314,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 118974
+        }
+      ]
     },
     {
       "idSeance": 133647,
@@ -2579,11 +2579,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 10614,
+              "idCopie": 5127,
               "duree": 173,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ITA",
               "sousTitres": "STF"
             }
           ],
@@ -3438,45 +3437,6 @@
       "mention": "Séance présentée par Élodie Tamayo. Accompagnement musical par Jean-François Zygel"
     },
     {
-      "idSeance": 133828,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30042,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-15T20:15:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48586,
-          "titre": "Barberousse",
-          "realisateurs": "Abel Gance",
-          "annee": 1917,
-          "duree": 96,
-          "generique": "Léon Mathot, Émile Keppens, Henri Maillard",
-          "miniTexte": "Un journaliste commet lui-même des méfaits afin d'être le premier à les annoncer dans son journal. Abel Gance laisse libre cours à son imagination en utilisant le travelling, dans le but d'approcher les acteurs au plus près, ce qui provoque à l'époque un petit scandale.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28073,
-              "duree": 96,
-              "format": "DCP",
-              "intertitres": "INT. FR."
-            }
-          ],
-          "idFilmBoxoffice": 5239
-        }
-      ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
-    },
-    {
       "idSeance": 133677,
       "idProg": 182,
       "idCycleCategories": [
@@ -3516,6 +3476,45 @@
           "idFilmBoxoffice": 117957
         }
       ]
+    },
+    {
+      "idSeance": 133828,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 757,
+          "idCategorie": 3273,
+          "titreCycle": "Abel Gance",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30042,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-15T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48586,
+          "titre": "Barberousse",
+          "realisateurs": "Abel Gance",
+          "annee": 1917,
+          "duree": 96,
+          "generique": "Léon Mathot, Émile Keppens, Henri Maillard",
+          "miniTexte": "Un journaliste commet lui-même des méfaits afin d'être le premier à les annoncer dans son journal. Abel Gance laisse libre cours à son imagination en utilisant le travelling, dans le but d'approcher les acteurs au plus près, ce qui provoque à l'époque un petit scandale.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28073,
+              "duree": 96,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ],
+          "idFilmBoxoffice": 5239
+        }
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 133705,
@@ -6264,8 +6263,11 @@
           "titre": "Angelo dans la forêt mystérieuse",
           "realisateurs": "Vincent Paronnaud, Alexis Ducord",
           "annee": 2024,
+          "dureeStd": 82,
           "duree": 80,
+          "adaptation": "D'après la bande dessinée _Dans la forêt sombre et mystérieuse_ de Winshluss.",
           "ageMinimal": 8,
+          "synopsisJP": "Angelo, 10 ans, se rêve aventurier et explorateur. Oublié un jour sur une aire d'autoroute, le voilà bien obligé de prouver son courage : pour rejoindre tout seul la maison de Mémé, il doit couper à travers la forêt et s'enfoncer dans un territoire mystérieux peuplé d'êtres étranges, que menace un ennemi pire encore que l'ogre de la région.",
           "status": 2,
           "copies": [
             {
@@ -7886,6 +7888,39 @@
       "theorique": true,
       "mention": "Séance présentée par Jean-Christophe Berjon",
       "items": []
+    },
+    {
+      "idSeance": 132053,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3471,
+          "titreCycle": "Séances spéciales"
+        }
+      ],
+      "idEvenement": 31470,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-07T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154959,
+          "titre": "Miséricorde",
+          "realisateurs": "Alain Guiraudie",
+          "annee": 2024,
+          "duree": 102,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28557,
+              "duree": 102,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 144471,
