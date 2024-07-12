@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-11T10:35:57.081Z",
+  "updatedAt": "2024-07-12T08:43:18.236Z",
   "data": [
     {
       "idSeance": 136878,
@@ -699,13 +699,6 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28195,
-              "duree": 90,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 28211,
               "duree": 90,
               "format": "35 mm",
@@ -1019,13 +1012,6 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28195,
-              "duree": 90,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 28211,
               "duree": 90,
               "format": "35 mm",
@@ -1114,7 +1100,7 @@
           "duree": 71,
           "generique": "Kim Hunter, Jean Brooks, Tom Conway",
           "synopsis": "Une jeune fille part à la recherche de sa sœur aînée, prisonnière d'une secte satanique installée à Greenwich Village. Les adeptes de celle-ci s'alarment de sa curiosité. Elle est bientôt désignée comme la future « septième victime ».",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 11367,
@@ -1122,7 +1108,8 @@
               "format": "35 mm",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1061
         }
       ],
       "mention": "Ouverture de la rétrospective"
