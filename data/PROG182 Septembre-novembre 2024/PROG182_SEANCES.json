@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-11T12:51:33.024Z",
+  "updatedAt": "2024-07-12T08:42:56.067Z",
   "data": [
     {
       "idSeance": 130975,
@@ -974,8 +974,7 @@
             {
               "idCopie": 28315,
               "duree": 108,
-              "format": "DCP",
-              "version": "VO"
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 2987
@@ -3931,42 +3930,6 @@
       "mention": "Séance présentée par Jean A. Gili"
     },
     {
-      "idSeance": 131537,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 757,
-          "idCategorie": 3273,
-          "titreCycle": "Abel Gance",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 30938,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-18T21:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 154872,
-          "titre": "Pictographe",
-          "art": "Le",
-          "realisateurs": "Abel Gance",
-          "annee": 1937,
-          "duree": 115,
-          "miniTexte": "À partir de chutes retrouvées par Georges Mourier en 2006, un montage d'essais du Pictographe d'Abel Gance, invention technique qu'il met au point avec l'opticien Pierre Angénieux, utilisée pour les décors de plusieurs de ses films, de _Louise_ (1935) à _Marie Tudor_ (1965).",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28121,
-              "duree": 115,
-              "format": "DCP"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 133683,
       "idProg": 182,
       "idCycleCategories": [
@@ -5749,7 +5712,7 @@
           "titreNx": "Очи чёрные",
           "realisateurs": "Nikita Mikhalkov",
           "annee": 1987,
-          "duree": 120,
+          "duree": 144,
           "generique": "Marcello Mastroianni, Marthe Keller, Elena Safonova",
           "adaptation": "D'après les nouvelles _La Dame au petit chien_, _Ma femme_ et _Anne au cou_ d'Anton Tchekhov.",
           "miniTexte": "Mastroianni à son meilleur (deuxième prix à Cannes), dans le rôle d'un mari fantasque et fainéant, qui s'enflamme pour l'épouse d'un gouverneur russe. Mikhalkov convoque toute l'exubérance de Fellini, le charme slave, et la nostalgie de Tchekhov, à qui il emprunte _La Dame au petit chien_. De cure thermale en palais pétersbourgeois, un récit en flashbacks, pour une adaptation aussi cruelle que savoureuse.",
@@ -5757,7 +5720,7 @@
           "copies": [
             {
               "idCopie": 28067,
-              "duree": 120,
+              "duree": 144,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
@@ -6266,7 +6229,7 @@
           "dureeStd": 82,
           "duree": 80,
           "adaptation": "D'après la bande dessinée _Dans la forêt sombre et mystérieuse_ de Winshluss.",
-          "ageMinimal": 8,
+          "ageMinimal": 6,
           "synopsisJP": "Angelo, 10 ans, se rêve aventurier et explorateur. Oublié un jour sur une aire d'autoroute, le voilà bien obligé de prouver son courage : pour rejoindre tout seul la maison de Mémé, il doit couper à travers la forêt et s'enfoncer dans un territoire mystérieux peuplé d'êtres étranges, que menace un ennemi pire encore que l'ogre de la région.",
           "status": 2,
           "copies": [
@@ -6303,10 +6266,19 @@
           "titre": "Man Trouble",
           "realisateurs": "Bob Rafelson",
           "annee": 1992,
+          "duree": 100,
           "generique": "Jack Nicholson, Ellen Barkin, Beverly D'Angelo",
           "miniTexte": "Un dresseur de chiens véreux tente d'escroquer une célèbre cantatrice. De petites magouilles en quiproquos amoureux, Rafelson s'essaie à la comédie satirique façon Wilder et Edwards avec une succession de séquences survoltées, impeccablement servies par le piquant duo Nicholson/Barkin.",
           "status": 2,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28561,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
           "idFilmBoxoffice": 5170
         }
       ]
@@ -6979,6 +6951,7 @@
           "titreVo": "Appunti per un'Orestiade africana",
           "realisateurs": "Pier Paolo Pasolini",
           "annee": 1969,
+          "dureeStd": 63,
           "duree": 71,
           "generique": "Pier Paolo Pasolini",
           "synopsis": "Le réalisateur montre à des étudiants son ébauche d'un film inspiré d'Eschyle sur l'Afrique.",
@@ -8053,6 +8026,7 @@
       "typeEvenement": 13,
       "dateHeure": "2024-10-09T20:00:00",
       "idSalle": "HL",
+      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -8078,7 +8052,7 @@
           "idFilmBoxoffice": 6174
         }
       ],
-      "mention": "Séance présentée par Darejan Omirbaev"
+      "mention": "Ouverture de la rétrospective. Séance présentée par Darejan Omirbaev"
     },
     {
       "idSeance": 132093,
@@ -8821,7 +8795,7 @@
             {
               "idCopie": 28542,
               "duree": 75,
-              "format": "Numérique",
+              "format": "DCP",
               "version": "VO",
               "stDemande": true
             }
@@ -8831,14 +8805,9 @@
       ]
     },
     {
-      "idSeance": 134204,
+      "idSeance": 144503,
       "idProg": 182,
       "idCycleCategories": [
-        {
-          "idCycle": 18,
-          "idCategorie": 3355,
-          "titreCycle": "Conservatoire des techniques cinématographiques"
-        },
         {
           "idCycle": 741,
           "idCategorie": 3235,
@@ -8846,7 +8815,7 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 29891,
+      "idEvenement": 30022,
       "typeEvenement": 13,
       "dateHeure": "2024-10-13T14:30:00",
       "idSalle": "HL",
@@ -8950,6 +8919,8 @@
             {
               "idCopie": 28543,
               "duree": 88,
+              "format": "DCP",
+              "version": "VO",
               "stDemande": true
             }
           ],
@@ -9072,7 +9043,7 @@
             {
               "idCopie": 28289,
               "duree": 30,
-              "format": "DCP",
+              "format": "Numérique",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -9867,23 +9838,16 @@
           "art": "The",
           "realisateurs": "Roger Corman",
           "annee": 1967,
-          "duree": 79,
+          "duree": 85,
           "generique": "Peter Fonda, Susan Strasberg, Dennis Hopper, Bruce Dern",
           "synopsis": "Paul Groves vient de divorcer avec sa femme. Profondément déprimé, il essaye pour la première fois le LSD.",
           "miniTexte": "Écrite par Jack Nicholson, l'aventure psychédélique d'un homme qui fait l'expérience de sa première prise de LSD. Corman utilise toute une série d'effets spéciaux visuels et sonores pour illustrer les obsessions, les désirs refoulés et les explosions d'ivresse de son héros. Une œuvre emblématique du Summer of Love et de la contre-culture des années 60, deux ans avant _Easy Rider_.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 13014,
-              "duree": 79,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 28308,
               "duree": 85,
-              "format": "Numérique"
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 4680
@@ -10248,7 +10212,7 @@
             {
               "idCopie": 28303,
               "duree": 0,
-              "format": "Numérique",
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -10573,14 +10537,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28302,
+              "idCopie": 28562,
               "duree": 83,
-              "format": "35 mm"
-            },
-            {
-              "idCopie": 28301,
-              "duree": 83,
-              "format": "16 mm"
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 329
@@ -10663,11 +10624,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28546,
+              "idCopie": 28560,
               "duree": 80,
               "format": "35 mm",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 10049
@@ -11011,7 +10972,7 @@
           "generique": "Dirk Bogarde, Cyril Cusack, Marius Goring",
           "adaptation": "D'après le récit _Ill Met by Moonlight_ de W. Stanley Moss.",
           "synopsis": "En 1941, dans la Crète occupée, un général allemand se fait kidnapper par les services secrets britanniques.",
-          "miniTexte": "L'histoire vraie de l'enlèvement en Crète d'Heinrich Kreipe, général de division allemand, par des résistants. D'après le récit _I'll Met by Moonlight_de W. Stanley Moss, Powell s'empare d'un épisode méconnu de la Seconde Guerre mondiale pour offrir deux partitions d'ampleur à Dick Bogarde et David Oxley, sur fond d'époustouflants paysages crétois.",
+          "miniTexte": "L'histoire vraie de l'enlèvement en Crète d'Heinrich Kreipe, général de division allemand, par des résistants. D'après le récit _I'll Met by Moonlight_ de W. Stanley Moss, Powell s'empare d'un épisode méconnu de la Seconde Guerre mondiale pour offrir deux partitions d'ampleur à Dick Bogarde et David Oxley, sur fond d'époustouflants paysages crétois.",
           "status": 2,
           "copies": [
             {
@@ -12671,7 +12632,7 @@
       ]
     },
     {
-      "idSeance": 133956,
+      "idSeance": 144500,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -12681,32 +12642,32 @@
           "titreSousCycle": "Godzilla Day"
         }
       ],
-      "idEvenement": 31063,
+      "idEvenement": 31066,
       "typeEvenement": 13,
       "dateHeure": "2024-11-03T14:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 37903,
-          "titre": "Godzilla",
-          "titreVo": "Gojira",
-          "titreNx": "ゴジラ",
-          "realisateurs": "Ishirō Honda",
-          "annee": 1954,
-          "duree": 93,
-          "generique": "Akira Takarada, Momoko Kōchi, Akihiko Hirata",
-          "synopsis": "Au large des côtes japonaises, plusieurs navires disparaissent mystérieusement. Alertées, les autorités dépêchent une expédition scientifique qui recueille les témoignages de pêcheurs terrorisés. Tous assurent avoir vu un monstre remonté du fond des mers. Lequel s'avère être un dinosaure réveillé par des explosions atomiques.",
+          "idFilm": 74370,
+          "titre": "Planète des monstres",
+          "art": "La",
+          "titreVo": "Kaijū-tō no kessen: Gojira no musuko",
+          "titreNx": "怪獣島の決戦 ゴジラの息子",
+          "realisateurs": "Jun Fukuda",
+          "annee": 1967,
+          "duree": 85,
+          "generique": "Tadao Takashima, Akira Kubo, Bibari Maeda",
           "status": 2,
           "copies": [
             {
-              "idCopie": 9818,
-              "duree": 93,
+              "idCopie": 28272,
+              "duree": 85,
               "format": "35 mm",
               "version": "VF"
             }
           ],
-          "idFilmBoxoffice": 8063
+          "idFilmBoxoffice": 17693
         }
       ]
     },
@@ -12753,7 +12714,7 @@
       ]
     },
     {
-      "idSeance": 133957,
+      "idSeance": 144501,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -12763,32 +12724,31 @@
           "titreSousCycle": "Godzilla Day"
         }
       ],
-      "idEvenement": 31066,
+      "idEvenement": 31436,
       "typeEvenement": 13,
       "dateHeure": "2024-11-03T16:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 74370,
-          "titre": "Planète des monstres",
-          "art": "La",
-          "titreVo": "Kaijū-tō no kessen: Gojira no musuko",
-          "titreNx": "怪獣島の決戦 ゴジラの息子",
-          "realisateurs": "Jun Fukuda",
-          "annee": 1967,
+          "idFilm": 41548,
+          "titre": "King Kong contre Godzilla",
+          "titreVo": "Kingu Kongu tai Gojira",
+          "titreNx": "キングコング対ゴジラ",
+          "realisateurs": "Ishirō Honda",
+          "annee": 1962,
           "duree": 85,
-          "generique": "Tadao Takashima, Akira Kubo, Bibari Maeda",
+          "generique": "Tadao Takashima, Kenji Sahara, Yū Fujiki",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28272,
+              "idCopie": 28535,
               "duree": 85,
               "format": "35 mm",
               "version": "VF"
             }
           ],
-          "idFilmBoxoffice": 17693
+          "idFilmBoxoffice": 41227
         }
       ]
     },
@@ -12833,7 +12793,7 @@
       ]
     },
     {
-      "idSeance": 144482,
+      "idSeance": 144502,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -12843,31 +12803,32 @@
           "titreSousCycle": "Godzilla Day"
         }
       ],
-      "idEvenement": 31436,
+      "idEvenement": 31064,
       "typeEvenement": 13,
       "dateHeure": "2024-11-03T18:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 41548,
-          "titre": "King Kong contre Godzilla",
-          "titreVo": "Kingu Kongu tai Gojira",
-          "titreNx": "キングコング対ゴジラ",
-          "realisateurs": "Ishirō Honda",
-          "annee": 1962,
-          "duree": 85,
-          "generique": "Tadao Takashima, Kenji Sahara, Yū Fujiki",
+          "idFilm": 120329,
+          "titre": "Godzilla contre Mecanik Monster",
+          "titreVo": "Gojira tai Mekagojira",
+          "titreNx": "ゴジラ対メカゴジラ",
+          "realisateurs": "Jun Fukuda",
+          "annee": 1974,
+          "duree": 83,
+          "generique": "Masaaki Daimon, Reiko Tajima, Kazuya Aoyama",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28535,
-              "duree": 85,
+              "idCopie": 28268,
+              "duree": 83,
               "format": "35 mm",
-              "version": "VF"
+              "version": "VF",
+              "langCopie": "FRE"
             }
           ],
-          "idFilmBoxoffice": 41227
+          "idFilmBoxoffice": 184179
         }
       ]
     },
@@ -13870,8 +13831,7 @@
               "idCopie": 27054,
               "duree": 106,
               "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF",
+              "version": "VF",
               "stDemande": true
             }
           ],
@@ -14562,46 +14522,6 @@
       ]
     },
     {
-      "idSeance": 132985,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 797,
-          "idCategorie": 3396,
-          "titreCycle": "Casses, hold-ups et braquages en 25 indispensables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31013,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-11T18:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 35293,
-          "titre": "Dillinger",
-          "realisateurs": "John Milius",
-          "annee": 1973,
-          "dureeStd": 107,
-          "duree": 107,
-          "generique": "Warren Oates, Ben Johnson, Michelle Phillips",
-          "miniTexte": "Milius regarde l'Amérique dans le rétroviseur avec la cavale du bandit Dillinger (Warren Oates), poursuivi par le FBI. Un récit à l'état brut, mi-western, mi-film d'action, sur fond de Grande Dépression. Rythmé, efficace, avec ses scènes de fusillades maîtrisées, _Dillinger_ est aussi une étude de la violence et de ses mécanismes, que Milius décortique avec une belle authenticité.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 27655,
-              "duree": 107,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 33208
-        }
-      ]
-    },
-    {
       "idSeance": 132987,
       "idProg": 182,
       "idCycleCategories": [
@@ -14614,8 +14534,8 @@
       ],
       "idEvenement": 21647,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-11T18:00:00",
-      "idSalle": "JE",
+      "dateHeure": "2024-11-11T17:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -14664,6 +14584,46 @@
         }
       ],
       "mention": "Séance présentée par Natacha Thiéry"
+    },
+    {
+      "idSeance": 132985,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 797,
+          "idCategorie": 3396,
+          "titreCycle": "Casses, hold-ups et braquages en 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31013,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-11T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35293,
+          "titre": "Dillinger",
+          "realisateurs": "John Milius",
+          "annee": 1973,
+          "dureeStd": 107,
+          "duree": 107,
+          "generique": "Warren Oates, Ben Johnson, Michelle Phillips",
+          "miniTexte": "Milius regarde l'Amérique dans le rétroviseur avec la cavale du bandit Dillinger (Warren Oates), poursuivi par le FBI. Un récit à l'état brut, mi-western, mi-film d'action, sur fond de Grande Dépression. Rythmé, efficace, avec ses scènes de fusillades maîtrisées, _Dillinger_ est aussi une étude de la violence et de ses mécanismes, que Milius décortique avec une belle authenticité.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27655,
+              "duree": 107,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 33208
+        }
+      ]
     },
     {
       "idSeance": 132983,
@@ -14835,8 +14795,7 @@
               "idCopie": 27054,
               "duree": 106,
               "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "version": "VF"
             }
           ],
           "idFilmBoxoffice": 7072
