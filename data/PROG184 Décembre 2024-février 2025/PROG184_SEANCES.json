@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-12T08:43:18.236Z",
+  "updatedAt": "2024-07-15T08:04:23.427Z",
   "data": [
     {
       "idSeance": 136878,
@@ -482,7 +482,7 @@
       ],
       "idEvenement": 31401,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-30T19:00:00",
+      "dateHeure": "2024-11-30T19:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -859,7 +859,7 @@
       ]
     },
     {
-      "idSeance": 137029,
+      "idSeance": 144507,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -869,32 +869,73 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31431,
+      "idEvenement": 31408,
       "typeEvenement": 13,
       "dateHeure": "2024-12-02T20:45:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 33498,
-          "titre": "Jules César",
-          "titreVo": "Julius Caesar",
-          "realisateurs": "Joseph L. Mankiewicz",
-          "annee": 1952,
-          "duree": 120,
-          "generique": "James Mason, Marlon Brando, John Gielgud, Deborah Kerr",
-          "synopsis": "Rome en 44 avant J.-C. Alors que la foule célèbre le triomphe de Jules César, on prédit à l'empereur un destin funeste, mais, se croyant invulnérable, il n'y prête guère attention. Lorsqu'il tombe sous les coups de Brutus, une guerre fratricide s'engage entre les partisans de celui-ci et ceux de Marc Antoine.",
+          "idFilm": 35699,
+          "titre": "Missouri Breaks",
+          "titreVo": "Missouri Breaks",
+          "artVo": "The",
+          "realisateurs": "Arthur Penn",
+          "annee": 1976,
+          "duree": 126,
+          "generique": "Marlon Brando, Jack Nicholson, Kathleen Lloyd",
+          "miniTexte": "Six ans après _Little Big Man_, les terres ocres du Nevada deviennent le théâtre d'une confrontation entre un voleur de chevaux et un tueur psychotique engagé par un riche éleveur. Dans un face à face d'anthologie, Nicholson et Brando tirent toutes les ficelles d'un genre renouvelé avec humour et cruauté.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 18097,
-              "duree": 120,
+              "idCopie": 26742,
+              "duree": 126,
               "format": "35 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 43661
+        }
+      ]
+    },
+    {
+      "idSeance": 137066,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31406,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-04T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33684,
+          "titre": "Blanches colombes et vilains messieurs",
+          "titreVo": "Guys and Dolls",
+          "realisateurs": "Joseph L. Mankiewicz",
+          "annee": 1955,
+          "duree": 150,
+          "generique": "Marlon Brando, Jean Simmons, Frank Sinatra",
+          "synopsis": "Nathan Detroit, propriétaire d'un tripot new-yorkais, doit trouver de l'argent au plus vite. Il propose à un joueur invétéré un pari extravagant : emmener dîner le soir même à La Havane une jeune femme œuvrant pour l'Armée du salut.",
+          "miniTexte": "D'abord, Brando refuse le rôle : « Ma voix résonne comme une cornemuse dans un linge humide ». Ce à quoi Mankiewicz rétorque : « Vous n'avez jamais fait de comédie musicale et moi non plus. Nous n'avions pas non plus joué Shakespeare avant _Jules César_. Je suis certain que ce sera une expérience aussi passionnante que gratifiante pour tous les deux ». _Blanches colombes..._, adaptation d'une comédie musicale de Broadway, est presque une incongruité dans la filmographie du réalisateur. « N'est pas Gene Kelly, ni Minnelli, qui veut », écriront les critiques. Reste que l'intellectuel Mankiewicz, en parant de son habituelle ironie une banale opérette, décrochera quatre nominations aux Oscars.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 10944,
+              "duree": 150,
+              "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1433
         }
       ]
     },
@@ -984,6 +1025,85 @@
       ]
     },
     {
+      "idSeance": 137067,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31405,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-04T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40481,
+          "titre": "Comtesse de Hong-Kong",
+          "art": "La",
+          "titreVo": "A Countess from Hong-Kong",
+          "realisateurs": "Charles Chaplin",
+          "annee": 1966,
+          "duree": 120,
+          "generique": "Marlon Brando, Sophia Loren, Sydney Chaplin",
+          "synopsis": "Au cours d'une escale à Hong-Kong, Ogden Mears, un riche diplomate américain fait la rencontre de Natacha, une séduisante jeune femme qui se dit comtesse russe.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 3639,
+              "duree": 120,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137102,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31399,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-05T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33586,
+          "titre": "Sur les quais",
+          "titreVo": "On the Waterfront",
+          "realisateurs": "Elia Kazan",
+          "annee": 1953,
+          "duree": 108,
+          "generique": "Marlon Brando, Karl Malden, Rod Steiger, Eva Marie Saint",
+          "adaptation": "D'après les articles _Crime on the waterfront_ parus dans _The New York Sun_ de Malcolm Johnson.",
+          "synopsis": "Jeune docker, Terry est manipulé par son frère, avocat corrompu du syndicat des dockers. Il assiste sans intervenir au meurtre d'un employé. Quand la sœur de la victime lui demande de l'aide, Terry se retrouve face à un dilemme.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 16316,
+              "duree": 108,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 137104,
       "idProg": 184,
       "idCycleCategories": [
@@ -1021,6 +1141,46 @@
             {
               "idCopie": 28231,
               "duree": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137103,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31431,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-05T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33498,
+          "titre": "Jules César",
+          "titreVo": "Julius Caesar",
+          "realisateurs": "Joseph L. Mankiewicz",
+          "annee": 1952,
+          "duree": 120,
+          "generique": "James Mason, Marlon Brando, John Gielgud, Deborah Kerr",
+          "synopsis": "Rome en 44 avant J.-C. Alors que la foule célèbre le triomphe de Jules César, on prédit à l'empereur un destin funeste, mais, se croyant invulnérable, il n'y prête guère attention. Lorsqu'il tombe sous les coups de Brutus, une guerre fratricide s'engage entre les partisans de celui-ci et ceux de Marc Antoine.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 18097,
+              "duree": 120,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -1072,6 +1232,293 @@
       ]
     },
     {
+      "idSeance": 144508,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31430,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-06T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33462,
+          "titre": "Reflets dans un œil d'or",
+          "titreVo": "Reflections in a Golden Eye",
+          "realisateurs": "John Huston",
+          "annee": 1966,
+          "duree": 109,
+          "generique": "Elizabeth Taylor, Marlon Brando, Brian Keith, Julie Harris",
+          "adaptation": "D'après le roman _Reflets dans un œil d'or_ de Carson McCullers.",
+          "synopsis": "Dans un fort militaire de Géorgie, les chassés-croisés entre le major Penderton, son épouse délaissée – qui a pour amant le colonel Langdon –, et un jeune soldat dont l'arrivée vient perturber encore davantage cet univers trouble.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 8897,
+              "duree": 109,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "FRE",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137143,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31456,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-06T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45766,
+          "titre": "Bal des maudits",
+          "art": "Le",
+          "titreVo": "Young Lions",
+          "artVo": "The",
+          "realisateurs": "Edward Dmytryk",
+          "annee": 1957,
+          "duree": 167,
+          "adaptation": "D'après le roman _The Young Lions_ d'Irwin Shaw.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28541,
+              "duree": 167,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28539,
+              "duree": 167,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137182,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31433,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-07T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45914,
+          "titre": "Queimada",
+          "realisateurs": "Gillo Pontecorvo",
+          "annee": 1968,
+          "duree": 132,
+          "generique": "Marlon Brando, Renato Salvatori",
+          "adaptation": "D'après le roman _Burn!_ de Norman Grant.",
+          "synopsis": "En 1815, un agent secret britannique débarque dans une petite île des Caraïbes, Queimada, pour fomenter une révolte contre le pouvoir colonial portugais. Il veut mettre en place un gouvernement dirigé par la bourgeoisie locale, favorable aux intérêts de la Grande-Bretagne. Mais après le coup d'État, le prolétariat noir se révolte contre ses nouveaux maîtres.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23815,
+              "duree": 132,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 144509,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31455,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-07T17:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37649,
+          "titre": "Corrupteur",
+          "art": "Le",
+          "titreVo": "Night Comers",
+          "artVo": "The",
+          "realisateurs": "Michael Winner",
+          "annee": 1971,
+          "duree": 96,
+          "adaptation": "D'après le roman _Le Tour d'écrou_ de Henry James.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28538,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137183,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31398,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-07T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46031,
+          "titre": "Dernier tango à Paris",
+          "art": "Le",
+          "titreVo": "Ultimo tango a Parigi",
+          "realisateurs": "Bernardo Bertolucci",
+          "annee": 1972,
+          "duree": 126,
+          "generique": "Marlon Brando, Maria Schneider, Jean-Pierre Léaud, Massimo Girotti",
+          "synopsis": "Un Américain installé à Paris vit une relation torride avec une jeune femme. Jusqu'à quel point peut-on vivre une passion sans sentiments et en dehors de la société",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 12330,
+              "duree": 126,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137199,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31458,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-08T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32001,
+          "titre": "Parrain",
+          "art": "Le",
+          "titreVo": "Godfather",
+          "artVo": "The",
+          "realisateurs": "Francis Ford Coppola",
+          "annee": 1972,
+          "dureeStd": 175,
+          "duree": 175,
+          "generique": "Marlon Brando, Al Pacino, James Caan, Diane Keaton",
+          "adaptation": "D'après le roman _Le Parrain_ de Mario Puzo.",
+          "synopsis": "Michael Corleone essaie de mener une vie éloignée de son père, un parrain de la mafia new-yorkaise. Mais quand le patriarche est menacé, Michael revient aider sa famille.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 5904,
+              "duree": 175,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137200,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31457,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-08T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 123997,
+          "titre": "Apocalypse Now Redux",
+          "realisateurs": "Francis Ford Coppola",
+          "annee": 1976,
+          "duree": 200,
+          "generique": "Martin Sheen, Robert Duvall, Marlon Brando, Dennis Hopper",
+          "synopsis": "Au cours de la guerre du Vietnam, le Capitaine Willard a pour mission de partir à la recherche et d'assassiner un colonel américain déserteur qui règne sur une peuplade du Cambodge.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 4904,
+              "duree": 200,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 137250,
       "idProg": 184,
       "idCycleCategories": [
@@ -1115,6 +1562,33 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 137285,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31305,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-12T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 94700,
+          "titre": "Momma Don't Allow",
+          "realisateurs": "Karel Reisz, Tony Richardson",
+          "annee": 1956,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 137289,
       "idProg": 184,
       "idCycleCategories": [
@@ -1141,6 +1615,281 @@
           "annee": 1973,
           "generique": "James Caan, Paul Sorvino, Lauren Hutton",
           "synopsis": "Alex Freed est professeur de littérature. Cependant il a un vice qui lui fait perdre tout son argent et l'affection de ses proches: le jeu.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 144510,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31301,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-12T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 85300,
+          "titre": "We Are the Lambeth Boys",
+          "realisateurs": "Karel Reisz",
+          "annee": 1959,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 137327,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31261,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-13T18:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48251,
+          "titre": "Vampyr",
+          "titreVo": "Vampyr: Der Traum des Allan Gray",
+          "realisateurs": "Carl Theodor Dreyer",
+          "annee": 1930,
+          "duree": 77,
+          "generique": "Julian West, Maurice Schutz, Sybille Schmitz",
+          "adaptation": "D'après le roman _Carmilla_ de Sheridan Le Fanu.",
+          "synopsis": "Un vampire terrorise un châtelain et ses deux filles.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28439,
+              "duree": 77,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "GER",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 6058
+        }
+      ]
+    },
+    {
+      "idSeance": 137328,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31260,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-13T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41117,
+          "titre": "Cabinet du Docteur Caligari",
+          "art": "Le",
+          "titreVo": "Kabinett des Dr. Caligari",
+          "artVo": "Das",
+          "realisateurs": "Robert Wiene",
+          "annee": 1922,
+          "duree": 78,
+          "generique": "Werner Krauss, Conrad Veidt, Lil Dagover",
+          "synopsis": "Un jeune homme raconte comment sa fiancée a disparu, alors qu'une série d'enlèvements a lieu en ville.\n\n---\n\nCes films constituent la première séance du _Cercle du cinéma_, ciné-club fondé par Henri Langlois et Georges Franju, en décembre 1935 à la salle F.I.F. « Il s'agit avant tout de montrer des films et non d'en discuter après. Les débats ne servent à rien. Pour marquer cette différence, donnons-nous le nom de Cercle du cinéma. » (Henri Langlois)",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28424,
+              "duree": 78,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137368,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31273,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-14T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54362,
+          "titre": "Sœurs de sang",
+          "titreVo": "Sisters",
+          "realisateurs": "Brian De Palma",
+          "annee": 1972,
+          "duree": 92,
+          "generique": "Margot Kidder, Jennifer Salt, Charles Durning, Bill Finley",
+          "synopsis": "Un soir, Danielle Breton ramène un homme chez elle. Au matin, celui-ci est poignardé alors qu'une journaliste, Grace Collier, assiste au meurtre de sa fenêtre. Grace prévient la police mais aucun cadavre n'est découvert. Convaincue de ce qu'elle a vu, elle décide de mener l'enquête.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 15423,
+              "duree": 92,
+              "format": "16 mm",
+              "version": "VO",
+              "sousTitres": "Autres"
+            },
+            {
+              "idCopie": 28563,
+              "duree": 92,
+              "format": "16 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 28443,
+              "duree": 92,
+              "format": "Numérique",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137369,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31275,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-14T16:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 57189,
+          "titre": "Suspiria",
+          "realisateurs": "Dario Argento",
+          "annee": 1976,
+          "duree": 98,
+          "generique": "Jessica Harper, Stefania Casini, Flavio Bucci, aLida Valli, Udo Kier",
+          "adaptation": "D'après le roman _Suspiria de Profundis_ de Thomas De Quincey.",
+          "synopsis": "Susy Bannion, jeune ballerine américaine qui vient d'intégrer une prestigieuse académie de danse à Fribourg, découvre peu à peu que l'école est dirigée par une reine de la magie noire.",
+          "commentaire": "Une ouverture d'anthologie, entre orage diluvien, rythme effréné et premier meurtre sanglant, et Argento nous prend à la gorge, nous murmurant à l'oreille en voix off un « il était une fois » de conte de fées sur la musique horrifique de Goblin. Daria Nicolodi, passionnée d'occultisme, cosigne le scénario inspiré par l'œuvre de Thomas de Quincey. Variation moderne sur le mythe de Blanche-Neige sur fond de sorcellerie, _Suspiria_ est le premier volet de la trilogie des Trois Mères imaginée par le cinéaste (suivront _Inferno_ en 1980 et _La Terza madre_ en 2007). Jessica Harper, qui a refusé de jouer dans _Annie Hall_ pour travailler avec le maître du giallo, offre sa grâce fragile et son visage candide, entourée par Miguel Bosé, Alida Valli et Udo Kier, tandis que Joan Bennett apporte avec elle tout l'univers de Fritz Lang. Violent et poétique, bourré de références picturales, de Mario Bava à Sidney Hayers, du baroque à l'Art nouveau en passant par l'expressionnisme, _Suspiria_ est aussi l'un des derniers films tournés en Technicolor. Une véritable symphonie visuelle entre les rouges et les bleus, le vert et l'or. Un cauchemar gothique d'une puissance inouïe.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 8459,
+              "duree": 98,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ITA",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 12704
+        }
+      ]
+    },
+    {
+      "idSeance": 137370,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31279,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-14T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34068,
+          "titre": "Shining",
+          "titreVo": "Shining",
+          "artVo": "The",
+          "realisateurs": "Stanley Kubrick",
+          "annee": 1980,
+          "duree": 146,
+          "generique": "Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers",
+          "adaptation": "D'après le roman _Shining : L'Enfant lumière_ de Stephen King.",
+          "synopsis": "L'écrivain Jack Torrance passe l'hiver avec sa femme et son fils dans un immense hôtel isolé. Il assure le gardiennage de l'établissement et peut ainsi consacrer son temps à l'écriture. Mais une force maléfique semble le rendre de plus en plus violent.",
+          "commentaire": "« Le plus important dans un film, ce sont les mystères, ce qui est au-delà de la raison et du langage » ; en constante révolution artistique mais toujours via l'expérimentation technique, comme s'il voulait à chaque fois raconter une histoire comme cela n'avait jamais été fait, Stanley Kubrick, après la lumière à la bougie de Barry Lyndon, exige le mouvement caméra à la fluidité absolue pour Shining. Déjà, en 1974, Kubrick reçoit une démo filmée avec un prototype. Il répond : « Cela devrait révolutionner la manière de filmer. J'ai une question : y a-t-il une hauteur minimale à laquelle ce mystérieux stabilisateur peut être utilisé ? » Adaptation d'un roman plutôt banal de Stephen King, _Shining_ aspire à transcender l'invisible et, accessoirement, à devenir le film d'horreur ultime. Si chaque détail devient un élément intellectuel et narratif, l'art nouveau du Steadicam fait de tout le film un symptôme, sublimant le message cinématographique, que ce soit à tricycle sur une moquette au motif indélébile ou lors d'une poursuite dans un labyrinthe enneigé tout aussi inoubliable. Kubrick aime amplifier à l'extrême, que ce soient les contre-plongées délirantes ou les expressions outrées de ses acteurs. Mais finalement, le plus spectaculaire, ce qui devient par la suite l'image référence du film, réside dans une idée simplissime : filmer à hauteur d'enfant, en caméra portée, mobile et ultra rapide, en frôlant les murs et près du sol, à la manière d'un « tapis volant ». Le Steadicam est ainsi perfectionné, en liaison (radio et retour vidéo) directe avec le cinéaste. Coïncidence ou pas, le petit Danny fait le même poids qu'une caméra Arriflex 35BL.\n\nÉmilie Cauquy",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 1159,
+              "duree": 146,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137385,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31300,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-15T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42938,
+          "titre": "Maîtresse du lieutenant français",
+          "art": "La",
+          "titreVo": "French Lieutenant's Woman",
+          "artVo": "The",
+          "realisateurs": "Karel Reisz",
+          "annee": 1980,
+          "adaptation": "D'après le roman _The French Lieutenant's Woman_ de John Fowles.",
           "status": 0,
           "copies": []
         }

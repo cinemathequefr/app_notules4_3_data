@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-12T14:34:00.738Z",
+  "updatedAt": "2024-07-15T08:04:53.615Z",
   "data": [
     {
       "idSeance": 130975,
@@ -3082,7 +3082,7 @@
           "art": "Le",
           "realisateurs": "Abel Gance",
           "annee": 1917,
-          "duree": 52,
+          "duree": 60,
           "generique": "Léon Mathot, Georges Paulais, Andrée Brabant",
           "synopsis": "Un grand financier de la bourse de Paris et l'un de ses secrétaires sont épris de la même jeune fille, qui est la pupille du premier.",
           "miniTexte": "Rongé par un mal incurable, un financier parisien souhaite épouser sa pupille, une jeune fille de 18 ans, elle-même éprise de son modeste secrétaire. Un drame de l'amour et de l'argent, qui s'inspire d'une pensée de Shakespeare : « Je veux avant de mourir manger jusqu'aux dernières miettes de mon festin. »",
@@ -3090,7 +3090,7 @@
           "copies": [
             {
               "idCopie": 28075,
-              "duree": 52,
+              "duree": 60,
               "format": "DCP"
             }
           ],
@@ -4290,7 +4290,8 @@
             {
               "idCopie": 28442,
               "duree": 60,
-              "format": "DCP"
+              "format": "DCP",
+              "langCopie": "FRE"
             }
           ]
         },
@@ -4306,6 +4307,7 @@
             {
               "idCopie": 28130,
               "duree": 15,
+              "format": "DCP",
               "langCopie": "FRE"
             }
           ]
@@ -4316,11 +4318,14 @@
           "titre": "Château de nuages",
           "realisateurs": "Abel Gance",
           "annee": 1956,
+          "duree": 15,
           "status": 2,
           "copies": [
             {
               "idCopie": 28131,
-              "duree": 0
+              "duree": 15,
+              "format": "DCP",
+              "langCopie": "FRE"
             }
           ]
         },
@@ -4336,6 +4341,7 @@
             {
               "idCopie": 28132,
               "duree": 15,
+              "format": "DCP",
               "langCopie": "FRE"
             }
           ]
@@ -5709,7 +5715,6 @@
           "titre": "Yeux noirs",
           "art": "Les",
           "titreVo": "Oci ciornie",
-          "titreNx": "Очи чёрные",
           "realisateurs": "Nikita Mikhalkov",
           "annee": 1987,
           "duree": 144,
@@ -7893,7 +7898,8 @@
             {
               "idCopie": 28557,
               "duree": 102,
-              "format": "DCP"
+              "format": "DCP",
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 305776
@@ -9970,11 +9976,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 13934,
+              "idCopie": 28565,
               "duree": 90,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
+              "format": "35 mm"
             }
           ],
           "idFilmBoxoffice": 48405
@@ -16706,7 +16710,8 @@
             {
               "idCopie": 28061,
               "duree": 105,
-              "format": "DCP"
+              "format": "DCP",
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 111716
