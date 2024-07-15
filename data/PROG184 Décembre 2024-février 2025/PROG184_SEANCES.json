@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-15T08:04:23.427Z",
+  "updatedAt": "2024-07-15T14:43:31.115Z",
   "data": [
     {
       "idSeance": 136878,
@@ -1550,10 +1550,12 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 11367,
+              "idCopie": 28567,
               "duree": 71,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 1061
