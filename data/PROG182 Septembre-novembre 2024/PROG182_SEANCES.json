@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-15T08:04:53.615Z",
+  "updatedAt": "2024-07-15T09:31:36.512Z",
   "data": [
     {
       "idSeance": 130975,
@@ -1352,7 +1352,7 @@
               "idCopie": 28122,
               "duree": 96,
               "format": "35 mm",
-              "version": "VF"
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 4676
@@ -2082,7 +2082,6 @@
               "idCopie": 28240,
               "duree": 81,
               "format": "35 mm",
-              "version": "VO",
               "langCopie": "FRE"
             }
           ],
@@ -3043,13 +3042,14 @@
           "titreVo": "Avatar: The Way of Water",
           "realisateurs": "James Cameron",
           "annee": 2022,
+          "duree": 192,
           "generique": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
           "miniTexte": "Projet pharaonique de James Cameron, le deuxième volet des aventures de Jake Sully est une épopée éblouissante, sur fond de récit initiatique. Une nouvelle fois, le maître des effets spéciaux repousse les frontières, orchestre un feu d'artifice visuel avec notamment des séquences de _performance capture_ filmées sous l'eau. L'écran est pour lui l'écrin rêvé pour partager avec le spectateur sa passion pour la technologie et ses défis les plus fous. Davantage qu'un film, une expérience de cinéma.",
           "status": 2,
           "copies": [
             {
               "idCopie": 27179,
-              "duree": 0,
+              "duree": 192,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
@@ -4804,7 +4804,6 @@
               "idCopie": 28116,
               "duree": 132,
               "format": "35 mm",
-              "version": "VO",
               "langCopie": "FRE"
             }
           ],
@@ -6064,6 +6063,7 @@
           "titreVo": "No Good Deed",
           "realisateurs": "Bob Rafelson",
           "annee": 2002,
+          "duree": 97,
           "generique": "Samuel L. Jackson, Milla Jovovich, Stellan Skarsgård",
           "adaptation": "D'après la nouvelle _The House in Turk Street_ de Dashiell Hammett.",
           "miniTexte": "Alors qu'il enquête sur la disparition d'une adolescente, un vétéran de la police se retrouve pris au piège d'une machination. Absent des plateaux depuis six ans, Rafelson signe un dernier long métrage en forme de huis clos infernal, adapté d'une nouvelle de Dashiell Hammett. Un cocktail de chantage et de manipulations pour un thriller sous haute tension.",
@@ -6071,7 +6071,7 @@
           "copies": [
             {
               "idCopie": 28545,
-              "duree": 0,
+              "duree": 97,
               "format": "Numérique",
               "version": "VO",
               "sousTitres": "STF"
@@ -10212,6 +10212,7 @@
           "titre": "Cockfighter",
           "realisateurs": "Monte Hellman",
           "annee": 1974,
+          "duree": 83,
           "generique": "Warren Oates, Richard B. Shull, Harry Dean Stanton",
           "adaptation": "D'après le roman _Cockfighter_ de Charles Willeford.",
           "miniTexte": "Un passionné de combats de coqs fait vœu de silence pendant le championnat qu'il espère gagner. Après _Macadam à deux voies_, Hellman filme un duel de losers magnifiques, où Warren Oates, impeccable de mutisme, et Harry Dean Stanton s'affrontent avec panache. Une peinture de l'Amérique rurale aux airs de docu-fiction.",
@@ -10219,7 +10220,7 @@
           "copies": [
             {
               "idCopie": 28303,
-              "duree": 0,
+              "duree": 83,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
@@ -13833,7 +13834,8 @@
               "idCopie": 27054,
               "duree": 106,
               "format": "DCP",
-              "version": "VF",
+              "version": "VO",
+              "sousTitres": "STF",
               "stDemande": true
             }
           ],
@@ -14316,7 +14318,8 @@
               "idCopie": 20209,
               "duree": 76,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 170165
@@ -14795,7 +14798,7 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 27054,
+              "idCopie": 28568,
               "duree": 106,
               "format": "DCP",
               "version": "VF"
@@ -17539,13 +17542,14 @@
           "titreVo": "Avatar: The Way of Water",
           "realisateurs": "James Cameron",
           "annee": 2022,
+          "duree": 192,
           "generique": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
           "miniTexte": "Projet pharaonique de James Cameron, le deuxième volet des aventures de Jake Sully est une épopée éblouissante, sur fond de récit initiatique. Une nouvelle fois, le maître des effets spéciaux repousse les frontières, orchestre un feu d'artifice visuel avec notamment des séquences de _performance capture_ filmées sous l'eau. L'écran est pour lui l'écrin rêvé pour partager avec le spectateur sa passion pour la technologie et ses défis les plus fous. Davantage qu'un film, une expérience de cinéma.",
           "status": 2,
           "copies": [
             {
               "idCopie": 27179,
-              "duree": 0,
+              "duree": 192,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
