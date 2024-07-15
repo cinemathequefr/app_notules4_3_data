@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-15T09:31:36.512Z",
+  "updatedAt": "2024-07-15T09:58:36.653Z",
   "data": [
     {
       "idSeance": 130975,
@@ -5562,6 +5562,7 @@
             {
               "idCopie": 28373,
               "duree": 103,
+              "format": "35 mm",
               "version": "VO",
               "stDemande": true
             }
@@ -11924,9 +11925,16 @@
           "art": "Los",
           "realisateurs": "Pauline Pinson",
           "annee": 2017,
+          "duree": 8,
           "ageMinimal": 6,
           "status": 2,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28572,
+              "duree": 8,
+              "format": "DCP"
+            }
+          ]
         },
         {
           "ordre": 3,
@@ -11934,9 +11942,16 @@
           "titre": "How to Paint Your Rainbow",
           "realisateurs": "Erick Oh",
           "annee": 2018,
+          "duree": 2,
           "ageMinimal": 6,
           "status": 2,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28570,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
         },
         {
           "ordre": 4,
@@ -11944,9 +11959,16 @@
           "titre": "Six pattes sous terre",
           "realisateurs": "Nicolas Bianco-Levrin",
           "annee": 2021,
+          "duree": 3,
           "ageMinimal": 6,
           "status": 2,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28571,
+              "duree": 3,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },
@@ -14428,6 +14450,7 @@
           "titre": "Ocean's Eleven",
           "realisateurs": "Steven Soderbergh",
           "annee": 2001,
+          "duree": 116,
           "generique": "George Clooney, Matt Damon, Andy Garcia, Brad Pitt, Julia Roberts",
           "synopsis": "Danny Ocean sort tout juste de prison et fomente déjà son prochain coup: cambrioler les plus gros casinos de Las Vegas qui appartiennent tous au même caïd, Terry Benedict. Il commence par constituer son équipe de choc.",
           "miniTexte": "Motivé par l'appât du gain autant que par l'amour, un escroc, fraîchement sorti de prison, réunit une dizaine d'hommes pour dévaliser les trois casinos de Las Vegas. Remake de _L'Inconnu de Las Vegas_ de Lewis Milestone, un film de bande à la distribution rutilante, qui rivalise de charme et de répliques réjouissantes.",
@@ -14435,7 +14458,7 @@
           "copies": [
             {
               "idCopie": 1594,
-              "duree": 0,
+              "duree": 116,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
