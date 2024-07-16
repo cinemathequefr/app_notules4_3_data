@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-16T07:50:08.690Z",
+  "updatedAt": "2024-07-16T15:24:22.894Z",
   "data": [
     {
       "idSeance": 130975,
@@ -244,7 +244,7 @@
               "duree": 85,
               "format": "35 mm",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 118986
@@ -3712,7 +3712,7 @@
               "duree": 74,
               "format": "35 mm",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 118874
@@ -7466,7 +7466,7 @@
           "realisateurs": "Marin Karmitz, Jean Ravel, Jean-Marie Serreau",
           "annee": 1965,
           "duree": 20,
-          "generique": "Delphine Seyrig, Michael Lonsdale, Eléonore Hirt",
+          "generique": "Delphine Seyrig, Michael Lonsdale, Éléonore Hirt",
           "miniTexte": "D'après la pièce de Samuel Beckett, un exercice de déconstruction sonore et visuelle, qui met en scène un homme et deux femmes (le mari, la femme, la maîtresse), emprisonnés côte à côte, dans des jarres identiques.",
           "status": 2,
           "copies": [
@@ -7475,7 +7475,8 @@
               "duree": 20,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 126981
         },
         {
           "ordre": 2,
@@ -7939,7 +7940,8 @@
               "duree": 111,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 8394
         }
       ],
       "mention": "Séance présentée par Bartabas et Marin Karmitz"
@@ -12033,7 +12035,7 @@
           "ordre": 1,
           "idFilm": 55089,
           "titre": "Un flic sur le toit",
-          "titreVo": "Mannen pa taket",
+          "titreVo": "Mannen på taket",
           "realisateurs": "Bo Widerberg",
           "annee": 1976,
           "duree": 110,
@@ -12957,7 +12959,7 @@
           "idFilm": 56404,
           "titre": "Chemin du serpent",
           "art": "Le",
-          "titreVo": "Ormens väg pa hälleberget",
+          "titreVo": "Ormens väg på hälleberget",
           "realisateurs": "Bo Widerberg",
           "annee": 1986,
           "duree": 130,
@@ -13521,7 +13523,7 @@
           "ordre": 1,
           "idFilm": 55089,
           "titre": "Un flic sur le toit",
-          "titreVo": "Mannen pa taket",
+          "titreVo": "Mannen på taket",
           "realisateurs": "Bo Widerberg",
           "annee": 1976,
           "duree": 110,
