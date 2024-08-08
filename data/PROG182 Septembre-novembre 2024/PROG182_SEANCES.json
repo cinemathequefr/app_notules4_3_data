@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-07-16T15:24:22.894Z",
+  "updatedAt": "2024-08-08T19:48:16.845Z",
   "data": [
     {
       "idSeance": 130975,
@@ -193,7 +193,7 @@
           "artVo": "The",
           "realisateurs": "George Cukor, Cyril Gardner",
           "annee": 1930,
-          "duree": 85,
+          "duree": 82,
           "generique": "Ina Claire, Fredric March, Mary Brian",
           "adaptation": "D'après la pièce _The Royal Family_ d'Edna Ferber et George S. Kaufman.",
           "miniTexte": "Une satire du show-biz, ponctuée de clins d'œil aux Barrymore : issue d'une famille de comédiens, Julie envisage de tout arrêter pour se marier. Nouvelle star de la Paramount, Fredric March s'illustre dans des séquences osées ambiance pré-Code, tandis que Cukor apprivoise la caméra (le plan à la grue dans l'escalier, précurseur).",
@@ -201,7 +201,7 @@
           "copies": [
             {
               "idCopie": 28205,
-              "duree": 85,
+              "duree": 82,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
@@ -1568,7 +1568,9 @@
             {
               "idCopie": 28241,
               "duree": 95,
-              "format": "35 mm"
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 110259
@@ -2162,7 +2164,9 @@
             {
               "idCopie": 28111,
               "duree": 93,
-              "format": "35 mm"
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 26426
@@ -2520,7 +2524,7 @@
             {
               "idCopie": 28229,
               "duree": 30,
-              "format": "35 mm"
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 124787
@@ -4102,9 +4106,8 @@
           "annee": 1960,
           "duree": 119,
           "generique": "Marilyn Monroe, Yves Montand, Tony Randall",
-          "synopsis": "Jean-Marc Clément possède une puissante compagnie internationale, règne sur la bourse de New York et multiplie les conquêtes féminines. Apprenant un jour qu'il va être pris pour cible par un spectacle satirique de Broadway, il décide d'intégrer la troupe incognito.",
+          "synopsis": "À la tête d'une puissante compagnie internationale, Jean-Marc Clément règne sur la bourse de New York et multiplie les conquêtes féminines. Apprenant un jour qu'il va être pris pour cible par un spectacle satirique de Broadway, il décide d'intégrer la troupe incognito.",
           "miniTexte": "« _My Heart Belongs to Daddy_ », chante Marilyn. Dans un rôle sur mesure, la star éblouit Montand, et leur relation à la ville crève l'écran. Cukor se penche une nouvelle fois sur le monde du théâtre et, dans leurs propres rôles, Gene Kelly, Bing Crosby et le roi du stand-up Milton Berle illuminent ce conte de fées en forme de vaudeville.",
-          "commentaire": "Cukor décrit le monde du théâtre qu'il affectionne, et orchestre brillamment ce conte de fées en forme de vaudeville, ponctué de morceaux de roi : dans leurs propres rôles, Gene Kelly, Bing Crosby et le roi du stand-up Milton Berle. Montand séduit la candide Marilyn, ici dans un rôle qui lui ressemble furieusement. _« My Heart Belongs to Daddy »_, chante la star, alors au sommet, tandis qu'en filigrane la relation connue entre les deux acteurs semble habiter leur couple à l'écran.\n\n« Marilyn Monroe et moi, c'est une sorte de secret qui nous a rapprochés mutuellement. D'abord du milieu populaire d'où on venait l'un et l'autre. C'est parce qu'elle avait terriblement peur qu'elle arrivait en retard sur le plateau, et non pas pour faire des caprices de vedette. Dans l'intimité, elle était quelqu'un tout ce qu'il y a de plus normal. Mais c'était un personnage vivant. Il faut dire qu'à ce moment-là, le film que nous faisions était un film qu'elle aimait beaucoup, auquel elle croyait beaucoup, parce que pour une fois elle se sentait en sécurité, c'est-à-dire qu'elle n'avait pas de comédiens d'Hollywood autour d'elle. Certains avaient tendance à se moquer d'elle. Mais là, elle avait quelqu'un qui venait d'Europe, quelqu'un qui lui avait dit, dès le premier jour : Vous avez peur, mais moi je tremble. » (Yves Montand)",
           "status": 2,
           "copies": [
             {
@@ -4440,6 +4443,11 @@
       "idProg": 182,
       "idCycleCategories": [
         {
+          "idCycle": 11,
+          "idCategorie": 3477,
+          "titreCycle": "Séances spéciales"
+        },
+        {
           "idCycle": 757,
           "idCategorie": 3273,
           "titreCycle": "Abel Gance",
@@ -4525,14 +4533,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28171,
-              "duree": 102,
-              "format": "35 mm"
-            },
-            {
               "idCopie": 28355,
               "duree": 102,
-              "format": "35 mm"
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 57667
@@ -5035,7 +5040,9 @@
             {
               "idCopie": 28356,
               "duree": 105,
-              "format": "35 mm"
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 137664
@@ -8452,9 +8459,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28138,
+              "idCopie": 28252,
               "duree": 85,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -8548,7 +8555,6 @@
           "generique": "Yoo Ji-tae, Kim Tae-woo, Sung Hyun-ah",
           "synopsis": "Mun-ho, professeur d'arts plastiques, retrouve un ami cinéaste fauché qui revient des États-Unis. Ils partent sur les traces d'une jeune fille dont ils étaient amoureux.",
           "miniTexte": "Les retrouvailles de deux amis, un professeur d'arts plastiques et un cinéaste fauché, qui partent sur les traces d'une jeune fille dont ils étaient amoureux. S'attachant aux petits riens de la vie quotidienne, le film dresse un portrait acide des Coréens et de leur mal-être, qu'ils noient dans l'alcool et le sexe. Cinéaste désabusé, Hong emprunte son titre à Aragon pour mieux ironiser et affirmer : « l'avenir de l'homme n'a pas de réalité. »",
-          "commentaire": "S'attachant aux petits riens de la vie quotidienne, le film dresse un portrait acide des Coréens, qui noient leur mal-être dans l'alcool et le sexe. Cinéaste désabusé, Hong emprunte son titre à Aragon pour mieux ironiser et affirmer : « L'avenir de l'homme n'a pas de réalité. »",
           "status": 2,
           "copies": [
             {
@@ -8968,7 +8974,7 @@
             {
               "idCopie": 28386,
               "duree": 9,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VO",
               "stDemande": true
             }
@@ -9979,7 +9985,10 @@
             {
               "idCopie": 28565,
               "duree": 90,
-              "format": "35 mm"
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ITA",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 48405
@@ -10459,7 +10468,7 @@
           "titre": "Sherlock Jr.",
           "realisateurs": "Buster Keaton",
           "annee": 1924,
-          "duree": 50,
+          "duree": 45,
           "generique": "Buster Keaton, Kathryn McGuire, Ward Crane",
           "ageMinimal": 4,
           "synopsis": "Un jeune projectionniste, apprenti Sherlock Holmes, néglige son travail et se réfugie dans l'imaginaire. Au cours d'une visite chez sa petite amie, il est injustement accusé du vol d'une montre.",
@@ -10468,9 +10477,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 1144,
-              "duree": 50,
-              "format": "35 mm",
+              "idCopie": 28628,
+              "duree": 45,
+              "format": "DCP",
               "intertitres": "INT. FR."
             }
           ],
@@ -10639,6 +10648,13 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28587,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 10049
@@ -11619,8 +11635,7 @@
           "duree": 140,
           "generique": "Ugo Tognazzi, Philippe Noiret, Bernard Blier, Adolfo Celi",
           "synopsis": "Après la mort d'un des leurs, des quadragénaires se souviennent de leurs plaisanteries.",
-          "miniTexte": "Écrites par Pietro Germi peu avant sa mort, les aventures d'une bande de quinquas désillusionnés. Cinq _vitelloni_ montés en graine, dans le prolongement du film de Fellini, qui, lorsque la routine de leur existence se fait trop pesante, inventent les pires blagues aux dépens de leurs compatriotes. Monument d'amertume et de dérision, doublé d'un hommage inconditionnel à la camaraderie.",
-          "commentaire": "Écrit par Pietro Germi peu avant sa mort, _Mes chers amis_ raconte les aventures d'une bande de quinquagénaires désillusionnés. Dans le prolongement du film de Fellini, cinq _vitelloni_ montés en graine, qui, lorsque la routine de leur existence se fait trop pesante, inventent les pires blagues aux dépens de leurs compatriotes. Dirigés par Monicelli, avec toujours ce goût pour la farce mêlée de désespoir, les prodigieux Noiret, Tognazzi et Blier sont aussi à l'aise dans le comique que dans la mélancolie. Ils bâtissent ensemble un monument d'amertume et de dérision, doublé d'un hommage inconditionnel à la camaraderie.",
+          "miniTexte": "Écrites par Pietro Germi peu avant sa mort, les aventures d'une bande de quinquas désillusionnés. Cinq _vitelloni_ montés en graine, dans le prolongement du film de Fellini, qui, lorsque la routine de leur existence se fait trop pesante, inventent les pires blagues aux dépens de leurs compatriotes. Avec les prodigieux Noiret, Tognazzi et Blier, aussi à l'aise dans le comique que dans la mélancolie, un monument d'amertume et de dérision, doublé d'un hommage inconditionnel à la camaraderie.",
           "status": 2,
           "copies": [
             {
@@ -11967,6 +11982,84 @@
               "idCopie": 28571,
               "duree": 3,
               "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 120327,
+          "titre": "Danse Macabre",
+          "realisateurs": "Dudley Murphy, Francis Bruguière",
+          "annee": 1922,
+          "status": 0,
+          "copies": []
+        },
+        {
+          "ordre": 6,
+          "idFilm": 154973,
+          "titre": "Sainte Barbe",
+          "realisateurs": "Claude Barras, Cédric Louis",
+          "annee": 2007,
+          "status": 0,
+          "copies": []
+        },
+        {
+          "ordre": 7,
+          "idFilm": 113046,
+          "titre": "Maison ensorcelée",
+          "art": "La",
+          "realisateurs": "Segundo de Chomón",
+          "annee": 1908,
+          "duree": 7,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 13150,
+              "duree": 7,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 8,
+          "idFilm": 101917,
+          "titre": "Danse du feu",
+          "art": "La",
+          "realisateurs": "Georges Méliès",
+          "annee": 1899,
+          "duree": 2,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22807,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 9,
+          "idFilm": 113038,
+          "titre": "Ah ! La barbe",
+          "realisateurs": "Segundo de Chomón",
+          "annee": 1905,
+          "status": 0,
+          "copies": []
+        },
+        {
+          "ordre": 10,
+          "idFilm": 121454,
+          "titre": "Légende du fantôme",
+          "art": "La",
+          "realisateurs": "Segundo de Chomón",
+          "annee": 1908,
+          "duree": 8,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 3129,
+              "duree": 8,
+              "format": "35 mm"
             }
           ]
         }
@@ -13847,10 +13940,8 @@
           "duree": 106,
           "generique": "Conrad Veidt, Sabu, John Justin",
           "ageMinimal": 8,
-          "synopsis": "Après avoir été trompé et chassé de Bagdad par le diabolique Jaffra, le roi Ahmad unit ses forces à un voleur nommé Abu pour récupérer son trône, sa ville et la princesse qu'il aime.",
           "synopsisJP": "Pour se débarrasser du machiavélique Jaffar, récupérer son trône et la princesse qu'il aime, le roi Ahmad unit ses forces à un voleur malicieux nommé Abu. Un film en forme de livre d'images féériques, aux incroyables effets visuels (première utilisation d'un fond vert), qui inspirera Walt Disney pour son dessin animé _Aladdin_.",
-          "miniTexte": "Seize ans après Raoul Walsh, Powell livre sa propre version du _Voleur de Bagdad_, qui servira d'inspiration au dessin animé _Aladdin_. Avec ses trois Oscars (photographie, direction artistique et effets visuels) en 1941, le film – qui utilise, pour la première fois, la technique du fond vert – s'impose comme un livre d'images féeriques, où le cinéma devient un fantastique grenier à rêves.",
-          "commentaire": "Après avoir acquis les droits du film réalisé par Raoul Walsh en 1929, avec Douglas Fairbanks, Alexandre Korda confie à Ludwig Berger, puis à Michael Powell et Tim Whelan, la mise en scène de son _Voleur de Bagdad_. Le tournage, qui se déroule dans les studios britanniques de Denham en 1939, est interrompu par la guerre. Il se poursuit en 1940 à Hollywood et dans le Grand Canyon, avec deux réalisateurs supplémentaires (non crédités). Le jeune Sabu partage l'affiche avec le brillant Conrad Veidt. La féerie exotique de l'œuvre est appuyée par ses couleurs éclatantes et ses multiples effets spéciaux. La photographie en Technicolor de Georges Périnal sera récompensée par un Oscar en 1941.\n\nMarion Langlois",
+          "miniTexte": "Après avoir été trompé et chassé de Bagdad par le diabolique Jaffra, le roi Ahmad unit ses forces à un voleur nommé Abu pour récupérer son trône, sa ville et la princesse qu'il aime. Seize ans après Raoul Walsh, Powell livre sa propre version du _Voleur de Bagdad_, qui servira d'inspiration au dessin animé _Aladdin_. Avec ses trois Oscars (photographie, direction artistique et effets visuels) en 1941, le film – qui utilise, pour la première fois, la technique du fond vert – s'impose comme un livre d'images féeriques, où le cinéma devient un fantastique grenier à rêves.",
           "status": 2,
           "copies": [
             {
@@ -14815,10 +14906,8 @@
           "duree": 106,
           "generique": "Conrad Veidt, Sabu, John Justin",
           "ageMinimal": 8,
-          "synopsis": "Après avoir été trompé et chassé de Bagdad par le diabolique Jaffra, le roi Ahmad unit ses forces à un voleur nommé Abu pour récupérer son trône, sa ville et la princesse qu'il aime.",
           "synopsisJP": "Pour se débarrasser du machiavélique Jaffar, récupérer son trône et la princesse qu'il aime, le roi Ahmad unit ses forces à un voleur malicieux nommé Abu. Un film en forme de livre d'images féériques, aux incroyables effets visuels (première utilisation d'un fond vert), qui inspirera Walt Disney pour son dessin animé _Aladdin_.",
-          "miniTexte": "Seize ans après Raoul Walsh, Powell livre sa propre version du _Voleur de Bagdad_, qui servira d'inspiration au dessin animé _Aladdin_. Avec ses trois Oscars (photographie, direction artistique et effets visuels) en 1941, le film – qui utilise, pour la première fois, la technique du fond vert – s'impose comme un livre d'images féeriques, où le cinéma devient un fantastique grenier à rêves.",
-          "commentaire": "Après avoir acquis les droits du film réalisé par Raoul Walsh en 1929, avec Douglas Fairbanks, Alexandre Korda confie à Ludwig Berger, puis à Michael Powell et Tim Whelan, la mise en scène de son _Voleur de Bagdad_. Le tournage, qui se déroule dans les studios britanniques de Denham en 1939, est interrompu par la guerre. Il se poursuit en 1940 à Hollywood et dans le Grand Canyon, avec deux réalisateurs supplémentaires (non crédités). Le jeune Sabu partage l'affiche avec le brillant Conrad Veidt. La féerie exotique de l'œuvre est appuyée par ses couleurs éclatantes et ses multiples effets spéciaux. La photographie en Technicolor de Georges Périnal sera récompensée par un Oscar en 1941.\n\nMarion Langlois",
+          "miniTexte": "Après avoir été trompé et chassé de Bagdad par le diabolique Jaffra, le roi Ahmad unit ses forces à un voleur nommé Abu pour récupérer son trône, sa ville et la princesse qu'il aime. Seize ans après Raoul Walsh, Powell livre sa propre version du _Voleur de Bagdad_, qui servira d'inspiration au dessin animé _Aladdin_. Avec ses trois Oscars (photographie, direction artistique et effets visuels) en 1941, le film – qui utilise, pour la première fois, la technique du fond vert – s'impose comme un livre d'images féeriques, où le cinéma devient un fantastique grenier à rêves.",
           "status": 2,
           "copies": [
             {
@@ -15966,6 +16055,13 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 28600,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
               "idCopie": 28220,
               "duree": 99,
               "format": "35 mm",
@@ -16260,11 +16356,51 @@
       ],
       "idEvenement": 31092,
       "typeEvenement": 13,
-      "libelleEvenement": "LILA LUMIÈRE PERDUS DANS LA FORÊT ?",
       "dateHeure": "2024-11-20T15:00:00",
       "idSalle": "GF",
-      "theorique": true,
-      "items": []
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 112715,
+          "titre": "Blanche-Neige et Rose-Rouge",
+          "titreVo": "Snow White and Rose Red",
+          "realisateurs": "Lotte Reiniger",
+          "annee": 1953,
+          "status": 0,
+          "copies": []
+        },
+        {
+          "ordre": 2,
+          "idFilm": 112714,
+          "titre": "Belle au bois dormant",
+          "art": "La",
+          "titreVo": "Sleeping Beauty",
+          "artVo": "The",
+          "realisateurs": "Lotte Reiniger",
+          "annee": 1954,
+          "status": 0,
+          "copies": []
+        },
+        {
+          "ordre": 3,
+          "idFilm": 112716,
+          "titre": "Poucette",
+          "titreVo": "Thumbelina",
+          "realisateurs": "Lotte Reiniger",
+          "annee": 1954,
+          "status": 0,
+          "copies": []
+        },
+        {
+          "ordre": 4,
+          "idFilm": 42934,
+          "titre": "Hansel and Gretel",
+          "realisateurs": "Lotte Reiniger",
+          "annee": 1955,
+          "status": 0,
+          "copies": []
+        }
+      ]
     },
     {
       "idSeance": 133205,
@@ -17328,11 +17464,51 @@
       ],
       "idEvenement": 31092,
       "typeEvenement": 13,
-      "libelleEvenement": "LILA LUMIÈRE PERDUS DANS LA FORÊT ?",
       "dateHeure": "2024-11-24T11:30:00",
       "idSalle": "GF",
-      "theorique": true,
-      "items": []
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 112715,
+          "titre": "Blanche-Neige et Rose-Rouge",
+          "titreVo": "Snow White and Rose Red",
+          "realisateurs": "Lotte Reiniger",
+          "annee": 1953,
+          "status": 0,
+          "copies": []
+        },
+        {
+          "ordre": 2,
+          "idFilm": 112714,
+          "titre": "Belle au bois dormant",
+          "art": "La",
+          "titreVo": "Sleeping Beauty",
+          "artVo": "The",
+          "realisateurs": "Lotte Reiniger",
+          "annee": 1954,
+          "status": 0,
+          "copies": []
+        },
+        {
+          "ordre": 3,
+          "idFilm": 112716,
+          "titre": "Poucette",
+          "titreVo": "Thumbelina",
+          "realisateurs": "Lotte Reiniger",
+          "annee": 1954,
+          "status": 0,
+          "copies": []
+        },
+        {
+          "ordre": 4,
+          "idFilm": 42934,
+          "titre": "Hansel and Gretel",
+          "realisateurs": "Lotte Reiniger",
+          "annee": 1955,
+          "status": 0,
+          "copies": []
+        }
+      ]
     },
     {
       "idSeance": 133342,
@@ -17692,7 +17868,6 @@
           "adaptation": "D'après le roman _Les Inconnus dans la ville_ de William L. Heath.",
           "synopsis": "Une petite ville minière voit arriver trois gangsters qui viennent attaquer la banque. Ils se réfugient dans une ferme amish et prennent toute la famille en otage.",
           "miniTexte": "_Les Inconnus dans la ville_ évoque autant le cinéma de Minnelli et de Sirk que les séries B, dont Fleischer a été l'un des grands artisans. C'est un film-monde, le petit théâtre d'une ville minière d'Arizona, de ses habitants, de leurs forces et de leurs faiblesses, mises à mal par trois malfrats qui s'attaquent à la banque de la bourgade. Le portrait en coupe d'une certaine Amérique, et des racines de sa violence.",
-          "commentaire": "C'est avant tout un formidable film de casse, mais le cantonner à ce seul genre ne serait pas rendre justice à une œuvre d'une telle ampleur. _Les Inconnus dans la ville_ évoque autant le cinéma de Vincente Minnelli et de Douglas Sirk que les séries B, dont Fleischer a été l'un des grands artisans. C'est un film-monde, le petit théâtre d'une ville minière d'Arizona, de ses habitants, de leurs forces et de leurs faiblesses, mises à mal par trois malfrats brutaux qui s'attaquent à la banque de la bourgade. Le portrait en coupe d'une certaine Amérique, et des racines de sa violence.",
           "status": 2,
           "copies": [
             {

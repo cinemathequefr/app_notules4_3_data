@@ -1,8 +1,49 @@
 {
-  "updatedAt": "2024-07-15T14:43:31.115Z",
+  "updatedAt": "2024-08-08T19:55:08.761Z",
   "data": [
     {
-      "idSeance": 136878,
+      "idSeance": 137066,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31406,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-04T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33684,
+          "titre": "Blanches colombes et vilains messieurs",
+          "titreVo": "Guys and Dolls",
+          "realisateurs": "Joseph L. Mankiewicz",
+          "annee": 1955,
+          "duree": 150,
+          "generique": "Marlon Brando, Jean Simmons, Frank Sinatra",
+          "synopsis": "Nathan Detroit, propriétaire d'un tripot new-yorkais, doit trouver de l'argent au plus vite. Il propose à un joueur invétéré un pari extravagant : emmener dîner le soir même à La Havane une jeune femme œuvrant pour l'Armée du salut.",
+          "miniTexte": "D'abord, Brando refuse le rôle : « Ma voix résonne comme une cornemuse dans un linge humide ». Ce à quoi Mankiewicz rétorque : « Vous n'avez jamais fait de comédie musicale et moi non plus. Nous n'avions pas non plus joué Shakespeare avant _Jules César_. Je suis certain que ce sera une expérience aussi passionnante que gratifiante pour tous les deux ». _Blanches colombes..._, adaptation d'une comédie musicale de Broadway, est presque une incongruité dans la filmographie du réalisateur. « N'est pas Gene Kelly, ni Minnelli, qui veut », écriront les critiques. Reste que l'intellectuel Mankiewicz, en parant de son habituelle ironie une banale opérette, décrochera quatre nominations aux Oscars.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 10944,
+              "duree": 150,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1433
+        }
+      ]
+    },
+    {
+      "idSeance": 145242,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -14,8 +55,9 @@
       ],
       "idEvenement": 31403,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-27T20:00:00",
+      "dateHeure": "2024-12-04T20:00:00",
       "idSalle": "HL",
+      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -40,10 +82,51 @@
             }
           ]
         }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 137067,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31405,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-04T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40481,
+          "titre": "Comtesse de Hong-Kong",
+          "art": "La",
+          "titreVo": "A Countess from Hong-Kong",
+          "realisateurs": "Charles Chaplin",
+          "annee": 1966,
+          "duree": 120,
+          "generique": "Marlon Brando, Sophia Loren, Sydney Chaplin",
+          "synopsis": "Au cours d'une escale à Hong-Kong, Ogden Mears, un riche diplomate américain fait la rencontre de Natacha, une séduisante jeune femme qui se dit comtesse russe.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28604,
+              "duree": 120,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
       ]
     },
     {
-      "idSeance": 136913,
+      "idSeance": 145243,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -55,7 +138,7 @@
       ],
       "idEvenement": 31432,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-28T18:30:00",
+      "dateHeure": "2024-12-05T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -81,7 +164,7 @@
       ]
     },
     {
-      "idSeance": 136916,
+      "idSeance": 145245,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -93,7 +176,7 @@
       ],
       "idEvenement": 30979,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-28T20:00:00",
+      "dateHeure": "2024-12-05T20:00:00",
       "idSalle": "HL",
       "typeSeance": 44,
       "items": [
@@ -126,7 +209,7 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 144484,
+      "idSeance": 145244,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -138,7 +221,7 @@
       ],
       "idEvenement": 31454,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-28T20:30:00",
+      "dateHeure": "2024-12-05T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -165,7 +248,7 @@
       ]
     },
     {
-      "idSeance": 136958,
+      "idSeance": 145247,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -177,7 +260,7 @@
       ],
       "idEvenement": 30977,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-29T18:30:00",
+      "dateHeure": "2024-12-06T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -213,7 +296,7 @@
       ]
     },
     {
-      "idSeance": 144493,
+      "idSeance": 145246,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -225,7 +308,7 @@
       ],
       "idEvenement": 31458,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-29T19:00:00",
+      "dateHeure": "2024-12-06T19:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -256,7 +339,7 @@
       ]
     },
     {
-      "idSeance": 136959,
+      "idSeance": 145248,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -268,7 +351,7 @@
       ],
       "idEvenement": 30987,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-29T20:15:00",
+      "dateHeure": "2024-12-06T20:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -300,7 +383,7 @@
       ]
     },
     {
-      "idSeance": 136996,
+      "idSeance": 145249,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -312,7 +395,7 @@
       ],
       "idEvenement": 30989,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-30T14:30:00",
+      "dateHeure": "2024-12-07T14:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -342,7 +425,7 @@
       ]
     },
     {
-      "idSeance": 137000,
+      "idSeance": 145257,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -354,7 +437,7 @@
       ],
       "idEvenement": 31404,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-30T15:00:00",
+      "dateHeure": "2024-12-07T15:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -386,7 +469,7 @@
       ]
     },
     {
-      "idSeance": 136997,
+      "idSeance": 145254,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -398,7 +481,7 @@
       ],
       "idEvenement": 31402,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-30T17:00:00",
+      "dateHeure": "2024-12-07T17:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -426,7 +509,7 @@
       ]
     },
     {
-      "idSeance": 137001,
+      "idSeance": 145255,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -438,7 +521,7 @@
       ],
       "idEvenement": 30988,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-30T17:45:00",
+      "dateHeure": "2024-12-07T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -470,7 +553,7 @@
       ]
     },
     {
-      "idSeance": 136998,
+      "idSeance": 145251,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -482,7 +565,7 @@
       ],
       "idEvenement": 31401,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-30T19:30:00",
+      "dateHeure": "2024-12-07T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -508,7 +591,7 @@
       ]
     },
     {
-      "idSeance": 137002,
+      "idSeance": 145256,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -520,7 +603,7 @@
       ],
       "idEvenement": 30991,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-30T20:00:00",
+      "dateHeure": "2024-12-07T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -551,7 +634,7 @@
       ]
     },
     {
-      "idSeance": 137013,
+      "idSeance": 145258,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -563,7 +646,7 @@
       ],
       "idEvenement": 31457,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-01T14:30:00",
+      "dateHeure": "2024-12-08T14:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -590,7 +673,7 @@
       ]
     },
     {
-      "idSeance": 137019,
+      "idSeance": 137205,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -602,7 +685,7 @@
       ],
       "idEvenement": 30976,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-01T17:30:00",
+      "dateHeure": "2024-12-08T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -635,7 +718,7 @@
       ]
     },
     {
-      "idSeance": 137014,
+      "idSeance": 145259,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -647,7 +730,7 @@
       ],
       "idEvenement": 31400,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-01T18:30:00",
+      "dateHeure": "2024-12-08T18:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -664,14 +747,15 @@
           "copies": [
             {
               "idCopie": 28472,
-              "duree": 79
+              "duree": 79,
+              "format": "DCP"
             }
           ]
         }
       ]
     },
     {
-      "idSeance": 137020,
+      "idSeance": 137206,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -683,7 +767,7 @@
       ],
       "idEvenement": 30984,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-01T19:15:00",
+      "dateHeure": "2024-12-08T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -714,7 +798,7 @@
       ]
     },
     {
-      "idSeance": 137016,
+      "idSeance": 145260,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -726,7 +810,7 @@
       ],
       "idEvenement": 31434,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-01T20:15:00",
+      "dateHeure": "2024-12-08T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -745,14 +829,15 @@
             {
               "idCopie": 28533,
               "duree": 119,
-              "format": "35 mm"
+              "format": "DCP",
+              "version": "VO"
             }
           ]
         }
       ]
     },
     {
-      "idSeance": 137028,
+      "idSeance": 137214,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -764,8 +849,9 @@
       ],
       "idEvenement": 30978,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-02T18:30:00",
+      "dateHeure": "2024-12-09T18:00:00",
       "idSalle": "GF",
+      "typeSeance": 43,
       "items": [
         {
           "ordre": 1,
@@ -856,10 +942,11 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Avant-première"
     },
     {
-      "idSeance": 144507,
+      "idSeance": 137215,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -871,7 +958,7 @@
       ],
       "idEvenement": 31408,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-02T20:45:00",
+      "dateHeure": "2024-12-09T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -899,7 +986,7 @@
       ]
     },
     {
-      "idSeance": 137066,
+      "idSeance": 145301,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -909,38 +996,206 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31406,
+      "idEvenement": 31455,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-04T18:00:00",
+      "dateHeure": "2024-12-11T16:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 33684,
-          "titre": "Blanches colombes et vilains messieurs",
-          "titreVo": "Guys and Dolls",
-          "realisateurs": "Joseph L. Mankiewicz",
-          "annee": 1955,
-          "duree": 150,
-          "generique": "Marlon Brando, Jean Simmons, Frank Sinatra",
-          "synopsis": "Nathan Detroit, propriétaire d'un tripot new-yorkais, doit trouver de l'argent au plus vite. Il propose à un joueur invétéré un pari extravagant : emmener dîner le soir même à La Havane une jeune femme œuvrant pour l'Armée du salut.",
-          "miniTexte": "D'abord, Brando refuse le rôle : « Ma voix résonne comme une cornemuse dans un linge humide ». Ce à quoi Mankiewicz rétorque : « Vous n'avez jamais fait de comédie musicale et moi non plus. Nous n'avions pas non plus joué Shakespeare avant _Jules César_. Je suis certain que ce sera une expérience aussi passionnante que gratifiante pour tous les deux ». _Blanches colombes..._, adaptation d'une comédie musicale de Broadway, est presque une incongruité dans la filmographie du réalisateur. « N'est pas Gene Kelly, ni Minnelli, qui veut », écriront les critiques. Reste que l'intellectuel Mankiewicz, en parant de son habituelle ironie une banale opérette, décrochera quatre nominations aux Oscars.",
-          "status": 2,
+          "idFilm": 37649,
+          "titre": "Corrupteur",
+          "art": "Le",
+          "titreVo": "Night Comers",
+          "artVo": "The",
+          "realisateurs": "Michael Winner",
+          "annee": 1971,
+          "duree": 96,
+          "adaptation": "D'après le roman _Le Tour d'écrou_ de Henry James.",
+          "status": 0,
           "copies": [
             {
-              "idCopie": 10944,
-              "duree": 150,
-              "format": "DCP",
+              "idCopie": 28538,
+              "duree": 96,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
-          ],
-          "idFilmBoxoffice": 1433
+          ]
         }
       ]
     },
     {
-      "idSeance": 137068,
+      "idSeance": 137254,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 796,
+          "idCategorie": 3469,
+          "titreCycle": "Sergueï Paradjanov"
+        }
+      ],
+      "idEvenement": 31464,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-11T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 29046,
+          "titre": "Paradjanov, le dernier collage",
+          "realisateurs": "Krikor Hamel, Rouben Kevorkiantz",
+          "annee": 1995,
+          "duree": 70,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28555,
+              "duree": 70,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 145295,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31296,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-11T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54028,
+          "titre": "Flambeur",
+          "art": "Le",
+          "titreVo": "Gambler",
+          "artVo": "The",
+          "realisateurs": "Karel Reisz",
+          "annee": 1973,
+          "generique": "James Caan, Paul Sorvino, Lauren Hutton",
+          "synopsis": "Alex Freed est professeur de littérature. Cependant il a un vice qui lui fait perdre tout son argent et l'affection de ses proches: le jeu.",
+          "status": 0,
+          "copies": []
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 145283,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 796,
+          "idCategorie": 3469,
+          "titreCycle": "Sergueï Paradjanov"
+        }
+      ],
+      "idEvenement": 31490,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-11T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 106415,
+          "titre": "Sergueï Paradjanov, le rebelle",
+          "realisateurs": "Patrick Cazals",
+          "annee": 2003,
+          "synopsis": "texte",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 145289,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31305,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-12T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 94700,
+          "titre": "Momma Don't Allow",
+          "realisateurs": "Karel Reisz, Tony Richardson",
+          "annee": 1956,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 145287,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31431,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-12T18:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33498,
+          "titre": "Jules César",
+          "titreVo": "Julius Caesar",
+          "realisateurs": "Joseph L. Mankiewicz",
+          "annee": 1952,
+          "duree": 120,
+          "generique": "James Mason, Marlon Brando, John Gielgud, Deborah Kerr",
+          "synopsis": "Rome en 44 avant J.-C. Alors que la foule célèbre le triomphe de Jules César, on prédit à l'empereur un destin funeste, mais, se croyant invulnérable, il n'y prête guère attention. Lorsqu'il tombe sous les coups de Brutus, une guerre fratricide s'engage entre les partisans de celui-ci et ceux de Marc Antoine.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 18097,
+              "duree": 120,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28608,
+              "duree": 120,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 137290,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -952,7 +1207,7 @@
       ],
       "idEvenement": 30979,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-04T18:30:00",
+      "dateHeure": "2024-12-12T18:30:00",
       "idSalle": "JE",
       "items": [
         {
@@ -983,7 +1238,75 @@
       ]
     },
     {
-      "idSeance": 144494,
+      "idSeance": 145290,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31301,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-12T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 85300,
+          "titre": "We Are the Lambeth Boys",
+          "realisateurs": "Karel Reisz",
+          "annee": 1959,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 145288,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31430,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-12T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33462,
+          "titre": "Reflets dans un œil d'or",
+          "titreVo": "Reflections in a Golden Eye",
+          "realisateurs": "John Huston",
+          "annee": 1966,
+          "duree": 109,
+          "generique": "Elizabeth Taylor, Marlon Brando, Brian Keith, Julie Harris",
+          "adaptation": "D'après le roman _Reflets dans un œil d'or_ de Carson McCullers.",
+          "synopsis": "Dans un fort militaire de Géorgie, les chassés-croisés entre le major Penderton, son épouse délaissée – qui a pour amant le colonel Langdon –, et un jeune soldat dont l'arrivée vient perturber encore davantage cet univers trouble.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 8897,
+              "duree": 109,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "FRE",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 145307,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -995,7 +1318,7 @@
       ],
       "idEvenement": 30989,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-04T20:45:00",
+      "dateHeure": "2024-12-12T20:45:00",
       "idSalle": "JE",
       "items": [
         {
@@ -1025,46 +1348,7 @@
       ]
     },
     {
-      "idSeance": 137067,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 809,
-          "idCategorie": 3459,
-          "titreCycle": "Marlon Brando",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31405,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-04T21:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 40481,
-          "titre": "Comtesse de Hong-Kong",
-          "art": "La",
-          "titreVo": "A Countess from Hong-Kong",
-          "realisateurs": "Charles Chaplin",
-          "annee": 1966,
-          "duree": 120,
-          "generique": "Marlon Brando, Sophia Loren, Sydney Chaplin",
-          "synopsis": "Au cours d'une escale à Hong-Kong, Ogden Mears, un riche diplomate américain fait la rencontre de Natacha, une séduisante jeune femme qui se dit comtesse russe.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 3639,
-              "duree": 120,
-              "format": "35 mm",
-              "version": "VO"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 137102,
+      "idSeance": 145302,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -1076,7 +1360,7 @@
       ],
       "idEvenement": 31399,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-05T18:00:00",
+      "dateHeure": "2024-12-13T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1104,7 +1388,37 @@
       ]
     },
     {
-      "idSeance": 137104,
+      "idSeance": 145291,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31304,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-13T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54601,
+          "titre": "Samedi soir et dimanche matin",
+          "titreVo": "Saturday Night and Sunday Morning",
+          "realisateurs": "Karel Reisz",
+          "annee": 1960,
+          "adaptation": "D'après le roman _Saturday Night and Sunday Morning_ d'Alan Sillitoe.",
+          "synopsis": "Jeune ouvrier révolté, Arthur a pour maîtresse Brenda, la femme de l'un de ses collègues, plus âgée que lui.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 137332,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -1116,7 +1430,7 @@
       ],
       "idEvenement": 30984,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-05T18:30:00",
+      "dateHeure": "2024-12-13T18:30:00",
       "idSalle": "JE",
       "items": [
         {
@@ -1147,7 +1461,7 @@
       ]
     },
     {
-      "idSeance": 137103,
+      "idSeance": 145303,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -1157,29 +1471,29 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31431,
+      "idEvenement": 31398,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-05T20:15:00",
+      "dateHeure": "2024-12-13T20:15:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 33498,
-          "titre": "Jules César",
-          "titreVo": "Julius Caesar",
-          "realisateurs": "Joseph L. Mankiewicz",
-          "annee": 1952,
-          "duree": 120,
-          "generique": "James Mason, Marlon Brando, John Gielgud, Deborah Kerr",
-          "synopsis": "Rome en 44 avant J.-C. Alors que la foule célèbre le triomphe de Jules César, on prédit à l'empereur un destin funeste, mais, se croyant invulnérable, il n'y prête guère attention. Lorsqu'il tombe sous les coups de Brutus, une guerre fratricide s'engage entre les partisans de celui-ci et ceux de Marc Antoine.",
-          "status": 2,
+          "idFilm": 46031,
+          "titre": "Dernier tango à Paris",
+          "art": "Le",
+          "titreVo": "Ultimo tango a Parigi",
+          "realisateurs": "Bernardo Bertolucci",
+          "annee": 1972,
+          "duree": 126,
+          "generique": "Marlon Brando, Maria Schneider, Jean-Pierre Léaud, Massimo Girotti",
+          "synopsis": "Un Américain installé à Paris vit une relation torride avec une jeune femme. Jusqu'à quel point peut-on vivre une passion sans sentiments et en dehors de la société",
+          "status": 0,
           "copies": [
             {
-              "idCopie": 18097,
-              "duree": 120,
+              "idCopie": 12330,
+              "duree": 126,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ]
@@ -1187,7 +1501,46 @@
       ]
     },
     {
-      "idSeance": 144495,
+      "idSeance": 145292,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31297,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-13T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44961,
+          "titre": "Force des ténèbres",
+          "art": "La",
+          "titreVo": "Night Must Fall",
+          "realisateurs": "Karel Reisz",
+          "annee": 1963,
+          "duree": 101,
+          "adaptation": "D'après la pièce _Night must fall_ d'Emlyn Williams.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28584,
+              "duree": 101,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 145308,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -1199,7 +1552,7 @@
       ],
       "idEvenement": 30976,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-05T20:30:00",
+      "dateHeure": "2024-12-13T20:45:00",
       "idSalle": "JE",
       "items": [
         {
@@ -1232,7 +1585,37 @@
       ]
     },
     {
-      "idSeance": 144508,
+      "idSeance": 144534,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31298,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-14T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45716,
+          "titre": "Guerriers de l'enfer",
+          "art": "Les",
+          "titreVo": "Who'll Stop the Rain ?",
+          "realisateurs": "Karel Reisz",
+          "annee": 1977,
+          "adaptation": "D'après le roman _Dog Soldiers_ de Robert Stone.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 145309,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -1242,30 +1625,30 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31430,
+      "idEvenement": 31403,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-06T18:00:00",
-      "idSalle": "HL",
+      "dateHeure": "2024-12-14T15:00:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 33462,
-          "titre": "Reflets dans un œil d'or",
-          "titreVo": "Reflections in a Golden Eye",
-          "realisateurs": "John Huston",
-          "annee": 1966,
-          "duree": 109,
-          "generique": "Elizabeth Taylor, Marlon Brando, Brian Keith, Julie Harris",
-          "adaptation": "D'après le roman _Reflets dans un œil d'or_ de Carson McCullers.",
-          "synopsis": "Dans un fort militaire de Géorgie, les chassés-croisés entre le major Penderton, son épouse délaissée – qui a pour amant le colonel Langdon –, et un jeune soldat dont l'arrivée vient perturber encore davantage cet univers trouble.",
-          "status": 2,
+          "idFilm": 30806,
+          "titre": "Vengeance aux deux visages",
+          "art": "La",
+          "titreVo": "One-eyed Jacks",
+          "realisateurs": "Marlon Brando",
+          "annee": 1959,
+          "duree": 144,
+          "generique": "Marlon Brando, Karl Malden, Joan Petrone",
+          "adaptation": "D'après le roman _La Véritable Histoire de la mort d'Henry Jones_ de Charles Neider.",
+          "synopsis": "Après un hold-up, Dad Longworth abandonne son complice Rio à la police et disparaît avec le butin. Cinq ans après sa sortie de prison, Rio le retrouve.",
+          "status": 0,
           "copies": [
             {
-              "idCopie": 8897,
-              "duree": 109,
-              "format": "35 mm",
+              "idCopie": 10668,
+              "duree": 144,
+              "format": "DCP",
               "version": "VO",
-              "langCopie": "FRE",
               "sousTitres": "STF"
             }
           ]
@@ -1273,7 +1656,226 @@
       ]
     },
     {
-      "idSeance": 137143,
+      "idSeance": 145304,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31433,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-14T16:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45914,
+          "titre": "Queimada",
+          "realisateurs": "Gillo Pontecorvo",
+          "annee": 1968,
+          "duree": 132,
+          "generique": "Marlon Brando, Renato Salvatori",
+          "adaptation": "D'après le roman _Burn!_ de Norman Grant.",
+          "synopsis": "En 1815, un agent secret britannique débarque dans une petite île des Caraïbes, Queimada, pour fomenter une révolte contre le pouvoir colonial portugais. Il veut mettre en place un gouvernement dirigé par la bourgeoisie locale, favorable aux intérêts de la Grande-Bretagne. Mais après le coup d'État, le prolétariat noir se révolte contre ses nouveaux maîtres.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23815,
+              "duree": 132,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 145293,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31303,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-14T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42940,
+          "titre": "Morgan",
+          "titreVo": "Morgan, a Suitable Case for Treatment",
+          "realisateurs": "Karel Reisz",
+          "annee": 1965,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 145306,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31458,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-14T19:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32001,
+          "titre": "Parrain",
+          "art": "Le",
+          "titreVo": "Godfather",
+          "artVo": "The",
+          "realisateurs": "Francis Ford Coppola",
+          "annee": 1972,
+          "dureeStd": 175,
+          "duree": 175,
+          "generique": "Marlon Brando, Al Pacino, James Caan, Diane Keaton",
+          "adaptation": "D'après le roman _Le Parrain_ de Mario Puzo.",
+          "synopsis": "Michael Corleone essaie de mener une vie éloignée de son père, un parrain de la mafia new-yorkaise. Mais quand le patriarche est menacé, Michael revient aider sa famille.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 5904,
+              "duree": 175,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 145294,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31299,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-14T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36198,
+          "titre": "Isadora",
+          "realisateurs": "Karel Reisz",
+          "annee": 1967,
+          "duree": 140,
+          "generique": "Vanessa Redgrave, James Fox, Jason Robards",
+          "adaptation": "D'après l'ouvrage _My Life_ d'Isadora Duncan.  \nD'après l'ouvrage _Isadora Duncan : An Intimate Portrait_ de Sewell Stokes.",
+          "synopsis": "La vie et les amours d'Isadora Duncan, danseuse américaine non-conformiste du début du siècle.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 1123,
+              "duree": 140,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137385,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31300,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-15T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42938,
+          "titre": "Maîtresse du lieutenant français",
+          "art": "La",
+          "titreVo": "French Lieutenant's Woman",
+          "artVo": "The",
+          "realisateurs": "Karel Reisz",
+          "annee": 1980,
+          "adaptation": "D'après le roman _The French Lieutenant's Woman_ de John Fowles.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 145296,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31302,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-15T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35621,
+          "titre": "Sweet Dreams",
+          "realisateurs": "Karel Reisz",
+          "annee": 1985,
+          "duree": 115,
+          "generique": "Jessica Lange, Ed Harris",
+          "synopsis": "L'ascension professionnelle et la vie sentimentale mouvementée de la chanteuse country Patsy Cline.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 515,
+              "duree": 115,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 145305,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -1285,7 +1887,7 @@
       ],
       "idEvenement": 31456,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-06T20:15:00",
+      "dateHeure": "2024-12-15T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1318,198 +1920,35 @@
       ]
     },
     {
-      "idSeance": 137182,
+      "idSeance": 145297,
       "idProg": 184,
       "idCycleCategories": [
         {
-          "idCycle": 809,
-          "idCategorie": 3459,
-          "titreCycle": "Marlon Brando",
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31433,
+      "idEvenement": 31295,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-07T14:30:00",
-      "idSalle": "HL",
+      "dateHeure": "2024-12-15T20:00:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 45914,
-          "titre": "Queimada",
-          "realisateurs": "Gillo Pontecorvo",
-          "annee": 1968,
-          "duree": 132,
-          "generique": "Marlon Brando, Renato Salvatori",
-          "adaptation": "D'après le roman _Burn!_ de Norman Grant.",
-          "synopsis": "En 1815, un agent secret britannique débarque dans une petite île des Caraïbes, Queimada, pour fomenter une révolte contre le pouvoir colonial portugais. Il veut mettre en place un gouvernement dirigé par la bourgeoisie locale, favorable aux intérêts de la Grande-Bretagne. Mais après le coup d'État, le prolétariat noir se révolte contre ses nouveaux maîtres.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 23815,
-              "duree": 132,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 144509,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 809,
-          "idCategorie": 3459,
-          "titreCycle": "Marlon Brando",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31455,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-07T17:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 37649,
-          "titre": "Corrupteur",
-          "art": "Le",
-          "titreVo": "Night Comers",
-          "artVo": "The",
-          "realisateurs": "Michael Winner",
-          "annee": 1971,
-          "duree": 96,
-          "adaptation": "D'après le roman _Le Tour d'écrou_ de Henry James.",
+          "idFilm": 35010,
+          "titre": "Chacun sa chance",
+          "titreVo": "Everybody Wins",
+          "realisateurs": "Karel Reisz",
+          "annee": 1989,
+          "duree": 97,
           "status": 0,
           "copies": [
             {
-              "idCopie": 28538,
-              "duree": 96,
+              "idCopie": 28582,
+              "duree": 97,
               "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 137183,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 809,
-          "idCategorie": 3459,
-          "titreCycle": "Marlon Brando",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31398,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-07T20:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 46031,
-          "titre": "Dernier tango à Paris",
-          "art": "Le",
-          "titreVo": "Ultimo tango a Parigi",
-          "realisateurs": "Bernardo Bertolucci",
-          "annee": 1972,
-          "duree": 126,
-          "generique": "Marlon Brando, Maria Schneider, Jean-Pierre Léaud, Massimo Girotti",
-          "synopsis": "Un Américain installé à Paris vit une relation torride avec une jeune femme. Jusqu'à quel point peut-on vivre une passion sans sentiments et en dehors de la société",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 12330,
-              "duree": 126,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 137199,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 809,
-          "idCategorie": 3459,
-          "titreCycle": "Marlon Brando",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31458,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-08T14:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 32001,
-          "titre": "Parrain",
-          "art": "Le",
-          "titreVo": "Godfather",
-          "artVo": "The",
-          "realisateurs": "Francis Ford Coppola",
-          "annee": 1972,
-          "dureeStd": 175,
-          "duree": 175,
-          "generique": "Marlon Brando, Al Pacino, James Caan, Diane Keaton",
-          "adaptation": "D'après le roman _Le Parrain_ de Mario Puzo.",
-          "synopsis": "Michael Corleone essaie de mener une vie éloignée de son père, un parrain de la mafia new-yorkaise. Mais quand le patriarche est menacé, Michael revient aider sa famille.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 5904,
-              "duree": 175,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 137200,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 809,
-          "idCategorie": 3459,
-          "titreCycle": "Marlon Brando",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31457,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-08T18:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 123997,
-          "titre": "Apocalypse Now Redux",
-          "realisateurs": "Francis Ford Coppola",
-          "annee": 1976,
-          "duree": 200,
-          "generique": "Martin Sheen, Robert Duvall, Marlon Brando, Dennis Hopper",
-          "synopsis": "Au cours de la guerre du Vietnam, le Capitaine Willard a pour mission de partir à la recherche et d'assassiner un colonel américain déserteur qui règne sur une peuplade du Cambodge.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 4904,
-              "duree": 200,
-              "format": "DCP",
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
@@ -1519,7 +1958,211 @@
       ]
     },
     {
-      "idSeance": 137250,
+      "idSeance": 137400,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31402,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-16T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33613,
+          "titre": "Un tramway nommé Désir",
+          "titreVo": "A Streetcar Named Desire",
+          "realisateurs": "Elia Kazan",
+          "annee": 1950,
+          "duree": 122,
+          "generique": "Marlon Brando, Vivien Leigh, Kim Hunter",
+          "adaptation": "D'après la pièce _Un tramway nommé désir_ de Tennessee Williams.",
+          "synopsis": "Blanche rend visite à sa sœur qui habite à La Nouvelle-Orléans dans un appartement miséreux avec son mari Stanley. Calme et distinguée, elle entre rapidement en conflit avec Stanley, un ouvrier impulsif et parfois violent.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 16314,
+              "duree": 122,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137401,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31399,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-16T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33586,
+          "titre": "Sur les quais",
+          "titreVo": "On the Waterfront",
+          "realisateurs": "Elia Kazan",
+          "annee": 1953,
+          "duree": 108,
+          "generique": "Marlon Brando, Karl Malden, Rod Steiger, Eva Marie Saint",
+          "adaptation": "D'après les articles _Crime on the waterfront_ parus dans _The New York Sun_ de Malcolm Johnson.",
+          "synopsis": "Jeune docker, Terry est manipulé par son frère, avocat corrompu du syndicat des dockers. Il assiste sans intervenir au meurtre d'un employé. Quand la sœur de la victime lui demande de l'aide, Terry se retrouve face à un dilemme.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 16316,
+              "duree": 108,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 145312,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31306,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-18T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 94921,
+          "titre": "March to Aldermaston",
+          "realisateurs": "Lindsay Anderson, Karel Reisz",
+          "annee": 1959,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 137436,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 814,
+          "idCategorie": 3472
+        }
+      ],
+      "idEvenement": 31477,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-18T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47284,
+          "titre": "Enfants du paradis",
+          "art": "Les",
+          "realisateurs": "Marcel Carné",
+          "annee": 1943,
+          "duree": 195,
+          "generique": "Arletty, Jean-Louis Barrault, Pierre Brasseur",
+          "synopsis": "À Paris, sur le boulevard du Crime, en 1828 et dans les années qui suivent, les destins croisés d'une belle foraine, Garance, d'un mime, Baptiste, d'un acteur renommé, Frédérick Lemaître, et d'un poète-assassin, Pierre François Lacenaire.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 292,
+              "duree": 195,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 182
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 145313,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31296,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-18T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54028,
+          "titre": "Flambeur",
+          "art": "Le",
+          "titreVo": "Gambler",
+          "artVo": "The",
+          "realisateurs": "Karel Reisz",
+          "annee": 1973,
+          "generique": "James Caan, Paul Sorvino, Lauren Hutton",
+          "synopsis": "Alex Freed est professeur de littérature. Cependant il a un vice qui lui fait perdre tout son argent et l'affection de ses proches: le jeu.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 145331,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 814,
+          "idCategorie": 3472
+        }
+      ],
+      "idEvenement": 31496,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-19T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47314,
+          "titre": "Jenny",
+          "realisateurs": "Marcel Carné",
+          "annee": 1936,
+          "adaptation": "D'après le roman _Prison de velours_ de Pierre Rocher.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 145310,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -1531,7 +2174,7 @@
       ],
       "idEvenement": 31264,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-11T20:00:00",
+      "dateHeure": "2024-12-19T20:00:00",
       "idSalle": "HL",
       "typeSeance": 44,
       "items": [
@@ -1564,93 +2207,42 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 137285,
+      "idSeance": 144536,
       "idProg": 184,
       "idCycleCategories": [
         {
-          "idCycle": 808,
-          "idCategorie": 3453,
-          "titreCycle": "Karel Reisz",
-          "titreSousCycle": "Les films"
+          "idCycle": 814,
+          "idCategorie": 3472
         }
       ],
-      "idEvenement": 31305,
+      "idEvenement": 31480,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-12T18:30:00",
+      "dateHeure": "2024-12-19T20:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 94700,
-          "titre": "Momma Don't Allow",
-          "realisateurs": "Karel Reisz, Tony Richardson",
-          "annee": 1956,
-          "status": 0,
-          "copies": []
+          "idFilm": 50687,
+          "titre": "Si j'étais le patron",
+          "realisateurs": "Richard Pottier",
+          "annee": 1934,
+          "duree": 107,
+          "generique": "Fernand Gravey, Max Dearly, Mireille Balin",
+          "synopsis": "Un jeune ouvrier, inventif et ambitieux, se retrouve à la tête de son entreprise pour vingt-quatre heures grâce au soutien de l'actionnaire principal.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 11802,
+              "duree": 107,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 3508
         }
       ]
     },
     {
-      "idSeance": 137289,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 808,
-          "idCategorie": 3453,
-          "titreCycle": "Karel Reisz",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31296,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-12T20:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 54028,
-          "titre": "Flambeur",
-          "art": "Le",
-          "titreVo": "Gambler",
-          "artVo": "The",
-          "realisateurs": "Karel Reisz",
-          "annee": 1973,
-          "generique": "James Caan, Paul Sorvino, Lauren Hutton",
-          "synopsis": "Alex Freed est professeur de littérature. Cependant il a un vice qui lui fait perdre tout son argent et l'affection de ses proches: le jeu.",
-          "status": 0,
-          "copies": []
-        }
-      ]
-    },
-    {
-      "idSeance": 144510,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 808,
-          "idCategorie": 3453,
-          "titreCycle": "Karel Reisz",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31301,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-12T20:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 85300,
-          "titre": "We Are the Lambeth Boys",
-          "realisateurs": "Karel Reisz",
-          "annee": 1959,
-          "status": 0,
-          "copies": []
-        }
-      ]
-    },
-    {
-      "idSeance": 137327,
+      "idSeance": 137514,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -1660,39 +2252,38 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31261,
+      "idEvenement": 31269,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-13T18:15:00",
+      "dateHeure": "2024-12-20T18:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 48251,
-          "titre": "Vampyr",
-          "titreVo": "Vampyr: Der Traum des Allan Gray",
-          "realisateurs": "Carl Theodor Dreyer",
-          "annee": 1930,
-          "duree": 77,
-          "generique": "Julian West, Maurice Schutz, Sybille Schmitz",
-          "adaptation": "D'après le roman _Carmilla_ de Sheridan Le Fanu.",
-          "synopsis": "Un vampire terrorise un châtelain et ses deux filles.",
+          "idFilm": 59013,
+          "titre": "Corps et le fouet",
+          "art": "Le",
+          "titreVo": "Frusta e il corpo",
+          "artVo": "La",
+          "realisateurs": "John M. Old",
+          "annee": 1963,
+          "duree": 85,
+          "generique": "Daliah Lavi, Christopher Lee, Tony Kendall",
+          "synopsis": "Au XIX<sup>e</sup> siècle, le baron Kurt regagne le château familial, dont il avait été banni par son propre père, pour assister au mariage de son frère avec son ancienne maîtresse, Nevenka. Celle-ci est fortement troublée, tandis que les habitants des environs voient ce retour d'un mauvais œil.",
+          "commentaire": "Mario Bava réalisa le film sous le pseudonyme de John M. Old.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28439,
-              "duree": 77,
+              "idCopie": 1145,
+              "duree": 85,
               "format": "35 mm",
-              "version": "VO",
-              "langCopie": "GER",
-              "sousTitres": "STF"
+              "version": "VF"
             }
-          ],
-          "idFilmBoxoffice": 6058
+          ]
         }
       ]
     },
     {
-      "idSeance": 137328,
+      "idSeance": 145315,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -1704,7 +2295,7 @@
       ],
       "idEvenement": 31260,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-13T20:30:00",
+      "dateHeure": "2024-12-20T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1732,7 +2323,7 @@
       ]
     },
     {
-      "idSeance": 137368,
+      "idSeance": 137554,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -1744,7 +2335,7 @@
       ],
       "idEvenement": 31273,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-14T14:30:00",
+      "dateHeure": "2024-12-21T14:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1783,7 +2374,76 @@
       ]
     },
     {
-      "idSeance": 137369,
+      "idSeance": 145349,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 814,
+          "idCategorie": 3472
+        }
+      ],
+      "idEvenement": 31474,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-21T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50830,
+          "titre": "Crime de monsieur Lange",
+          "art": "Le",
+          "realisateurs": "Jean Renoir",
+          "annee": 1935,
+          "duree": 84,
+          "generique": "René Lefèvre, Jules Berry, Florelle, Sylvia Bataille",
+          "synopsis": "Alors que leur patron est en fuite, les ouvriers d'une imprimerie créent une coopérative.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 14999,
+              "duree": 84,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 15685,
+              "duree": 84,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 3306
+        }
+      ]
+    },
+    {
+      "idSeance": 145319,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 814,
+          "idCategorie": 3472
+        }
+      ],
+      "idEvenement": 31471,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-21T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47282,
+          "titre": "Drôle de drame",
+          "realisateurs": "Marcel Carné",
+          "annee": 1937,
+          "generique": "Françoise Rosay, Michel Simon, Louis Jouvet",
+          "adaptation": "D'après le roman _His first offense_ de Joseph Storer Clouston.",
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 529
+        }
+      ]
+    },
+    {
+      "idSeance": 137555,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -1795,7 +2455,7 @@
       ],
       "idEvenement": 31275,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-14T16:30:00",
+      "dateHeure": "2024-12-21T17:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1825,7 +2485,55 @@
       ]
     },
     {
-      "idSeance": 137370,
+      "idSeance": 145320,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 814,
+          "idCategorie": 3472
+        }
+      ],
+      "idEvenement": 31476,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-21T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47320,
+          "titre": "Quai des brumes",
+          "art": "Le",
+          "realisateurs": "Marcel Carné",
+          "annee": 1938,
+          "duree": 91,
+          "generique": "Jean Gabin, Michèle Morgan, Michel Simon, Pierre Brasseur",
+          "adaptation": "D'après le roman _Le Quai des Brumes_ de Pierre Mac Orlan.",
+          "synopsis": "Au Havre, un déserteur tombe amoureux d'une orpheline.",
+          "commentaire": "À l'évocation du _Quai des brumes_, qui n'a pas en tête l'image de ce couple caché dans la pénombre du port du Havre, se susurrant des mots d'amour ? La poésie désenchantée du tandem Carné-Prévert, les décors nocturnes et embrumés d'Alexandre Trauner, l'atmosphère onirique des images d'Eugen Schüfftan, accompagnés de la musique funèbre et lancinante de Maurice Jaubert. Le film demeure l'une des œuvres les plus emblématiques du fameux « réalisme poétique ». Pierre Mac Orlan, l'auteur du roman adapté, lui préfère le terme « fantastique social ». Malgré de virulentes attaques au moment de sa sortie – censure pour « défaitisme moral » notamment –, et plus tard de la part des jeunes critiques de la Nouvelle Vague, fustigeant ce qu'ils nommèrent le « cinéma de papa », _Le Quai des brumes_ fut un énorme succès et reste l'un des plus beaux drames portés à l'écran : l'histoire du déserteur Gabin croyant lire l'espoir du bonheur dans les beaux yeux de Morgan.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 9161,
+              "duree": 91,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            },
+            {
+              "idCopie": 8656,
+              "duree": 91,
+              "format": "DCP"
+            },
+            {
+              "idCopie": 13318,
+              "duree": 91
+            }
+          ],
+          "idFilmBoxoffice": 2594
+        }
+      ]
+    },
+    {
+      "idSeance": 137556,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -1837,7 +2545,7 @@
       ],
       "idEvenement": 31279,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-14T19:00:00",
+      "dateHeure": "2024-12-21T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1867,35 +2575,1240 @@
       ]
     },
     {
-      "idSeance": 137385,
+      "idSeance": 145321,
       "idProg": 184,
       "idCycleCategories": [
         {
-          "idCycle": 808,
-          "idCategorie": 3453,
-          "titreCycle": "Karel Reisz",
+          "idCycle": 814,
+          "idCategorie": 3472
+        }
+      ],
+      "idEvenement": 31472,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-22T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47616,
+          "titre": "Ernest le rebelle",
+          "realisateurs": "Christian-Jaque",
+          "annee": 1938,
+          "duree": 95,
+          "generique": "Fernandel, Pierre Alcover, Mona Goya",
+          "adaptation": "D'après le roman _Ernest le rebelle_ de Jacques Perret.",
+          "synopsis": "Ernest Pic, steward et accordéoniste à bord d'un navire de plaisance, multiplie les gaffes au grand désespoir de l'équipage et des passagers. Après une escale dans un port d'Amérique du Sud, le paquebot repart sans lui.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 11795,
+              "duree": 95,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 26421
+        }
+      ]
+    },
+    {
+      "idSeance": 145329,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31300,
+      "idEvenement": 31262,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-15T14:30:00",
+      "dateHeure": "2024-12-22T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36444,
+          "titre": "Chasse du comte Zaroff",
+          "art": "La",
+          "titreVo": "Most Dangerous Game",
+          "artVo": "The",
+          "realisateurs": "Ernest B. Schoedsack, Irving Pichel",
+          "annee": 1932,
+          "duree": 65,
+          "generique": "Joel McCrea, Fay Wray, Robert Armstrong",
+          "adaptation": "D'après la nouvelle _The Most Dangerous Game_ de Richard Connell.",
+          "synopsis": "Un célèbre chasseur et ses amis échouent sur l'île d'un maniaque adepte de la capture de gibier humain.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 6137,
+              "duree": 65,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137586,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 814,
+          "idCategorie": 3472
+        }
+      ],
+      "idEvenement": 31475,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-23T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47315,
+          "titre": "Jour se lève",
+          "art": "Le",
+          "realisateurs": "Marcel Carné",
+          "annee": 1939,
+          "duree": 87,
+          "generique": "Jean Gabin, Jules Berry, Jacqueline Laurent, Arletty",
+          "synopsis": "Barricadé dans sa chambre, un homme se remémore les circonstances qui l'ont conduit au meurtre d'un infâme dresseur de chiens.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 3650,
+              "duree": 87,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            },
+            {
+              "idCopie": 16401,
+              "duree": 89,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            },
+            {
+              "idCopie": 3413,
+              "duree": 93,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 1250
+        }
+      ]
+    },
+    {
+      "idSeance": 137587,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 814,
+          "idCategorie": 3472
+        }
+      ],
+      "idEvenement": 31479,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-23T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48996,
+          "titre": "Remorques",
+          "realisateurs": "Jean Grémillon",
+          "annee": 1939,
+          "duree": 91,
+          "generique": "Jean Gabin, Madeleine Renaud, Michèle Morgan, Fernand Ledoux",
+          "adaptation": "D'après le roman _Remorques_ de Roger Vercel.",
+          "synopsis": "Lors du sauvetage d'un cargo, un marin marié recueille une jeune femme qui devient sa maîtresse.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 3616,
+              "duree": 91,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 2695
+        }
+      ]
+    },
+    {
+      "idSeance": 137661,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31276,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-26T18:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 42938,
-          "titre": "Maîtresse du lieutenant français",
-          "art": "La",
-          "titreVo": "French Lieutenant's Woman",
-          "artVo": "The",
-          "realisateurs": "Karel Reisz",
-          "annee": 1980,
-          "adaptation": "D'après le roman _The French Lieutenant's Woman_ de John Fowles.",
+          "idFilm": 52033,
+          "titre": "Au-delà",
+          "art": "L'",
+          "titreVo": "Aldilà",
+          "artVo": "L'",
+          "realisateurs": "Lucio Fulci",
+          "annee": 1981,
+          "duree": 90,
+          "generique": "Catriona MacColl, David Warbeck, Sarah Keller",
+          "synopsis": "A la Nouvelle-Orléans, en 1927, un peintre est crucifié pour sorcellerie. Cinquante ans plus tard, une jeune femme hérite de l'hôtel où s'est déroulé le drame. Elle découvrira que la demeure est construite sur une des sept portes de l'Enfer.",
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28416,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ITA",
+              "stDemande": true
+            }
+          ]
         }
       ]
+    },
+    {
+      "idSeance": 145323,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 814,
+          "idCategorie": 3472
+        }
+      ],
+      "idEvenement": 31498,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-26T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47328,
+          "titre": "Visiteurs du soir",
+          "art": "Les",
+          "realisateurs": "Marcel Carné",
+          "annee": 1942,
+          "duree": 120,
+          "generique": "Alain Cuny, Arletty, Marie Déa, Jules Berry",
+          "synopsis": "À la fin du Moyen-Âge, deux ménestrels, Gilles et Dominique, sont envoyés dans un château par le Diable en personne pour y apporter le désespoir.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 18387,
+              "duree": 120,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            },
+            {
+              "idCopie": 18573,
+              "duree": 120,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137660,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31272,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-26T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35361,
+          "titre": "Nuit des morts vivants",
+          "art": "La",
+          "titreVo": "Night of the Living Dead",
+          "artVo": "The",
+          "realisateurs": "George A. Romero",
+          "annee": 1968,
+          "duree": 96,
+          "generique": "Duane Jones, Judith O'Dea, Karl Hardman, Russell Streiner",
+          "synopsis": "Sept personnes se barricadent dans une ferme isolée et luttent toute une nuit contre les attaques d'une horde de cadavres revenus à la vie.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28435,
+              "duree": 96,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1133
+        }
+      ]
+    },
+    {
+      "idSeance": 137657,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 814,
+          "idCategorie": 3472
+        }
+      ],
+      "idEvenement": 31478,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-26T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48953,
+          "titre": "Lumière d'été",
+          "realisateurs": "Jean Grémillon",
+          "annee": 1942,
+          "duree": 108,
+          "generique": "Madeleine Renaud, Pierre Brasseur, Paul Bernard, Madeleine Robinson",
+          "synopsis": "Un châtelain désœuvré, un artiste alcoolique et un ingénieur tombent amoureux de la même femme. Copie restaurée par SNC et la Cinémathèque française.",
+          "commentaire": "Censure, difficultés de production, un tournage en zone libre sous l'Occupation, des noms comme celui de Trauner, décorateur juif, passés sous silence au générique, et un très mauvais accueil à sa sortie... _Lumière d'été_ achève d'installer Grémillon en cinéaste maudit. Et pourtant, cette parabole au sous-texte anti-collaborationniste, émaillée de détails à double sens, contient toute l'essence de son cinéma. Un cinéma social, limpide, parfois hors du temps, comme détaché, presque onirique. Grémillon filme l'affrontement de deux mondes aux creux desquels se joue un drame intimiste. « Grémillon retravaille autrement le rapport entre les gens et se trouve au plus près de leur vérité », expliquait Jean Douchet. Ici, c'est à la fois la droiture des personnages tendus vers un but simple et noble (Michèle et son amour) ou leur faiblesse et leur humanité, en même temps qu'un très beau portrait de femme. Sélectionné au Festival du film maudit de Biarritz en 1949, _Lumière d'été_ parvint, par la poésie réaliste des dialogues signés Prévert et Laroche, et par l'interprétation des comédiens, à séduire les cinéphiles. Henri Langlois ne s'y trompera pas, qui, après avoir porté Grémillon à la présidence de la Cinémathèque française, se démènera pour acquérir le film et en tirer de précieuses copies, tordant ainsi le cou à la malédiction.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 21123,
+              "duree": 108,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 1499,
+              "duree": 108,
+              "format": "DCP"
+            },
+            {
+              "idCopie": 17687,
+              "duree": 112
+            }
+          ],
+          "idFilmBoxoffice": 2174
+        }
+      ]
+    },
+    {
+      "idSeance": 145325,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31285,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-27T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154930,
+          "titre": "Malédiction : L'Origine",
+          "art": "La",
+          "titreVo": "First Omen",
+          "artVo": "The",
+          "realisateurs": "Arkasha Stevenson",
+          "annee": 2024,
+          "duree": 118,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28419,
+              "duree": 118,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 145326,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31274,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-27T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31188,
+          "titre": "Malédiction",
+          "art": "La",
+          "titreVo": "Omen",
+          "artVo": "The",
+          "realisateurs": "Richard Donner",
+          "annee": 1975,
+          "duree": 111,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28599,
+              "duree": 111,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28418,
+              "duree": 111,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG"
+            },
+            {
+              "idCopie": 28430,
+              "duree": 111,
+              "format": "16 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137740,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31261,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-28T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48251,
+          "titre": "Vampyr",
+          "titreVo": "Vampyr: Der Traum des Allan Gray",
+          "realisateurs": "Carl Theodor Dreyer",
+          "annee": 1930,
+          "duree": 77,
+          "generique": "Julian West, Maurice Schutz, Rena Mandel, Sybille Schmitz",
+          "adaptation": "D'après le roman _Carmilla_ de Sheridan Le Fanu.",
+          "synopsis": "Un vampire terrorise un châtelain et ses deux filles.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28439,
+              "duree": 77,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "GER",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 6058
+        }
+      ]
+    },
+    {
+      "idSeance": 137744,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 814,
+          "idCategorie": 3472
+        }
+      ],
+      "idEvenement": 31501,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-28T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50637,
+          "titre": "Un oiseau rare",
+          "realisateurs": "Richard Pottier",
+          "annee": 1935,
+          "duree": 104,
+          "generique": "Max Dearly, Pierre Brasseur, Monique Rolland, Pierre Larquey",
+          "synopsis": "Les deux gagnants d'un concours de slogans se retrouvent dans un hôtel du Mont Genèvre. Les méprises s'enchaînent.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 13255,
+              "duree": 104,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137741,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31266,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-28T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43533,
+          "titre": "Rendez-vous avec la peur",
+          "titreVo": "Night of the Demon = Curse of the Demon",
+          "realisateurs": "Jacques Tourneur",
+          "annee": 1956,
+          "duree": 95,
+          "generique": "Dana Andrews, Peggy Cummins",
+          "adaptation": "D'après la nouvelle _Casting the Runes_ de Montague Rhodes James.",
+          "synopsis": "Le docteur John Holden enquête sur la mort de son collègue, qui soupçonnait le docteur Karswell de participer à un culte démoniaque.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 12095,
+              "duree": 95,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137745,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 814,
+          "idCategorie": 3472
+        }
+      ],
+      "idEvenement": 31473,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-28T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50769,
+          "titre": "Affaire est dans le sac",
+          "art": "L'",
+          "realisateurs": "Pierre Prévert, Jacques Prévert",
+          "annee": 1932,
+          "duree": 40,
+          "generique": "Julien Carette, Étienne Decroux, Anthony Gildès",
+          "synopsis": "Benjamin Deboisé, chapelier un peu fou, projette d'enlever le fils d'un milliardaire américain. Par méprise, c'est le milliardaire lui-même qui est enlevé.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 26263,
+              "duree": 40,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 42
+        },
+        {
+          "ordre": 2,
+          "idFilm": 50772,
+          "titre": "Voyage surprise",
+          "realisateurs": "Pierre Prévert",
+          "annee": 1946,
+          "duree": 109,
+          "generique": "Martine Carol, Maurice Baquet, Thérèse Dorny",
+          "adaptation": "D'après la nouvelle _Voyage surprise_ de Maurice Diamant-Berger.",
+          "synopsis": "Au bord de la faillite, un garagiste espère s'en sortir en organisant un « voyage surprise » dans l'un de ses autocars.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 19135,
+              "duree": 109,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 145327,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31277,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-28T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 57082,
+          "titre": "Fog",
+          "realisateurs": "John Carpenter",
+          "annee": 1979,
+          "duree": 90,
+          "generique": "Janet Leigh, Jamie Lee Curtis, John Carpenter",
+          "synopsis": "Dans le petit port d'Antonio Bay qui se prépare à fêter son centenaire, un brouillard inexpliqué envahit la ville.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28428,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137746,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 814,
+          "idCategorie": 3472
+        }
+      ],
+      "idEvenement": 31497,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-28T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47319,
+          "titre": "Portes de la nuit",
+          "art": "Les",
+          "realisateurs": "Marcel Carné",
+          "annee": 1946,
+          "duree": 120,
+          "generique": "Jean Vilar, Yves Montand, Pierre Brasseur, Serge Reggiani, Nathalie Nattier",
+          "synopsis": "Durant une nuit de février 1945, un vagabond, qui se présente comme le Destin, orchestre le coup de foudre entre Diego, jeune résistant, et la belle Malou, dont le frère est un collaborateur.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 6522,
+              "duree": 120,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 6530,
+              "duree": 120,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137757,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31460,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-29T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31249,
+          "titre": "Griffes de la nuit",
+          "art": "Les",
+          "titreVo": "A Nightmare on Elm Street",
+          "realisateurs": "Wes Craven",
+          "annee": 1985,
+          "duree": 91,
+          "generique": "John Saxon, Ronee Blakley, Heather Langenkamp",
+          "synopsis": "Des adolescents sont victimes de cauchemars mortels. Leurs nuits sont hantées par le spectre d'un tueur d'enfants.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 8957,
+              "duree": 91,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1814
+        }
+      ]
+    },
+    {
+      "idSeance": 137758,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31283,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-29T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 65545,
+          "titre": "Cure",
+          "titreVo": "Kyua",
+          "titreNx": "キュア",
+          "realisateurs": "Kiyoshi Kurosawa",
+          "annee": 1997,
+          "dureeStd": 111,
+          "duree": 111,
+          "generique": "Kōji Yakusho, Masato Hagiwara, Tsuyoshi Ujiki, Anna Nakagawa",
+          "synopsis": "Un officier de police enquête sur une série de meurtres. Sur le lieu du dernier crime est arrêté un jeune homme possédant d'étranges pouvoirs.",
+          "commentaire": "Fin de l'année 1997. Un film déconcertant et terrifiant circule dans quelques grands festivals. Un choc. La découverte d'un des plus importants et des plus expérimentaux cinéastes contemporains, un jeune réalisateur qui a pourtant déjà une œuvre conséquente derrière lui. Avec _Cure_, en effet, Kiyoshi Kurosawa arrive sur la scène internationale. Son film dépasse les conventions et contraintes de ce que l'on appelle alors le cinéma de genre (d'ailleurs, de quel genre s'agit-il ? Horreur ? Thriller ?) pour imposer les visions toutes personnelles d'une sorte de virtuose calme de l'horreur. Le refus de tout lyrisme, une sorte d'angoissante familiarité des événements et des choses, des rapports humains décrits, y définissaient une œuvre où tout semblait être montré pour la première fois. La terreur y apparaissait ainsi comme un pur principe philosophique. Car le récit de ces meurtres dénués a priori de sens, perpétrés par des individus ordinaires tenus sous la domination hypnotique d'un étrange assassin, constitue les fondements d'une réflexion profonde et hallucinée. Avec une science inouïe du cadrage et de la durée, le génie de son acteur Kōji Yakusho, Kurosawa décrit l'humanité comme hantée par une pulsion de mort, un sourd désir d'annihilation avec lequel chacun construit sa propre identité. Être n'est possible que dans la négation de l'être. Une telle vision, déjà en germe dans les films antérieurs à _Cure_, allait, après le succès du film, nourrir une filmographie prolifique et totalement singulière, un art de la mise en scène comme rhétorique d'un regard sans illusions sur la condition humaine.\n\nJean-François Rauger",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 25627,
+              "duree": 111,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137763,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 814,
+          "idCategorie": 3472
+        }
+      ],
+      "idEvenement": 31477,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-29T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47284,
+          "titre": "Enfants du paradis",
+          "art": "Les",
+          "realisateurs": "Marcel Carné",
+          "annee": 1943,
+          "duree": 195,
+          "generique": "Arletty, Jean-Louis Barrault, Pierre Brasseur",
+          "synopsis": "À Paris, sur le boulevard du Crime, en 1828 et dans les années qui suivent, les destins croisés d'une belle foraine, Garance, d'un mime, Baptiste, d'un acteur renommé, Frédérick Lemaître, et d'un poète-assassin, Pierre François Lacenaire.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 292,
+              "duree": 195,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 182
+        }
+      ]
+    },
+    {
+      "idSeance": 137759,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31284,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-29T19:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 73943,
+          "titre": "Ring",
+          "titreVo": "Ringu",
+          "realisateurs": "Hideo Nakata",
+          "annee": 1998,
+          "duree": 96,
+          "generique": "Nanako Matsushima, Miki Nakatani, Hiroyuki Sanada",
+          "adaptation": "D'après le roman _Ring_ de Kôji Suzuki.",
+          "synopsis": "Une jeune fille meurt mystérieusement après avoir regardé une cassette vidéo. Reiko, journaliste intriguée par l'affaire, réussit à trouver la cassette et la visionne. Juste après, le téléphone sonne ; il ne lui reste plus qu'une semaine à vivre.\n\n---\n\nUn soir, seules à la maison, deux lycéennes se font peur en se racontant une mauvaise blague.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 11338,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137773,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31282,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-30T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35399,
+          "titre": "Evil dead 2",
+          "titreVo": "Evil Dead II",
+          "realisateurs": "Sam Raimi",
+          "annee": 1986,
+          "duree": 84,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28427,
+              "duree": 84,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137771,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31280,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-30T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33737,
+          "titre": "Loup-garou de Londres",
+          "art": "Le",
+          "titreVo": "An American Werewolf in London",
+          "realisateurs": "John Landis",
+          "annee": 1980,
+          "duree": 97,
+          "generique": "David Naughton, Jenny Agutter, Griffin Dunne",
+          "synopsis": "Blessé et seul survivant après l'agression d'un animal féroce qui a tué son ami Jack, David se retrouve à l'hôpital. Il se lie avec une jeune infirmière, qui le recueille chez elle.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28429,
+              "duree": 97,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137772,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31281,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-30T20:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33407,
+          "titre": "Poltergeist",
+          "realisateurs": "Tobe Hooper",
+          "annee": 1981,
+          "duree": 114,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28420,
+              "duree": 114,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137843,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31263,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-02T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30928,
+          "titre": "Dracula",
+          "realisateurs": "Tod Browning",
+          "annee": 1931,
+          "duree": 75,
+          "generique": "Bela Lugosi, Dwight Frye, Helen Chandler, David Manners",
+          "adaptation": "D'après le roman _Dracula_ de Bram Stoker.",
+          "synopsis": "Renfield se rend pour affaires au château du comte Dracula. Durant la nuit, il est mordu au cou par trois femmes et, en état d'hypnose, emmené à bord d'un voilier en direction de l'Angleterre.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28417,
+              "duree": 75,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 145328,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31265,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-02T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 57665,
+          "titre": "Frankenstein s'est échappé",
+          "titreVo": "Curse of Frankenstein",
+          "artVo": "The",
+          "realisateurs": "Terence Fisher",
+          "annee": 1957,
+          "duree": 85,
+          "generique": "Peter Cushing, Christopher Lee, Hazel Court",
+          "synopsis": "Avec le corps d'un condamné à mort, les mains d'un sculpteur et le cerveau d'un éminent professeur qu'il a lui-même assassiné, le baron Victor Frankenstein donne vie à une créature incontrôlable.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28585,
+              "duree": 85,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137888,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31271,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-03T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42919,
+          "titre": "Grand inquisiteur",
+          "art": "Le",
+          "titreVo": "Wichfinder General",
+          "realisateurs": "Michael Reeves",
+          "annee": 1967,
+          "duree": 86,
+          "generique": "Vincent Price, Ian Ogilvy, Rupert Davies",
+          "synopsis": "Les sinistres exploits du sadique Matthew Hopkins, chasseur de sorcières au temps de Cromwell.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28549,
+              "duree": 86,
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137884,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3448,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31257,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-03T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 71808,
+          "titre": "Jours comptés",
+          "art": "Les",
+          "titreVo": "Giorni contati",
+          "artVo": "I",
+          "realisateurs": "Elio Petri",
+          "annee": 1961,
+          "duree": 100,
+          "generique": "Salvo Randone, Regina Bianchi, Franco Sportelli",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28406,
+              "duree": 100
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 145350,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847
+        }
+      ],
+      "idEvenement": 31364,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-03T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40843,
+          "titre": "Grosse Liebe",
+          "art": "Die",
+          "realisateurs": "Otto Preminger",
+          "annee": 1932,
+          "duree": 76,
+          "generique": "Hansi Niese, Attila Hörbiger, Betty Bird",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28457,
+              "duree": 76,
+              "version": "VO",
+              "langCopie": "GER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137930,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31268,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-04T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45366,
+          "titre": "Homicide",
+          "titreVo": "Homicidal",
+          "realisateurs": "William Castle",
+          "annee": 1960,
+          "duree": 87,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 17748,
+              "duree": 87,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138328,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30534,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-20T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 43,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154784,
+          "titre": "Linceuls",
+          "art": "Les",
+          "titreVo": "Shrouds",
+          "artVo": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 2024,
+          "duree": 119,
+          "generique": "Vincent Cassel, Diane Kruger, Guy Pearce",
+          "synopsis": "Karsh, 50 ans, est un homme d'affaires renommé. Inconsolable depuis le décès de son épouse, il invente un système révolutionnaire et controversé, GraveTech, qui permet aux vivants de se connecter à leurs chers disparus dans leurs linceuls. Une nuit, plusieurs tombes, dont celle de sa femme, sont vandalisées. Karsh se met en quête des coupables.",
+          "miniTexte": "Un veuf, créateur millionnaire, invente un dispositif pour communiquer avec les morts dans leur linceul funéraire et assister à leur décomposition en temps réel. Sélectionnée au Festival de Cannes 2024, cette réflexion sur le deuil se veut l'un des films les plus intimes de Cronenberg, construit comme un écho à la disparition de sa femme en 2017.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27696,
+              "duree": 119,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 290064
+        }
+      ],
+      "mention": "Avant-première"
     },
     {
       "idSeance": 138552,
