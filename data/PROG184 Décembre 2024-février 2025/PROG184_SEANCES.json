@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-08-26T09:33:48.923Z",
+  "updatedAt": "2024-08-26T11:00:52.755Z",
   "data": [
     {
       "idSeance": 137066,
@@ -2177,7 +2177,8 @@
           "copies": [
             {
               "idCopie": 28636,
-              "duree": 105
+              "duree": 105,
+              "format": "DCP"
             }
           ]
         }
@@ -5282,7 +5283,8 @@
           "annee": 1969,
           "adaptation": "D'après le roman _An Exile_ de Madison Jones.",
           "status": 0,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 20646
         }
       ]
     }
