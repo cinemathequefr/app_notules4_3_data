@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-08-08T19:55:08.761Z",
+  "updatedAt": "2024-08-26T09:33:48.923Z",
   "data": [
     {
       "idSeance": 137066,
@@ -203,7 +203,8 @@
               "idCopie": 28174,
               "duree": 97
             }
-          ]
+          ],
+          "idFilmBoxoffice": 802
         }
       ],
       "mention": "Ouverture de la rétrospective"
@@ -291,7 +292,8 @@
               "duree": 63,
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 128560
         }
       ]
     },
@@ -357,7 +359,7 @@
         {
           "ordre": 1,
           "idFilm": 70690,
-          "titre": "Premier gars",
+          "titre": "Premier Gars",
           "art": "Le",
           "titreVo": "Pervij paren",
           "realisateurs": "Serguei Paradjanov",
@@ -378,7 +380,8 @@
               "duree": 83,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 100631
         }
       ]
     },
@@ -548,7 +551,8 @@
               "format": "35 mm",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 83155
         }
       ]
     },
@@ -713,7 +717,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 4226
         }
       ]
     },
@@ -793,7 +798,8 @@
               "idCopie": 28231,
               "duree": 90
             }
-          ]
+          ],
+          "idFilmBoxoffice": 2370
         }
       ]
     },
@@ -856,7 +862,7 @@
         {
           "ordre": 1,
           "idFilm": 70698,
-          "titre": "Arabesque sue le thème de Pirosmani",
+          "titre": "Arabesque sur le thème de Pirosmani",
           "titreVo": "Arabeski na temu Pirosmani",
           "realisateurs": "Serguei Paradjanov",
           "annee": 1986,
@@ -868,7 +874,8 @@
               "duree": 20,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 8354
         },
         {
           "ordre": 2,
@@ -904,7 +911,8 @@
               "duree": 13,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 49843
         },
         {
           "ordre": 4,
@@ -920,7 +928,8 @@
               "duree": 9,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 49840
         },
         {
           "ordre": 5,
@@ -1032,7 +1041,8 @@
         {
           "idCycle": 796,
           "idCategorie": 3469,
-          "titreCycle": "Sergueï Paradjanov"
+          "titreCycle": "Sergueï Paradjanov",
+          "titreSousCycle": "Autour de Sergueï Paradjanov"
         }
       ],
       "idEvenement": 31464,
@@ -1054,7 +1064,8 @@
               "duree": 70,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 8762
         }
       ]
     },
@@ -1099,7 +1110,8 @@
         {
           "idCycle": 796,
           "idCategorie": 3469,
-          "titreCycle": "Sergueï Paradjanov"
+          "titreCycle": "Sergueï Paradjanov",
+          "titreSousCycle": "Autour de Sergueï Paradjanov"
         }
       ],
       "idEvenement": 31490,
@@ -1115,7 +1127,8 @@
           "annee": 2003,
           "synopsis": "texte",
           "status": 0,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 4367
         }
       ]
     },
@@ -1233,7 +1246,8 @@
               "idCopie": 28174,
               "duree": 97
             }
-          ]
+          ],
+          "idFilmBoxoffice": 802
         }
       ]
     },
@@ -1456,7 +1470,8 @@
               "idCopie": 28231,
               "duree": 90
             }
-          ]
+          ],
+          "idFilmBoxoffice": 2370
         }
       ]
     },
@@ -1580,7 +1595,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 4226
         }
       ]
     },
@@ -2155,9 +2171,15 @@
           "titre": "Jenny",
           "realisateurs": "Marcel Carné",
           "annee": 1936,
+          "duree": 105,
           "adaptation": "D'après le roman _Prison de velours_ de Pierre Rocher.",
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28636,
+              "duree": 105
+            }
+          ]
         }
       ]
     },
@@ -2358,12 +2380,6 @@
               "sousTitres": "Autres"
             },
             {
-              "idCopie": 28563,
-              "duree": 92,
-              "format": "16 mm",
-              "version": "VO"
-            },
-            {
               "idCopie": 28443,
               "duree": 92,
               "format": "Numérique",
@@ -2399,11 +2415,6 @@
           "synopsis": "Alors que leur patron est en fuite, les ouvriers d'une imprimerie créent une coopérative.",
           "status": 1,
           "copies": [
-            {
-              "idCopie": 14999,
-              "duree": 84,
-              "format": "35 mm"
-            },
             {
               "idCopie": 15685,
               "duree": 84,
@@ -2674,17 +2685,11 @@
           "art": "Le",
           "realisateurs": "Marcel Carné",
           "annee": 1939,
-          "duree": 87,
+          "duree": 89,
           "generique": "Jean Gabin, Jules Berry, Jacqueline Laurent, Arletty",
           "synopsis": "Barricadé dans sa chambre, un homme se remémore les circonstances qui l'ont conduit au meurtre d'un infâme dresseur de chiens.",
           "status": 1,
           "copies": [
-            {
-              "idCopie": 3650,
-              "duree": 87,
-              "format": "35 mm",
-              "langCopie": "FRE"
-            },
             {
               "idCopie": 16401,
               "duree": 89,
@@ -2808,12 +2813,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 18387,
-              "duree": 120,
-              "format": "35 mm",
-              "langCopie": "FRE"
-            },
-            {
               "idCopie": 18573,
               "duree": 120,
               "format": "DCP",
@@ -2892,18 +2891,9 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 21123,
-              "duree": 108,
-              "format": "35 mm"
-            },
-            {
               "idCopie": 1499,
               "duree": 108,
               "format": "DCP"
-            },
-            {
-              "idCopie": 17687,
-              "duree": 112
             }
           ],
           "idFilmBoxoffice": 2174
@@ -2977,13 +2967,6 @@
           "duree": 111,
           "status": 0,
           "copies": [
-            {
-              "idCopie": 28599,
-              "duree": 111,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
             {
               "idCopie": 28418,
               "duree": 111,
@@ -3531,6 +3514,47 @@
       ]
     },
     {
+      "idSeance": 137808,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3040,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31407,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-01T16:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 29587,
+          "titre": "Porte du paradis",
+          "art": "La",
+          "titreVo": "Heaven's Gate",
+          "realisateurs": "Michael Cimino",
+          "annee": 1979,
+          "duree": 215,
+          "generique": "Kris Kristofferson, Christopher Walken, John Hurt, Isabelle Huppert",
+          "synopsis": "En 1890, dans le nouvel État du Wyoming, de gros propriétaires de bétail entrent en guerre contre des immigrants venus d'Europe centrale.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 10062,
+              "duree": 215,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 137843,
       "idProg": 184,
       "idCycleCategories": [
@@ -3568,6 +3592,47 @@
           ]
         }
       ]
+    },
+    {
+      "idSeance": 137846,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31370,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-02T19:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35835,
+          "titre": "Laura",
+          "realisateurs": "Otto Preminger",
+          "annee": 1944,
+          "duree": 88,
+          "generique": "Gene Tierney, Dana Andrews, Clifton Webb",
+          "adaptation": "D'après le roman _Laura_ de Vera Caspary.",
+          "synopsis": "Un détective, qui enquête sur un meurtre, devient obsédé par un tableau représentant la victime, une séduisante jeune femme.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28471,
+              "duree": 88,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
     },
     {
       "idSeance": 145328,
@@ -3679,6 +3744,13 @@
           "status": 0,
           "copies": [
             {
+              "idCopie": 28640,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ITA"
+            },
+            {
               "idCopie": 28406,
               "duree": 100
             }
@@ -3693,7 +3765,9 @@
       "idCycleCategories": [
         {
           "idCycle": 416,
-          "idCategorie": 1847
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31364,
@@ -3717,6 +3791,45 @@
               "duree": 76,
               "version": "VO",
               "langCopie": "GER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137928,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3448,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31255,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-04T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43177,
+          "titre": "Enquête sur un citoyen au-dessus de tout soupçon",
+          "titreVo": "Indagine su un cittadino al di sopra di ogni sospetto",
+          "realisateurs": "Elio Petri",
+          "annee": 1969,
+          "duree": 115,
+          "generique": "Gian Maria Volonté, Florinda Bolkan, Salvo Randone",
+          "synopsis": "En Italie, au début des années 1970, le chef de la brigade criminelle est sur le point d'être promu au poste de directeur de la section politique. Persuadé que ses fonctions le placent au-dessus des lois, il égorge sa maîtresse au cours de leurs joutes amoureuses.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28410,
+              "duree": 115,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -3754,6 +3867,1339 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137926,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31361,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-04T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35816,
+          "titre": "Crime passionnel",
+          "titreVo": "Fallen Angel",
+          "realisateurs": "Otto Preminger",
+          "annee": 1945,
+          "duree": 101,
+          "generique": "Alice Faye, Dana Andrews, Linda Darnell, Charles Bickford, John Carradine",
+          "adaptation": "D'après le roman _Fallen angel_ de Marty Holland.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28468,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137931,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3448,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31250,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-04T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43162,
+          "titre": "Assassin",
+          "art": "L'",
+          "titreVo": "Assassino",
+          "artVo": "L'",
+          "realisateurs": "Elio Petri",
+          "annee": 1960,
+          "duree": 100,
+          "generique": "Marcello Mastroianni, Micheline Presle, Cristina Gaioni",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28407,
+              "duree": 100,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STA",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137927,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31363,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-04T19:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35815,
+          "titre": "Femme ou maîtresse",
+          "titreVo": "Daisy Kenyon",
+          "realisateurs": "Otto Preminger",
+          "annee": 1947,
+          "duree": 99,
+          "generique": "Joan Crawford, Dana Andrews, Henry Fonda",
+          "adaptation": "D'après le roman _Daisy Kenyon_ d'Elizabeth Janeway.",
+          "synopsis": "Daisy, dessinatrice réputée, est la maîtresse d'un puissant avocat, Dan O'Mara, qui ne se résout pas à quitter sa femme. Daisy accepte difficilement cette situation, remise en question par la présence d'un nouvel homme dans sa vie.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 17318,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137932,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3448,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31259,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-04T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41991,
+          "titre": "Maestro di Vigevano",
+          "art": "Il",
+          "realisateurs": "Elio Petri",
+          "annee": 1963,
+          "duree": 113,
+          "generique": "Alberto Sordi, Claire Bloom",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28405,
+              "duree": 113
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137943,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31375,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-05T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34502,
+          "titre": "Mystérieux docteur Korvo",
+          "art": "Le",
+          "titreVo": "Whirlpool",
+          "realisateurs": "Otto Preminger",
+          "annee": 1949,
+          "duree": 97,
+          "generique": "Gene Tierney, Richard Conte, José Ferrer, Charles Bickford",
+          "adaptation": "D'après le roman _Methinks the Lady_ de Guy Endore.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28484,
+              "duree": 97,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28616,
+              "duree": 97,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137944,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31374,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-05T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34844,
+          "titre": "Mark Dixon détective",
+          "titreVo": "Where the Sidewalk Ends",
+          "realisateurs": "Otto Preminger",
+          "annee": 1950,
+          "duree": 95,
+          "generique": "Dana Andrews, Gene Tierney, Gary Merrill",
+          "adaptation": "D'après le roman _Night Cry_ de William L. Stuart.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28483,
+              "duree": 95,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28615,
+              "duree": 95,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28481,
+              "duree": 95,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 28482,
+              "duree": 95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137949,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3448,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31253,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-05T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43168,
+          "titre": "Dixième victime",
+          "art": "La",
+          "titreVo": "Decima vittima",
+          "artVo": "La",
+          "realisateurs": "Elio Petri",
+          "annee": 1965,
+          "duree": 92,
+          "generique": "Marcello Mastroianni, Ursula Andress, Elsa Martinelli",
+          "synopsis": "Dans un futur proche, sont régulièrement organisées des chasses à l'homme, pendant lesquelles les meurtres sont autorisés, afin de canaliser l'agressivité et la violence des êtres humains.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28413,
+              "duree": 92,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ITA",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137945,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31387,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-05T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35808,
+          "titre": "Un si doux visage",
+          "titreVo": "Angel Face",
+          "realisateurs": "Otto Preminger",
+          "annee": 1952,
+          "duree": 90,
+          "generique": "Robert Mitchum, Jean Simmons, Herbert Marshall",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28508,
+              "duree": 90
+            },
+            {
+              "idCopie": 28509,
+              "duree": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137950,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3448,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31249,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-05T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43154,
+          "titre": "À chacun son dû",
+          "titreVo": "A ciascuno il suo",
+          "realisateurs": "Elio Petri",
+          "annee": 1966,
+          "duree": 99,
+          "generique": "Gian Maria Volonté, Irène Papas, Gabriele Ferzetti",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28404,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 131347
+        }
+      ]
+    },
+    {
+      "idSeance": 137958,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3448,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31256,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-06T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41994,
+          "titre": "Un coin tranquille à la campagne",
+          "titreVo": "Un tranquillo posto di campagna",
+          "realisateurs": "Elio Petri",
+          "annee": 1968,
+          "duree": 105,
+          "generique": "Franco Nero, Vanessa Redgrave, Georges Géret",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28403,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137959,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31384,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-06T20:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34501,
+          "titre": "Under Your Spell",
+          "realisateurs": "Otto Preminger",
+          "annee": 1936,
+          "duree": 62,
+          "generique": "Lawrence Tibbett, Gregory Ratoff, Wendy Barrie",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28510,
+              "duree": 62,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 28620,
+              "duree": 62,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            },
+            {
+              "idCopie": 28511,
+              "duree": 62,
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137993,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31369,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-08T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32568,
+          "titre": "Ambre",
+          "titreVo": "Forever Amber",
+          "realisateurs": "Otto Preminger",
+          "annee": 1946,
+          "duree": 140,
+          "generique": "Linda Darnell, Cornel Wilde, George Sanders",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28469,
+              "duree": 140,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137996,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3448,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31252,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-08T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43163,
+          "titre": "Classe ouvrière va au paradis",
+          "art": "La",
+          "titreVo": "Classe operaia va in paradiso",
+          "artVo": "La",
+          "realisateurs": "Elio Petri",
+          "annee": 1970,
+          "duree": 125,
+          "generique": "Gian Maria Volonté, Mariangela Melato, Salvo Randone",
+          "synopsis": "Un ouvrier communiste et taciturne perd un doigt lors d'un accident du travail et découvre à cette occasion la solidarité avec ses compagnons d'usine.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28408,
+              "duree": 125,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137994,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31352,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-08T20:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33920,
+          "titre": "Dame au manteau d'hermine",
+          "art": "La",
+          "titreVo": "That Lady in Ermine",
+          "realisateurs": "Ernst Lubitsch, Otto Preminger",
+          "annee": 1947,
+          "duree": 90,
+          "generique": "Betty Grable, Douglas Fairbanks Jr., Cesar Romero",
+          "adaptation": "D'après l'opérette _Die Frau im Hermelin_ d'Ernst Welisch et Rudolf Schanzer.",
+          "synopsis": "1861, Italie du Nord. L'armée hongroise assiège le château de la comtesse Angelina. Dans la galerie des ancêtres, Francesca, aïeule d'Angelina, revient à la vie pour sauver la situation, comme elle l'avait fait 300 ans auparavant.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 11751,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137997,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3448,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31258,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-08T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 70058,
+          "titre": "Propriété, c'est plus le vol",
+          "art": "La",
+          "titreVo": "Proprieta non è piu un furto",
+          "artVo": "La",
+          "realisateurs": "Elio Petri",
+          "annee": 1972,
+          "duree": 126,
+          "generique": "Ugo Tognazzi, Daria Nicolodi, Flavio Bucci",
+          "synopsis": "Total, un employé de banque allergique à l'argent, prend plaisir à voler un riche boucher de Rome en le dépossédant de ses objets les plus précieux.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 2990,
+              "duree": 126,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ITA",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 145385,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31371,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-09T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45927,
+          "titre": "Lune était bleue",
+          "art": "La",
+          "titreVo": "Moon Is Blue",
+          "artVo": "The",
+          "realisateurs": "Otto Preminger",
+          "annee": 1953,
+          "duree": 99,
+          "generique": "William Holden, David Niven, Maggie McNamara",
+          "adaptation": "D'après la pièce _The Moon is blue_ de F. Hugh Herbert.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 11858,
+              "duree": 99,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 28486,
+              "duree": 99,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138029,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3448,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31254,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-09T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42704,
+          "titre": "Todo modo",
+          "realisateurs": "Elio Petri",
+          "annee": 1976,
+          "duree": 130,
+          "generique": "Marcello Mastroianni, Gian Maria Volonté, Mariangela Melato",
+          "adaptation": "D'après le roman _Todo modo_ de Leonardo Sciascia.",
+          "miniTexte": "Inspirée du roman de Sciascia, une fable noire qui décrit la retraite spirituelle d'hommes du parti chrétien-démocrate dans les souterrains d'un hôtel, tandis qu'une épidémie décime la population. Au plus fort des années de plomb, Petri tire à boulets rouges sur la classe politique dirigeante de son pays, dans un huis clos aussi grotesque que sanglant.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28068,
+              "duree": 130,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ITA",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 2820
+        }
+      ]
+    },
+    {
+      "idSeance": 145386,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31388,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-09T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34877,
+          "titre": "Rivière sans retour",
+          "titreVo": "River of No Return",
+          "realisateurs": "Otto Preminger",
+          "annee": 1954,
+          "duree": 91,
+          "generique": "Marilyn Monroe, Robert Mitchum, Rory Calhoun",
+          "synopsis": "À sa sortie de prison, Matt Calder retourne dans un camp de chercheurs d'or pour récupérer son fils Mark, qui a été recueilli par Kay, une chanteuse de saloon.",
+          "commentaire": "Lié par contrat à la Fox, Otto Preminger accepte cette dernière commande dont il apprécie la distribution et les conditions de tournage en extérieurs, au Canada. Unique western de Preminger et de Marilyn Monroe, _Rivière sans retour_ est l'un des premiers films en CinemaScope, procédé apparu en 1953. Alliant un négatif Eastmancolor (au cadre anamorphique au tournage) et un tirage de copies par imbibition en Technicolor, le chef opérateur Joseph LaShelle utilise avec brio les deux techniques. LaShelle joue sur une grande profondeur de champ, que l'ancien système en Technicolor trichrome ne permettait pas, magnifiant les paysages naturels, et les scènes de nuit bénéficient d'un rendu exceptionnel. Les travellings et de longs mouvements à la grue firent dire à François Truffaut qu'il s'agit du premier « CinemaScope mouvant ». Truffaut ajoutait : « _Rivière sans retour_ n'a que le plaisir des yeux pour objet et la beauté de chaque plan pour justification du plaisir. »\n\nEmmanuelle Berthault",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 24797,
+              "duree": 91,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 145384,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3448,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31251,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-09T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 71313,
+          "titre": "Buone notizie",
+          "realisateurs": "Elio Petri",
+          "annee": 1979,
+          "duree": 106,
+          "generique": "Giancarlo Giannini, Ángela Molina, Aurore Clément",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28402,
+              "duree": 106,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STA",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138072,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31359,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-10T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35607,
+          "titre": "Carmen Jones",
+          "realisateurs": "Otto Preminger",
+          "annee": 1954,
+          "duree": 107,
+          "generique": "Dorothy Dandridge, Harry Belafonte, Olga James",
+          "adaptation": "D'après la comédie musicale _Carmen_ d'Oscar Hammerstein.  \nD'après le roman _Carmen_ de Prosper Mérimée.  \nD'après l'opéra-comique _Carmen_ de Georges Bizet.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28470,
+              "duree": 107,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138073,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31366,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-10T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44907,
+          "titre": "Homme au bras d'or",
+          "art": "L'",
+          "titreVo": "Man with the Golden Arm",
+          "artVo": "The",
+          "realisateurs": "Otto Preminger",
+          "annee": 1955,
+          "duree": 119,
+          "generique": "Frank Sinatra, Kim Novak, Eleanor Parker, Arnold Stang",
+          "adaptation": "D'après le roman _The Man with the golden arm_ de Nelson Algren.",
+          "synopsis": "Après un séjour dans un centre de désintoxication, Frankie Machine revient dans son quartier et essaie de devenir batteur de jazz.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 6941,
+              "duree": 119,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28474,
+              "duree": 119,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138112,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31355,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-11T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35812,
+          "titre": "Condamné au silence",
+          "titreVo": "Court Martial of Billy Mitchell",
+          "artVo": "The",
+          "realisateurs": "Otto Preminger",
+          "annee": 1955,
+          "duree": 100,
+          "generique": "Gary Cooper, Charles Bickford, Ralph Bellamy, Rod Steiger",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28455,
+              "duree": 100
+            },
+            {
+              "idCopie": 28625,
+              "duree": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138116,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3480,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Courts métrages"
+        }
+      ],
+      "idEvenement": 31518,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-11T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 97271,
+          "titre": "Nasce un campione",
+          "realisateurs": "Elio Petri",
+          "annee": 1954,
+          "duree": 11,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28634,
+              "duree": 11,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ITA",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 66928,
+          "titre": "Sette contadini",
+          "art": "I",
+          "realisateurs": "Elio Petri",
+          "annee": 1958,
+          "duree": 11,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28635,
+              "duree": 11,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 154974,
+          "titre": "Italia con Togliatti",
+          "art": "L'",
+          "realisateurs": "Gianni Amico, Elio Petri, Paolo Taviani, [etc.]",
+          "annee": 1964,
+          "duree": 38,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28639,
+              "duree": 38,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "ITA"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 147132,
+          "titre": "Documenti su Giuseppe Pinelli : Tre ipotesi sulla morte di Giuseppe Pinelli",
+          "realisateurs": "Elio Petri",
+          "annee": 1970,
+          "duree": 13,
+          "generique": "Gian Maria Volonté",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28633,
+              "duree": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138113,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31382,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-11T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45857,
+          "titre": "Sainte Jeanne",
+          "titreVo": "Saint Joan",
+          "realisateurs": "Otto Preminger",
+          "annee": 1957,
+          "duree": 110,
+          "generique": "Jean Seberg, Richard Widmark, John Gielgud",
+          "adaptation": "D'après la pièce _Saint Joan_ de George Bernard Shaw.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28487,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28501,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138114,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31353,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-11T19:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45923,
+          "titre": "Bonjour Tristesse",
+          "realisateurs": "Otto Preminger",
+          "annee": 1957,
+          "duree": 93,
+          "generique": "Deborah Kerr, David Niven, Jean Seberg",
+          "adaptation": "D'après le roman _Bonjour tristesse_ de Françoise Sagan.",
+          "synopsis": "Cécile, 18 ans, vit avec son père Raymond, un riche et séduisant veuf. À l'exemple de son père, la vie de Cécile ne semble être que futilités. Car quelque chose s'est brisé en elle durant leurs dernières vacances.\n\n---\n\nDepuis un été sur la Côte, où Cécile menait avec son père une vie légère et douce, la jeune parisienne a perdu sa joie de vivre.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 5382,
+              "duree": 93,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 11072,
+              "duree": 93,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138117,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3448,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31255,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-11T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43177,
+          "titre": "Enquête sur un citoyen au-dessus de tout soupçon",
+          "titreVo": "Indagine su un cittadino al di sopra di ogni sospetto",
+          "realisateurs": "Elio Petri",
+          "annee": 1969,
+          "duree": 115,
+          "generique": "Gian Maria Volonté, Florinda Bolkan, Salvo Randone",
+          "synopsis": "En Italie, au début des années 1970, le chef de la brigade criminelle est sur le point d'être promu au poste de directeur de la section politique. Persuadé que ses fonctions le placent au-dessus des lois, il égorge sa maîtresse au cours de leurs joutes amoureuses.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28410,
+              "duree": 115,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138118,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3448,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31252,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-11T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43163,
+          "titre": "Classe ouvrière va au paradis",
+          "art": "La",
+          "titreVo": "Classe operaia va in paradiso",
+          "artVo": "La",
+          "realisateurs": "Elio Petri",
+          "annee": 1970,
+          "duree": 125,
+          "generique": "Gian Maria Volonté, Mariangela Melato, Salvo Randone",
+          "synopsis": "Un ouvrier communiste et taciturne perd un doigt lors d'un accident du travail et découvre à cette occasion la solidarité avec ses compagnons d'usine.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28408,
+              "duree": 125,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 145387,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31357,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-12T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35800,
+          "titre": "Autopsie d'un meurtre",
+          "titreVo": "Anatomy of a Murder",
+          "realisateurs": "Otto Preminger",
+          "annee": 1959,
+          "duree": 160,
+          "generique": "James Stewart, Lee Remick, Ben Gazzara",
+          "adaptation": "D'après le roman _Anatomy of a murder_ de Robert Traver.",
+          "synopsis": "Accusé d'avoir tué le violeur de sa femme, le lieutenant Frederick Manion plaide non coupable, se disant victime d'une « impulsion irrésistible ». Le procès commence et la vérité a du mal à émerger.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 14747,
+              "duree": 160,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138135,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3448,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31259,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-12T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41991,
+          "titre": "Maestro di Vigevano",
+          "art": "Il",
+          "realisateurs": "Elio Petri",
+          "annee": 1963,
+          "duree": 113,
+          "generique": "Alberto Sordi, Claire Bloom",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28405,
+              "duree": 113
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138130,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31389,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-12T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34443,
+          "titre": "Porgy and Bess",
+          "realisateurs": "Otto Preminger, Rouben Mamoulian",
+          "annee": 1958,
+          "duree": 136,
+          "generique": "Sidney Poitier, Dorothy Dandridge, Sammy Davis Jr.",
+          "adaptation": "D'après le drame musical _Porgy and Bess_ de George Gershwin.  \nD'après le drame musical _Porgy and Bess_ et le roman _Porgy_ de DuBose Heyward.  \nD'après le roman _Porgy_ de Dorothy Heyward.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28485,
+              "duree": 136,
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138136,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3448,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31257,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-12T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 71808,
+          "titre": "Jours comptés",
+          "art": "Les",
+          "titreVo": "Giorni contati",
+          "artVo": "I",
+          "realisateurs": "Elio Petri",
+          "annee": 1961,
+          "duree": 100,
+          "generique": "Salvo Randone, Regina Bianchi, Franco Sportelli",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28640,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ITA"
+            },
+            {
+              "idCopie": 28406,
+              "duree": 100
             }
           ]
         }

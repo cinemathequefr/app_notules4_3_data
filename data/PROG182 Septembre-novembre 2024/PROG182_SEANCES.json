@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-08-08T19:48:16.845Z",
+  "updatedAt": "2024-08-26T08:21:26.071Z",
   "data": [
     {
       "idSeance": 130975,
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "idSeance": 133780,
+      "idSeance": 145381,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -223,31 +223,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30742,
+      "idEvenement": 30717,
       "typeEvenement": 13,
       "dateHeure": "2024-08-30T15:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 80554,
-          "titre": "Tarnished Lady",
+          "idFilm": 31406,
+          "titre": "Il était une fois",
+          "titreVo": "A Woman's Face",
           "realisateurs": "George Cukor",
-          "annee": 1931,
-          "duree": 85,
-          "generique": "Tallulah Bankhead, Clive Brook, Phoebe Foster",
-          "miniTexte": "Débuts en solo derrière la caméra pour Cukor, premier film parlant de la star de Broadway Tallulah Bankhead. Issue d'une famille aisée désormais ruinée, une mondaine épouse un homme fortuné, qu'elle n'aime évidemment pas. Derrière le mélo classique, une étude sur les apparences sociales dans la bonne société new-yorkaise, rehaussée de l'humour cassant du cinéaste.",
+          "annee": 1941,
+          "duree": 105,
+          "generique": "Joan Crawford, Melvyn Douglas, Conrad Veidt",
+          "adaptation": "D'après la pièce _Il était une fois_ de Francis de Croisset.",
+          "miniTexte": "Défigurée dans l'enfance, Anna Holm se livre au chantage, mais une opération de chirurgie esthétique change son regard sur la vie. Meurtrie et troublante, Joan Crawford reprend le rôle endossé par Ingrid Bergman dans _Visage de femme_ (1938). Construite en flashbacks et clairs-obscurs, une méditation mélancolique sur la seconde chance.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28224,
-              "duree": 85,
+              "idCopie": 27927,
+              "duree": 105,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 118986
+          "idFilmBoxoffice": 23747
         }
       ]
     },
@@ -2045,7 +2047,7 @@
             {
               "idCopie": 26874,
               "duree": 9,
-              "format": "35 mm"
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 109954
@@ -3684,7 +3686,7 @@
       "mention": "Séance suivie d'une discussion avec Patric Chiha et Béatrice Dalle"
     },
     {
-      "idSeance": 144476,
+      "idSeance": 145382,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -3694,32 +3696,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30712,
+      "idEvenement": 30727,
       "typeEvenement": 13,
       "dateHeure": "2024-09-16T20:30:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 80552,
-          "titre": "Grumpy",
-          "realisateurs": "George Cukor, Cyril Gardner",
-          "annee": 1930,
-          "duree": 74,
-          "generique": "Cyril Maude, Phillips Holmes, Frances Dade",
-          "adaptation": "D'après la pièce _Grumpy, a play in four acts_ de Horace Hodges et Thomas Wigney Percyval.",
-          "miniTexte": "Les débuts de Cukor, assisté de Cyril Gardner qui apporte sa science du montage. Après les planches, Cyril Maude reprend son rôle de vieillard grincheux (« _grumpy_ »), lancé dans une enquête sur un vol de diamant. Si sa diction _british_ frise la caricature, les dialogues sont drôles, et Cukor montre déjà une certaine habileté dans la direction d'acteurs.",
+          "idFilm": 31438,
+          "titre": "Mademoiselle Gagne-Tout",
+          "titreVo": "Pat and Mike",
+          "realisateurs": "George Cukor",
+          "annee": 1952,
+          "duree": 95,
+          "generique": "Katharine Hepburn, Spencer Tracy, Aldo Ray",
+          "miniTexte": "Une prof de gym est repérée par un manager, qui va faire d'elle une sportive professionnelle. La question de l'émancipation et de l'égalité femme/homme, à travers le prisme d'un milieu notoirement misogyne. Hepburn évolue avec assurance parmi quelques authentiques athlètes, dans une comédie audacieuse pour l'époque.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28222,
-              "duree": 74,
+              "idCopie": 8504,
+              "duree": 95,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 118874
+          "idFilmBoxoffice": 2559
         }
       ]
     },
@@ -4108,6 +4111,7 @@
           "generique": "Marilyn Monroe, Yves Montand, Tony Randall",
           "synopsis": "À la tête d'une puissante compagnie internationale, Jean-Marc Clément règne sur la bourse de New York et multiplie les conquêtes féminines. Apprenant un jour qu'il va être pris pour cible par un spectacle satirique de Broadway, il décide d'intégrer la troupe incognito.",
           "miniTexte": "« _My Heart Belongs to Daddy_ », chante Marilyn. Dans un rôle sur mesure, la star éblouit Montand, et leur relation à la ville crève l'écran. Cukor se penche une nouvelle fois sur le monde du théâtre et, dans leurs propres rôles, Gene Kelly, Bing Crosby et le roi du stand-up Milton Berle illuminent ce conte de fées en forme de vaudeville.",
+          "commentaire": "Cukor décrit le monde du théâtre qu'il affectionne, et orchestre brillamment ce conte de fées en forme de vaudeville, ponctué de morceaux de roi : dans leurs propres rôles, Gene Kelly, Bing Crosby et le roi du stand-up Milton Berle. Montand séduit la candide Marilyn, ici dans un rôle qui lui ressemble furieusement. _« My Heart Belongs to Daddy »_, chante la star, alors au sommet, tandis qu'en filigrane la relation connue entre les deux acteurs semble habiter leur couple à l'écran.\\n\\n« Marilyn Monroe et moi, c'est une sorte de secret qui nous a rapprochés mutuellement. D'abord du milieu populaire d'où on venait l'un et l'autre. C'est parce qu'elle avait terriblement peur qu'elle arrivait en retard sur le plateau, et non pas pour faire des caprices de vedette. Dans l'intimité, elle était quelqu'un tout ce qu'il y a de plus normal. Mais c'était un personnage vivant. Il faut dire qu'à ce moment-là, le film que nous faisions était un film qu'elle aimait beaucoup, auquel elle croyait beaucoup, parce que pour une fois elle se sentait en sécurité, c'est-à-dire qu'elle n'avait pas de comédiens d'Hollywood autour d'elle. Certains avaient tendance à se moquer d'elle. Mais là, elle avait quelqu'un qui venait d'Europe, quelqu'un qui lui avait dit, dès le premier jour : Vous avez peur, mais moi je tremble. » (Yves Montand)",
           "status": 2,
           "copies": [
             {
@@ -7816,7 +7820,7 @@
       ]
     },
     {
-      "idSeance": 133967,
+      "idSeance": 145383,
       "idProg": 182,
       "idCycleCategories": [
         {
@@ -7826,34 +7830,34 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 30706,
+      "idEvenement": 30745,
       "typeEvenement": 13,
       "dateHeure": "2024-10-07T18:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 31437,
-          "titre": "Diablesse en collant rose",
-          "art": "La",
-          "titreVo": "Heller in Pink Tights",
+          "idFilm": 56960,
+          "titre": "Vacances",
+          "titreVo": "Holiday",
           "realisateurs": "George Cukor",
-          "annee": 1960,
-          "duree": 100,
-          "generique": "Anthony Quinn, Sophia Loren, Steve Forrest",
-          "adaptation": "D'après le roman _La Diablesse en collant rose_ de Louis L'Amour.",
-          "miniTexte": "Le jeu sensible d'Anthony Quinn, Sophia Loren en perruque blonde, des rivalités amoureuses au sein d'une troupe de théâtre ambulant. Un mélo au sous-texte équivoque, drapé dans les atours du western, et qui témoigne de l'évolution du cinéaste, des pimpantes satires de ses débuts à cet essai (transformé) en forme de bilan mélancolique.",
+          "annee": 1938,
+          "duree": 96,
+          "generique": "Katharine Hepburn, Cary Grant, Doris Nolan",
+          "adaptation": "D'après la pièce _Vacances_ de Philip Barry.",
+          "miniTexte": "Enlevé. Brillant. Sophistiqué. L'insouciant Johnny Case s'éprend d'une riche héritière, quand surgit dans l'équation la sœur de sa fiancée. L'épicurien et la fantasque, prisonnière des carcans familiaux, se retrouvent dans une même soif de liberté. Les dialogues fusent comme des balles entre deux scènes de badinage compassé, la mécanique est parfaitement huilée, qui repose sur la complicité naturelle entre Cary Grant et Katharine Hepburn. Cukor se délecte en retrouvant trois ans après _Sylvia Scarlett_ son duo fétiche, qui fait des étincelles. L'histoire d'une libération, le portrait de deux êtres littéralement hors normes, et, derrière la comédie matrimoniale, une critique intelligente et bourrée d'humour du capitalisme et du conformisme bourgeois.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28212,
-              "duree": 100,
+              "idCopie": 26417,
+              "duree": 96,
               "format": "35 mm",
               "version": "VO",
-              "stDemande": true
+              "langCopie": "ENG",
+              "sousTitres": "STF"
             }
           ],
-          "idFilmBoxoffice": 37407
+          "idFilmBoxoffice": 4731
         }
       ]
     },
