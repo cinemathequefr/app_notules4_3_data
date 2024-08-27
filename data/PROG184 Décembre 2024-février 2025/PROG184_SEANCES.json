@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-08-26T11:00:52.755Z",
+  "updatedAt": "2024-08-26T15:11:33.753Z",
   "data": [
     {
       "idSeance": 137066,
@@ -1098,7 +1098,8 @@
           "generique": "James Caan, Paul Sorvino, Lauren Hutton",
           "synopsis": "Alex Freed est professeur de littérature. Cependant il a un vice qui lui fait perdre tout son argent et l'affection de ses proches: le jeu.",
           "status": 0,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 49931
         }
       ],
       "mention": "Ouverture de la rétrospective"
@@ -1155,7 +1156,8 @@
           "realisateurs": "Karel Reisz, Tony Richardson",
           "annee": 1956,
           "status": 0,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 29735
         }
       ]
     },
@@ -1420,14 +1422,15 @@
         {
           "ordre": 1,
           "idFilm": 54601,
-          "titre": "Samedi soir et dimanche matin",
+          "titre": "Samedi soir, dimanche matin",
           "titreVo": "Saturday Night and Sunday Morning",
           "realisateurs": "Karel Reisz",
           "annee": 1960,
           "adaptation": "D'après le roman _Saturday Night and Sunday Morning_ d'Alan Sillitoe.",
           "synopsis": "Jeune ouvrier révolté, Arthur a pour maîtresse Brenda, la femme de l'un de ses collègues, plus âgée que lui.",
           "status": 0,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 28071
         }
       ]
     },
@@ -1550,7 +1553,8 @@
               "version": "VO",
               "langCopie": "ENG"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 69654
         }
       ]
     },
@@ -1626,7 +1630,8 @@
           "annee": 1977,
           "adaptation": "D'après le roman _Dog Soldiers_ de Robert Stone.",
           "status": 0,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 49932
         }
       ]
     },
@@ -1734,7 +1739,8 @@
           "realisateurs": "Karel Reisz",
           "annee": 1965,
           "status": 0,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 9705
         }
       ]
     },
@@ -1817,7 +1823,8 @@
               "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 8379
         }
       ]
     },
@@ -1848,7 +1855,8 @@
           "annee": 1980,
           "adaptation": "D'après le roman _The French Lieutenant's Woman_ de John Fowles.",
           "status": 0,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 26653
         }
       ]
     },
@@ -1886,7 +1894,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 31410
         }
       ]
     },
@@ -1969,7 +1978,8 @@
               "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 49933
         }
       ]
     },
@@ -2147,12 +2157,13 @@
           "generique": "James Caan, Paul Sorvino, Lauren Hutton",
           "synopsis": "Alex Freed est professeur de littérature. Cependant il a un vice qui lui fait perdre tout son argent et l'affection de ses proches: le jeu.",
           "status": 0,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 49931
         }
       ]
     },
     {
-      "idSeance": 145331,
+      "idSeance": 174920,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -2318,7 +2329,7 @@
       ],
       "idEvenement": 31260,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-20T20:00:00",
+      "dateHeure": "2024-12-20T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3209,7 +3220,7 @@
       ],
       "idEvenement": 31497,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-28T19:30:00",
+      "dateHeure": "2024-12-28T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3225,14 +3236,14 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 6522,
-              "duree": 120,
-              "format": "35 mm"
-            },
-            {
               "idCopie": 6530,
               "duree": 120,
               "format": "DCP"
+            },
+            {
+              "idCopie": 6522,
+              "duree": 120,
+              "format": "35 mm"
             }
           ]
         }
@@ -4501,6 +4512,44 @@
       ]
     },
     {
+      "idSeance": 145384,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3448,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31251,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-09T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 71313,
+          "titre": "Buone notizie",
+          "realisateurs": "Elio Petri",
+          "annee": 1979,
+          "duree": 106,
+          "generique": "Giancarlo Giannini, Ángela Molina, Aurore Clément",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28402,
+              "duree": 106,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STA",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 145385,
       "idProg": 184,
       "idCycleCategories": [
@@ -4513,7 +4562,7 @@
       ],
       "idEvenement": 31371,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-09T18:00:00",
+      "dateHeure": "2025-01-09T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4557,7 +4606,7 @@
       ],
       "idEvenement": 31254,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-09T18:30:00",
+      "dateHeure": "2025-01-09T20:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4598,7 +4647,7 @@
       ],
       "idEvenement": 31388,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-09T20:15:00",
+      "dateHeure": "2025-01-09T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4626,44 +4675,6 @@
       ]
     },
     {
-      "idSeance": 145384,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 806,
-          "idCategorie": 3448,
-          "titreCycle": "Elio Petri",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31251,
-      "typeEvenement": 13,
-      "dateHeure": "2025-01-09T20:45:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 71313,
-          "titre": "Buone notizie",
-          "realisateurs": "Elio Petri",
-          "annee": 1979,
-          "duree": 106,
-          "generique": "Giancarlo Giannini, Ángela Molina, Aurore Clément",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28402,
-              "duree": 106,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STA",
-              "stDemande": true
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 138072,
       "idProg": 184,
       "idCycleCategories": [
@@ -4676,7 +4687,7 @@
       ],
       "idEvenement": 31359,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-10T19:00:00",
+      "dateHeure": "2025-01-10T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4714,7 +4725,7 @@
       ],
       "idEvenement": 31366,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-10T21:00:00",
+      "dateHeure": "2025-01-10T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4792,7 +4803,7 @@
       ]
     },
     {
-      "idSeance": 138116,
+      "idSeance": 174921,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -4926,6 +4937,45 @@
       ]
     },
     {
+      "idSeance": 138117,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 806,
+          "idCategorie": 3448,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31255,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-11T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43177,
+          "titre": "Enquête sur un citoyen au-dessus de tout soupçon",
+          "titreVo": "Indagine su un cittadino al di sopra di ogni sospetto",
+          "realisateurs": "Elio Petri",
+          "annee": 1969,
+          "duree": 115,
+          "generique": "Gian Maria Volonté, Florinda Bolkan, Salvo Randone",
+          "synopsis": "En Italie, au début des années 1970, le chef de la brigade criminelle est sur le point d'être promu au poste de directeur de la section politique. Persuadé que ses fonctions le placent au-dessus des lois, il égorge sa maîtresse au cours de leurs joutes amoureuses.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28410,
+              "duree": 115,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 138114,
       "idProg": 184,
       "idCycleCategories": [
@@ -4972,45 +5022,6 @@
       ]
     },
     {
-      "idSeance": 138117,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 806,
-          "idCategorie": 3448,
-          "titreCycle": "Elio Petri",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31255,
-      "typeEvenement": 13,
-      "dateHeure": "2025-01-11T19:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 43177,
-          "titre": "Enquête sur un citoyen au-dessus de tout soupçon",
-          "titreVo": "Indagine su un cittadino al di sopra di ogni sospetto",
-          "realisateurs": "Elio Petri",
-          "annee": 1969,
-          "duree": 115,
-          "generique": "Gian Maria Volonté, Florinda Bolkan, Salvo Randone",
-          "synopsis": "En Italie, au début des années 1970, le chef de la brigade criminelle est sur le point d'être promu au poste de directeur de la section politique. Persuadé que ses fonctions le placent au-dessus des lois, il égorge sa maîtresse au cours de leurs joutes amoureuses.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28410,
-              "duree": 115,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 138118,
       "idProg": 184,
       "idCycleCategories": [
@@ -5023,7 +5034,7 @@
       ],
       "idEvenement": 31252,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-11T21:30:00",
+      "dateHeure": "2025-01-11T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -5207,6 +5218,845 @@
       ]
     },
     {
+      "idSeance": 138144,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31360,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-13T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35613,
+          "titre": "Charmante famille",
+          "titreVo": "Danger – Love at Work",
+          "realisateurs": "Otto Preminger",
+          "annee": 1937,
+          "duree": 81,
+          "generique": "Ann Sothern, Jack Haley, Edward Everett Horton, John Carradine",
+          "adaptation": "D'après l'histoire _Marry and Orphan_ de James Edward Grant.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28454,
+              "duree": 81
+            },
+            {
+              "idCopie": 28626,
+              "duree": 81,
+              "format": "16 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138145,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31373,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-13T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34872,
+          "titre": "Margin for Error",
+          "realisateurs": "Otto Preminger",
+          "annee": 1942,
+          "duree": 74,
+          "generique": "Joan Bennett, Otto Preminger, Howard Freeman",
+          "adaptation": "D'après la pièce _Margin for error_ de Clare Boothe Luce.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28478,
+              "duree": 74,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 28480,
+              "duree": 74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138182,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31368,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-15T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35828,
+          "titre": "In the Meantime, Darling",
+          "realisateurs": "Otto Preminger",
+          "annee": 1944,
+          "duree": 72,
+          "generique": "Jeanne Crain, Frank Latimore, Mary Nash",
+          "adaptation": "D'après l'histoire _Army Wives_ de Michael Uris.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28476,
+              "duree": 72,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138180,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 812,
+          "idCategorie": 3466,
+          "titreCycle": "Éric Demarsan"
+        }
+      ],
+      "idEvenement": 31447,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-15T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50136,
+          "titre": "Armée des ombres",
+          "art": "L'",
+          "realisateurs": "Jean-Pierre Melville",
+          "annee": 1969,
+          "duree": 150,
+          "generique": "Lino Ventura, Simone Signoret, Paul Meurisse",
+          "adaptation": "D'après le roman _L'Armée des ombres_ de Joseph Kessel.",
+          "synopsis": "Octobre 1942, en France occupée. Philippe Gerbier, ingénieur soupçonné d'activités dans la Résistance, est arrêté par la police de Vichy et incarcéré dans un camp de prisonniers. Il est ensuite remis par les autorités françaises à la Gestapo et transféré à Paris pour interrogatoire. Mais il parvient à s'évader et à rejoindre son réseau.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 9327,
+              "duree": 150,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 4248
+        }
+      ]
+    },
+    {
+      "idSeance": 138183,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31383,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-15T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35692,
+          "titre": "Scandale à la cour",
+          "titreVo": "A Royal Scandal",
+          "realisateurs": "Otto Preminger",
+          "annee": 1944,
+          "duree": 94,
+          "generique": "Tallulah Bankhead, Charles Coburn, Anne Baxter, Vincent Price",
+          "adaptation": "D'après la pièce _Czarina_ de Lajos Biro et Melchior Lengyel.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28624,
+              "duree": 94,
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 174914,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 812,
+          "idCategorie": 3466,
+          "titreCycle": "Éric Demarsan"
+        }
+      ],
+      "idEvenement": 31492,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-16T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49979,
+          "titre": "Humeur vagabonde",
+          "art": "L'",
+          "realisateurs": "Edouard Luntz",
+          "annee": 1971,
+          "duree": 82,
+          "generique": "Michel Bouquet, Jeanne Moreau, Eric Penet, Madeleine Renaud",
+          "adaptation": "D'après le roman _L'Humeur vagabonde_ d'Antoine Blondin.",
+          "synopsis": "texte",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28606,
+              "duree": 82,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 28607,
+              "duree": 82,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138216,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31362,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-16T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35631,
+          "titre": "Exodus",
+          "realisateurs": "Otto Preminger",
+          "annee": 1960,
+          "duree": 212,
+          "generique": "Paul Newman, Eva Marie Saint, Ralph Richardson",
+          "adaptation": "D'après le roman _Exodus_ de Leon Uris.",
+          "synopsis": "Le film évoque l'histoire de l'Exodus, le bateau qui amène des immigrants juifs en terre d'Israël après la guerre, et le cours des négociations avec les autorités britanniques.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 7696,
+              "duree": 212,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28627,
+              "duree": 212,
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138215,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 812,
+          "idCategorie": 3466,
+          "titreCycle": "Éric Demarsan"
+        }
+      ],
+      "idEvenement": 31449,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-16T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47835,
+          "titre": "Section spéciale",
+          "realisateurs": "Costa-Gavras",
+          "annee": 1974,
+          "generique": "Louis Seigner, Michael Lonsdale, Jacques Perrin",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28536,
+              "duree": 0,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 34266
+        }
+      ]
+    },
+    {
+      "idSeance": 138256,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31386,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-17T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45917,
+          "titre": "Tempête à Washington",
+          "titreVo": "Advise and Consent",
+          "realisateurs": "Otto Preminger",
+          "annee": 1961,
+          "duree": 140,
+          "generique": "Henry Fonda, Charles Laughton, Don Murray, Burgess Meredith, Gene Tierney",
+          "adaptation": "D'après le roman _Advise and Consent_ d'Allen Drury.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28505,
+              "duree": 140,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28617,
+              "duree": 140,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28488,
+              "duree": 140,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138257,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31354,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-17T20:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45924,
+          "titre": "Bunny Lake a disparu",
+          "titreVo": "Bunny Lake Is Missing",
+          "realisateurs": "Otto Preminger",
+          "annee": 1965,
+          "duree": 107,
+          "generique": "Laurence Olivier, Keir Dullea, Carol Lynley",
+          "adaptation": "D'après le roman _Bunny Lake is missing_ d'Evelyn Piper.",
+          "synopsis": "Une mère de famille signale la disparition de sa petite fille Bunny.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28623,
+              "duree": 107,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 14748,
+              "duree": 107,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138302,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 812,
+          "idCategorie": 3466,
+          "titreCycle": "Éric Demarsan"
+        }
+      ],
+      "idEvenement": 31448,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-18T14:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50137,
+          "titre": "Cercle rouge",
+          "art": "Le",
+          "realisateurs": "Jean-Pierre Melville",
+          "annee": 1970,
+          "duree": 150,
+          "generique": "Alain Delon, Bourvil, Gian Maria Volonté, Yves Montand",
+          "synopsis": "Un truand marseillais, un détenu en cavale et un ancien policier préparent le cambriolage de la bijouterie Mauboussin, place Vendôme. Ils sont surveillés par le commissaire Mattei, de la brigade criminelle.",
+          "miniTexte": "Melville nous parle depuis une époque où les gangsters en gants blancs opéraient dans le calme, où un plan en plongée sur une table de billard tenait du génie. Les truands Delon et Montand affrontent Bourvil en commissaire mélancolique, leur jeu est minimaliste, et la sobriété leur va bien. Un polar à l'os, magistral.",
+          "commentaire": "« Il n'y a pas d'innocents, tous les hommes sont coupables. » La démonstration est sèche. Art consommé de l'ellipse, économie de mots et de gestes. Tout est précis, réglé, comme si la réalisation était toute entière tendue vers le hold-up et calquée sur son rythme. Parfois, Melville s'envole, la caméra tourne autour de Delon, danse, presque, avec lui. Puis on repart pour de longues séquences froides, au cordeau. Melville offre une magnifique scène en ombres chinoises sur les toits de la place Vendôme, sur fond de nuit bleutée, nous parle depuis une époque où les gangsters portaient chapeau et gants blancs, opéraient dans le calme. Une époque où un plan en plongée sur une table de billard tenait du génie. Delon, mutique et impassible, serre les poings dans les poches de son imper. Montand, amer, cynique et concentré, joue au petit chimiste dans sa cuisine. Bourvil donne à son personnage de commissaire une étoffe surprenante et pleine de mélancolie. Tous déploient un jeu minimaliste, efficace, et la sobriété leur va bien. Un polar à l'os, un chef-d'œuvre d'épure.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22737,
+              "duree": 150,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 2358
+        }
+      ]
+    },
+    {
+      "idSeance": 138315,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31367,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-18T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 71870,
+          "titre": "Human Factor",
+          "art": "The",
+          "realisateurs": "Otto Preminger",
+          "annee": 1979,
+          "duree": 114,
+          "generique": "Richard Attenborough, Joop Doderer, John Gielgud",
+          "adaptation": "D'après le roman _The Human Factor_ de Graham Greene.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28475,
+              "duree": 114,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28618,
+              "duree": 114,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138316,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31377,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-18T17:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45930,
+          "titre": "Première victoire",
+          "titreVo": "In Harm's Way",
+          "realisateurs": "Otto Preminger",
+          "annee": 1964,
+          "duree": 165,
+          "generique": "John Wayne, Kirk Douglas, Patricia Neal, Dana Andrews",
+          "adaptation": "D'après le roman _In harm's way_ de James Bassett.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28497,
+              "duree": 165,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "Autres"
+            },
+            {
+              "idCopie": 28498,
+              "duree": 165,
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138304,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 812,
+          "idCategorie": 3466,
+          "titreCycle": "Éric Demarsan"
+        }
+      ],
+      "idEvenement": 31450,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-18T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50224,
+          "titre": "Ibis rouge",
+          "art": "L'",
+          "realisateurs": "Jean-Pierre Mocky",
+          "annee": 1975,
+          "duree": 87,
+          "generique": "Michel Simon, Michel Serrault, Evelyne Buyle, Michel Galabru",
+          "adaptation": "D'après le roman _ Knock Three One Two _ de Fredric Brown.",
+          "synopsis": "Tandis que rôde un étrangleur, un homme tente de réunir le montant d'une dette de jeu mettant sa vie en péril.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 4166,
+              "duree": 87,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 4330,
+              "duree": 87,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 4753,
+              "duree": 87,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 2607
+        }
+      ]
+    },
+    {
+      "idSeance": 138317,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31372,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-18T20:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35819,
+          "titre": "Eventail de Lady Windermere",
+          "art": "L'",
+          "titreVo": "Fan",
+          "artVo": "The",
+          "realisateurs": "Otto Preminger",
+          "annee": 1948,
+          "duree": 79,
+          "generique": "Jeanne Crain, Madeleine Carroll, Richard Greene, George Sanders",
+          "adaptation": "D'après la pièce _Lady Windermere's Fan_ d'Oscar Wilde.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28467,
+              "duree": 79,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 174917,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31356,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-19T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35660,
+          "titre": "Cardinal",
+          "art": "Le",
+          "realisateurs": "Otto Preminger",
+          "annee": 1963,
+          "duree": 175,
+          "generique": "John Huston, Romy Schneider, Dorothy Gish, Tom Tryon",
+          "adaptation": "D'après le roman _The Cardinal_ de Henry Morton Robinson.",
+          "synopsis": "Au cours de la première moitié du XX<sup>e</sup> siècle, l'ascension d'un prêtre catholique américain pris dans la tourmente de l'histoire.",
+          "commentaire": "À travers le portrait psychologique d'un homme déchiré entre la foi, l'ambition et le doute, Preminger réalise une fresque monumentale sur les dessous de l'Église catholique en tant qu'institution politique. Statut de la femme, sexualité, ségrégation raciale ou nazisme, le film décortique les grands sujets de société, auxquels le clergé dut se confronter entre 1917 et 1939. Cette épopée humaine, racontée en flashbacks, mène le spectateur de Rome à Boston en passant par Vienne et l'État de Géorgie, alternant les séquences spectaculaires et les scènes plus intimes. Un film d'une grande intelligence, sous-estimé à sa sortie, qui interroge la religion, sans jugement mais avec tranchant.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 9324,
+              "duree": 175,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 23582,
+              "duree": 175,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138321,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 812,
+          "idCategorie": 3466,
+          "titreCycle": "Éric Demarsan"
+        }
+      ],
+      "idEvenement": 31453,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-19T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49773,
+          "titre": "Attention, les enfants regardent",
+          "realisateurs": "Serge Leroy",
+          "annee": 1977,
+          "duree": 103,
+          "generique": "Alain Delon, Sophie Renoir, Richard Constantini",
+          "adaptation": "D'après le roman _The Children Are Watching_ de Laird Koenig et Peter Dixon.",
+          "synopsis": "Quatre enfants laissés à la garde d'une gouvernante en l'absence de leurs parents décident de se débarrasser d'elle. Un homme est témoin de la scène et menace les enfants.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 11832,
+              "duree": 103,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 45176
+        }
+      ]
+    },
+    {
+      "idSeance": 138322,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 812,
+          "idCategorie": 3466,
+          "titreCycle": "Éric Demarsan"
+        }
+      ],
+      "idEvenement": 31491,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-19T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 77877,
+          "titre": "Une affaire privée",
+          "realisateurs": "Guillaume Nicloux",
+          "annee": 2001,
+          "duree": 107,
+          "generique": "Thierry Lhermitte, Marion Cotillard, Samuel Le Bihan, Aurore Clément",
+          "synopsis": "texte",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28605,
+              "duree": 107,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 174918,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31379,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-19T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44791,
+          "titre": "Que vienne la nuit",
+          "titreVo": "Hurry Sundown",
+          "realisateurs": "Otto Preminger",
+          "annee": 1966,
+          "duree": 141,
+          "generique": "Michael Caine, Jane Fonda, John Phillip Law",
+          "adaptation": "D'après le roman _Hurry Sundown_ de K.B. Gilden.",
+          "synopsis": "Dans la campagne géorgienne, un homme d'affaires qui veut construire une conserverie de fruits tente de convaincre deux fermiers de vendre leurs terrains.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 8885,
+              "duree": 141,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138330,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31378,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-20T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35740,
+          "titre": "Quadrille d'amour",
+          "titreVo": "Centennial Summer",
+          "realisateurs": "Otto Preminger",
+          "annee": 1945,
+          "duree": 102,
+          "generique": "Jeanne Crain, Linda Darnell, Cornel Wilde",
+          "adaptation": "D'après le roman _Centennial Summer_ d'Albert E. Idell.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 11747,
+              "duree": 102,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 138328,
       "idProg": 184,
       "idCycleCategories": [
@@ -5258,33 +6108,227 @@
       "mention": "Avant-première"
     },
     {
-      "idSeance": 138552,
+      "idSeance": 138331,
       "idProg": 184,
       "idCycleCategories": [
         {
-          "idCycle": 807,
-          "idCategorie": 3452,
-          "titreCycle": "John Frankenheimer",
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31315,
+      "idEvenement": 31385,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-29T20:00:00",
-      "idSalle": "HL",
+      "dateHeure": "2025-01-20T20:15:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 32415,
-          "titre": "Pays de la violence",
-          "art": "Le",
-          "titreVo": "I Walk the Line",
-          "realisateurs": "John Frankenheimer",
-          "annee": 1969,
-          "adaptation": "D'après le roman _An Exile_ de Madison Jones.",
+          "idFilm": 34833,
+          "titre": "Treizième lettre",
+          "art": "La",
+          "titreVo": "Thirteenth Letter",
+          "artVo": "The",
+          "realisateurs": "Otto Preminger",
+          "annee": 1950,
+          "duree": 84,
+          "generique": "Linda Darnell, Charles Boyer, Michael Rennie",
+          "adaptation": "D'après le scénario du film _Le Corbeau_ de Henri-Georges Clouzot de Louis Chavance.",
+          "synopsis": "Au retour d'un séminaire, le docteur Laurent reçoit une lettre anonyme prétendant que sa jeune femme Cora entretient une liaison avec son jeune confrère le docteur Pearson. Rapidement, il constate que Pearson, sa femme et d'autres personnes de la petite ville où il vit ont reçu la même lettre.",
           "status": 0,
-          "copies": [],
-          "idFilmBoxoffice": 20646
+          "copies": [
+            {
+              "idCopie": 12323,
+              "duree": 84,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 12032,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 28507,
+              "duree": 85,
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138364,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31380,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-22T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34499,
+          "titre": "Skidoo",
+          "realisateurs": "Otto Preminger",
+          "annee": 1968,
+          "duree": 98,
+          "generique": "Jackie Gleason, Carol Channing, Frankie Avalon",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28502,
+              "duree": 98,
+              "format": "16 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 28503,
+              "duree": 98,
+              "version": "VO"
+            },
+            {
+              "idCopie": 28504,
+              "duree": 98,
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138368,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31365,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-22T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34889,
+          "titre": "Dis-moi que tu m'aimes, Junie Moon",
+          "titreVo": "Tell Me That You Love Me, Junie Moon",
+          "realisateurs": "Otto Preminger",
+          "annee": 1969,
+          "duree": 113,
+          "generique": "Liza Minnelli, Ken Howard, Robert Moore",
+          "adaptation": "D'après le roman _Tell Me That You Love Me, Junie Moon_ de Marjorie Kellogg.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28458,
+              "duree": 113
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 174919,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31381,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-23T14:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34879,
+          "titre": "Rosebud",
+          "realisateurs": "Otto Preminger",
+          "annee": 1974,
+          "duree": 126,
+          "generique": "Peter O'Toole, Cliff Gorman, Richard Attenborough, Isabelle Huppert",
+          "adaptation": "D'après le roman _Rosebud_ de Paul Bonnecarrère et Joan Hemingway.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28622,
+              "duree": 126,
+              "format": "16 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 28621,
+              "duree": 126,
+              "version": "VF"
+            },
+            {
+              "idCopie": 28499,
+              "duree": 126,
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138401,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31358,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-23T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34885,
+          "titre": "Des amis comme les miens",
+          "titreVo": "Such Good Friends",
+          "realisateurs": "Otto Preminger",
+          "annee": 1971,
+          "duree": 102,
+          "generique": "Dyan Cannon, James Coco, Jennifer O'Neill",
+          "adaptation": "D'après le roman _Such Good Friends_ de Lois Gould.",
+          "synopsis": "Julie, épouse d'un journaliste new-yorkais, habituée à une vie facile et confortable, voit son monde s'écrouler peu à peu, après l'hospitalisation de son époux.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28619,
+              "duree": 102,
+              "format": "16 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 28456,
+              "duree": 102
+            }
+          ]
         }
       ]
     }
