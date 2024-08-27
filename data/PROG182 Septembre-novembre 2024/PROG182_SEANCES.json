@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-08-27T08:02:54.987Z",
+  "updatedAt": "2024-08-27T13:03:16.131Z",
   "data": [
     {
       "idSeance": 130975,
@@ -984,62 +984,6 @@
       ]
     },
     {
-      "idSeance": 139448,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 140,
-          "idCategorie": 3432,
-          "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "Mathieu Morel"
-        }
-      ],
-      "idEvenement": 31286,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-02T19:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 154917,
-          "titre": "Anapidae (appelle-moi)",
-          "realisateurs": "Mathieu Morel",
-          "annee": 2024,
-          "duree": 43,
-          "generique": "Thomas Ducasse, Julie Morel",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28388,
-              "duree": 43,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 1000004561
-        },
-        {
-          "ordre": 2,
-          "idFilm": 154920,
-          "titre": "Corps du délit",
-          "art": "Le",
-          "realisateurs": "Léolo Victor-Pujebet",
-          "annee": 2023,
-          "duree": 81,
-          "generique": "Mathieu Morel, Bertrand Bonello, Aurélien Deniel",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28380,
-              "duree": 81,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 321763
-        }
-      ],
-      "mention": "Séance présentée par Léolo Victor-Pujebet et suivie d'une discussion avec Mathieu Morel"
-    },
-    {
       "idSeance": 131123,
       "idProg": 182,
       "idCycleCategories": [
@@ -1499,7 +1443,7 @@
       "idEvenement": 31106,
       "typeEvenement": 13,
       "dateHeure": "2024-09-06T18:30:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -1636,7 +1580,7 @@
       "idEvenement": 31108,
       "typeEvenement": 13,
       "dateHeure": "2024-09-06T20:30:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -1803,7 +1747,7 @@
       "idEvenement": 30872,
       "typeEvenement": 13,
       "dateHeure": "2024-09-07T19:30:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -1881,7 +1825,7 @@
       "idEvenement": 30873,
       "typeEvenement": 13,
       "dateHeure": "2024-09-07T21:15:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -2189,7 +2133,7 @@
       "idEvenement": 30789,
       "typeEvenement": 13,
       "dateHeure": "2024-09-08T19:45:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -2353,68 +2297,6 @@
           "idFilmBoxoffice": 120802
         }
       ]
-    },
-    {
-      "idSeance": 144452,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 140,
-          "idCategorie": 3430,
-          "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "Rayane Mcirdi"
-        }
-      ],
-      "idEvenement": 31220,
-      "typeEvenement": 13,
-      "dateHeure": "2024-09-09T19:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 154915,
-          "titre": "Après le soleil",
-          "realisateurs": "Rayane Mcirdi",
-          "annee": 2024,
-          "duree": 25,
-          "generique": "Sonia Faidi, Bellamine Abdelmalek, Flore Hamidani, Romane Oukhemanou, Yanis Hamidani",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28371,
-              "duree": 25,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 1000001290
-        },
-        {
-          "ordre": 2,
-          "idFilm": 60477,
-          "titre": "Anges déchus",
-          "art": "Les",
-          "titreVo": "Fallen Angels",
-          "realisateurs": "Wong Kar-wai",
-          "annee": 1996,
-          "dureeStd": 97,
-          "duree": 97,
-          "generique": "Leon Lai, Takeshi Kaneshiro, Charlie Young",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 8451,
-              "duree": 97,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 14388
-        }
-      ],
-      "mention": "Séance suivie d'une discussion avec Rayane Mcirdi"
     },
     {
       "idSeance": 131309,
@@ -2609,7 +2491,7 @@
       "idEvenement": 31050,
       "typeEvenement": 13,
       "dateHeure": "2024-09-11T20:30:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -2692,8 +2574,6 @@
       "typeConference": "Conférence",
       "idSalle": "GF",
       "duree": 90,
-      "idSeanceAssoc": 131429,
-      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -2804,9 +2684,7 @@
       "idEvenement": 30939,
       "typeEvenement": 13,
       "dateHeure": "2024-09-12T21:15:00",
-      "idSalle": "JE",
-      "idSeanceAssoc": 134051,
-      "typeAssoc": 117,
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -3393,7 +3271,7 @@
       "idEvenement": 30064,
       "typeEvenement": 13,
       "dateHeure": "2024-09-15T19:00:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -3496,7 +3374,7 @@
       "idEvenement": 30042,
       "typeEvenement": 13,
       "dateHeure": "2024-09-15T20:30:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -3699,7 +3577,7 @@
       "idEvenement": 30727,
       "typeEvenement": 13,
       "dateHeure": "2024-09-16T20:30:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
