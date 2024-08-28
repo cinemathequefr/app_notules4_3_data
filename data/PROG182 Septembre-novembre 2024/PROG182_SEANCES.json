@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-08-27T13:03:16.131Z",
+  "updatedAt": "2024-08-28T14:12:50.286Z",
   "data": [
     {
       "idSeance": 130975,
@@ -982,6 +982,62 @@
           "idFilmBoxoffice": 2987
         }
       ]
+    },
+    {
+      "idSeance": 139448,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3432,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Mathieu Morel"
+        }
+      ],
+      "idEvenement": 31286,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-02T19:00:00",
+      "idSalle": "LE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154917,
+          "titre": "Anapidae (appelle-moi)",
+          "realisateurs": "Mathieu Morel",
+          "annee": 2024,
+          "duree": 43,
+          "generique": "Thomas Ducasse, Julie Morel",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28388,
+              "duree": 43,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 1000004561
+        },
+        {
+          "ordre": 2,
+          "idFilm": 154920,
+          "titre": "Corps du délit",
+          "art": "Le",
+          "realisateurs": "Léolo Victor-Pujebet",
+          "annee": 2023,
+          "duree": 81,
+          "generique": "Mathieu Morel, Bertrand Bonello, Aurélien Deniel",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28380,
+              "duree": 81,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 321763
+        }
+      ],
+      "mention": "Séance présentée par Léolo Victor-Pujebet et suivie d'une discussion avec Mathieu Morel"
     },
     {
       "idSeance": 131123,
@@ -2297,6 +2353,68 @@
           "idFilmBoxoffice": 120802
         }
       ]
+    },
+    {
+      "idSeance": 144452,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3430,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Rayane Mcirdi"
+        }
+      ],
+      "idEvenement": 31220,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-09T19:00:00",
+      "idSalle": "LE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154915,
+          "titre": "Après le soleil",
+          "realisateurs": "Rayane Mcirdi",
+          "annee": 2024,
+          "duree": 25,
+          "generique": "Sonia Faidi, Bellamine Abdelmalek, Flore Hamidani, Romane Oukhemanou, Yanis Hamidani",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28371,
+              "duree": 25,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1000001290
+        },
+        {
+          "ordre": 2,
+          "idFilm": 60477,
+          "titre": "Anges déchus",
+          "art": "Les",
+          "titreVo": "Fallen Angels",
+          "realisateurs": "Wong Kar-wai",
+          "annee": 1996,
+          "dureeStd": 97,
+          "duree": 97,
+          "generique": "Leon Lai, Takeshi Kaneshiro, Charlie Young",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 8451,
+              "duree": 97,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 14388
+        }
+      ],
+      "mention": "Séance suivie d'une discussion avec Rayane Mcirdi"
     },
     {
       "idSeance": 131309,
@@ -4433,6 +4551,62 @@
         }
       ],
       "mention": "Séance présentée par Emmanuelle Devos"
+    },
+    {
+      "idSeance": 184774,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3457,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Journée du matrimoine 2024"
+        }
+      ],
+      "idEvenement": 31523,
+      "typeEvenement": 13,
+      "dateHeure": "2024-09-21T15:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 101164,
+          "titre": "Qui donc a rêvé ?",
+          "realisateurs": "Liliane de Kermadec",
+          "annee": 1966,
+          "duree": 25,
+          "generique": "Delphine Seyrig, Roger Blin",
+          "synopsis": "Deuxième court métrage de Liliane de Kermadec, inspiré par _Alice au pays de merveilles_ de Lewis Carroll.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23709,
+              "duree": 25,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 49459,
+          "titre": "Aloïse",
+          "realisateurs": "Liliane de Kermadec",
+          "annee": 1974,
+          "duree": 118,
+          "generique": "Isabelle Huppert, Delphine Seyrig, Michael Lonsdale",
+          "miniTexte": "Photographe de plateau pour Varda et Resnais, Liliane de Kermadec réalise un portrait de l'artiste suisse Aloïse Corbaz (1886-1964), qui passa les 46 dernières années de sa vie internée pour schizophrénie, et dont les œuvres furent réunies dans la collection d'art brut de Jean Dubuffet. Isabelle Huppert et Delphine Seyrig incarnent, à deux âges différents, la richesse d'une figure toute de désirs étouffés.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23343,
+              "duree": 118,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 133712,
@@ -8394,7 +8568,7 @@
               "duree": 90,
               "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 206434
@@ -8570,6 +8744,13 @@
           "copies": [
             {
               "idCopie": 28361,
+              "duree": 114,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28645,
               "duree": 114,
               "format": "DCP",
               "version": "VO",
@@ -10806,6 +10987,13 @@
           "copies": [
             {
               "idCopie": 28361,
+              "duree": 114,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28645,
               "duree": 114,
               "format": "DCP",
               "version": "VO",
