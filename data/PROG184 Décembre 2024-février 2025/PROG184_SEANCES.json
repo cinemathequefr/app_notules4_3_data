@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-08-28T14:12:46.056Z",
+  "updatedAt": "2024-08-29T09:23:43.029Z",
   "data": [
     {
       "idSeance": 137066,
@@ -1619,7 +1619,7 @@
       ]
     },
     {
-      "idSeance": 144534,
+      "idSeance": 184789,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -1629,23 +1629,24 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31298,
+      "idEvenement": 31300,
       "typeEvenement": 13,
       "dateHeure": "2024-12-14T14:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 45716,
-          "titre": "Guerriers de l'enfer",
-          "art": "Les",
-          "titreVo": "Who'll Stop the Rain ?",
+          "idFilm": 42938,
+          "titre": "Maîtresse du lieutenant français",
+          "art": "La",
+          "titreVo": "French Lieutenant's Woman",
+          "artVo": "The",
           "realisateurs": "Karel Reisz",
-          "annee": 1977,
-          "adaptation": "D'après le roman _Dog Soldiers_ de Robert Stone.",
+          "annee": 1980,
+          "adaptation": "D'après le roman _The French Lieutenant's Woman_ de John Fowles.",
           "status": 0,
           "copies": [],
-          "idFilmBoxoffice": 49932
+          "idFilmBoxoffice": 26653
         }
       ]
     },
@@ -1688,46 +1689,6 @@
             }
           ],
           "idFilmBoxoffice": 6688
-        }
-      ]
-    },
-    {
-      "idSeance": 145304,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 809,
-          "idCategorie": 3459,
-          "titreCycle": "Marlon Brando",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31433,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-14T16:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 45914,
-          "titre": "Queimada",
-          "realisateurs": "Gillo Pontecorvo",
-          "annee": 1968,
-          "duree": 132,
-          "generique": "Marlon Brando, Renato Salvatori",
-          "adaptation": "D'après le roman _Burn!_ de Norman Grant.",
-          "synopsis": "En 1815, un agent secret britannique débarque dans une petite île des Caraïbes, Queimada, pour fomenter une révolte contre le pouvoir colonial portugais. Il veut mettre en place un gouvernement dirigé par la bourgeoisie locale, favorable aux intérêts de la Grande-Bretagne. Mais après le coup d'État, le prolétariat noir se révolte contre ses nouveaux maîtres.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 23815,
-              "duree": 132,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 14313
         }
       ]
     },
@@ -1846,7 +1807,7 @@
       ]
     },
     {
-      "idSeance": 137385,
+      "idSeance": 184790,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -1856,24 +1817,63 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31300,
+      "idEvenement": 31298,
       "typeEvenement": 13,
       "dateHeure": "2024-12-15T14:30:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 42938,
-          "titre": "Maîtresse du lieutenant français",
-          "art": "La",
-          "titreVo": "French Lieutenant's Woman",
-          "artVo": "The",
+          "idFilm": 45716,
+          "titre": "Guerriers de l'enfer",
+          "art": "Les",
+          "titreVo": "Who'll Stop the Rain ?",
           "realisateurs": "Karel Reisz",
-          "annee": 1980,
-          "adaptation": "D'après le roman _The French Lieutenant's Woman_ de John Fowles.",
+          "annee": 1977,
+          "adaptation": "D'après le roman _Dog Soldiers_ de Robert Stone.",
           "status": 0,
           "copies": [],
-          "idFilmBoxoffice": 26653
+          "idFilmBoxoffice": 49932
+        }
+      ]
+    },
+    {
+      "idSeance": 145304,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31433,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-15T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45914,
+          "titre": "Queimada",
+          "realisateurs": "Gillo Pontecorvo",
+          "annee": 1968,
+          "duree": 132,
+          "generique": "Marlon Brando, Renato Salvatori",
+          "adaptation": "D'après le roman _Burn!_ de Norman Grant.",
+          "synopsis": "En 1815, un agent secret britannique débarque dans une petite île des Caraïbes, Queimada, pour fomenter une révolte contre le pouvoir colonial portugais. Il veut mettre en place un gouvernement dirigé par la bourgeoisie locale, favorable aux intérêts de la Grande-Bretagne. Mais après le coup d'État, le prolétariat noir se révolte contre ses nouveaux maîtres.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23815,
+              "duree": 132,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 14313
         }
       ]
     },
@@ -1917,7 +1917,87 @@
       ]
     },
     {
-      "idSeance": 145305,
+      "idSeance": 145297,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31295,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-15T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35010,
+          "titre": "Chacun sa chance",
+          "titreVo": "Everybody Wins",
+          "realisateurs": "Karel Reisz",
+          "annee": 1989,
+          "duree": 97,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28582,
+              "duree": 97,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 49933
+        }
+      ]
+    },
+    {
+      "idSeance": 137401,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31399,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-16T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33586,
+          "titre": "Sur les quais",
+          "titreVo": "On the Waterfront",
+          "realisateurs": "Elia Kazan",
+          "annee": 1953,
+          "duree": 108,
+          "generique": "Marlon Brando, Karl Malden, Rod Steiger, Eva Marie Saint",
+          "adaptation": "D'après les articles _Crime on the waterfront_ parus dans _The New York Sun_ de Malcolm Johnson.",
+          "synopsis": "Jeune docker, Terry est manipulé par son frère, avocat corrompu du syndicat des dockers. Il assiste sans intervenir au meurtre d'un employé. Quand la sœur de la victime lui demande de l'aide, Terry se retrouve face à un dilemme.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 16316,
+              "duree": 108,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1627
+        }
+      ]
+    },
+    {
+      "idSeance": 184791,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -1929,8 +2009,8 @@
       ],
       "idEvenement": 31456,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-15T18:00:00",
-      "idSalle": "HL",
+      "dateHeure": "2024-12-16T20:15:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -1959,127 +2039,6 @@
             }
           ],
           "idFilmBoxoffice": 52911
-        }
-      ]
-    },
-    {
-      "idSeance": 145297,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 808,
-          "idCategorie": 3453,
-          "titreCycle": "Karel Reisz",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31295,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-15T20:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 35010,
-          "titre": "Chacun sa chance",
-          "titreVo": "Everybody Wins",
-          "realisateurs": "Karel Reisz",
-          "annee": 1989,
-          "duree": 97,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28582,
-              "duree": 97,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 49933
-        }
-      ]
-    },
-    {
-      "idSeance": 137400,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 809,
-          "idCategorie": 3459,
-          "titreCycle": "Marlon Brando",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31402,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-16T18:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 33613,
-          "titre": "Un tramway nommé Désir",
-          "titreVo": "A Streetcar Named Desire",
-          "realisateurs": "Elia Kazan",
-          "annee": 1950,
-          "duree": 122,
-          "generique": "Marlon Brando, Vivien Leigh, Kim Hunter",
-          "adaptation": "D'après la pièce _Un tramway nommé désir_ de Tennessee Williams.",
-          "synopsis": "Blanche rend visite à sa sœur qui habite à La Nouvelle-Orléans dans un appartement miséreux avec son mari Stanley. Calme et distinguée, elle entre rapidement en conflit avec Stanley, un ouvrier impulsif et parfois violent.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 16314,
-              "duree": 122,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 2580
-        }
-      ]
-    },
-    {
-      "idSeance": 137401,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 809,
-          "idCategorie": 3459,
-          "titreCycle": "Marlon Brando",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31399,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-16T20:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 33586,
-          "titre": "Sur les quais",
-          "titreVo": "On the Waterfront",
-          "realisateurs": "Elia Kazan",
-          "annee": 1953,
-          "duree": 108,
-          "generique": "Marlon Brando, Karl Malden, Rod Steiger, Eva Marie Saint",
-          "adaptation": "D'après les articles _Crime on the waterfront_ parus dans _The New York Sun_ de Malcolm Johnson.",
-          "synopsis": "Jeune docker, Terry est manipulé par son frère, avocat corrompu du syndicat des dockers. Il assiste sans intervenir au meurtre d'un employé. Quand la sœur de la victime lui demande de l'aide, Terry se retrouve face à un dilemme.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 16316,
-              "duree": 108,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 1627
         }
       ]
     },
@@ -5441,7 +5400,7 @@
       ]
     },
     {
-      "idSeance": 138180,
+      "idSeance": 184777,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -5451,34 +5410,31 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31447,
+      "idEvenement": 31449,
       "typeEvenement": 13,
       "dateHeure": "2025-01-15T20:00:00",
       "idSalle": "HL",
+      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
-          "idFilm": 50136,
-          "titre": "Armée des ombres",
-          "art": "L'",
-          "realisateurs": "Jean-Pierre Melville",
-          "annee": 1969,
-          "duree": 150,
-          "generique": "Lino Ventura, Simone Signoret, Paul Meurisse",
-          "adaptation": "D'après le roman _L'Armée des ombres_ de Joseph Kessel.",
-          "synopsis": "Octobre 1942, en France occupée. Philippe Gerbier, ingénieur soupçonné d'activités dans la Résistance, est arrêté par la police de Vichy et incarcéré dans un camp de prisonniers. Il est ensuite remis par les autorités françaises à la Gestapo et transféré à Paris pour interrogatoire. Mais il parvient à s'évader et à rejoindre son réseau.",
+          "idFilm": 47835,
+          "titre": "Section spéciale",
+          "realisateurs": "Costa-Gavras",
+          "annee": 1974,
+          "generique": "Louis Seigner, Michael Lonsdale, Jacques Perrin",
           "status": 0,
           "copies": [
             {
-              "idCopie": 9327,
-              "duree": 150,
-              "format": "DCP",
-              "langCopie": "FRE"
+              "idCopie": 28536,
+              "duree": 0,
+              "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 4248
+          "idFilmBoxoffice": 34266
         }
-      ]
+      ],
+      "mention": "Ouverture de la rétrospective"
     },
     {
       "idSeance": 138183,
@@ -5609,7 +5565,7 @@
       ]
     },
     {
-      "idSeance": 138215,
+      "idSeance": 184779,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -5619,27 +5575,32 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31449,
+      "idEvenement": 31448,
       "typeEvenement": 13,
       "dateHeure": "2025-01-16T20:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 47835,
-          "titre": "Section spéciale",
-          "realisateurs": "Costa-Gavras",
-          "annee": 1974,
-          "generique": "Louis Seigner, Michael Lonsdale, Jacques Perrin",
-          "status": 0,
+          "idFilm": 50137,
+          "titre": "Cercle rouge",
+          "art": "Le",
+          "realisateurs": "Jean-Pierre Melville",
+          "annee": 1970,
+          "duree": 150,
+          "generique": "Alain Delon, Bourvil, Gian Maria Volonté, Yves Montand",
+          "synopsis": "Un truand marseillais, un détenu en cavale et un ancien policier préparent le cambriolage de la bijouterie Mauboussin, place Vendôme. Ils sont surveillés par le commissaire Mattei, de la brigade criminelle.",
+          "miniTexte": "Melville nous parle depuis une époque où les gangsters en gants blancs opéraient dans le calme, où un plan en plongée sur une table de billard tenait du génie. Les truands Delon et Montand affrontent Bourvil en commissaire mélancolique, leur jeu est minimaliste, et la sobriété leur va bien. Un polar à l'os, magistral.",
+          "commentaire": "« Il n'y a pas d'innocents, tous les hommes sont coupables. » La démonstration est sèche. Art consommé de l'ellipse, économie de mots et de gestes. Tout est précis, réglé, comme si la réalisation était toute entière tendue vers le hold-up et calquée sur son rythme. Parfois, Melville s'envole, la caméra tourne autour de Delon, danse, presque, avec lui. Puis on repart pour de longues séquences froides, au cordeau. Melville offre une magnifique scène en ombres chinoises sur les toits de la place Vendôme, sur fond de nuit bleutée, nous parle depuis une époque où les gangsters portaient chapeau et gants blancs, opéraient dans le calme. Une époque où un plan en plongée sur une table de billard tenait du génie. Delon, mutique et impassible, serre les poings dans les poches de son imper. Montand, amer, cynique et concentré, joue au petit chimiste dans sa cuisine. Bourvil donne à son personnage de commissaire une étoffe surprenante et pleine de mélancolie. Tous déploient un jeu minimaliste, efficace, et la sobriété leur va bien. Un polar à l'os, un chef-d'œuvre d'épure.",
+          "status": 2,
           "copies": [
             {
-              "idCopie": 28536,
-              "duree": 0,
+              "idCopie": 22737,
+              "duree": 150,
               "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 34266
+          "idFilmBoxoffice": 2358
         }
       ]
     },
@@ -5746,7 +5707,7 @@
       ]
     },
     {
-      "idSeance": 138302,
+      "idSeance": 184778,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -5756,32 +5717,32 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31448,
+      "idEvenement": 31447,
       "typeEvenement": 13,
       "dateHeure": "2025-01-18T14:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 50137,
-          "titre": "Cercle rouge",
-          "art": "Le",
+          "idFilm": 50136,
+          "titre": "Armée des ombres",
+          "art": "L'",
           "realisateurs": "Jean-Pierre Melville",
-          "annee": 1970,
+          "annee": 1969,
           "duree": 150,
-          "generique": "Alain Delon, Bourvil, Gian Maria Volonté, Yves Montand",
-          "synopsis": "Un truand marseillais, un détenu en cavale et un ancien policier préparent le cambriolage de la bijouterie Mauboussin, place Vendôme. Ils sont surveillés par le commissaire Mattei, de la brigade criminelle.",
-          "miniTexte": "Melville nous parle depuis une époque où les gangsters en gants blancs opéraient dans le calme, où un plan en plongée sur une table de billard tenait du génie. Les truands Delon et Montand affrontent Bourvil en commissaire mélancolique, leur jeu est minimaliste, et la sobriété leur va bien. Un polar à l'os, magistral.",
-          "commentaire": "« Il n'y a pas d'innocents, tous les hommes sont coupables. » La démonstration est sèche. Art consommé de l'ellipse, économie de mots et de gestes. Tout est précis, réglé, comme si la réalisation était toute entière tendue vers le hold-up et calquée sur son rythme. Parfois, Melville s'envole, la caméra tourne autour de Delon, danse, presque, avec lui. Puis on repart pour de longues séquences froides, au cordeau. Melville offre une magnifique scène en ombres chinoises sur les toits de la place Vendôme, sur fond de nuit bleutée, nous parle depuis une époque où les gangsters portaient chapeau et gants blancs, opéraient dans le calme. Une époque où un plan en plongée sur une table de billard tenait du génie. Delon, mutique et impassible, serre les poings dans les poches de son imper. Montand, amer, cynique et concentré, joue au petit chimiste dans sa cuisine. Bourvil donne à son personnage de commissaire une étoffe surprenante et pleine de mélancolie. Tous déploient un jeu minimaliste, efficace, et la sobriété leur va bien. Un polar à l'os, un chef-d'œuvre d'épure.",
-          "status": 2,
+          "generique": "Lino Ventura, Simone Signoret, Paul Meurisse",
+          "adaptation": "D'après le roman _L'Armée des ombres_ de Joseph Kessel.",
+          "synopsis": "Octobre 1942, en France occupée. Philippe Gerbier, ingénieur soupçonné d'activités dans la Résistance, est arrêté par la police de Vichy et incarcéré dans un camp de prisonniers. Il est ensuite remis par les autorités françaises à la Gestapo et transféré à Paris pour interrogatoire. Mais il parvient à s'évader et à rejoindre son réseau.",
+          "status": 0,
           "copies": [
             {
-              "idCopie": 22737,
+              "idCopie": 9327,
               "duree": 150,
-              "format": "DCP"
+              "format": "DCP",
+              "langCopie": "FRE"
             }
           ],
-          "idFilmBoxoffice": 2358
+          "idFilmBoxoffice": 4248
         }
       ]
     },
@@ -5878,7 +5839,7 @@
       ]
     },
     {
-      "idSeance": 138304,
+      "idSeance": 184780,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -5888,41 +5849,29 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31450,
+      "idEvenement": 31491,
       "typeEvenement": 13,
       "dateHeure": "2025-01-18T19:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 50224,
-          "titre": "Ibis rouge",
-          "art": "L'",
-          "realisateurs": "Jean-Pierre Mocky",
-          "annee": 1975,
-          "duree": 87,
-          "generique": "Michel Simon, Michel Serrault, Evelyne Buyle, Michel Galabru",
-          "adaptation": "D'après le roman _ Knock Three One Two _ de Fredric Brown.",
-          "synopsis": "Tandis que rôde un étrangleur, un homme tente de réunir le montant d'une dette de jeu mettant sa vie en péril.",
+          "idFilm": 77877,
+          "titre": "Une affaire privée",
+          "realisateurs": "Guillaume Nicloux",
+          "annee": 2001,
+          "duree": 107,
+          "generique": "Thierry Lhermitte, Marion Cotillard, Samuel Le Bihan, Aurore Clément",
+          "synopsis": "texte",
           "status": 0,
           "copies": [
             {
-              "idCopie": 4166,
-              "duree": 87,
+              "idCopie": 28605,
+              "duree": 107,
               "format": "35 mm"
-            },
-            {
-              "idCopie": 4330,
-              "duree": 87,
-              "format": "35 mm"
-            },
-            {
-              "idCopie": 4753,
-              "duree": 87,
-              "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 2607
+          "idFilmBoxoffice": 35996
         }
       ]
     },
@@ -6058,7 +6007,7 @@
       ]
     },
     {
-      "idSeance": 138322,
+      "idSeance": 184781,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -6068,29 +6017,41 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31491,
+      "idEvenement": 31450,
       "typeEvenement": 13,
       "dateHeure": "2025-01-19T19:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 77877,
-          "titre": "Une affaire privée",
-          "realisateurs": "Guillaume Nicloux",
-          "annee": 2001,
-          "duree": 107,
-          "generique": "Thierry Lhermitte, Marion Cotillard, Samuel Le Bihan, Aurore Clément",
-          "synopsis": "texte",
+          "idFilm": 50224,
+          "titre": "Ibis rouge",
+          "art": "L'",
+          "realisateurs": "Jean-Pierre Mocky",
+          "annee": 1975,
+          "duree": 87,
+          "generique": "Michel Simon, Michel Serrault, Evelyne Buyle, Michel Galabru",
+          "adaptation": "D'après le roman _ Knock Three One Two _ de Fredric Brown.",
+          "synopsis": "Tandis que rôde un étrangleur, un homme tente de réunir le montant d'une dette de jeu mettant sa vie en péril.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 28605,
-              "duree": 107,
+              "idCopie": 4166,
+              "duree": 87,
               "format": "35 mm"
+            },
+            {
+              "idCopie": 4330,
+              "duree": 87,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 4753,
+              "duree": 87,
+              "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 35996
+          "idFilmBoxoffice": 2607
         }
       ]
     },
