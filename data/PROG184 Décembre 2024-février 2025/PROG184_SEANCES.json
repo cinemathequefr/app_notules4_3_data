@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-08-29T10:01:40.118Z",
+  "updatedAt": "2024-08-29T10:21:03.585Z",
   "data": [
     {
       "idSeance": 138515,
@@ -911,6 +911,303 @@
             }
           ],
           "idFilmBoxoffice": 9450
+        }
+      ]
+    },
+    {
+      "idSeance": 138694,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2685,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Films pour la télévision"
+        }
+      ],
+      "idEvenement": 25759,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-02T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 130504,
+          "titre": "Secret Weapons",
+          "realisateurs": "David Cronenberg",
+          "annee": 1972,
+          "duree": 22,
+          "generique": "Charles Oberdorf, Lister Sinclair, Barbara O'Kelly",
+          "miniTexte": "Tourné pour _Program X_, série d'anthologie de la SRC, un thriller cérébral sur la guerre civile dans la lignée de _Stereo_ et _Crimes of the Future_, les premiers essais de Cronenberg.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23934,
+              "duree": 22,
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 27395
+        },
+        {
+          "ordre": 2,
+          "idFilm": 130505,
+          "titre": "Victim",
+          "art": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 1975,
+          "dureeStd": 27,
+          "duree": 30,
+          "generique": "Cedric Smith, Jonathan Welsh",
+          "miniTexte": "La relation étrange entre une femme et son admirateur secret. Cronenberg met en scène un pertinent jeu du chat et de la souris pour l'un de ses quatre projets de séries télévisées.",
+          "commentaire": "Épisode de la série télévisée canadienne _Peep Show_.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23933,
+              "duree": 30,
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 130506,
+          "titre": "Lie Chair",
+          "art": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 1975,
+          "dureeStd": 27,
+          "duree": 30,
+          "generique": "Amelia Hall, Susan Hogan, Richard Monette, Doris Petrie",
+          "miniTexte": "Abandonné dans une maison isolée, un couple tombe sous le joug de son inquiétant propriétaire. De l''épouvante façon pièce de théâtre, avec maison hantée et bestiaire gothique.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23905,
+              "duree": 30,
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 45394
+        },
+        {
+          "ordre": 4,
+          "idFilm": 130507,
+          "titre": "Italian Machine",
+          "art": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 1976,
+          "dureeStd": 27,
+          "duree": 30,
+          "generique": "Gary McKeehan, Frank Moore, Hardee T. Lineham",
+          "miniTexte": "Des passionnés de moto cherchent à s'emparer du bolide d'un richissime homme d'affaires. Une pièce télévisée, réalisée pour la série canadienne _Teleplay_, où Cronenberg explore l'un de ses thèmes fétiches, l'obsession de la technologie.",
+          "commentaire": "« Petit chef d'œuvre méconnu, ce film est un conte moral dont le protagoniste est une moto Ducati \"de rêve\" . Une réflexion pleine de hardiesse sur l'œuvre d'art contemporaine, dont on retrouve des échos dans les derniers scénarios de Cronenberg . » (Serge Grünberg)",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23935,
+              "duree": 30,
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 27393
+        }
+      ]
+    },
+    {
+      "idSeance": 138693,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2684,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Courts métrages"
+        }
+      ],
+      "idEvenement": 25760,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-02T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 85600,
+          "titre": "Transfer",
+          "realisateurs": "David Cronenberg",
+          "annee": 1966,
+          "duree": 7,
+          "generique": "Rafe Macpherson, Mort Ritts",
+          "miniTexte": "L'affrontement entre un docteur et son ancien patient, qui reprend le concept de transfert imaginé par Freud : le premier court du cinéaste, tourné avec un budget de 300 $.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23904,
+              "duree": 7,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 27251
+        },
+        {
+          "ordre": 2,
+          "idFilm": 85602,
+          "titre": "From the Drain",
+          "realisateurs": "David Cronenberg",
+          "annee": 1966,
+          "duree": 14,
+          "generique": "Mort Ritts, Stephen Nosko",
+          "miniTexte": "Deux vétérans d'une guerre future dialoguent, assis dans un bain. Le second court de Cronenberg, aussi absurde qu'expérimental.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23932,
+              "duree": 14,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 27248
+        },
+        {
+          "ordre": 3,
+          "idFilm": 153088,
+          "titre": "Tourettes",
+          "realisateurs": "David Cronenberg",
+          "annee": 1971,
+          "duree": 6,
+          "miniTexte": "Cronenberg filme le village médiéval de Tourrettes-sur-Loup, où il a vécu pendant un an. Pour la télévision canadienne, il revient sur cette période de sa vie et ses tentatives de devenir romancier.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23986,
+              "duree": 6,
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 27254
+        },
+        {
+          "ordre": 4,
+          "idFilm": 85607,
+          "titre": "Camera",
+          "realisateurs": "David Cronenberg",
+          "annee": 2000,
+          "duree": 6,
+          "generique": "Leslie Carlson, Marc Donato",
+          "synopsis": "Tandis qu'un vieil acteur se plaint de l'état actuel du cinéma, un groupe d'enfants débarque pour le filmer avec une caméra 35 mm.",
+          "miniTexte": "Commande pour le programme spécial célébrant le 25<sup>e</sup> anniversaire du Festival de Toronto. Cronenberg évoque l'état actuel du cinéma, imaginé comme un virus qui attaque l'esprit humain.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23955,
+              "duree": 6,
+              "format": "DCP",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 30042
+        },
+        {
+          "ordre": 5,
+          "idFilm": 153087,
+          "titre": "Faith Healer",
+          "art": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 1987,
+          "duree": 60,
+          "generique": "Louise Robey, John D. LeMay, Chris Wiggins",
+          "synopsis": "Deux jeunes antiquaires héritent de la boutique de leur oncle, qui avait conclu un pacte avec le diable.",
+          "miniTexte": "Un charlatan religieux découvre un gant mystérieux, qui guérit les patients mourants et transmet la maladie à d'autres personnes. L'un des meilleurs épisodes de _Friday The 13th: The Series_, sommet de _body horror_.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23985,
+              "duree": 60,
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 6,
+          "idFilm": 153089,
+          "titre": "Letter from Michelangelo",
+          "realisateurs": "David Cronenberg",
+          "annee": 1971,
+          "duree": 6,
+          "miniTexte": "Dans la lignée de _Jim Ritchie Sculptor_, Cronenberg dirige Paul Mulholland dans un court documentaire tourné pour la télévision canadienne.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23987,
+              "duree": 6
+            }
+          ]
+        },
+        {
+          "ordre": 7,
+          "idFilm": 153093,
+          "titre": "Death of David Cronenberg",
+          "art": "The",
+          "realisateurs": "David Cronenberg, Caitlin Cronenberg",
+          "annee": 2021,
+          "duree": 1,
+          "miniTexte": "En une minute, Cronenberg dévoile son cadavre dans une mise en scène troublante de sa propre mort. Du réalisme à la tendresse, un projet percutant, tourné et produit par sa fille Caitlin.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23997,
+              "duree": 1,
+              "format": "Numérique"
+            }
+          ]
+        },
+        {
+          "ordre": 8,
+          "idFilm": 153094,
+          "titre": "Nid",
+          "art": "Le",
+          "titreVo": "Nest",
+          "artVo": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 2013,
+          "duree": 9,
+          "generique": "Evelyne Brochu",
+          "miniTexte": "Persuadée qu'il abrite des insectes, une femme demande à un médecin (Cronenberg lui-même) de lui retirer un sein. Film de commande destiné à l'institut EYE d'Amsterdam, un essai dérangeant sur la mutation physiologique.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23998,
+              "duree": 9,
+              "format": "Numérique"
+            }
+          ]
+        },
+        {
+          "ordre": 9,
+          "idFilm": 153090,
+          "titre": "Jim Ritchie Sculptor",
+          "realisateurs": "David Cronenberg",
+          "annee": 1971,
+          "duree": 6,
+          "miniTexte": "Dans un spot pensé pour la télévision canadienne, Cronenberg s'attarde sur l'œuvre du sculpteur montréalais Jim Ritchie lors de son séjour en France.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23988,
+              "duree": 6,
+              "format": "16 mm"
+            }
+          ],
+          "idFilmBoxoffice": 27250
         }
       ]
     },
@@ -3706,6 +4003,74 @@
       ]
     },
     {
+      "idSeance": 138702,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31310,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-03T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 83971,
+          "titre": "Mon père, cet étranger",
+          "titreVo": "Young Stranger",
+          "artVo": "The",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1956,
+          "duree": 84,
+          "adaptation": "D'après le scénario du téléfilm _Deal a Blow_ de Robert Dozier.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28574,
+              "duree": 84,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 46852
+        }
+      ]
+    },
+    {
+      "idSeance": 138703,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31312,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-03T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 145691,
+          "titre": "For Whom the Bell Tolls",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1959,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 184792,
       "idProg": 184,
       "idCycleCategories": [
@@ -3857,7 +4222,7 @@
       ],
       "idEvenement": 31331,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-01T18:30:00",
+      "dateHeure": "2025-02-01T19:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3871,6 +4236,34 @@
           "status": 0,
           "copies": [],
           "idFilmBoxoffice": 41169
+        }
+      ]
+    },
+    {
+      "idSeance": 138688,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31332,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-02T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 63881,
+          "titre": "Ronin",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1997,
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 18220
         }
       ]
     },
@@ -3995,6 +4388,34 @@
           "status": 2,
           "copies": [],
           "idFilmBoxoffice": 5170
+        }
+      ]
+    },
+    {
+      "idSeance": 138689,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31338,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-02T17:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45965,
+          "titre": "Grand Prix",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1966,
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 38703
         }
       ]
     },
