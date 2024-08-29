@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-08-29T10:21:03.585Z",
+  "updatedAt": "2024-08-29T10:50:01.060Z",
   "data": [
     {
       "idSeance": 138515,
@@ -3963,6 +3963,38 @@
       ]
     },
     {
+      "idSeance": 138773,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31307,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-06T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32357,
+          "titre": "Cavaliers",
+          "art": "Les",
+          "titreVo": "Horsemen",
+          "artVo": "The",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1970,
+          "adaptation": "D'après le roman _Les Cavaliers_ de Joseph Kessel.",
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 3240
+        }
+      ]
+    },
+    {
       "idSeance": 138555,
       "idProg": 184,
       "idCycleCategories": [
@@ -3999,6 +4031,34 @@
             }
           ],
           "idFilmBoxoffice": 48702
+        }
+      ]
+    },
+    {
+      "idSeance": 138889,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31309,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-10T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32362,
+          "titre": "Dead Bang",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1988,
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 44670
         }
       ]
     },
@@ -4044,6 +4104,37 @@
       ]
     },
     {
+      "idSeance": 138740,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31311,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-05T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 68011,
+          "titre": "Extravagant homme de mer",
+          "art": "L'",
+          "titreVo": "Extraordinary Seaman",
+          "artVo": "The",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1967,
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 202092
+        }
+      ]
+    },
+    {
       "idSeance": 138703,
       "idProg": 184,
       "idCycleCategories": [
@@ -4067,6 +4158,35 @@
           "annee": 1959,
           "status": 0,
           "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 138862,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31314,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-08T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32409,
+          "titre": "French connection 2",
+          "titreVo": "French Connection II",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1974,
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 20974
         }
       ]
     },
@@ -4098,6 +4218,164 @@
           "status": 0,
           "copies": [],
           "idFilmBoxoffice": 20646
+        }
+      ]
+    },
+    {
+      "idSeance": 138741,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31317,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-05T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32393,
+          "titre": "Homme de Kiev",
+          "art": "L'",
+          "titreVo": "Fixer",
+          "artVo": "The",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1967,
+          "adaptation": "D'après le roman _The Fixer_ de Bernard Malamud.",
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 22123
+        }
+      ]
+    },
+    {
+      "idSeance": 138860,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31318,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-08T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80015,
+          "titre": "Iceman Cometh",
+          "art": "The",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1973,
+          "duree": 237,
+          "adaptation": "D'après la pièce _The Iceman Cometh_ d'Eugene O'Neill.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28573,
+              "duree": 237,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 34441
+        }
+      ]
+    },
+    {
+      "idSeance": 184793,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31320,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-06T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32413,
+          "titre": "Impossible objet",
+          "art": "L'",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1972,
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 43590
+        }
+      ]
+    },
+    {
+      "idSeance": 184794,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31321,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-07T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32421,
+          "titre": "Prophecy – Le monstre",
+          "titreVo": "Prophecy",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1978,
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 20971
+        }
+      ]
+    },
+    {
+      "idSeance": 184795,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31322,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-07T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32399,
+          "titre": "À armes égales",
+          "titreVo": "Challenge",
+          "artVo": "The",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1981,
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 27
         }
       ]
     },
@@ -4135,6 +4413,86 @@
       ]
     },
     {
+      "idSeance": 138880,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31324,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-09T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 69041,
+          "titre": "Pacte Holcroft",
+          "art": "Le",
+          "titreVo": "Holcroft Covenant",
+          "artVo": "The",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1984,
+          "adaptation": "D'après le roman _The Holcroft Covenant_ de Robert Ludlum.",
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 31745
+        }
+      ]
+    },
+    {
+      "idSeance": 138888,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31325,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-10T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 56312,
+          "titre": "Paiement cash",
+          "titreVo": "52 Pick-up",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1986,
+          "duree": 110,
+          "generique": "Roy Scheider, Ann-Margret",
+          "adaptation": "D'après le roman _52 Pick-Up_ d'Elmore Leonard.",
+          "synopsis": "Un industriel américain, Harry Mitchell, mène une vie très active entre son entreprise florissante et sa femme Barbara aux ambitions politiques. Mais tout chavire quand des voyous le font chanter avec une vidéocassette en plein ébat avec sa jeune maîtresse. Harry veut régler l'affaire lui-même.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 9798,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 9992,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 2445
+        }
+      ]
+    },
+    {
       "idSeance": 138514,
       "idProg": 184,
       "idCycleCategories": [
@@ -4167,6 +4525,35 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 138879,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31327,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-09T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45966,
+          "titre": "Refroidi à 99 %",
+          "titreVo": "99 and 44/100 % Dead !",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1973,
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 115548
+        }
+      ]
     },
     {
       "idSeance": 138589,
@@ -7155,6 +7542,41 @@
       ]
     },
     {
+      "idSeance": 139004,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 811,
+          "idCategorie": 3464,
+          "titreCycle": "Yves Mirande",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31437,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-14T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50178,
+          "titre": "Messieurs les ronds-de-cuir",
+          "realisateurs": "Yves Mirande",
+          "annee": 1936,
+          "duree": 95,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28588,
+              "duree": 95,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 201104
+        }
+      ]
+    },
+    {
       "idSeance": 138924,
       "idProg": 184,
       "idCycleCategories": [
@@ -7193,6 +7615,255 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 139046,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 811,
+          "idCategorie": 3464,
+          "titreCycle": "Yves Mirande",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31439,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-15T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50181,
+          "titre": "Sept hommes... une femme",
+          "realisateurs": "Yves Mirande",
+          "annee": 1936,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28589,
+              "duree": 0,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 184800,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 811,
+          "idCategorie": 3464,
+          "titreCycle": "Yves Mirande",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31440,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-16T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50179,
+          "titre": "Paris-New York",
+          "realisateurs": "Yves Mirande",
+          "annee": 1939,
+          "duree": 90,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28594,
+              "duree": 90,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 171761
+        }
+      ]
+    },
+    {
+      "idSeance": 139005,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 811,
+          "idCategorie": 3464,
+          "titreCycle": "Yves Mirande",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31443,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-14T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50003,
+          "titre": "Grand Refrain",
+          "art": "Le",
+          "realisateurs": "Yves Mirande",
+          "annee": 1936,
+          "duree": 98,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28590,
+              "duree": 98,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 184799,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 811,
+          "idCategorie": 3464,
+          "titreCycle": "Yves Mirande",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31444,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-15T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49562,
+          "titre": "Café de Paris",
+          "realisateurs": "Yves Mirande, Georges Lacombe",
+          "annee": 1938,
+          "duree": 91,
+          "generique": "Jules Berry, Véra Korène, Simone Berriau",
+          "synopsis": "Dans un café, un meurtre est commis lors du réveillon, et vient troubler la fête.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 4448,
+              "duree": 91,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 3381
+        }
+      ]
+    },
+    {
+      "idSeance": 184797,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 811,
+          "idCategorie": 3464,
+          "titreCycle": "Yves Mirande",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31445,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-13T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49048,
+          "titre": "À nous deux, madame la vie",
+          "realisateurs": "Yves Mirande, René Guissart",
+          "annee": 1937,
+          "duree": 95,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28591,
+              "duree": 95,
+              "format": "16 mm"
+            }
+          ],
+          "idFilmBoxoffice": 172621
+        }
+      ]
+    },
+    {
+      "idSeance": 184796,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 811,
+          "idCategorie": 3464,
+          "titreCycle": "Yves Mirande",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31446,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-12T12:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50177,
+          "titre": "Merveilleuse Journée",
+          "art": "La",
+          "realisateurs": "Yves Mirande, Robert Wyler",
+          "annee": 1932,
+          "duree": 87,
+          "adaptation": "D'après la pièce _la Merveilleuse journée_ d'Yves Mirande et Gustave Quinson.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28593,
+              "duree": 87,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 10839
+        }
+      ]
+    },
+    {
+      "idSeance": 138959,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 811,
+          "idCategorie": 3464,
+          "titreCycle": "Yves Mirande",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31446,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-13T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50177,
+          "titre": "Merveilleuse Journée",
+          "art": "La",
+          "realisateurs": "Yves Mirande, Robert Wyler",
+          "annee": 1932,
+          "duree": 87,
+          "adaptation": "D'après la pièce _la Merveilleuse journée_ d'Yves Mirande et Gustave Quinson.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28593,
+              "duree": 87,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 10839
+        }
+      ]
     },
     {
       "idSeance": 184778,
@@ -7736,7 +8407,9 @@
       "idCycleCategories": [
         {
           "idCycle": 814,
-          "idCategorie": 3472
+          "idCategorie": 3472,
+          "titreCycle": "Jacques Prévert",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31471,
@@ -7771,7 +8444,9 @@
       "idCycleCategories": [
         {
           "idCycle": 814,
-          "idCategorie": 3472
+          "idCategorie": 3472,
+          "titreCycle": "Jacques Prévert",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31472,
@@ -7808,7 +8483,9 @@
       "idCycleCategories": [
         {
           "idCycle": 814,
-          "idCategorie": 3472
+          "idCategorie": 3472,
+          "titreCycle": "Jacques Prévert",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31473,
@@ -7864,7 +8541,9 @@
       "idCycleCategories": [
         {
           "idCycle": 814,
-          "idCategorie": 3472
+          "idCategorie": 3472,
+          "titreCycle": "Jacques Prévert",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31474,
@@ -7900,7 +8579,9 @@
       "idCycleCategories": [
         {
           "idCycle": 814,
-          "idCategorie": 3472
+          "idCategorie": 3472,
+          "titreCycle": "Jacques Prévert",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31475,
@@ -7915,21 +8596,21 @@
           "art": "Le",
           "realisateurs": "Marcel Carné",
           "annee": 1939,
-          "duree": 89,
+          "duree": 93,
           "generique": "Jean Gabin, Jules Berry, Jacqueline Laurent, Arletty",
           "synopsis": "Barricadé dans sa chambre, un homme se remémore les circonstances qui l'ont conduit au meurtre d'un infâme dresseur de chiens.",
           "status": 1,
           "copies": [
             {
-              "idCopie": 16401,
-              "duree": 89,
-              "format": "35 mm",
-              "langCopie": "FRE"
-            },
-            {
               "idCopie": 3413,
               "duree": 93,
               "format": "DCP",
+              "langCopie": "FRE"
+            },
+            {
+              "idCopie": 16401,
+              "duree": 89,
+              "format": "35 mm",
               "langCopie": "FRE"
             }
           ],
@@ -7943,7 +8624,9 @@
       "idCycleCategories": [
         {
           "idCycle": 814,
-          "idCategorie": 3472
+          "idCategorie": 3472,
+          "titreCycle": "Jacques Prévert",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31476,
@@ -7991,7 +8674,9 @@
       "idCycleCategories": [
         {
           "idCycle": 814,
-          "idCategorie": 3472
+          "idCategorie": 3472,
+          "titreCycle": "Jacques Prévert",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31477,
@@ -8030,7 +8715,9 @@
       "idCycleCategories": [
         {
           "idCycle": 814,
-          "idCategorie": 3472
+          "idCategorie": 3472,
+          "titreCycle": "Jacques Prévert",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31477,
@@ -8067,7 +8754,9 @@
       "idCycleCategories": [
         {
           "idCycle": 814,
-          "idCategorie": 3472
+          "idCategorie": 3472,
+          "titreCycle": "Jacques Prévert",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31478,
@@ -8103,7 +8792,9 @@
       "idCycleCategories": [
         {
           "idCycle": 814,
-          "idCategorie": 3472
+          "idCategorie": 3472,
+          "titreCycle": "Jacques Prévert",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31479,
@@ -8140,7 +8831,9 @@
       "idCycleCategories": [
         {
           "idCycle": 814,
-          "idCategorie": 3472
+          "idCategorie": 3472,
+          "titreCycle": "Jacques Prévert",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31480,
@@ -8170,6 +8863,79 @@
             }
           ],
           "idFilmBoxoffice": 3508
+        }
+      ]
+    },
+    {
+      "idSeance": 184798,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 811,
+          "idCategorie": 3464,
+          "titreCycle": "Yves Mirande",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31488,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-15T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49542,
+          "titre": "Derrière la façade",
+          "realisateurs": "Georges Lacombe, Yves Mirande",
+          "annee": 1938,
+          "duree": 85,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28592,
+              "duree": 85,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 37321
+        }
+      ]
+    },
+    {
+      "idSeance": 184801,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 811,
+          "idCategorie": 3464,
+          "titreCycle": "Yves Mirande",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31489,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-16T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49247,
+          "titre": "Moulin Rouge",
+          "realisateurs": "André Hugon",
+          "annee": 1939,
+          "duree": 95,
+          "generique": "Lucien Baroux, Annie France, René Dary",
+          "synopsis": "Un pauvre hère, qui vient d'être engagé comme artiste de music-hall, devient malgré lui locataire d'un immeuble particulier parisien.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 896,
+              "duree": 95,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 48202
         }
       ]
     },
@@ -8289,7 +9055,9 @@
       "idCycleCategories": [
         {
           "idCycle": 814,
-          "idCategorie": 3472
+          "idCategorie": 3472,
+          "titreCycle": "Jacques Prévert",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31496,
@@ -8323,7 +9091,9 @@
       "idCycleCategories": [
         {
           "idCycle": 814,
-          "idCategorie": 3472
+          "idCategorie": 3472,
+          "titreCycle": "Jacques Prévert",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31497,
@@ -8364,7 +9134,9 @@
       "idCycleCategories": [
         {
           "idCycle": 814,
-          "idCategorie": 3472
+          "idCategorie": 3472,
+          "titreCycle": "Jacques Prévert",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31498,
@@ -8401,7 +9173,9 @@
       "idCycleCategories": [
         {
           "idCycle": 814,
-          "idCategorie": 3472
+          "idCategorie": 3472,
+          "titreCycle": "Jacques Prévert",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31501,
