@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-08-29T09:25:38.001Z",
+  "updatedAt": "2024-08-29T10:01:40.118Z",
   "data": [
     {
       "idSeance": 138515,
@@ -1297,7 +1297,8 @@
             },
             {
               "idCopie": 28174,
-              "duree": 97
+              "duree": 97,
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 802
@@ -1342,7 +1343,8 @@
             },
             {
               "idCopie": 28174,
-              "duree": 97
+              "duree": 97,
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 802
@@ -3704,6 +3706,37 @@
       ]
     },
     {
+      "idSeance": 184792,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31315,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-01T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32415,
+          "titre": "Pays de la violence",
+          "art": "Le",
+          "titreVo": "I Walk the Line",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1969,
+          "adaptation": "D'après le roman _An Exile_ de Madison Jones.",
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 20646
+        }
+      ]
+    },
+    {
       "idSeance": 138631,
       "idProg": 184,
       "idCycleCategories": [
@@ -3812,6 +3845,36 @@
       ]
     },
     {
+      "idSeance": 138671,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31331,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-01T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32432,
+          "titre": "Train",
+          "art": "Le",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1963,
+          "adaptation": "D'après le roman _Le Front de l'art_ de Rose Valland.",
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 41169
+        }
+      ]
+    },
+    {
       "idSeance": 138554,
       "idProg": 184,
       "idCycleCategories": [
@@ -3840,6 +3903,35 @@
           "status": 0,
           "copies": [],
           "idFilmBoxoffice": 46853
+        }
+      ]
+    },
+    {
+      "idSeance": 138687,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31335,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-02T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32389,
+          "titre": "Black Sunday",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1976,
+          "adaptation": "D'après le roman _Black Sunday_ de Thomas Harris.",
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 21154
         }
       ]
     },
