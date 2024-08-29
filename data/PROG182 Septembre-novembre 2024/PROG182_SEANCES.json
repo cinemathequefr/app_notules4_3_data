@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-08-29T09:37:19.169Z",
+  "updatedAt": "2024-08-29T15:16:36.698Z",
   "data": [
     {
       "idSeance": 132987,
@@ -17792,7 +17792,7 @@
       ],
       "idEvenement": 31349,
       "typeEvenement": 13,
-      "libelleEvenement": "PRIX SERGE DANEY – 2022",
+      "libelleEvenement": "PRIX SERGE DANEY 2022-2023",
       "dateHeure": "2024-09-19T18:00:00",
       "idSalle": "JE",
       "theorique": true,
@@ -17994,6 +17994,7 @@
       "typeEvenement": 13,
       "dateHeure": "2024-10-07T20:00:00",
       "idSalle": "HL",
+      "typeSeance": 43,
       "items": [
         {
           "ordre": 1,
@@ -18015,7 +18016,8 @@
           ],
           "idFilmBoxoffice": 305776
         }
-      ]
+      ],
+      "mention": "Avant-première"
     },
     {
       "idSeance": 184774,
