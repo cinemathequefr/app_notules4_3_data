@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-08-29T15:16:41.306Z",
+  "updatedAt": "2024-08-30T08:02:46.684Z",
   "data": [
     {
       "idSeance": 138515,
@@ -927,7 +927,7 @@
       ],
       "idEvenement": 25759,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-02T20:30:00",
+      "dateHeure": "2025-02-02T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2083,7 +2083,7 @@
       ],
       "idEvenement": 31252,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-08T18:30:00",
+      "dateHeure": "2025-01-08T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2319,7 +2319,7 @@
       ]
     },
     {
-      "idSeance": 184766,
+      "idSeance": 184811,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -2331,7 +2331,7 @@
       ],
       "idEvenement": 31256,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-09T18:00:00",
+      "dateHeure": "2025-01-08T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2450,7 +2450,7 @@
       ]
     },
     {
-      "idSeance": 137997,
+      "idSeance": 184810,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -2462,7 +2462,7 @@
       ],
       "idEvenement": 31258,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-08T21:00:00",
+      "dateHeure": "2025-01-09T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4263,7 +4263,7 @@
       ],
       "idEvenement": 31318,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-08T18:00:00",
+      "dateHeure": "2025-02-08T15:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4636,7 +4636,7 @@
       ],
       "idEvenement": 31332,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-02T20:00:00",
+      "dateHeure": "2025-02-02T19:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4788,7 +4788,7 @@
       ],
       "idEvenement": 31338,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-02T17:30:00",
+      "dateHeure": "2025-02-02T17:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4804,7 +4804,7 @@
       ]
     },
     {
-      "idSeance": 137994,
+      "idSeance": 184808,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -4816,7 +4816,7 @@
       ],
       "idEvenement": 31352,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-08T20:45:00",
+      "dateHeure": "2025-01-12T14:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -5032,7 +5032,7 @@
       ]
     },
     {
-      "idSeance": 145387,
+      "idSeance": 184807,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -5044,7 +5044,7 @@
       ],
       "idEvenement": 31357,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-12T14:30:00",
+      "dateHeure": "2025-01-08T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -5713,7 +5713,7 @@
       ]
     },
     {
-      "idSeance": 137993,
+      "idSeance": 184809,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -5725,7 +5725,7 @@
       ],
       "idEvenement": 31369,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-08T18:00:00",
+      "dateHeure": "2025-01-12T17:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -6758,43 +6758,6 @@
       ]
     },
     {
-      "idSeance": 138130,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 416,
-          "idCategorie": 1847,
-          "titreCycle": "Otto Preminger",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31389,
-      "typeEvenement": 13,
-      "dateHeure": "2025-01-12T18:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 34443,
-          "titre": "Porgy and Bess",
-          "realisateurs": "Otto Preminger, Rouben Mamoulian",
-          "annee": 1958,
-          "duree": 136,
-          "generique": "Sidney Poitier, Dorothy Dandridge, Sammy Davis Jr.",
-          "adaptation": "D'après le drame musical _Porgy and Bess_ de George Gershwin.  \nD'après le drame musical _Porgy and Bess_ et le roman _Porgy_ de DuBose Heyward.  \nD'après le roman _Porgy_ de Dorothy Heyward.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28485,
-              "duree": 136,
-              "version": "VO"
-            }
-          ],
-          "idFilmBoxoffice": 18730
-        }
-      ]
-    },
-    {
       "idSeance": 145303,
       "idProg": 184,
       "idCycleCategories": [
@@ -6837,7 +6800,7 @@
       ]
     },
     {
-      "idSeance": 145302,
+      "idSeance": 184803,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -6849,7 +6812,7 @@
       ],
       "idEvenement": 31399,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-13T18:00:00",
+      "dateHeure": "2024-12-12T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -6879,7 +6842,7 @@
       ]
     },
     {
-      "idSeance": 137401,
+      "idSeance": 145302,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -6891,8 +6854,8 @@
       ],
       "idEvenement": 31399,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-16T18:00:00",
-      "idSalle": "GF",
+      "dateHeure": "2024-12-13T18:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -7338,7 +7301,7 @@
       ]
     },
     {
-      "idSeance": 145288,
+      "idSeance": 184805,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -7350,7 +7313,7 @@
       ],
       "idEvenement": 31430,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-12T20:30:00",
+      "dateHeure": "2024-12-08T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -7381,7 +7344,7 @@
       ]
     },
     {
-      "idSeance": 145287,
+      "idSeance": 184804,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -7393,9 +7356,8 @@
       ],
       "idEvenement": 31431,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-12T18:00:00",
-      "idSalle": "HL",
-      "typeSeance": 44,
+      "dateHeure": "2024-12-16T18:00:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -7427,8 +7389,7 @@
           ],
           "idFilmBoxoffice": 2664
         }
-      ],
-      "mention": "Ouverture de la rétrospective"
+      ]
     },
     {
       "idSeance": 145243,
@@ -7512,7 +7473,7 @@
       ]
     },
     {
-      "idSeance": 145260,
+      "idSeance": 184806,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -7524,8 +7485,8 @@
       ],
       "idEvenement": 31434,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-08T20:00:00",
-      "idSalle": "HL",
+      "dateHeure": "2024-12-11T20:30:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -8135,7 +8096,7 @@
       ],
       "idEvenement": 31455,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-11T16:00:00",
+      "dateHeure": "2024-12-11T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -8177,7 +8138,7 @@
       ],
       "idEvenement": 31456,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-16T20:15:00",
+      "dateHeure": "2024-12-16T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -8880,6 +8841,46 @@
             }
           ],
           "idFilmBoxoffice": 3508
+        }
+      ]
+    },
+    {
+      "idSeance": 139190,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 815,
+          "idCategorie": 3473,
+          "titreCycle": "Annette Wademant",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31484,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-21T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50426,
+          "titre": "Lola Montès",
+          "realisateurs": "Max Ophuls",
+          "annee": 1955,
+          "duree": 115,
+          "generique": "Martine Carol, Peter Ustinov, Anton Walbrook",
+          "adaptation": "D'après le roman _La Vie extraordinaire de Lola Montès_ de Cécil Saint-Laurent.",
+          "synopsis": "Sous un chapiteau de cirque, monsieur Loyal et toute sa troupe présentent le spectacle de « la vie extraordinaire de Lola Montès ».",
+          "commentaire": "À sa sortie en 1955, _Lola Montès_ s'attire les foudres du public qui boude cette « énorme pâtisserie viennoise fade et sans goût », « ce produit de sous-préfecture pour sur-public ». On ne veut pas de cette œuvre non conformiste, l'histoire d'une femme fatale, la plus scandaleuse du monde, racontée dans un grand numéro de cirque à sensation. Dès le départ, tout commence mal. Ophuls tourne une folie. On lui impose Martine Carol, alors qu'il songe à Darrieux. On lui impose la couleur, le Cinémascope et la stéréophonie. Mais il n'aime pas ça. Alors il joue avec et innove. Il étire plus ou moins le format de l'écran selon les scènes, utilise les couleurs, dominantes rouge ou bleue, en fonction des états d'âme de Lola. En Monsieur Loyal, Peter Ustinov court partout avec son fouet, tandis que Lola enchaîne et interprète les tableaux de sa vie sur la piste flamboyante. En 1957, devant l'échec commercial et contre la volonté du cinéaste, les producteurs décident de remonter et de raccourcir le film. C'est un massacre. Les cinéastes de la Nouvelle Vague, Truffaut en tête, prennent la défense d'Ophuls. Méprisé du grand public, il meurt la même année. En 2006, la Cinémathèque décide de restaurer la version originale de ce « chef-d'œuvre maudit » et de réhabiliter le chapiteau du Mammouth Circus, ce « plafond de la chapelle Sixtine du cinéma moderne », comme l'appelle Claude Beylie, « où Ophuls est parvenu à rassembler, en un feu d'artifice grandiose, tout son univers, tous ses thèmes, tout son passé et le pressentiment de sa mort même ».",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 1938,
+              "duree": 115,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 1881
         }
       ]
     },
