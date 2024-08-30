@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-08-30T07:58:54.723Z",
+  "updatedAt": "2024-08-30T09:46:50.830Z",
   "data": [
     {
       "idSeance": 132987,
@@ -1605,9 +1605,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 20203,
+              "idCopie": 20215,
               "duree": 163,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -1646,9 +1646,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 20203,
+              "idCopie": 20215,
               "duree": 163,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -15633,8 +15633,6 @@
       "typeEvenement": 13,
       "dateHeure": "2024-10-03T19:30:00",
       "idSalle": "JE",
-      "idSeanceAssoc": 134192,
-      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -16072,8 +16070,6 @@
       "typeConference": "Conférence",
       "idSalle": "JE",
       "duree": 90,
-      "idSeanceAssoc": 133935,
-      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
