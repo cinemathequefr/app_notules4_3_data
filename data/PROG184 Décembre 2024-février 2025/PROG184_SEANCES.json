@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-08-30T15:12:56.374Z",
+  "updatedAt": "2024-09-02T08:19:07.181Z",
   "data": [
     {
       "idSeance": 138515,
@@ -358,7 +358,7 @@
           "realisateurs": "David Cronenberg",
           "annee": 1983,
           "duree": 103,
-          "generique": "Christopher Walken, Brooke Adams, Tom Skerritt",
+          "generique": "Christopher Walken, Brooke Adams, Tom Skerritt, Martin Sheen",
           "adaptation": "D'après le roman _Dead Zone_ de Stephen King.",
           "synopsis": "Après cinq ans passés dans le coma, un homme se réveille avec un terrifiant don de prophétie qui va bouleverser sa vie.",
           "miniTexte": "Le portrait d'un marginal doté d'un pouvoir de divination qui le dépasse. Avec une sobriété exemplaire, Cronenberg s'approprie le roman éponyme de Stephen King et réalise l'un de ses films les plus personnels et les plus émouvants. S'il emprunte autant au fantastique qu'au thriller schizophrénique, il façonne surtout un drame implacable.",
@@ -495,7 +495,7 @@
           "realisateurs": "David Cronenberg",
           "annee": 1991,
           "duree": 115,
-          "generique": "Peter Weller, Judy Davis, Roy Scheider",
+          "generique": "Peter Weller, Judy Davis, Roy Scheider, Ian Holm",
           "adaptation": "D'après le roman _Le Festin nu_ de William S. Burroughs.",
           "synopsis": "Bill Lee, ex-junkie et écrivain recyclé dans l'extermination de cafards, abuse des substances qu'il est censé pulvériser sur les insectes. Après avoir tué accidentellement sa femme, il sombre dans une psychose qui l'entraîne dans un voyage au bout de la folie.\n",
           "miniTexte": "Un thriller insidieux sur la création, peuplé de créatures hallucinogènes et de monstres phalliques. Du bestiaire fantastique à l'exploration toujours déjantée du corps-machine, Cronenberg porte à l'écran son livre de chevet, le roman – réputé inadaptable – de Burroughs, pour un grand bazar, tantôt drôle, tantôt terrifiant, des métamorphoses.",
@@ -815,7 +815,7 @@
           "realisateurs": "David Cronenberg",
           "annee": 2011,
           "duree": 108,
-          "generique": "Robert Pattinson, Juliette Binoche, Sarah Gadon",
+          "generique": "Robert Pattinson, Juliette Binoche, Sarah Gadon, Mathieu Amalric",
           "adaptation": "D'après le roman _Cosmopolis_ de Don DeLillo.",
           "synopsis": "Dans un New York en ébullition, l'ère du capitalisme touche à sa fin. Tandis que Manhattan sombre dans le chaos, un _golden boy_ de la haute finance, enfermé dans sa limousine, n'a qu'une seule obsession : une coupe de cheveux chez son coiffeur à l'autre bout de la ville.\n\n\n",
           "miniTexte": "Adaptation du roman éponyme de Don DeLillo. L'écriture cryptique de l'auteur renaît sous la forme d'un huis clos métaphysique et loquace, funeste représentation de la crise boursière. Avec Robert Pattinson, d'une intensité insoupçonnée en golden boy millionnaire, qui tord le cou à ses détracteurs après le phénomène _Twilight_.",
@@ -897,7 +897,7 @@
           "realisateurs": "David Cronenberg",
           "annee": 1998,
           "duree": 96,
-          "generique": "Jennifer Jason Leigh, Jude Law, Willem Dafoe",
+          "generique": "Jennifer Jason Leigh, Jude Law, Willem Dafoe, Ian Holm",
           "synopsis": "La conceptrice d'un jeu vidéo révolutionnaire est poursuivie par des tueurs d'une secte « réaliste ». Pour leur échapper, elle se cache dans les mondes virtuels qu'elle a créés.",
           "miniTexte": "Un jeu vidéo d'un nouveau genre se branche sur le système nerveux du joueur pour l'immerger dans un monde parallèle. Ours d'argent en 1999, Cronenberg critique le cyberpunk avant d'épingler les attraits et les dangers du virtuel. Un polar futuriste au parcours labyrinthique et chimérique, inspiré par Philip K. Dick.",
           "status": 2,
@@ -1101,7 +1101,7 @@
           "realisateurs": "David Cronenberg",
           "annee": 2000,
           "duree": 6,
-          "generique": "Leslie Carlson, Marc Donato",
+          "generique": "Leslie Carlson, Daniel Magder",
           "synopsis": "Tandis qu'un vieil acteur se plaint de l'état actuel du cinéma, un groupe d'enfants débarque pour le filmer avec une caméra 35 mm.",
           "miniTexte": "Commande pour le programme spécial célébrant le 25<sup>e</sup> anniversaire du Festival de Toronto. Cronenberg évoque l'état actuel du cinéma, imaginé comme un virus qui attaque l'esprit humain.",
           "status": 2,
@@ -3592,10 +3592,20 @@
           "artVo": "The",
           "realisateurs": "Karel Reisz",
           "annee": 1973,
+          "duree": 111,
           "generique": "James Caan, Paul Sorvino, Lauren Hutton",
           "synopsis": "Alex Freed est professeur de littérature. Cependant il a un vice qui lui fait perdre tout son argent et l'affection de ses proches: le jeu.",
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28660,
+              "duree": 111,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 49931
         }
       ],
@@ -3626,10 +3636,20 @@
           "artVo": "The",
           "realisateurs": "Karel Reisz",
           "annee": 1973,
+          "duree": 111,
           "generique": "James Caan, Paul Sorvino, Lauren Hutton",
           "synopsis": "Alex Freed est professeur de littérature. Cependant il a un vice qui lui fait perdre tout son argent et l'affection de ses proches: le jeu.",
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28660,
+              "duree": 111,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 49931
         }
       ]
@@ -3668,6 +3688,16 @@
               "format": "16 mm",
               "version": "VO",
               "langCopie": "ENG"
+            },
+            {
+              "idCopie": 28675,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 28666,
+              "duree": 101
             }
           ],
           "idFilmBoxoffice": 69654
@@ -3698,9 +3728,21 @@
           "titreVo": "Who'll Stop the Rain ?",
           "realisateurs": "Karel Reisz",
           "annee": 1977,
+          "duree": 127,
           "adaptation": "D'après le roman _Dog Soldiers_ de Robert Stone.",
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28670,
+              "duree": 127,
+              "format": "35 mm",
+              "version": "VF"
+            },
+            {
+              "idCopie": 28671,
+              "duree": 127
+            }
+          ],
           "idFilmBoxoffice": 49932
         }
       ]
@@ -3740,6 +3782,10 @@
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28669,
+              "duree": 177
             }
           ],
           "idFilmBoxoffice": 8379
@@ -3771,9 +3817,25 @@
           "artVo": "The",
           "realisateurs": "Karel Reisz",
           "annee": 1980,
+          "duree": 124,
           "adaptation": "D'après le roman _The French Lieutenant's Woman_ de John Fowles.",
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28664,
+              "duree": 124,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
+            },
+            {
+              "idCopie": 28665,
+              "duree": 124,
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
           "idFilmBoxoffice": 26653
         }
       ]
@@ -3800,8 +3862,22 @@
           "titre": "We Are the Lambeth Boys",
           "realisateurs": "Karel Reisz",
           "annee": 1959,
+          "duree": 52,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28662,
+              "duree": 52,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            },
+            {
+              "idCopie": 28672,
+              "duree": 52,
+              "format": "35 mm"
+            }
+          ]
         }
       ]
     },
@@ -3867,8 +3943,22 @@
           "titreVo": "Morgan, a Suitable Case for Treatment",
           "realisateurs": "Karel Reisz",
           "annee": 1965,
+          "duree": 90,
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28668,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28667,
+              "duree": 90
+            }
+          ],
           "idFilmBoxoffice": 9705
         }
       ]
@@ -3896,10 +3986,27 @@
           "titreVo": "Saturday Night and Sunday Morning",
           "realisateurs": "Karel Reisz",
           "annee": 1960,
+          "duree": 90,
           "adaptation": "D'après le roman _Saturday Night and Sunday Morning_ d'Alan Sillitoe.",
           "synopsis": "Jeune ouvrier révolté, Arthur a pour maîtresse Brenda, la femme de l'un de ses collègues, plus âgée que lui.",
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28663,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 6674,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 28071
         }
       ]
@@ -3926,8 +4033,21 @@
           "titre": "Momma Don't Allow",
           "realisateurs": "Karel Reisz, Tony Richardson",
           "annee": 1956,
+          "duree": 22,
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28661,
+              "duree": 22,
+              "format": "16 mm"
+            },
+            {
+              "idCopie": 28674,
+              "duree": 22,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ],
           "idFilmBoxoffice": 29735
         }
       ]
@@ -3954,8 +4074,17 @@
           "titre": "March to Aldermaston",
           "realisateurs": "Lindsay Anderson, Karel Reisz",
           "annee": 1959,
+          "duree": 33,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28673,
+              "duree": 33,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ]
         }
       ]
     },
@@ -4897,7 +5026,7 @@
           "generique": "Deborah Kerr, David Niven, Jean Seberg",
           "adaptation": "D'après le roman _Bonjour tristesse_ de Françoise Sagan.",
           "synopsis": "Cécile, 18 ans, vit avec son père Raymond, un riche et séduisant veuf. À l'exemple de son père, la vie de Cécile ne semble être que futilités. Car quelque chose s'est brisé en elle durant leurs dernières vacances.\n\n---\n\nDepuis un été sur la Côte, où Cécile menait avec son père une vie légère et douce, la jeune parisienne a perdu sa joie de vivre.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 5382,
@@ -5082,9 +5211,9 @@
           "annee": 1959,
           "duree": 160,
           "generique": "James Stewart, Lee Remick, Ben Gazzara",
-          "adaptation": "D'après le roman _Anatomy of a murder_ de Robert Traver.",
+          "adaptation": "D'après le roman _Anatomy of a Murder_ de Robert Traver.",
           "synopsis": "Accusé d'avoir tué le violeur de sa femme, le lieutenant Frederick Manion plaide non coupable, se disant victime d'une « impulsion irrésistible ». Le procès commence et la vérité a du mal à émerger.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 14747,
@@ -5123,9 +5252,9 @@
           "annee": 1959,
           "duree": 160,
           "generique": "James Stewart, Lee Remick, Ben Gazzara",
-          "adaptation": "D'après le roman _Anatomy of a murder_ de Robert Traver.",
+          "adaptation": "D'après le roman _Anatomy of a Murder_ de Robert Traver.",
           "synopsis": "Accusé d'avoir tué le violeur de sa femme, le lieutenant Frederick Manion plaide non coupable, se disant victime d'une « impulsion irrésistible ». Le procès commence et la vérité a du mal à émerger.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 14747,
@@ -5763,7 +5892,8 @@
           "annee": 1946,
           "duree": 140,
           "generique": "Linda Darnell, Cornel Wilde, George Sanders",
-          "status": 0,
+          "adaptation": "D'après le roman _Ambre_ de Kathleen Winsor.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28469,
@@ -7285,6 +7415,187 @@
       ]
     },
     {
+      "idSeance": 184818,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 3462,
+          "titreCycle": "Fenêtre sur les collections"
+        }
+      ],
+      "idEvenement": 31416,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-10T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 77847,
+          "titre": "Montagne qui accouche",
+          "art": "La",
+          "realisateurs": "Jacques Colombat",
+          "annee": 1972,
+          "duree": 13,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28490,
+              "duree": 13,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 69155,
+          "titre": "Escargots",
+          "art": "Les",
+          "realisateurs": "René Laloux",
+          "annee": 1965,
+          "duree": 11,
+          "synopsis": "Un paysan pleure sur ses chétives salades... celles-ci grandissent démesurément. Les escargots mangent les salades ... Eux aussi grandissent en détruisant le paysage. Le calme renaît. Le paysan rescapé pleure sur ses chétives carottes ... Attention aux lapins...!",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28493,
+              "duree": 11,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 154951,
+          "titre": "Animoses",
+          "realisateurs": "Mose",
+          "annee": 1972,
+          "duree": 9,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28491,
+              "duree": 9,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 37688,
+          "titre": "Petit soldat",
+          "art": "Le",
+          "realisateurs": "Paul Grimault",
+          "annee": 1947,
+          "duree": 10,
+          "adaptation": "D'après le conte _Le Soldat de plomb_ de Hans Christian Andersen.",
+          "synopsis": "Dans un magasin de jouets, un petit soldat est amoureux d'une poupée.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28554,
+              "duree": 10,
+              "format": "16 mm",
+              "langCopie": "FRE"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 140177,
+          "titre": "Arthur à la campagne",
+          "realisateurs": "Jacques Colombat",
+          "annee": 1981,
+          "duree": 9,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28495,
+              "duree": 9
+            }
+          ]
+        },
+        {
+          "ordre": 6,
+          "idFilm": 154953,
+          "titre": "Sky Scraping",
+          "realisateurs": "Dave Fleischer",
+          "annee": 1930,
+          "duree": 6,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28496,
+              "duree": 6,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138076,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 3462,
+          "titreCycle": "Fenêtre sur les collections"
+        }
+      ],
+      "idEvenement": 31422,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-10T20:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154954,
+          "titre": "Chicken Western",
+          "realisateurs": "Jacques Colombat",
+          "annee": 1962,
+          "duree": 12,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28518,
+              "duree": 12
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 30935,
+          "titre": "Sa dernière culotte",
+          "titreVo": "Long Pants",
+          "realisateurs": "Frank Capra",
+          "annee": 1927,
+          "duree": 58,
+          "generique": "Harry Langdon, Gladys Brockwell, Alan Roscoe",
+          "synopsis": "Harry, un jeune homme surprotégé par sa mère, s'amourache d'une redoutable trafiquante de drogue. Après quelques mésaventures et un séjour en prison, il va enfin reconnaître sa monumentale erreur et se tourne vers Priscilla, son adorable voisine.\n\n---\n\nLes mésaventures d'un jeune homme trop protégé par sa mère qui ne voit en lui que son éternel petit garçon en culotte courte ! Précédé de Say It with Sables de Frank Capra – 1928 (INT. ANG., 1') bande-annonce d'un film aujourd'hui perdu.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 810,
+              "duree": 58,
+              "format": "16 mm",
+              "intertitres": "INT. ANG."
+            },
+            {
+              "idCopie": 873,
+              "duree": 58,
+              "format": "16 mm",
+              "intertitres": "INT. ANG."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 184805,
       "idProg": 184,
       "idCycleCategories": [
@@ -8558,21 +8869,21 @@
           "art": "Le",
           "realisateurs": "Marcel Carné",
           "annee": 1939,
-          "duree": 93,
+          "duree": 89,
           "generique": "Jean Gabin, Jules Berry, Jacqueline Laurent, Arletty",
           "synopsis": "Barricadé dans sa chambre, un homme se remémore les circonstances qui l'ont conduit au meurtre d'un infâme dresseur de chiens.",
           "status": 1,
           "copies": [
             {
-              "idCopie": 3413,
-              "duree": 93,
-              "format": "DCP",
-              "langCopie": "FRE"
-            },
-            {
               "idCopie": 16401,
               "duree": 89,
               "format": "35 mm",
+              "langCopie": "FRE"
+            },
+            {
+              "idCopie": 3413,
+              "duree": 93,
+              "format": "DCP",
               "langCopie": "FRE"
             }
           ],
