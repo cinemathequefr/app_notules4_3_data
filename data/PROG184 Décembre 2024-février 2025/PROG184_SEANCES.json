@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-03T12:17:14.154Z",
+  "updatedAt": "2024-09-03T16:15:50.637Z",
   "data": [
     {
       "idSeance": 138515,
@@ -3717,12 +3717,12 @@
           "idFilm": 45716,
           "titre": "Guerriers de l'enfer",
           "art": "Les",
-          "titreVo": "Who'll Stop the Rain ?",
+          "titreVo": "Who'll Stop the Rain?",
           "realisateurs": "Karel Reisz",
           "annee": 1977,
           "duree": 127,
           "adaptation": "D'après le roman _Dog Soldiers_ de Robert Stone.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28671,
@@ -5001,7 +5001,8 @@
               "idCopie": 11072,
               "duree": 93,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 2242
@@ -5272,14 +5273,11 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28619,
-              "duree": 102,
-              "format": "16 mm",
-              "version": "VO"
-            },
-            {
               "idCopie": 28456,
-              "duree": 102
+              "duree": 102,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 43597
@@ -5361,7 +5359,10 @@
             },
             {
               "idCopie": 28454,
-              "duree": 81
+              "duree": 81,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 109454
@@ -6066,14 +6067,17 @@
               "sousTitres": "STF"
             },
             {
+              "idCopie": 28482,
+              "duree": 95,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
               "idCopie": 28481,
               "duree": 95,
               "format": "35 mm",
               "version": "VO"
-            },
-            {
-              "idCopie": 28482,
-              "duree": 95
             }
           ],
           "idFilmBoxoffice": 5358
@@ -6123,14 +6127,17 @@
               "sousTitres": "STF"
             },
             {
+              "idCopie": 28482,
+              "duree": 95,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
               "idCopie": 28481,
               "duree": 95,
               "format": "35 mm",
               "version": "VO"
-            },
-            {
-              "idCopie": 28482,
-              "duree": 95
             }
           ],
           "idFilmBoxoffice": 5358
