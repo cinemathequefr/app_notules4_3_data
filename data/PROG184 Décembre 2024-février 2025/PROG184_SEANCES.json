@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-03T09:18:05.227Z",
+  "updatedAt": "2024-09-03T12:17:14.154Z",
   "data": [
     {
       "idSeance": 138515,
@@ -3831,11 +3831,11 @@
           "idFilmBoxoffice": 26653
         },
         {
+          "ordre": 2,
           "idConf": 31574,
-          "titre": "DIALOGUE AVEC AXELLE ROPERT",
-          "typeConference": "Dialogue",
-          "duree": 90,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Axelle Ropert",
+          "duree": 90
         }
       ]
     },
@@ -5106,12 +5106,18 @@
           "idCategorie": 1847,
           "titreCycle": "Otto Preminger",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 416,
+          "idCategorie": 3616,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31356,
-      "typeEvenement": 13,
       "dateHeure": "2025-01-19T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -5144,6 +5150,13 @@
             }
           ],
           "idFilmBoxoffice": 5260
+        },
+        {
+          "ordre": 2,
+          "idConf": 31576,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Jean-François Rauger",
+          "duree": 90
         }
       ]
     },
@@ -5450,12 +5463,18 @@
           "idCategorie": 1847,
           "titreCycle": "Otto Preminger",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 416,
+          "idCategorie": 3616,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31363,
-      "typeEvenement": 13,
       "dateHeure": "2025-01-11T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -5480,6 +5499,13 @@
             }
           ],
           "idFilmBoxoffice": 5359
+        },
+        {
+          "ordre": 2,
+          "idConf": 31575,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Murielle Joudet",
+          "duree": 90
         }
       ]
     },
@@ -7377,9 +7403,10 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28493,
+              "idCopie": 28632,
               "duree": 11,
-              "format": "35 mm"
+              "format": "16 mm",
+              "version": "VF"
             }
           ]
         },
@@ -7500,12 +7527,6 @@
           "copies": [
             {
               "idCopie": 810,
-              "duree": 58,
-              "format": "16 mm",
-              "intertitres": "INT. ANG."
-            },
-            {
-              "idCopie": 873,
               "duree": 58,
               "format": "16 mm",
               "intertitres": "INT. ANG."
