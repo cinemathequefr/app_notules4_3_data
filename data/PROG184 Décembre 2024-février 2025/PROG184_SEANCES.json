@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-03T09:00:10.079Z",
+  "updatedAt": "2024-09-03T09:18:05.227Z",
   "data": [
     {
       "idSeance": 138515,
@@ -3105,12 +3105,6 @@
               "format": "DCP",
               "version": "VO",
               "langCopie": "ENG"
-            },
-            {
-              "idCopie": 28430,
-              "duree": 111,
-              "format": "16 mm",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 40143
@@ -3731,12 +3725,6 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28670,
-              "duree": 127,
-              "format": "35 mm",
-              "version": "VF"
-            },
-            {
               "idCopie": 28671,
               "duree": 127
             }
@@ -3799,12 +3787,18 @@
           "idCategorie": 3453,
           "titreCycle": "Karel Reisz",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 808,
+          "idCategorie": 3615,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31300,
-      "typeEvenement": 13,
       "dateHeure": "2024-12-14T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -3835,6 +3829,13 @@
             }
           ],
           "idFilmBoxoffice": 26653
+        },
+        {
+          "idConf": 31574,
+          "titre": "DIALOGUE AVEC AXELLE ROPERT",
+          "typeConference": "Dialogue",
+          "duree": 90,
+          "ordre": 2
         }
       ]
     },
@@ -3995,13 +3996,6 @@
               "format": "DCP",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 6674,
-              "duree": 90,
-              "format": "35 mm",
-              "version": "VO",
               "sousTitres": "STF"
             }
           ],
