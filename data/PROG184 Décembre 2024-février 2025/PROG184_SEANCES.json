@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-03T16:15:50.637Z",
+  "updatedAt": "2024-09-04T06:54:10.707Z",
   "data": [
     {
       "idSeance": 138515,
@@ -9638,6 +9638,33 @@
               "format": "DCP"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 184862,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 811,
+          "idCategorie": 3618,
+          "titreCycle": "Yves Mirande",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31584,
+      "typeEvenement": 14,
+      "dateHeure": "2025-02-15T14:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31584,
+          "idTypeConf": 16,
+          "titre": "Film + Dialogue avec Noël Herpe",
+          "duree": 60
         }
       ]
     }
