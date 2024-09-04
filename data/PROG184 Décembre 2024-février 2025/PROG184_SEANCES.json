@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-04T06:54:10.707Z",
+  "updatedAt": "2024-09-04T16:49:19.337Z",
   "data": [
     {
       "idSeance": 138515,
@@ -1304,6 +1304,60 @@
       "mention": "Avant-première"
     },
     {
+      "idSeance": 145324,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3477,
+          "titreCycle": "Séances spéciales"
+        }
+      ],
+      "idEvenement": 30935,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-22T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154798,
+          "titre": "Napoléon vu par Abel Gance (partie 1)",
+          "realisateurs": "Abel Gance",
+          "annee": 1927,
+          "duree": 220,
+          "generique": "Albert Dieudonné, Maryse Damia, Wladimir Roudenko",
+          "miniTexte": "Objet de fascination depuis le triomphe de sa première projection en 1927, l'un des plus grands films de l'histoire du cinéma aura connu plusieurs variantes, entre autres disparition et résurrection, jusqu'à la « grande version » voulue par Gance. Reconstruite et restaurée par la Cinémathèque sous la direction de Georges Mourier, l'œuvre frappe, un siècle après son tournage, par ses audaces visuelles et ses prouesses techniques (triple écran). De l'enfance à Brienne à la Campagne d'Italie, en passant par la Révolution française, l'épopée napoléonienne dans toute sa splendeur et sa démesure retrouvées.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27803,
+              "duree": 220,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 1000004404
+        },
+        {
+          "ordre": 2,
+          "idFilm": 154797,
+          "titre": "Napoléon vu par Abel Gance (partie 2)",
+          "realisateurs": "Abel Gance",
+          "annee": 1927,
+          "duree": 205,
+          "generique": "Wladimir Roudenko, Albert Dieudonné, Maryse Damia",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27804,
+              "duree": 205,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 1000004406
+        }
+      ]
+    },
+    {
       "idSeance": 137205,
       "idProg": 184,
       "idCycleCategories": [
@@ -1661,7 +1715,7 @@
       ],
       "idEvenement": 30984,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-08T19:30:00",
+      "dateHeure": "2024-12-08T20:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1835,12 +1889,18 @@
           "idCategorie": 3394,
           "titreCycle": "Sergueï Paradjanov",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 796,
+          "idCategorie": 3619,
+          "titreCycle": "Sergueï Paradjanov",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 30989,
-      "typeEvenement": 13,
       "dateHeure": "2024-12-07T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -1865,6 +1925,13 @@
             }
           ],
           "idFilmBoxoffice": 803
+        },
+        {
+          "ordre": 2,
+          "idConf": 31585,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Érik Bullot",
+          "duree": 60
         }
       ]
     },
@@ -2198,7 +2265,7 @@
       ]
     },
     {
-      "idSeance": 138029,
+      "idSeance": 184868,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -2206,12 +2273,18 @@
           "idCategorie": 3448,
           "titreCycle": "Elio Petri",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 806,
+          "idCategorie": 3620,
+          "titreCycle": "Elio Petri",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31254,
-      "typeEvenement": 13,
-      "dateHeure": "2025-01-09T20:15:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-01-04T14:30:00",
+      "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -2235,11 +2308,18 @@
             }
           ],
           "idFilmBoxoffice": 2820
+        },
+        {
+          "ordre": 2,
+          "idConf": 31586,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Jean-François Rauger",
+          "duree": 90
         }
       ]
     },
     {
-      "idSeance": 137928,
+      "idSeance": 184869,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -2251,8 +2331,8 @@
       ],
       "idEvenement": 31255,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-04T14:30:00",
-      "idSalle": "HL",
+      "dateHeure": "2025-01-09T20:15:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -4253,7 +4333,7 @@
       ]
     },
     {
-      "idSeance": 138862,
+      "idSeance": 138873,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -4265,8 +4345,8 @@
       ],
       "idEvenement": 31314,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-08T20:30:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-02-09T14:30:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -4296,38 +4376,6 @@
       "idEvenement": 31315,
       "typeEvenement": 13,
       "dateHeure": "2025-02-01T14:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 32415,
-          "titre": "Pays de la violence",
-          "art": "Le",
-          "titreVo": "I Walk the Line",
-          "realisateurs": "John Frankenheimer",
-          "annee": 1969,
-          "adaptation": "D'après le roman _An Exile_ de Madison Jones.",
-          "miniTexte": "Dans une petite ville du Tennessee, le vieillissant shérif Tawes s'ennuie, dans son mariage, dans son travail, et s'éprend de la jeune Alma. Mais elle est la fille d'un bootlegger traqué par un agent de l'État. La belle ingénue a l'attrait d'une dernière chance, et Gregory Peck traîne sa mélancolie dans des paysages évoquant Faulkner ou Steinbeck, au rythme des ballades folk. Le titre français ne rend pas justice à l'original – tiré de la chanson éponyme de Johnny Cash, auteur de la BO –, qui dit toute l'ambiguïté d'un homme tiraillé entre sa mission et son rêve d'ailleurs. Une œuvre douce-amère, ourlée de délicatesse.",
-          "status": 1,
-          "copies": [],
-          "idFilmBoxoffice": 20646
-        }
-      ]
-    },
-    {
-      "idSeance": 139042,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 807,
-          "idCategorie": 3452,
-          "titreCycle": "John Frankenheimer",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31315,
-      "typeEvenement": 13,
-      "dateHeure": "2025-02-15T14:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4392,7 +4440,7 @@
       ],
       "idEvenement": 31318,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-08T15:30:00",
+      "dateHeure": "2025-02-08T17:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4715,7 +4763,7 @@
       ],
       "idEvenement": 31331,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-01T19:00:00",
+      "dateHeure": "2025-02-01T19:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -6886,18 +6934,18 @@
           "titreVo": "Ultimo tango a Parigi",
           "realisateurs": "Bernardo Bertolucci",
           "annee": 1972,
-          "duree": 126,
+          "duree": 125,
           "generique": "Marlon Brando, Maria Schneider, Jean-Pierre Léaud, Massimo Girotti",
           "synopsis": "Un Américain installé à Paris vit une relation torride avec une jeune femme. Jusqu'à quel point peut-on vivre une passion sans sentiments et en dehors de la société",
           "miniTexte": "Un objet de scandale, considéré par Bertolucci comme le reflet de la révolution sexuelle vécue en mai 68. Cinquante ans après sa sortie, le film conserve la même odeur de soufre tandis que la passion dévastatrice d'un couple d'inconnus interroge les rapports entre le sexe et la société.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 12330,
-              "duree": 126,
-              "format": "35 mm",
+              "idCopie": 28695,
+              "duree": 125,
+              "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 170
@@ -6978,7 +7026,8 @@
             {
               "idCopie": 28472,
               "duree": 79,
-              "format": "DCP"
+              "format": "DCP",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 4941
@@ -7092,7 +7141,7 @@
           "titreVo": "One-Eyed Jacks",
           "realisateurs": "Marlon Brando",
           "annee": 1959,
-          "duree": 144,
+          "duree": 141,
           "generique": "Marlon Brando, Karl Malden, Joan Petrone",
           "adaptation": "D'après le roman _La Véritable Histoire de la mort d'Henry Jones_ de Charles Neider.",
           "synopsis": "Après un hold-up, Dad Longworth abandonne son complice Rio à la police et disparaît avec le butin. Cinq ans après sa sortie de prison, Rio le retrouve.",
@@ -7100,11 +7149,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 10668,
-              "duree": 144,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "idCopie": 28696,
+              "duree": 141,
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 6688
@@ -7136,7 +7183,7 @@
           "titreVo": "One-Eyed Jacks",
           "realisateurs": "Marlon Brando",
           "annee": 1959,
-          "duree": 144,
+          "duree": 141,
           "generique": "Marlon Brando, Karl Malden, Joan Petrone",
           "adaptation": "D'après le roman _La Véritable Histoire de la mort d'Henry Jones_ de Charles Neider.",
           "synopsis": "Après un hold-up, Dad Longworth abandonne son complice Rio à la police et disparaît avec le butin. Cinq ans après sa sortie de prison, Rio le retrouve.",
@@ -7144,11 +7191,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 10668,
-              "duree": 144,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "idCopie": 28696,
+              "duree": 141,
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 6688
@@ -7357,7 +7402,8 @@
               "idCopie": 26742,
               "duree": 126,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 43661
@@ -7622,12 +7668,6 @@
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 28608,
-              "duree": 120,
-              "format": "35 mm",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 2664
@@ -7834,7 +7874,7 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 139046,
+      "idSeance": 184867,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -7846,7 +7886,7 @@
       ],
       "idEvenement": 31439,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-15T15:00:00",
+      "dateHeure": "2025-02-15T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7949,7 +7989,7 @@
       ],
       "idEvenement": 31444,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-15T21:30:00",
+      "dateHeure": "2025-02-15T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -8001,7 +8041,7 @@
             {
               "idCopie": 28591,
               "duree": 95,
-              "format": "16 mm"
+              "format": "35 mm"
             }
           ],
           "idFilmBoxoffice": 172621
@@ -8593,7 +8633,7 @@
       ]
     },
     {
-      "idSeance": 137254,
+      "idSeance": 137212,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -8605,8 +8645,8 @@
       ],
       "idEvenement": 31464,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-11T18:30:00",
-      "idSalle": "JE",
+      "dateHeure": "2024-12-09T20:30:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -9171,7 +9211,7 @@
       ]
     },
     {
-      "idSeance": 184798,
+      "idSeance": 184866,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -9179,12 +9219,18 @@
           "idCategorie": 3464,
           "titreCycle": "Yves Mirande",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 811,
+          "idCategorie": 3618,
+          "titreCycle": "Yves Mirande",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31488,
-      "typeEvenement": 13,
-      "dateHeure": "2025-02-15T19:30:00",
+      "dateHeure": "2025-02-15T15:00:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -9202,6 +9248,13 @@
             }
           ],
           "idFilmBoxoffice": 37321
+        },
+        {
+          "ordre": 2,
+          "idConf": 31584,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Noël Herpe",
+          "duree": 60
         }
       ]
     },
@@ -9256,7 +9309,7 @@
       ],
       "idEvenement": 31490,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-11T20:30:00",
+      "dateHeure": "2024-12-11T19:30:00",
       "idSalle": "JE",
       "items": [
         {
@@ -9607,6 +9660,198 @@
       ]
     },
     {
+      "idSeance": 138738,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 3590,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31530,
+      "typeEvenement": 13,
+      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
+      "dateHeure": "2025-02-05T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "theorique": true,
+      "mention": "Ouverture de la rétrospective",
+      "items": []
+    },
+    {
+      "idSeance": 138776,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 3590,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31530,
+      "typeEvenement": 13,
+      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
+      "dateHeure": "2025-02-06T18:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 138777,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 3590,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31530,
+      "typeEvenement": 13,
+      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
+      "dateHeure": "2025-02-06T20:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 138816,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 3590,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31530,
+      "typeEvenement": 13,
+      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
+      "dateHeure": "2025-02-07T18:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 138817,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 3590,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31530,
+      "typeEvenement": 13,
+      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
+      "dateHeure": "2025-02-07T20:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 184875,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 3590,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31530,
+      "typeEvenement": 13,
+      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
+      "dateHeure": "2025-02-08T14:30:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 138858,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 3590,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31530,
+      "typeEvenement": 13,
+      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
+      "dateHeure": "2025-02-08T18:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 138859,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 3590,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31530,
+      "typeEvenement": 13,
+      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
+      "dateHeure": "2025-02-08T20:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 138874,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 3590,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31530,
+      "typeEvenement": 13,
+      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
+      "dateHeure": "2025-02-09T17:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 138876,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 3590,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31530,
+      "typeEvenement": 13,
+      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
+      "dateHeure": "2025-02-09T19:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
       "idSeance": 138370,
       "idProg": 184,
       "idCycleCategories": [
@@ -9638,33 +9883,6 @@
               "format": "DCP"
             }
           ]
-        }
-      ]
-    },
-    {
-      "idSeance": 184862,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 811,
-          "idCategorie": 3618,
-          "titreCycle": "Yves Mirande",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 31584,
-      "typeEvenement": 14,
-      "dateHeure": "2025-02-15T14:30:00",
-      "typeConference": "Dialogue",
-      "idSalle": "GF",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 31584,
-          "idTypeConf": 16,
-          "titre": "Film + Dialogue avec Noël Herpe",
-          "duree": 60
         }
       ]
     }
