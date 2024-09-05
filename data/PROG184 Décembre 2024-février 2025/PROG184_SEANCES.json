@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-05T15:19:47.684Z",
+  "updatedAt": "2024-09-05T15:29:37.774Z",
   "data": [
     {
       "idSeance": 138515,
@@ -1310,7 +1310,8 @@
         {
           "idCycle": 11,
           "idCategorie": 3477,
-          "titreCycle": "Séances spéciales"
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Napoléon vu par Abel Gance"
         }
       ],
       "idEvenement": 30935,
@@ -7624,7 +7625,7 @@
       ]
     },
     {
-      "idSeance": 184906,
+      "idSeance": 184909,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -7636,7 +7637,7 @@
       ],
       "idEvenement": 31405,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-09T18:00:00",
+      "dateHeure": "2024-12-05T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7745,47 +7746,6 @@
               "sousTitres": "STF"
             }
           ]
-        }
-      ]
-    },
-    {
-      "idSeance": 137215,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 809,
-          "idCategorie": 3459,
-          "titreCycle": "Marlon Brando",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31408,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-09T20:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 35699,
-          "titre": "Missouri Breaks",
-          "titreVo": "Missouri Breaks",
-          "artVo": "The",
-          "realisateurs": "Arthur Penn",
-          "annee": 1976,
-          "duree": 126,
-          "generique": "Marlon Brando, Jack Nicholson, Kathleen Lloyd",
-          "miniTexte": "Six ans après _Little Big Man_, les terres ocres du Nevada deviennent le théâtre d'une confrontation entre un voleur de chevaux et un tueur psychotique engagé par un riche éleveur. Dans un face à face d'anthologie, Nicholson et Brando tirent toutes les ficelles d'un genre renouvelé avec humour et cruauté.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 26742,
-              "duree": 126,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 43661
         }
       ]
     },
@@ -8431,49 +8391,6 @@
       ]
     },
     {
-      "idSeance": 145244,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 809,
-          "idCategorie": 3459,
-          "titreCycle": "Marlon Brando",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31454,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-05T20:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 54207,
-          "titre": "Formule",
-          "art": "La",
-          "titreVo": "Formula",
-          "artVo": "The",
-          "realisateurs": "John G. Avildsen",
-          "annee": 1979,
-          "duree": 117,
-          "generique": "George C. Scott, Marlon Brando, Marthe Keller",
-          "adaptation": "D'après le roman _La Formule_ de Steve Shagan.",
-          "miniTexte": "Au cours d'une enquête, un policier découvre une formule chimique inventée par les nazis pour remplacer le pétrole. L'adaptation du roman éponyme de Steve Shagan offre un duel passionnant entre Marlon Brando et George C. Scott, chien et chat sur le tournage et à l'écran, dans des prestations aussi opposées que percutantes.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28537,
-              "duree": 117,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 127706
-        }
-      ]
-    },
-    {
       "idSeance": 145301,
       "idProg": 184,
       "idCycleCategories": [
@@ -8706,7 +8623,8 @@
       "idEvenement": 31464,
       "typeEvenement": 13,
       "dateHeure": "2024-12-09T20:00:00",
-      "idSalle": "HL",
+      "idSalle": "GF",
+      "typeSeance": 43,
       "items": [
         {
           "ordre": 1,
@@ -8725,7 +8643,8 @@
           ],
           "idFilmBoxoffice": 8762
         }
-      ]
+      ],
+      "mention": "Avant-première"
     },
     {
       "idSeance": 139372,
