@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-05T14:39:50.620Z",
+  "updatedAt": "2024-09-05T15:01:24.371Z",
   "data": [
     {
       "idSeance": 138515,
@@ -1499,7 +1499,7 @@
       ]
     },
     {
-      "idSeance": 137214,
+      "idSeance": 184907,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -1511,9 +1511,8 @@
       ],
       "idEvenement": 30978,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-09T18:00:00",
-      "idSalle": "GF",
-      "typeSeance": 43,
+      "dateHeure": "2024-12-11T20:00:00",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
@@ -1607,8 +1606,7 @@
             }
           ]
         }
-      ],
-      "mention": "Avant-première"
+      ]
     },
     {
       "idSeance": 145245,
@@ -7626,7 +7624,7 @@
       ]
     },
     {
-      "idSeance": 137067,
+      "idSeance": 184906,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -7638,7 +7636,7 @@
       ],
       "idEvenement": 31405,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-04T21:00:00",
+      "dateHeure": "2024-12-09T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7664,48 +7662,6 @@
             }
           ],
           "idFilmBoxoffice": 52753
-        }
-      ]
-    },
-    {
-      "idSeance": 137066,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 809,
-          "idCategorie": 3459,
-          "titreCycle": "Marlon Brando",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31406,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-04T18:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 33684,
-          "titre": "Blanches Colombes et Vilains Messieurs",
-          "titreVo": "Guys and Dolls",
-          "realisateurs": "Joseph L. Mankiewicz",
-          "annee": 1955,
-          "duree": 150,
-          "generique": "Marlon Brando, Jean Simmons, Frank Sinatra",
-          "adaptation": "D'après la comédie musicale _Guys and Dolls_ de Frank Loesser.",
-          "synopsis": "Nathan Detroit, propriétaire d'un tripot new-yorkais, doit trouver de l'argent au plus vite. Il propose à un joueur invétéré un pari extravagant : emmener dîner le soir même à La Havane une jeune femme œuvrant pour l'Armée du salut.",
-          "miniTexte": "Un mauvais garçon se met en tête de séduire la responsable de l'Armée du Salut. Mankiewicz s'essaie à la comédie musicale avec l'adaptation d'un standard de Broadway. Un pari réussi, qui allie mise en scène éclatante et élégance d'une chorégraphie endiablée, où le duo Brando/Sinatra s'en donne à cœur joie.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 10944,
-              "duree": 150,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 1433
         }
       ]
     },
@@ -8752,7 +8708,7 @@
       ],
       "idEvenement": 31464,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-09T20:30:00",
+      "dateHeure": "2024-12-09T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -9688,18 +9644,12 @@
           "idCategorie": 3464,
           "titreCycle": "Yves Mirande",
           "titreSousCycle": "Les films"
-        },
-        {
-          "idCycle": 811,
-          "idCategorie": 3618,
-          "titreCycle": "Yves Mirande",
-          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31488,
+      "typeEvenement": 13,
       "dateHeure": "2025-02-15T15:00:00",
       "idSalle": "GF",
-      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -9717,13 +9667,6 @@
             }
           ],
           "idFilmBoxoffice": 37321
-        },
-        {
-          "ordre": 2,
-          "idConf": 31584,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Noël Herpe",
-          "duree": 60
         }
       ]
     },
@@ -11055,6 +10998,12 @@
       "idProg": 184,
       "idCycleCategories": [
         {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        },
+        {
           "idCycle": 953,
           "idCategorie": 3621,
           "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
@@ -11091,6 +11040,12 @@
       "idSeance": 184893,
       "idProg": 184,
       "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        },
         {
           "idCycle": 953,
           "idCategorie": 3621,
@@ -11147,6 +11102,12 @@
       "idProg": 184,
       "idCycleCategories": [
         {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        },
+        {
           "idCycle": 953,
           "idCategorie": 3621,
           "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
@@ -11188,6 +11149,12 @@
       "idSeance": 184894,
       "idProg": 184,
       "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        },
         {
           "idCycle": 953,
           "idCategorie": 3621,
@@ -11233,6 +11200,12 @@
       "idSeance": 139230,
       "idProg": 184,
       "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        },
         {
           "idCycle": 953,
           "idCategorie": 3621,
@@ -11502,7 +11475,9 @@
       "idCycleCategories": [
         {
           "idCycle": 14,
-          "idCategorie": 3622
+          "idCategorie": 3622,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Philippe Clair"
         }
       ],
       "idEvenement": 31638,
@@ -11535,7 +11510,9 @@
       "idCycleCategories": [
         {
           "idCycle": 14,
-          "idCategorie": 3622
+          "idCategorie": 3622,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Philippe Clair"
         }
       ],
       "idEvenement": 31639,
@@ -11556,6 +11533,87 @@
             {
               "idCopie": 28712,
               "duree": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 184905,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 812,
+          "idCategorie": 3466,
+          "titreCycle": "Éric Demarsan",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31640,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-23T20:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50227,
+          "titre": "Ombre d'une chance",
+          "art": "L'",
+          "realisateurs": "Jean-Pierre Mocky",
+          "annee": 1973,
+          "duree": 95,
+          "generique": "Jean-Pierre Mocky, Marianne Eggerickx, Robert Benoît",
+          "synopsis": "Un père et son fils n'ayant entre eux qu'une différence de quatorze ans deviennent rivaux en amour.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 4162,
+              "duree": 95,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 4747,
+              "duree": 95,
+              "format": "Vidéo"
+            },
+            {
+              "idCopie": 4328,
+              "duree": 95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138406,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 812,
+          "idCategorie": 3466,
+          "titreCycle": "Éric Demarsan",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31641,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-23T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54759,
+          "titre": "Indiscrétion",
+          "art": "L'",
+          "realisateurs": "Pierre Lary",
+          "annee": 1982,
+          "duree": 94,
+          "generique": "Jean Rochefort, Jean-Pierre Marielle, Dominique Sanda, Jean-Hugues Anglade, Roland Bertin",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28713,
+              "duree": 94
             }
           ]
         }
