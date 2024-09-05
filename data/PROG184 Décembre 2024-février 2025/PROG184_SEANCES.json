@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-05T15:29:37.774Z",
+  "updatedAt": "2024-09-05T15:55:17.678Z",
   "data": [
     {
       "idSeance": 138515,
@@ -3738,7 +3738,7 @@
       ],
       "idEvenement": 31297,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-13T20:30:00",
+      "dateHeure": "2024-12-13T20:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4042,7 +4042,7 @@
       ]
     },
     {
-      "idSeance": 184831,
+      "idSeance": 184910,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -4054,7 +4054,7 @@
       ],
       "idEvenement": 31304,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-13T18:30:00",
+      "dateHeure": "2024-12-12T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4079,47 +4079,6 @@
             }
           ],
           "idFilmBoxoffice": 28071
-        }
-      ]
-    },
-    {
-      "idSeance": 184829,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 808,
-          "idCategorie": 3453,
-          "titreCycle": "Karel Reisz",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31305,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-12T18:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 94700,
-          "titre": "Momma Don't Allow",
-          "realisateurs": "Karel Reisz, Tony Richardson",
-          "annee": 1956,
-          "duree": 22,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28661,
-              "duree": 22,
-              "format": "16 mm"
-            },
-            {
-              "idCopie": 28674,
-              "duree": 22,
-              "format": "35 mm",
-              "version": "VO"
-            }
-          ],
-          "idFilmBoxoffice": 29735
         }
       ]
     },
@@ -7750,6 +7709,47 @@
       ]
     },
     {
+      "idSeance": 184911,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31408,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-13T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35699,
+          "titre": "Missouri Breaks",
+          "titreVo": "Missouri Breaks",
+          "artVo": "The",
+          "realisateurs": "Arthur Penn",
+          "annee": 1976,
+          "duree": 126,
+          "generique": "Marlon Brando, Jack Nicholson, Kathleen Lloyd",
+          "miniTexte": "Six ans après _Little Big Man_, les terres ocres du Nevada deviennent le théâtre d'une confrontation entre un voleur de chevaux et un tueur psychotique engagé par un riche éleveur. Dans un face à face d'anthologie, Nicholson et Brando tirent toutes les ficelles d'un genre renouvelé avec humour et cruauté.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 26742,
+              "duree": 126,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 43661
+        }
+      ]
+    },
+    {
       "idSeance": 184818,
       "idProg": 184,
       "idCycleCategories": [
@@ -8391,6 +8391,49 @@
       ]
     },
     {
+      "idSeance": 137440,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31454,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-18T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54207,
+          "titre": "Formule",
+          "art": "La",
+          "titreVo": "Formula",
+          "artVo": "The",
+          "realisateurs": "John G. Avildsen",
+          "annee": 1979,
+          "duree": 117,
+          "generique": "George C. Scott, Marlon Brando, Marthe Keller",
+          "adaptation": "D'après le roman _La Formule_ de Steve Shagan.",
+          "miniTexte": "Au cours d'une enquête, un policier découvre une formule chimique inventée par les nazis pour remplacer le pétrole. L'adaptation du roman éponyme de Steve Shagan offre un duel passionnant entre Marlon Brando et George C. Scott, chien et chat sur le tournage et à l'écran, dans des prestations aussi opposées que percutantes.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28537,
+              "duree": 117,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 127706
+        }
+      ]
+    },
+    {
       "idSeance": 145301,
       "idProg": 184,
       "idCycleCategories": [
@@ -8763,6 +8806,12 @@
               "format": "35 mm",
               "langCopie": "RUS",
               "intertitres": "INT. FR."
+            },
+            {
+              "idCopie": 28723,
+              "duree": 75,
+              "format": "DCP",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 89979
@@ -11120,8 +11169,17 @@
           "titreVo": "Escape from L.A.",
           "realisateurs": "John Carpenter",
           "annee": 1995,
+          "duree": 101,
           "status": 0,
-          "copies": []
+          "copies": [
+            {
+              "idCopie": 28722,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
