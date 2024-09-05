@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-05T15:01:24.371Z",
+  "updatedAt": "2024-09-05T15:19:47.684Z",
   "data": [
     {
       "idSeance": 138515,
@@ -7666,6 +7666,48 @@
       ]
     },
     {
+      "idSeance": 184908,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31406,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-14T19:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33684,
+          "titre": "Blanches Colombes et Vilains Messieurs",
+          "titreVo": "Guys and Dolls",
+          "realisateurs": "Joseph L. Mankiewicz",
+          "annee": 1955,
+          "duree": 150,
+          "generique": "Marlon Brando, Jean Simmons, Frank Sinatra",
+          "adaptation": "D'après la comédie musicale _Guys and Dolls_ de Frank Loesser.",
+          "synopsis": "Nathan Detroit, propriétaire d'un tripot new-yorkais, doit trouver de l'argent au plus vite. Il propose à un joueur invétéré un pari extravagant : emmener dîner le soir même à La Havane une jeune femme œuvrant pour l'Armée du salut.",
+          "miniTexte": "Un mauvais garçon se met en tête de séduire la responsable de l'Armée du Salut. Mankiewicz s'essaie à la comédie musicale avec l'adaptation d'un standard de Broadway. Un pari réussi, qui allie mise en scène éclatante et élégance d'une chorégraphie endiablée, où le duo Brando/Sinatra s'en donne à cœur joie.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 10944,
+              "duree": 150,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1433
+        }
+      ]
+    },
+    {
       "idSeance": 137808,
       "idProg": 184,
       "idCycleCategories": [
@@ -8577,51 +8619,6 @@
       "idEvenement": 31458,
       "typeEvenement": 13,
       "dateHeure": "2024-12-06T19:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 32001,
-          "titre": "Parrain",
-          "art": "Le",
-          "titreVo": "Godfather",
-          "artVo": "The",
-          "realisateurs": "Francis Ford Coppola",
-          "annee": 1972,
-          "dureeStd": 175,
-          "duree": 175,
-          "generique": "Marlon Brando, Al Pacino, James Caan, Diane Keaton",
-          "adaptation": "D'après le roman _Le Parrain_ de Mario Puzo.",
-          "synopsis": "Michael Corleone essaie de mener une vie éloignée de son père, un parrain de la mafia new-yorkaise. Mais quand le patriarche est menacé, Michael revient aider sa famille.",
-          "miniTexte": "La fresque monumentale de Coppola : à travers l'histoire d'une famille, l'illustration de l'évolution de la mafia américaine et de ses luttes de pouvoir. Découpage millimétré, mise en scène fiévreuse et interprétation grandiose (dont un duo Brando/Pacino sidérant) composent un bal funèbre où se heurtent honneur et trahison. L'un des plus grands films du monde.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 5904,
-              "duree": 175,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 1628
-        }
-      ]
-    },
-    {
-      "idSeance": 145306,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 809,
-          "idCategorie": 3459,
-          "titreCycle": "Marlon Brando",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31458,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-14T19:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -10403,6 +10400,7 @@
           "titre": "Plein sud",
           "realisateurs": "Luc Béraud",
           "annee": 1980,
+          "dureeStd": 90,
           "duree": 90,
           "generique": "Patrick Dewaere, Clio Goldsmith, Jeanne Moreau, Guy Marchand",
           "status": 0,
@@ -10412,7 +10410,8 @@
               "duree": 90,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 30704
         }
       ]
     },
@@ -11061,39 +11060,23 @@
         {
           "ordre": 1,
           "idFilm": 56711,
-          "titre": "2019 après la chute de New York",
-          "titreVo": "2019, dopo la caduta di New York",
-          "realisateurs": "Martin Dolman",
+          "titre": "2019, après la chute de New York",
+          "titreVo": "2019: Dopo la caduta di New York",
+          "realisateurs": "Sergio Martino",
           "annee": 1983,
-          "duree": 94,
+          "duree": 95,
           "generique": "Michael Sopkiw, Valentine Monnier, George Eastman",
           "synopsis": "Après la troisième guerre thermonucléaire, dans New York transformé en camp de concentration, un aventurier est chargé de retrouver la dernière femme féconde encore en vie.",
-          "status": 0,
+          "status": 1,
           "copies": [
-            {
-              "idCopie": 26849,
-              "duree": 0,
-              "format": "35 mm",
-              "version": "VF",
-              "langCopie": "FRE"
-            },
-            {
-              "idCopie": 12520,
-              "duree": 94,
-              "format": "35 mm",
-              "version": "VF"
-            },
             {
               "idCopie": 12521,
               "duree": 95,
               "format": "35 mm",
               "version": "VF"
-            },
-            {
-              "idCopie": 16724,
-              "duree": 0
             }
-          ]
+          ],
+          "idFilmBoxoffice": 500
         }
       ]
     },
@@ -11179,13 +11162,6 @@
           "synopsis": "Au Nouveau Mexique, le professeur Mosley poursuit sa lutte contre la pollution atmosphérique et veut empêcher de nouvelles constructions dans des quartiers saturés. Son adversaire, l'industriel Turner, n'hésite pas à employer un androïde tueur pour l'éliminer.",
           "status": 0,
           "copies": [
-            {
-              "idCopie": 26847,
-              "duree": 0,
-              "format": "35 mm",
-              "version": "VF",
-              "langCopie": "FRE"
-            },
             {
               "idCopie": 2243,
               "duree": 94,
@@ -11423,7 +11399,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 173873
         }
       ],
       "mention": "Ouverture de la rétrospective"
@@ -11580,7 +11557,8 @@
               "idCopie": 4328,
               "duree": 95
             }
-          ]
+          ],
+          "idFilmBoxoffice": 24882
         }
       ]
     },
@@ -11615,7 +11593,8 @@
               "idCopie": 28713,
               "duree": 94
             }
-          ]
+          ],
+          "idFilmBoxoffice": 58416
         }
       ]
     },
