@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-05T11:00:11.771Z",
+  "updatedAt": "2024-09-05T13:25:58.171Z",
   "data": [
     {
       "idSeance": 132987,
@@ -4838,12 +4838,18 @@
           "idCategorie": 3367,
           "titreCycle": "George Cukor",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 785,
+          "idCategorie": 3388,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 30726,
-      "typeEvenement": 13,
       "dateHeure": "2024-09-14T14:30:00",
       "idSalle": "LE",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -4867,6 +4873,13 @@
             }
           ],
           "idFilmBoxoffice": 5
+        },
+        {
+          "ordre": 2,
+          "idConf": 30966,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Yola Le Caïnec",
+          "duree": 60
         }
       ]
     },
@@ -10233,33 +10246,6 @@
             }
           ],
           "idFilmBoxoffice": 83912
-        }
-      ]
-    },
-    {
-      "idSeance": 133786,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 785,
-          "idCategorie": 3388,
-          "titreCycle": "George Cukor",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 30966,
-      "typeEvenement": 14,
-      "dateHeure": "2024-09-14T16:15:00",
-      "typeConference": "Dialogue",
-      "idSalle": "LE",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 30966,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Yola Le Caïnec",
-          "duree": 60
         }
       ]
     },
