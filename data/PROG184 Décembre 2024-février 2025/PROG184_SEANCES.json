@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-06T10:10:21.171Z",
+  "updatedAt": "2024-09-06T10:23:21.084Z",
   "data": [
     {
       "idSeance": 137061,
@@ -10693,7 +10693,8 @@
           "synopsis": "Charlot recueille un bébé abandonné et l'élève de son mieux, même s'il n'a pas un sou. Une très grande complicité unit l'enfant et le vagabond devenu vitrier, mais les services sociaux s'en mêlent.",
           "synopsisJP": "Premier long métrage de Chaplin, inspiré de son propre vécu. Traversé par une émotion qui repose en grande partie sur la complicité avec son jeune acteur Jackie Coogan, _Le Kid_ met en scène son personnage de vagabond en père adoptif tendre et maladroit. Lorsque Charlot se porte à hauteur d'enfant, le sourire se mêle aux larmes. Bouleversant.",
           "status": 2,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 2255
         }
       ]
     },
@@ -10722,13 +10723,14 @@
           "annee": 1950,
           "duree": 74,
           "adaptation": "D'après le conte _Cendrillon_ de Charles Perrault.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28681,
               "duree": 74
             }
-          ]
+          ],
+          "idFilmBoxoffice": 38826
         }
       ]
     },
@@ -10757,13 +10759,14 @@
           "annee": 1950,
           "duree": 74,
           "adaptation": "D'après le conte _Cendrillon_ de Charles Perrault.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28681,
               "duree": 74
             }
-          ]
+          ],
+          "idFilmBoxoffice": 38826
         }
       ]
     },
@@ -10801,7 +10804,8 @@
               "format": "DCP",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 213641
         }
       ]
     },
@@ -10945,6 +10949,7 @@
           "titreVo": "Raiders of the Lost Ark",
           "realisateurs": "Steven Spielberg",
           "annee": 1980,
+          "dureeStd": 115,
           "duree": 115,
           "generique": "Harrison Ford, Karen Allen, Paul Freeman",
           "ageMinimal": 10,
@@ -10959,7 +10964,8 @@
               "format": "DCP",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 121
         }
       ]
     },
@@ -10999,7 +11005,8 @@
               "format": "DCP",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 40137
         }
       ]
     },
@@ -11147,7 +11154,8 @@
               "version": "VF",
               "langCopie": "FRE"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 426
         }
       ]
     },
@@ -11185,7 +11193,8 @@
               "format": "DCP",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 4836
         }
       ]
     },
@@ -11217,7 +11226,7 @@
           "ageMinimal": 6,
           "synopsis": "Sur le Mississippi, deux vieux mariniers se disputent : d'un côté, Bill et son vieux rafiot, de l'autre, King et son rutilant steamer. Quand Junior, le fils de Bill, revient au pays, il tombe immédiatement de Kitty, la fille de King.",
           "synopsisJP": "Sur le Mississippi, deux vieux marins se disputent : d'un côté, Bill et son vieux rafiot, de l'autre King et son rutilant steamer. Cette querelle s'arrêtera-t-elle avec le retour au pays de Junior, le fils de Bill, qui tombe immédiatement amoureux de Kitty, la fille de King ? Buster Keaton, le jeune fils, se livre à une succession de cascades impressionnantes, sur les bateaux, sous l'eau et sur la terre ferme, jusqu'à la très spectaculaire séquence du cyclone.",
-          "commentaire": "_Steamboat Bill, Jr._ est le dernier grand feu d'artifice du génial Buster Keaton, réalisé librement avant la « plus grande erreur de [sa] vie », selon ses dires : son entrée à la MGM, où il perdra toute indépendance et qui provoquera sa chute – divorce, alcoolisme, ruine, films produits à la va-vite... Ici, l'idiome burlesque keatonien triomphe : il est aux prises avec les éléments (un cyclone sur le Mississippi), la machine (des bateaux ivres), les barrières sociales, la conquête obstinée de l'amour. Les rapports (autobiographiques) sont tendus entre le père et son freluquet de fils. Le film joue beaucoup sur les apparences physiques : jamais Keaton n'a semblé aussi frêle et minuscule (et pourtant tellement solide !). Le regard magnifique de son visage émacié, rimbaldien, semble diffuser ses dernières ondes. La scène la plus incroyable, célébrissime, est celle où il reçoit la façade d'une maison sur la tête – il en réchappe par l'ouverture d'une fenêtre. Toujours flegmatique, Keaton frôle la mort en traversant debout cette structure de deux tonnes qui passe à 8 cm de lui. Le corps de Keaton, mystérieusement incassable semble-t-il, est constamment mis à l'épreuve dans l'eau, sous la pluie, entre deux bateaux, dans la boue, le vent. Il lutte contre d'énormes bourrasques (des moteurs d'avion ont été installés), homme aux semelles de vent arc-bouté, marchant quasiment à l'horizontale, essayant de remonter l'air comme un saumon dans la rivière ! Tout le film n'est que folie, grâce et poésie.\r\n\r\nLaurent Mannoni",
+          "commentaire": "_Steamboat Bill, Jr._ est le dernier grand feu d'artifice du génial Buster Keaton, réalisé librement avant la « plus grande erreur de [sa] vie », selon ses dires : son entrée à la MGM, où il perdra toute indépendance et qui provoquera sa chute – divorce, alcoolisme, ruine, films produits à la va-vite... Ici, l'idiome burlesque keatonien triomphe : il est aux prises avec les éléments (un cyclone sur le Mississippi), la machine (des bateaux ivres), les barrières sociales, la conquête obstinée de l'amour. Les rapports (autobiographiques) sont tendus entre le père et son freluquet de fils. Le film joue beaucoup sur les apparences physiques : jamais Keaton n'a semblé aussi frêle et minuscule (et pourtant tellement solide !). Le regard magnifique de son visage émacié, rimbaldien, semble diffuser ses dernières ondes. La scène la plus incroyable, célébrissime, est celle où il reçoit la façade d'une maison sur la tête – il en réchappe par l'ouverture d'une fenêtre. Toujours flegmatique, Keaton frôle la mort en traversant debout cette structure de deux tonnes qui passe à 8 cm de lui. Le corps de Keaton, mystérieusement incassable semble-t-il, est constamment mis à l'épreuve dans l'eau, sous la pluie, entre deux bateaux, dans la boue, le vent. Il lutte contre d'énormes bourrasques (des moteurs d'avion ont été installés), homme aux semelles de vent arc-bouté, marchant quasiment à l'horizontale, essayant de remonter l'air comme un saumon dans la rivière ! Tout le film n'est que folie, grâce et poésie.\n\nLaurent Mannoni",
           "status": 2,
           "copies": [
             {
@@ -11226,7 +11235,8 @@
               "format": "DCP",
               "intertitres": "INT. FR."
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1609
         }
       ]
     },
@@ -11328,7 +11338,8 @@
           "realisateurs": "Sophie Roze",
           "annee": 2024,
           "status": 0,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 1000004599
         }
       ]
     },
