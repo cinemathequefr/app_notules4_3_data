@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-06T12:36:23.518Z",
+  "updatedAt": "2024-09-06T13:47:26.362Z",
   "data": [
     {
       "idSeance": 137061,
@@ -8965,7 +8965,7 @@
           "idFilmBoxoffice": 8762
         }
       ],
-      "mention": "Avant-première. Séance présentée par Ani Hamel"
+      "mention": "Avant-première. Séance présentée par Ani Hamel et Francis Kurkdjian"
     },
     {
       "idSeance": 139372,
@@ -12447,7 +12447,9 @@
           "copies": [
             {
               "idCopie": 28711,
-              "duree": 85
+              "duree": 85,
+              "format": "DCP",
+              "langCopie": "FRE"
             }
           ]
         }
@@ -12481,7 +12483,9 @@
           "copies": [
             {
               "idCopie": 28712,
-              "duree": 105
+              "duree": 105,
+              "format": "DCP",
+              "langCopie": "FRE"
             }
           ]
         }
