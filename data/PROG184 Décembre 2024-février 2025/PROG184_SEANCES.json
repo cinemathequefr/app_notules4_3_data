@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-06T07:45:35.303Z",
+  "updatedAt": "2024-09-06T10:10:21.171Z",
   "data": [
     {
       "idSeance": 137061,
@@ -2765,15 +2765,11 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28640,
-              "duree": 100,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ITA"
-            },
-            {
               "idCopie": 28406,
-              "duree": 100
+              "duree": 100,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 198047
@@ -2811,15 +2807,11 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28640,
-              "duree": 100,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ITA"
-            },
-            {
               "idCopie": 28406,
-              "duree": 100
+              "duree": 100,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 198047
@@ -8973,7 +8965,7 @@
           "idFilmBoxoffice": 8762
         }
       ],
-      "mention": "Avant-première"
+      "mention": "Avant-première. Séance présentée par Ani Hamel"
     },
     {
       "idSeance": 139372,
@@ -12310,23 +12302,23 @@
           "art": "Les",
           "realisateurs": "Jean-Marie Larrieu, Arnaud Larrieu",
           "annee": 2008,
-          "duree": 134,
+          "duree": 133,
           "generique": "Mathieu Amalric, Catherine Frot, Karin Viard, Sergi López",
           "adaptation": "D'après le roman _Les Derniers jours du monde_ de Dominique Noguez.",
           "synopsis": "Robinson Laborde, séparé de sa femme et ayant perdu de vue celle qui l'avait amené à la quitter, se retrouve à Biarritz alors que les médias annoncent la fin du monde. Il décide de partir en Espagne et entame un périple qui sera aussi amoureux.",
           "status": 0,
           "copies": [
             {
+              "idCopie": 7526,
+              "duree": 133,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            },
+            {
               "idCopie": 25088,
               "duree": 134,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "FRE"
-            },
-            {
-              "idCopie": 7526,
-              "duree": 133,
-              "format": "35 mm",
               "langCopie": "FRE"
             }
           ]
