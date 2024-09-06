@@ -1,6 +1,304 @@
 {
-  "updatedAt": "2024-09-05T15:55:17.678Z",
+  "updatedAt": "2024-09-06T07:45:35.303Z",
   "data": [
+    {
+      "idSeance": 137061,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 24970,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-04T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 84596,
+          "titre": "Panorama pris d'un train en marche",
+          "realisateurs": "Georges Méliès",
+          "annee": 1898,
+          "duree": 2,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22806,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 94151,
+          "titre": "Dislocation mystérieuse",
+          "realisateurs": "Georges Méliès",
+          "annee": 1901,
+          "duree": 2,
+          "generique": "André Deed",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22205,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 52505,
+          "titre": "Lune à un mètre ou Le Rêve de l'astronome",
+          "art": "La",
+          "realisateurs": "Georges Méliès",
+          "annee": 1898,
+          "duree": 3,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 13972,
+              "duree": 3,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 65733,
+          "titre": "Chrysalide et le papillon d'or",
+          "art": "La",
+          "realisateurs": "Georges Méliès",
+          "annee": 1901,
+          "duree": 2,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 3656,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 102268,
+          "titre": "Chez la sorcière",
+          "realisateurs": "Georges Méliès",
+          "annee": 1901,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23879
+            }
+          ]
+        },
+        {
+          "ordre": 6,
+          "idFilm": 52467,
+          "titre": "Génie du feu",
+          "art": "Le",
+          "realisateurs": "Georges Méliès",
+          "annee": 1908,
+          "duree": 4,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23880,
+              "duree": 4
+            }
+          ]
+        },
+        {
+          "ordre": 7,
+          "idFilm": 52512,
+          "titre": "Voyage à travers l'impossible",
+          "realisateurs": "Georges Méliès",
+          "annee": 1904,
+          "duree": 22,
+          "synopsis": "Une expédition de scientifiques part en excursion vers le Soleil grâce à un train révolutionnaire.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21869,
+              "duree": 22,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 8,
+          "idFilm": 84496,
+          "titre": "Un homme de têtes",
+          "realisateurs": "Georges Méliès",
+          "annee": 1898,
+          "duree": 1,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 9351,
+              "duree": 1,
+              "format": "35 mm",
+              "version": "Autres",
+              "langCopie": "MIT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137390,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 24970,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-15T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 84596,
+          "titre": "Panorama pris d'un train en marche",
+          "realisateurs": "Georges Méliès",
+          "annee": 1898,
+          "duree": 2,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22806,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 94151,
+          "titre": "Dislocation mystérieuse",
+          "realisateurs": "Georges Méliès",
+          "annee": 1901,
+          "duree": 2,
+          "generique": "André Deed",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22205,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 52505,
+          "titre": "Lune à un mètre ou Le Rêve de l'astronome",
+          "art": "La",
+          "realisateurs": "Georges Méliès",
+          "annee": 1898,
+          "duree": 3,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 13972,
+              "duree": 3,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 65733,
+          "titre": "Chrysalide et le papillon d'or",
+          "art": "La",
+          "realisateurs": "Georges Méliès",
+          "annee": 1901,
+          "duree": 2,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 3656,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 102268,
+          "titre": "Chez la sorcière",
+          "realisateurs": "Georges Méliès",
+          "annee": 1901,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23879
+            }
+          ]
+        },
+        {
+          "ordre": 6,
+          "idFilm": 52467,
+          "titre": "Génie du feu",
+          "art": "Le",
+          "realisateurs": "Georges Méliès",
+          "annee": 1908,
+          "duree": 4,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23880,
+              "duree": 4
+            }
+          ]
+        },
+        {
+          "ordre": 7,
+          "idFilm": 52512,
+          "titre": "Voyage à travers l'impossible",
+          "realisateurs": "Georges Méliès",
+          "annee": 1904,
+          "duree": 22,
+          "synopsis": "Une expédition de scientifiques part en excursion vers le Soleil grâce à un train révolutionnaire.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21869,
+              "duree": 22,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 8,
+          "idFilm": 84496,
+          "titre": "Un homme de têtes",
+          "realisateurs": "Georges Méliès",
+          "annee": 1898,
+          "duree": 1,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 9351,
+              "duree": 1,
+              "format": "35 mm",
+              "version": "Autres",
+              "langCopie": "MIT"
+            }
+          ]
+        }
+      ]
+    },
     {
       "idSeance": 138515,
       "idProg": 184,
@@ -5739,12 +6037,6 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28626,
-              "duree": 81,
-              "format": "16 mm",
-              "version": "VO"
-            },
-            {
               "idCopie": 28454,
               "duree": 81,
               "format": "DCP",
@@ -7020,12 +7312,6 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 12032,
-              "duree": 0,
-              "format": "35 mm",
-              "version": "VO"
             },
             {
               "idCopie": 28507,
@@ -10347,6 +10633,714 @@
       "items": []
     },
     {
+      "idSeance": 137204,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31552,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-08T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 114721,
+          "titre": "Hugo Cabret",
+          "titreVo": "Hugo",
+          "realisateurs": "Martin Scorsese",
+          "annee": 2010,
+          "duree": 122,
+          "generique": "Asa Butterfield, Chloë Grace Moretz, Ben Kingsley",
+          "adaptation": "D'après le roman _L'Invention de Hugo Cabret_ de Brian Selznick.",
+          "ageMinimal": 8,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28691,
+              "duree": 122,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137247,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31553,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-11T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31057,
+          "titre": "Kid",
+          "art": "Le",
+          "titreVo": "Kid",
+          "artVo": "The",
+          "realisateurs": "Charles Chaplin",
+          "annee": 1919,
+          "generique": "Charles Chaplin, Edna Purviance, Jackie Coogan",
+          "ageMinimal": 6,
+          "synopsis": "Charlot recueille un bébé abandonné et l'élève de son mieux, même s'il n'a pas un sou. Une très grande complicité unit l'enfant et le vagabond devenu vitrier, mais les services sociaux s'en mêlent.",
+          "synopsisJP": "Premier long métrage de Chaplin, inspiré de son propre vécu. Traversé par une émotion qui repose en grande partie sur la complicité avec son jeune acteur Jackie Coogan, _Le Kid_ met en scène son personnage de vagabond en père adoptif tendre et maladroit. Lorsque Charlot se porte à hauteur d'enfant, le sourire se mêle aux larmes. Bouleversant.",
+          "status": 2,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 137433,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31555,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-18T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 56486,
+          "titre": "Cendrillon",
+          "titreVo": "Cinderella",
+          "realisateurs": "Wilfred Jackson, Hamilton Luske, Clyde Geronimi",
+          "annee": 1950,
+          "duree": 74,
+          "adaptation": "D'après le conte _Cendrillon_ de Charles Perrault.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28681,
+              "duree": 74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137576,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31555,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-22T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 56486,
+          "titre": "Cendrillon",
+          "titreVo": "Cinderella",
+          "realisateurs": "Wilfred Jackson, Hamilton Luske, Clyde Geronimi",
+          "annee": 1950,
+          "duree": 74,
+          "adaptation": "D'après le conte _Cendrillon_ de Charles Perrault.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28681,
+              "duree": 74
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 137991,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31557,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-08T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 130091,
+          "titre": "Tout en haut du monde",
+          "realisateurs": "Rémi Chayé",
+          "annee": 2015,
+          "duree": 80,
+          "generique": "Christa Théret, Feodor Atkine, Thomas Sagols",
+          "ageMinimal": 7,
+          "synopsis": "1882, Saint-Pétersbourg. Sacha, jeune fille de l'aristocratie russe, a toujours été fascinée par la vie d'aventure de son grand-père, Oloukine, explorateur renommé, jamais revenu de sa dernière expédition.\n\n---\n\nSacha vit confortablement dans un grand palais de Saint-Pétersbourg. Son héros de grand-père n'est jamais revenu d'une expédition vers le grand nord. Elle décide de reprendre ses cartes et de partir sur ses traces. La voilà projetée dans une incroyable aventure, au milieu des rudes marins des mers du nord. Un surprenant travail d'aplats de couleurs et un personnage, Sacha, porté par l'amour et l'admiration de son grand-père, au point de faire preuve d'une incroyable persévérance.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 10641,
+              "duree": 80,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138177,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31558,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-15T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50600,
+          "titre": "Cerf-volant du bout du monde",
+          "realisateurs": "Roger Pigaut, Kia-Yi Wang",
+          "annee": 1957,
+          "duree": 82,
+          "generique": "Patrick de Bardine, Sylviane Rozenberg, Jacques Faburel, Gérard Szymanski",
+          "ageMinimal": 6,
+          "synopsis": "Guidés par un mystérieux cerf-volant, une bande d'enfants de Montmartre va découvrir la Chine.",
+          "synopsisJP": "Montmartre, années 50 : une bande d'enfants du quartier découvrent un magnifique cerf-volant en provenance de Chine. Entre trucages et fantaisie, une aventure poétique qui célèbre l'amitié, et où se rejoignent deux mondes et deux cultures, celles du Paris populaire et de la Cité interdite.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 2781,
+              "duree": 82,
+              "format": "DCP",
+              "version": "VF",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 139436,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31559,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-02T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36384,
+          "titre": "Indiana Jones et la dernière croisade",
+          "titreVo": "Indiana Jones and the Last Crusade",
+          "realisateurs": "Steven Spielberg",
+          "annee": 1988,
+          "duree": 127,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28692,
+              "duree": 127,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138506,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31560,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-26T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36382,
+          "titre": "Indiana Jones et le temple maudit",
+          "titreVo": "Indiana Jones and the Temple of Doom",
+          "realisateurs": "Steven Spielberg",
+          "annee": 1983,
+          "duree": 118,
+          "generique": "Harrison Ford, Kate Capshaw, Jonathan Ke Quan",
+          "ageMinimal": 10,
+          "synopsis": "Indiana Jones est sur les traces d'une pierre sacrée dotée de pouvoirs magiques. Willie, chanteuse de cabaret, et Demi-Lune, son jeune acolyte, l'aideront à affronter la terrible secte des Thugs.",
+          "synopsisJP": "Humour, action et suspense, BO emblématique : le deuxième volet des aventures d'Indiana Jones, l'archéologue au fouet et au chapeau.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28694,
+              "duree": 118,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138134,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31561,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-12T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36623,
+          "titre": "Aventuriers de l'Arche perdue",
+          "art": "Les",
+          "titreVo": "Raiders of the Lost Ark",
+          "realisateurs": "Steven Spielberg",
+          "annee": 1980,
+          "duree": 115,
+          "generique": "Harrison Ford, Karen Allen, Paul Freeman",
+          "ageMinimal": 10,
+          "synopsis": "En 1936, l'archéologue Indiana Jones part à la recherche de l'Arche d'alliance, qui abrite les Tables de la Loi convoitées par Hitler et les nazis.",
+          "synopsisJP": "Le premier volet des aventures d'Indiana Jones : poursuivi par les nazis, l'archéologue au fouet et au chapeau se lance dans une course effrénée de la jungle au désert égyptien, sur les traces de l'Arche d'alliance. Humour, action et suspense, BO emblématique : du très grand Spielberg.",
+          "commentaire": "Printemps 1977 : George Lucas se réfugie à Hawaii en compagnie de Steven Spielberg pour échapper au tumulte médiatique, comme il le fait à la sortie de chacun de ses films. Les premiers chiffres le rassurent, _La Guerre des étoiles_ sera un triomphe. Soulagé et plus enclin à envisager de futurs projets, il fait part sur la plage à son comparse d'une idée développée quelques années plus tôt avec Philip Kaufman : un film d'aventures, « à l'ancienne », sur le modèle des serials des années 20. Indiana Jones serait donc né autour d'un château de sable... Produit par Lucas, réalisé par Spielberg sur la base d'un scénario de Lawrence Kasdan, _Les Aventuriers de l'Arche perdue_ est la déclaration d'amour de deux cinéastes à un modèle d'_entertainment_, celui avec lequel ils ont grandi, des aventures de Picsou de Carl Barks au _Gunga Din_ de George Stevens. Loin de la noirceur des personnages de la précédente décennie, l'homme au fouet et au chapeau revitalise une certaine idée du « cool », héritée des héros nonchalants et détachés des westerns. Et Lucas redonne vie à une forme primitive de récit, conçu en épisodes, tout en voyages et rebondissements, où l'on fait mine de trembler devant les dangers bravés par le héros comme on le faisait, au début du siècle, devant les exploits de Pearl White. Premier opus d'une trilogie – les inconditionnels tirent parfois un voile pudique sur le quatrième volet –, _Les Aventuriers de l'Arche perdue_ a intégré en 1999 la Library of Congress. Car oui, « sa place est dans un musée ».\n\nOlivier Gonord",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20553,
+              "duree": 115,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138320,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31562,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-19T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 90175,
+          "titre": "Kiki la petite sorcière",
+          "titreVo": "Majo no takkyûbin",
+          "realisateurs": "Hayao Miyazaki",
+          "annee": 1989,
+          "duree": 103,
+          "adaptation": "D'après la série _Kiki la petite sorcière_ d'Eiko Kadono.",
+          "ageMinimal": 4,
+          "synopsis": "Kiki, jeune sorcière de treize ans, part découvrir le monde sur son balai. Elle s'installe dans une petite ville où Osono, une boulangère, lui propose de mettre ses dons au service de la livraison de pâtisseries à domicile. La petite sorcière va alors vivre d'étonnantes aventures.",
+          "synopsisJP": "Les étonnantes aventures d'une jeune sorcière, partie pour un voyage initiatique à la découverte du monde, et devenue livreuse de pâtisseries sur son balai magique. Une parabole sur l'intégration et l'indépendance, par l'empereur de l'animation japonaise.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23499,
+              "duree": 103,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138363,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31563,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-22T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 89613,
+          "titre": "Ile de Black Mor",
+          "art": "L'",
+          "realisateurs": "Jean-François Laguionie",
+          "annee": 2003,
+          "duree": 85,
+          "ageMinimal": 6,
+          "synopsis": "Le Kid, un jeune orphelin, part à la recherche du trésor de Black Mór, un célèbre pirate. Pour cela, il lui faudra trouver une île mystérieuse, située aux confins de l'océan.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 10256,
+              "duree": 85,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138549,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31564,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-29T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 113539,
+          "titre": "Contes de la nuit",
+          "art": "Les",
+          "realisateurs": "Michel Ocelot",
+          "annee": 2010,
+          "duree": 84,
+          "ageMinimal": 6,
+          "synopsis": "Alors que la ville s'endort doucement, une fille, un garçon et un vieux projectionniste s'agitent dans un cinéma à l'abandon. Ils profitent de l'obscurité de la nuit pour inventer une multitude de contes inspirés du monde entier qu'ils interprètent en ombres chinoises sur l'écran de cinéma. Six contes de Michel Ocelot",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 10905,
+              "duree": 84,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138921,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31565,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-12T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 116906,
+          "titre": "Enfants loups, Ame et Yuki",
+          "art": "Les",
+          "titreVo": "Ōkami kodomo no Ame to Yuki",
+          "titreNx": "おおかみこどもの雨と雪",
+          "realisateurs": "Mamoru Hosoda",
+          "annee": 2011,
+          "ageMinimal": 9,
+          "synopsis": "Le père de Yuki et Ame était un homme-loup. À sa mort, leur mère doit élever seule et à l'abri des regards ses deux enfants, mi humains, mi louveteaux. La famille s'installe à la campagne où Yuki et Ame grandissent en liberté et apprennent à mieux connaître la nature, les saisons, la neige et les tempêtes.",
+          "synopsisJP": "Dans un village proche d'une forêt, une mère élève seule ses deux enfants, dont le père est un homme-loup. Hosuda réalise une chronique familiale qui parle d'amour, d'éducation, de métissage et de respect de la nature. Délicat et bouleversant, un beau film d'animation adapté par la suite en manga.",
+          "status": 2,
+          "copies": []
+        }
+      ]
+    },
+    {
+      "idSeance": 139064,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31566,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-16T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45294,
+          "titre": "Mary Poppins",
+          "realisateurs": "Robert Stevenson",
+          "annee": 1963,
+          "duree": 140,
+          "generique": "Julie Andrews, Dick Van Dyke, David Tomlinson",
+          "adaptation": "D'après le roman _Mary Poppins_ de Pamela L. Travers.",
+          "ageMinimal": 4,
+          "synopsis": "La vie de deux enfants un peu trop sages est bousculée par l'arrivée d'une nouvelle gouvernante farfelue, Mary Poppins.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 11710,
+              "duree": 140,
+              "format": "DCP",
+              "version": "VF",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 139107,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31567,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-19T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30466,
+          "titre": "Petit dinosaure et la vallée des merveilles",
+          "art": "Le",
+          "titreVo": "Land Before Time",
+          "artVo": "The",
+          "realisateurs": "Don Bluth",
+          "annee": 1988,
+          "duree": 69,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28724,
+              "duree": 69,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 139250,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31568,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-23T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 57769,
+          "titre": "Cadet d'eau douce",
+          "titreVo": "Steamboat Bill, Jr.",
+          "realisateurs": "Buster Keaton, Charles F. Riesner",
+          "annee": 1928,
+          "duree": 70,
+          "generique": "Buster Keaton, Ernest Torrence, Marion Byron",
+          "ageMinimal": 6,
+          "synopsis": "Sur le Mississippi, deux vieux mariniers se disputent : d'un côté, Bill et son vieux rafiot, de l'autre, King et son rutilant steamer. Quand Junior, le fils de Bill, revient au pays, il tombe immédiatement de Kitty, la fille de King.",
+          "synopsisJP": "Sur le Mississippi, deux vieux marins se disputent : d'un côté, Bill et son vieux rafiot, de l'autre King et son rutilant steamer. Cette querelle s'arrêtera-t-elle avec le retour au pays de Junior, le fils de Bill, qui tombe immédiatement amoureux de Kitty, la fille de King ? Buster Keaton, le jeune fils, se livre à une succession de cascades impressionnantes, sur les bateaux, sous l'eau et sur la terre ferme, jusqu'à la très spectaculaire séquence du cyclone.",
+          "commentaire": "_Steamboat Bill, Jr._ est le dernier grand feu d'artifice du génial Buster Keaton, réalisé librement avant la « plus grande erreur de [sa] vie », selon ses dires : son entrée à la MGM, où il perdra toute indépendance et qui provoquera sa chute – divorce, alcoolisme, ruine, films produits à la va-vite... Ici, l'idiome burlesque keatonien triomphe : il est aux prises avec les éléments (un cyclone sur le Mississippi), la machine (des bateaux ivres), les barrières sociales, la conquête obstinée de l'amour. Les rapports (autobiographiques) sont tendus entre le père et son freluquet de fils. Le film joue beaucoup sur les apparences physiques : jamais Keaton n'a semblé aussi frêle et minuscule (et pourtant tellement solide !). Le regard magnifique de son visage émacié, rimbaldien, semble diffuser ses dernières ondes. La scène la plus incroyable, célébrissime, est celle où il reçoit la façade d'une maison sur la tête – il en réchappe par l'ouverture d'une fenêtre. Toujours flegmatique, Keaton frôle la mort en traversant debout cette structure de deux tonnes qui passe à 8 cm de lui. Le corps de Keaton, mystérieusement incassable semble-t-il, est constamment mis à l'épreuve dans l'eau, sous la pluie, entre deux bateaux, dans la boue, le vent. Il lutte contre d'énormes bourrasques (des moteurs d'avion ont été installés), homme aux semelles de vent arc-bouté, marchant quasiment à l'horizontale, essayant de remonter l'air comme un saumon dans la rivière ! Tout le film n'est que folie, grâce et poésie.\r\n\r\nLaurent Mannoni",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 6375,
+              "duree": 70,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 139293,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31569,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-26T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45438,
+          "titre": "Jason et les Argonautes",
+          "titreVo": "Jason and the Argonauts",
+          "realisateurs": "Don Chaffey",
+          "annee": 1963,
+          "duree": 104,
+          "generique": "Honor Blackman, Todd Armstrong, Gary Raymond, Niall MacGinnis, Nancy Kovack",
+          "synopsis": "Jason, accompagné des fidèles Argonautes, part en quête de la Toison d'or. Ensemble, les aventuriers vont devoir affronter de nombreux monstres mythologiques.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28693,
+              "duree": 104,
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138735,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31571,
+      "typeEvenement": 13,
+      "libelleEvenement": "LILA LUMIÈRE : A L'AVENTURE !",
+      "dateHeure": "2025-02-05T15:00:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 138878,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31571,
+      "typeEvenement": 13,
+      "libelleEvenement": "LILA LUMIÈRE : A L'AVENTURE !",
+      "dateHeure": "2025-02-09T15:00:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 138692,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31572,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-02T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154984,
+          "titre": "Une guitare à la mer",
+          "realisateurs": "Sophie Roze",
+          "annee": 2024,
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 138370,
       "idProg": 184,
       "idCycleCategories": [
@@ -11175,9 +12169,7 @@
             {
               "idCopie": 28722,
               "duree": 101,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
+              "format": "35 mm"
             }
           ]
         }
