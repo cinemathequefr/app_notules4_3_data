@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-09T13:22:08.397Z",
+  "updatedAt": "2024-09-09T15:51:20.263Z",
   "data": [
     {
       "idSeance": 137061,
@@ -1206,6 +1206,10 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28733,
+              "duree": 96
             }
           ],
           "idFilmBoxoffice": 9450
@@ -1810,7 +1814,7 @@
       ],
       "idEvenement": 30978,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-11T20:00:00",
+      "dateHeure": "2024-12-11T20:45:00",
       "idSalle": "JE",
       "items": [
         {
@@ -4717,12 +4721,18 @@
           "idCategorie": 3452,
           "titreCycle": "John Frankenheimer",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 807,
+          "idCategorie": 3625,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31315,
-      "typeEvenement": 13,
       "dateHeure": "2025-02-01T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -4737,6 +4747,13 @@
           "status": 1,
           "copies": [],
           "idFilmBoxoffice": 20646
+        },
+        {
+          "ordre": 2,
+          "idConf": 31657,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Olivier Père",
+          "duree": 60
         }
       ]
     },
@@ -5210,48 +5227,6 @@
       ]
     },
     {
-      "idSeance": 138589,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 807,
-          "idCategorie": 3452,
-          "titreCycle": "John Frankenheimer",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31329,
-      "typeEvenement": 13,
-      "dateHeure": "2025-01-30T17:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 44798,
-          "titre": "Prisonnier d'Alcatraz",
-          "art": "Le",
-          "titreVo": "Birdman of Alcatraz",
-          "artVo": "The",
-          "realisateurs": "John Frankenheimer",
-          "annee": 1960,
-          "duree": 147,
-          "adaptation": "D'après le roman _Birdman of Alcatraz_ de Thomas E. Gaddis.",
-          "miniTexte": "Une version romancée de la vie de Robert Stroud, célèbre détenu américain, condamné à perpétuité pour meurtre. Après avoir recueilli dans sa cellule un oiseau blessé, il se découvre une passion pour les canaris. Alcatraz sera sa dernière maison, où il ne pourra emmener ses protégés, mais poursuivra ses recherches et publiera deux traités d'ornithologie, s'attirant la sympathie du public. Frankenheimer prend son temps pour construire un récit confiné en noir et blanc, parfait rendu de l'atmosphère pesante du pénitencier. Une peinture à l'os de l'univers carcéral, doublée d'une étude en creux sur le rapport à la mère d'un être asocial, dont la mort est la seule issue. Face à Karl Malden qui campe le directeur du pénitencier, Burt Lancaster est (presque) de toutes les scènes, époustouflant (il sera récompensé à Venise et aux BAFTA).",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 28577,
-              "duree": 147,
-              "format": "16 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            }
-          ],
-          "idFilmBoxoffice": 4944
-        }
-      ]
-    },
-    {
       "idSeance": 184901,
       "idProg": 184,
       "idCycleCategories": [
@@ -5512,7 +5487,7 @@
       ],
       "idEvenement": 31337,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-30T20:30:00",
+      "dateHeure": "2025-01-30T21:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -7358,6 +7333,13 @@
               "sousTitres": "STF"
             },
             {
+              "idCopie": 28732,
+              "duree": 140,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
               "idCopie": 28488,
               "duree": 140,
               "format": "DCP",
@@ -8531,13 +8513,14 @@
           "titre": "Section spéciale",
           "realisateurs": "Costa-Gavras",
           "annee": 1974,
+          "duree": 110,
           "generique": "Louis Seigner, Michael Lonsdale, Jacques Perrin",
           "synopsis": "Le 21 août 1941, un jeune militant communiste tue dans le métro un officier allemand. En représailles, les nazis menacent de fusiller cent otages.",
           "status": 1,
           "copies": [
             {
               "idCopie": 28536,
-              "duree": 0,
+              "duree": 110,
               "format": "DCP"
             }
           ],
@@ -8568,13 +8551,14 @@
           "titre": "Section spéciale",
           "realisateurs": "Costa-Gavras",
           "annee": 1974,
+          "duree": 110,
           "generique": "Louis Seigner, Michael Lonsdale, Jacques Perrin",
           "synopsis": "Le 21 août 1941, un jeune militant communiste tue dans le métro un officier allemand. En représailles, les nazis menacent de fusiller cent otages.",
           "status": 1,
           "copies": [
             {
               "idCopie": 28536,
-              "duree": 0,
+              "duree": 110,
               "format": "DCP"
             }
           ],
@@ -8611,16 +8595,6 @@
           "synopsis": "Tandis que rôde un étrangleur, un homme tente de réunir le montant d'une dette de jeu mettant sa vie en péril.",
           "status": 0,
           "copies": [
-            {
-              "idCopie": 4166,
-              "duree": 87,
-              "format": "35 mm"
-            },
-            {
-              "idCopie": 4330,
-              "duree": 87,
-              "format": "35 mm"
-            },
             {
               "idCopie": 4753,
               "duree": 87,
@@ -9881,41 +9855,6 @@
       ]
     },
     {
-      "idSeance": 184866,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 811,
-          "idCategorie": 3464,
-          "titreCycle": "Yves Mirande",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31488,
-      "typeEvenement": 13,
-      "dateHeure": "2025-02-15T15:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 49542,
-          "titre": "Derrière la façade",
-          "realisateurs": "Georges Lacombe, Yves Mirande",
-          "annee": 1938,
-          "duree": 85,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28592,
-              "duree": 85,
-              "format": "35 mm"
-            }
-          ],
-          "idFilmBoxoffice": 37321
-        }
-      ]
-    },
-    {
       "idSeance": 145283,
       "idProg": 184,
       "idCycleCategories": [
@@ -9928,7 +9867,7 @@
       ],
       "idEvenement": 31490,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-11T19:30:00",
+      "dateHeure": "2024-12-11T19:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -12683,6 +12622,33 @@
               "sousTitres": "STF"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 184921,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3625,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31656,
+      "typeEvenement": 14,
+      "dateHeure": "2025-01-30T19:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31656,
+          "idTypeConf": 55,
+          "titre": "Qui êtes-vous... John Frankenheimer ?",
+          "duree": 60
         }
       ]
     }
