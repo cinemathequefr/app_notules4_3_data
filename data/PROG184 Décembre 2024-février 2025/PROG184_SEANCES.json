@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-06T13:47:26.362Z",
+  "updatedAt": "2024-09-09T07:50:02.259Z",
   "data": [
     {
       "idSeance": 137061,
@@ -12676,6 +12676,85 @@
           "idTypeConf": 55,
           "titre": "Conférence d'Ada Ackerman",
           "duree": 90
+        }
+      ]
+    },
+    {
+      "idSeance": 137948,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 817,
+          "idCategorie": 3475,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31651,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-05T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66153,
+          "titre": "Bricoleurs",
+          "art": "Les",
+          "titreVo": "Hog Wild",
+          "realisateurs": "James Parrott",
+          "annee": 1930,
+          "duree": 19,
+          "generique": "Stan Laurel, Oliver Hardy, Fay Holderness",
+          "synopsis": "À la demande de son épouse acariâtre, Oliver tente en vain, avec l'aide de Stan, d'installer une antenne de radio sur le toit de la maison.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28725,
+              "duree": 19,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 19470
+        },
+        {
+          "ordre": 2,
+          "idFilm": 56885,
+          "titre": "Laurel et Hardy menuisiers",
+          "titreVo": "Busy Bodies",
+          "realisateurs": "Lloyd French",
+          "annee": 1933,
+          "duree": 19,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28726,
+              "duree": 19,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 173879
+        },
+        {
+          "ordre": 3,
+          "idFilm": 66156,
+          "titre": "Bons petits diables",
+          "art": "Les",
+          "titreVo": "Brats",
+          "realisateurs": "James Parrott",
+          "annee": 1930,
+          "duree": 25,
+          "generique": "Stan Laurel, Oliver Hardy",
+          "ageMinimal": 3,
+          "synopsis": "En l'absence de leurs épouses, Laurel et Hardy vont devoir garder leur deux terribles garnements, qui leur ressemblent étrangement et sont aussi doués que les adultes pour provoquer des catastrophes.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28727,
+              "duree": 25,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 5664
         }
       ]
     }
