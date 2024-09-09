@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-09T07:50:06.756Z",
+  "updatedAt": "2024-09-09T08:52:42.723Z",
   "data": [
     {
       "idSeance": 132987,
@@ -3956,7 +3956,6 @@
           "titreVo": "Two-Faced Woman",
           "realisateurs": "George Cukor",
           "annee": 1941,
-          "duree": 90,
           "generique": "Greta Garbo, Melvyn Douglas, Constance Bennett",
           "adaptation": "D'après la pièce _La Femme aux deux visages_ de Ludwig Fulda.",
           "miniTexte": "Une séquence de danse marquante, des descentes acrobatiques en ski : Karin se fait passer pour sa sœur jumelle pour (re)séduire son propre mari. Une _screwball comedy_ option reconquête, avec le couple vedette du _Ninotchka_ de Lubitsch, Melvyn Douglas parfaitement à l'aise dans le registre, et la grande Garbo dans son dernier rôle.",
@@ -3964,7 +3963,7 @@
           "copies": [
             {
               "idCopie": 27981,
-              "duree": 90,
+              "duree": 0,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
@@ -3999,7 +3998,6 @@
           "titreVo": "Two-Faced Woman",
           "realisateurs": "George Cukor",
           "annee": 1941,
-          "duree": 90,
           "generique": "Greta Garbo, Melvyn Douglas, Constance Bennett",
           "adaptation": "D'après la pièce _La Femme aux deux visages_ de Ludwig Fulda.",
           "miniTexte": "Une séquence de danse marquante, des descentes acrobatiques en ski : Karin se fait passer pour sa sœur jumelle pour (re)séduire son propre mari. Une _screwball comedy_ option reconquête, avec le couple vedette du _Ninotchka_ de Lubitsch, Melvyn Douglas parfaitement à l'aise dans le registre, et la grande Garbo dans son dernier rôle.",
@@ -4007,7 +4005,7 @@
           "copies": [
             {
               "idCopie": 27981,
-              "duree": 90,
+              "duree": 0,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
@@ -13798,18 +13796,12 @@
           "idCategorie": 3413,
           "titreCycle": "Bob Rafelson",
           "titreSousCycle": "Les films"
-        },
-        {
-          "idCycle": 802,
-          "idCategorie": 3425,
-          "titreCycle": "Bob Rafelson",
-          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31117,
+      "typeEvenement": 13,
       "dateHeure": "2024-09-28T15:00:00",
       "idSalle": "HL",
-      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -13834,13 +13826,6 @@
             }
           ],
           "idFilmBoxoffice": 4892
-        },
-        {
-          "ordre": 2,
-          "idConf": 31176,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Jean-Baptiste Thoret",
-          "duree": 60
         }
       ]
     },
