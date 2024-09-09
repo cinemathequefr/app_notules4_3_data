@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-09T07:50:02.259Z",
+  "updatedAt": "2024-09-09T13:22:08.397Z",
   "data": [
     {
       "idSeance": 137061,
@@ -8532,7 +8532,8 @@
           "realisateurs": "Costa-Gavras",
           "annee": 1974,
           "generique": "Louis Seigner, Michael Lonsdale, Jacques Perrin",
-          "status": 0,
+          "synopsis": "Le 21 août 1941, un jeune militant communiste tue dans le métro un officier allemand. En représailles, les nazis menacent de fusiller cent otages.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28536,
@@ -8568,7 +8569,8 @@
           "realisateurs": "Costa-Gavras",
           "annee": 1974,
           "generique": "Louis Seigner, Michael Lonsdale, Jacques Perrin",
-          "status": 0,
+          "synopsis": "Le 21 août 1941, un jeune militant communiste tue dans le métro un officier allemand. En représailles, les nazis menacent de fusiller cent otages.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28536,
@@ -9062,7 +9064,7 @@
       ],
       "idEvenement": 31467,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-27T20:00:00",
+      "dateHeure": "2025-02-27T21:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -9966,7 +9968,6 @@
           "annee": 2001,
           "duree": 107,
           "generique": "Thierry Lhermitte, Marion Cotillard, Samuel Le Bihan, Aurore Clément",
-          "synopsis": "texte",
           "status": 0,
           "copies": [
             {
@@ -10005,7 +10006,6 @@
           "duree": 82,
           "generique": "Michel Bouquet, Jeanne Moreau, Eric Penet, Madeleine Renaud",
           "adaptation": "D'après le roman _L'Humeur vagabonde_ d'Antoine Blondin.",
-          "synopsis": "texte",
           "status": 0,
           "copies": [
             {
@@ -11810,12 +11810,13 @@
           "art": "La",
           "titreVo": "Planet of the Apes",
           "realisateurs": "Franklin J. Schaffner",
-          "annee": 1967,
+          "annee": 1968,
+          "dureeStd": 112,
           "duree": 112,
           "generique": "Charlton Heston, Roddy McDowall, Kim Hunter",
           "adaptation": "D'après le roman _La Planète des Singes_ de Pierre Boulle.",
-          "synopsis": "Égaré dans l'espace-temps, un engin spatial américain s'écrase sur une planète inconnue. Les astronautes découvrent que les hommes primitifs de cette planète mystérieuse sont placés sous le joug de singes très évolués...",
-          "status": 0,
+          "synopsis": "Égaré dans l'espace-temps, un engin spatial américain s'écrase sur une planète inconnue. Les astronautes découvrent que les hommes primitifs de cette planète mystérieuse sont placés sous le joug de singes très évolués.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28703,
@@ -11824,7 +11825,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 12791
         }
       ]
     },
@@ -11853,6 +11855,7 @@
           "artVo": "The",
           "realisateurs": "Robert Wise",
           "annee": 1971,
+          "dureeStd": 115,
           "duree": 131,
           "generique": "Arthur Hill, David Wayne, Kate Reid",
           "adaptation": "D'après le roman _La Variété Andromède_ de Michael Crichton.",
@@ -11872,48 +11875,8 @@
               "format": "DCP",
               "version": "VO"
             }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 139247,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 953,
-          "idCategorie": 3621,
-          "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31605,
-      "typeEvenement": 13,
-      "dateHeure": "2025-02-23T19:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 59081,
-          "titre": "Soleil vert",
-          "titreVo": "Soylent Green",
-          "realisateurs": "Richard Fleischer",
-          "annee": 1973,
-          "duree": 97,
-          "generique": "Charlton Heston, Leigh Taylor-Young, Edward G. Robinson",
-          "adaptation": "D'après le roman _Soleil vert_ de Harry Harrison.",
-          "synopsis": "New York, 2022. Les hommes ont épuisé les ressources naturelles. Seul le « soleil vert » parvient à nourrir une population miséreuse qui ignore tout de cet aliment. Accompagné de son fidèle ami, un policier va découvrir au péril de sa vie l'effroyable réalité de cette société inhumaine.",
-          "miniTexte": "Une dystopie qui résonne d'autant plus fort aujourd'hui qu'elle se déroule en... 2022. Adapté d'un roman, _Make Room! Make Room!_, au titre plus explicite que celui du film, _Soleil vert_ est un plaidoyer écologique rageur, engagé, qui anticipe avec une rare acuité tous les maux dont souffre notre planète depuis des années. La direction artistique époustouflante, le casting prestigieux, et la fin, à ranger à côté de _La Planète des singes_ (déjà avec Charlton Heston) parmi les twists les plus sensationnels de l'histoire du cinéma, font de ce film un monument du cinéma d'anticipation. Et, l'air de rien, l'un des grands films politiques des années 70.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 26612,
-              "duree": 97,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ]
+          ],
+          "idFilmBoxoffice": 88402
         }
       ]
     },
@@ -11937,13 +11900,15 @@
           "ordre": 1,
           "idFilm": 54844,
           "titre": "Stalker",
+          "titreNx": "Сталкер",
           "realisateurs": "Andreï Tarkovski",
           "annee": 1978,
+          "dureeStd": 161,
           "duree": 161,
           "generique": "Alexandre Kaïdanovski, Anatoli Solonitsyne, Nikolaï Grinko",
           "adaptation": "D'après la nouvelle _Pique-nique au bord du chemin_ de Boris Strougatski et Arkady Strougatski.",
           "synopsis": "Un « stalker » emmène les voyageurs à travers une zone dangereuse à la recherche d'un endroit magique.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 11448,
@@ -11953,7 +11918,8 @@
               "langCopie": "RUS",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 702
         }
       ]
     },
@@ -11997,51 +11963,6 @@
               "sousTitres": "STF"
             }
           ]
-        }
-      ]
-    },
-    {
-      "idSeance": 184893,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 14,
-          "idCategorie": 3384,
-          "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
-        },
-        {
-          "idCycle": 953,
-          "idCategorie": 3621,
-          "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31612,
-      "typeEvenement": 13,
-      "dateHeure": "2025-02-14T19:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 56711,
-          "titre": "2019, après la chute de New York",
-          "titreVo": "2019: Dopo la caduta di New York",
-          "realisateurs": "Sergio Martino",
-          "annee": 1983,
-          "duree": 95,
-          "generique": "Michael Sopkiw, Valentine Monnier, George Eastman",
-          "synopsis": "Après la troisième guerre thermonucléaire, dans New York transformé en camp de concentration, un aventurier est chargé de retrouver la dernière femme féconde encore en vie.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 12521,
-              "duree": 95,
-              "format": "35 mm",
-              "version": "VF"
-            }
-          ],
-          "idFilmBoxoffice": 500
         }
       ]
     },
@@ -12094,50 +12015,6 @@
       ]
     },
     {
-      "idSeance": 184894,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 14,
-          "idCategorie": 3384,
-          "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
-        },
-        {
-          "idCycle": 953,
-          "idCategorie": 3621,
-          "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31614,
-      "typeEvenement": 13,
-      "dateHeure": "2025-02-14T21:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 55816,
-          "titre": "Atomic cyborg",
-          "titreVo": "Vendetta dal futuro",
-          "realisateurs": "Martin Dolman",
-          "annee": 1985,
-          "duree": 94,
-          "generique": "Donal O'Brien, George Eastman, Daniel Greene",
-          "synopsis": "Au Nouveau Mexique, le professeur Mosley poursuit sa lutte contre la pollution atmosphérique et veut empêcher de nouvelles constructions dans des quartiers saturés. Son adversaire, l'industriel Turner, n'hésite pas à employer un androïde tueur pour l'éliminer.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 2243,
-              "duree": 94,
-              "format": "35 mm",
-              "version": "VF"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 139230,
       "idProg": 184,
       "idCycleCategories": [
@@ -12173,42 +12050,6 @@
               "idCopie": 28722,
               "duree": 101,
               "format": "35 mm"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 139377,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 953,
-          "idCategorie": 3621,
-          "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31616,
-      "typeEvenement": 13,
-      "dateHeure": "2025-02-28T20:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 29267,
-          "titre": "Deep Impact",
-          "realisateurs": "Mimi Leder",
-          "annee": 1997,
-          "duree": 121,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28705,
-              "duree": 121,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
             }
           ]
         }
@@ -12275,8 +12116,8 @@
           "annee": 2011,
           "duree": 116,
           "generique": "Michael Shannon, Jessica Chastain",
-          "synopsis": "Curtis La Forche mène une vie paisible avec sa femme et sa fille. Des visions apocalyptiques envahissent peu à peu son esprit. Il en vient à se demander s'il doit protéger sa famille de la tornade qu'il craint ou de lui-même.\n\n---\n\nCurtis La Forche mène une vie paisible avec sa femme et sa fille. Des visions apocalyptiques envahissent peu à peu son esprit. Il en vient à se demander s'il doit protéger sa famille de la tornade qu'il craint ou de lui-même.",
-          "status": 0,
+          "synopsis": "Curtis LaForche mène une vie paisible avec sa femme et sa fille. Des visions apocalyptiques envahissent peu à peu son esprit. Il en vient à se demander s'il doit protéger sa famille de la tornade qu'il craint ou de lui-même.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 1157,
@@ -12286,7 +12127,8 @@
               "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 189944
         }
       ]
     },
@@ -12313,23 +12155,23 @@
           "art": "Les",
           "realisateurs": "Jean-Marie Larrieu, Arnaud Larrieu",
           "annee": 2008,
-          "duree": 133,
+          "duree": 134,
           "generique": "Mathieu Amalric, Catherine Frot, Karin Viard, Sergi López",
           "adaptation": "D'après le roman _Les Derniers jours du monde_ de Dominique Noguez.",
           "synopsis": "Robinson Laborde, séparé de sa femme et ayant perdu de vue celle qui l'avait amené à la quitter, se retrouve à Biarritz alors que les médias annoncent la fin du monde. Il décide de partir en Espagne et entame un périple qui sera aussi amoureux.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 7526,
-              "duree": 133,
-              "format": "35 mm",
-              "langCopie": "FRE"
-            },
-            {
               "idCopie": 25088,
               "duree": 134,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "FRE"
+            },
+            {
+              "idCopie": 7526,
+              "duree": 133,
+              "format": "35 mm",
               "langCopie": "FRE"
             }
           ]
@@ -12378,6 +12220,47 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 184913,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 953,
+          "idCategorie": 3621,
+          "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31628,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-28T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 118084,
+          "titre": "4h44, dernier jour sur terre",
+          "titreVo": "4:44 Last Day on Earth",
+          "realisateurs": "Abel Ferrara",
+          "annee": 2011,
+          "duree": 82,
+          "generique": "Willem Dafoe, Shanyn Leigh, Natasha Lyonne",
+          "synopsis": "New York. Cisco et Skye s'apprêtent à passer leur derniere soirée ensemble. Demain, à 4h44, le monde disparaîtra.\n\n---\n\nNew York. Cisco et Skye vivent dans leur appartement les dernières heures de l'humanité. Le lendemain, à 4h 44, le monde disparaîtra. C'est le moment d'une ultime étreinte, l'heure des questions philosophiques, le temps de se dire adieu.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 2144,
+              "duree": 82,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 193915
+        }
+      ]
+    },
+    {
       "idSeance": 139245,
       "idProg": 184,
       "idCycleCategories": [
@@ -12397,14 +12280,16 @@
           "ordre": 1,
           "idFilm": 121219,
           "titre": "Snowpiercer, le transperceneige",
-          "titreVo": "Snowpiercer",
-          "realisateurs": "Joon-ho Bong",
+          "titreVo": "Seolgungnyeolcha",
+          "titreNx": "설국열차",
+          "realisateurs": "Bong Joon-ho",
           "annee": 2012,
+          "dureeStd": 120,
           "duree": 120,
-          "generique": "Chris Evans, Jamie Bell, Tilda Swinton, Kang-ho Song",
+          "generique": "Chris Evans, Jamie Bell, Tilda Swinton, Song Kang-ho",
           "adaptation": "D'après le roman graphique _Le Transperceneige_ de Jacques Lob , Benjamin Legrand et Jean-Marc Rochette.",
-          "synopsis": "En 2031, les derniers survivants de l'ère glaciaire ont embarqué dans un train dans lequel un système de classe a été mis en place. Des hommes joignent leurs forces pour lutter contre cette hiérarchie injuste.\n\n---\n\n2031\\. Une nouvelle ère glaciaire. Les derniers survivants ont pris place à bord du Snowpiercer, un train gigantesque condamné à tourner autour de la Terre sans jamais s'arrêter. Dans ce microcosme futuriste de métal fendant la glace, s'est recréée une hiérarchie des classes contre laquelle une poignée d'hommes entraînés par l'un d'eux tente de lutter.",
-          "status": 0,
+          "synopsis": "En 2031, les derniers survivants de l'ère glaciaire ont embarqué dans un train dans lequel un système de classe a été mis en place. Des hommes joignent leurs forces pour lutter contre cette hiérarchie injuste.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 5043,
@@ -12414,7 +12299,8 @@
               "langCopie": "KOR",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 123530
         }
       ]
     },
@@ -12755,6 +12641,48 @@
             }
           ],
           "idFilmBoxoffice": 5664
+        }
+      ]
+    },
+    {
+      "idSeance": 184914,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 953,
+          "idCategorie": 3621,
+          "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31655,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-23T19:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 114723,
+          "titre": "Cheval de Turin",
+          "art": "Le",
+          "titreVo": "Torinói ló",
+          "artVo": "A",
+          "realisateurs": "Béla Tarr, Ágnes Hranitzky",
+          "annee": 2011,
+          "dureeStd": 146,
+          "duree": 146,
+          "generique": "János Derzsi, Erika Bok, Mihaly Kormos",
+          "synopsis": "Quelque part, dans la campagne, un fermier, sa fille, une charrette. Et un vieux cheval, celui qu'à Turin Friedrich Nietzsche enlaça, bouleversé, avant d'arrêter d'écrire et de sombrer dans la folie.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 16991,
+              "duree": 146,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     }
