@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-10T10:11:21.080Z",
+  "updatedAt": "2024-09-10T15:52:05.239Z",
   "data": [
     {
       "idSeance": 137061,
@@ -1606,6 +1606,33 @@
       "mention": "Avant-première"
     },
     {
+      "idSeance": 184772,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2690,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 30565,
+      "typeEvenement": 14,
+      "dateHeure": "2025-01-25T16:00:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 30565,
+          "titre": "DIALOGUE AVEC JEAN-FRANÇOIS RAUGER",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 1
+        }
+      ]
+    },
+    {
       "idSeance": 137205,
       "idProg": 184,
       "idCycleCategories": [
@@ -1618,7 +1645,7 @@
       ],
       "idEvenement": 30976,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-08T17:30:00",
+      "dateHeure": "2024-12-08T17:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2305,7 +2332,7 @@
       ]
     },
     {
-      "idSeance": 137931,
+      "idSeance": 184946,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -2317,7 +2344,7 @@
       ],
       "idEvenement": 31250,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-04T17:30:00",
+      "dateHeure": "2025-01-04T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2334,11 +2361,11 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28407,
+              "idCopie": 28738,
               "duree": 100,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STA"
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 193217
@@ -2380,48 +2407,6 @@
             }
           ],
           "idFilmBoxoffice": 33071
-        }
-      ]
-    },
-    {
-      "idSeance": 137996,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 806,
-          "idCategorie": 3448,
-          "titreCycle": "Elio Petri",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31252,
-      "typeEvenement": 13,
-      "dateHeure": "2025-01-08T18:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 43163,
-          "titre": "Classe ouvrière va au paradis",
-          "art": "La",
-          "titreVo": "Classe operaia va in paradiso",
-          "artVo": "La",
-          "realisateurs": "Elio Petri",
-          "annee": 1970,
-          "duree": 125,
-          "generique": "Gian Maria Volonté, Mariangela Melato, Salvo Randone",
-          "synopsis": "Un ouvrier communiste et taciturne perd un doigt lors d'un accident du travail et découvre à cette occasion la solidarité avec ses compagnons d'usine.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28408,
-              "duree": 125,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 6095
         }
       ]
     },
@@ -2811,7 +2796,7 @@
       ]
     },
     {
-      "idSeance": 137932,
+      "idSeance": 184954,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -2823,7 +2808,7 @@
       ],
       "idEvenement": 31259,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-04T20:00:00",
+      "dateHeure": "2025-01-08T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3141,7 +3126,7 @@
       ]
     },
     {
-      "idSeance": 184764,
+      "idSeance": 184945,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -3153,7 +3138,7 @@
       ],
       "idEvenement": 31267,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-03T20:30:00",
+      "dateHeure": "2025-01-04T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3218,7 +3203,7 @@
       ]
     },
     {
-      "idSeance": 137514,
+      "idSeance": 184940,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -3230,7 +3215,7 @@
       ],
       "idEvenement": 31269,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-20T18:00:00",
+      "dateHeure": "2024-12-22T17:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3260,7 +3245,7 @@
       ]
     },
     {
-      "idSeance": 137888,
+      "idSeance": 184941,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -3272,8 +3257,8 @@
       ],
       "idEvenement": 31271,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-03T18:30:00",
-      "idSalle": "GF",
+      "dateHeure": "2024-12-20T18:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -3677,7 +3662,7 @@
       ]
     },
     {
-      "idSeance": 137773,
+      "idSeance": 184942,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -3689,7 +3674,7 @@
       ],
       "idEvenement": 31282,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-30T16:00:00",
+      "dateHeure": "2024-12-23T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4322,6 +4307,47 @@
       ]
     },
     {
+      "idSeance": 137476,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 808,
+          "idCategorie": 3453,
+          "titreCycle": "Karel Reisz",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31305,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-19T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 94700,
+          "titre": "Momma Don't Allow",
+          "realisateurs": "Karel Reisz, Tony Richardson",
+          "annee": 1956,
+          "duree": 22,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28661,
+              "duree": 22,
+              "format": "16 mm"
+            },
+            {
+              "idCopie": 28674,
+              "duree": 22,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 29735
+        }
+      ]
+    },
+    {
       "idSeance": 184839,
       "idProg": 184,
       "idCycleCategories": [
@@ -4370,7 +4396,7 @@
       ],
       "idEvenement": 31307,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-16T19:30:00",
+      "dateHeure": "2025-02-16T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4382,43 +4408,16 @@
           "artVo": "The",
           "realisateurs": "John Frankenheimer",
           "annee": 1970,
+          "duree": 109,
           "adaptation": "D'après le roman _Les Cavaliers_ de Joseph Kessel.",
           "miniTexte": "Dans les paysages arides de l'Afghanistan, Omar Sharif pratique le bozcachi, sport national équestre d'une beauté intense. Amputé après une blessure, le cavalier cherche à se reconstruire, mû par la fierté et l'opposition au père. La découverte d'une culture fascinante et de ses traditions ancestrales, d'après le roman de Joseph Kessel.",
           "status": 1,
-          "copies": [],
-          "idFilmBoxoffice": 3240
-        }
-      ]
-    },
-    {
-      "idSeance": 184902,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 807,
-          "idCategorie": 3452,
-          "titreCycle": "John Frankenheimer",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31307,
-      "typeEvenement": 13,
-      "dateHeure": "2025-02-17T17:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 32357,
-          "titre": "Cavaliers",
-          "art": "Les",
-          "titreVo": "Horsemen",
-          "artVo": "The",
-          "realisateurs": "John Frankenheimer",
-          "annee": 1970,
-          "adaptation": "D'après le roman _Les Cavaliers_ de Joseph Kessel.",
-          "miniTexte": "Dans les paysages arides de l'Afghanistan, Omar Sharif pratique le bozcachi, sport national équestre d'une beauté intense. Amputé après une blessure, le cavalier cherche à se reconstruire, mû par la fierté et l'opposition au père. La découverte d'une culture fascinante et de ses traditions ancestrales, d'après le roman de Joseph Kessel.",
-          "status": 1,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28754,
+              "duree": 109
+            }
+          ],
           "idFilmBoxoffice": 3240
         }
       ]
@@ -4486,9 +4485,15 @@
           "titre": "Dead Bang",
           "realisateurs": "John Frankenheimer",
           "annee": 1988,
+          "duree": 102,
           "miniTexte": "Starisé par le petit écran et _Miami Vice_, Don Johnson incarne un flic divorcé, désabusé, dépressif et alcoolo, revigoré par la traque d'un assassin suprémaciste. Frankenheimer déploie son sens du cadre et du rythme dans un néo noir divertissant, aux scènes d'action habilement ficelées.",
           "status": 1,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28745,
+              "duree": 102
+            }
+          ],
           "idFilmBoxoffice": 44670
         }
       ]
@@ -4568,34 +4573,6 @@
       ]
     },
     {
-      "idSeance": 138703,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 807,
-          "idCategorie": 3452,
-          "titreCycle": "John Frankenheimer",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31312,
-      "typeEvenement": 13,
-      "dateHeure": "2025-02-03T20:30:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 145691,
-          "titre": "For Whom the Bell Tolls",
-          "realisateurs": "John Frankenheimer",
-          "annee": 1959,
-          "miniTexte": "Madrid, pendant la guerre civile. Un soldat américain, allié de la résistance contre les forces franquistes, est mandaté pour détruire un pont derrière les lignes ennemies. Une adaptation du roman d'Ernest Hemingway, pour un épisode de la série télévisée d'anthologie, _Playhouse 90_.",
-          "status": 1,
-          "copies": []
-        }
-      ]
-    },
-    {
       "idSeance": 184891,
       "idProg": 184,
       "idCycleCategories": [
@@ -4608,7 +4585,7 @@
       ],
       "idEvenement": 31313,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-16T17:30:00",
+      "dateHeure": "2025-02-16T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4777,7 +4754,7 @@
       ],
       "idEvenement": 31318,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-08T17:00:00",
+      "dateHeure": "2025-02-08T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4830,7 +4807,12 @@
           "annee": 1996,
           "miniTexte": "Sur une île du Pacifique, un savant fou pratique des expériences sur des animaux, devenus monstrueux. Frankenheimer, parachuté sur le projet, livre une nouvelle adaptation du roman d'H. G. Wells, pour le plaisir de tourner avec Brando qui, grimé et dans des costumes délirants, donne au film des airs de savoureux nanar.",
           "status": 1,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28742,
+              "duree": 0
+            }
+          ],
           "idFilmBoxoffice": 15691
         }
       ]
@@ -4848,7 +4830,7 @@
       ],
       "idEvenement": 31320,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-17T21:00:00",
+      "dateHeure": "2025-02-17T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4950,12 +4932,28 @@
           "titreVo": "Seconds",
           "realisateurs": "John Frankenheimer",
           "annee": 1965,
+          "duree": 106,
           "generique": "Rock Hudson, Salome Jens, John Randolph",
           "adaptation": "D'après le roman _Seconds_ de David Ely.",
           "synopsis": "Arthur Hamilton, un banquier quinquagénaire, est lassé de la vie qu'il mène. Il est contacté par une mystérieuse organisation qui lui propose de changer d'identité grâce à une reconstruction faciale.",
           "miniTexte": "BO angoissante de Jerry Goldsmith, générique kaléidoscopique imaginé par le génial Saul Bass : _L'Opération diabolique_ plonge dès son entame dans une atmosphère paranoïaque, un cauchemar éveillé. Un homme subit une opération de reconstruction faciale, mais derrière le coup de bistouri et la promesse d'une vie nouvelle se cache la misère d'une existence à laquelle on ne peut échapper. À mi-chemin entre fantastique et drame psychologique, avec un montage qui alterne séquences lentes ou nerveuses, Frankenheimer nous entraîne de duperies en manipulations infernales. Il nous parle de libre arbitre, de la seconde chance qui n'est qu'illusoire, se moque du mouvement hippie balbutiant en filmant une scène d'orgie dionysienne, et critique avec virulence le rêve américain. Une prise de conscience pessimiste et glaçante.",
           "status": 1,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 8989,
+              "duree": 106,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 8969,
+              "duree": 106,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 121907
         }
       ]
@@ -4984,12 +4982,28 @@
           "titreVo": "Seconds",
           "realisateurs": "John Frankenheimer",
           "annee": 1965,
+          "duree": 106,
           "generique": "Rock Hudson, Salome Jens, John Randolph",
           "adaptation": "D'après le roman _Seconds_ de David Ely.",
           "synopsis": "Arthur Hamilton, un banquier quinquagénaire, est lassé de la vie qu'il mène. Il est contacté par une mystérieuse organisation qui lui propose de changer d'identité grâce à une reconstruction faciale.",
           "miniTexte": "BO angoissante de Jerry Goldsmith, générique kaléidoscopique imaginé par le génial Saul Bass : _L'Opération diabolique_ plonge dès son entame dans une atmosphère paranoïaque, un cauchemar éveillé. Un homme subit une opération de reconstruction faciale, mais derrière le coup de bistouri et la promesse d'une vie nouvelle se cache la misère d'une existence à laquelle on ne peut échapper. À mi-chemin entre fantastique et drame psychologique, avec un montage qui alterne séquences lentes ou nerveuses, Frankenheimer nous entraîne de duperies en manipulations infernales. Il nous parle de libre arbitre, de la seconde chance qui n'est qu'illusoire, se moque du mouvement hippie balbutiant en filmant une scène d'orgie dionysienne, et critique avec virulence le rêve américain. Une prise de conscience pessimiste et glaçante.",
           "status": 1,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 8989,
+              "duree": 106,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 8969,
+              "duree": 106,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 121907
         }
       ]
@@ -5102,10 +5116,16 @@
           "artVo": "The",
           "realisateurs": "John Frankenheimer",
           "annee": 1968,
+          "duree": 106,
           "adaptation": "D'après le roman _The Gypsy Moths_ de James Drought.",
           "miniTexte": "« Quand sauter n'est pas qu'une manière de vivre, mais aussi une façon de mourir » : Frankenheimer met en scène un trio de fous-volants spécialisés dans les acrobaties aériennes et la chute libre, qui tournent à travers l'Amérique rurale. Filmées au plus près, en conditions réelles, les séquences aériennes s'enchaînent, impressionnantes. En contrechamp, le cinéaste raconte la liaison de deux aimants contraires – Burt Lancaster et Deborah Kerr, le couple sensuel de _Tant qu'il y aura des hommes_ réuni quinze ans après. Tandis qu'elle, torturée, cherche à s'échapper de sa vie conformiste, lui, détaché et cynique, flirte avec la mort. Sur fond de mélo, leur histoire effleure la question de la liberté et de la quête existentielle. Avec, aussi, un Gene Hackman grande gueule et sympathique.",
           "status": 1,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28756,
+              "duree": 106
+            }
+          ],
           "idFilmBoxoffice": 41123
         }
       ],
@@ -5168,6 +5188,90 @@
           "status": 1,
           "copies": [],
           "idFilmBoxoffice": 24851
+        }
+      ]
+    },
+    {
+      "idSeance": 138857,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31329,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-08T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44798,
+          "titre": "Prisonnier d'Alcatraz",
+          "art": "Le",
+          "titreVo": "Birdman of Alcatraz",
+          "artVo": "The",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1960,
+          "duree": 147,
+          "adaptation": "D'après le roman _Birdman of Alcatraz_ de Thomas E. Gaddis.",
+          "miniTexte": "Une version romancée de la vie de Robert Stroud, célèbre détenu américain, condamné à perpétuité pour meurtre. Après avoir recueilli dans sa cellule un oiseau blessé, il se découvre une passion pour les canaris. Alcatraz sera sa dernière maison, où il ne pourra emmener ses protégés, mais poursuivra ses recherches et publiera deux traités d'ornithologie, s'attirant la sympathie du public. Frankenheimer prend son temps pour construire un récit confiné en noir et blanc, parfait rendu de l'atmosphère pesante du pénitencier. Une peinture à l'os de l'univers carcéral, doublée d'une étude en creux sur le rapport à la mère d'un être asocial, dont la mort est la seule issue. Face à Karl Malden qui campe le directeur du pénitencier, Burt Lancaster est (presque) de toutes les scènes, époustouflant (il sera récompensé à Venise et aux BAFTA).",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28577,
+              "duree": 147,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 4944
+        }
+      ]
+    },
+    {
+      "idSeance": 184955,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31329,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-17T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44798,
+          "titre": "Prisonnier d'Alcatraz",
+          "art": "Le",
+          "titreVo": "Birdman of Alcatraz",
+          "artVo": "The",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1960,
+          "duree": 147,
+          "adaptation": "D'après le roman _Birdman of Alcatraz_ de Thomas E. Gaddis.",
+          "miniTexte": "Une version romancée de la vie de Robert Stroud, célèbre détenu américain, condamné à perpétuité pour meurtre. Après avoir recueilli dans sa cellule un oiseau blessé, il se découvre une passion pour les canaris. Alcatraz sera sa dernière maison, où il ne pourra emmener ses protégés, mais poursuivra ses recherches et publiera deux traités d'ornithologie, s'attirant la sympathie du public. Frankenheimer prend son temps pour construire un récit confiné en noir et blanc, parfait rendu de l'atmosphère pesante du pénitencier. Une peinture à l'os de l'univers carcéral, doublée d'une étude en creux sur le rapport à la mère d'un être asocial, dont la mort est la seule issue. Face à Karl Malden qui campe le directeur du pénitencier, Burt Lancaster est (presque) de toutes les scènes, époustouflant (il sera récompensé à Venise et aux BAFTA).",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28577,
+              "duree": 147,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 4944
         }
       ]
     },
@@ -5285,11 +5389,18 @@
           "titreVo": "Path to War",
           "realisateurs": "John Frankenheimer",
           "annee": 2002,
+          "duree": 165,
           "generique": "Michael Gambon",
           "synopsis": "Aux Etats-Unis, au milieu des années soixante, le Président Lyndon Johnson et sa brillante équipe de conseillers, issus pour la plupart du gouvernement Kennedy, s'interrogent sur le bien fondé de l'intervention américaine au Vietnam.",
           "miniTexte": "USA, milieu des années 60 : le président Lyndon Johnson (stupéfiant Michael Gambon) et ses conseillers s'interrogent sur le bien-fondé de l'intervention américaine au Vietnam. Fidèle aux engagements de sa jeunesse, Frankenheimer dénonce le lobby militaire et fait l'autopsie d'un engrenage tragique, où triomphent l'ignorance, la méconnaissance du terrain et du monde asiatique. La suite brillante et incisive de discussions et d'affrontements, le sentiment d'un engrenage fatal apparentent le film au meilleur des thrillers. Une fin de carrière magnifique, énergique et maîtrisée.",
           "status": 1,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 22070,
+              "duree": 165,
+              "version": "VO"
+            }
+          ],
           "idFilmBoxoffice": 7350
         }
       ]
@@ -5380,10 +5491,16 @@
           "titreVo": "Seven Days in May",
           "realisateurs": "John Frankenheimer",
           "annee": 1963,
+          "duree": 120,
           "adaptation": "D'après le roman _Seven Days in May_ de Fletcher Knebel et Charles Waldo.",
           "miniTexte": "Pendant la guerre froide, une tentative de coup d'État est étouffée dans l'œuf. Frankenheimer orchestre une politique-fiction qui interroge les valeurs de l'Amérique, avec en arrière-plan le péril rouge et la menace nucléaire.",
           "status": 1,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28760,
+              "duree": 120
+            }
+          ],
           "idFilmBoxoffice": 4424
         }
       ]
@@ -5411,10 +5528,16 @@
           "titreVo": "Seven Days in May",
           "realisateurs": "John Frankenheimer",
           "annee": 1963,
+          "duree": 120,
           "adaptation": "D'après le roman _Seven Days in May_ de Fletcher Knebel et Charles Waldo.",
           "miniTexte": "Pendant la guerre froide, une tentative de coup d'État est étouffée dans l'œuf. Frankenheimer orchestre une politique-fiction qui interroge les valeurs de l'Amérique, avec en arrière-plan le péril rouge et la menace nucléaire.",
           "status": 1,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28760,
+              "duree": 120
+            }
+          ],
           "idFilmBoxoffice": 4424
         }
       ]
@@ -5443,12 +5566,21 @@
           "artVo": "The",
           "realisateurs": "John Frankenheimer",
           "annee": 1962,
+          "duree": 126,
           "generique": "Janet Leigh, Frank Sinatra, Laurence Harvey",
           "adaptation": "D'après le roman _The Manchurian Candidate_ de Richard Condon.",
           "synopsis": "Au retour de la guerre de Corée, un soldat américain reçoit une médaille d'honneur. Mais lors de sa captivité, il a subi un lavage de cerveau et est en fait utilisé par l'ennemi comme assassin.",
           "miniTexte": "_Un crime dans la tête_ sort pendant la crise de Cuba, et précédé d'une rumeur folle : J. F. Kennedy aurait appuyé pour que United Artists produise cette adaptation du roman de Richard Condon. Ironie du sort, le film sera plus tard perçu comme une des inspirations de Lee Harvey Oswald. Frankenheimer réunit une distribution trois étoiles – Janet Leigh, qui vient de terminer _Psychose_, Angela Lansbury en mère manipulatrice et névrosée, et Sinatra, impérial – dans un thriller glaçant, qui voit un soldat américain revenir de la guerre de Corée après avoir subi en captivité un lavage de cerveau. L'intrigue labyrinthique repose sur les quatre piliers de la paranoïa, pouvoir, médias, fantasmes et complot. Frankenheimer enchaîne les séquences hallucinées, joue avec le cadre (plafonds, contre-plongées), et sa mise en scène, abrupte, précise, tutoie l'expressionnisme. Un grand classique du cinéma d'espionnage, qui donnera lieu à un remake signé Jonathan Demme, avec Denzel Washington.",
           "status": 2,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 6950,
+              "duree": 126,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
           "idFilmBoxoffice": 5170
         }
       ]
@@ -5477,12 +5609,21 @@
           "artVo": "The",
           "realisateurs": "John Frankenheimer",
           "annee": 1962,
+          "duree": 126,
           "generique": "Janet Leigh, Frank Sinatra, Laurence Harvey",
           "adaptation": "D'après le roman _The Manchurian Candidate_ de Richard Condon.",
           "synopsis": "Au retour de la guerre de Corée, un soldat américain reçoit une médaille d'honneur. Mais lors de sa captivité, il a subi un lavage de cerveau et est en fait utilisé par l'ennemi comme assassin.",
           "miniTexte": "_Un crime dans la tête_ sort pendant la crise de Cuba, et précédé d'une rumeur folle : J. F. Kennedy aurait appuyé pour que United Artists produise cette adaptation du roman de Richard Condon. Ironie du sort, le film sera plus tard perçu comme une des inspirations de Lee Harvey Oswald. Frankenheimer réunit une distribution trois étoiles – Janet Leigh, qui vient de terminer _Psychose_, Angela Lansbury en mère manipulatrice et névrosée, et Sinatra, impérial – dans un thriller glaçant, qui voit un soldat américain revenir de la guerre de Corée après avoir subi en captivité un lavage de cerveau. L'intrigue labyrinthique repose sur les quatre piliers de la paranoïa, pouvoir, médias, fantasmes et complot. Frankenheimer enchaîne les séquences hallucinées, joue avec le cadre (plafonds, contre-plongées), et sa mise en scène, abrupte, précise, tutoie l'expressionnisme. Un grand classique du cinéma d'espionnage, qui donnera lieu à un remake signé Jonathan Demme, avec Denzel Washington.",
           "status": 2,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 6950,
+              "duree": 126,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
           "idFilmBoxoffice": 5170
         }
       ]
@@ -5683,11 +5824,14 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28455,
-              "duree": 100
+              "idCopie": 28625,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             },
             {
-              "idCopie": 28625,
+              "idCopie": 28455,
               "duree": 100
             }
           ],
@@ -5837,7 +5981,7 @@
       ],
       "idEvenement": 31357,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-26T17:30:00",
+      "dateHeure": "2025-01-26T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -5946,7 +6090,7 @@
       ]
     },
     {
-      "idSeance": 138144,
+      "idSeance": 184953,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -5958,7 +6102,7 @@
       ],
       "idEvenement": 31360,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-13T18:00:00",
+      "dateHeure": "2025-01-06T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6169,7 +6313,7 @@
       ]
     },
     {
-      "idSeance": 184765,
+      "idSeance": 184950,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -6181,7 +6325,7 @@
       ],
       "idEvenement": 31364,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-06T18:00:00",
+      "dateHeure": "2025-01-03T19:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6258,57 +6402,6 @@
       "typeEvenement": 13,
       "dateHeure": "2025-01-10T20:45:00",
       "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 44907,
-          "titre": "Homme au bras d'or",
-          "art": "L'",
-          "titreVo": "Man with the Golden Arm",
-          "artVo": "The",
-          "realisateurs": "Otto Preminger",
-          "annee": 1955,
-          "duree": 119,
-          "generique": "Frank Sinatra, Kim Novak, Eleanor Parker, Arnold Stang",
-          "adaptation": "D'après le roman _The Man with the golden arm_ de Nelson Algren.",
-          "synopsis": "Après un séjour dans un centre de désintoxication, Frankie Machine revient dans son quartier et essaie de devenir batteur de jazz.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 6941,
-              "duree": 119,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 28474,
-              "duree": 119,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 29699
-        }
-      ]
-    },
-    {
-      "idSeance": 138507,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 416,
-          "idCategorie": 1847,
-          "titreCycle": "Otto Preminger",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31366,
-      "typeEvenement": 13,
-      "dateHeure": "2025-01-26T20:45:00",
-      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -6599,6 +6692,48 @@
       ]
     },
     {
+      "idSeance": 184948,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31372,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-03T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35819,
+          "titre": "Eventail de Lady Windermere",
+          "art": "L'",
+          "titreVo": "Fan",
+          "artVo": "The",
+          "realisateurs": "Otto Preminger",
+          "annee": 1948,
+          "duree": 79,
+          "generique": "Jeanne Crain, Madeleine Carroll, Richard Greene, George Sanders",
+          "adaptation": "D'après la pièce _Lady Windermere's Fan_ d'Oscar Wilde.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28467,
+              "duree": 79,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 5089
+        }
+      ]
+    },
+    {
       "idSeance": 138145,
       "idProg": 184,
       "idCycleCategories": [
@@ -6857,6 +6992,36 @@
       ]
     },
     {
+      "idSeance": 184952,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31376,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-13T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55106,
+          "titre": "Jungfrau auf dem Dach",
+          "art": "Die",
+          "realisateurs": "Otto Preminger",
+          "annee": 1953,
+          "generique": "Hardy Krüger, Johannes Heesters, Johanna Matz",
+          "adaptation": "D'après la pièce _The Moon is blue_ de F. Hugh Herbert.",
+          "status": 0,
+          "copies": []
+        }
+      ]
+    },
+    {
       "idSeance": 138316,
       "idProg": 184,
       "idCycleCategories": [
@@ -6955,7 +7120,7 @@
       ],
       "idEvenement": 31379,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-19T20:00:00",
+      "dateHeure": "2025-01-19T20:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -7180,7 +7345,7 @@
       ],
       "idEvenement": 31384,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-06T20:00:00",
+      "dateHeure": "2025-01-06T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7207,6 +7372,13 @@
               "stDemande": true
             },
             {
+              "idCopie": 28741,
+              "duree": 62,
+              "format": "16 mm",
+              "version": "VO",
+              "stDemande": true
+            },
+            {
               "idCopie": 28511,
               "duree": 62,
               "version": "VO"
@@ -7217,7 +7389,7 @@
       ]
     },
     {
-      "idSeance": 138331,
+      "idSeance": 184958,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -7273,12 +7445,18 @@
           "idCategorie": 1847,
           "titreCycle": "Otto Preminger",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 416,
+          "idCategorie": 3616,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31386,
-      "typeEvenement": 13,
-      "dateHeure": "2025-01-12T15:00:00",
+      "dateHeure": "2025-01-12T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -7322,6 +7500,13 @@
             }
           ],
           "idFilmBoxoffice": 6831
+        },
+        {
+          "ordre": 2,
+          "idConf": 31681,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Nicolas Pariser",
+          "duree": 60
         }
       ]
     },
@@ -7474,9 +7659,17 @@
           "status": 0,
           "copies": [
             {
+              "idCopie": 28750,
+              "duree": 136,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            },
+            {
               "idCopie": 28485,
               "duree": 136,
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 18730
@@ -8484,7 +8677,7 @@
       ]
     },
     {
-      "idSeance": 184777,
+      "idSeance": 184956,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -8498,7 +8691,6 @@
       "typeEvenement": 13,
       "dateHeure": "2025-01-15T20:00:00",
       "idSalle": "HL",
-      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -8519,8 +8711,7 @@
           ],
           "idFilmBoxoffice": 34266
         }
-      ],
-      "mention": "Ouverture de la rétrospective. Séance présentée par Eric Demarsan et Costa-Gavras"
+      ]
     },
     {
       "idSeance": 184841,
@@ -8572,7 +8763,7 @@
       ],
       "idEvenement": 31450,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-19T19:30:00",
+      "dateHeure": "2025-01-19T19:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -8611,7 +8802,7 @@
       ],
       "idEvenement": 31453,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-19T17:00:00",
+      "dateHeure": "2025-01-19T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -9329,7 +9520,7 @@
       ]
     },
     {
-      "idSeance": 137586,
+      "idSeance": 184943,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -9341,8 +9532,8 @@
       ],
       "idEvenement": 31475,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-23T18:30:00",
-      "idSalle": "GF",
+      "dateHeure": "2024-12-22T19:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -9477,7 +9668,7 @@
       ],
       "idEvenement": 31477,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-29T17:30:00",
+      "dateHeure": "2024-12-29T15:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -9554,7 +9745,7 @@
       ],
       "idEvenement": 31479,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-23T21:00:00",
+      "dateHeure": "2024-12-23T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -9581,7 +9772,7 @@
       ]
     },
     {
-      "idSeance": 144536,
+      "idSeance": 184944,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -9593,7 +9784,7 @@
       ],
       "idEvenement": 31480,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-19T20:30:00",
+      "dateHeure": "2024-12-22T14:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -10475,7 +10666,7 @@
       "idEvenement": 31530,
       "typeEvenement": 13,
       "libelleEvenement": "32E FESTIVAL GÉRARDMER",
-      "dateHeure": "2025-02-08T14:30:00",
+      "dateHeure": "2025-02-08T15:00:00",
       "idSalle": "GF",
       "theorique": true,
       "items": []
@@ -10562,13 +10753,17 @@
       "idCycleCategories": [
         {
           "idCycle": 472,
-          "idCategorie": 3421
+          "idCategorie": 3421,
+          "titreCycle": "Archi Vives",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31550,
       "typeEvenement": 13,
       "dateHeure": "2024-11-28T19:30:00",
       "idSalle": "JE",
+      "idSeanceAssoc": 184938,
+      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -10588,6 +10783,45 @@
               "version": "VO",
               "langCopie": "POL",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138778,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 472,
+          "idCategorie": 3421,
+          "titreCycle": "Archi Vives",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31551,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-06T19:30:00",
+      "idSalle": "JE",
+      "idSeanceAssoc": 184939,
+      "typeAssoc": 117,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154983,
+          "titre": "Temps détruit : lettres d'une guerre, 1939-1940",
+          "art": "Le",
+          "realisateurs": "Pierre Beuchot",
+          "annee": 1985,
+          "duree": 73,
+          "synopsis": "Ce documentaire relate le quotidien de Roger Beuchot (père du réalisateur du film), Maurice Jaubert (célèbre compositeur de musiques de films) et de l'écrivain Paul Nizan pendant les longs mois d'attente de la « drôle de guerre » à travers les lettres d'amour qu'ils envoient à leur femme, avant d'être tués au printemps 1940. Trois voix qui disent la douleur de la séparation, au fil des images-archives du temps passé et des lieux présents.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28678,
+              "duree": 73,
+              "format": "DCP",
+              "langCopie": "FRE"
             }
           ]
         }
@@ -10717,7 +10951,7 @@
       "idEvenement": 31555,
       "typeEvenement": 13,
       "dateHeure": "2024-12-22T15:00:00",
-      "idSalle": "GF",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -11439,7 +11673,7 @@
       ],
       "idEvenement": 31591,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-16T18:00:00",
+      "dateHeure": "2025-02-16T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -11984,7 +12218,7 @@
       ]
     },
     {
-      "idSeance": 139230,
+      "idSeance": 184957,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -12189,6 +12423,45 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 139437,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 953,
+          "idCategorie": 3621,
+          "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31627,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-02T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 113297,
+          "titre": "Melancholia",
+          "realisateurs": "Lars von Trier",
+          "annee": 2010,
+          "duree": 130,
+          "generique": "Kirsten Dunst, Charlotte Gainsbourg, Alexander Skarsgård",
+          "synopsis": "À l'occasion de leur mariage, Justine et Michael donnent une somptueuse réception dans la maison de la sœur de Justine. Pendant ce temps, la planète Melancholia se dirige vers la Terre.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 8134,
+              "duree": 130,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 173873
+        }
+      ]
     },
     {
       "idSeance": 184913,
@@ -12860,6 +13133,91 @@
           "idConf": 31670,
           "idTypeConf": 16,
           "titre": "Dialogue avec Frédéric Bonnaud",
+          "duree": 60
+        }
+      ]
+    },
+    {
+      "idSeance": 184938,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 472,
+          "idCategorie": 2757,
+          "titreCycle": "Archi Vives",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31667,
+      "typeEvenement": 14,
+      "dateHeure": "2024-11-28T17:30:00",
+      "typeConference": "Conférence",
+      "idSalle": "JE",
+      "duree": 90,
+      "idSeanceAssoc": 136918,
+      "typeAssoc": 117,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31667,
+          "idTypeConf": 55,
+          "titre": "Quand l’historienne fustige la cinéaste, et réciproquement",
+          "duree": 90
+        }
+      ]
+    },
+    {
+      "idSeance": 184939,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 472,
+          "idCategorie": 2757,
+          "titreCycle": "Archi Vives",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31671,
+      "typeEvenement": 14,
+      "dateHeure": "2025-02-06T17:30:00",
+      "typeConference": "Conférence",
+      "idSalle": "JE",
+      "duree": 90,
+      "idSeanceAssoc": 138778,
+      "typeAssoc": 117,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31671,
+          "idTypeConf": 55,
+          "titre": "Jean Zay, la détention comme expérience intérieure ",
+          "duree": 90
+        }
+      ]
+    },
+    {
+      "idSeance": 184966,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 953,
+          "idCategorie": 3628,
+          "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31683,
+      "typeEvenement": 14,
+      "dateHeure": "2025-02-22T16:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31683,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec François Angelier",
           "duree": 60
         }
       ]
