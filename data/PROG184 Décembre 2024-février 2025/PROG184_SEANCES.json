@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-09T15:51:20.263Z",
+  "updatedAt": "2024-09-10T10:11:21.080Z",
   "data": [
     {
       "idSeance": 137061,
@@ -1604,61 +1604,6 @@
         }
       ],
       "mention": "Avant-première"
-    },
-    {
-      "idSeance": 145324,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 11,
-          "idCategorie": 3477,
-          "titreCycle": "Séances spéciales",
-          "titreSousCycle": "Napoléon vu par Abel Gance"
-        }
-      ],
-      "idEvenement": 30935,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-22T14:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 154798,
-          "titre": "Napoléon vu par Abel Gance (partie 1)",
-          "realisateurs": "Abel Gance",
-          "annee": 1927,
-          "duree": 220,
-          "generique": "Albert Dieudonné, Maryse Damia, Wladimir Roudenko",
-          "miniTexte": "Objet de fascination depuis le triomphe de sa première projection en 1927, l'un des plus grands films de l'histoire du cinéma aura connu plusieurs variantes, entre autres disparition et résurrection, jusqu'à la « grande version » voulue par Gance. Reconstruite et restaurée par la Cinémathèque sous la direction de Georges Mourier, l'œuvre frappe, un siècle après son tournage, par ses audaces visuelles et ses prouesses techniques (triple écran). De l'enfance à Brienne à la Campagne d'Italie, en passant par la Révolution française, l'épopée napoléonienne dans toute sa splendeur et sa démesure retrouvées.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 27803,
-              "duree": 220,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 1000004404
-        },
-        {
-          "ordre": 2,
-          "idFilm": 154797,
-          "titre": "Napoléon vu par Abel Gance (partie 2)",
-          "realisateurs": "Abel Gance",
-          "annee": 1927,
-          "duree": 205,
-          "generique": "Wladimir Roudenko, Albert Dieudonné, Maryse Damia",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 27804,
-              "duree": 205,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 1000004406
-        }
-      ]
     },
     {
       "idSeance": 137205,
@@ -4562,7 +4507,7 @@
       "idEvenement": 31310,
       "typeEvenement": 13,
       "dateHeure": "2025-02-03T18:30:00",
-      "idSalle": "GF",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
@@ -4636,7 +4581,7 @@
       "idEvenement": 31312,
       "typeEvenement": 13,
       "dateHeure": "2025-02-03T20:30:00",
-      "idSalle": "GF",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
@@ -5822,12 +5767,24 @@
           "idCategorie": 1847,
           "titreCycle": "Otto Preminger",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3627,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3114,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31357,
-      "typeEvenement": 13,
       "dateHeure": "2025-01-08T18:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -5851,6 +5808,13 @@
             }
           ],
           "idFilmBoxoffice": 117
+        },
+        {
+          "ordre": 2,
+          "idConf": 31669,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Frédéric Bonnaud",
+          "duree": 60
         }
       ]
     },
@@ -5862,6 +5826,12 @@
           "idCycle": 416,
           "idCategorie": 1847,
           "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3627,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
           "titreSousCycle": "Les films"
         }
       ],
@@ -7187,6 +7157,10 @@
               "idCopie": 28624,
               "duree": 94,
               "version": "VF"
+            },
+            {
+              "idCopie": 28734,
+              "duree": 94
             }
           ],
           "idFilmBoxoffice": 109038
@@ -7556,16 +7530,28 @@
       "idProg": 184,
       "idCycleCategories": [
         {
+          "idCycle": 525,
+          "idCategorie": 3627,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
+        },
+        {
           "idCycle": 809,
           "idCategorie": 3459,
           "titreCycle": "Marlon Brando",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3114,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31399,
-      "typeEvenement": 13,
       "dateHeure": "2024-12-12T19:00:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -7589,6 +7575,13 @@
             }
           ],
           "idFilmBoxoffice": 1627
+        },
+        {
+          "ordre": 2,
+          "idConf": 31668,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Frédéric Bonnaud",
+          "duree": 60
         }
       ]
     },
@@ -10564,6 +10557,43 @@
       "items": []
     },
     {
+      "idSeance": 136918,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 472,
+          "idCategorie": 3421
+        }
+      ],
+      "idEvenement": 31550,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-28T19:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 137015,
+          "titre": "Nous filmons le peuple !",
+          "realisateurs": "Ania Szczepanska",
+          "annee": 2012,
+          "duree": 58,
+          "generique": "Marcel Lozinski, Ryszard Bugajski",
+          "synopsis": "À travers les extraits de films cultes, d'archives inédites et les rencontres avec les metteurs en scène de l'âge d'or du cinéma polonais (Wajda, Lozinski, Holland, Zanussi, Bugajski), Ania Szczepanska raconte comment ces cinéastes ont réussi à mener une critique ouverte du système communiste tout en produisant certains des grands films de l'histoire du cinéma.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28677,
+              "duree": 58,
+              "format": "Numérique",
+              "version": "VO",
+              "langCopie": "POL",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 137204,
       "idProg": 184,
       "idCycleCategories": [
@@ -11988,7 +12018,9 @@
             {
               "idCopie": 28722,
               "duree": 101,
-              "format": "35 mm"
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -12648,6 +12680,186 @@
           "idConf": 31656,
           "idTypeConf": 55,
           "titre": "Qui êtes-vous... John Frankenheimer ?",
+          "duree": 60
+        }
+      ]
+    },
+    {
+      "idSeance": 184924,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3626,
+          "titreCycle": "Parlons cinéma... avec François Angelier",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3111,
+          "titreCycle": "Parlons cinéma... avec François Angelier",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31658,
+      "dateHeure": "2025-02-06T19:00:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "ordre": 1
+        },
+        {
+          "ordre": 2,
+          "idConf": 31662,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec François Angelier",
+          "duree": 60
+        }
+      ]
+    },
+    {
+      "idSeance": 184926,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3626,
+          "titreCycle": "Parlons cinéma... avec François Angelier",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3111,
+          "titreCycle": "Parlons cinéma... avec François Angelier",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31659,
+      "dateHeure": "2025-02-13T19:00:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "ordre": 1
+        },
+        {
+          "ordre": 2,
+          "idConf": 31663,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec François Angelier",
+          "duree": 60
+        }
+      ]
+    },
+    {
+      "idSeance": 184928,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3626,
+          "titreCycle": "Parlons cinéma... avec François Angelier",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3111,
+          "titreCycle": "Parlons cinéma... avec François Angelier",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31660,
+      "dateHeure": "2025-02-20T19:00:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "ordre": 1
+        },
+        {
+          "ordre": 2,
+          "idConf": 31664,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec François Angelier",
+          "duree": 60
+        }
+      ]
+    },
+    {
+      "idSeance": 184930,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3626,
+          "titreCycle": "Parlons cinéma... avec François Angelier",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3111,
+          "titreCycle": "Parlons cinéma... avec François Angelier",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31661,
+      "dateHeure": "2025-02-28T19:00:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "ordre": 1
+        },
+        {
+          "ordre": 2,
+          "idConf": 31665,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec François Angelier",
+          "duree": 60
+        }
+      ]
+    },
+    {
+      "idSeance": 184932,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 525,
+          "idCategorie": 3627,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3114,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31666,
+      "dateHeure": "2025-02-14T19:00:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51129,
+          "titre": "Classe tous risques",
+          "realisateurs": "Claude Sautet",
+          "annee": 1959,
+          "generique": "Lino Ventura, Jean-Paul Belmondo, Sandra Milo, Marcel Dalio",
+          "adaptation": "D'après le roman _Classe tous risques_ de José Giovanni.",
+          "synopsis": "Gangster condamné à mort, Abel Davos s'est réfugié en Italie avec sa femme Thérèse et ses deux enfants. Après un dernier hold-up avec son ami Raymond, ils rentrent clandestinement en France. En débarquant sur une plage, ils sont surpris par deux douaniers. Abel réussit à s'enfuir aves ses deux fils, mais sa femme et Raymond sont tués.",
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 83984
+        },
+        {
+          "ordre": 2,
+          "idConf": 31670,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Frédéric Bonnaud",
           "duree": 60
         }
       ]
