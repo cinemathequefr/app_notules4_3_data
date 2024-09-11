@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-11T13:41:14.103Z",
+  "updatedAt": "2024-09-11T15:29:44.895Z",
   "data": [
     {
       "idSeance": 137061,
@@ -4907,9 +4907,23 @@
           "artVo": "The",
           "realisateurs": "John Frankenheimer",
           "annee": 1981,
+          "duree": 106,
           "miniTexte": "Dans un Japon pris entre traditions et modernité, un Américain arbitre la rivalité entre deux frères qui se disputent un katana sacré. Beaucoup d'action, des scènes spectaculaires, et le choc des cultures incarné par Scott Glenn et Toshirō Mifune. Avec Steven Seagal en coordinateur des combats d'arts martiaux.",
           "status": 1,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28747,
+              "duree": 106,
+              "format": "35 mm",
+              "version": "VF",
+              "langCopie": "ENG"
+            },
+            {
+              "idCopie": 28776,
+              "duree": 113,
+              "version": "VO"
+            }
+          ],
           "idFilmBoxoffice": 27
         }
       ]
@@ -5498,10 +5512,24 @@
           "titre": "Black Sunday",
           "realisateurs": "John Frankenheimer",
           "annee": 1976,
+          "duree": 143,
           "adaptation": "D'après le roman _Black Sunday_ de Thomas Harris.",
           "miniTexte": "D'après un roman d'espionnage lointainement inspiré de la prise d'otages des athlètes israéliens pendant les JO de Munich en 1972, un thriller prenant à la violence sèche, dans le plus pur style de Frankenheimer.",
           "status": 1,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28749,
+              "duree": 143,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28777,
+              "duree": 123
+            }
+          ],
           "idFilmBoxoffice": 21154
         }
       ]
@@ -13289,6 +13317,148 @@
       "theorique": true,
       "mention": "Avant-première. Séance présentée par Cécile Cadoux",
       "items": []
+    },
+    {
+      "idSeance": 137960,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3632,
+          "titreCycle": "Aujourd'hui le cinéma"
+        }
+      ],
+      "idEvenement": 31706,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-06T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154995,
+          "titre": "météos d'Antoine",
+          "art": "Les",
+          "realisateurs": "Jules Follet",
+          "annee": 2024,
+          "duree": 27,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28778,
+              "duree": 27,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance suivie d'une discussion avec Jules Follet"
+    },
+    {
+      "idSeance": 139076,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3635,
+          "titreCycle": "Aujourd'hui le cinéma"
+        }
+      ],
+      "idEvenement": 31707,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-17T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154994,
+          "titre": "Paysage après la bataille",
+          "realisateurs": "João Paulo Miranda Maria",
+          "annee": 2024,
+          "duree": 25,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28774,
+              "duree": 25,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance suivie d'une discussion avec João Paulo Miranda Maria"
+    },
+    {
+      "idSeance": 184993,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3634,
+          "titreCycle": "Aujourd'hui le cinéma"
+        }
+      ],
+      "idEvenement": 31708,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-03T19:30:00",
+      "idSalle": "GF",
+      "typeSeance": 43,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154996,
+          "titre": "September Says",
+          "realisateurs": "Ariane Labed",
+          "annee": 2024,
+          "duree": 98,
+          "generique": "Mia Tharia, Pascale Kann, Rakhee Thakrar",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28775,
+              "duree": 98,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Avant-première. Séance présentée par Ariane Labed"
+    },
+    {
+      "idSeance": 137216,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3633,
+          "titreCycle": "Aujourd'hui le cinéma"
+        }
+      ],
+      "idEvenement": 31710,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-09T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154916,
+          "titre": "Un jour j'aurai une île",
+          "realisateurs": "Vincent Weber",
+          "annee": 2024,
+          "duree": 45,
+          "generique": "Nouha A., Kamel Adel",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28374,
+              "duree": 45,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Vincent Weber"
     }
   ]
 }
