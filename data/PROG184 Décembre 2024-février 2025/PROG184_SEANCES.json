@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-10T15:52:05.239Z",
+  "updatedAt": "2024-09-11T10:34:21.831Z",
   "data": [
     {
       "idSeance": 137061,
@@ -998,7 +998,7 @@
       ],
       "idEvenement": 25736,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-31T18:30:00",
+      "dateHeure": "2025-01-31T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1046,7 +1046,7 @@
       ],
       "idEvenement": 25738,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-31T20:30:00",
+      "dateHeure": "2025-01-31T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1624,11 +1624,11 @@
       "duree": 60,
       "items": [
         {
+          "ordre": 1,
           "idConf": 30565,
-          "titre": "DIALOGUE AVEC JEAN-FRANÇOIS RAUGER",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 1
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Jean-François Rauger",
+          "duree": 60
         }
       ]
     },
@@ -4384,7 +4384,7 @@
       ]
     },
     {
-      "idSeance": 184903,
+      "idSeance": 184980,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -4464,7 +4464,7 @@
       ]
     },
     {
-      "idSeance": 138889,
+      "idSeance": 184978,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -4909,7 +4909,7 @@
       ]
     },
     {
-      "idSeance": 138631,
+      "idSeance": 184976,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -4921,7 +4921,7 @@
       ],
       "idEvenement": 31323,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-31T20:00:00",
+      "dateHeure": "2025-01-31T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4940,13 +4940,6 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 8989,
-              "duree": 106,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 8969,
               "duree": 106,
               "format": "DCP",
@@ -4959,7 +4952,7 @@
       ]
     },
     {
-      "idSeance": 139419,
+      "idSeance": 184983,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -4971,7 +4964,7 @@
       ],
       "idEvenement": 31323,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-01T19:30:00",
+      "dateHeure": "2025-03-01T17:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4989,13 +4982,6 @@
           "miniTexte": "BO angoissante de Jerry Goldsmith, générique kaléidoscopique imaginé par le génial Saul Bass : _L'Opération diabolique_ plonge dès son entame dans une atmosphère paranoïaque, un cauchemar éveillé. Un homme subit une opération de reconstruction faciale, mais derrière le coup de bistouri et la promesse d'une vie nouvelle se cache la misère d'une existence à laquelle on ne peut échapper. À mi-chemin entre fantastique et drame psychologique, avec un montage qui alterne séquences lentes ou nerveuses, Frankenheimer nous entraîne de duperies en manipulations infernales. Il nous parle de libre arbitre, de la seconde chance qui n'est qu'illusoire, se moque du mouvement hippie balbutiant en filmant une scène d'orgie dionysienne, et critique avec virulence le rêve américain. Une prise de conscience pessimiste et glaçante.",
           "status": 1,
           "copies": [
-            {
-              "idCopie": 8989,
-              "duree": 106,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
             {
               "idCopie": 8969,
               "duree": 106,
@@ -5091,7 +5077,7 @@
       ]
     },
     {
-      "idSeance": 138514,
+      "idSeance": 184973,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -5105,7 +5091,6 @@
       "typeEvenement": 13,
       "dateHeure": "2025-01-27T20:00:00",
       "idSalle": "HL",
-      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -5128,8 +5113,46 @@
           ],
           "idFilmBoxoffice": 41123
         }
+      ]
+    },
+    {
+      "idSeance": 184984,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
       ],
-      "mention": "Ouverture de la rétrospective"
+      "idEvenement": 31326,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-01T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32395,
+          "titre": "Parachutistes arrivent",
+          "art": "Les",
+          "titreVo": "Gypsy Moths",
+          "artVo": "The",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1968,
+          "duree": 106,
+          "adaptation": "D'après le roman _The Gypsy Moths_ de James Drought.",
+          "miniTexte": "« Quand sauter n'est pas qu'une manière de vivre, mais aussi une façon de mourir » : Frankenheimer met en scène un trio de fous-volants spécialisés dans les acrobaties aériennes et la chute libre, qui tournent à travers l'Amérique rurale. Filmées au plus près, en conditions réelles, les séquences aériennes s'enchaînent, impressionnantes. En contrechamp, le cinéaste raconte la liaison de deux aimants contraires – Burt Lancaster et Deborah Kerr, le couple sensuel de _Tant qu'il y aura des hommes_ réuni quinze ans après. Tandis qu'elle, torturée, cherche à s'échapper de sa vie conformiste, lui, détaché et cynique, flirte avec la mort. Sur fond de mélo, leur histoire effleure la question de la liberté et de la quête existentielle. Avec, aussi, un Gene Hackman grande gueule et sympathique.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28756,
+              "duree": 106
+            }
+          ],
+          "idFilmBoxoffice": 41123
+        }
+      ]
     },
     {
       "idSeance": 138879,
@@ -5288,7 +5311,7 @@
       ],
       "idEvenement": 31330,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-15T19:00:00",
+      "dateHeure": "2025-02-15T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -5307,7 +5330,7 @@
       ]
     },
     {
-      "idSeance": 138671,
+      "idSeance": 184977,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -5329,10 +5352,19 @@
           "art": "Le",
           "realisateurs": "John Frankenheimer",
           "annee": 1963,
+          "duree": 134,
           "adaptation": "D'après le roman _Le Front de l'art_ de Rose Valland.",
           "miniTexte": "Genre : film d'action ferroviaire. Contexte : août 1944. S'inspirant d'un fait réel, le sabotage d'un train transportant vers l'Allemagne des tableaux saisis dans les musées parisiens, Frankenheimer évoque le pillage des œuvres d'art par les Nazis avec un hommage à la Résistance française et à l'engagement des cheminots.",
           "status": 1,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28763,
+              "duree": 134,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 41169
         }
       ]
@@ -5367,7 +5399,7 @@
       ]
     },
     {
-      "idSeance": 184890,
+      "idSeance": 184979,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -5469,7 +5501,7 @@
       ]
     },
     {
-      "idSeance": 138630,
+      "idSeance": 184975,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -5506,7 +5538,7 @@
       ]
     },
     {
-      "idSeance": 139261,
+      "idSeance": 184982,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -5518,7 +5550,7 @@
       ],
       "idEvenement": 31336,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-24T20:00:00",
+      "dateHeure": "2025-02-24T20:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -5543,7 +5575,7 @@
       ]
     },
     {
-      "idSeance": 138590,
+      "idSeance": 184974,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -5578,7 +5610,8 @@
               "duree": 126,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 5170
@@ -5586,7 +5619,7 @@
       ]
     },
     {
-      "idSeance": 139260,
+      "idSeance": 184981,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -5598,7 +5631,7 @@
       ],
       "idEvenement": 31337,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-24T19:30:00",
+      "dateHeure": "2025-02-24T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -5621,7 +5654,8 @@
               "duree": 126,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 5170
@@ -9134,7 +9168,7 @@
         {
           "idCycle": 813,
           "idCategorie": 3470,
-          "titreCycle": "Griffith/Eisenstein, leçons de montage",
+          "titreCycle": "Griffith-Eisenstein, leçons de montage",
           "titreSousCycle": "Les films"
         }
       ],
@@ -9174,7 +9208,7 @@
         {
           "idCycle": 813,
           "idCategorie": 3470,
-          "titreCycle": "Griffith/Eisenstein, leçons de montage",
+          "titreCycle": "Griffith-Eisenstein, leçons de montage",
           "titreSousCycle": "Les films"
         }
       ],
@@ -9216,7 +9250,7 @@
         {
           "idCycle": 813,
           "idCategorie": 3470,
-          "titreCycle": "Griffith/Eisenstein, leçons de montage",
+          "titreCycle": "Griffith-Eisenstein, leçons de montage",
           "titreSousCycle": "Les films"
         }
       ],
@@ -9263,7 +9297,7 @@
         {
           "idCycle": 813,
           "idCategorie": 3470,
-          "titreCycle": "Griffith/Eisenstein, leçons de montage",
+          "titreCycle": "Griffith-Eisenstein, leçons de montage",
           "titreSousCycle": "Les films"
         }
       ],
@@ -9304,7 +9338,7 @@
         {
           "idCycle": 813,
           "idCategorie": 3470,
-          "titreCycle": "Griffith/Eisenstein, leçons de montage",
+          "titreCycle": "Griffith-Eisenstein, leçons de montage",
           "titreSousCycle": "Les films"
         }
       ],
@@ -10153,7 +10187,7 @@
         {
           "idCycle": 813,
           "idCategorie": 3470,
-          "titreCycle": "Griffith/Eisenstein, leçons de montage",
+          "titreCycle": "Griffith-Eisenstein, leçons de montage",
           "titreSousCycle": "Les films"
         }
       ],
@@ -10193,7 +10227,7 @@
         {
           "idCycle": 813,
           "idCategorie": 3470,
-          "titreCycle": "Griffith/Eisenstein, leçons de montage",
+          "titreCycle": "Griffith-Eisenstein, leçons de montage",
           "titreSousCycle": "Les films"
         }
       ],
@@ -10233,7 +10267,7 @@
         {
           "idCycle": 813,
           "idCategorie": 3470,
-          "titreCycle": "Griffith/Eisenstein, leçons de montage",
+          "titreCycle": "Griffith-Eisenstein, leçons de montage",
           "titreSousCycle": "Les films"
         }
       ],
@@ -12650,18 +12684,9 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 4162,
+              "idCopie": 28764,
               "duree": 95,
-              "format": "35 mm"
-            },
-            {
-              "idCopie": 4747,
-              "duree": 95,
-              "format": "Vidéo"
-            },
-            {
-              "idCopie": 4328,
-              "duree": 95
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 24882
@@ -12789,7 +12814,7 @@
         {
           "idCycle": 813,
           "idCategorie": 3623,
-          "titreCycle": "Griffith/Eisenstein, leçons de montage",
+          "titreCycle": "Griffith-Eisenstein, leçons de montage",
           "titreSousCycle": "Les films"
         }
       ],
@@ -13221,6 +13246,27 @@
           "duree": 60
         }
       ]
+    },
+    {
+      "idSeance": 137030,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3630,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Festival Entrevues Belfort 2024"
+        }
+      ],
+      "idEvenement": 31686,
+      "typeEvenement": 13,
+      "libelleEvenement": "FESTIVAL ENTREVUES DE BELFORT",
+      "dateHeure": "2024-12-02T19:00:00",
+      "idSalle": "JE",
+      "typeSeance": 43,
+      "theorique": true,
+      "mention": "Avant-première. Séance présentée par Cécile Cadoux",
+      "items": []
     }
   ]
 }
