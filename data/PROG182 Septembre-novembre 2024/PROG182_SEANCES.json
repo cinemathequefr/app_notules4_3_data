@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-11T10:35:13.996Z",
+  "updatedAt": "2024-09-11T15:57:29.582Z",
   "data": [
     {
       "idSeance": 132987,
@@ -658,11 +658,11 @@
           "idFilmBoxoffice": 1070
         },
         {
+          "ordre": 2,
           "idConf": 31103,
-          "titre": "DIALOGUE AVEC FRÉDÉRIC BONNAUD",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Frédéric Bonnaud",
+          "duree": 60
         }
       ]
     },
@@ -6693,11 +6693,11 @@
           "idFilmBoxoffice": 337
         },
         {
+          "ordre": 2,
           "idConf": 31102,
-          "titre": "DIALOGUE AVEC FREDERIC BONNAUD",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Frederic Bonnaud",
+          "duree": 60
         }
       ]
     },
@@ -12008,11 +12008,12 @@
       "duree": 90,
       "items": [
         {
+          "ordre": 1,
           "idConf": 31048,
-          "titre": "« LA MAGIE DU TECHNICOLOR CHEZ MICHAEL POWELL, EMERIC PRESSBURGER ET JACK CARDIFF »",
-          "typeConference": "Dialogue",
-          "duree": 90,
-          "ordre": 1
+          "idTypeConf": 16,
+          "titre": "La magie du Technicolor chez Michael Powell, Emeric Pressburger et Jack Cardiff",
+          "texte": "Au lendemain de la Seconde Guerre mondiale, les Anglais Michael Powell et Emeric Pressburger décident de filmer en Technicolor avec l'aide d'un directeur de la photographie génial, Jack Cardiff, auteur d'un film promotionnel tourné avec ce procédé fabuleux, _This is Colour_. Suivent des films d'une beauté éblouissante, inégalable : _Une question de vie ou de mort_ (1946), _Le Narcisse noir_ (1947), _Les Chaussons rouges_ (1948). Comment fonctionne la technique Technicolor ? Quelle est l'esthétique du Technicolor ? Comme travaillaient ensemble Powell, Pressburger et Cardiff ? Difficile de trouver meilleur connaisseur de l'industrie cinématographique américaine que Robert Hoffman. Issu de l'American Film Institute, il a travaillé six ans en tant que responsable de la communication à Digital Domain (accompagnant notamment les films _True Lies_ et _Titanic_ de James Cameron et _Apollo 13_ de Ron Howard) ; il a exercé ses talents chez Warner Bros., Paramount, 20th Century Fox. Pendant dix-huit ans, Robert Hoffman a été vice-président du marketing et des relations publiques chez Technicolor. Il vient de publier un ouvrage splendide et fondamental sur la question : _Alchemy in Technicolor_. Au cours de cette rencontre, des extraits de films seront projetés, et Robert Hoffman présentera une caméra Technicolor conservée dans les collections de la Cinémathèque française.",
+          "duree": 90
         }
       ]
     },
@@ -12259,11 +12260,11 @@
       "duree": 90,
       "items": [
         {
+          "ordre": 1,
           "idConf": 31068,
-          "titre": "« TECHNIQUE ET ART DE JAMES CAMERON »PAR PHILIPPE LORANCHET",
-          "typeConference": "Conférence",
-          "duree": 90,
-          "ordre": 1
+          "idTypeConf": 55,
+          "titre": "La technique de James Cameron",
+          "duree": 90
         }
       ]
     },
@@ -12596,11 +12597,11 @@
           ]
         },
         {
+          "ordre": 2,
           "idConf": 31089,
-          "titre": "DIALOGUE AVEC NINE ANTICO",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Nine Antico",
+          "duree": 60
         }
       ]
     },
@@ -12651,11 +12652,11 @@
           "idFilmBoxoffice": 608
         },
         {
+          "ordre": 2,
           "idConf": 31090,
-          "titre": "DIALOGUE AVEC NINE ANTICO",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Nine Antico",
+          "duree": 60
         }
       ]
     },
@@ -12726,11 +12727,11 @@
           "idFilmBoxoffice": 194822
         },
         {
+          "ordre": 3,
           "idConf": 31088,
-          "titre": "DIALOGUE AVEC NINE ANTICO",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 3
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Nine Antico",
+          "duree": 60
         }
       ]
     },
@@ -13277,11 +13278,11 @@
           "idFilmBoxoffice": 1101
         },
         {
+          "ordre": 2,
           "idConf": 31101,
-          "titre": "DIALOGUE AVEC FRÉDÉRIC BONNAUD",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Frédéric Bonnaud",
+          "duree": 60
         }
       ]
     },
@@ -13304,11 +13305,11 @@
       "duree": 90,
       "items": [
         {
+          "ordre": 1,
           "idConf": 31104,
-          "titre": "« RENCONTRE AVEC LE PHOTOGRAPHE STEPHEN BERKMAN »",
-          "typeConference": "Dialogue",
-          "duree": 90,
-          "ordre": 1
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Stephen Berkman",
+          "duree": 90
         }
       ]
     },
@@ -16051,11 +16052,11 @@
       "typeAssoc": 117,
       "items": [
         {
+          "ordre": 1,
           "idConf": 31190,
-          "titre": "CINÉMA IMAGINAIRE",
-          "typeConference": "Conférence",
-          "duree": 90,
-          "ordre": 1
+          "idTypeConf": 55,
+          "titre": "Cinéma imaginaire",
+          "duree": 90
         }
       ]
     },
