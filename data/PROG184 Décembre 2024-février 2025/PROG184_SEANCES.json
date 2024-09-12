@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-12T09:00:07.192Z",
+  "updatedAt": "2024-09-12T09:32:32.182Z",
   "data": [
     {
       "idSeance": 137061,
@@ -2561,7 +2561,7 @@
       ]
     },
     {
-      "idSeance": 184869,
+      "idSeance": 185006,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -2573,8 +2573,8 @@
       ],
       "idEvenement": 31255,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-09T20:15:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-01-03T20:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -2680,7 +2680,7 @@
       ]
     },
     {
-      "idSeance": 137884,
+      "idSeance": 185007,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -2692,9 +2692,8 @@
       ],
       "idEvenement": 31257,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-03T20:00:00",
-      "idSalle": "HL",
-      "typeSeance": 44,
+      "dateHeure": "2025-01-09T20:15:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -2719,8 +2718,7 @@
           ],
           "idFilmBoxoffice": 198047
         }
-      ],
-      "mention": "Ouverture de la rétrospective"
+      ]
     },
     {
       "idSeance": 138136,
@@ -4420,9 +4418,10 @@
           "realisateurs": "John Frankenheimer",
           "annee": 1970,
           "duree": 109,
+          "generique": "Omar Sharif, Leigh Taylor-Young, Jack Palance",
           "adaptation": "D'après le roman _Les Cavaliers_ de Joseph Kessel.",
           "miniTexte": "Dans les paysages arides de l'Afghanistan, Omar Sharif pratique le bozcachi, sport national équestre d'une beauté intense. Amputé après une blessure, le cavalier cherche à se reconstruire, mû par la fierté et l'opposition au père. La découverte d'une culture fascinante et de ses traditions ancestrales, d'après le roman de Joseph Kessel.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28754,
@@ -4458,9 +4457,10 @@
           "realisateurs": "John Frankenheimer",
           "annee": 1962,
           "duree": 111,
+          "generique": "Eva Marie Saint, Warren Beatty, Karl Malden",
           "adaptation": "D'après le roman _All Fall Down_ de James Leo Herlihy.",
           "miniTexte": "Karl Malden en père désœuvré, Angela Lansbury en mère puritaine et dépassée, Warren Beatty en séducteur pervers et agressif, adulé par son frère cadet qui se bat pour le sortir de prison. À travers les relations d'une famille bancale, Frankenheimer brosse le portrait féroce d'une certaine Amérique des années 60 et de sa jeunesse désaxée.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28790,
@@ -4504,8 +4504,9 @@
           "realisateurs": "John Frankenheimer",
           "annee": 1988,
           "duree": 102,
+          "generique": "Don Johnson, Penelope Ann Miller, William Forsythe",
           "miniTexte": "Starisé par le petit écran et _Miami Vice_, Don Johnson incarne un flic divorcé, désabusé, dépressif et alcoolo, revigoré par la traque d'un assassin suprémaciste. Frankenheimer déploie son sens du cadre et du rythme dans un néo noir divertissant, aux scènes d'action habilement ficelées.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28745,
@@ -4988,8 +4989,9 @@
           "realisateurs": "John Frankenheimer",
           "annee": 1981,
           "duree": 106,
+          "generique": "Scott Glenn, Toshirō Mifune, Donna Kei Benz",
           "miniTexte": "Dans un Japon pris entre traditions et modernité, un Américain arbitre la rivalité entre deux frères qui se disputent un katana sacré. Beaucoup d'action, des scènes spectaculaires, et le choc des cultures incarné par Scott Glenn et Toshirō Mifune. Avec Steven Seagal en coordinateur des combats d'arts martiaux.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28747,
@@ -5600,9 +5602,10 @@
           "realisateurs": "John Frankenheimer",
           "annee": 1976,
           "duree": 143,
+          "generique": "Robert Shaw, Bruce Dern, Marthe Keller",
           "adaptation": "D'après le roman _Black Sunday_ de Thomas Harris.",
           "miniTexte": "D'après un roman d'espionnage lointainement inspiré de la prise d'otages des athlètes israéliens pendant les JO de Munich en 1972, un thriller prenant à la violence sèche, dans le plus pur style de Frankenheimer.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28749,
@@ -5663,6 +5666,11 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG"
+            },
+            {
+              "idCopie": 28801,
+              "duree": 120,
+              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 4424
@@ -5710,6 +5718,11 @@
               "duree": 120,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG"
+            },
+            {
+              "idCopie": 28801,
+              "duree": 120,
               "langCopie": "ENG"
             }
           ],
@@ -12468,54 +12481,6 @@
       ]
     },
     {
-      "idSeance": 184994,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 14,
-          "idCategorie": 3384,
-          "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
-        },
-        {
-          "idCycle": 953,
-          "idCategorie": 3621,
-          "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31613,
-      "typeEvenement": 13,
-      "dateHeure": "2025-02-27T21:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 55960,
-          "titre": "Dernier survivant",
-          "art": "Le",
-          "titreVo": "Quiet Earth",
-          "artVo": "The",
-          "realisateurs": "Geoff Murphy",
-          "annee": 1985,
-          "duree": 90,
-          "generique": "Bruno Lawrence, Alison Routledge",
-          "synopsis": "Un scientifique constate un matin que toute vie semble avoir disparu sur Terre à la suite d'une expérience sur laquelle il travaillait.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 2332,
-              "duree": 90,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 184957,
       "idProg": 184,
       "idCycleCategories": [
@@ -12551,6 +12516,42 @@
               "idCopie": 28722,
               "duree": 101,
               "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185008,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 953,
+          "idCategorie": 3621,
+          "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31616,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-27T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 29267,
+          "titre": "Deep Impact",
+          "realisateurs": "Mimi Leder",
+          "annee": 1997,
+          "duree": 121,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28705,
+              "duree": 121,
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -13782,9 +13783,9 @@
       "idCycleCategories": [
         {
           "idCycle": 140,
-          "idCategorie": 3638,
+          "idCategorie": 3641,
           "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "Soirée Fondation Gan pour le cinéma : Romain de Saint-Blanquat"
+          "titreSousCycle": "Flávia Neves"
         }
       ],
       "idEvenement": 31714,
@@ -13810,9 +13811,9 @@
       "idCycleCategories": [
         {
           "idCycle": 140,
-          "idCategorie": 3638,
+          "idCategorie": 3640,
           "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "Soirée Fondation Gan pour le cinéma : Romain de Saint-Blanquat"
+          "titreSousCycle": "Marin Gérard"
         }
       ],
       "idEvenement": 31715,
@@ -13910,9 +13911,9 @@
       "idCycleCategories": [
         {
           "idCycle": 14,
-          "idCategorie": 3384,
+          "idCategorie": 3639,
           "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Jess Franco"
         }
       ],
       "idEvenement": 31719,
@@ -13986,46 +13987,6 @@
       ]
     },
     {
-      "idSeance": 138261,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 14,
-          "idCategorie": 3384,
-          "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31721,
-      "typeEvenement": 13,
-      "dateHeure": "2025-01-17T19:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 129899,
-          "titre": "Fantôme, ma femme et moi = La lycéenne épouse un dingue",
-          "art": "Le",
-          "titreVo": "Casa stregata",
-          "artVo": "La",
-          "realisateurs": "Bruno Corbucci",
-          "annee": 1981,
-          "duree": 90,
-          "generique": "Gloria Guida",
-          "synopsis": "Une jeune lycéenne, Loredana, passe son temps à aguicher les hommes de son lycée.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 8793,
-              "duree": 90,
-              "format": "35 mm",
-              "version": "VF"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 185000,
       "idProg": 184,
       "idCycleCategories": [
@@ -14065,7 +14026,7 @@
       ]
     },
     {
-      "idSeance": 184821,
+      "idSeance": 185004,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -14075,31 +14036,94 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31722,
+      "idEvenement": 31723,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-17T21:30:00",
+      "dateHeure": "2025-01-17T19:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 70069,
-          "titre": "Pétomane",
-          "art": "Le",
-          "titreVo": "Petomane",
-          "artVo": "Il",
-          "realisateurs": "Pasquale Festa Campanile",
-          "annee": 1983,
-          "duree": 103,
-          "generique": "Ugo Tognazzi, Mariangela Melato, Vittorio Caprioli",
+          "idFilm": 33015,
+          "titre": "Passagers de l'angoisse",
+          "art": "Les",
+          "titreVo": "Stranded",
+          "realisateurs": "Tex Fuller",
+          "annee": 1987,
+          "duree": 80,
+          "generique": "Ione Skye, Maureen O'Sullivan, Joe Morton",
           "status": 0,
           "copies": [
             {
-              "idCopie": 28791,
-              "duree": 103,
+              "idCopie": 28792,
+              "duree": 80,
               "format": "35 mm",
               "version": "VF"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185005,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31726,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-17T21:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 38056,
+          "titre": "INVASION U.S.A.",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 28795,
+              "duree": 107,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ],
+          "duree": 107
+        }
+      ]
+    },
+    {
+      "idSeance": 138074,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3639,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Jess Franco"
+        }
+      ],
+      "idEvenement": 31729,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-10T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "idFilm": 87097,
+          "titre": "INASSOUVIES",
+          "ordre": 1,
+          "copies": [
+            {
+              "idCopie": 920,
+              "duree": 81,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ],
+          "duree": 81
         }
       ]
     }
