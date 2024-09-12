@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-12T08:36:57.641Z",
+  "updatedAt": "2024-09-12T09:00:07.192Z",
   "data": [
     {
       "idSeance": 137061,
@@ -4471,7 +4471,7 @@
             },
             {
               "idCopie": 28576,
-              "duree": 107,
+              "duree": 109,
               "format": "16 mm",
               "version": "VO",
               "langCopie": "ENG"
@@ -4785,10 +4785,23 @@
           "artVo": "The",
           "realisateurs": "John Frankenheimer",
           "annee": 1967,
+          "duree": 132,
           "adaptation": "D'après le roman _The Fixer_ de Bernard Malamud.",
           "miniTexte": "Kiev, 1911. Un Juif, injustement condamné pour viol, ne cesse de clamer son innocence. En portant à l'écran le prix Pulitzer 67, lui-même inspiré de la véritable affaire Beiliss, Frankenheimer fustige l'antisémitisme qui gangrénait la Russie tsariste, où pogroms et persécutions étaient monnaie courante. Un film intimiste, dur, à la résonance glaçante.",
           "status": 1,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28794,
+              "duree": 132,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            },
+            {
+              "idCopie": 28796,
+              "duree": 132
+            }
+          ],
           "idFilmBoxoffice": 22123
         }
       ]
@@ -10935,6 +10948,83 @@
       "items": []
     },
     {
+      "idSeance": 145267,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 816,
+          "idCategorie": 3474,
+          "titreCycle": "Classiques et raretés",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31538,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-29T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31600,
+          "titre": "Body Double",
+          "realisateurs": "Brian De Palma",
+          "annee": 1984,
+          "duree": 114,
+          "generique": "Craig Wasson, Melanie Griffith, Gregg Henry",
+          "synopsis": "Jack, jeune comédien au chômage souffrant de claustrophobie, occupe provisoirement l'appartement d'un ami. Profitant de la vue panoramique, il observe sa voisine, Gloria, dont il ne tarde pas à tomber amoureux. Un soir, il assiste impuissant à l'agression de la jeune femme.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 14617,
+              "duree": 114,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 974
+        }
+      ]
+    },
+    {
+      "idSeance": 184999,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 816,
+          "idCategorie": 3474,
+          "titreCycle": "Classiques et raretés",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31539,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-30T22:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154976,
+          "titre": "Devil in Miss Jones",
+          "art": "The",
+          "realisateurs": "Gerard Damiano",
+          "annee": 1974,
+          "duree": 67,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28651,
+              "duree": 67,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 18508
+        }
+      ]
+    },
+    {
       "idSeance": 136918,
       "idProg": 184,
       "idCycleCategories": [
@@ -13739,7 +13829,9 @@
       "idCycleCategories": [
         {
           "idCycle": 18,
-          "idCategorie": 1856
+          "idCategorie": 1856,
+          "titreCycle": "Conservatoire des techniques cinématographiques",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31716,
@@ -13750,11 +13842,11 @@
       "duree": 0,
       "items": [
         {
+          "ordre": 1,
           "idConf": 31716,
-          "titre": "FILM + DIALOGUE DIRECTEUR PHOTO (FCFA)",
-          "typeConference": "Dialogue",
-          "duree": 0,
-          "ordre": 1
+          "idTypeConf": 16,
+          "titre": "Film + Dialogue directeur Photo (FCFA)",
+          "duree": 0
         }
       ]
     },
@@ -13764,7 +13856,9 @@
       "idCycleCategories": [
         {
           "idCycle": 18,
-          "idCategorie": 1856
+          "idCategorie": 1856,
+          "titreCycle": "Conservatoire des techniques cinématographiques",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31717,
@@ -13775,11 +13869,11 @@
       "duree": 90,
       "items": [
         {
+          "ordre": 1,
           "idConf": 31717,
-          "titre": "CONFÉRENCE SUR LES LANTERNES MAGIQUES PAR PATRICE GUÉRIN",
-          "typeConference": "Conférence",
-          "duree": 90,
-          "ordre": 1
+          "idTypeConf": 55,
+          "titre": "Conférence sur les lanternes magiques par Patrice Guérin",
+          "duree": 90
         }
       ]
     },
@@ -13789,7 +13883,9 @@
       "idCycleCategories": [
         {
           "idCycle": 18,
-          "idCategorie": 1856
+          "idCategorie": 1856,
+          "titreCycle": "Conservatoire des techniques cinématographiques",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31718,
@@ -13800,11 +13896,210 @@
       "duree": 0,
       "items": [
         {
+          "ordre": 1,
           "idConf": 31718,
-          "titre": "APRÈS-MIDI D'ÉTUDES SUR LES SALLES DE CINÉMA ARGENTIQUES",
-          "typeConference": "Conférence",
-          "duree": 0,
-          "ordre": 1
+          "idTypeConf": 55,
+          "titre": "Après-midi d'études sur les salles de cinéma argentiques",
+          "duree": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 138075,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31719,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-10T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 102816,
+          "titre": "Cauchemars naissent la nuit",
+          "art": "Les",
+          "titreVo": "Ojos de la noche",
+          "artVo": "Los",
+          "realisateurs": "Jess Franco",
+          "annee": 1970,
+          "dureeStd": 85,
+          "duree": 80,
+          "generique": "Diana Lorys, Paul Muller, Jack Taylor, Soledad Miranda",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28789,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ],
+          "idFilmBoxoffice": 48699
+        }
+      ]
+    },
+    {
+      "idSeance": 185001,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31721,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-27T21:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 129899,
+          "titre": "Fantôme, ma femme et moi = La lycéenne épouse un dingue",
+          "art": "Le",
+          "titreVo": "Casa stregata",
+          "artVo": "La",
+          "realisateurs": "Bruno Corbucci",
+          "annee": 1981,
+          "duree": 90,
+          "generique": "Gloria Guida",
+          "synopsis": "Une jeune lycéenne, Loredana, passe son temps à aguicher les hommes de son lycée.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 8793,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 138261,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31721,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-17T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 129899,
+          "titre": "Fantôme, ma femme et moi = La lycéenne épouse un dingue",
+          "art": "Le",
+          "titreVo": "Casa stregata",
+          "artVo": "La",
+          "realisateurs": "Bruno Corbucci",
+          "annee": 1981,
+          "duree": 90,
+          "generique": "Gloria Guida",
+          "synopsis": "Une jeune lycéenne, Loredana, passe son temps à aguicher les hommes de son lycée.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 8793,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185000,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31722,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-27T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 70069,
+          "titre": "Pétomane",
+          "art": "Le",
+          "titreVo": "Petomane",
+          "artVo": "Il",
+          "realisateurs": "Pasquale Festa Campanile",
+          "annee": 1983,
+          "duree": 103,
+          "generique": "Ugo Tognazzi, Mariangela Melato, Vittorio Caprioli",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28791,
+              "duree": 103,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 184821,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31722,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-17T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 70069,
+          "titre": "Pétomane",
+          "art": "Le",
+          "titreVo": "Petomane",
+          "artVo": "Il",
+          "realisateurs": "Pasquale Festa Campanile",
+          "annee": 1983,
+          "duree": 103,
+          "generique": "Ugo Tognazzi, Mariangela Melato, Vittorio Caprioli",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28791,
+              "duree": 103,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
         }
       ]
     }
