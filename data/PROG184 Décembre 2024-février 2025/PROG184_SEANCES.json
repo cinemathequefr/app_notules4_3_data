@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-13T08:32:16.325Z",
+  "updatedAt": "2024-09-13T09:10:16.431Z",
   "data": [
     {
       "idSeance": 137061,
@@ -7251,10 +7251,6 @@
               "format": "35 mm",
               "version": "VO",
               "stDemande": true
-            },
-            {
-              "idCopie": 28480,
-              "duree": 74
             }
           ],
           "idFilmBoxoffice": 109455
@@ -7540,12 +7536,15 @@
               "duree": 165,
               "format": "35 mm",
               "version": "VO",
-              "sousTitres": "Autres"
+              "sousTitres": "Autres",
+              "stDemande": true
             },
             {
               "idCopie": 28498,
               "duree": 165,
-              "version": "VO"
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 36152
@@ -7665,11 +7664,6 @@
               "idCopie": 28502,
               "duree": 98,
               "format": "16 mm",
-              "version": "VO"
-            },
-            {
-              "idCopie": 28503,
-              "duree": 98,
               "version": "VO"
             },
             {
@@ -7805,15 +7799,17 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28821,
+              "idCopie": 28734,
               "duree": 94,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "stDemande": true
             },
             {
-              "idCopie": 28734,
+              "idCopie": 28821,
               "duree": 94,
+              "format": "35 mm",
+              "version": "VO",
               "stDemande": true
             }
           ],
@@ -8135,15 +8131,15 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28485,
+              "idCopie": 28750,
               "duree": 136,
+              "format": "35 mm",
               "version": "VO",
               "stDemande": true
             },
             {
-              "idCopie": 28750,
+              "idCopie": 28485,
               "duree": 136,
-              "format": "35 mm",
               "version": "VO",
               "stDemande": true
             }
