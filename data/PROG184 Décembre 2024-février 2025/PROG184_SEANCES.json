@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-13T09:11:37.594Z",
+  "updatedAt": "2024-09-13T09:26:04.501Z",
   "data": [
     {
       "idSeance": 137061,
@@ -1000,7 +1000,7 @@
           "idConf": 30565,
           "idTypeConf": 16,
           "titre": "Dialogue avec Jean-François Rauger",
-          "duree": 60
+          "duree": 90
         }
       ]
     },
@@ -2213,7 +2213,7 @@
           "idConf": 31585,
           "idTypeConf": 16,
           "titre": "Dialogue avec Érik Bullot",
-          "duree": 60
+          "duree": 75
         }
       ]
     },
@@ -2575,7 +2575,7 @@
           "idConf": 31586,
           "idTypeConf": 16,
           "titre": "Dialogue avec Jean-François Rauger",
-          "duree": 60
+          "duree": 75
         }
       ]
     },
@@ -4818,7 +4818,7 @@
           "idConf": 31657,
           "idTypeConf": 16,
           "titre": "Dialogue avec Olivier Père",
-          "duree": 60
+          "duree": 90
         }
       ]
     },
@@ -6443,7 +6443,7 @@
           "idConf": 31669,
           "idTypeConf": 16,
           "titre": "Dialogue avec Frédéric Bonnaud",
-          "duree": 60
+          "duree": 90
         }
       ]
     },
@@ -7972,7 +7972,7 @@
           "idConf": 31681,
           "idTypeConf": 16,
           "titre": "Dialogue avec Nicolas Pariser",
-          "duree": 60
+          "duree": 90
         }
       ]
     },
@@ -8004,11 +8004,14 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28508,
-              "duree": 90
+              "idCopie": 28509,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
             },
             {
-              "idCopie": 28509,
+              "idCopie": 28508,
               "duree": 90
             }
           ],
@@ -8044,11 +8047,14 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28508,
-              "duree": 90
+              "idCopie": 28509,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
             },
             {
-              "idCopie": 28509,
+              "idCopie": 28508,
               "duree": 90
             }
           ],
@@ -8240,7 +8246,7 @@
           "idConf": 31668,
           "idTypeConf": 16,
           "titre": "Dialogue avec Frédéric Bonnaud",
-          "duree": 60
+          "duree": 90
         }
       ]
     },
@@ -9178,7 +9184,7 @@
           "idConf": 31648,
           "idTypeConf": 16,
           "titre": "Dialogue avec Éric Demarsan",
-          "duree": 60
+          "duree": 90
         }
       ]
     },
@@ -13066,7 +13072,7 @@
           "idConf": 31683,
           "idTypeConf": 16,
           "titre": "Dialogue avec François Angelier",
-          "duree": 60
+          "duree": 90
         }
       ]
     },
@@ -14154,14 +14160,14 @@
       "dateHeure": "2025-01-30T19:00:00",
       "typeConference": "Conférence",
       "idSalle": "HL",
-      "duree": 60,
+      "duree": 105,
       "items": [
         {
           "ordre": 1,
           "idConf": 31656,
           "idTypeConf": 55,
           "titre": "Qui êtes-vous... John Frankenheimer ?",
-          "duree": 60
+          "duree": 105
         }
       ]
     },
@@ -14195,7 +14201,7 @@
           "idConf": 31662,
           "idTypeConf": 16,
           "titre": "Dialogue avec François Angelier",
-          "duree": 60
+          "duree": 90
         }
       ]
     },
@@ -14229,7 +14235,7 @@
           "idConf": 31663,
           "idTypeConf": 16,
           "titre": "Dialogue avec François Angelier",
-          "duree": 60
+          "duree": 90
         }
       ]
     },
@@ -14263,7 +14269,7 @@
           "idConf": 31664,
           "idTypeConf": 16,
           "titre": "Dialogue avec François Angelier",
-          "duree": 60
+          "duree": 90
         }
       ]
     },
@@ -14297,7 +14303,7 @@
           "idConf": 31665,
           "idTypeConf": 16,
           "titre": "Dialogue avec François Angelier",
-          "duree": 60
+          "duree": 90
         }
       ]
     },
@@ -14341,7 +14347,7 @@
           "idConf": 31670,
           "idTypeConf": 16,
           "titre": "Dialogue avec Frédéric Bonnaud",
-          "duree": 60
+          "duree": 90
         }
       ]
     },
@@ -14361,7 +14367,7 @@
       "dateHeure": "2024-11-28T17:30:00",
       "typeConference": "Conférence",
       "idSalle": "JE",
-      "duree": 90,
+      "duree": 120,
       "idSeanceAssoc": 136918,
       "typeAssoc": 117,
       "items": [
@@ -14370,7 +14376,7 @@
           "idConf": 31667,
           "idTypeConf": 55,
           "titre": "Quand l'historienne fustige la cinéaste, et réciproquement",
-          "duree": 90
+          "duree": 120
         }
       ]
     },
@@ -14390,7 +14396,7 @@
       "dateHeure": "2025-02-06T17:30:00",
       "typeConference": "Conférence",
       "idSalle": "JE",
-      "duree": 90,
+      "duree": 120,
       "idSeanceAssoc": 138778,
       "typeAssoc": 117,
       "items": [
@@ -14399,7 +14405,7 @@
           "idConf": 31671,
           "idTypeConf": 55,
           "titre": "Jean Zay, la détention comme expérience intérieure ",
-          "duree": 90
+          "duree": 120
         }
       ]
     },
@@ -15286,14 +15292,14 @@
       "dateHeure": "2024-12-13T18:30:00",
       "typeConference": "Dialogue",
       "idSalle": "HL",
-      "duree": 220,
+      "duree": 240,
       "items": [
         {
           "ordre": 1,
           "idConf": 31716,
           "idTypeConf": 16,
           "titre": "Film + Dialogue directeur Photo (FCFA)",
-          "duree": 220
+          "duree": 240
         }
       ]
     },
@@ -15313,14 +15319,14 @@
       "dateHeure": "2025-01-17T17:00:00",
       "typeConference": "Conférence",
       "idSalle": "GF",
-      "duree": 90,
+      "duree": 120,
       "items": [
         {
           "ordre": 1,
           "idConf": 31717,
           "idTypeConf": 55,
           "titre": "Conférence sur les lanternes magiques par Patrice Guérin",
-          "duree": 90
+          "duree": 120
         }
       ]
     },
@@ -15340,14 +15346,14 @@
       "dateHeure": "2025-02-07T14:30:00",
       "typeConference": "Conférence",
       "idSalle": "GF",
-      "duree": 0,
+      "duree": 240,
       "items": [
         {
           "ordre": 1,
           "idConf": 31718,
           "idTypeConf": 55,
           "titre": "Après-midi d'études sur les salles de cinéma argentiques",
-          "duree": 0
+          "duree": 240
         }
       ]
     },
