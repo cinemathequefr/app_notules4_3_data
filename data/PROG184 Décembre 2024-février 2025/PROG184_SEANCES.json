@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-13T16:04:47.052Z",
+  "updatedAt": "2024-09-16T08:10:40.749Z",
   "data": [
     {
       "idSeance": 137061,
@@ -14754,7 +14754,7 @@
       ],
       "idEvenement": 31696,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-29T15:30:00",
+      "dateHeure": "2024-11-29T15:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -15483,7 +15483,7 @@
       ],
       "idEvenement": 31732,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-29T15:00:00",
+      "dateHeure": "2024-11-29T14:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -15551,7 +15551,7 @@
       ]
     },
     {
-      "idSeance": 185030,
+      "idSeance": 136960,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -15563,8 +15563,8 @@
       ],
       "idEvenement": 31738,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-28T15:30:00",
-      "idSalle": "GF",
+      "dateHeure": "2024-11-29T18:30:00",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
@@ -15631,6 +15631,46 @@
             }
           ],
           "idFilmBoxoffice": 340
+        }
+      ]
+    },
+    {
+      "idSeance": 136880,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 816,
+          "idCategorie": 3642,
+          "titreCycle": "Classiques et raretés",
+          "titreSousCycle": "Nouvelles restaurations"
+        }
+      ],
+      "idEvenement": 31740,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-27T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 60069,
+          "titre": "Sans rien savoir d'elle",
+          "titreVo": "Senza sapere niente di lei",
+          "realisateurs": "Luigi Comencini",
+          "annee": 1968,
+          "duree": 96,
+          "generique": "Philippe Leroy, Paola Pitagora, Sara Franchetti",
+          "synopsis": "Une vieille femme qui a laissé une importante prime d'assurance à trois de ses quatre enfants est morte dans des conditions suspectes. L'avocat qui enquête sur ce cas devient l'amant de sa fille.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28835,
+              "duree": 96,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 127827
         }
       ]
     }
