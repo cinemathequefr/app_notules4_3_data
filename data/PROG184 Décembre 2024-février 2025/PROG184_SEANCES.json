@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-16T13:13:10.911Z",
+  "updatedAt": "2024-09-16T14:29:08.446Z",
   "data": [
     {
       "idSeance": 137061,
@@ -365,7 +365,7 @@
           "idFilm": 39017,
           "titre": "Crimes of the Future",
           "realisateurs": "David Cronenberg",
-          "annee": 1969,
+          "annee": 1970,
           "duree": 63,
           "generique": "Ronald Mlodzik, David Cronenberg, Jon Lidolt",
           "synopsis": "Après une catastrophe, le genre féminin a disparu de la planète. Les survivants tentent de pallier cette disparition.",
@@ -540,7 +540,7 @@
           "idFilm": 79798,
           "titre": "Fast Company",
           "realisateurs": "David Cronenberg",
-          "annee": 1978,
+          "annee": 1979,
           "duree": 91,
           "generique": "William Smith, Claudia Jennings, John Saxon",
           "synopsis": "Une plongée dans le monde des courses de dragsters, avec ses histoires d'amour et de rivalités.",
@@ -840,7 +840,7 @@
           "idFilm": 55771,
           "titre": "M. Butterfly",
           "realisateurs": "David Cronenberg",
-          "annee": 1992,
+          "annee": 1993,
           "duree": 100,
           "generique": "Jeremy Irons, John Lone, Barbara Sukowa",
           "adaptation": "D'après la pièce _M. Butterfly_ de David Henry Hwang.",
@@ -1029,7 +1029,7 @@
           "art": "Les",
           "titreVo": "Eastern Promises",
           "realisateurs": "David Cronenberg",
-          "annee": 2006,
+          "annee": 2007,
           "generique": "Viggo Mortensen, Naomi Watts, Vincent Cassel, Armin Mueller-Stahl",
           "synopsis": "Une sage-femme enquête sur l'identité d'une jeune Russe, morte en couches, le soir de Noël. Elle découvre que celle-ci était une prostituée, mêlée malgré elle aux agissements d'un groupe de proxénètes. Ses problèmes ne font que commencer.",
           "miniTexte": "Une plongée en apnée au cœur de la mafia russe, pensée comme la face B d'_A History of Violence_. Avec les codes du western, du mélodrame et du film noir, les obsessions organiques de Cronenberg rejoignent le film de genre pour une tragédie familiale shakespearienne à la réalisation aussi virtuose que limpide.",
@@ -1278,7 +1278,7 @@
           "titre": "Victim",
           "art": "The",
           "realisateurs": "David Cronenberg",
-          "annee": 1975,
+          "annee": 1976,
           "dureeStd": 27,
           "duree": 30,
           "generique": "Jonathan Welsh, Janet Wright",
@@ -1300,7 +1300,7 @@
           "titre": "Lie Chair",
           "art": "The",
           "realisateurs": "David Cronenberg",
-          "annee": 1975,
+          "annee": 1976,
           "dureeStd": 27,
           "duree": 30,
           "generique": "Richard Monette, Susan Hogan, Amelia Hall",
@@ -1327,7 +1327,7 @@
           "duree": 30,
           "generique": "Gary McKeehan, Frank Moore, Hardee T. Lineham",
           "miniTexte": "Des passionnés de moto cherchent à s'emparer du bolide d'un richissime homme d'affaires. Une pièce télévisée, réalisée pour la série canadienne _Teleplay_, où Cronenberg explore l'un de ses thèmes fétiches, l'obsession de la technologie.",
-          "commentaire": "« Petit chef d'œuvre méconnu, ce film est un conte moral dont le protagoniste est une moto Ducati \"de rêve\" . Une réflexion pleine de hardiesse sur l'œuvre d'art contemporaine, dont on retrouve des échos dans les derniers scénarios de Cronenberg . » (Serge Grünberg)",
+          "commentaire": "« Petit chef d'œuvre méconnu, ce film est un conte moral dont le protagoniste est une moto Ducati \"de rêve\". Une réflexion pleine de hardiesse sur l'œuvre d'art contemporaine, dont on retrouve des échos dans les derniers scénarios de Cronenberg. » (Serge Grünberg)",
           "status": 2,
           "copies": [
             {
@@ -1383,7 +1383,7 @@
           "idFilm": 85602,
           "titre": "From the Drain",
           "realisateurs": "David Cronenberg",
-          "annee": 1966,
+          "annee": 1967,
           "duree": 14,
           "generique": "Stefan Nosko, Mort Ritts",
           "miniTexte": "Deux vétérans d'une guerre future dialoguent, assis dans un bain. Le second court de Cronenberg, absurde et expérimental.",
@@ -4881,10 +4881,16 @@
           "titre": "Hire : The Ambush",
           "realisateurs": "John Frankenheimer",
           "annee": 2001,
+          "duree": 6,
           "generique": "Clive Owen, Tomas Milian, Franklin Dennis Jones",
           "miniTexte": "L'un des multiples courts métrages d'une série diffusée exclusivement sur internet, qui mettent chacun en scène Clive Owen au volant d'une BMW, pour assurer indirectement la promotion de la marque.",
           "status": 1,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28844,
+              "duree": 6
+            }
+          ],
           "idFilmBoxoffice": 200676
         }
       ]
@@ -10069,18 +10075,12 @@
           "art": "Le",
           "realisateurs": "Marcel Carné",
           "annee": 1939,
-          "duree": 89,
+          "duree": 93,
           "generique": "Jean Gabin, Jules Berry, Jacqueline Laurent, Arletty",
           "synopsis": "Barricadé dans sa chambre, un homme se remémore les circonstances qui l'ont conduit au meurtre d'un infâme dresseur de chiens.",
           "miniTexte": "Dans l'atmosphère d'un faubourg industriel, barricadé dans son meublé, un ouvrier désespéré se remémore les circonstances qui l'ont conduit au meurtre. D'une sombre mélancolie, Jean Gabin interprète l'un de ses plus grands rôles, dans une tragédie de l'amour et de la fatalité sociale. Un sommet de réalisme poétique et l'une des plus belles collaborations de Carné, Trauner et Prévert.",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 16401,
-              "duree": 89,
-              "format": "35 mm",
-              "langCopie": "FRE"
-            },
             {
               "idCopie": 3413,
               "duree": 93,
