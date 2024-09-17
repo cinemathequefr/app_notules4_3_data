@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-16T15:46:47.265Z",
+  "updatedAt": "2024-09-17T08:34:46.480Z",
   "data": [
     {
       "idSeance": 137061,
@@ -4134,10 +4134,6 @@
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 28669,
-              "duree": 177
             }
           ],
           "idFilmBoxoffice": 8379
@@ -4188,12 +4184,6 @@
               "version": "VO",
               "langCopie": "ENG",
               "stDemande": true
-            },
-            {
-              "idCopie": 28665,
-              "duree": 124,
-              "version": "VO",
-              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 26653
@@ -11326,7 +11316,7 @@
       ],
       "idEvenement": 31531,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-01T20:15:00",
+      "dateHeure": "2024-12-01T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -11410,7 +11400,7 @@
       ],
       "idEvenement": 31538,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-28T17:00:00",
+      "dateHeure": "2024-11-28T14:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -11449,7 +11439,7 @@
       ],
       "idEvenement": 31539,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-30T22:30:00",
+      "dateHeure": "2024-11-30T23:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -13748,7 +13738,7 @@
       ],
       "idEvenement": 31644,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-01T17:30:00",
+      "dateHeure": "2024-12-01T17:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -14637,7 +14627,7 @@
       ]
     },
     {
-      "idSeance": 145263,
+      "idSeance": 185039,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -14649,8 +14639,8 @@
       ],
       "idEvenement": 31691,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-28T14:30:00",
-      "idSalle": "HL",
+      "dateHeure": "2024-11-28T16:00:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -14738,7 +14728,7 @@
       ],
       "idEvenement": 31693,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-01T19:15:00",
+      "dateHeure": "2024-12-01T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -14779,7 +14769,7 @@
       ],
       "idEvenement": 31694,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-01T18:30:00",
+      "dateHeure": "2024-12-01T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -15096,7 +15086,7 @@
       "items": []
     },
     {
-      "idSeance": 138332,
+      "idSeance": 185038,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -15108,7 +15098,7 @@
       ],
       "idEvenement": 31712,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-20T19:00:00",
+      "dateHeure": "2025-02-24T19:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -15161,7 +15151,7 @@
       ]
     },
     {
-      "idSeance": 139262,
+      "idSeance": 185037,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -15173,7 +15163,7 @@
       ],
       "idEvenement": 31714,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-24T19:00:00",
+      "dateHeure": "2025-01-20T19:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -15757,6 +15747,82 @@
       "typeEvenement": 13,
       "dateHeure": "2024-11-27T20:30:00",
       "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 60069,
+          "titre": "Sans rien savoir d'elle",
+          "titreVo": "Senza sapere niente di lei",
+          "realisateurs": "Luigi Comencini",
+          "annee": 1968,
+          "duree": 96,
+          "generique": "Philippe Leroy, Paola Pitagora, Sara Franchetti",
+          "synopsis": "Une vieille femme qui a laissé une importante prime d'assurance à trois de ses quatre enfants est morte dans des conditions suspectes. L'avocat qui enquête sur ce cas devient l'amant de sa fille.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28835,
+              "duree": 96,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 127827
+        }
+      ]
+    },
+    {
+      "idSeance": 185040,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 816,
+          "idCategorie": 3474,
+          "titreCycle": "Classiques et raretés",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31741,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-28T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 91447,
+          "titre": "2046",
+          "realisateurs": "Wong Kar-Wai",
+          "annee": 2003,
+          "duree": 120,
+          "generique": "Tony Chiu-Wai Leung, Li Gong, Takuya Kimura",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28845,
+              "duree": 120,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 28367
+        }
+      ]
+    },
+    {
+      "idSeance": 185041,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 816,
+          "idCategorie": 3474,
+          "titreCycle": "Classiques et raretés",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31742,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-01T16:30:00",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
