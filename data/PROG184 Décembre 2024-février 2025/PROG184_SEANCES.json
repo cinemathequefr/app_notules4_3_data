@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-17T08:34:46.480Z",
+  "updatedAt": "2024-09-17T09:51:59.566Z",
   "data": [
     {
       "idSeance": 137061,
@@ -5128,19 +5128,19 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28748,
-              "duree": 102,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
               "idCopie": 28826,
               "duree": 102,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28748,
+              "duree": 102,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 20971
@@ -8108,8 +8108,8 @@
           "annee": 1958,
           "duree": 136,
           "generique": "Sidney Poitier, Dorothy Dandridge, Sammy Davis Jr.",
-          "adaptation": "D'après le drame musical _Porgy and Bess_ de George Gershwin.  \nD'après le drame musical _Porgy and Bess_ et le roman _Porgy_ de DuBose Heyward.  \nD'après le roman _Porgy_ de Dorothy Heyward.",
-          "status": 0,
+          "adaptation": "D'après l'opéra _Porgy and Bess_ de George Gershwin.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28750,
@@ -14639,7 +14639,7 @@
       ],
       "idEvenement": 31691,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-28T16:00:00",
+      "dateHeure": "2024-11-28T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -14689,8 +14689,8 @@
       ],
       "idEvenement": 31692,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-28T18:30:00",
-      "idSalle": "GF",
+      "dateHeure": "2024-11-28T15:00:00",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
@@ -14769,7 +14769,7 @@
       ],
       "idEvenement": 31694,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-01T18:00:00",
+      "dateHeure": "2024-12-01T17:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -15805,46 +15805,6 @@
             }
           ],
           "idFilmBoxoffice": 28367
-        }
-      ]
-    },
-    {
-      "idSeance": 185041,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 816,
-          "idCategorie": 3474,
-          "titreCycle": "Classiques et raretés",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31742,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-01T16:30:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 60069,
-          "titre": "Sans rien savoir d'elle",
-          "titreVo": "Senza sapere niente di lei",
-          "realisateurs": "Luigi Comencini",
-          "annee": 1968,
-          "duree": 96,
-          "generique": "Philippe Leroy, Paola Pitagora, Sara Franchetti",
-          "synopsis": "Une vieille femme qui a laissé une importante prime d'assurance à trois de ses quatre enfants est morte dans des conditions suspectes. L'avocat qui enquête sur ce cas devient l'amant de sa fille.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28835,
-              "duree": 96,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 127827
         }
       ]
     }
