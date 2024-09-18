@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-18T13:27:19.459Z",
+  "updatedAt": "2024-09-18T15:59:18.594Z",
   "data": [
     {
       "idSeance": 137061,
@@ -10369,7 +10369,7 @@
           "idFilmBoxoffice": 182
         }
       ],
-      "mention": "Ouverture de la rétrospective"
+      "mention": "Ouverture de la rétrospective. Séance présentée par Fanny De Lépinau et Alice S. Legé"
     },
     {
       "idSeance": 137763,
@@ -10997,7 +10997,7 @@
       ]
     },
     {
-      "idSeance": 174920,
+      "idSeance": 185104,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -11009,7 +11009,7 @@
       ],
       "idEvenement": 31496,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-19T18:00:00",
+      "dateHeure": "2024-12-28T15:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -11119,7 +11119,7 @@
       ]
     },
     {
-      "idSeance": 137744,
+      "idSeance": 185103,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -11127,12 +11127,18 @@
           "idCategorie": 3472,
           "titreCycle": "Jacques Prévert",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 814,
+          "idCategorie": 3645,
+          "titreCycle": "Jacques Prévert",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31501,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-28T15:00:00",
+      "dateHeure": "2024-12-19T19:00:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -11156,6 +11162,13 @@
             }
           ],
           "idFilmBoxoffice": 3506
+        },
+        {
+          "ordre": 2,
+          "idConf": 31758,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Eugénie Bachelot-Prévert et Alice Legé",
+          "duree": 90
         }
       ]
     },
@@ -12750,7 +12763,7 @@
           "idFilm": 35153,
           "titre": "Mad Max",
           "realisateurs": "George Miller",
-          "annee": 1977,
+          "annee": 1979,
           "duree": 85,
           "generique": "Mel Gibson, Joanne Samuel, Hugh Keays-Byrne",
           "synopsis": "Sur les autoroutes désertées d'une Australie méconnaissable, une guerre sans merci oppose motards hors-la-loi et policiers Interceptor, qui tentent de triompher de la vermine au volant de voitures aux moteurs surgonflés.",
@@ -13062,7 +13075,7 @@
           "titreVo": "Time Machine",
           "artVo": "The",
           "realisateurs": "George Pal",
-          "annee": 1959,
+          "annee": 1960,
           "duree": 103,
           "generique": "Rod Taylor, Yvette Mimieux, Alan Young",
           "adaptation": "D'après le roman _La Machine à explorer le temps_ de H. G. Wells.",
@@ -13103,7 +13116,7 @@
           "titre": "Dr Folamour",
           "titreVo": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
           "realisateurs": "Stanley Kubrick",
-          "annee": 1963,
+          "annee": 1964,
           "duree": 93,
           "generique": "Sterling Hayden, Peter Sellers, George C. Scott",
           "adaptation": "D'après le roman _120 minutes pour sauver le monde_ de Peter George.",
@@ -13145,7 +13158,7 @@
           "titre": "Quand la terre s'entrouvrira",
           "titreVo": "Crack in the World",
           "realisateurs": "Andrew Marton",
-          "annee": 1964,
+          "annee": 1965,
           "duree": 96,
           "generique": "Dana Andrews, Janette Scott, Kieron Moore",
           "miniTexte": "Un savant utilise une bombe atomique, qui menace de scinder la Terre en deux. Reconnu pour avoir réalisé la célèbre course de chars de _Ben-Hur_, Andrew Marton s'essaie avec succès au film catastrophe saupoudré de science-fiction et de rivalité amoureuse. Grâce à des effets spéciaux innovants pour l'époque, il témoigne d'une société en pleine transformation, mais aussi de la dernière bataille d'un homme arrivé à la fin de sa vie.",
@@ -13278,12 +13291,13 @@
           "titre": "Stalker",
           "titreNx": "Сталкер",
           "realisateurs": "Andreï Tarkovski",
-          "annee": 1978,
+          "annee": 1979,
           "dureeStd": 161,
           "duree": 161,
           "generique": "Alexandre Kaïdanovski, Anatoli Solonitsyne, Nikolaï Grinko",
           "adaptation": "D'après la nouvelle _Pique-nique au bord du chemin_ de Boris et Arkadi Strougatski.",
-          "miniTexte": "Le périple et la quête spirituelle de trois hommes – un professeur et un écrivain, guidés par un stalker – dans la Zone, territoire aussi mystérieux que dangereux, où il est possible d'exaucer ses désirs les plus profonds. Un lieu interdit qui annonce la catastrophe de Tchernobyl, avec huit ans d'avance. Tarkovski utilise des éléments de l'œuvre des frères Strougatski, figures majeures du roman de SF, pour poser ses propres interrogations sur le sens de l'existence. Plans admirables, atmosphère stupéfiante, une expérience sensorielle et philosophique inoubliable.",
+          "synopsis": "Un « stalker » emmène deux voyageurs à travers une zone dangereuse à la recherche d'un endroit magique.",
+          "miniTexte": "Le périple et la quête spirituelle de trois hommes – un professeur et un écrivain, guidés par un « stalker » – dans la Zone, territoire aussi mystérieux que dangereux, où il est possible d'exaucer ses désirs les plus profonds. Un lieu interdit qui annonce la catastrophe de Tchernobyl, avec huit ans d'avance. Tarkovski utilise des éléments de l'œuvre des frères Strougatski, figures majeures du roman de SF, pour poser ses propres interrogations sur le sens de l'existence. Plans admirables, atmosphère stupéfiante, une expérience sensorielle et philosophique inoubliable.",
           "status": 2,
           "copies": [
             {
@@ -13321,9 +13335,9 @@
           "titre": "New York 1997",
           "titreVo": "Escape from New York",
           "realisateurs": "John Carpenter",
-          "annee": 1980,
+          "annee": 1981,
           "duree": 99,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28704,
@@ -13332,7 +13346,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 253
         }
       ]
     },
@@ -13360,7 +13375,7 @@
           "realisateurs": "John Carpenter",
           "annee": 1995,
           "duree": 101,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28722,
@@ -13369,7 +13384,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 15333
         }
       ]
     },
@@ -13394,7 +13410,7 @@
           "idFilm": 29267,
           "titre": "Deep Impact",
           "realisateurs": "Mimi Leder",
-          "annee": 1997,
+          "annee": 1998,
           "duree": 121,
           "generique": "Téa Leoni, Robert Duvall, Elijah Wood",
           "miniTexte": "Sorti la même année qu'_Armageddon_, au scénario similaire, le récit des derniers jours de la vie sur Terre avant l'impact d'un astéroïde, commentés par une journaliste déterminée et un président pré-Obama. Plus que l'action, _Deep Impact_ privilégie la réflexion sur la résilience et les choix moraux pour parer au désastre, dans un compte à rebours chargé d'émotion.",
@@ -13435,7 +13451,7 @@
           "art": "Les",
           "titreVo": "Children of Men",
           "realisateurs": "Alfonso Cuarón",
-          "annee": 2005,
+          "annee": 2006,
           "duree": 114,
           "generique": "Clive Owen, Julianne Moore, Michael Caine",
           "adaptation": "D'après le roman _Les Fils de l'homme_ de P. D. James.",
@@ -13534,7 +13550,7 @@
           "titre": "Derniers jours du monde",
           "art": "Les",
           "realisateurs": "Jean-Marie Larrieu, Arnaud Larrieu",
-          "annee": 2008,
+          "annee": 2009,
           "duree": 134,
           "generique": "Mathieu Amalric, Catherine Frot, Karin Viard, Sergi López",
           "adaptation": "D'après le roman _Les Derniers jours du monde_ de Dominique Noguez.",
@@ -13582,7 +13598,7 @@
           "idFilm": 113297,
           "titre": "Melancholia",
           "realisateurs": "Lars von Trier",
-          "annee": 2010,
+          "annee": 2011,
           "duree": 130,
           "generique": "Kirsten Dunst, Charlotte Gainsbourg, Alexander Skarsgård",
           "synopsis": "À l'occasion de leur mariage, Justine et Michael donnent une somptueuse réception dans la maison de la sœur de Justine. Pendant ce temps, la planète Melancholia se dirige vers la Terre.",
@@ -13623,7 +13639,7 @@
           "idFilm": 113297,
           "titre": "Melancholia",
           "realisateurs": "Lars von Trier",
-          "annee": 2010,
+          "annee": 2011,
           "duree": 130,
           "generique": "Kirsten Dunst, Charlotte Gainsbourg, Alexander Skarsgård",
           "synopsis": "À l'occasion de leur mariage, Justine et Michael donnent une somptueuse réception dans la maison de la sœur de Justine. Pendant ce temps, la planète Melancholia se dirige vers la Terre.",
@@ -13706,7 +13722,7 @@
           "titreVo": "Seolgungnyeolcha",
           "titreNx": "설국열차",
           "realisateurs": "Bong Joon-ho",
-          "annee": 2012,
+          "annee": 2013,
           "dureeStd": 120,
           "duree": 120,
           "generique": "Chris Evans, Jamie Bell, Tilda Swinton, Song Kang-ho",
@@ -13901,7 +13917,7 @@
           "art": "La",
           "titreVo": "Rise of the Planet of the Apes",
           "realisateurs": "Rupert Wyatt",
-          "annee": 2010,
+          "annee": 2011,
           "duree": 105,
           "generique": "James Franco, Freida Pinto, Brian Cox",
           "synopsis": "Voulant vaincre Alzheimer, un groupe de scientifiques expérimente sur des singes un traitement qui décuple en fait leur activité cérébrale. César, premier sujet à l'intelligence exceptionnelle, mène un soulèvement lorsqu'il est trahi par les humains.",
