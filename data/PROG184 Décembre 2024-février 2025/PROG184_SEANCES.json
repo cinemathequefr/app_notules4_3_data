@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-17T16:42:57.812Z",
+  "updatedAt": "2024-09-18T07:59:05.686Z",
   "data": [
     {
       "idSeance": 137061,
@@ -1843,7 +1843,7 @@
           "annee": 1966,
           "dureeStd": 13,
           "duree": 13,
-          "generique": "Tengiz Arčvadze, Via Artmane",
+          "generique": "Tengiz Atchvadze, Via Artman",
           "miniTexte": "À partir des vestiges d'un film censuré par les autorités qui demandent sa destruction, Paradjanov réalise une mosaïque d'images sur le destin d'une famille disloquée par la guerre, et amorce le tournant esthétique pleinement révélé dans _Sayat Nova_.",
           "status": 2,
           "copies": [
@@ -2118,7 +2118,8 @@
           "realisateurs": "Sergueï Paradjanov",
           "annee": 1958,
           "duree": 83,
-          "generique": "Hryhorij Karpov, Liudmyla Sosjura, Jurij Satarov",
+          "generique": "Grigori Karpov, Lioudmila Sossioura, Youri Satarov",
+          "synopsis": "Grigori Karpov, Lioudmila Sossioura, Youri Satarov",
           "miniTexte": "Jaloux des autres gars du kolkhoze, le naïf et peu habile Youchka tente de devenir un bon footballeur afin de gagner le cœur d'Odarka, une fille du Komsomol (jeunesses communistes). Derrière l'œuvre de jeunesse à consonance idéologique, une comédie doucement acidulée, parfois burlesque, qui réunit les éléments du folklore et de la nature dans un hymne à la joie de vivre.",
           "status": 2,
           "copies": [
@@ -2164,7 +2165,7 @@
           "realisateurs": "Sergueï Paradjanov",
           "annee": 1961,
           "duree": 78,
-          "generique": "Olha Reus-Petrenko, Ėduard Košman, Jurij Guliaiev",
+          "generique": "Olga Petrenko, Eduard Kochman, Youri Gouliaev",
           "miniTexte": "Sur fond de Seconde Guerre mondiale qui sépare les amants, le portrait d'une villageoise devenue cantatrice à succès. Des rues de Paris aux champs de ruines, la rhapsodie de Paradjanov se pare des couleurs du mélodrame en Sovcolor, dans un récit livré par bribes, reliées par la musique et le chant d'un lyrisme flamboyant.",
           "status": 2,
           "copies": [
@@ -2310,7 +2311,7 @@
           "realisateurs": "Sergueï Paradjanov",
           "annee": 1962,
           "duree": 75,
-          "generique": "Boris Dmochovskyj, Hryhorij Karpov, Liudmyla Čerepanova",
+          "generique": "Boris Dmokhovski, Grigori Karpov, Lioudmila Tcherepanova",
           "miniTexte": "La chronique d'une cité minière du Donbass, infiltrée par une secte religieuse. Commencé par Anatoly Slesarenko, le tournage, marqué par la mort accidentelle de l'actrice Inna Bordujenko, fut repris par Paradjanov, dont les idées visuelles imprègnent cette œuvre de commande à l'intrigue de propagande antireligieuse.",
           "status": 2,
           "copies": [
@@ -13351,12 +13352,6 @@
       "idProg": 184,
       "idCycleCategories": [
         {
-          "idCycle": 14,
-          "idCategorie": 3384,
-          "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
-        },
-        {
           "idCycle": 953,
           "idCategorie": 3621,
           "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
@@ -13393,12 +13388,6 @@
       "idSeance": 184957,
       "idProg": 184,
       "idCycleCategories": [
-        {
-          "idCycle": 14,
-          "idCategorie": 3384,
-          "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
-        },
         {
           "idCycle": 953,
           "idCategorie": 3621,
@@ -16074,8 +16063,10 @@
           "generique": "Michel Piccoli, Gérard Lanvin, Nathalie Baye, Jean-Pierre Kalfon",
           "adaptation": "D'après le roman _Affaires étrangères_ de Jean-Marc Roberts.",
           "synopsis": "Un jeune publicitaire ambitieux entre dans le jeu de son nouveau patron, qui abuse de son dévouement, et se montre particulièrement intrusif dans sa vie privée.",
+          "miniTexte": "Cinq personnages. Cinq personnalités, qui arpentent ensemble une toile dont l'araignée est le grand patron. Piccoli, divin et machiavélique. Lanvin, faible et docile. Baye, méprisée mais lucide. Balmer, doucereux et inquiétant. Kalfon, mielleux et dévoué. Le milieu publicitaire n'est qu'un arrière-plan pour Granier-Deferre, qui s'attache davantage aux rapports entre les êtres, dont l'ambiguïté fait naître la tension et l'angoisse. L'affaire n'a en réalité rien d'étrange, c'est sa banalité justement qui la rend glaçante. Crispant à souhait, le film offrit un Ours d'argent berlinois à Piccoli, un César à Nathalie Baye, et le prix Louis-Delluc à son réalisateur.",
           "status": 2,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 4690
         },
         {
           "ordre": 2,
