@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-19T09:06:33.674Z",
+  "updatedAt": "2024-09-19T10:51:52.149Z",
   "data": [
     {
       "idSeance": 137061,
@@ -3763,47 +3763,6 @@
       ]
     },
     {
-      "idSeance": 184942,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 805,
-          "idCategorie": 3447,
-          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31282,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-23T18:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 35399,
-          "titre": "Evil Dead 2",
-          "titreVo": "Evil Dead II",
-          "realisateurs": "Sam Raimi",
-          "annee": 1986,
-          "duree": 84,
-          "generique": "Bruce Campbell, Sarah Berry, Dan Hinks",
-          "miniTexte": "Six ans après le premier volet, Sam Raimi signe une nouvelle version furieusement déjantée, qui détourne le postulat d'origine pour le transformer en sommet de perversité à l'humour noir jubilatoire. Les litres de sang se répandent pour un trip gore au second degré pleinement assumé, articulé autour des ruptures de tons et de la performance XXL de Bruce Campbell.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28427,
-              "duree": 84,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 99131
-        }
-      ]
-    },
-    {
       "idSeance": 137758,
       "idProg": 184,
       "idCycleCategories": [
@@ -6357,7 +6316,7 @@
           "duree": 90,
           "generique": "Betty Grable, Douglas Fairbanks Jr., Cesar Romero",
           "adaptation": "D'après l'opérette _Die Frau im Hermelin_ d'Ernst Welisch et Rudolf Schanzer.",
-          "synopsis": "1861, Italie du Nord. L'armée hongroise assiège le château de la comtesse Angelina. Dans la galerie des ancêtres, Francesca, aïeule d'Angelina, revient à la vie pour sauver la situation, comme elle l'avait fait 300 ans auparavant.",
+          "miniTexte": "1861, Italie du Nord. L'armée hongroise assiège le château de la comtesse Angelina, dont l'aïeule revient à la vie pour sauver la situation. Une opérette en Technicolor, truffée de trouvailles visuelles, pour la dernière réalisation de Lubitsch. Preminger achève le travail du maître, mort en cours de tournage, tout en posant ça et là sa propre griffe.",
           "status": 2,
           "copies": [
             {
@@ -6403,14 +6362,15 @@
         {
           "ordre": 1,
           "idFilm": 45923,
-          "titre": "Bonjour Tristesse",
+          "titre": "Bonjour tristesse",
           "realisateurs": "Otto Preminger",
           "annee": 1957,
           "duree": 93,
           "generique": "Deborah Kerr, David Niven, Jean Seberg",
           "adaptation": "D'après le roman _Bonjour tristesse_ de Françoise Sagan.",
           "synopsis": "Cécile, 18 ans, vit avec son père Raymond, un riche et séduisant veuf. À l'exemple de son père, la vie de Cécile ne semble être que futilités. Car quelque chose s'est brisé en elle durant leurs dernières vacances.\n\n---\n\nDepuis un été sur la Côte, où Cécile menait avec son père une vie légère et douce, la jeune parisienne a perdu sa joie de vivre.",
-          "status": 1,
+          "miniTexte": "La douceur mélancolique des mots de Sagan, bercée par le talent de Preminger. Sur la Côte d'Azur, Cécile mène avec son père une vie idyllique, jusqu'à l'arrivée d'Anne, sûre d'elle et cultivée. Juste après _Sainte-Jeanne_, le cinéaste retrouve Jean Seberg, fragile chrysalide dont les tourments intérieurs sont traduits par une voix off omniprésente, quand le jeu entre Technicolor et noir et blanc accroche les zones d'ombre de cette tragédie contemporaine.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 5382,
@@ -6452,7 +6412,8 @@
           "generique": "Laurence Olivier, Keir Dullea, Carol Lynley",
           "adaptation": "D'après le roman _Bunny Lake is missing_ d'Evelyn Piper.",
           "synopsis": "Une mère de famille signale la disparition de sa petite fille Bunny.",
-          "status": 0,
+          "miniTexte": "Des personnages insolites auscultés avec tact, une atmosphère trouble, l'apparition du groupe The Zombies, et Laurence Olivier brillant en flic sobre : dans un Londres aux décors étouffants, l'enquête sur la disparition d'une fillette. Avec sa science de la narration et son aisance inoxydable, Preminger se détourne du fait divers, préférant s'attarder sur les réactions du couple, et distille une ambiguïté et une tension qui vont _crescendo_. Un retour aux sources du film noir de ses débuts, intelligent et original.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28623,
@@ -6492,7 +6453,8 @@
           "annee": 1955,
           "duree": 100,
           "generique": "Gary Cooper, Charles Bickford, Ralph Bellamy, Rod Steiger",
-          "status": 0,
+          "miniTexte": "Une performance convaincante de Gary Cooper dans la peau du général Mitchell qui, en 1921, œuvra pour doter son pays d'une flotte aérienne compétitive, mais fut traduit en cour martiale pour désobéissance à sa hiérarchie. Preminger surfe sur la vague des films de procès, et sa réalisation dépouillée apporte un aspect résolument universel.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28455,
@@ -6539,6 +6501,7 @@
           "generique": "John Huston, Romy Schneider, Dorothy Gish, Tom Tryon",
           "adaptation": "D'après le roman _The Cardinal_ de Henry Morton Robinson.",
           "synopsis": "Au cours de la première moitié du XX<sup>e</sup> siècle, l'ascension d'un prêtre catholique américain pris dans la tourmente de l'histoire.",
+          "miniTexte": "Pendant la première moitié du XX<sup>e</sup> siècle, l'ascension d'un prêtre catholique américain pris dans la tourmente de l'Histoire. À travers le portrait psychologique d'un homme déchiré entre la foi, l'ambition et le doute, Preminger réalise une fresque monumentale, qui alterne séquences spectaculaires et scènes plus intimes. Le casting international fait la part belle à une Romy Schneider particulièrement émouvante, tandis que John Huston –autoportrait du cinéaste –, porte haut le camail, et livre une composition réaliste et humaine. Statut de la femme, sexualité, ségrégation raciale, nazisme : _Le Cardinal_ n'explore pas seulement les dessous de l'Église en tant qu'institution politique, mais décortique avec l'esprit mordant propre à Preminger les grands sujets de société et les mécanismes du pouvoir.",
           "commentaire": "À travers le portrait psychologique d'un homme déchiré entre la foi, l'ambition et le doute, Preminger réalise une fresque monumentale sur les dessous de l'Église catholique en tant qu'institution politique. Statut de la femme, sexualité, ségrégation raciale ou nazisme, le film décortique les grands sujets de société, auxquels le clergé dut se confronter entre 1917 et 1939. Cette épopée humaine, racontée en flashbacks, mène le spectateur de Rome à Boston en passant par Vienne et l'État de Géorgie, alternant les séquences spectaculaires et les scènes plus intimes. Un film d'une grande intelligence, sous-estimé à sa sortie, qui interroge la religion, sans jugement mais avec tranchant.",
           "status": 2,
           "copies": [
@@ -6600,7 +6563,8 @@
           "generique": "James Stewart, Lee Remick, Ben Gazzara",
           "adaptation": "D'après le roman _Anatomy of a Murder_ de Robert Traver.",
           "synopsis": "Accusé d'avoir tué le violeur de sa femme, le lieutenant Frederick Manion plaide non coupable, se disant victime d'une « impulsion irrésistible ». Le procès commence et la vérité a du mal à émerger.",
-          "status": 1,
+          "miniTexte": "Attention, chef-d'œuvre. Accusé d'avoir tué le violeur de sa femme, un militaire est défendu par un ténor du barreau. Tiré d'un best-seller et d'un fait divers retentissant, c'est l'un des films les plus âpres de Preminger. Et l'un des plus forts. Jalonné de séquences mémorables, le thriller juridique offre la matière idéale à une étude sociologique vitriolée. Preminger manie la verve et la dérision pour démonter le fonctionnement de l'institution judiciaire, questionner l'objectivité et ses limites, étriller les rapports humains. Le cinéaste est un orfèvre, sa minutie s'invite jusque dans les traits de caractère des personnages – le froid et rusé Ben Gazzara, Lee Remick, magnétique, et surtout le grand James Stewart (récompensé à Venise), qui vit littéralement son personnage d'avocat. Virtuosité de la mise en scène, modèle de générique signé Saul Bass, partition de Duke Ellington : un joyau premingerien, pour une magistrale leçon de cinéma.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 14747,
@@ -6648,7 +6612,8 @@
           "generique": "James Stewart, Lee Remick, Ben Gazzara",
           "adaptation": "D'après le roman _Anatomy of a Murder_ de Robert Traver.",
           "synopsis": "Accusé d'avoir tué le violeur de sa femme, le lieutenant Frederick Manion plaide non coupable, se disant victime d'une « impulsion irrésistible ». Le procès commence et la vérité a du mal à émerger.",
-          "status": 1,
+          "miniTexte": "Attention, chef-d'œuvre. Accusé d'avoir tué le violeur de sa femme, un militaire est défendu par un ténor du barreau. Tiré d'un best-seller et d'un fait divers retentissant, c'est l'un des films les plus âpres de Preminger. Et l'un des plus forts. Jalonné de séquences mémorables, le thriller juridique offre la matière idéale à une étude sociologique vitriolée. Preminger manie la verve et la dérision pour démonter le fonctionnement de l'institution judiciaire, questionner l'objectivité et ses limites, étriller les rapports humains. Le cinéaste est un orfèvre, sa minutie s'invite jusque dans les traits de caractère des personnages – le froid et rusé Ben Gazzara, Lee Remick, magnétique, et surtout le grand James Stewart (récompensé à Venise), qui vit littéralement son personnage d'avocat. Virtuosité de la mise en scène, modèle de générique signé Saul Bass, partition de Duke Ellington : un joyau premingerien, pour une magistrale leçon de cinéma.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 14747,
@@ -6688,8 +6653,8 @@
           "duree": 102,
           "generique": "Dyan Cannon, James Coco, Jennifer O'Neill",
           "adaptation": "D'après le roman _Such Good Friends_ de Lois Gould.",
-          "synopsis": "Julie, épouse d'un journaliste new-yorkais, habituée à une vie facile et confortable, voit son monde s'écrouler peu à peu, après l'hospitalisation de son époux.",
-          "status": 0,
+          "miniTexte": "Le monde de Julie s'écroule lorsque son mari est subitement hospitalisé et qu'elle découvre ses frasques. Un tableau impertinent, au rire féroce, de la société américaine et plus particulièrement de la bourgeoisie new-yorkaise. Un savant jeu de massacre, et un surprenant portrait de femme où la tendresse pointe sous la misogynie.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28456,
@@ -6727,8 +6692,9 @@
           "annee": 1954,
           "duree": 107,
           "generique": "Dorothy Dandridge, Harry Belafonte, Olga James",
-          "adaptation": "D'après la comédie musicale _Carmen_ d'Oscar Hammerstein.  \nD'après le roman _Carmen_ de Prosper Mérimée.  \nD'après l'opéra-comique _Carmen_ de Georges Bizet.",
-          "status": 0,
+          "adaptation": "D'après la comédie musicale _Carmen_ d'Oscar Hammerstein, le roman _Carmen_ de Prosper Mérimée et l'opéra-comique _Carmen_ de Georges Bizet.",
+          "miniTexte": "« Transposer le livret de _Carmen_ dans l'Amérique actuelle, avec une troupe d'interprètes noirs, me fascine littéralement », explique Preminger. Des choix audacieux, Dorothy Dandridge, sensuelle, de longs plans-séquences en CinémaScope : une adaptation moderne et farouchement libre de l'opéra de Bizet.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28470,
@@ -6761,14 +6727,15 @@
         {
           "ordre": 1,
           "idFilm": 35613,
-          "titre": "Charmante famille",
+          "titre": "Charmante Famille",
           "titreVo": "Danger – Love at Work",
           "realisateurs": "Otto Preminger",
           "annee": 1937,
           "duree": 81,
           "generique": "Ann Sothern, Jack Haley, Edward Everett Horton, John Carradine",
           "adaptation": "D'après l'histoire _Marry and Orphan_ de James Edward Grant.",
-          "status": 0,
+          "miniTexte": "Otto Preminger fait ses gammes à Hollywood avec une _screwball comedy_, qui voit un jeune avocat plongé dans la vie d'une famille joyeusement loufoque. Séquences aux dialogues enlevés, rythme soutenu, déjà percent la patte et le savoir-faire du futur maître.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28454,
@@ -6808,7 +6775,8 @@
           "duree": 101,
           "generique": "Alice Faye, Dana Andrews, Linda Darnell, Charles Bickford, John Carradine",
           "adaptation": "D'après le roman _Fallen angel_ de Marty Holland.",
-          "status": 0,
+          "miniTexte": "Ambiance nocturne et langoureuse orchestrée par Joseph LaShelle, Linda Darnell, superbe femme fatale : _Crime passionnel_ n'est pas qu'une intrigue policière doublée d'une histoire d'amour vénéneuse, c'est surtout le portrait d'un ange déchu en quête de rédemption. Une étude psychologique qui allie la pudeur à la passion, un incontournable du film noir.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28468,
@@ -6848,7 +6816,8 @@
           "generique": "Paul Newman, Eva Marie Saint, Ralph Richardson",
           "adaptation": "D'après le roman _Exodus_ de Leon Uris.",
           "synopsis": "Le film évoque l'histoire de l'Exodus, le bateau qui amène des immigrants juifs en terre d'Israël après la guerre, et le cours des négociations avec les autorités britanniques.",
-          "status": 0,
+          "miniTexte": "Sur un sujet complexe, une fresque ambitieuse en Technicolor, qui retrace l'exode des Juifs et la fondation de l'État d'Israël à travers des destins individuels. Du best-seller de Léon Uris, Dalton Trumbo a tiré un scénario fouillé, que Preminger, dans une démonstration sèche, transforme en une épopée politique pleine de souffle.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28627,
@@ -6893,8 +6862,8 @@
           "duree": 99,
           "generique": "Joan Crawford, Dana Andrews, Henry Fonda",
           "adaptation": "D'après le roman _Daisy Kenyon_ d'Elizabeth Janeway.",
-          "synopsis": "Daisy, dessinatrice réputée, est la maîtresse d'un puissant avocat, Dan O'Mara, qui ne se résout pas à quitter sa femme. Daisy accepte difficilement cette situation, remise en question par la présence d'un nouvel homme dans sa vie.",
-          "status": 0,
+          "miniTexte": "Preminger filme les errements d'une femme qui hésite entre deux hommes, l'affrontement entre morale et passion. Sa caméra s'attarde sur le visage expressif de Joan Crawford, et le cinéaste fait parler son sens du cadre et sa maîtrise de l'ombre dans une variation _con anima_ sur le(s) sentiment(s) amoureux.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 17318,
@@ -6942,8 +6911,8 @@
           "duree": 99,
           "generique": "Joan Crawford, Dana Andrews, Henry Fonda",
           "adaptation": "D'après le roman _Daisy Kenyon_ d'Elizabeth Janeway.",
-          "synopsis": "Daisy, dessinatrice réputée, est la maîtresse d'un puissant avocat, Dan O'Mara, qui ne se résout pas à quitter sa femme. Daisy accepte difficilement cette situation, remise en question par la présence d'un nouvel homme dans sa vie.",
-          "status": 0,
+          "miniTexte": "Preminger filme les errements d'une femme qui hésite entre deux hommes, l'affrontement entre morale et passion. Sa caméra s'attarde sur le visage expressif de Joan Crawford, et le cinéaste fait parler son sens du cadre et sa maîtrise de l'ombre dans une variation _con anima_ sur le(s) sentiment(s) amoureux.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 17318,
@@ -6983,7 +6952,8 @@
           "annee": 1932,
           "duree": 76,
           "generique": "Hansi Niese, Attila Hörbiger, Betty Bird",
-          "status": 0,
+          "miniTexte": "Une mère croit reconnaître son fils perdu en découvrant dans la presse la photo d'un héroïque soldat autrichien. Preminger passe pour la première fois derrière la caméra dans son pays natal, avant l'exil hollywoodien, avec une comédie dramatique où affleure son style plein d'ironie.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28457,
@@ -7022,7 +6992,8 @@
           "duree": 113,
           "generique": "Liza Minnelli, Ken Howard, Robert Moore",
           "adaptation": "D'après le roman _Tell Me That You Love Me, Junie Moon_ de Marjorie Kellogg.",
-          "status": 0,
+          "miniTexte": "La vie commune d'une femme défigurée (Liza Minnelli, drôle et émouvante), d'un épileptique et d'un homosexuel paraplégique. Un mélo dénué de sensiblerie sur le handicap et les minorités, sur les souffrances et la solitude, que Preminger a conçu comme un traité sur le courage.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28458,
@@ -7063,9 +7034,9 @@
           "annee": 1955,
           "duree": 119,
           "generique": "Frank Sinatra, Kim Novak, Eleanor Parker, Arnold Stang",
-          "adaptation": "D'après le roman _The Man with the golden arm_ de Nelson Algren.",
-          "synopsis": "Après un séjour dans un centre de désintoxication, Frankie Machine revient dans son quartier et essaie de devenir batteur de jazz.",
-          "status": 0,
+          "adaptation": "D'après le roman _The Man with the Golden Arm_ de Nelson Algren.",
+          "miniTexte": "Après une cure de désintoxication, Frankie Machine retrouve son quartier et tente de devenir batteur de jazz. Coup de tonnerre à Hollywood : bravant le Code Hays, _L'Homme au bras d'or_ est le premier film à évoquer l'enfer de la drogue, avec un réalisme violent. Preminger rue dans les brancards contre la censure, démissionne de l'Association des Producteurs, et revendique son indépendance. La partition jazz d'Elmer Bernstein est sublime, Frank Sinatra, au jeu instinctif, est à son sommet, bouleversant. Une liberté de ton, un témoignage précis comme un documentaire, traversé de poésie sourde, et toujours, chez Preminger, la volonté de traiter des sujets sensibles, sans jugement aucun. Un voyage au bout de la nuit cruel qui hante longtemps le spectateur, le film le plus engagé du cinéaste, si ce n'est son plus beau.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28843,
@@ -7104,7 +7075,8 @@
           "duree": 114,
           "generique": "Richard Attenborough, Joop Doderer, John Gielgud",
           "adaptation": "D'après le roman _The Human Factor_ de Graham Greene.",
-          "status": 0,
+          "miniTexte": "Un haut fonctionnaire des services britanniques se retrouve sous surveillance, piégé par un système déshumanisé. Adapté d'un roman de Graham Greene, _The Human Factor_ a la beauté mortifère des plus grandes œuvres du cinéaste. Un film d'espionnage intimiste, au plan final symbolique : Otto Preminger a raccroché...",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28618,
@@ -7131,7 +7103,7 @@
       ],
       "idEvenement": 31367,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-01T17:30:00",
+      "dateHeure": "2025-02-01T16:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -7144,7 +7116,8 @@
           "duree": 114,
           "generique": "Richard Attenborough, Joop Doderer, John Gielgud",
           "adaptation": "D'après le roman _The Human Factor_ de Graham Greene.",
-          "status": 0,
+          "miniTexte": "Un haut fonctionnaire des services britanniques se retrouve sous surveillance, piégé par un système déshumanisé. Adapté d'un roman de Graham Greene, _The Human Factor_ a la beauté mortifère des plus grandes œuvres du cinéaste. Un film d'espionnage intimiste, au plan final symbolique : Otto Preminger a raccroché...",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28618,
@@ -7183,7 +7156,8 @@
           "duree": 72,
           "generique": "Jeanne Crain, Frank Latimore, Mary Nash",
           "adaptation": "D'après l'histoire _Army Wives_ de Michael Uris.",
-          "status": 0,
+          "miniTexte": "Pendant la Seconde Guerre mondiale, une jeune mariée issue d'une famille aisée est contrainte d'habiter avec son lieutenant de mari un hôtel militaire. Un film de commande aux accents patriotiques, et Jeanne Crain dans son premier rôle important.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28476,
@@ -7223,7 +7197,8 @@
           "duree": 140,
           "generique": "Linda Darnell, Cornel Wilde, George Sanders",
           "adaptation": "D'après le roman _Ambre_ de Kathleen Winsor.",
-          "status": 1,
+          "miniTexte": "Dans l'Angleterre du XVII<sup>e</sup> siècle, le destin d'une belle ambitieuse, de la prison à la chambre du roi Charles II. Zanuck impose Linda Darnell, le code Hays exige des coupes, mais Preminger, dans un magnifique jeu de clairs-obscurs, livre un portrait de femme baroque et troublant, dans un Technicolor flamboyant.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28469,
@@ -7263,7 +7238,7 @@
           "duree": 88,
           "generique": "Gene Tierney, Dana Andrews, Clifton Webb",
           "adaptation": "D'après le roman _Laura_ de Vera Caspary.",
-          "synopsis": "Un détective, qui enquête sur un meurtre, devient obsédé par un tableau représentant la victime, une séduisante jeune femme.",
+          "miniTexte": "« _I shall never forget the week-end Laura died_ ». Le lieutenant McPherson enquête sur l'assassinat d'une jeune femme, et tombe sous le charme de la défunte, après avoir contemplé son portrait. Tiré d'un roman de Vera Caspary, spécialiste des peintures féminines et autrice de scénarios à succès, _Laura_ est un modèle de sobriété, de précision, servi par une mise en scène fluide. Et puis surtout, il y a Gene Tierney, fragile, belle, étrange. Preminger joue à distordre les repères temporels pour installer autour d'elle une atmosphère envoûtante, entre ombre et lumière : « Ce qui m'intéressait, c'était de révéler avec cette histoire l'impossibilité de cerner une femme et le mystère qui s'attache à elle. » Le leitmotiv musical lancinant marque les apparitions de l'héroïne, et les obsessions de McPherson ; bien davantage qu'un drame policier classique, _Laura_ est une élégante tragédie de la jalousie. La quintessence du film noir.",
           "status": 2,
           "copies": [
             {
@@ -7304,7 +7279,7 @@
           "duree": 88,
           "generique": "Gene Tierney, Dana Andrews, Clifton Webb",
           "adaptation": "D'après le roman _Laura_ de Vera Caspary.",
-          "synopsis": "Un détective, qui enquête sur un meurtre, devient obsédé par un tableau représentant la victime, une séduisante jeune femme.",
+          "miniTexte": "« _I shall never forget the week-end Laura died_ ». Le lieutenant McPherson enquête sur l'assassinat d'une jeune femme, et tombe sous le charme de la défunte, après avoir contemplé son portrait. Tiré d'un roman de Vera Caspary, spécialiste des peintures féminines et autrice de scénarios à succès, _Laura_ est un modèle de sobriété, de précision, servi par une mise en scène fluide. Et puis surtout, il y a Gene Tierney, fragile, belle, étrange. Preminger joue à distordre les repères temporels pour installer autour d'elle une atmosphère envoûtante, entre ombre et lumière : « Ce qui m'intéressait, c'était de révéler avec cette histoire l'impossibilité de cerner une femme et le mystère qui s'attache à elle. » Le leitmotiv musical lancinant marque les apparitions de l'héroïne, et les obsessions de McPherson ; bien davantage qu'un drame policier classique, _Laura_ est une élégante tragédie de la jalousie. La quintessence du film noir.",
           "status": 2,
           "copies": [
             {
@@ -7346,8 +7321,9 @@
           "annee": 1953,
           "duree": 99,
           "generique": "William Holden, David Niven, Maggie McNamara",
-          "adaptation": "D'après la pièce _The Moon is blue_ de F. Hugh Herbert.",
-          "status": 0,
+          "adaptation": "D'après la pièce _The Moon Is Blue_ de F. Hugh Herbert.",
+          "miniTexte": "Un architecte propose à une actrice délurée un dîner, où s'invitent son ex-fiancée et le père de la jeune femme. Un vaudeville pétillant, déjà mis en scène avec succès par Preminger à Broadway. Fait rare, le film se voit refuser le visa du Code Hays – la meilleure publicité qui soit.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 11858,
@@ -7378,7 +7354,7 @@
         {
           "ordre": 1,
           "idFilm": 35819,
-          "titre": "Eventail de Lady Windermere",
+          "titre": "Éventail de Lady Windermere",
           "art": "L'",
           "titreVo": "Fan",
           "artVo": "The",
@@ -7387,7 +7363,8 @@
           "duree": 79,
           "generique": "Jeanne Crain, Madeleine Carroll, Richard Greene, George Sanders",
           "adaptation": "D'après la pièce _Lady Windermere's Fan_ d'Oscar Wilde.",
-          "status": 0,
+          "miniTexte": "Londres, après-guerre. Aidée par une ancienne relation, une vieille dame tente de récupérer son éventail mis aux enchères. D'après la comédie acerbe d'Oscar Wilde qui met en pièce l'institution du mariage, un drame mondain au casting royal, construit en flashbacks, dans lequel Preminger fait parler toute son élégance. Le remake de la version 1925 signée Lubitsch.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28467,
@@ -7425,8 +7402,9 @@
           "annee": 1942,
           "duree": 74,
           "generique": "Joan Bennett, Otto Preminger, Howard Freeman",
-          "adaptation": "D'après la pièce _Margin for error_ de Clare Boothe Luce.",
-          "status": 0,
+          "adaptation": "D'après la pièce _Margin for Error_ de Clare Boothe Luce.",
+          "miniTexte": "Manhattan, 1943. Un policier juif assure la protection du consul d'Allemagne, antisémite, bientôt assassiné. La réalisation, dévolue à Lubitsch, échoit à Preminger, déjà engagé au casting. Avec son accent autrichien, il est le parfait méchant, et Joan Bennett sa jolie épouse américaine. Sur une trame policière, une approche du nazisme et de ses répercussions.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28478,
@@ -7459,14 +7437,15 @@
         {
           "ordre": 1,
           "idFilm": 34844,
-          "titre": "Mark Dixon détective",
+          "titre": "Mark Dixon, détective",
           "titreVo": "Where the Sidewalk Ends",
           "realisateurs": "Otto Preminger",
           "annee": 1950,
           "duree": 95,
           "generique": "Dana Andrews, Gene Tierney, Gary Merrill",
           "adaptation": "D'après le roman _Night Cry_ de William L. Stuart.",
-          "status": 0,
+          "miniTexte": "Un flic brutal tue par accident un suspect lors d'un interrogatoire. Sur un scénario très freudien de Ben Hecht, Preminger sculpte les visages, joue sur les espaces réduits et triture les codes du genre, tandis que son personnage se débat avec ses démons intérieurs. Moins poétique que _Laura_, _Mark Dixon_ en est le pendant plus sec, et un excellent film noir.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28483,
@@ -7499,14 +7478,15 @@
         {
           "ordre": 1,
           "idFilm": 34844,
-          "titre": "Mark Dixon détective",
+          "titre": "Mark Dixon, détective",
           "titreVo": "Where the Sidewalk Ends",
           "realisateurs": "Otto Preminger",
           "annee": 1950,
           "duree": 95,
           "generique": "Dana Andrews, Gene Tierney, Gary Merrill",
           "adaptation": "D'après le roman _Night Cry_ de William L. Stuart.",
-          "status": 0,
+          "miniTexte": "Un flic brutal tue par accident un suspect lors d'un interrogatoire. Sur un scénario très freudien de Ben Hecht, Preminger sculpte les visages, joue sur les espaces réduits et triture les codes du genre, tandis que son personnage se débat avec ses démons intérieurs. Moins poétique que _Laura_, _Mark Dixon_ en est le pendant plus sec, et un excellent film noir.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28483,
@@ -7547,7 +7527,8 @@
           "duree": 97,
           "generique": "Gene Tierney, Richard Conte, José Ferrer, Charles Bickford",
           "adaptation": "D'après le roman _Methinks the Lady_ de Guy Endore.",
-          "status": 0,
+          "miniTexte": "Mariée à un psychiatre, une kleptomane se retrouve sous l'emprise d'un homme qui promet de la soigner. Un thriller hypnotisant, l'un des captivants portraits de femme dont Preminger a le secret. L'esquisse se double ici d'un drame intime, et Gene Tierney traverse le film avec une grâce unique.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28484,
@@ -7588,7 +7569,8 @@
           "duree": 97,
           "generique": "Gene Tierney, Richard Conte, José Ferrer, Charles Bickford",
           "adaptation": "D'après le roman _Methinks the Lady_ de Guy Endore.",
-          "status": 0,
+          "miniTexte": "Mariée à un psychiatre, une kleptomane se retrouve sous l'emprise d'un homme qui promet de la soigner. Un thriller hypnotisant, l'un des captivants portraits de femme dont Preminger a le secret. L'esquisse se double ici d'un drame intime, et Gene Tierney traverse le film avec une grâce unique.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28484,
@@ -7627,8 +7609,9 @@
           "annee": 1953,
           "duree": 99,
           "generique": "Hardy Krüger, Johannes Heesters, Johanna Matz",
-          "adaptation": "D'après la pièce _The Moon is blue_ de F. Hugh Herbert.",
-          "status": 0,
+          "adaptation": "D'après la pièce _The Moon Is Blue_ de F. Hugh Herbert.",
+          "miniTexte": "Version allemande, tournée en simultané de l'originale, mais avec une distribution germanophone, de _La Lune était bleue_.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28831,
@@ -7667,7 +7650,8 @@
           "duree": 165,
           "generique": "John Wayne, Kirk Douglas, Patricia Neal, Dana Andrews",
           "adaptation": "D'après le roman _In harm's way_ de James Bassett.",
-          "status": 0,
+          "miniTexte": "D'après un livre de James Bassett, une reconstitution minutieuse des épisodes de la guerre du Pacifique. Preminger passe du général, l'attaque de Pearl Harbor, au particulier avec la vie intime des protagonistes. Noir et blanc soigné, casting de choix : du grand spectacle à la gloire de la marine américaine.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28497,
@@ -7715,7 +7699,8 @@
           "duree": 102,
           "generique": "Jeanne Crain, Linda Darnell, Cornel Wilde",
           "adaptation": "D'après le roman _Centennial Summer_ d'Albert E. Idell.",
-          "status": 0,
+          "miniTexte": "Exposition universelle de Philadelphie, 1976. Deux sœurs se disputent le cœur d'un Français venu tenir le pavillon de son pays. Réalisateur attitré de la Fox, Preminger s'essaie à la comédie musicale pour répondre à l'immense succès remporté par la MGM avec _Le Chant du Missouri_ de Minnelli. Un concentré de bonne humeur en Technicolor.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 11747,
@@ -7756,8 +7741,8 @@
           "duree": 141,
           "generique": "Michael Caine, Jane Fonda, John Phillip Law",
           "adaptation": "D'après le roman _Hurry Sundown_ de K.B. Gilden.",
-          "synopsis": "Dans la campagne géorgienne, un homme d'affaires qui veut construire une conserverie de fruits tente de convaincre deux fermiers de vendre leurs terrains.",
-          "status": 0,
+          "miniTexte": "Géorgie, années 40. Deux fermiers unissent leurs forces contre un spéculateur sans scrupules. Sur fond de mélo, émaillé de spectaculaires scènes à la grue, un réquisitoire contre le racisme dans les États du Sud.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 8885,
@@ -7796,7 +7781,8 @@
           "annee": 1968,
           "duree": 98,
           "generique": "Jackie Gleason, Carol Channing, Frankie Avalon",
-          "status": 0,
+          "miniTexte": "Entre allusions politiques et burlesque, Preminger compose une partition sur la confrontation de deux mondes inconciliables, les hippies et la mafia. Une œuvre inattendue, foutraque et totalement extravagante, à voir pour le plaisir de retrouver à l'écran une partie de la vieille garde hollywoodienne.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28502,
@@ -7839,7 +7825,8 @@
           "duree": 126,
           "generique": "Peter O'Toole, Cliff Gorman, Richard Attenborough, Isabelle Huppert",
           "adaptation": "D'après le roman _Rosebud_ de Paul Bonnecarrère et Joan Hemingway.",
-          "status": 0,
+          "miniTexte": "Un journaliste anglais, agent de la CIA, recherche cinq jeunes filles enlevées à bord d'un yacht. Sur un scénario labyrinthique signé par son fils, avec une distribution cosmopolite, Preminger en fin de carrière se lance dans le thriller politique.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28622,
@@ -7879,7 +7866,8 @@
           "duree": 110,
           "generique": "Jean Seberg, Richard Widmark, John Gielgud",
           "adaptation": "D'après la pièce _Saint Joan_ de George Bernard Shaw.",
-          "status": 0,
+          "miniTexte": "Une transposition très littérale de la pièce de George Bernard Shaw, un film mal aimé de Preminger, où se confirme pourtant son génie dans l'appréhension de la psychologie féminine. Le premier rôle de Jean Seberg, qui succède à Renée Falconetti et Ingrid Bergman, et connaît un tournage douloureux.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28501,
@@ -7919,7 +7907,8 @@
           "duree": 110,
           "generique": "Jean Seberg, Richard Widmark, John Gielgud",
           "adaptation": "D'après la pièce _Saint Joan_ de George Bernard Shaw.",
-          "status": 0,
+          "miniTexte": "Une transposition très littérale de la pièce de George Bernard Shaw, un film mal aimé de Preminger, où se confirme pourtant son génie dans l'appréhension de la psychologie féminine. Le premier rôle de Jean Seberg, qui succède à Renée Falconetti et Ingrid Bergman, et connaît un tournage douloureux.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28501,
@@ -7959,7 +7948,8 @@
           "duree": 94,
           "generique": "Tallulah Bankhead, Charles Coburn, Anne Baxter, Vincent Price",
           "adaptation": "D'après la pièce _Czarina_ de Lajos Biro et Melchior Lengyel.",
-          "status": 0,
+          "miniTexte": "Dans la Russie du XVIII<sup>e</sup>, où les conspirations s'ourdissent entre deux portes, Catherine II s'éprend d'un jeune lieutenant idéaliste. Une relecture de _Paradis perdu_ (1924) de Lubitsch, qui, malade, se voit remplacé sur le tournage par Preminger, porté aux nues par la Fox après le succès de _Laura_.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28821,
@@ -7997,7 +7987,8 @@
           "annee": 1936,
           "duree": 62,
           "generique": "Lawrence Tibbett, Gregory Ratoff, Wendy Barrie",
-          "status": 0,
+          "miniTexte": "Un chanteur d'opéra en burn out se réfugie à Mexico. Son agent lui envoie une femme séduisante, chargé de le ramener à New York. Une comédie musicale romantique, le tout premier film à Hollywood de Preminger, qui, à la faveur d'une mise en scène efficace, séduit Zanuck et obtient son contrat à la Fox.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28510,
@@ -8030,7 +8021,7 @@
         {
           "ordre": 1,
           "idFilm": 34833,
-          "titre": "Treizième lettre",
+          "titre": "Treizième Lettre",
           "art": "La",
           "titreVo": "Thirteenth Letter",
           "artVo": "The",
@@ -8040,7 +8031,8 @@
           "generique": "Linda Darnell, Charles Boyer, Michael Rennie",
           "adaptation": "D'après le scénario du film _Le Corbeau_ de Henri-Georges Clouzot de Louis Chavance.",
           "synopsis": "Au retour d'un séminaire, le docteur Laurent reçoit une lettre anonyme prétendant que sa jeune femme Cora entretient une liaison avec son jeune confrère le docteur Pearson. Rapidement, il constate que Pearson, sa femme et d'autres personnes de la petite ville où il vit ont reçu la même lettre.",
-          "status": 0,
+          "miniTexte": "Avec une distribution internationale, un remake du _Corbeau_ de Clouzot : dans une petite ville du Québec surgissent des lettres anonymes trempées dans la calomnie. Délaissant le sous-texte anti-collaborationniste de l'original, Preminger préfère s'attaquer au caractère universellement misanthrope de l'être humain.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 12323,
@@ -8091,7 +8083,8 @@
           "duree": 140,
           "generique": "Henry Fonda, Charles Laughton, Don Murray, Burgess Meredith, Gene Tierney",
           "adaptation": "D'après le roman _Advise and Consent_ d'Allen Drury.",
-          "status": 0,
+          "miniTexte": "Malade, le Président des États-Unis souhaite confier la Défense à un homme qui assurerait la continuité de sa politique étrangère, mais cette nomination est soumise au vote du Sénat. Chantages, faux témoignages, ambitions et vies brisées : Preminger s'invite dans les coulisses des institutions américaines, mais ne se borne pas à leur simple description. Pointant les extrémismes en tout genre, c'est le système dans son entier, ses rouages pernicieux qu'il met en lumière. L'œil lucide, le cinéaste dissémine ça et là quelques touches de cynisme bien senties, et met sa technique au service de l'histoire : « Je crois que la meilleure mise en scène est celle qu'on ne voit pas, que la personnalité du metteur en scène doit consister à s'effacer de la mise en scène elle-même ». Devant la caméra, les plus grands du moment à Hollywood, aussi parfaits les uns que les autres, font de cette étude de mœurs politique une œuvre puissante. L'analyse brillantissime et implacable des arcanes du pouvoir.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28505,
@@ -8138,7 +8131,8 @@
           "duree": 140,
           "generique": "Henry Fonda, Charles Laughton, Don Murray, Burgess Meredith, Gene Tierney",
           "adaptation": "D'après le roman _Advise and Consent_ d'Allen Drury.",
-          "status": 0,
+          "miniTexte": "Malade, le Président des États-Unis souhaite confier la Défense à un homme qui assurerait la continuité de sa politique étrangère, mais cette nomination est soumise au vote du Sénat. Chantages, faux témoignages, ambitions et vies brisées : Preminger s'invite dans les coulisses des institutions américaines, mais ne se borne pas à leur simple description. Pointant les extrémismes en tout genre, c'est le système dans son entier, ses rouages pernicieux qu'il met en lumière. L'œil lucide, le cinéaste dissémine ça et là quelques touches de cynisme bien senties, et met sa technique au service de l'histoire : « Je crois que la meilleure mise en scène est celle qu'on ne voit pas, que la personnalité du metteur en scène doit consister à s'effacer de la mise en scène elle-même ». Devant la caméra, les plus grands du moment à Hollywood, aussi parfaits les uns que les autres, font de cette étude de mœurs politique une œuvre puissante. L'analyse brillantissime et implacable des arcanes du pouvoir.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28505,
@@ -8177,7 +8171,8 @@
           "annee": 1952,
           "duree": 90,
           "generique": "Robert Mitchum, Jean Simmons, Herbert Marshall",
-          "status": 0,
+          "miniTexte": "Avec son titre oxymorique, un grand classique du film noir, qui explore avec subtilité la psyché et les machinations d'une femme névrosée, tueuse en puissance. Jean Simmons, garce gracieuse, ensorcelante, et Robert Mitchum, bloc de granit faussement blasé, évoluent vers une histoire d'amour sans réel sentiment. L'énigme passe au second plan, et l'atmosphère se fait trouble tandis que défilent de longs travellings dans un ascétisme glacé. Un sujet à tiroirs, sombre, où résonne la misogynie hollywoodienne, dans le plus pur style premingerien.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28842,
@@ -8227,7 +8222,8 @@
           "annee": 1952,
           "duree": 90,
           "generique": "Robert Mitchum, Jean Simmons, Herbert Marshall",
-          "status": 0,
+          "miniTexte": "Avec son titre oxymorique, un grand classique du film noir, qui explore avec subtilité la psyché et les machinations d'une femme névrosée, tueuse en puissance. Jean Simmons, garce gracieuse, ensorcelante, et Robert Mitchum, bloc de granit faussement blasé, évoluent vers une histoire d'amour sans réel sentiment. L'énigme passe au second plan, et l'atmosphère se fait trouble tandis que défilent de longs travellings dans un ascétisme glacé. Un sujet à tiroirs, sombre, où résonne la misogynie hollywoodienne, dans le plus pur style premingerien.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28842,
@@ -8278,6 +8274,7 @@
           "duree": 91,
           "generique": "Marilyn Monroe, Robert Mitchum, Rory Calhoun",
           "synopsis": "À sa sortie de prison, Matt Calder retourne dans un camp de chercheurs d'or pour récupérer son fils Mark, qui a été recueilli par Kay, une chanteuse de saloon.",
+          "miniTexte": "À sa sortie de prison, Matt retourne dans un camp de chercheurs d'or, pour récupérer son fils qu'une chanteuse de saloon a pris sous son aile. D'un film de commande – son dernier contrat pour Zanuck et la Fox –, Preminger fait un chef-d'œuvre. Une ballade lyrique, un western contemplatif qui entrelace, sur fond de conquête de l'Ouest, le thème du temps qui s'écoule, le couple, le rapport à l'enfant, qui suit les errances d'individus perdus dans la naissance d'une nation. C'est le premier film en CinémaScope de Preminger, tourné dans les Rocheuses majestueuses, où la beauté sourd de chaque plan grâce au talent du chef op' Joseph LaShelle. Réalisation fluide, sans ostentation : le cinéaste amorce un tournant stylistique, s'attarde dans les plans, évite le champ-contrechamp. C'est aussi la rencontre au sommet de deux monstres sacrés, le roc Mitchum, et Marilyn, à la présence charnelle et dont les chansons qui parsèment le film entretiennent encore un peu plus le mythe. Un moment suspendu, sublime.",
           "commentaire": "Lié par contrat à la Fox, Otto Preminger accepte cette dernière commande dont il apprécie la distribution et les conditions de tournage en extérieurs, au Canada. Unique western de Preminger et de Marilyn Monroe, _Rivière sans retour_ est l'un des premiers films en CinemaScope, procédé apparu en 1953. Alliant un négatif Eastmancolor (au cadre anamorphique au tournage) et un tirage de copies par imbibition en Technicolor, le chef opérateur Joseph LaShelle utilise avec brio les deux techniques. LaShelle joue sur une grande profondeur de champ, que l'ancien système en Technicolor trichrome ne permettait pas, magnifiant les paysages naturels, et les scènes de nuit bénéficient d'un rendu exceptionnel. Les travellings et de longs mouvements à la grue firent dire à François Truffaut qu'il s'agit du premier « CinemaScope mouvant ». Truffaut ajoutait : « _Rivière sans retour_ n'a que le plaisir des yeux pour objet et la beauté de chaque plan pour justification du plaisir. »\n\nEmmanuelle Berthault",
           "status": 2,
           "copies": [
@@ -9439,6 +9436,7 @@
       "typeEvenement": 13,
       "dateHeure": "2025-01-15T20:00:00",
       "idSalle": "HL",
+      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -9461,7 +9459,8 @@
           ],
           "idFilmBoxoffice": 34266
         }
-      ]
+      ],
+      "mention": "Ouverture de la rétrospective"
     },
     {
       "idSeance": 185080,
@@ -10587,6 +10586,7 @@
       "typeEvenement": 13,
       "dateHeure": "2025-02-19T20:00:00",
       "idSalle": "HL",
+      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -10609,7 +10609,8 @@
           ],
           "idFilmBoxoffice": 1096
         }
-      ]
+      ],
+      "mention": "Ouverture de la rétrospective"
     },
     {
       "idSeance": 139232,
@@ -15485,9 +15486,9 @@
       "idCycleCategories": [
         {
           "idCycle": 14,
-          "idCategorie": 3384,
+          "idCategorie": 3646,
           "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Décadence de la comédie à l'italienne"
         }
       ],
       "idEvenement": 31721,
@@ -15524,9 +15525,9 @@
       "idCycleCategories": [
         {
           "idCycle": 14,
-          "idCategorie": 3384,
+          "idCategorie": 3646,
           "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Décadence de la comédie à l'italienne"
         }
       ],
       "idEvenement": 31722,
@@ -15564,9 +15565,9 @@
       "idCycleCategories": [
         {
           "idCycle": 14,
-          "idCategorie": 3384,
+          "idCategorie": 3647,
           "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "USA Eighties"
         }
       ],
       "idEvenement": 31723,
@@ -15603,9 +15604,9 @@
       "idCycleCategories": [
         {
           "idCycle": 14,
-          "idCategorie": 3384,
+          "idCategorie": 3647,
           "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "USA Eighties"
         }
       ],
       "idEvenement": 31726,
@@ -15987,9 +15988,9 @@
           "annee": 1955,
           "duree": 119,
           "generique": "Frank Sinatra, Kim Novak, Eleanor Parker, Arnold Stang",
-          "adaptation": "D'après le roman _The Man with the golden arm_ de Nelson Algren.",
-          "synopsis": "Après un séjour dans un centre de désintoxication, Frankie Machine revient dans son quartier et essaie de devenir batteur de jazz.",
-          "status": 0,
+          "adaptation": "D'après le roman _The Man with the Golden Arm_ de Nelson Algren.",
+          "miniTexte": "Après une cure de désintoxication, Frankie Machine retrouve son quartier et tente de devenir batteur de jazz. Coup de tonnerre à Hollywood : bravant le Code Hays, _L'Homme au bras d'or_ est le premier film à évoquer l'enfer de la drogue, avec un réalisme violent. Preminger rue dans les brancards contre la censure, démissionne de l'Association des Producteurs, et revendique son indépendance. La partition jazz d'Elmer Bernstein est sublime, Frank Sinatra, au jeu instinctif, est à son sommet, bouleversant. Une liberté de ton, un témoignage précis comme un documentaire, traversé de poésie sourde, et toujours, chez Preminger, la volonté de traiter des sujets sensibles, sans jugement aucun. Un voyage au bout de la nuit cruel qui hante longtemps le spectateur, le film le plus engagé du cinéaste, si ce n'est son plus beau.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 6941,
@@ -16131,6 +16132,91 @@
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185106,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 805,
+          "idCategorie": 3447,
+          "titreCycle": "Le cinéma d'horreur, 25 autres indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31760,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-23T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 102296,
+          "titre": "Hostel, chapitre II",
+          "titreVo": "Hostel : Part II",
+          "realisateurs": "Eli Roth",
+          "annee": 2007,
+          "duree": 94,
+          "generique": "Lauren German, Roger Bart, Heather Matarazzo",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 17975,
+              "duree": 94,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 114997
+        }
+      ]
+    },
+    {
+      "idSeance": 185107,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31761,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-01T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36928,
+          "titre": "Stalag 17",
+          "realisateurs": "Billy Wilder",
+          "annee": 1952,
+          "duree": 120,
+          "generique": "William Holden, Otto Preminger, Don Taylor",
+          "adaptation": "D'après la pièce _Stalag 17_ de Donald Bevan et Edmund Trzcinski.",
+          "synopsis": "Durant la Seconde Guerre mondiale, dans un camp de prisonniers américains en Allemagne, Sefton, qui commerce avec l'ennemi, est soupçonné d'être un traître et décide d'un plan pour se disculper.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 16495,
+              "duree": 120,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 16420,
+              "duree": 120,
+              "format": "DCP",
+              "version": "VO"
             }
           ]
         }
