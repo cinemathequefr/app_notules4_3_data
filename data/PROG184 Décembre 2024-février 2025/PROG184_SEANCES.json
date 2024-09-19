@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-19T07:44:35.200Z",
+  "updatedAt": "2024-09-19T09:06:33.674Z",
   "data": [
     {
       "idSeance": 137061,
@@ -4827,6 +4827,14 @@
               "sousTitres": "STF"
             },
             {
+              "idCopie": 28853,
+              "duree": 118,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            },
+            {
               "idCopie": 28783,
               "duree": 118,
               "format": "35 mm",
@@ -4838,10 +4846,6 @@
               "duree": 118,
               "version": "VO",
               "langCopie": "ENG"
-            },
-            {
-              "idCopie": 28853,
-              "duree": 118
             }
           ],
           "idFilmBoxoffice": 20974
@@ -4940,7 +4944,7 @@
           "duree": 6,
           "generique": "Clive Owen, Tomas Milian, Franklin Dennis Jones",
           "miniTexte": "L'un des multiples courts métrages d'une série diffusée exclusivement sur Internet, qui mettent chacun en scène Clive Owen au volant d'une BMW, pour assurer indirectement la promotion de la marque.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28844,
@@ -5118,12 +5122,6 @@
               "duree": 119,
               "format": "35 mm",
               "langCopie": "ENG"
-            },
-            {
-              "idCopie": 28788,
-              "duree": 119,
-              "format": "35 mm",
-              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 43590
@@ -5159,19 +5157,19 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28748,
-              "duree": 102,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
               "idCopie": 28826,
               "duree": 102,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28748,
+              "duree": 102,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 20971
@@ -5572,6 +5570,13 @@
               "sousTitres": "STF"
             },
             {
+              "idCopie": 28854,
+              "duree": 98,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            },
+            {
               "idCopie": 28827,
               "duree": 98,
               "format": "16 mm",
@@ -5775,6 +5780,12 @@
               "duree": 111,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG"
+            },
+            {
+              "idCopie": 28855,
+              "duree": 111,
+              "format": "35 mm",
               "langCopie": "ENG"
             }
           ],
