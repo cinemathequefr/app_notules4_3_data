@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-20T09:58:52.800Z",
+  "updatedAt": "2024-09-20T10:58:31.051Z",
   "data": [
     {
       "idSeance": 137061,
@@ -24,6 +24,7 @@
           "realisateurs": "Georges Méliès",
           "annee": 1898,
           "duree": 2,
+          "ageMinimal": 3,
           "status": 2,
           "copies": [
             {
@@ -41,6 +42,7 @@
           "annee": 1901,
           "duree": 2,
           "generique": "André Deed",
+          "ageMinimal": 3,
           "status": 2,
           "copies": [
             {
@@ -59,6 +61,7 @@
           "realisateurs": "Georges Méliès",
           "annee": 1898,
           "duree": 3,
+          "ageMinimal": 3,
           "status": 2,
           "copies": [
             {
@@ -76,6 +79,7 @@
           "realisateurs": "Georges Méliès",
           "annee": 1901,
           "duree": 2,
+          "ageMinimal": 3,
           "status": 2,
           "copies": [
             {
@@ -91,6 +95,7 @@
           "titre": "Chez la sorcière",
           "realisateurs": "Georges Méliès",
           "annee": 1901,
+          "ageMinimal": 3,
           "status": 2,
           "copies": [
             {
@@ -106,6 +111,7 @@
           "realisateurs": "Georges Méliès",
           "annee": 1908,
           "duree": 4,
+          "ageMinimal": 3,
           "status": 2,
           "copies": [
             {
@@ -122,6 +128,7 @@
           "realisateurs": "Georges Méliès",
           "annee": 1904,
           "duree": 22,
+          "ageMinimal": 3,
           "synopsis": "Une expédition de scientifiques part en excursion vers le Soleil grâce à un train révolutionnaire.",
           "status": 2,
           "copies": [
@@ -140,6 +147,7 @@
           "realisateurs": "Georges Méliès",
           "annee": 1898,
           "duree": 1,
+          "ageMinimal": 3,
           "status": 2,
           "copies": [
             {
@@ -176,6 +184,7 @@
           "realisateurs": "Georges Méliès",
           "annee": 1898,
           "duree": 2,
+          "ageMinimal": 3,
           "status": 2,
           "copies": [
             {
@@ -193,6 +202,7 @@
           "annee": 1901,
           "duree": 2,
           "generique": "André Deed",
+          "ageMinimal": 3,
           "status": 2,
           "copies": [
             {
@@ -211,6 +221,7 @@
           "realisateurs": "Georges Méliès",
           "annee": 1898,
           "duree": 3,
+          "ageMinimal": 3,
           "status": 2,
           "copies": [
             {
@@ -228,6 +239,7 @@
           "realisateurs": "Georges Méliès",
           "annee": 1901,
           "duree": 2,
+          "ageMinimal": 3,
           "status": 2,
           "copies": [
             {
@@ -243,6 +255,7 @@
           "titre": "Chez la sorcière",
           "realisateurs": "Georges Méliès",
           "annee": 1901,
+          "ageMinimal": 3,
           "status": 2,
           "copies": [
             {
@@ -258,6 +271,7 @@
           "realisateurs": "Georges Méliès",
           "annee": 1908,
           "duree": 4,
+          "ageMinimal": 3,
           "status": 2,
           "copies": [
             {
@@ -274,6 +288,7 @@
           "realisateurs": "Georges Méliès",
           "annee": 1904,
           "duree": 22,
+          "ageMinimal": 3,
           "synopsis": "Une expédition de scientifiques part en excursion vers le Soleil grâce à un train révolutionnaire.",
           "status": 2,
           "copies": [
@@ -292,6 +307,7 @@
           "realisateurs": "Georges Méliès",
           "annee": 1898,
           "duree": 1,
+          "ageMinimal": 3,
           "status": 2,
           "copies": [
             {
@@ -4586,7 +4602,7 @@
       ]
     },
     {
-      "idSeance": 138702,
+      "idSeance": 185120,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -4598,8 +4614,8 @@
       ],
       "idEvenement": 31310,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-03T18:30:00",
-      "idSalle": "JE",
+      "dateHeure": "2025-02-12T18:30:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -11872,6 +11888,7 @@
           "generique": "Asa Butterfield, Chloë Grace Moretz, Ben Kingsley",
           "adaptation": "D'après le roman _L'Invention de Hugo Cabret_ de Brian Selznick.",
           "ageMinimal": 8,
+          "synopsisJP": "Dans le Paris des années 30, la rencontre entre le jeune orphelin Hugo, qui vit à la gare Montparnasse, et un vieil homme vendeur de jouets, qui n'est autre que Georges Méliès. Effets spéciaux, magie des trucages, une merveille d'inventivité pour un vibrant hommage au pionnier du cinéma.",
           "status": 2,
           "copies": [
             {
@@ -11945,7 +11962,9 @@
           "annee": 1950,
           "duree": 74,
           "adaptation": "D'après le conte _Cendrillon_ de Charles Perrault.",
-          "status": 1,
+          "ageMinimal": 4,
+          "synopsisJP": "Tyrannisée par sa belle-mère et ses demi-sœurs, Cendrillon se rend au bal princier, aidée par ses amis Gus et Jaq, les facétieuses souris, et par sa marraine la fée. Le grand classique de Disney adapté du conte de Perrault, dans une atmosphère magique.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28681,
@@ -11981,7 +12000,9 @@
           "annee": 1950,
           "duree": 74,
           "adaptation": "D'après le conte _Cendrillon_ de Charles Perrault.",
-          "status": 1,
+          "ageMinimal": 4,
+          "synopsisJP": "Tyrannisée par sa belle-mère et ses demi-sœurs, Cendrillon se rend au bal princier, aidée par ses amis Gus et Jaq, les facétieuses souris, et par sa marraine la fée. Le grand classique de Disney adapté du conte de Perrault, dans une atmosphère magique.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28681,
@@ -12016,9 +12037,10 @@
           "annee": 2015,
           "duree": 80,
           "generique": "Christa Théret, Feodor Atkine, Thomas Sagols",
-          "ageMinimal": 7,
+          "ageMinimal": 8,
           "synopsis": "1882, Saint-Pétersbourg. Sacha, jeune fille de l'aristocratie russe, a toujours été fascinée par la vie d'aventure de son grand-père, Oloukine, explorateur renommé, jamais revenu de sa dernière expédition.\n\n---\n\nSacha vit confortablement dans un grand palais de Saint-Pétersbourg. Son héros de grand-père n'est jamais revenu d'une expédition vers le grand nord. Elle décide de reprendre ses cartes et de partir sur ses traces. La voilà projetée dans une incroyable aventure, au milieu des rudes marins des mers du nord. Un surprenant travail d'aplats de couleurs et un personnage, Sacha, porté par l'amour et l'admiration de son grand-père, au point de faire preuve d'une incroyable persévérance.",
-          "status": 0,
+          "synopsisJP": "Le voyage initiatique d'une jeune aristocrate russe, lancée sur les traces de son grand-père, disparu au pôle Nord à la fin du XX<sup>e</sup> siècle. Avec son graphisme épuré, aux grands aplats de couleurs, le premier long métrage de Rémi Chayé a l'intensité des récits de Jules Verne. Prix du Jury au Festival d'Annecy en 2015.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 10641,
@@ -12096,7 +12118,10 @@
           "realisateurs": "Steven Spielberg",
           "annee": 1988,
           "duree": 127,
-          "status": 0,
+          "generique": "Harrison Ford, Sean Connery, Alison Doody, River Phoenix",
+          "ageMinimal": 10,
+          "synopsisJP": "Indy revient, cette fois escorté par son savant de père. Leur quête ? Le Saint-Graal. Mais une femme cupide et une armée de nazis se mettent en travers de leur route. Dans des décors somptueux, un troisième épisode au souffle épique, aux effets spéciaux spectaculaires.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28692,
@@ -12136,7 +12161,7 @@
           "generique": "Harrison Ford, Kate Capshaw, Jonathan Ke Quan",
           "ageMinimal": 10,
           "synopsis": "Indiana Jones est sur les traces d'une pierre sacrée dotée de pouvoirs magiques. Willie, chanteuse de cabaret, et Demi-Lune, son jeune acolyte, l'aideront à affronter la terrible secte des Thugs.",
-          "synopsisJP": "Humour, action et suspense, BO emblématique : le deuxième volet des aventures d'Indiana Jones, l'archéologue au fouet et au chapeau.",
+          "synopsisJP": "Le deuxième volet de la saga, plus sombre que le précédent : accompagné par une chanteuse et par l'espiègle Demi-Lune, Indiana Jones recherche une pierre sacrée. De la Chine jusqu'à l'Inde, ils devront braver de nombreux dangers, dont la secte des Thugs. Un grand classique d'aventures.",
           "status": 2,
           "copies": [
             {
@@ -12179,7 +12204,7 @@
           "generique": "Harrison Ford, Karen Allen, Paul Freeman",
           "ageMinimal": 10,
           "synopsis": "En 1936, l'archéologue Indiana Jones part à la recherche de l'Arche d'alliance, qui abrite les Tables de la Loi convoitées par Hitler et les nazis.",
-          "synopsisJP": "Le premier volet des aventures d'Indiana Jones : poursuivi par les nazis, l'archéologue au fouet et au chapeau se lance dans une course effrénée de la jungle au désert égyptien, sur les traces de l'Arche d'alliance. Humour, action et suspense, BO emblématique : du très grand Spielberg.",
+          "synopsisJP": "Le premier opus des aventures d'Indiana Jones : poursuivi par les nazis, l'archéologue au fouet et au chapeau se lance dans une course effrénée de la jungle au désert égyptien, sur les traces de l'Arche d'alliance. Humour, action et suspense, BO emblématique : du très grand Spielberg.",
           "commentaire": "Printemps 1977 : George Lucas se réfugie à Hawaii en compagnie de Steven Spielberg pour échapper au tumulte médiatique, comme il le fait à la sortie de chacun de ses films. Les premiers chiffres le rassurent, _La Guerre des étoiles_ sera un triomphe. Soulagé et plus enclin à envisager de futurs projets, il fait part sur la plage à son comparse d'une idée développée quelques années plus tôt avec Philip Kaufman : un film d'aventures, « à l'ancienne », sur le modèle des serials des années 20. Indiana Jones serait donc né autour d'un château de sable... Produit par Lucas, réalisé par Spielberg sur la base d'un scénario de Lawrence Kasdan, _Les Aventuriers de l'Arche perdue_ est la déclaration d'amour de deux cinéastes à un modèle d'_entertainment_, celui avec lequel ils ont grandi, des aventures de Picsou de Carl Barks au _Gunga Din_ de George Stevens. Loin de la noirceur des personnages de la précédente décennie, l'homme au fouet et au chapeau revitalise une certaine idée du « cool », héritée des héros nonchalants et détachés des westerns. Et Lucas redonne vie à une forme primitive de récit, conçu en épisodes, tout en voyages et rebondissements, où l'on fait mine de trembler devant les dangers bravés par le héros comme on le faisait, au début du siècle, devant les exploits de Pearl White. Premier opus d'une trilogie – les inconditionnels tirent parfois un voile pudique sur le quatrième volet –, _Les Aventuriers de l'Arche perdue_ a intégré en 1999 la Library of Congress. Car oui, « sa place est dans un musée ».\n\nOlivier Gonord",
           "status": 2,
           "copies": [
@@ -12261,7 +12286,8 @@
           "duree": 85,
           "ageMinimal": 6,
           "synopsis": "Le Kid, un jeune orphelin, part à la recherche du trésor de Black Mór, un célèbre pirate. Pour cela, il lui faudra trouver une île mystérieuse, située aux confins de l'océan.",
-          "status": 0,
+          "synopsisJP": "La mer, les bateaux, le voyage et l'aventure : un jeune orphelin cherche une île mystérieuse, où se trouverait le trésor du célèbre pirate Black Mór. Un bijou d'animation française, dans lequel Laguionie renoue avec son imaginaire d'enfant, entre rêveries et quête de soi.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 10256,
@@ -12299,7 +12325,8 @@
           "duree": 84,
           "ageMinimal": 6,
           "synopsis": "Alors que la ville s'endort doucement, une fille, un garçon et un vieux projectionniste s'agitent dans un cinéma à l'abandon. Ils profitent de l'obscurité de la nuit pour inventer une multitude de contes inspirés du monde entier qu'ils interprètent en ombres chinoises sur l'écran de cinéma. Six contes de Michel Ocelot",
-          "status": 0,
+          "synopsisJP": "Loup-garou, monstres géants, tam-tam magique : deux enfants et un vieux projectionniste s'inventent une multitude de contes inspirés du monde entier, qu'ils interprètent en ombres chinoises sur l'écran d'un vieux cinéma abandonné. Une merveille de poésie par un maître de l'animation française.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 10905,
@@ -12337,7 +12364,7 @@
           "titreNx": "おおかみこどもの雨と雪",
           "realisateurs": "Mamoru Hosoda",
           "annee": 2011,
-          "ageMinimal": 9,
+          "ageMinimal": 10,
           "synopsis": "Le père de Yuki et Ame était un homme-loup. À sa mort, leur mère doit élever seule et à l'abri des regards ses deux enfants, mi humains, mi louveteaux. La famille s'installe à la campagne où Yuki et Ame grandissent en liberté et apprennent à mieux connaître la nature, les saisons, la neige et les tempêtes.",
           "synopsisJP": "Dans un village proche d'une forêt, une mère élève seule ses deux enfants, dont le père est un homme-loup. Hosuda réalise une chronique familiale qui parle d'amour, d'éducation, de métissage et de respect de la nature. Délicat et bouleversant, un beau film d'animation adapté par la suite en manga.",
           "status": 2,
@@ -12373,6 +12400,7 @@
           "adaptation": "D'après le roman _Mary Poppins_ de Pamela L. Travers.",
           "ageMinimal": 4,
           "synopsis": "La vie de deux enfants un peu trop sages est bousculée par l'arrivée d'une nouvelle gouvernante farfelue, Mary Poppins.",
+          "synopsisJP": "Londres, début du XX<sup>e</sup> siècle : Mary Poppins, épatante Julie Andrews, est la nouvelle gouvernante de deux jeunes enfants. Un sac magique, de l'humour et de l'émotion : une comédie musicale féerique, entrecoupée de scènes d'animation, et signée Walt Disney.",
           "status": 2,
           "copies": [
             {
@@ -12406,14 +12434,16 @@
         {
           "ordre": 1,
           "idFilm": 30466,
-          "titre": "Petit dinosaure et la vallée des merveilles",
+          "titre": "Petit Dinosaure et la vallée des merveilles",
           "art": "Le",
           "titreVo": "Land Before Time",
           "artVo": "The",
           "realisateurs": "Don Bluth",
           "annee": 1988,
           "duree": 69,
-          "status": 0,
+          "ageMinimal": 6,
+          "synopsisJP": "L'amitié, l'entraide et la générosité, au cœur d'une histoire merveilleuse dont le héros, un jeune dinosaure, tente d'échapper avec ses amis au cruel tyrannosaure Dents Tranchantes. Produit par Spielberg et George Lucas, le premier jalon d'une série de films et de dessins animés télévisés devenus cultes.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28724,
@@ -12453,7 +12483,8 @@
           "generique": "Buster Keaton, Ernest Torrence, Marion Byron",
           "ageMinimal": 6,
           "synopsis": "Sur le Mississippi, deux vieux mariniers se disputent : d'un côté, Bill et son vieux rafiot, de l'autre, King et son rutilant steamer. Quand Junior, le fils de Bill, revient au pays, il tombe immédiatement de Kitty, la fille de King.",
-          "synopsisJP": "Sur le Mississippi, deux vieux marins se disputent : d'un côté, Bill et son vieux rafiot, de l'autre King et son rutilant steamer. Cette querelle s'arrêtera-t-elle avec le retour au pays de Junior, le fils de Bill, qui tombe immédiatement amoureux de Kitty, la fille de King ? Buster Keaton, le jeune fils, se livre à une succession de cascades impressionnantes, sur les bateaux, sous l'eau et sur la terre ferme, jusqu'à la très spectaculaire séquence du cyclone.",
+          "synopsisJP": "Le génial Buster Keaton dans le rôle d'un marinier confronté à un cyclone et aux machines récalcitrantes, à bord d'un bateau vapeur sur le Mississippi. De la poésie et de la folie, et une des plus célèbres scènes du burlesque, qui voit Buster recevoir la façade d'une maison sur la tête.",
+          "miniTexte": "Le génial Buster Keaton dans le rôle d'un marinier confronté à un cyclone et aux machines récalcitrantes, à bord d'un bateau vapeur sur le Mississippi. De la poésie et de la folie, et une des plus célèbres scènes du burlesque, qui voit Buster recevoir la façade d'une maison sur la tête.",
           "commentaire": "_Steamboat Bill, Jr._ est le dernier grand feu d'artifice du génial Buster Keaton, réalisé librement avant la « plus grande erreur de [sa] vie », selon ses dires : son entrée à la MGM, où il perdra toute indépendance et qui provoquera sa chute – divorce, alcoolisme, ruine, films produits à la va-vite... Ici, l'idiome burlesque keatonien triomphe : il est aux prises avec les éléments (un cyclone sur le Mississippi), la machine (des bateaux ivres), les barrières sociales, la conquête obstinée de l'amour. Les rapports (autobiographiques) sont tendus entre le père et son freluquet de fils. Le film joue beaucoup sur les apparences physiques : jamais Keaton n'a semblé aussi frêle et minuscule (et pourtant tellement solide !). Le regard magnifique de son visage émacié, rimbaldien, semble diffuser ses dernières ondes. La scène la plus incroyable, célébrissime, est celle où il reçoit la façade d'une maison sur la tête – il en réchappe par l'ouverture d'une fenêtre. Toujours flegmatique, Keaton frôle la mort en traversant debout cette structure de deux tonnes qui passe à 8 cm de lui. Le corps de Keaton, mystérieusement incassable semble-t-il, est constamment mis à l'épreuve dans l'eau, sous la pluie, entre deux bateaux, dans la boue, le vent. Il lutte contre d'énormes bourrasques (des moteurs d'avion ont été installés), homme aux semelles de vent arc-bouté, marchant quasiment à l'horizontale, essayant de remonter l'air comme un saumon dans la rivière ! Tout le film n'est que folie, grâce et poésie.\n\nLaurent Mannoni",
           "status": 2,
           "copies": [
@@ -12493,7 +12524,8 @@
           "annee": 1963,
           "duree": 104,
           "generique": "Honor Blackman, Todd Armstrong, Gary Raymond, Niall MacGinnis, Nancy Kovack",
-          "synopsis": "Jason, accompagné des fidèles Argonautes, part en quête de la Toison d'or. Ensemble, les aventuriers vont devoir affronter de nombreux monstres mythologiques.",
+          "ageMinimal": 10,
+          "synopsisJP": "En quête de la Toison d'or, Jason, aidé par les fidèles Argonautes, affronte les dieux, les éléments, et une foule de monstres mythologiques. Célèbre pour ses effets spéciaux et ses créatures légendaires créées par Ray Harryhausen, le père de l'animation en volume, une référence du film d'aventures fantastiques.",
           "status": 2,
           "copies": [
             {
@@ -12566,7 +12598,9 @@
           "titre": "Une guitare à la mer",
           "realisateurs": "Sophie Roze",
           "annee": 2024,
-          "status": 0,
+          "ageMinimal": 4,
+          "synopsisJP": "Un programme de trois courts métrages, qui réunit une fouine avide de liberté, un garçonnet aventureux et une famille de rongeurs. Ou trois fables pleines de tendresse sur le bonheur d'être ensemble.",
+          "status": 2,
           "copies": [],
           "idFilmBoxoffice": 1000004599
         }
@@ -14201,8 +14235,10 @@
           "annee": 1930,
           "duree": 19,
           "generique": "Stan Laurel, Oliver Hardy, Fay Holderness",
+          "ageMinimal": 3,
           "synopsis": "À la demande de son épouse acariâtre, Oliver tente en vain, avec l'aide de Stan, d'installer une antenne de radio sur le toit de la maison.",
-          "status": 1,
+          "synopsisJP": "Menacé par sa femme, Hardy, aidé par Laurel, doit installer une antenne radio sur le toit de leur maison. Chutes et péripéties en tous genres, pour un classique du burlesque porté par l'incontournable duo comique",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28725,
@@ -14220,7 +14256,9 @@
           "realisateurs": "Lloyd French",
           "annee": 1933,
           "duree": 19,
-          "status": 1,
+          "generique": "Stan Laurel, Oliver Hardy",
+          "ageMinimal": 3,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28726,
@@ -14242,7 +14280,8 @@
           "generique": "Stan Laurel, Oliver Hardy",
           "ageMinimal": 3,
           "synopsis": "En l'absence de leurs épouses, Laurel et Hardy vont devoir garder leur deux terribles garnements, qui leur ressemblent étrangement et sont aussi doués que les adultes pour provoquer des catastrophes.",
-          "status": 1,
+          "synopsisJP": "Des catastrophes et des gags en cascade : Laurel et Hardy se retrouvent aux prises avec leurs enfants, véritables clones miniatures, turbulents et facétieux. Grâce à des trucages astucieux, dans des décors géants, le duo comique interprète à la fois les pères et leur progéniture.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28727,
@@ -15048,41 +15087,6 @@
       ]
     },
     {
-      "idSeance": 139076,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 140,
-          "idCategorie": 3635,
-          "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "João Paulo Miranda Maria"
-        }
-      ],
-      "idEvenement": 31707,
-      "typeEvenement": 13,
-      "dateHeure": "2025-02-17T19:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 154994,
-          "titre": "Paysage après la bataille",
-          "realisateurs": "João Paulo Miranda Maria",
-          "annee": 2024,
-          "duree": 25,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28774,
-              "duree": 25,
-              "format": "DCP"
-            }
-          ]
-        }
-      ],
-      "mention": "Séance suivie d'une discussion avec João Paulo Miranda Maria"
-    },
-    {
       "idSeance": 185119,
       "idProg": 184,
       "idCycleCategories": [
@@ -15121,42 +15125,6 @@
         }
       ],
       "mention": "Avant-première. Séance suivie d'une discussion avec Ariane Labed"
-    },
-    {
-      "idSeance": 137216,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 140,
-          "idCategorie": 3633,
-          "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "Vincent Weber"
-        }
-      ],
-      "idEvenement": 31710,
-      "typeEvenement": 13,
-      "dateHeure": "2024-12-09T19:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 154916,
-          "titre": "Un jour j'aurai une île",
-          "realisateurs": "Vincent Weber",
-          "annee": 2024,
-          "duree": 45,
-          "generique": "Nouha A., Kamel Adel",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28374,
-              "duree": 45,
-              "format": "DCP"
-            }
-          ]
-        }
-      ],
-      "mention": "Séance présentée par Vincent Weber"
     },
     {
       "idSeance": 138890,
@@ -16252,6 +16220,122 @@
         }
       ],
       "mention": "Séance suivie d'une discussion avec Jules Follet"
+    },
+    {
+      "idSeance": 137216,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3633,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Vincent Weber"
+        }
+      ],
+      "idEvenement": 31767,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-09T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154916,
+          "titre": "Un jour j'aurai une île",
+          "realisateurs": "Vincent Weber",
+          "annee": 2024,
+          "duree": 45,
+          "generique": "Nouha A., Kamel Adel",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28374,
+              "duree": 45,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 41617,
+          "titre": "Naked",
+          "realisateurs": "Mike Leigh",
+          "annee": 1993,
+          "duree": 126,
+          "generique": "David Thewlis, Greg Crutwell, Lesley Sharp, Katrin Cartlidge",
+          "synopsis": "Johnny doit fuir Manchester après avoir violé une femme. Il se réfugie dans l'Est de Londres, chez son ancienne petite-amie, et entame une longue errance dans les rues de la ville, pleine de sombres rencontres.",
+          "commentaire": "Après un premier film, _Bleak Moments_, en 1971, Mike Leigh passe une quinzaine d'années à réaliser des séries et des téléfilms avant de revenir au cinéma avec _High Hopes_ (1988) et _Life is Sweet_ (1990), comédies dramatiques réalistes qui se concentrent sur une cellule familiale. _Naked_, comédie grinçante, violente, à l'esthétique réaliste trompeuse, opère un tournant sombre. Le tournage a pour cadre des lieux existants, mais Leigh et son équipe grisent les murs, éliminent les couleurs vives, et au moment du développement de la pellicule évitent le bain de blanchiment afin de donner plus de densité aux noirs. L'atmosphère blafarde qui en résulte fait basculer le film du côté de la métaphore. _Naked_ plonge le spectateur dans une vision cauchemardesque d'une Angleterre exsangue après la décennie thatchérienne, une époque où les rapports humains ne sont plus que brutalité. Loin des nobles personnages de la classe ouvrière de Ken Loach, Johnny, interprété par David Thewlis (récompensé à Cannes en 1993, tout comme Mike Leigh pour son scénario), est un Ulysse, affreux, sale et méchant, qui erre dans Londres. Son pendant, le glaçant Jeremy, à l'autre bout du spectre social, va encore plus loin dans l'abjection, sous le vernis du yuppie. Entre les deux, une série de personnages, des femmes victimes, souvent, mais résilientes et solidaires, et un gardien de nuit. Improvisé en partie, tourné sans autorisation dans les rues de la capitale anglaise, _Naked_ est aussi un film du langage, des accents, chargé d'une parole envahissante contre la frustration d'un monde toujours indifférent et froid.\n\nWafa Ghermani",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 17984,
+              "duree": 126,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Vincent Weber"
+    },
+    {
+      "idSeance": 139076,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3635,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "João Paulo Miranda Maria"
+        }
+      ],
+      "idEvenement": 31768,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-17T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154994,
+          "titre": "Paysage après la bataille",
+          "realisateurs": "João Paulo Miranda Maria",
+          "annee": 2024,
+          "duree": 25,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28774,
+              "duree": 25,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 44298,
+          "titre": "Limite",
+          "realisateurs": "Mário Peixoto",
+          "annee": 1931,
+          "dureeStd": 117,
+          "duree": 117,
+          "generique": "Olga Breno, Taciana Rei, Raul Schnoor",
+          "synopsis": "Un homme et deux femmes dérivent sur un canot. Épuisés, ils ont cessé de ramer, s'abandonnant à leur destin. L'une des femmes raconte son histoire : elle s'est enfuie de prison avec l'aide d'un gardien, sans pour autant trouver l'apaisement.",
+          "commentaire": "Dans les années 1920, Mário Peixoto est fortement influencé par la culture européenne, notamment par le cinéma russe, allemand et la production française d'avant-garde. Mais c'est une photographie d'André Kertész, publiée à la une du magazine _Vu_, qui lui inspire la trame de _Limite_ : le visage d'une femme étreinte par les mains menottées d'un homme. Il élabore le scénario d'une pensée en images et tente d'entremêler divers champs visuels à travers des thèmes et des symboles, façonnant ainsi une structure de récit troublante. Il propose son scénario à ses deux amis réalisateurs, Humberto Mauro et Adhemar Gonzaga, qui l'encouragent à réaliser le film lui-même et lui recommandent les talents en photographie d'Edgar Brasil. Le film est tourné à Mangaratiba et sur la côte de l'État de Rio de Janeiro entre mai et octobre 1930. En tissant entre eux les destins funestes de ses personnages à la dérive, Mário Peixoto réalise un film sensible sur le passage du temps et la condition humaine. Projeté lors d'une séance organisée par le Chaplin Club à Rio de Janeiro en mai 1931, le film reçoit un accueil favorable de la critique mais il est rejeté par le public et ne connaîtra pas d'exploitation commerciale. Poème cinématographique maudit, longtemps invisible, il a pourtant suscité la curiosité des cinéphiles avant d'être enfin considéré comme un chef-d'œuvre du cinéma muet brésilien.\n\nSamantha Leroy",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 6149,
+              "duree": 117,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STA",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 2764
+        }
+      ],
+      "mention": "Séance suivie d'une discussion avec João Paulo Miranda Maria"
     }
   ]
 }
