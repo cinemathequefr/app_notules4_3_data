@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-19T13:57:15.195Z",
+  "updatedAt": "2024-09-20T07:45:25.383Z",
   "data": [
     {
       "idSeance": 137061,
@@ -306,7 +306,7 @@
       ]
     },
     {
-      "idSeance": 138515,
+      "idSeance": 185115,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -318,7 +318,7 @@
       ],
       "idEvenement": 25719,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-27T18:00:00",
+      "dateHeure": "2025-02-03T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -345,7 +345,7 @@
       ]
     },
     {
-      "idSeance": 138516,
+      "idSeance": 185116,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -357,7 +357,7 @@
       ],
       "idEvenement": 25720,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-27T19:30:00",
+      "dateHeure": "2025-02-03T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -520,7 +520,7 @@
       ]
     },
     {
-      "idSeance": 138517,
+      "idSeance": 185117,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -532,7 +532,7 @@
       ],
       "idEvenement": 25724,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-27T21:00:00",
+      "dateHeure": "2025-02-03T21:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2330,25 +2330,6 @@
           ]
         }
       ]
-    },
-    {
-      "idSeance": 137402,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 140,
-          "idCategorie": 3436,
-          "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "Çağla Zencirci et Guillaume Giovanetti"
-        }
-      ],
-      "idEvenement": 31209,
-      "typeEvenement": 13,
-      "libelleEvenement": "ÇAĞLA ZENCIRCI & GUILLAUME GIOVANETTI (AVEC LA VILLA ALBERTINE)",
-      "dateHeure": "2024-12-16T19:00:00",
-      "idSalle": "JE",
-      "theorique": true,
-      "items": []
     },
     {
       "idSeance": 137950,
@@ -5203,8 +5184,6 @@
       "typeEvenement": 13,
       "dateHeure": "2025-01-30T21:15:00",
       "idSalle": "HL",
-      "idSeanceAssoc": 184921,
-      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -9989,7 +9968,7 @@
           "duree": 75,
           "generique": "Aleksandr Antonov, Vladimir Barski, Grigori Alexandrov",
           "miniTexte": "Chronique de la révolte des marins du navire de guerre en 1905, le plus célèbre des films d'Eisenstein, leçon de montage en même temps que petit précis de propagande. L'incroyable scène du landau dévalant les marches des escaliers d'Odessa a impressionné des générations de cinéastes – parmi lesquels De Palma, Woody Allen, Scola ou Terry Gilliam –, au point d'être érigé en totem de la culture populaire, célébré ou parodié dans des dizaines de films.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 3358,
@@ -10035,10 +10014,10 @@
           "realisateurs": "Sergueï M. Eisenstein",
           "annee": 1925,
           "duree": 82,
-          "generique": "Aleksandr Antonov, Mikhaïl Gomorov",
+          "generique": "Aleksandr Antonov, Mikhaïl Gomorov, Grigori Alexandrov",
           "synopsis": "Dans une usine de la Russie tsariste, le suicide d'un ouvrier déclenche une grève. Le mécanisme soulèvement-répression résume les nombreux mouvements prérévolutionnaires auxquels le film rend hommage.",
           "miniTexte": "Premier film, et coup de maître pour Eisenstein, qui signe avec _La Grève_ un tract politique, mode d'emploi du débrayage face à l'oppression subie par le prolétariat – ici littéralement comparé, par le biais du montage, à du bétail corvéable à merci. Construite comme une tragédie, une merveille d'invention, joyeuse et virtuose, dans laquelle le cinéaste, 25 ans à l'époque, déploie une maestria qui n'a pas pris une ride.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 11928,
@@ -10078,9 +10057,10 @@
           "annee": 1928,
           "duree": 103,
           "generique": "Boris Livanov, Vassili Nikandrov, Nikolaï Popov",
+          "adaptation": "D'après l'ouvrage _Dix jours qui ébranlèrent le monde_ de John Silas Reed.",
           "synopsis": "La Révolution de 1917 et le passage du pouvoir aux mains des Soviets.",
           "miniTexte": "Le plus fiévreux des films d'Eisenstein, tourné dans des conditions épiques – plus de 12 000 figurants réquisitionnés pour certaines scènes – pour finir charcuté par le pouvoir stalinien. La frénésie du tournage semble avoir contaminé le montage même du film, bouillonnant, déchaîné, bombardement incessant de plans et de signes qui composent un poème visuel sans équivalent dans l'Histoire du cinéma.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28578,
@@ -10949,7 +10929,7 @@
           "generique": "Lillian Gish, Robert Harron, Wilbur Higby",
           "synopsis": "Susie est prête à tout pour l'amour de William: pour qu'il puisse faire ses études, elle se défait d'une partie de ses biens.",
           "miniTexte": "Construit sur un canevas on ne peut plus conservateur (une jeune femme se sacrifie par amour pour un homme un peu simplet), le film de Griffith épate aujourd'hui encore par la toute-puissance de sa forme, et notamment la modernité de son montage, mais aussi par l'interprétation de Lillian Gish. À mille lieux de la théâtralité de l'époque, l'actrice semble inventer sous nos yeux le jeu d'un siècle de cinéma à venir. Une tornade, et une révolution en marche.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 17011,
@@ -10990,7 +10970,7 @@
           "duree": 95,
           "generique": "Marfa Lapkina, Vasili Bouzenkov, Kostia Vassiliev, M. Ivanine",
           "miniTexte": "Le destin de Marfa Lapkina, jeune paysanne pauvre, qui décide de constituer un kolkhoze pour survivre face aux riches paysans. Saccagé par la censure, c'est l'un des rares films d'Eisenstein avec un personnage principal, même si le récit et la mise en scène s'évertuent, comme toujours, à chanter les mérites du collectif en jouant avec brio de l'addition quasi-expérimentale des plans.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28676,
@@ -11027,8 +11007,9 @@
           "realisateurs": "D. W. Griffith",
           "annee": 1924,
           "duree": 141,
+          "generique": "Neil Hamilton, Erville Alderson, Carol Dempster",
           "miniTexte": "Neuf ans après _Naissance d'une nation_, c'est la guerre d'indépendance des États-Unis qui sert cette fois de cadre à la nouvelle superproduction historique de Griffith. Portée entre autres par Lionel Barrymore, cette fresque épique se clôt sur une impressionnante bataille aux milliers de figurants, et par le siège d'un fort par les Indiens, reconstitution durant laquelle on recensa de nombreux blessés.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28649,
@@ -13388,7 +13369,9 @@
           "realisateurs": "John Carpenter",
           "annee": 1981,
           "duree": 99,
-          "status": 1,
+          "generique": "Kurt Russell, Lee Van Cleef, Isaac Hayes",
+          "miniTexte": "Dans un Manhattan carcéral, un ancien soldat en fuite doit retrouver le président des États-Unis. En réaction au Watergate, Carpenter imagine New York comme une jungle à l'ambiance nocturne inquiétante, un monde déshumanisé rongé par la corruption des puissants. L'occasion de créer le personnage de Snake Plissken, pirate tortionnaire devenu l'un des anti-héros les plus marquants du cinéma.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28704,
@@ -13426,7 +13409,9 @@
           "realisateurs": "John Carpenter",
           "annee": 1995,
           "duree": 101,
-          "status": 1,
+          "generique": "Kurt Russell, Steve Buscemi, Stacy Keach",
+          "miniTexte": "Suite-remake de _New York 1997_, où Kurt Russell retrouve son personnage de Snake Plissken. Carpenter s'inspire d'un tremblement de terre et des émeutes de 1992 pour un film d'action apocalyptique au regard désabusé. Exaltant de nihilisme, il modernise la satire originale dans l'exploration critique d'une société américaine aux travers encombrants.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28722,
@@ -13970,9 +13955,11 @@
           "realisateurs": "Rupert Wyatt",
           "annee": 2011,
           "duree": 105,
-          "generique": "James Franco, Freida Pinto, Brian Cox",
+          "generique": "James Franco, Freida Pinto, Brian Cox, Andy Serkis",
+          "adaptation": "D'après le roman _La Planète des singes_ de Pierre Boulle.",
           "synopsis": "Voulant vaincre Alzheimer, un groupe de scientifiques expérimente sur des singes un traitement qui décuple en fait leur activité cérébrale. César, premier sujet à l'intelligence exceptionnelle, mène un soulèvement lorsqu'il est trahi par les humains.",
-          "status": 1,
+          "miniTexte": "Quarante-trois ans après la version de Schaffner, Rupert Wyatt livre un épatant _reboot_ de _La Planète des singes_, pensé comme un hommage au premier film. Avec l'efficacité d'un blockbuster soigné, quête d'émancipation et évocation de la maltraitance animale se rejoignent dans l'itinéraire palpitant de César (Andy Serkis, fantastique en motion capture), un chimpanzé à l'humanité désarmante.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 4990,
@@ -14443,8 +14430,6 @@
       "typeConference": "Conférence",
       "idSalle": "HL",
       "duree": 105,
-      "idSeanceAssoc": 185073,
-      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -15216,38 +15201,24 @@
       ],
       "idEvenement": 31711,
       "typeEvenement": 13,
-      "libelleEvenement": "REPÉRAGES : TROIS JEUNES CINÉASTES À DÉCOUVRIR",
       "dateHeure": "2025-01-27T19:00:00",
-      "idSalle": "JE",
-      "theorique": true,
-      "items": []
-    },
-    {
-      "idSeance": 185038,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 140,
-          "idCategorie": 3637,
-          "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "Juliana Rojas"
-        }
-      ],
-      "idEvenement": 31712,
-      "typeEvenement": 13,
-      "dateHeure": "2025-02-24T19:00:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 154997,
-          "titre": "Cidade; Campo",
-          "realisateurs": "Juliana Rojas",
+          "idFilm": 154911,
+          "titre": "Adieu Émile",
+          "realisateurs": "Alexis Diop",
           "annee": 2024,
-          "dureeStd": 119,
+          "duree": 25,
           "status": 1,
-          "copies": [],
-          "idFilmBoxoffice": 284851
+          "copies": [
+            {
+              "idCopie": 28351,
+              "duree": 25,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },
@@ -15285,7 +15256,8 @@
           ],
           "idFilmBoxoffice": 300708
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec Romain de Saint-Blanquat"
     },
     {
       "idSeance": 185037,
@@ -15313,7 +15285,8 @@
           "status": 2,
           "copies": []
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec Flávia Neves"
     },
     {
       "idSeance": 138146,
@@ -15385,7 +15358,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec Marin Gérard"
     },
     {
       "idSeance": 184996,
@@ -15748,7 +15722,7 @@
       ]
     },
     {
-      "idSeance": 185027,
+      "idSeance": 185111,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -15760,7 +15734,7 @@
       ],
       "idEvenement": 31737,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-28T20:00:00",
+      "dateHeure": "2024-11-28T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -15788,7 +15762,7 @@
       ]
     },
     {
-      "idSeance": 136960,
+      "idSeance": 185113,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -15800,8 +15774,8 @@
       ],
       "idEvenement": 31738,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-29T18:30:00",
-      "idSalle": "JE",
+      "dateHeure": "2024-11-27T20:30:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -15873,7 +15847,7 @@
       ]
     },
     {
-      "idSeance": 136880,
+      "idSeance": 185114,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -15885,8 +15859,8 @@
       ],
       "idEvenement": 31740,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-27T20:30:00",
-      "idSalle": "GF",
+      "dateHeure": "2024-11-29T18:30:00",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
@@ -15914,7 +15888,7 @@
       ]
     },
     {
-      "idSeance": 185040,
+      "idSeance": 185112,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -15926,7 +15900,7 @@
       ],
       "idEvenement": 31741,
       "typeEvenement": 13,
-      "dateHeure": "2024-11-28T17:00:00",
+      "dateHeure": "2024-11-28T21:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -16261,6 +16235,36 @@
           "idFilmBoxoffice": 41106
         }
       ]
+    },
+    {
+      "idSeance": 185118,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3648,
+          "titreCycle": "Aujourd'hui le cinéma"
+        }
+      ],
+      "idEvenement": 31765,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-16T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155004,
+          "titre": "Esprit Coubertin",
+          "art": "L'",
+          "realisateurs": "Jérémie Sein",
+          "annee": 2024,
+          "dureeStd": 78,
+          "status": 0,
+          "copies": [],
+          "idFilmBoxoffice": 299577
+        }
+      ],
+      "mention": "Séance suivie d'une discussion avec Jérémie Sein"
     }
   ]
 }
