@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-23T15:23:33.855Z",
+  "updatedAt": "2024-09-23T15:38:34.180Z",
   "data": [
     {
       "idSeance": 137061,
@@ -5205,6 +5205,8 @@
       "typeEvenement": 13,
       "dateHeure": "2025-01-30T21:15:00",
       "idSalle": "HL",
+      "idSeanceAssoc": 184921,
+      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -8970,7 +8972,7 @@
           "realisateurs": "Jacques Colombat",
           "annee": 1972,
           "duree": 13,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28490,
@@ -8989,7 +8991,7 @@
           "annee": 1965,
           "duree": 11,
           "synopsis": "Un paysan pleure sur ses chétives salades... celles-ci grandissent démesurément. Les escargots mangent les salades ... Eux aussi grandissent en détruisant le paysage. Le calme renaît. Le paysan rescapé pleure sur ses chétives carottes ... Attention aux lapins...!",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28632,
@@ -9026,9 +9028,9 @@
           "realisateurs": "Paul Grimault",
           "annee": 1947,
           "duree": 10,
-          "adaptation": "D'après le conte _Le Soldat de plomb_ de Hans Christian Andersen.",
+          "adaptation": "D'après le conte _Le Stoïque Soldat de plomb_ de Hans Christian Andersen.",
           "synopsis": "Dans un magasin de jouets, un petit soldat est amoureux d'une poupée.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28554,
@@ -9046,7 +9048,7 @@
           "realisateurs": "Jacques Colombat",
           "annee": 1981,
           "duree": 9,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28495,
@@ -9061,7 +9063,7 @@
           "realisateurs": "Dave Fleischer",
           "annee": 1930,
           "duree": 6,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28496,
@@ -9098,7 +9100,7 @@
           "realisateurs": "Jacques Colombat",
           "annee": 1962,
           "duree": 12,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28518,
@@ -9116,7 +9118,7 @@
           "duree": 58,
           "generique": "Harry Langdon, Gladys Brockwell, Alan Roscoe",
           "synopsis": "Harry, un jeune homme surprotégé par sa mère, s'amourache d'une redoutable trafiquante de drogue. Après quelques mésaventures et un séjour en prison, il va enfin reconnaître sa monumentale erreur et se tourne vers Priscilla, son adorable voisine.\n\n---\n\nLes mésaventures d'un jeune homme trop protégé par sa mère qui ne voit en lui que son éternel petit garçon en culotte courte ! Précédé de Say It with Sables de Frank Capra – 1928 (INT. ANG., 1') bande-annonce d'un film aujourd'hui perdu.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 810,
@@ -12696,7 +12698,7 @@
           "realisateurs": "Castleton Knight",
           "annee": 1927,
           "duree": 7,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28685,
@@ -12732,7 +12734,9 @@
           "realisateurs": "Jean Faurez",
           "annee": 1949,
           "duree": 15,
-          "status": 0,
+          "generique": "Guy Decomble, Paul Frankeur, Maurice Schutz",
+          "adaptation": "D'après la nouvelle _Le Cœur révélateur_ d'Edgar Allan Poe.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28687,
@@ -12750,6 +12754,7 @@
           "realisateurs": "Robert Florey",
           "annee": 1932,
           "duree": 61,
+          "adaptation": "D'après la nouvelle _Double Assassinat dans la rue Morgue_ d'Edgar Allan Poe.",
           "status": 1,
           "copies": [
             {
@@ -12789,7 +12794,7 @@
           "realisateurs": "Madeline Tourtelot",
           "annee": 1955,
           "duree": 11,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28682,
@@ -12830,7 +12835,9 @@
           "realisateurs": "Lucio Fulci",
           "annee": 1981,
           "duree": 92,
-          "status": 1,
+          "generique": "Mimsy Farmer, Patrick Magee, David Warbeck",
+          "adaptation": "D'après la nouvelle _Le Chat noir_ d'Edgar Allan Poe.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28684,
@@ -14509,6 +14516,8 @@
       "typeConference": "Conférence",
       "idSalle": "HL",
       "duree": 105,
+      "idSeanceAssoc": 185073,
+      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -16334,7 +16343,7 @@
           "dureeStd": 91,
           "duree": 91,
           "synopsis": "Tourné entre 1968 et 1973, le portrait de Jules et Félicie, un couple de paysans octogénaires taciturnes.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 2970,
