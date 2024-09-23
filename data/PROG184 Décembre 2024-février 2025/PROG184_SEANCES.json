@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-20T14:00:36.149Z",
+  "updatedAt": "2024-09-23T07:56:18.992Z",
   "data": [
     {
       "idSeance": 137061,
@@ -2380,7 +2380,8 @@
               "idCopie": 28404,
               "duree": 99,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 131347
@@ -2461,7 +2462,8 @@
               "duree": 106,
               "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STA"
+              "sousTitres": "STA",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 33071
@@ -8414,7 +8416,7 @@
           "titre": "Sur les quais",
           "titreVo": "On the Waterfront",
           "realisateurs": "Elia Kazan",
-          "annee": 1953,
+          "annee": 1954,
           "duree": 108,
           "generique": "Marlon Brando, Karl Malden, Rod Steiger, Eva Marie Saint",
           "synopsis": "Jeune docker, Terry est manipulé par son frère, avocat corrompu du syndicat des dockers. Il assiste sans intervenir au meurtre d'un employé. Quand la sœur de la victime lui demande de l'aide, Terry se retrouve face à un dilemme.",
@@ -8504,10 +8506,10 @@
           "idFilm": 46141,
           "titre": "Viva Zapata!",
           "realisateurs": "Elia Kazan",
-          "annee": 1951,
+          "annee": 1952,
           "duree": 113,
           "generique": "Marlon Brando, Anthony Quinn, Jean Peters",
-          "synopsis": "Un groupe de paysans spolié par des propriétaires terriens décident de mener la révolte pour défendre leurs droits.\n\n---\n\nEn l'absence de réaction du dictateur mexicain Porfirio Diaz lorsque les paysans se font spolier leurs terres par des exploitants de canne à sucre, Emiliano Zapata prend la tête de la révolte et devient une légende.",
+          "synopsis": "Un groupe de paysans spolié par des propriétaires terriens décide de mener la révolte pour défendre ses droits.",
           "miniTexte": "Les dix dernières années d'Emiliano Zapata, chef rebelle mexicain engagé pour le droit des paysans. Sur un scénario de Steinbeck, Kazan aborde frontalement l'histoire de la révolution mexicaine dans une réflexion percutante sur le pouvoir politique. Avec un face-à-face au sommet entre Brando, prix d'interprétation à Cannes, et Anthony Quinn, Oscar du meilleur second rôle.",
           "status": 2,
           "copies": [
@@ -8545,7 +8547,7 @@
           "titre": "Un tramway nommé Désir",
           "titreVo": "A Streetcar Named Desire",
           "realisateurs": "Elia Kazan",
-          "annee": 1950,
+          "annee": 1951,
           "duree": 122,
           "generique": "Marlon Brando, Vivien Leigh, Kim Hunter",
           "adaptation": "D'après la pièce _Un tramway nommé Désir_ de Tennessee Williams.",
@@ -8589,12 +8591,13 @@
           "art": "La",
           "titreVo": "One-Eyed Jacks",
           "realisateurs": "Marlon Brando",
-          "annee": 1959,
+          "annee": 1961,
           "duree": 141,
           "generique": "Marlon Brando, Karl Malden, Joan Petrone",
           "adaptation": "D'après le roman _La Véritable Histoire de la mort d'Henry Jones_ de Charles Neider.",
           "synopsis": "Après un hold-up, Dad Longworth abandonne son complice Rio à la police et disparaît avec le butin. Cinq ans après sa sortie de prison, Rio le retrouve.",
           "miniTexte": "Dupé par son complice, un bandit de l'Ouest américain entreprend de se venger. Initialement destiné à Peckinpah, puis à Kubrick, _La Vengeance aux deux visages_ est finalement devenu l'unique film de Brando en tant que cinéaste. Un western crépusculaire, qui cavale de chevauchées fantastiques en éclairs de violence masochiste.",
+          "commentaire": "La genèse de _La Vengeance aux deux visages_ fut des plus chaotiques. À partir d'un roman de Charles Neider, Sam Peckinpah en commence l'écriture avant d'être évincé par Stanley Kubrick, qui doit réaliser le film et demande alors à son coscénariste des _Sentiers de la gloire_, Calder Willingham, d'en écrire une nouvelle version. Mais Marlon Brando provoque à son tour le renvoi du duo et Kubrick partira remplacer Anthony Mann sur le tournage de _Spartacus_. Brando décide de réaliser le film lui-même, et la suite de la production sera à l'image de la star, excessive et conflictuelle : le budget du film passe de 1,8 à 6 millions de dollars, la durée de tournage de six semaines à six mois et le premier montage approuvé par Brando dure 4 h 42. Paramount le réduira de moitié et imposera une fin différente, pour aboutir à la version actuelle. Le résultat est néanmoins étonnant, Marlon Brando livrant un western extrêmement personnel, sombre, contemplatif, avare en scènes d'action mais habité par une grande tension psychologique et magnifiquement photographié par Charles Lang. Au-delà de la trame de la vengeance, la relation entre Rio Kid (Brando) et Dad Longworth (Karl Malden) témoigne d'une étonnante dimension masochiste et œdipienne. Cette retenue mêlée de violence déroutera le public, le film sera un échec et restera l'unique réalisation de l'acteur.\n\nCaroline Maleville",
           "status": 2,
           "copies": [
             {
@@ -8633,12 +8636,13 @@
           "art": "La",
           "titreVo": "One-Eyed Jacks",
           "realisateurs": "Marlon Brando",
-          "annee": 1959,
+          "annee": 1961,
           "duree": 141,
           "generique": "Marlon Brando, Karl Malden, Joan Petrone",
           "adaptation": "D'après le roman _La Véritable Histoire de la mort d'Henry Jones_ de Charles Neider.",
           "synopsis": "Après un hold-up, Dad Longworth abandonne son complice Rio à la police et disparaît avec le butin. Cinq ans après sa sortie de prison, Rio le retrouve.",
           "miniTexte": "Dupé par son complice, un bandit de l'Ouest américain entreprend de se venger. Initialement destiné à Peckinpah, puis à Kubrick, _La Vengeance aux deux visages_ est finalement devenu l'unique film de Brando en tant que cinéaste. Un western crépusculaire, qui cavale de chevauchées fantastiques en éclairs de violence masochiste.",
+          "commentaire": "La genèse de _La Vengeance aux deux visages_ fut des plus chaotiques. À partir d'un roman de Charles Neider, Sam Peckinpah en commence l'écriture avant d'être évincé par Stanley Kubrick, qui doit réaliser le film et demande alors à son coscénariste des _Sentiers de la gloire_, Calder Willingham, d'en écrire une nouvelle version. Mais Marlon Brando provoque à son tour le renvoi du duo et Kubrick partira remplacer Anthony Mann sur le tournage de _Spartacus_. Brando décide de réaliser le film lui-même, et la suite de la production sera à l'image de la star, excessive et conflictuelle : le budget du film passe de 1,8 à 6 millions de dollars, la durée de tournage de six semaines à six mois et le premier montage approuvé par Brando dure 4 h 42. Paramount le réduira de moitié et imposera une fin différente, pour aboutir à la version actuelle. Le résultat est néanmoins étonnant, Marlon Brando livrant un western extrêmement personnel, sombre, contemplatif, avare en scènes d'action mais habité par une grande tension psychologique et magnifiquement photographié par Charles Lang. Au-delà de la trame de la vengeance, la relation entre Rio Kid (Brando) et Dad Longworth (Karl Malden) témoigne d'une étonnante dimension masochiste et œdipienne. Cette retenue mêlée de violence déroutera le public, le film sera un échec et restera l'unique réalisation de l'acteur.\n\nCaroline Maleville",
           "status": 2,
           "copies": [
             {
@@ -8677,7 +8681,7 @@
           "titreVo": "Chase",
           "artVo": "The",
           "realisateurs": "Arthur Penn",
-          "annee": 1965,
+          "annee": 1966,
           "duree": 133,
           "generique": "Marlon Brando, Jane Fonda, Robert Redford",
           "adaptation": "D'après le roman et la pièce _The Chase_ de Horton Foote.",
@@ -8718,9 +8722,9 @@
           "idFilm": 40481,
           "titre": "Comtesse de Hong-Kong",
           "art": "La",
-          "titreVo": "A Countess from Hong-Kong",
+          "titreVo": "A Countess from Hong Kong",
           "realisateurs": "Charles Chaplin",
-          "annee": 1966,
+          "annee": 1967,
           "duree": 120,
           "generique": "Marlon Brando, Sophia Loren, Sydney Chaplin",
           "synopsis": "Au cours d'une escale à Hong-Kong, Ogden Mears, un riche diplomate américain fait la rencontre de Natacha, une séduisante jeune femme qui se dit comtesse russe.",
@@ -9143,12 +9147,13 @@
           "titre": "Reflets dans un œil d'or",
           "titreVo": "Reflections in a Golden Eye",
           "realisateurs": "John Huston",
-          "annee": 1966,
+          "annee": 1967,
           "duree": 109,
           "generique": "Elizabeth Taylor, Marlon Brando, Brian Keith, Julie Harris",
           "adaptation": "D'après le roman _Reflets dans un œil d'or_ de Carson McCullers.",
           "synopsis": "Dans un fort militaire de Géorgie, les chassés-croisés entre le major Penderton, son épouse délaissée – qui a pour amant le colonel Langdon –, et un jeune soldat dont l'arrivée vient perturber encore davantage cet univers trouble.",
           "miniTexte": "Dans un fort militaire en Géorgie, les déboires d'un couple aux prises avec ses passions et ses désirs refoulés. Huston adapte le roman éponyme de Carson McCullers dans un ballet des sentiments, hanté par la tension sensuelle et les non-dits. Avec Marlon Brando et Elizabeth Taylor, formidables de duplicité.",
+          "commentaire": "« Inconcevable en France. La vie militaire considérée comme un divan de psychanalyste. Le deuxième classe est un puceau exhibitionniste et zoophile. Le commandant un impuissant, cocu et pédéraste refoulé. Le colonel abruti. La colonelle hystérique... Tout cela interprété à la perfection, plus vrai que le vrai. Dans une ambiance proustienne, qui donne envie de décrire chaque plan en vingt pages. » (Michel Mardore)",
           "status": 2,
           "copies": [
             {
@@ -9186,12 +9191,13 @@
           "titre": "Jules César",
           "titreVo": "Julius Caesar",
           "realisateurs": "Joseph L. Mankiewicz",
-          "annee": 1952,
+          "annee": 1953,
           "duree": 120,
           "generique": "Marlon Brando, James Mason, John Gielgud, Deborah Kerr",
           "adaptation": "D'après la pièce _Jules César_ de William Shakespeare.",
           "synopsis": "Rome en 44 avant J.-C. Alors que la foule célèbre le triomphe de Jules César, on prédit à l'empereur un destin funeste, mais, se croyant invulnérable, il n'y prête guère attention. Lorsqu'il tombe sous les coups de Brutus, une guerre fratricide s'engage entre les partisans de celui-ci et ceux de Marc Antoine.",
           "miniTexte": "Le premier film historique de Marlon Brando encore débutant. Avec fidélité, Mankiewicz adapte la pièce éponyme de Shakespeare et met en valeur le texte original par la puissance de dialogues captés en plans-séquences. Un étonnant creuset de conflits et de traîtrises, Oscar de la meilleure direction artistique en 1954.",
+          "commentaire": "Crime de lèse-majesté selon Mankiewicz lui-même : « Un Yankee s'emparant d'un monument britannique ? Imaginez, Shakespeare ! » Énorme prise de risque avec le choix de Brando, plus connu pour sa silhouette de rebelle en cuir et sa propension à marmonner, dans le rôle de l'éloquent Marc Antoine. Mais le pari est réussi, l'acteur tient sa place avec panache au sein de la distribution prestigieuse, et Mankiewicz vit un moment d'une rare intensité en filmant son long monologue : « J'ai eu la chair de poule. Cela justifie une carrière. » Avec _Jules César_, le réalisateur, qui a opté pour une mise en scène sagement classique, ostensiblement théâtrale, pose, malgré l'opposition de style, les premiers jalons de _Cleopâtre_.",
           "status": 2,
           "copies": [
             {
@@ -9230,7 +9236,7 @@
           "titreVo": "Men",
           "artVo": "The",
           "realisateurs": "Fred Zinnemann",
-          "annee": 1949,
+          "annee": 1950,
           "duree": 85,
           "generique": "Marlon Brando, Teresa Wright, Everett Sloane",
           "miniTexte": "Devenu paraplégique, un blessé de guerre tente de retrouver goût à la vie. Dans son premier rôle au cinéma, Marlon Brando incarne avec intensité le traumatisme physique et psychologique de la Seconde Guerre mondiale aux côtés d'anciens soldats réellement paralysés. Un témoignage humaniste sur les séquelles du conflit.",
@@ -9269,7 +9275,7 @@
           "idFilm": 45914,
           "titre": "Queimada",
           "realisateurs": "Gillo Pontecorvo",
-          "annee": 1968,
+          "annee": 1969,
           "duree": 132,
           "generique": "Marlon Brando, Renato Salvatori",
           "adaptation": "D'après le roman _Burn!_ de Norman Grant.",
@@ -9313,7 +9319,7 @@
           "titreVo": "Fugitive Kind",
           "artVo": "The",
           "realisateurs": "Sidney Lumet",
-          "annee": 1959,
+          "annee": 1960,
           "duree": 119,
           "generique": "Marlon Brando, Anna Magnani, Joanne Woodward",
           "adaptation": "D'après la pièce _La Descente d'Orphée_ de Tennessee Williams.",
@@ -9609,7 +9615,7 @@
           "titreVo": "Formula",
           "artVo": "The",
           "realisateurs": "John G. Avildsen",
-          "annee": 1979,
+          "annee": 1980,
           "duree": 117,
           "generique": "George C. Scott, Marlon Brando, Marthe Keller",
           "adaptation": "D'après le roman _La Formule_ de Steve Shagan.",
@@ -9695,7 +9701,7 @@
           "titreVo": "Young Lions",
           "artVo": "The",
           "realisateurs": "Edward Dmytryk",
-          "annee": 1957,
+          "annee": 1958,
           "duree": 167,
           "generique": "Marlon Brando, Montgomery Clift, Dean Martin",
           "adaptation": "D'après le roman _The Young Lions_ d'Irwin Shaw.",
@@ -9735,7 +9741,7 @@
           "idFilm": 123997,
           "titre": "Apocalypse Now Redux",
           "realisateurs": "Francis Ford Coppola",
-          "annee": 1976,
+          "annee": 1979,
           "duree": 200,
           "generique": "Martin Sheen, Robert Duvall, Marlon Brando, Dennis Hopper",
           "adaptation": "D'après le roman _Au cœur des ténèbres_ de Joseph Conrad.",
@@ -11277,7 +11283,8 @@
               "duree": 11,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ITA"
+              "langCopie": "ITA",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 207991
@@ -11298,7 +11305,8 @@
               "duree": 13,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ITA"
+              "langCopie": "ITA",
+              "stDemande": true
             }
           ]
         },
@@ -11318,7 +11326,8 @@
               "duree": 38,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ITA"
+              "langCopie": "ITA",
+              "stDemande": true
             }
           ]
         }
@@ -14745,7 +14754,8 @@
               "duree": 110,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 394
@@ -14789,7 +14799,8 @@
               "idCopie": 15515,
               "duree": 113,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 14041
@@ -14834,7 +14845,8 @@
               "duree": 109,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 2508
@@ -15130,7 +15142,73 @@
       "mention": "Avant-première. Séance suivie d'une discussion avec Ariane Labed"
     },
     {
-      "idSeance": 138890,
+      "idSeance": 185126,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3636,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Repérages : trois jeunes cinéastes à découvrir"
+        }
+      ],
+      "idEvenement": 31711,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-13T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155006,
+          "titre": "Lou",
+          "realisateurs": "Tara Maurel",
+          "annee": 2024,
+          "duree": 15,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28859,
+              "duree": 15,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 154911,
+          "titre": "Adieu Émile",
+          "realisateurs": "Alexis Diop",
+          "annee": 2024,
+          "duree": 25,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28351,
+              "duree": 25,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 155005,
+          "titre": "Oceania",
+          "realisateurs": "Valentin Noujaïm",
+          "annee": 2024,
+          "duree": 24,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28858,
+              "duree": 24,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185127,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -15142,7 +15220,7 @@
       ],
       "idEvenement": 31713,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-10T19:00:00",
+      "dateHeure": "2025-02-03T19:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -15163,8 +15241,7 @@
           ],
           "idFilmBoxoffice": 300708
         }
-      ],
-      "mention": "Séance suivie d'une discussion avec Romain de Saint-Blanquat"
+      ]
     },
     {
       "idSeance": 185037,
@@ -15196,7 +15273,7 @@
       "mention": "Séance suivie d'une discussion avec Flávia Neves"
     },
     {
-      "idSeance": 138146,
+      "idSeance": 185128,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -15208,7 +15285,7 @@
       ],
       "idEvenement": 31715,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-13T19:00:00",
+      "dateHeure": "2025-02-10T19:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -15265,8 +15342,7 @@
             }
           ]
         }
-      ],
-      "mention": "Séance suivie d'une discussion avec Marin Gérard"
+      ]
     },
     {
       "idSeance": 184996,
@@ -15375,13 +15451,13 @@
           "realisateurs": "Jess Franco",
           "annee": 1970,
           "dureeStd": 85,
-          "duree": 80,
+          "duree": 85,
           "generique": "Diana Lorys, Paul Muller, Jack Taylor, Soledad Miranda",
           "status": 1,
           "copies": [
             {
               "idCopie": 28789,
-              "duree": 80,
+              "duree": 85,
               "format": "35 mm",
               "version": "VF"
             }
@@ -15424,6 +15500,12 @@
               "duree": 90,
               "format": "35 mm",
               "version": "VF"
+            },
+            {
+              "idCopie": 28861,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VF"
             }
           ]
         }
@@ -15454,13 +15536,13 @@
           "artVo": "Il",
           "realisateurs": "Pasquale Festa Campanile",
           "annee": 1983,
-          "duree": 103,
+          "duree": 101,
           "generique": "Ugo Tognazzi, Mariangela Melato, Vittorio Caprioli",
           "status": 0,
           "copies": [
             {
               "idCopie": 28791,
-              "duree": 103,
+              "duree": 101,
               "format": "35 mm",
               "version": "VF"
             }
@@ -15538,7 +15620,8 @@
               "idCopie": 28795,
               "duree": 107,
               "format": "35 mm",
-              "version": "VF"
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 58854
@@ -16161,8 +16244,15 @@
           "realisateurs": "Jérémie Sein",
           "annee": 2024,
           "dureeStd": 78,
+          "duree": 78,
           "status": 0,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 28860,
+              "duree": 78,
+              "format": "DCP"
+            }
+          ],
           "idFilmBoxoffice": 299577
         }
       ],
