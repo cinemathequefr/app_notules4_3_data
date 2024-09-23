@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-23T07:56:18.992Z",
+  "updatedAt": "2024-09-23T12:15:13.627Z",
   "data": [
     {
       "idSeance": 137061,
@@ -11712,7 +11712,7 @@
           "titre": "Devil in Miss Jones",
           "art": "The",
           "realisateurs": "Gerard Damiano",
-          "annee": 1974,
+          "annee": 1973,
           "duree": 67,
           "generique": "Georgina Spelvin, John Clemens, Harry Reems",
           "miniTexte": "Les tourments d'une femme sexuellement frustrée et lasse de la vie. Après son suicide, Justine Jones erre dans un purgatoire où elle est condamnée à revivre ses désirs inassouvis. Avec une construction narrative audacieuse et inventive, un joyau du cinéma X qui explore la culpabilité et les plaisirs sexuels au féminin.",
@@ -11751,12 +11751,12 @@
           "idFilm": 50240,
           "titre": "Conte cruel",
           "realisateurs": "Gaston Modot",
-          "annee": 1928,
+          "annee": 1930,
           "duree": 30,
           "generique": "Gaston Modot",
           "adaptation": "D'après la nouvelle _La Torture par l'espérance_ de Villiers de l'Isle-Adam.",
           "synopsis": "Un homme est emprisonné par des inquisiteurs. Il parvient à s'enfuir pendant que les moines discutent de son cas en examinant des instruments de torture. L'homme est d'avance condamné par son manque de foi. Cependant il essaie de se sauver et espère pouvoir vivre libre.",
-          "miniTexte": "L'évasion d'un homme, sous l'Inquisition espagnole. Unique réalisation de l'acteur Gaston Modot, le récit impitoyable du conte de Villiers de L'Isle-Adam se pare des plus beaux atours du fantastique, dans les décors naturels du Mont Saint-Michel.",
+          "miniTexte": "L'évasion d'un homme, sous l'Inquisition espagnole. Unique réalisation de l'acteur Gaston Modot, le récit impitoyable du conte de Villiers de L'Isle-Adam se pare des plus beaux atours du fantastique, dans les décors naturels du Mont-Saint-Michel.",
           "status": 2,
           "copies": [
             {
@@ -11773,7 +11773,7 @@
           "idFilm": 49973,
           "titre": "Surcouf",
           "realisateurs": "Luitz-Morat",
-          "annee": 1924,
+          "annee": 1925,
           "dureeStd": 40,
           "duree": 40,
           "generique": "Jean Angelo, Antonin Artaud, Jacqueline Blanc",
@@ -11939,12 +11939,21 @@
           "artVo": "The",
           "realisateurs": "Charles Chaplin",
           "annee": 1919,
+          "duree": 50,
           "generique": "Charles Chaplin, Edna Purviance, Jackie Coogan",
           "ageMinimal": 6,
           "synopsis": "Charlot recueille un bébé abandonné et l'élève de son mieux, même s'il n'a pas un sou. Une très grande complicité unit l'enfant et le vagabond devenu vitrier, mais les services sociaux s'en mêlent.",
           "synopsisJP": "Premier long métrage de Chaplin, inspiré de son propre vécu. Traversé par une émotion qui repose en grande partie sur la complicité avec son jeune acteur Jackie Coogan, _Le Kid_ met en scène son personnage de vagabond en père adoptif tendre et maladroit. Lorsque Charlot se porte à hauteur d'enfant, le sourire se mêle aux larmes. Bouleversant.",
           "status": 2,
-          "copies": [],
+          "copies": [
+            {
+              "idCopie": 3686,
+              "duree": 50,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 2255
         }
       ]
@@ -13253,6 +13262,7 @@
               "duree": 96,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ],
@@ -14131,7 +14141,7 @@
           "titreVo": "Corpi presentano tracce di violenza carnale",
           "artVo": "I",
           "realisateurs": "Sergio Martino",
-          "annee": 1972,
+          "annee": 1973,
           "duree": 90,
           "generique": "Suzy Kendall, Tina Aumont, Luc Merenda",
           "miniTexte": "Un slasher de première génération, qui s'inspire de _La Baie sanglante_ de Mario Bava, sorti deux ans plus tôt. Articulé autour d'une intrigue typique du giallo (un groupe d'étudiantes s'installe dans une villa isolée, à la suite de meurtres sauvages commis dans la faculté de Pérouse), un _whodunit_ efficace, sur le regard et le désir en tant que formes de prédation et d'agression.",
@@ -14368,7 +14378,7 @@
           "idFilm": 67602,
           "titre": "Lady for a Night",
           "realisateurs": "Leigh Jason",
-          "annee": 1941,
+          "annee": 1942,
           "duree": 87,
           "generique": "Joan Blondell, John Wayne, Ray Middleton",
           "miniTexte": "Une jeune femme quitte son amant, avec qui elle tient un casino flottant dans le Tennessee, pour un homme de la haute société. Un singulier mélange de comédie romantique et de thriller, avec un John Wayne en pleine ascension, et Joan Blondell en femme forte, formidable dans un rôle post-code dont la modernité compense les clichés archaïques qui émaillent le récit.",
@@ -14712,7 +14722,8 @@
               "idCopie": 3816,
               "duree": 103,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 50126
@@ -14741,7 +14752,7 @@
           "titre": "Péché mortel",
           "titreVo": "Leave Her to Heaven",
           "realisateurs": "John M. Stahl",
-          "annee": 1947,
+          "annee": 1945,
           "duree": 110,
           "generique": "Gene Tierney, Cornel Wilde, Jeanne Crain, Vincent Price",
           "adaptation": "D'après le roman _Leave Her to Heaven_ de Ben Ames Williams.",
@@ -14874,7 +14885,7 @@
           "idFilm": 48350,
           "titre": "Pépé le Moko",
           "realisateurs": "Julien Duvivier",
-          "annee": 1936,
+          "annee": 1937,
           "duree": 93,
           "generique": "Jean Gabin, Mireille Balin, Line Noro, Fréhel",
           "adaptation": "D'après le roman _Pépé le Moko_ de Roger d'Ashelbé.",
@@ -14916,7 +14927,7 @@
           "art": "Le",
           "titreVo": "Convoy",
           "realisateurs": "Sam Peckinpah",
-          "annee": 1977,
+          "annee": 1978,
           "duree": 110,
           "generique": "Kris Kristofferson, Ali MacGraw, Ernest Borgnine, Burt Young, Seymour Cassel",
           "synopsis": "Un camionneur est victime de l'acharnement d'un shériff.",
@@ -15040,7 +15051,7 @@
           "ordre": 1,
           "idFilm": 108373,
           "titre": "Canine",
-          "titreVo": "Kynodontas",
+          "titreVo": "Kynódontas",
           "titreNx": "Κυνόδοντας",
           "realisateurs": "Yórgos Lánthimos",
           "annee": 2009,
@@ -15858,7 +15869,7 @@
           "titre": "Sans rien savoir d'elle",
           "titreVo": "Senza sapere niente di lei",
           "realisateurs": "Luigi Comencini",
-          "annee": 1968,
+          "annee": 1969,
           "duree": 96,
           "generique": "Philippe Leroy, Paola Pitagora, Sara Franchetti",
           "synopsis": "Une vieille femme qui a laissé une importante prime d'assurance à trois de ses quatre enfants est morte dans des conditions suspectes. L'avocat qui enquête sur ce cas devient l'amant de sa fille.",
@@ -16299,9 +16310,10 @@
           "art": "Le",
           "realisateurs": "Dominique Benicheti",
           "annee": 1968,
+          "dureeStd": 91,
           "duree": 91,
-          "synopsis": "En format large, le portrait de Jules et Félicie, un couple de paysans octogénaires et taciturnes, entre 1968 et 1973.",
-          "status": 0,
+          "synopsis": "Tourné entre 1968 et 1973, le portrait de Jules et Félicie, un couple de paysans octogénaires taciturnes.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 2970,
@@ -16309,7 +16321,8 @@
               "format": "DCP",
               "intertitres": "INT. FR."
             }
-          ]
+          ],
+          "idFilmBoxoffice": 229230
         }
       ],
       "mention": "Séance suivie d'une discussion avec Jules Follet"
@@ -16355,8 +16368,8 @@
           "annee": 1993,
           "duree": 126,
           "generique": "David Thewlis, Greg Crutwell, Lesley Sharp, Katrin Cartlidge",
-          "synopsis": "Johnny doit fuir Manchester après avoir violé une femme. Il se réfugie dans l'Est de Londres, chez son ancienne petite-amie, et entame une longue errance dans les rues de la ville, pleine de sombres rencontres.",
-          "commentaire": "Après un premier film, _Bleak Moments_, en 1971, Mike Leigh passe une quinzaine d'années à réaliser des séries et des téléfilms avant de revenir au cinéma avec _High Hopes_ (1988) et _Life is Sweet_ (1990), comédies dramatiques réalistes qui se concentrent sur une cellule familiale. _Naked_, comédie grinçante, violente, à l'esthétique réaliste trompeuse, opère un tournant sombre. Le tournage a pour cadre des lieux existants, mais Leigh et son équipe grisent les murs, éliminent les couleurs vives, et au moment du développement de la pellicule évitent le bain de blanchiment afin de donner plus de densité aux noirs. L'atmosphère blafarde qui en résulte fait basculer le film du côté de la métaphore. _Naked_ plonge le spectateur dans une vision cauchemardesque d'une Angleterre exsangue après la décennie thatchérienne, une époque où les rapports humains ne sont plus que brutalité. Loin des nobles personnages de la classe ouvrière de Ken Loach, Johnny, interprété par David Thewlis (récompensé à Cannes en 1993, tout comme Mike Leigh pour son scénario), est un Ulysse, affreux, sale et méchant, qui erre dans Londres. Son pendant, le glaçant Jeremy, à l'autre bout du spectre social, va encore plus loin dans l'abjection, sous le vernis du yuppie. Entre les deux, une série de personnages, des femmes victimes, souvent, mais résilientes et solidaires, et un gardien de nuit. Improvisé en partie, tourné sans autorisation dans les rues de la capitale anglaise, _Naked_ est aussi un film du langage, des accents, chargé d'une parole envahissante contre la frustration d'un monde toujours indifférent et froid.\n\nWafa Ghermani",
+          "synopsis": "Johnny doit fuir Manchester après avoir violé une femme. Il se réfugie dans l'Est de Londres, chez son ancienne petite amie, et entame une longue errance dans les rues de la ville, pleine de sombres rencontres.",
+          "commentaire": "Après un premier film, _Bleak Moments_, en 1971, Mike Leigh passe une quinzaine d'années à réaliser des séries et des téléfilms avant de revenir au cinéma avec _High Hopes_ (1988) et _Life Is Sweet_ (1990), comédies dramatiques réalistes qui se concentrent sur une cellule familiale. _Naked_, comédie grinçante, violente, à l'esthétique réaliste trompeuse, opère un tournant sombre. Le tournage a pour cadre des lieux existants, mais Leigh et son équipe grisent les murs, éliminent les couleurs vives, et au moment du développement de la pellicule évitent le bain de blanchiment afin de donner plus de densité aux noirs. L'atmosphère blafarde qui en résulte fait basculer le film du côté de la métaphore. _Naked_ plonge le spectateur dans une vision cauchemardesque d'une Angleterre exsangue après la décennie thatchérienne, une époque où les rapports humains ne sont plus que brutalité. Loin des nobles personnages de la classe ouvrière de Ken Loach, Johnny, interprété par David Thewlis (récompensé à Cannes en 1993, tout comme Mike Leigh pour son scénario), est un Ulysse, affreux, sale et méchant, qui erre dans Londres. Son pendant, le glaçant Jeremy, à l'autre bout du spectre social, va encore plus loin dans l'abjection, sous le vernis du yuppie. Entre les deux, une série de personnages, des femmes victimes, souvent, mais résilientes et solidaires, et un gardien de nuit. Improvisé en partie, tourné sans autorisation dans les rues de la capitale anglaise, _Naked_ est aussi un film du langage, des accents, chargé d'une parole envahissante contre la frustration d'un monde toujours indifférent et froid.\n\nWafa Ghermani",
           "status": 2,
           "copies": [
             {
