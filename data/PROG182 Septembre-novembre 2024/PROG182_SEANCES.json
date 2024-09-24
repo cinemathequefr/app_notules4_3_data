@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-23T15:39:05.790Z",
+  "updatedAt": "2024-09-24T09:30:30.784Z",
   "data": [
     {
       "idSeance": 132987,
@@ -13071,26 +13071,20 @@
       "items": [
         {
           "ordre": 1,
-          "idFilm": 32706,
-          "titre": "Malec chez les fantômes",
-          "titreVo": "Haunted House",
-          "artVo": "The",
-          "realisateurs": "Buster Keaton, Eddie Cline",
-          "annee": 1921,
-          "duree": 24,
-          "generique": "Buster Keaton, Joe Roberts",
+          "idFilm": 154914,
+          "titre": "Six pattes sous terre",
+          "realisateurs": "Nicolas Bianco-Levrin",
+          "annee": 2021,
+          "duree": 3,
           "ageMinimal": 6,
-          "synopsis": "Buster, caissier dans une banque, soupçonne son patron de malversations. Il se rend chez ce dernier, dont la maison semble peuplée de fantômes.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 1844,
-              "duree": 24,
-              "format": "DCP",
-              "intertitres": "INT. ANG."
+              "idCopie": 28571,
+              "duree": 3,
+              "format": "DCP"
             }
-          ],
-          "idFilmBoxoffice": 18572
+          ]
         },
         {
           "ordre": 2,
@@ -13129,98 +13123,55 @@
         },
         {
           "ordre": 4,
-          "idFilm": 154914,
-          "titre": "Six pattes sous terre",
-          "realisateurs": "Nicolas Bianco-Levrin",
-          "annee": 2021,
-          "duree": 3,
-          "ageMinimal": 6,
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28571,
-              "duree": 3,
-              "format": "DCP"
-            }
-          ]
-        },
-        {
-          "ordre": 5,
-          "idFilm": 120327,
-          "titre": "Danse Macabre",
-          "realisateurs": "Dudley Murphy, Francis Bruguière",
-          "annee": 1922,
-          "status": 0,
-          "copies": []
-        },
-        {
-          "ordre": 6,
           "idFilm": 154973,
           "titre": "Sainte Barbe",
           "realisateurs": "Claude Barras, Cédric Louis",
           "annee": 2007,
-          "status": 0,
-          "copies": []
-        },
-        {
-          "ordre": 7,
-          "idFilm": 113046,
-          "titre": "Maison ensorcelée",
-          "art": "La",
-          "realisateurs": "Segundo de Chomón",
-          "annee": 1908,
-          "duree": 7,
+          "duree": 8,
           "status": 0,
           "copies": [
             {
-              "idCopie": 13150,
-              "duree": 7,
-              "format": "35 mm"
-            }
-          ]
-        },
-        {
-          "ordre": 8,
-          "idFilm": 101917,
-          "titre": "Danse du feu",
-          "art": "La",
-          "realisateurs": "Georges Méliès",
-          "annee": 1899,
-          "duree": 2,
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 22807,
-              "duree": 2,
+              "idCopie": 28630,
+              "duree": 8,
               "format": "DCP"
             }
           ]
         },
         {
-          "ordre": 9,
-          "idFilm": 113038,
-          "titre": "Ah ! La barbe",
-          "realisateurs": "Segundo de Chomón",
-          "annee": 1905,
-          "status": 0,
-          "copies": []
-        },
-        {
-          "ordre": 10,
-          "idFilm": 121454,
-          "titre": "Légende du fantôme",
-          "art": "La",
-          "realisateurs": "Segundo de Chomón",
-          "annee": 1908,
-          "duree": 8,
-          "status": 0,
+          "idFilm": 155007,
+          "titre": "DANSE MACABRE",
+          "ordre": 5,
           "copies": [
             {
-              "idCopie": 3129,
+              "idCopie": 28862,
               "duree": 8,
-              "format": "35 mm"
+              "format": "DCP"
             }
-          ]
+          ],
+          "duree": 8
+        },
+        {
+          "ordre": 6,
+          "idFilm": 32706,
+          "titre": "Malec chez les fantômes",
+          "titreVo": "Haunted House",
+          "artVo": "The",
+          "realisateurs": "Buster Keaton, Eddie Cline",
+          "annee": 1921,
+          "duree": 24,
+          "generique": "Buster Keaton, Joe Roberts",
+          "ageMinimal": 6,
+          "synopsis": "Buster, caissier dans une banque, soupçonne son patron de malversations. Il se rend chez ce dernier, dont la maison semble peuplée de fantômes.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 1844,
+              "duree": 24,
+              "format": "DCP",
+              "intertitres": "INT. ANG."
+            }
+          ],
+          "idFilmBoxoffice": 18572
         }
       ]
     },

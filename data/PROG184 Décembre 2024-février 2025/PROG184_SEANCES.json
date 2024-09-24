@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-24T08:45:10.883Z",
+  "updatedAt": "2024-09-24T10:22:49.174Z",
   "data": [
     {
       "idSeance": 137061,
@@ -1640,7 +1640,34 @@
           "idFilmBoxoffice": 290064
         }
       ],
-      "mention": "Avant-première"
+      "mention": "Avant-première. Séance présentée par David Cronenberg et Diane Kruger"
+    },
+    {
+      "idSeance": 185133,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2690,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 30563,
+      "typeEvenement": 14,
+      "dateHeure": "2025-01-23T20:00:00",
+      "typeConference": "Leçon de cinéma",
+      "idSalle": "HL",
+      "duree": 90,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 30563,
+          "idTypeConf": 15,
+          "titre": "David Cronenberg par David Cronenberg, une leçon de cinéma",
+          "duree": 90
+        }
+      ]
     },
     {
       "idSeance": 137205,
@@ -3243,7 +3270,8 @@
               "duree": 80,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 19404
@@ -3498,7 +3526,8 @@
               "duree": 111,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 40143
@@ -9892,7 +9921,7 @@
           "idFilmBoxoffice": 8762
         }
       ],
-      "mention": "Avant-première. Séance présentée par Ani Hamel et Francis Kurkdjian"
+      "mention": "Avant-première. Séance présentée par Ani Hamel"
     },
     {
       "idSeance": 139372,
