@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-24T13:33:12.519Z",
+  "updatedAt": "2024-09-24T14:54:26.276Z",
   "data": [
     {
       "idSeance": 137061,
@@ -5147,19 +5147,19 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28748,
-              "duree": 102,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
               "idCopie": 28826,
               "duree": 102,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 28748,
+              "duree": 102,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 20971
@@ -6351,23 +6351,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 11750,
-              "duree": 90,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 11751,
               "duree": 90,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 11749,
-              "duree": 0,
-              "format": "35 mm"
             }
           ],
           "idFilmBoxoffice": 2250
@@ -6864,7 +6852,8 @@
           ],
           "idFilmBoxoffice": 7121
         }
-      ]
+      ],
+      "mention": "Séance présentée par Isaac Gaido-Daniel"
     },
     {
       "idSeance": 184847,
@@ -12892,7 +12881,7 @@
           "idCycle": 953,
           "idCategorie": 3643,
           "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
-          "titreSousCycle": "Mad Max"
+          "titreSousCycle": "Mad Max, l'intégrale"
         }
       ],
       "idEvenement": 31589,
@@ -12932,7 +12921,7 @@
           "idCycle": 953,
           "idCategorie": 3643,
           "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
-          "titreSousCycle": "Mad Max"
+          "titreSousCycle": "Mad Max, l'intégrale"
         }
       ],
       "idEvenement": 31590,
@@ -12973,7 +12962,7 @@
           "idCycle": 953,
           "idCategorie": 3643,
           "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
-          "titreSousCycle": "Mad Max"
+          "titreSousCycle": "Mad Max, l'intégrale"
         }
       ],
       "idEvenement": 31591,
@@ -13021,7 +13010,7 @@
           "idCycle": 953,
           "idCategorie": 3643,
           "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
-          "titreSousCycle": "Mad Max"
+          "titreSousCycle": "Mad Max, l'intégrale"
         }
       ],
       "idEvenement": 31592,
@@ -13711,12 +13700,6 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "FRE"
-            },
-            {
-              "idCopie": 7526,
-              "duree": 133,
-              "format": "35 mm",
-              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 138194
@@ -14093,7 +14076,7 @@
           "idCycle": 953,
           "idCategorie": 3643,
           "titreCycle": "Le cinéma d'apocalypse, 25 indispensables",
-          "titreSousCycle": "Mad Max"
+          "titreSousCycle": "Mad Max, l'intégrale"
         }
       ],
       "idEvenement": 31643,
