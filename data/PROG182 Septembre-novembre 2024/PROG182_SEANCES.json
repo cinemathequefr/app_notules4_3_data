@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-24T09:30:30.784Z",
+  "updatedAt": "2024-09-25T08:23:30.599Z",
   "data": [
     {
       "idSeance": 132987,
@@ -13138,17 +13138,21 @@
           ]
         },
         {
-          "idFilm": 155007,
-          "titre": "DANSE MACABRE",
           "ordre": 5,
+          "idFilm": 155007,
+          "titre": "Danse macabre",
+          "realisateurs": "Philip Jenner",
+          "annee": 1940,
+          "dureeStd": 7,
+          "duree": 8,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28862,
               "duree": 8,
               "format": "DCP"
             }
-          ],
-          "duree": 8
+          ]
         },
         {
           "ordre": 6,
@@ -13589,6 +13593,7 @@
           "realisateurs": "Camilo Restrepo",
           "annee": 2020,
           "duree": 70,
+          "generique": "Luis Felipe \"Pinky\" Lozano, Fernando Úsaga Higuita",
           "status": 2,
           "copies": [
             {
@@ -18214,12 +18219,14 @@
           "idFilm": 41206,
           "titre": "Il était une fois un merle chanteur",
           "titreVo": "Iqo chachvi mgalobeli",
+          "titreNx": "იყო შაშვი მგალობელი",
           "realisateurs": "Otar Iosseliani",
-          "annee": 1971,
+          "annee": 1970,
+          "dureeStd": 85,
           "duree": 85,
           "generique": "Gogi Chkheidze, Gela Kandelaki, Irina Djandieri",
           "synopsis": "Plongée dans la vie d'un jeune percussionniste de l'opéra de Tbilissi. Rêveur et insouciant, il erre dans les rues, au gré de rencontres amicales et sentimentales.",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 18309,
@@ -18228,7 +18235,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1642
         }
       ],
       "mention": "Séance suivie d'une discussion avec Yuna Alonzo"

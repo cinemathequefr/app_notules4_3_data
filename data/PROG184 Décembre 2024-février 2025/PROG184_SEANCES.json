@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-24T16:17:07.794Z",
+  "updatedAt": "2024-09-25T10:04:22.060Z",
   "data": [
     {
       "idSeance": 137061,
@@ -4356,7 +4356,7 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28668,
+              "idCopie": 28864,
               "duree": 90,
               "format": "35 mm",
               "version": "VO",
@@ -8842,7 +8842,8 @@
               "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 4829
         }
       ]
     },
@@ -8911,7 +8912,8 @@
           "realisateurs": "Ivan Mosjoukine",
           "annee": 1921,
           "duree": 81,
-          "status": 1,
+          "generique": "Ivan Mosjoukine, Nathalie Lissenko",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28489,
@@ -12736,7 +12738,8 @@
           "realisateurs": "Melville Webber, James Sibley Watson",
           "annee": 1928,
           "duree": 13,
-          "status": 1,
+          "generique": "Herbert Stern, Hildegarde Watson, Melville Webber",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28686,
@@ -12754,7 +12757,7 @@
           "realisateurs": "Jean Faurez",
           "annee": 1949,
           "duree": 15,
-          "generique": "Guy Decomble, Paul Frankeur, Maurice Schutz",
+          "generique": "Guy Decomble, Paul Frankeur",
           "adaptation": "D'après la nouvelle _Le Cœur révélateur_ d'Edgar Allan Poe.",
           "status": 2,
           "copies": [
@@ -12774,8 +12777,9 @@
           "realisateurs": "Robert Florey",
           "annee": 1932,
           "duree": 61,
+          "generique": "Sidney Fox, Béla Lugosi, Bert Roach",
           "adaptation": "D'après la nouvelle _Double Assassinat dans la rue Morgue_ d'Edgar Allan Poe.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28688,
@@ -12834,7 +12838,7 @@
           "annee": 1953,
           "duree": 7,
           "adaptation": "D'après la nouvelle _Le Cœur révélateur_ d'Edgar Allan Poe.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28683,
@@ -13892,13 +13896,13 @@
         {
           "ordre": 1,
           "idFilm": 54104,
-          "titre": "Grande java",
+          "titre": "Grande Java",
           "art": "La",
           "realisateurs": "Philippe Clair",
           "annee": 1970,
           "duree": 85,
           "generique": "Francis Blanche, Corinne Le Poulain, Gérard Rinaldi",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28711,
@@ -13935,7 +13939,7 @@
           "annee": 1982,
           "duree": 105,
           "generique": "Aldo Maccione, Raymond Pellegrin, Philippe Clair",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28712,
@@ -15218,7 +15222,8 @@
           "realisateurs": "Tara Maurel",
           "annee": 2024,
           "duree": 15,
-          "status": 0,
+          "generique": "Azaé Bertizzolo-Carlier, Élise Lhomeau, Elliott Pineau-Orcier",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28859,
@@ -15234,7 +15239,8 @@
           "realisateurs": "Alexis Diop",
           "annee": 2024,
           "duree": 25,
-          "status": 1,
+          "generique": "Benjamin Sulpice, Arthur Beaudoire",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28351,
@@ -15250,7 +15256,8 @@
           "realisateurs": "Valentin Noujaïm",
           "annee": 2024,
           "duree": 24,
-          "status": 0,
+          "generique": "Adil Bettahrat, Darina Al Joundi",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28858,
@@ -15286,7 +15293,8 @@
           "realisateurs": "Romain de Saint-Blanquat",
           "annee": 2023,
           "duree": 87,
-          "status": 0,
+          "generique": "Léonie Dahan-Lamort, Lilith Grasmug",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28780,
@@ -15323,7 +15331,8 @@
           "annee": 2022,
           "generique": "Bárbara Colen, Nena Inoue, Eucir De Souza",
           "status": 2,
-          "copies": []
+          "copies": [],
+          "idFilmBoxoffice": 299885
         }
       ],
       "mention": "Séance suivie d'une discussion avec Flávia Neves"
@@ -15510,7 +15519,7 @@
           "dureeStd": 85,
           "duree": 85,
           "generique": "Diana Lorys, Paul Muller, Jack Taylor, Soledad Miranda",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28789,
@@ -15549,8 +15558,8 @@
           "realisateurs": "Bruno Corbucci",
           "annee": 1982,
           "duree": 90,
-          "generique": "Gloria Guida",
-          "status": 1,
+          "generique": "Gloria Guida, Renato Pozzetto",
+          "status": 2,
           "copies": [
             {
               "idCopie": 8793,
@@ -15595,7 +15604,7 @@
           "annee": 1983,
           "duree": 101,
           "generique": "Ugo Tognazzi, Mariangela Melato, Vittorio Caprioli",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28791,
@@ -15711,8 +15720,9 @@
           "annee": 1970,
           "duree": 81,
           "generique": "Christopher Lee, Marie Liljedahl, Maria Rohm",
+          "adaptation": "D'après le roman _La Philosophie dans le boudoir_ du Marquis de Sade.",
           "synopsis": "Un couple d'aristocrates attire une jeune fille pure dans son île avec l'objectif de la corrompre.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 920,
@@ -16303,7 +16313,8 @@
           "annee": 2024,
           "dureeStd": 78,
           "duree": 78,
-          "status": 0,
+          "generique": "Benjamin Voisin, Emmanuelle Bercot, Grégoire Ludig, Rivaldo Pawawi",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28860,
