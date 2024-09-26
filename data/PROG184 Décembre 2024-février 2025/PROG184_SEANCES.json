@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-26T09:55:16.977Z",
+  "updatedAt": "2024-09-26T10:09:56.645Z",
   "data": [
     {
       "idSeance": 137061,
@@ -16478,6 +16478,48 @@
           "status": 2,
           "copies": [],
           "idFilmBoxoffice": 225535
+        }
+      ]
+    },
+    {
+      "idSeance": 136882,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 816,
+          "idCategorie": 3642,
+          "titreCycle": "Restaurations et raretés",
+          "titreSousCycle": "Restaurations"
+        }
+      ],
+      "idEvenement": 31782,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-27T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59078,
+          "titre": "Vagabond de Tokyo",
+          "art": "Le",
+          "titreVo": "Tōkyō nagaremono",
+          "titreNx": "東京流れ者",
+          "realisateurs": "Seijun Suzuki",
+          "annee": 1966,
+          "dureeStd": 83,
+          "duree": 83,
+          "generique": "Tetsuya Watari, Chieko Matsubara, Hideaki Nitani",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28865,
+              "duree": 83,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 10451
         }
       ]
     }
