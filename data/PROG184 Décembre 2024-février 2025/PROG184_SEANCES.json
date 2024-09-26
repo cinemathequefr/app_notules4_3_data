@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-26T08:47:37.526Z",
+  "updatedAt": "2024-09-26T09:55:16.977Z",
   "data": [
     {
       "idSeance": 137061,
@@ -714,12 +714,18 @@
           "idCategorie": 2673,
           "titreCycle": "David Cronenberg",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 624,
+          "idCategorie": 2690,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 25728,
-      "typeEvenement": 13,
       "dateHeure": "2025-01-23T18:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -746,6 +752,13 @@
             }
           ],
           "idFilmBoxoffice": 2460
+        },
+        {
+          "ordre": 2,
+          "idConf": 30563,
+          "idTypeConf": 15,
+          "titre": "David Cronenberg par David Cronenberg, une leçon de cinéma",
+          "duree": 90
         }
       ]
     },
@@ -1642,33 +1655,6 @@
         }
       ],
       "mention": "Avant-première. Séance présentée par David Cronenberg et Diane Kruger"
-    },
-    {
-      "idSeance": 185133,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 624,
-          "idCategorie": 2690,
-          "titreCycle": "David Cronenberg",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 30563,
-      "typeEvenement": 14,
-      "dateHeure": "2025-01-23T20:00:00",
-      "typeConference": "Leçon de cinéma",
-      "idSalle": "HL",
-      "duree": 90,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 30563,
-          "idTypeConf": 15,
-          "titre": "David Cronenberg par David Cronenberg, une leçon de cinéma",
-          "duree": 90
-        }
-      ]
     },
     {
       "idSeance": 137205,
@@ -16463,6 +16449,37 @@
         }
       ],
       "mention": "Séance suivie d'une discussion avec João Paulo Miranda Maria"
+    },
+    {
+      "idSeance": 185143,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 796,
+          "idCategorie": 3469,
+          "titreCycle": "Sergueï Paradjanov",
+          "titreSousCycle": "Autour de Sergueï Paradjanov"
+        }
+      ],
+      "idEvenement": 31781,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-14T15:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155009,
+          "titre": "Scandale Paradjanov ou la vie tumultueuse d'un artiste",
+          "art": "Le",
+          "realisateurs": "Patrick Cazals",
+          "annee": 2013,
+          "generique": "Serge Avédikian, Ioulia Peressild, Zaza Kachibadze",
+          "miniTexte": "Incarnée avec malice par le réalisateur Serge Avédikian, une évocation de la vie tumultueuse du cinéaste, poète et plasticien soviétique, qui subit les persécutions de son pays et lutta pour la liberté artistique.",
+          "status": 2,
+          "copies": [],
+          "idFilmBoxoffice": 225535
+        }
+      ]
     }
   ]
 }
