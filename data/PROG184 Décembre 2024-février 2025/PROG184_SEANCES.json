@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-26T11:43:47.283Z",
+  "updatedAt": "2024-09-26T14:22:29.975Z",
   "data": [
     {
       "idSeance": 137061,
@@ -11664,7 +11664,8 @@
           ],
           "idFilmBoxoffice": 974
         }
-      ]
+      ],
+      "mention": "Séance présentée par Frédéric Bonnaud"
     },
     {
       "idSeance": 184999,
@@ -14213,7 +14214,8 @@
           ],
           "idFilmBoxoffice": 67
         }
-      ]
+      ],
+      "mention": "Séance présentée par Bernard Payen"
     },
     {
       "idSeance": 137948,
@@ -14339,7 +14341,7 @@
           "idFilmBoxoffice": 1906
         }
       ],
-      "mention": "Ouverture de la rétrospective"
+      "mention": "Ouverture de la rétrospective. Séance présentée par Frédéric Bonnaud"
     },
     {
       "idSeance": 185029,
@@ -14761,7 +14763,8 @@
           ],
           "idFilmBoxoffice": 394
         }
-      ]
+      ],
+      "mention": "Séance présentée par Frédéric Bonnaud"
     },
     {
       "idSeance": 145271,
@@ -14937,7 +14940,8 @@
           ],
           "idFilmBoxoffice": 10220
         }
-      ]
+      ],
+      "mention": "Séance présentée par Jean-François Rauger"
     },
     {
       "idSeance": 145272,
@@ -14981,7 +14985,8 @@
           ],
           "idFilmBoxoffice": 4165
         }
-      ]
+      ],
+      "mention": "Séance présentée par Jean-François Rauger"
     },
     {
       "idSeance": 185023,
@@ -15215,6 +15220,43 @@
         }
       ],
       "mention": "Séance suivie d'une discussion avec Alexis Diop, Tara Maurel et Valentin Noujaïm"
+    },
+    {
+      "idSeance": 185150,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3637,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Juliana Rojas"
+        }
+      ],
+      "idEvenement": 31712,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-03T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154997,
+          "titre": "Cidade; Campo",
+          "realisateurs": "Juliana Rojas",
+          "annee": 2024,
+          "dureeStd": 119,
+          "duree": 119,
+          "generique": "Fernanda Vianna, Mirella Façanha, Bruna Linzmeyer",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28866,
+              "duree": 119,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 284851
+        }
+      ]
     },
     {
       "idSeance": 185127,
@@ -15929,7 +15971,8 @@
           ],
           "idFilmBoxoffice": 28367
         }
-      ]
+      ],
+      "mention": "Séance présentée par Isaac Gaido-Daniel"
     },
     {
       "idSeance": 185053,
@@ -16151,7 +16194,8 @@
           ],
           "idFilmBoxoffice": 103846
         }
-      ]
+      ],
+      "mention": "Séance présentée par Bernard Benoliel"
     },
     {
       "idSeance": 185106,
