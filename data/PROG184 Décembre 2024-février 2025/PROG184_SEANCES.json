@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-27T14:10:53.366Z",
+  "updatedAt": "2024-09-27T14:27:21.828Z",
   "data": [
     {
       "idSeance": 185115,
@@ -16195,12 +16195,12 @@
           "ordre": 1,
           "idFilm": 155013,
           "titre": "Delirium",
-          "titreVo": "foto di Gioia",
+          "titreVo": "Foto di Gioia",
           "artVo": "Le",
           "realisateurs": "Lamberto Bava",
           "annee": 1987,
           "duree": 94,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28879,
@@ -16209,7 +16209,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 148346
         }
       ]
     }
