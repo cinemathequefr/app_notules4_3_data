@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-27T08:09:45.746Z",
+  "updatedAt": "2024-09-27T09:31:52.895Z",
   "data": [
     {
       "idSeance": 185115,
@@ -4461,27 +4461,11 @@
           "titre": "French Connection 2",
           "realisateurs": "John Frankenheimer",
           "annee": 1975,
-          "duree": 116,
+          "duree": 118,
           "generique": "Gene Hackman, Fernando Rey, Bernard Fresson",
           "miniTexte": "Gene Hackman rempile dans le rôle de Popeye Doyle, le flic acharné, irascible, sur la piste du trafiquant de drogue Charnier. L'intrigue s'est déplacée de New York à Marseille, et il se retrouve confronté à une culture étrangère. Quatre ans après le premier opus signé Friedkin, Frankenheimer réalise une suite musclée et toujours efficace.",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 28751,
-              "duree": 116,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 28852,
-              "duree": 118,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF"
-            },
             {
               "idCopie": 28853,
               "duree": 118,
@@ -4489,19 +4473,6 @@
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 28783,
-              "duree": 118,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
-              "idCopie": 28803,
-              "duree": 118,
-              "version": "VO",
-              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 20974
@@ -4767,17 +4738,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28787,
-              "duree": 119,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
               "idCopie": 28753,
               "duree": 119,
               "format": "35 mm",
-              "langCopie": "ENG"
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 43590
