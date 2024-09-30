@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-30T13:44:25.268Z",
+  "updatedAt": "2024-09-30T15:09:13.253Z",
   "data": [
     {
       "idSeance": 185115,
@@ -4595,14 +4595,17 @@
           "art": "The",
           "realisateurs": "John Frankenheimer",
           "annee": 2001,
-          "duree": 6,
+          "duree": 8,
           "generique": "Clive Owen, Tomas Milian, Franklin Dennis Jones",
           "miniTexte": "L'un des multiples courts métrages d'une série diffusée exclusivement sur Internet, qui mettent chacun en scène Clive Owen au volant d'une BMW, pour assurer indirectement la promotion de la marque.",
           "status": 2,
           "copies": [
             {
               "idCopie": 28844,
-              "duree": 6
+              "duree": 8,
+              "format": "Numérique",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 200676
