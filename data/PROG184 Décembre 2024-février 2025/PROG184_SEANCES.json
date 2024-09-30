@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-09-27T14:27:21.828Z",
+  "updatedAt": "2024-09-30T08:19:05.799Z",
   "data": [
     {
       "idSeance": 185115,
@@ -16147,7 +16147,7 @@
           "idCycle": 14,
           "idCategorie": 3655,
           "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Une soirée avec... Lamberto Bava"
+          "titreSousCycle": "Une soirée avec Lamberto Bava"
         }
       ],
       "idEvenement": 31801,
@@ -16162,7 +16162,8 @@
           "realisateurs": "Lamberto Bava",
           "annee": 1992,
           "duree": 99,
-          "status": 0,
+          "generique": "Joanna Pacuła, Tomas Arana, François Montagut",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28880,
@@ -16173,7 +16174,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Lamberto Bava"
     },
     {
       "idSeance": 185310,
@@ -16183,7 +16185,7 @@
           "idCycle": 14,
           "idCategorie": 3655,
           "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Une soirée avec... Lamberto Bava"
+          "titreSousCycle": "Une soirée avec Lamberto Bava"
         }
       ],
       "idEvenement": 31802,
@@ -16200,7 +16202,8 @@
           "realisateurs": "Lamberto Bava",
           "annee": 1987,
           "duree": 94,
-          "status": 1,
+          "generique": "Serena Grandi, Vanni Corbellini, George Eastman",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28879,
@@ -16212,7 +16215,8 @@
           ],
           "idFilmBoxoffice": 148346
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec Lamberto Bava"
     }
   ]
 }
