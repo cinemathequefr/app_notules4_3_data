@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-01T14:04:35.702Z",
+  "updatedAt": "2024-10-01T14:35:54.273Z",
   "data": [
     {
       "idSeance": 185115,
@@ -4984,19 +4984,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28746,
-              "duree": 112,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "selected": true
-            },
-            {
               "idCopie": 28836,
               "duree": 112,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 31745
@@ -5092,16 +5085,16 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 28818,
+              "duree": 106
+            },
+            {
               "idCopie": 28819,
               "duree": 106,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
               "selected": true
-            },
-            {
-              "idCopie": 28818,
-              "duree": 106
             }
           ],
           "idFilmBoxoffice": 41123
@@ -5141,16 +5134,16 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 28818,
+              "duree": 106
+            },
+            {
               "idCopie": 28819,
               "duree": 106,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
               "selected": true
-            },
-            {
-              "idCopie": 28818,
-              "duree": 106
             }
           ],
           "idFilmBoxoffice": 41123
@@ -14091,7 +14084,7 @@
           "idFilmBoxoffice": 1680
         }
       ],
-      "mention": "Séance présentée par Marién Gomez"
+      "mention": "Séance présentée par Marién Gómez"
     },
     {
       "idSeance": 184914,

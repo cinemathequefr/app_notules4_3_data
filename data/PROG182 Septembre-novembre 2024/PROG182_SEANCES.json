@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-01T11:22:08.875Z",
+  "updatedAt": "2024-10-01T14:35:59.083Z",
   "data": [
     {
       "idSeance": 132987,
@@ -16261,26 +16261,6 @@
       ]
     },
     {
-      "idSeance": 132057,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 140,
-          "idCategorie": 3435,
-          "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "Festival Biarritz Amérique latine 2024"
-        }
-      ],
-      "idEvenement": 31211,
-      "typeEvenement": 13,
-      "libelleEvenement": "PALMARÈS DU FESTIVAL BIARRITZ AMÉRIQUE LATINE",
-      "dateHeure": "2024-10-07T19:00:00",
-      "idSalle": "LE",
-      "theorique": true,
-      "mention": "Séance présentée par Jean-Christophe Berjon",
-      "items": []
-    },
-    {
       "idSeance": 131658,
       "idProg": 182,
       "idCycleCategories": [
@@ -18200,6 +18180,66 @@
         }
       ],
       "mention": "Séance suivie d'une discussion avec Yuna Alonzo"
+    },
+    {
+      "idSeance": 132057,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3435,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Festival Biarritz Amérique latine 2024"
+        }
+      ],
+      "idEvenement": 31815,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-07T19:00:00",
+      "idSalle": "LE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155011,
+          "titre": "Visita",
+          "art": "A",
+          "realisateurs": "Ivan Cordeiro",
+          "annee": 2024,
+          "dureeStd": 30,
+          "duree": 30,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28875,
+              "duree": 30,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 154845,
+          "titre": "Baby",
+          "realisateurs": "Marcelo Caetano",
+          "annee": 2024,
+          "duree": 107,
+          "generique": "João Pedro Mariano, Ricardo Teodoro, Ana Flavia Cavalcanti",
+          "miniTexte": "À sa sortie d'un centre de détention pour mineurs, Wellington se retrouve seul et à la dérive dans les rues de São Paulo, sans nouvelles de ses parents et sans ressources pour commencer une nouvelle vie. Dans un cinéma porno, il rencontre Ronaldo, un homme mûr qui lui enseigne de nouvelles façons de survivre. Peu à peu, leur relation se transforme en passion conflictuelle, oscillant entre exploitation et protection, jalousie et complicité.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28032,
+              "duree": 107,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1000001160
+        }
+      ],
+      "mention": "Séance présentée par Jean-Christophe Berjon"
     }
   ]
 }
