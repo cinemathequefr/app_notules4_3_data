@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-01T08:56:28.221Z",
+  "updatedAt": "2024-10-01T09:51:52.458Z",
   "data": [
     {
       "idSeance": 132987,
@@ -11623,6 +11623,45 @@
       "mention": "Ouverture de la rétrospective. Séance présentée par Marin Karmitz"
     },
     {
+      "idSeance": 185330,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 391,
+          "idCategorie": 1759,
+          "titreCycle": "Les 50 ans de MK2",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31033,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-10T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48865,
+          "titre": "Sauve qui peut (la vie)",
+          "realisateurs": "Jean-Luc Godard",
+          "annee": 1979,
+          "dureeStd": 87,
+          "duree": 87,
+          "generique": "Isabelle Huppert, Jacques Dutronc, Nathalie Baye",
+          "synopsis": "« Qu'un plan ne suive pas un autre plan (un cadre, disaient Eisenstein et Dovjenko) parce que c'est écrit (_mektoub_) mais parce que le plan qui précède doit se changer dans un autre pour poursuivre son mouvement, comme dans un jeu ou dans une société les gens s'accordent ou pas pour stopper ou continuer un mouvement social. » (JLG, lettre n° 2 à l'avance sur recettes, 1979)",
+          "miniTexte": "Les trajectoires d'un homme et de deux femmes prisonniers d'une époque de violence et de désespoir. Avec une brutalité vertigineuse, Godard met à nu les réalités dégradantes de la société, pour mieux méditer sur les rapports humains et sexuels. Construit comme une pièce musicale, un film à trois voix, aussi cru qu'émouvant, qui divise les festivaliers à Cannes, et connaît le succès en France et à l'étranger.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 19579,
+              "duree": 87,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 99078
+        }
+      ]
+    },
+    {
       "idSeance": 144464,
       "idProg": 182,
       "idCycleCategories": [
@@ -11937,48 +11976,6 @@
             }
           ],
           "idFilmBoxoffice": 2547
-        }
-      ]
-    },
-    {
-      "idSeance": 134107,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 391,
-          "idCategorie": 1759,
-          "titreCycle": "Les 50 ans de MK2",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31045,
-      "typeEvenement": 13,
-      "dateHeure": "2024-10-10T20:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 42717,
-          "titre": "Nuit de San Lorenzo",
-          "art": "La",
-          "titreVo": "Notte di San Lorenzo",
-          "artVo": "La",
-          "realisateurs": "Paolo Taviani, Vittorio Taviani",
-          "annee": 1981,
-          "duree": 106,
-          "generique": "Omero Antonutti, Margarita Lozano, Claudio Bigagli",
-          "miniTexte": "La nuit du 10 août, une femme se souvient de l'été 44, quand la terreur des exactions de l'armée allemande régnait sur son village. Dans la tradition des bardes toscans et fortement inspirés de leurs souvenirs personnels, les frères Taviani invitent à écouter le conte historique de la nuit de San Lorenzo, pendant laquelle chacun peut exaucer un vœu. Grand Prix du jury à Cannes.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 21025,
-              "duree": 106,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 1872
         }
       ]
     },

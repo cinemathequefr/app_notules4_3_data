@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-01T08:56:34.537Z",
+  "updatedAt": "2024-10-01T09:51:48.565Z",
   "data": [
     {
       "idSeance": 185115,
@@ -10493,8 +10493,18 @@
           "titre": "Sergueï Paradjanov, le rebelle",
           "realisateurs": "Patrick Cazals",
           "annee": 2003,
+          "duree": 52,
           "miniTexte": "Portrait du cinéaste arménien de Tbilissi, mort en 1990. L'un des créateurs les plus originaux du XX<sup>e</sup> siècle, qui connut de longues années d'emprisonnement en URSS, laisse une œuvre essentielle pour l'histoire du cinéma russe et des peuples caucasiens.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 28884,
+              "duree": 52,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 4367
         }
       ],
