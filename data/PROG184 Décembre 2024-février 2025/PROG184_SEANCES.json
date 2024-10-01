@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-01T09:51:48.565Z",
+  "updatedAt": "2024-10-01T11:22:05.149Z",
   "data": [
     {
       "idSeance": 185115,
@@ -4631,21 +4631,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 28742,
-              "duree": 96,
-              "version": "VO",
-              "langCopie": "ENG",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 28806,
-              "duree": 96,
-              "version": "VO",
-              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 15691
@@ -4861,19 +4847,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28747,
-              "duree": 106,
-              "format": "35 mm",
-              "version": "VF",
-              "langCopie": "ENG",
-              "selected": true
-            },
-            {
               "idCopie": 28785,
               "duree": 106,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "selected": true
             },
             {
               "idCopie": 28776,
@@ -14756,7 +14735,8 @@
           ],
           "idFilmBoxoffice": 145902
         }
-      ]
+      ],
+      "mention": "Séance présentée par Emilie Cauquy"
     },
     {
       "idSeance": 185020,
@@ -16174,7 +16154,8 @@
           ],
           "idFilmBoxoffice": 10451
         }
-      ]
+      ],
+      "mention": "Séance présentée par Matthieu Grimault"
     },
     {
       "idSeance": 185311,
@@ -16281,8 +16262,9 @@
           "duree": 87,
           "generique": "Guillaume des Forêts, Isabelle Weingarten, Jean-Maurice Monnayer",
           "synopsis": "Lasse d'attendre le retour de son amant, Marthe a voulu mourir et Jacques l'en a empêchée. Ils errent dans Paris et se racontent leurs vies : le jeune homme tombe amoureux à son tour.",
+          "miniTexte": "Rencontres nocturnes sur le Pont-Neuf à Paris. À travers le portrait de deux solitaires, tout en pudeur et en ellipses, Robert Bresson capte la pulsation et la douceur mélancolique de la ville. Adapté des _Nuits blanches_ de Dostoïevski, le film poursuit l'aventure bressonienne des « modèles », à force de mouvements et de gestes, pour esquisser la rêverie d'un promeneur et sa quête de l'amour insaisissable.",
           "commentaire": "Une ville hantée par la jeunesse indolente. C'est Paris, dont Robert Bresson capte ici la pulsation traînante et la douceur mélancolique. Après _Une femme douce_ (1969), le réalisateur tourne à nouveau en couleurs et retrouve l'influence majeure de Dostoïevski. Il porte, pour la première fois, une attention particulière aux extérieurs, musiques, habits et illusions de ses contemporains. C'est pourquoi la palette chromatique exigée du chef opérateur Pierre Lhomme est vive, comme les aplats que Jacques (Guillaume des Forêts), jeune peintre silencieux, appose sur ses toiles. À peine sorti de l'enfance, celui-ci montre la circulation erratique du désir sans objet, le vague-à-l'âme qui surprend au printemps. Le hasard le fait rencontrer une jeune femme passionnée (Isabelle Weingarten) pour qui chaque attachement a valeur de sentence. À travers le portrait, tout en pudeur et en ellipses, de deux solitaires, le film poursuit l'aventure bressonienne des modèles ; refusant de parler d'acteurs, le réalisateur impose à chaque film une diction, un visage vaste comme un paysage (Jacques à travers la vitre), un corps qui se révèle sous nos yeux. Ainsi, dans une séquence inoubliable, la caméra suit les frémissements de la peau de Marthe au miroir. Elle se laisse aller au rythme sensuel d'une musique, portée par l'élan irisé de son propre désir. Elle surgit telle une pluie de printemps. Comment Jacques a-t-il pu y croire ? Simplement, comme la nuit veut croire au lendemain.\n\nGabriela Trujillo",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28762,
@@ -16293,7 +16275,8 @@
           ],
           "idFilmBoxoffice": 1251
         }
-      ]
+      ],
+      "mention": "Séance présentée par Emilie Cauquy"
     }
   ]
 }
