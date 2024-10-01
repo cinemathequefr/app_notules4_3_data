@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-01T07:41:03.405Z",
+  "updatedAt": "2024-10-01T08:56:34.537Z",
   "data": [
     {
       "idSeance": 185115,
@@ -3164,11 +3164,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28443,
+              "idCopie": 28445,
               "duree": 92,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 36597
@@ -10622,7 +10622,8 @@
           ],
           "idFilmBoxoffice": 82807
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Nicolas Giraud et Fixi"
     },
     {
       "idSeance": 139414,
