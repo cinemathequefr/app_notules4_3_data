@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-02T12:29:01.879Z",
+  "updatedAt": "2024-10-02T14:13:01.864Z",
   "data": [
     {
       "idSeance": 132987,
@@ -4777,6 +4777,50 @@
           "idTypeConf": 16,
           "titre": "Dialogue avec Murielle Joudet",
           "duree": 60
+        }
+      ]
+    },
+    {
+      "idSeance": 185337,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 785,
+          "idCategorie": 3367,
+          "titreCycle": "George Cukor",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30723,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-13T17:30:00",
+      "idSalle": "LE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31415,
+          "titre": "Liaisons coupables",
+          "art": "Les",
+          "titreVo": "Chapman Report",
+          "artVo": "The",
+          "realisateurs": "George Cukor",
+          "annee": 1962,
+          "duree": 123,
+          "generique": "Shelley Winters, Jane Fonda, Claire Bloom",
+          "adaptation": "D'après le roman _Les Liaisons coupables_ d'Irving Wallace.",
+          "miniTexte": "Quatre femmes, quatre façons de vivre une sexualité névrosée, libre, ou entravée. Ou comment Cukor, filmant ses magnifiques actrices, compose avec délicatesse le portrait en mosaïque de la vie sexuelle – et de la psyché – de l'Américaine moyenne, dans les années 60.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 10453,
+              "duree": 123,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 59917
         }
       ]
     },
