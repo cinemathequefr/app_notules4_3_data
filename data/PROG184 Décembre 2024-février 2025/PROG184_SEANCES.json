@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-02T12:52:30.992Z",
+  "updatedAt": "2024-10-02T14:45:02.528Z",
   "data": [
     {
       "idSeance": 185115,
@@ -773,11 +773,11 @@
           "idFilmBoxoffice": 110222
         },
         {
+          "ordre": 2,
           "idConf": 31817,
-          "titre": "DIALOGUE AVEC VIGGO MORTENSEN",
-          "typeConference": "Dialogue",
-          "duree": 90,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Viggo Mortensen",
+          "duree": 90
         }
       ]
     },
@@ -3769,22 +3769,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28584,
-              "duree": 101,
-              "format": "16 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
               "idCopie": 28675,
               "duree": 101,
               "format": "35 mm",
               "version": "VO",
-              "selected": true
-            },
-            {
-              "idCopie": 28680,
-              "duree": 101
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 69654
@@ -3823,7 +3812,9 @@
           "copies": [
             {
               "idCopie": 28671,
-              "duree": 127
+              "duree": 127,
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 49932
@@ -4047,12 +4038,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 28667,
-              "duree": 90
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 9705
@@ -4130,16 +4116,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28661,
-              "duree": 22,
-              "format": "16 mm"
-            },
-            {
               "idCopie": 28674,
               "duree": 22,
-              "format": "35 mm",
+              "format": "Numérique",
               "version": "VO",
-              "selected": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 29735
@@ -4160,7 +4141,8 @@
               "duree": 33,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -4203,13 +4185,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "selected": true
-            },
-            {
-              "idCopie": 28754,
-              "duree": 109,
-              "version": "VO",
-              "langCopie": "ENG"
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 3240
@@ -4240,32 +4216,19 @@
           "titreVo": "All Fall Down",
           "realisateurs": "John Frankenheimer",
           "annee": 1962,
-          "duree": 111,
+          "duree": 109,
           "generique": "Eva Marie Saint, Warren Beatty, Karl Malden",
           "adaptation": "D'après le roman _All Fall Down_ de James Leo Herlihy.",
           "miniTexte": "Karl Malden en père désœuvré, Angela Lansbury en mère puritaine et dépassée, Warren Beatty en séducteur pervers et agressif, adulé par son frère cadet qui se bat pour le sortir de prison. À travers les relations d'une famille bancale, Frankenheimer brosse le portrait féroce d'une certaine Amérique des années 60 et de sa jeunesse désaxée.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28790,
-              "duree": 111,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "selected": true
-            },
-            {
               "idCopie": 28576,
               "duree": 109,
               "format": "16 mm",
               "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
-              "idCopie": 28805,
-              "duree": 111,
-              "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 48702
@@ -4305,21 +4268,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "selected": true
-            },
-            {
-              "idCopie": 28784,
-              "duree": 102,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
-              "idCopie": 28745,
-              "duree": 102,
-              "format": "35 mm",
-              "version": "VF",
-              "langCopie": "FRE"
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 44670
@@ -4398,18 +4347,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28839,
+              "idCopie": 28758,
               "duree": 80,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "selected": true
-            },
-            {
-              "idCopie": 28758,
-              "duree": 80,
-              "version": "VO",
-              "langCopie": "ENG"
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 202092
@@ -4453,13 +4396,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "selected": true
-            },
-            {
-              "idCopie": 28838,
-              "duree": 91,
-              "version": "VO",
-              "langCopie": "ENG"
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 9501
@@ -4853,12 +4790,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "selected": true
-            },
-            {
-              "idCopie": 28776,
-              "duree": 113,
-              "version": "VO"
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 27
@@ -5673,12 +5605,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 28777,
-              "duree": 123
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 21154
@@ -5885,32 +5812,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28759,
-              "duree": 170,
-              "format": "35 mm",
-              "version": "VF",
-              "langCopie": "ENG",
-              "selected": true
-            },
-            {
               "idCopie": 28782,
               "duree": 170,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
-              "idCopie": 28781,
-              "duree": 170,
-              "format": "16 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
-              "idCopie": 28804,
-              "duree": 170,
-              "version": "VO",
-              "langCopie": "GER"
+              "langCopie": "ENG",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 38703
@@ -6206,7 +6113,7 @@
       ]
     },
     {
-      "idSeance": 138508,
+      "idSeance": 185336,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -6218,8 +6125,8 @@
       ],
       "idEvenement": 31357,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-26T18:30:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-02-02T15:00:00",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
@@ -7518,7 +7425,7 @@
       ],
       "idEvenement": 31382,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-30T19:30:00",
+      "dateHeure": "2025-01-30T19:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -7743,7 +7650,7 @@
       ],
       "idEvenement": 31386,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-31T19:30:00",
+      "dateHeure": "2025-01-31T19:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -7914,6 +7821,52 @@
             }
           ],
           "idFilmBoxoffice": 887
+        }
+      ]
+    },
+    {
+      "idSeance": 185335,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31389,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-26T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34443,
+          "titre": "Porgy and Bess",
+          "realisateurs": "Otto Preminger, Rouben Mamoulian",
+          "annee": 1959,
+          "duree": 136,
+          "generique": "Sidney Poitier, Dorothy Dandridge, Sammy Davis Jr.",
+          "adaptation": "D'après l'opéra _Porgy and Bess_ de George Gershwin.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28750,
+              "duree": 136,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true,
+              "selected": true
+            },
+            {
+              "idCopie": 28485,
+              "duree": 136,
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 18730
         }
       ]
     },
@@ -15573,7 +15526,7 @@
       ],
       "idEvenement": 31751,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-29T19:30:00",
+      "dateHeure": "2025-01-29T19:00:00",
       "idSalle": "JE",
       "items": [
         {
