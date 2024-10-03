@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-03T10:31:41.417Z",
+  "updatedAt": "2024-10-03T12:22:03.891Z",
   "data": [
     {
       "idSeance": 185115,
@@ -176,6 +176,96 @@
       ]
     },
     {
+      "idSeance": 185355,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25722,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-06T16:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55780,
+          "titre": "Rage",
+          "titreVo": "Rabid",
+          "realisateurs": "David Cronenberg",
+          "annee": 1977,
+          "duree": 91,
+          "generique": "Marilyn Chambers, Frank Moore, Joe Silver",
+          "synopsis": "Après avoir subi une chirurgie esthétique expérimentale, une jeune femme ne peut plus s'alimenter que de sang humain. Ses victimes se transforment à leur tour en zombies assoiffés, et l'épidémie se répand rapidement dans toute la ville.",
+          "miniTexte": "Une greffe d'un nouveau genre transforme Marilyn Chambers – icône du cinéma pornographique – en « patient zéro » d'une épidémie de rage. Deux ans après _Frissons_, Cronenberg réutilise avec brio l'allégorie sexuelle comme vecteur d'horreur pour unir la chair, la violence et la science. Une vision prémonitoire et troublante des années sida.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23899,
+              "duree": 91,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 27730,
+              "duree": 91,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 2408
+        }
+      ]
+    },
+    {
+      "idSeance": 185350,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25723,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-27T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 52912,
+          "titre": "Chromosome 3",
+          "titreVo": "Brood",
+          "artVo": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 1979,
+          "duree": 92,
+          "generique": "Oliver Reed, Samantha Eggar, Art Hindle",
+          "synopsis": "Un psychiatre invente dans sa clinique privée une thérapie qui permet à ses patients de somatiser leurs frustrations et leur rage. Le résultat dépasse ses espérances et se transforme en cauchemar pour une jeune femme divorcée, son ex-mari et sa petite fille.",
+          "miniTexte": "Les fondements de l'horreur organique selon Cronenberg. De l'ordinaire au surnaturel, le cinéaste met en scène le traumatisme de son propre divorce, transformé en terrifiantes manipulations génétiques. Excroissances et créatures fantastiques se rencontrent dans un tétanisant cauchemar sur la monstruosité maternelle et la fin du couple.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22214,
+              "duree": 92,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1812
+        }
+      ]
+    },
+    {
       "idSeance": 185138,
       "idProg": 184,
       "idCycleCategories": [
@@ -338,6 +428,46 @@
       ]
     },
     {
+      "idSeance": 185351,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25726,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-29T16:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38946,
+          "titre": "Videodrome",
+          "realisateurs": "David Cronenberg",
+          "annee": 1983,
+          "duree": 87,
+          "generique": "James Woods, Sonja Smits, Deborah Harry",
+          "synopsis": "Le directeur d'une petite chaîne de télévision érotique découvre un nouveau programme pirate proposant des tortures non simulées, « Videodrome », et qui provoque chez lui de dangereuses hallucinations.",
+          "miniTexte": "Un programme inconnu, dénommé Vidéodrome, ouvre, à qui le souhaite, les portes d'un monde où règnent sadomasochisme, sévices et meurtres. Avec un discours prophétique sur l'audiovisuel, Cronenberg représente une civilisation en plein déclin, biberonnée au _snuff_ et à la perversité. Sans lésiner sur des effets spéciaux sensationnels, séquences réelles et hallucinations morbides forment une satire au vitriol de la télévision et de son emprise. Subtile caution de ses obsessions, la prestation de James Woods est au diapason d'une démonstration tétanisante de l'addiction.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23909,
+              "duree": 87,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 6055
+        }
+      ]
+    },
+    {
       "idSeance": 138445,
       "idProg": 184,
       "idCycleCategories": [
@@ -351,6 +481,57 @@
       "idEvenement": 25727,
       "typeEvenement": 13,
       "dateHeure": "2025-01-24T20:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31329,
+          "titre": "Dead Zone",
+          "titreVo": "Dead Zone",
+          "artVo": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 1983,
+          "duree": 103,
+          "generique": "Christopher Walken, Brooke Adams, Tom Skerritt, Martin Sheen",
+          "adaptation": "D'après le roman _Dead Zone_ de Stephen King.",
+          "synopsis": "Après cinq ans passés dans le coma, un homme se réveille avec un terrifiant don de prophétie qui va bouleverser sa vie.",
+          "miniTexte": "Le portrait d'un marginal doté d'un pouvoir qui le dépasse. Avec une sobriété exemplaire, Cronenberg s'approprie le roman éponyme de Stephen King et réalise l'un de ses films les plus personnels et les plus émouvants. S'il emprunte autant au fantastique qu'au thriller schizophrénique, il façonne surtout un drame implacable, rendu bouleversant par la prestation de Christopher Walken.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 9696,
+              "duree": 103,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 27729,
+              "duree": 103,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 2031
+        }
+      ]
+    },
+    {
+      "idSeance": 185352,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25727,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-30T16:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -446,6 +627,50 @@
       ]
     },
     {
+      "idSeance": 185353,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25728,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-31T15:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31330,
+          "titre": "Mouche",
+          "art": "La",
+          "titreVo": "Fly",
+          "artVo": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 1986,
+          "duree": 96,
+          "generique": "Jeff Goldblum, Geena Davis, John Getz",
+          "adaptation": "D'après la nouvelle _La Mouche_ de George Langelaan.",
+          "synopsis": "Un jeune biologiste très doué met au point une invention qui doit révolutionner le monde : la téléportation. Après des essais peu convaincants, il décide de se téléporter lui-même, sans s'apercevoir qu'une mouche fait partie du voyage.",
+          "miniTexte": "Un scientifique timide et ambitieux (Jeff Goldblum, époustouflant) paie le prix de son audace lorsqu'il fusionne avec une mouche, qui s'est téléportée avec lui. Éprouvante mutation de l'homme à l'insecte, le remake de _La Mouche noire_(1958) s'impose comme une métaphore de la maladie, de la déliquescence du corps. À base d'images fortes, d'élans romantiques et de séquences cauchemardesques, Cronenberg instaure un crescendo de l'horreur pour faire réfléchir l'humain sur sa propre mortalité. Un vrai film d'amour, une immense tragédie sur l'absurdité du destin.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 12933,
+              "duree": 96,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 2460
+        }
+      ]
+    },
+    {
       "idSeance": 174916,
       "idProg": 184,
       "idCycleCategories": [
@@ -484,6 +709,92 @@
             }
           ],
           "idFilmBoxoffice": 4486
+        }
+      ]
+    },
+    {
+      "idSeance": 185356,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25729,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-07T16:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 39020,
+          "titre": "Faux-semblants",
+          "titreVo": "Dead Ringers",
+          "realisateurs": "David Cronenberg",
+          "annee": 1988,
+          "duree": 115,
+          "generique": "Jeremy Irons, Geneviève Bujold, Heidi von Palleske",
+          "adaptation": "D'après le roman _Twins_ de Bari Wood et Jack Geasland.",
+          "synopsis": "Deux frères jumeaux gynécologues partagent tout dans la vie. Lorsque l'un deux tombe amoureux d'une patiente, leur complicité n'y survit pas, et ils sombrent de concert dans l'autodestruction.",
+          "miniTexte": "Le lien fusionnel de deux frères jumeaux explose lorsque l'un tombe amoureux. Mélodrame psychanalytique à la cérébralité affirmée, _Faux-semblants_ prend la forme d'un labyrinthe vers la folie, d'une descente aux enfers inexorable. Cronenberg exploite jusqu'au bout la relation perverse d'un couple gémellaire, qui partage autant le succès que les conquêtes. Du glauque au ludique, sa mise en scène clinique sert avec élégance le jeu de Jeremy Irons, subtil mélange de névroses et de fausse normalité.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27710,
+              "duree": 115,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 4486
+        }
+      ]
+    },
+    {
+      "idSeance": 185349,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25730,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-22T15:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 39028,
+          "titre": "Festin nu",
+          "art": "Le",
+          "titreVo": "Naked Lunch",
+          "artVo": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 1991,
+          "duree": 115,
+          "generique": "Peter Weller, Judy Davis, Roy Scheider, Ian Holm",
+          "adaptation": "D'après le roman _Le Festin nu_ de William S. Burroughs.",
+          "synopsis": "Bill Lee, ex-junkie et écrivain recyclé dans l'extermination de cafards, abuse des substances qu'il est censé pulvériser sur les insectes. Après avoir tué accidentellement sa femme, il sombre dans une psychose qui l'entraîne dans un voyage au bout de la folie.\n",
+          "miniTexte": "Un thriller insidieux sur la création, peuplé de créatures hallucinogènes et de monstres phalliques. Du bestiaire fantastique à l'exploration toujours déjantée du corps-machine, Cronenberg porte à l'écran son livre de chevet, le roman – réputé inadaptable – de Burroughs, pour un grand bazar, tantôt drôle, tantôt terrifiant, des métamorphoses.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27715,
+              "duree": 115,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 470
         }
       ]
     },
@@ -588,6 +899,47 @@
       "typeEvenement": 13,
       "dateHeure": "2025-01-31T21:00:00",
       "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59968,
+          "titre": "Crash",
+          "realisateurs": "David Cronenberg",
+          "annee": 1996,
+          "duree": 110,
+          "generique": "James Spader, Holly Hunter, Elias Koteas",
+          "adaptation": "D'après le roman _Crash !_ de J. G. Ballard.",
+          "synopsis": "À la suite d'un accident de voiture, un couple en proie à l'ennui se lance dans une série d'expériences sexuelles inédites.",
+          "miniTexte": "La fascination morbide d'un couple sur le déclin pour les accidents de la route, Prix spécial du jury à Cannes en 1996. Au royaume du voyeurisme et de l'autodestruction, Cronenberg adapte le roman éponyme de J. G. Ballard pour évoquer l'hyperconscience de la mort et son imminence. Dans un ballet macabre, quasiment chorégraphié, l'escalade de chocs et de tôles froissées dessine l'union du métal et de la chair à la grande beauté plastique. Sur la thématique de l'auto-machine, la violence du texte se heurte à une mise en scène puissante, qui alterne orgasmes automobiles et excitation funèbre.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23907,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 15119
+        }
+      ]
+    },
+    {
+      "idSeance": 185354,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25732,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-05T16:30:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -883,6 +1235,46 @@
       "mention": "Séance présentée par Mathieu Amalric"
     },
     {
+      "idSeance": 185346,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25754,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-23T15:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 123191,
+          "titre": "Maps to the Stars",
+          "realisateurs": "David Cronenberg",
+          "annee": 2014,
+          "generique": "Julianne Moore, Mia Wasikowska, John Cusack, Robert Pattinson",
+          "synopsis": "Histoire d'une famille typiquement hollywoodienne dont les membres courent après la célébrité, se cherchent les uns les autres et doivent cohabiter avec les démons du passé.",
+          "miniTexte": "Une satire cruelle de Hollywood, cité construite sur l'avidité et le narcissisme. Berceau de tous les vices, Los Angeles devient un monde sans pitié dans ce film choral, qui tourne au truculent jeu de massacre. Cyniques et égocentriques, ses personnages forment un ensemble détonnant, emmené par Julianne Moore, prix d'interprétation féminine au Festival de Cannes en 2014.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 6592,
+              "duree": 0,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 215447
+        }
+      ]
+    },
+    {
       "idSeance": 138675,
       "idProg": 184,
       "idCycleCategories": [
@@ -919,6 +1311,51 @@
             }
           ],
           "idFilmBoxoffice": 215447
+        }
+      ]
+    },
+    {
+      "idSeance": 185347,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 624,
+          "idCategorie": 2673,
+          "titreCycle": "David Cronenberg",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25758,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-24T15:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 64235,
+          "titre": "eXistenZ",
+          "realisateurs": "David Cronenberg",
+          "annee": 1999,
+          "duree": 96,
+          "generique": "Jennifer Jason Leigh, Jude Law, Willem Dafoe, Ian Holm",
+          "synopsis": "La conceptrice d'un jeu vidéo révolutionnaire est poursuivie par des tueurs d'une secte « réaliste ». Pour leur échapper, elle se cache dans les mondes virtuels qu'elle a créés.",
+          "miniTexte": "À l'ère moderne, un jeu vidéo d'un nouveau genre se branche sur le système nerveux du joueur pour l'immerger dans un monde parallèle. Ours d'argent en 1999, Cronenberg critique le cyberpunk avant d'épingler les attraits et les dangers du virtuel. Un polar futuriste au parcours labyrinthique et chimérique, inspiré par Philip K. Dick.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23931,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 28733,
+              "duree": 96
+            }
+          ],
+          "idFilmBoxoffice": 9450
         }
       ]
     },
@@ -1419,7 +1856,7 @@
       ],
       "idEvenement": 30976,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-13T20:45:00",
+      "dateHeure": "2024-12-13T20:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -1780,7 +2217,7 @@
       ],
       "idEvenement": 30984,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-13T18:30:00",
+      "dateHeure": "2024-12-13T18:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -4193,6 +4630,50 @@
       ]
     },
     {
+      "idSeance": 185360,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31307,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-20T15:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32357,
+          "titre": "Cavaliers",
+          "art": "Les",
+          "titreVo": "Horsemen",
+          "artVo": "The",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1971,
+          "duree": 109,
+          "generique": "Omar Sharif, Leigh Taylor-Young, Jack Palance",
+          "adaptation": "D'après le roman _Les Cavaliers_ de Joseph Kessel.",
+          "miniTexte": "Dans les paysages arides de l'Afghanistan, Omar Sharif pratique le bozcachi, sport national équestre d'une beauté intense. Amputé après une blessure, le cavalier cherche à se reconstruire, mû par la fierté et l'opposition au père. La découverte d'une culture fascinante et de ses traditions ancestrales, d'après le roman de Joseph Kessel.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28813,
+              "duree": 109,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 3240
+        }
+      ]
+    },
+    {
       "idSeance": 138555,
       "idProg": 184,
       "idCycleCategories": [
@@ -4207,6 +4688,49 @@
       "typeEvenement": 13,
       "dateHeure": "2025-01-29T20:45:00",
       "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32382,
+          "titre": "Ange de la violence",
+          "art": "L'",
+          "titreVo": "All Fall Down",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1962,
+          "duree": 109,
+          "generique": "Eva Marie Saint, Warren Beatty, Karl Malden",
+          "adaptation": "D'après le roman _All Fall Down_ de James Leo Herlihy.",
+          "miniTexte": "Karl Malden en père désœuvré, Angela Lansbury en mère puritaine et dépassée, Warren Beatty en séducteur pervers et agressif, adulé par son frère cadet qui se bat pour le sortir de prison. À travers les relations d'une famille bancale, Frankenheimer brosse le portrait féroce d'une certaine Amérique des années 60 et de sa jeunesse désaxée.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28576,
+              "duree": 109,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 48702
+        }
+      ]
+    },
+    {
+      "idSeance": 185358,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31308,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-14T12:45:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -4404,6 +4928,50 @@
       ]
     },
     {
+      "idSeance": 185363,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31313,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-27T15:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 89659,
+          "titre": "Quatrième Guerre",
+          "art": "La",
+          "titreVo": "Fourth War",
+          "artVo": "The",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1990,
+          "duree": 91,
+          "generique": "Roy Scheider, Jürgen Prochnow, Tim Reid",
+          "adaptation": "D'après le roman _La Quatrième Guerre_ de Stephen Peters.",
+          "miniTexte": "L'Américain contre le Russe : en plein conflit est-ouest, deux colonels se livrent une guerre personnelle dont les conséquences menacent l'équilibre mondial chancelant. Après _Paiement cash_, Frankenheimer retrouve Roy Scheider, qui affronte Jürgen Prochnow entre deux touches d'humour et quelques explosions, pour un combat final sur la glace.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28743,
+              "duree": 91,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 9501
+        }
+      ]
+    },
+    {
       "idSeance": 185099,
       "idProg": 184,
       "idCycleCategories": [
@@ -4417,6 +4985,46 @@
       "idEvenement": 31314,
       "typeEvenement": 13,
       "dateHeure": "2025-02-09T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32409,
+          "titre": "French Connection 2",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1975,
+          "duree": 118,
+          "generique": "Gene Hackman, Fernando Rey, Bernard Fresson",
+          "miniTexte": "Gene Hackman rempile dans le rôle de Popeye Doyle, le flic acharné, irascible, sur la piste du trafiquant de drogue Charnier. L'intrigue s'est déplacée de New York à Marseille, et il se retrouve confronté à une culture étrangère. Quatre ans après le premier opus signé Friedkin, Frankenheimer réalise une suite musclée et toujours efficace.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28853,
+              "duree": 118,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 20974
+        }
+      ]
+    },
+    {
+      "idSeance": 185361,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31314,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-21T15:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4496,6 +5104,49 @@
           "idTypeConf": 16,
           "titre": "Dialogue avec Olivier Père",
           "duree": 90
+        }
+      ]
+    },
+    {
+      "idSeance": 185364,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31315,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-28T15:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32415,
+          "titre": "Pays de la violence",
+          "art": "Le",
+          "titreVo": "I Walk the Line",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1970,
+          "duree": 95,
+          "generique": "Gregory Peck, Tuesday Weld, Estelle Parsons",
+          "adaptation": "D'après le roman _An Exile_ de Madison Jones.",
+          "miniTexte": "Dans une petite ville du Tennessee, le vieillissant shérif Tawes s'ennuie, dans son mariage, dans son travail, et s'éprend de la jeune Alma. Mais elle est la fille d'un bootlegger traqué par un agent de l'État. La belle ingénue a l'attrait d'une dernière chance, et Gregory Peck traîne sa mélancolie dans des paysages évoquant Faulkner ou Steinbeck, au rythme des ballades folk. Le titre français ne rend pas justice à l'original – tiré de la chanson éponyme de Johnny Cash, auteur de la BO –, qui dit toute l'ambiguïté d'un homme tiraillé entre sa mission et son rêve d'ailleurs. Une œuvre douce-amère, ourlée de délicatesse.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28558,
+              "duree": 95,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 20646
         }
       ]
     },
@@ -4580,6 +5231,50 @@
       "typeEvenement": 13,
       "dateHeure": "2025-02-05T20:30:00",
       "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32393,
+          "titre": "Homme de Kiev",
+          "art": "L'",
+          "titreVo": "Fixer",
+          "artVo": "The",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1968,
+          "duree": 132,
+          "generique": "Alan Bates, Dirk Bogarde, Georgia Brown",
+          "adaptation": "D'après le roman _L'Homme de Kiev_ de Bernard Malamud.",
+          "miniTexte": "Kiev, 1911. Un Juif, injustement condamné pour viol, ne cesse de clamer son innocence. En portant à l'écran le prix Pulitzer 67, lui-même inspiré de la véritable affaire Beiliss, Frankenheimer fustige l'antisémitisme qui gangrénait la Russie tsariste, où pogroms et persécutions étaient monnaie courante. Un film intimiste, dur, à la résonance glaçante.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28794,
+              "duree": 132,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 22123
+        }
+      ]
+    },
+    {
+      "idSeance": 185359,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31317,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-19T16:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -4922,6 +5617,48 @@
       "typeEvenement": 13,
       "dateHeure": "2025-02-10T18:30:00",
       "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 56312,
+          "titre": "Paiement cash",
+          "titreVo": "52 Pick-Up",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1986,
+          "duree": 110,
+          "generique": "Roy Scheider, Ann-Margret, Vanity",
+          "adaptation": "D'après le roman _52 Pick-Up_ d'Elmore Leonard.",
+          "synopsis": "Un industriel américain, Harry Mitchell, mène une vie très active entre son entreprise florissante et sa femme Barbara aux ambitions politiques. Mais tout chavire quand des voyous le font chanter avec une vidéocassette en plein ébat avec sa jeune maîtresse. Harry veut régler l'affaire lui-même.",
+          "miniTexte": "Un riche industriel dont la femme vise la mairie de Los Angeles est victime d'un chantage dont il tente de se sortir seul. D'après Elmore Leonard, un polar noir poisseux où gravitent des pointures du cinéma porno et l'égérie de Prince, Vanity, pour une plongée réaliste dans la Californie des _eighties_.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 9992,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 2445
+        }
+      ]
+    },
+    {
+      "idSeance": 185362,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31325,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-24T15:30:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -5461,6 +6198,50 @@
       ]
     },
     {
+      "idSeance": 185357,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31334,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-13T15:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 29711,
+          "titre": "Temps du châtiment",
+          "art": "Le",
+          "titreVo": "Young Savages",
+          "artVo": "The",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1961,
+          "duree": 103,
+          "generique": "Burt Lancaster, Dina Merrill, Edward Andrews",
+          "adaptation": "D'après le roman _A Matter of Conviction_ d'Evan Hunter.",
+          "miniTexte": "Harlem, des bandes rivales, un meurtre et de très jeunes suspects. Porté par sa BO jazzy et ses dialogues incisifs, magnifié par un noir et blanc sublime, Le Temps du châtiment oscille entre le film de procès et le réalisme social. Frankenheimer part d'un fait divers sordide pour décortiquer avec sobriété l'engrenage d'une jeunesse en perdition et sa violence ravageuse, mais aussi les arcanes d'une justice trop souvent dépassée. Et, pour la première de ses cinq collaborations avec le cinéaste, Burt Lancaster compose avec force un procureur adjoint droit et humain, dont les convictions sont peu à peu bousculées.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28761,
+              "duree": 103,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 46853
+        }
+      ]
+    },
+    {
       "idSeance": 185083,
       "idProg": 184,
       "idCycleCategories": [
@@ -5811,7 +6592,7 @@
       ],
       "idEvenement": 31353,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-20T15:30:00",
+      "dateHeure": "2025-01-20T17:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -7521,7 +8302,7 @@
       ],
       "idEvenement": 31382,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-30T19:00:00",
+      "dateHeure": "2025-01-30T19:30:00",
       "idSalle": "JE",
       "items": [
         {
@@ -7642,7 +8423,7 @@
       ],
       "idEvenement": 31385,
       "typeEvenement": 13,
-      "dateHeure": "2025-01-20T20:15:00",
+      "dateHeure": "2025-01-20T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -8547,7 +9328,7 @@
       ],
       "idEvenement": 31414,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-06T20:45:00",
+      "dateHeure": "2024-12-06T21:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -13994,7 +14775,7 @@
           "duree": 110,
           "generique": "Rita Hayworth, Glenn Ford, George MacReady",
           "synopsis": "À Buenos Aires, Johnny Farrell devient le bras droit d'un propriétaire de casino. Mais l'épouse de ce dernier, qui est l'ancienne petite amie de Johnny, vient troubler leurs affaires.",
-          "miniTexte": "Au sommet de la tension érotique, _Gilda_ tisse un triangle amoureux romanesque et vénéneux dans un film noir cousu main pour Rita Hayworth, à l'apogée de sa carrière. Incarnation de la passion et du glamour, elle envoûte en femme tourmentée, qui voit amour, haine et jalousie se télescoper sans pouvoir s'y dérober.",
+          "miniTexte": "Au sommet de la tension érotique, _Gilda_ tisse un triangle amoureux romanesque et vénéneux dans un film noir cousu main pour Rita Hayworth, à l'apogée de sa carrière. Incarnation de la passion et du glamour, elle envoûte en femme tourmentée, qui voit amour, haine et jalousie se télescoper, sans pouvoir s'y dérober.",
           "status": 2,
           "copies": [
             {
@@ -14507,7 +15288,7 @@
           "generique": "George Sanders, Angela Lansbury, Peter Lawford",
           "adaptation": "D'après le roman _Le Portrait de Dorian Gray_ d'Oscar Wilde.",
           "synopsis": "Londres, 1886. Le peintre Basil Hallward réalise le portrait d'un jeune et bel aristocrate, Dorian Gray, qui formule le vœu d'une éternelle jeunesse ; seul son portrait vieillira.",
-          "miniTexte": "Conscient de sa beauté, Dorian Gray formule le vœu d'une jeunesse éternelle, souhaitant que son portrait vieillisse à sa place. Lewin met en scène le roman d'Oscar Wilde à la manière d'un peintre, matérialisé par les jeux de lumières du chef op' oscarisé, Harry Stradling. Dans une formidable étude de la société victorienne, le cynisme et la corruption du héros se dévoilent peu à peu, à travers le tableau aux couleurs saisissantes, personnage fantastique à part entière.",
+          "miniTexte": "Conscient de sa beauté, Dorian Gray formule le vœu d'une jeunesse éternelle, souhaitant que son portrait vieillisse à sa place. Lewin met en scène le roman d'Oscar Wilde à la manière d'un peintre, matérialisé par les jeux de lumières du chef opérateur oscarisé, Harry Stradling. Dans une formidable étude de la société victorienne, le cynisme et la corruption du héros se dévoilent peu à peu, à travers le tableau aux couleurs saisissantes, personnage fantastique à part entière.",
           "commentaire": "Comment représenter le vieillissement et la corruption d'une âme ? Si Oscar Wilde les a dépeints dans son roman, Albert Lewin, lui, les traduit à l'écran. Lorsque son film sort, en 1945, il existe déjà sept adaptations cinématographiques du _Portrait de Dorian Gray_. Dès lors, comment re-présenter ce qui a déjà été mis en scène ? Lewin va travailler à la manière d'un peintre, et composer méticuleusement sa palette, la couleur pour le tableau, le noir et blanc pour les autres séquences. Le réalisateur fait si bien vivre le portrait qu'il devient un personnage fantastique à part entière. L'image se métamorphose à mesure que les flétrissures morales de Dorian Gray se révèlent. Tout, dans la somptueuse maison du dandy, suggère une dualité, troublants jeux d'ombres et de lumières – Harry Stradling sera oscarisé pour la photo) –, subtils reflets des miroirs, obsédant sol en damier noir et blanc. Dorian Gray lui-même est habité par ce conflit, tiraillé jour et nuit, tels docteur Jekyll et M. Hyde, entre le bien et le mal, dans une demeure, peuplée d'objets d'art, qui renferme son terrible et repoussant secret. Aux côtés du grand George Sanders et des toutes jeunes Angela Lansbury et Donna Reed, le débutant Hurd Hatfield a les traits et l'attrait d'un vampire, se nourrissant de la jeunesse de ses conquêtes. Son visage impassible, son cœur de marbre et son regard froid inquiètent. Il est un monstre d'insensibilité et pourtant, il séduit : le beau ne serait-il plus l'image du bien ?\n\nCapucine de Rochambeau",
           "status": 2,
           "copies": [
@@ -16163,7 +16944,8 @@
           "status": 2,
           "idFilmBoxoffice": 225535
         }
-      ]
+      ],
+      "mention": "Séance présentée par Serge Avédikian"
     },
     {
       "idSeance": 136882,
@@ -16378,7 +17160,8 @@
               "duree": 36,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1000008094
         },
         {
           "ordre": 3,
