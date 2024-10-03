@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-03T08:42:10.552Z",
+  "updatedAt": "2024-10-03T10:31:41.417Z",
   "data": [
     {
       "idSeance": 185115,
@@ -5799,6 +5799,91 @@
       ]
     },
     {
+      "idSeance": 185345,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31353,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-20T15:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45923,
+          "titre": "Bonjour tristesse",
+          "realisateurs": "Otto Preminger",
+          "annee": 1958,
+          "dureeStd": 93,
+          "duree": 93,
+          "generique": "Deborah Kerr, David Niven, Jean Seberg",
+          "adaptation": "D'après le roman _Bonjour tristesse_ de Françoise Sagan.",
+          "miniTexte": "La douceur mélancolique des mots de Sagan, bercée par le talent de Preminger. Sur la Côte d'Azur, Cécile mène avec son père une vie idyllique, jusqu'à l'arrivée d'Anne, sûre d'elle et cultivée. Juste après _Sainte-Jeanne_, le cinéaste retrouve Jean Seberg, fragile chrysalide dont les tourments intérieurs sont traduits par une voix off omniprésente, quand le jeu entre Technicolor et noir et blanc accroche les zones d'ombre de cette tragédie contemporaine.",
+          "commentaire": "Quand le premier roman de Françoise Sagan est traduit aux États-Unis en 1955, Otto Preminger, devenu son propre producteur, décide d'en acheter les droits. Il confie l'adaptation à Arthur Laurents, scénariste de _La Corde_ et plus tard de _West Side Story_. L'année suivante, lors d'une vaste opération publicitaire pour trouver l'actrice qui interprétera sa Jeanne d'Arc, Preminger choisit la jeune Jean Seberg parmi les trois mille adolescentes qu'il aurait auditionnées (sur dix-huit mille candidates). En 1957, la réception de _Sainte Jeanne_ est très médiocre. Le cinéaste attribue néanmoins le futur rôle de Cécile à Jean Seberg, qui jouera aux côtés de David Niven (Raymond, le père), Deborah Kerr (Anne) et de Mylène Demongeot (Elsa). Le tournage chaotique de _Bonjour tristesse_ se déroule durant l'été 1957, à Paris d'abord, puis au Lavandou, dans la villa du couple de patrons de presse Hélène et Pierre Lazareff, et s'achève dans les studios de Shepperton, près de Londres, où sont reconstitués les intérieurs parisiens. Le dispositif spectaculaire du CinemaScope est ici associé à un sujet intimiste. Les séquences du présent parisien en noir et blanc alternent avec celles du passé, qui permettent au Technicolor de restituer les couleurs rayonnantes de la Méditerranée. La critique n'est pas éblouie par le film, mais à l'instar de Truffaut, Godard est impressionné par l'interprétation de l'actrice. Jean Seberg poursuivra donc sa jeune carrière dans _À bout de souffle_ quelques mois plus tard.\n\nMarion Langlois\n\n« En short bleu échancré sur le côté, en pantalon corsaire, en jupe, en robe du soir, en maillot de bain, en chemise d'homme dont les pans flottent, en chemise d'homme dont les pans sont ramenés devant et noués sur le ventre, en corsage et encore sage – mais plus pour longtemps – Jean Seberg, avec ses petits cheveux blonds cendrés sur son crâne de pharaon, ses yeux bleus grands ouverts et ses éclairs de malice garçonnière, porte sur ses petites épaules tout ce film qui n'est d'ailleurs qu'un poème d'amour que lui dédie Otto Preminger. » (François Truffaut)",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 5382,
+              "duree": 93,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 2242
+        }
+      ]
+    },
+    {
+      "idSeance": 185342,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31354,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-10T15:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45924,
+          "titre": "Bunny Lake a disparu",
+          "titreVo": "Bunny Lake Is Missing",
+          "realisateurs": "Otto Preminger",
+          "annee": 1965,
+          "duree": 107,
+          "generique": "Laurence Olivier, Keir Dullea, Carol Lynley",
+          "adaptation": "D'après le roman _Bunny Lake is missing_ d'Evelyn Piper.",
+          "synopsis": "Une mère de famille signale la disparition de sa petite fille Bunny.",
+          "miniTexte": "Des personnages insolites auscultés avec tact, une atmosphère trouble, l'apparition du groupe The Zombies, et Laurence Olivier brillant en flic sobre : dans un Londres aux décors étouffants, l'enquête sur la disparition d'une fillette. Avec sa science de la narration et son aisance inoxydable, Preminger se détourne du fait divers, préférant s'attarder sur les réactions du couple, et distille une ambiguïté et une tension qui vont _crescendo_. Un retour aux sources du film noir de ses débuts, intelligent et original.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28623,
+              "duree": 107,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 2147
+        }
+      ]
+    },
+    {
       "idSeance": 138257,
       "idProg": 184,
       "idCycleCategories": [
@@ -6126,6 +6211,46 @@
       ]
     },
     {
+      "idSeance": 185344,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31359,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-17T15:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35607,
+          "titre": "Carmen Jones",
+          "realisateurs": "Otto Preminger",
+          "annee": 1954,
+          "duree": 107,
+          "generique": "Dorothy Dandridge, Harry Belafonte, Olga James",
+          "adaptation": "D'après la comédie musicale _Carmen_ d'Oscar Hammerstein, le roman _Carmen_ de Prosper Mérimée et l'opéra-comique _Carmen_ de Georges Bizet.",
+          "miniTexte": "« Transposer le livret de _Carmen_ dans l'Amérique actuelle, avec une troupe d'interprètes noirs, me fascine littéralement », explique Preminger. Des choix audacieux, Dorothy Dandridge, sensuelle, de longs plans-séquences en CinémaScope : une adaptation moderne et farouchement libre de l'opéra de Bizet.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28470,
+              "duree": 107,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1420
+        }
+      ]
+    },
+    {
       "idSeance": 184953,
       "idProg": 184,
       "idCycleCategories": [
@@ -6180,6 +6305,47 @@
       "idEvenement": 31361,
       "typeEvenement": 13,
       "dateHeure": "2025-01-04T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35816,
+          "titre": "Crime passionnel",
+          "titreVo": "Fallen Angel",
+          "realisateurs": "Otto Preminger",
+          "annee": 1945,
+          "duree": 101,
+          "generique": "Alice Faye, Dana Andrews, Linda Darnell, Charles Bickford, John Carradine",
+          "adaptation": "D'après le roman _Fallen angel_ de Marty Holland.",
+          "miniTexte": "Ambiance nocturne et langoureuse orchestrée par Joseph LaShelle, Linda Darnell, superbe femme fatale : _Crime passionnel_ n'est pas qu'une intrigue policière doublée d'une histoire d'amour vénéneuse, c'est surtout le portrait d'un ange déchu en quête de rédemption. Une étude psychologique qui allie la pudeur à la passion, un incontournable du film noir.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28468,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1595
+        }
+      ]
+    },
+    {
+      "idSeance": 185343,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31361,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-16T16:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -6586,6 +6752,47 @@
             }
           ],
           "idFilmBoxoffice": 119071
+        }
+      ]
+    },
+    {
+      "idSeance": 185339,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31369,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-03T15:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32568,
+          "titre": "Ambre",
+          "titreVo": "Forever Amber",
+          "realisateurs": "Otto Preminger",
+          "annee": 1947,
+          "duree": 140,
+          "generique": "Linda Darnell, Cornel Wilde, George Sanders",
+          "adaptation": "D'après le roman _Ambre_ de Kathleen Winsor.",
+          "miniTexte": "Dans l'Angleterre du XVII<sup>e</sup> siècle, le destin d'une belle ambitieuse, de la prison à la chambre du roi Charles II. Zanuck impose Linda Darnell, le code Hays exige des coupes, mais Preminger, dans un magnifique jeu de clairs-obscurs, livre un portrait de femme baroque et troublant, dans un Technicolor flamboyant.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28469,
+              "duree": 140,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 101150
         }
       ]
     },
@@ -15366,6 +15573,50 @@
       ]
     },
     {
+      "idSeance": 185340,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31751,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-06T15:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44907,
+          "titre": "Homme au bras d'or",
+          "art": "L'",
+          "titreVo": "Man With the Golden Arm",
+          "artVo": "The",
+          "realisateurs": "Otto Preminger",
+          "annee": 1955,
+          "duree": 119,
+          "generique": "Frank Sinatra, Kim Novak, Eleanor Parker, Arnold Stang",
+          "adaptation": "D'après le roman _The Man with the Golden Arm_ de Nelson Algren.",
+          "miniTexte": "Après une cure de désintoxication, Frankie Machine retrouve son quartier et tente de devenir batteur de jazz. Coup de tonnerre à Hollywood : bravant le Code Hays, _L'Homme au bras d'or_ est le premier film à évoquer l'enfer de la drogue, avec un réalisme violent. Preminger rue dans les brancards contre la censure, démissionne de l'Association des Producteurs, et revendique son indépendance. La partition jazz d'Elmer Bernstein est sublime, Frank Sinatra, au jeu instinctif, est à son sommet, bouleversant. Une liberté de ton, un témoignage précis comme un documentaire, traversé de poésie sourde, et toujours, chez Preminger, la volonté de traiter des sujets sensibles, sans jugement aucun. Un voyage au bout de la nuit cruel qui hante longtemps le spectateur, le film le plus engagé du cinéaste, si ce n'est son plus beau.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 6941,
+              "duree": 119,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 29699
+        }
+      ]
+    },
+    {
       "idSeance": 185056,
       "idProg": 184,
       "idCycleCategories": [
@@ -15582,6 +15833,48 @@
             }
           ],
           "idFilmBoxoffice": 114997
+        }
+      ]
+    },
+    {
+      "idSeance": 185341,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 3649,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Otto Preminger acteur"
+        }
+      ],
+      "idEvenement": 31761,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-09T15:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36928,
+          "titre": "Stalag 17",
+          "realisateurs": "Billy Wilder",
+          "annee": 1953,
+          "duree": 121,
+          "generique": "William Holden, Otto Preminger, Don Taylor",
+          "adaptation": "D'après la pièce _Stalag 17_ de Donald Bevan et Edmund Trzcinski.",
+          "synopsis": "Durant la Seconde Guerre mondiale, dans un camp de prisonniers américains en Allemagne, Sefton, qui commerce avec l'ennemi, est soupçonné d'être un traître et décide d'un plan pour se disculper.",
+          "miniTexte": "Adaptation d'une pièce de théâtre sur la vie dans un camp de prisonniers pendant la Seconde Guerre mondiale. Réussissant la prouesse d'allier l'optimisme au pathétique, Billy Wilder s'éloigne de tout moralisme, et dirige avec bonheur Otto Preminger en officier allemand.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 16449,
+              "duree": 121,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 41106
         }
       ]
     },
@@ -16061,7 +16354,7 @@
           "annee": 2021,
           "duree": 19,
           "generique": "Pauline Lorillard, Mathieu Metral",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28888,
@@ -16078,7 +16371,7 @@
           "annee": 2023,
           "duree": 36,
           "generique": "Cathleen Rosaz, Bastien Bernini, Adrien Casse",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28887,
@@ -16094,7 +16387,7 @@
           "realisateurs": "Claude Schmitz",
           "annee": 2017,
           "generique": "Hélène Bressiant, Damien Chapelle, Lucie Debay",
-          "status": 0
+          "status": 2
         }
       ],
       "mention": "Séance suivie d'une discussion avec Alexia Portal"
