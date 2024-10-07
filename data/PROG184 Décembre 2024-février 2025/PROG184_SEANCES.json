@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-07T14:03:31.987Z",
+  "updatedAt": "2024-10-07T15:33:09.366Z",
   "data": [
     {
       "idSeance": 185115,
@@ -1063,11 +1063,11 @@
           "idFilmBoxoffice": 55982
         },
         {
-          "ordre": 2,
           "idConf": 30565,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Jean-François Rauger",
-          "duree": 90
+          "titre": "DIALOGUE AVEC JEAN-FRANÇOIS RAUGER",
+          "typeConference": "Dialogue",
+          "duree": 90,
+          "ordre": 2
         }
       ]
     },
@@ -15600,7 +15600,7 @@
           "titreVo": "Drums Along the Mohawk",
           "realisateurs": "John Ford",
           "annee": 1939,
-          "duree": 103,
+          "duree": 104,
           "generique": "Claudette Colbert, Henry Fonda, Edna May Oliver",
           "adaptation": "D'après le roman _Drums Along the Mohawk_ de Walter D. Edmonds.",
           "synopsis": "Gil Martin et Lana Martin abandonnent leur vie citadine pour s'installer dans la vallée de la rivière Mohawk. Mais rapidement après leur arrivée, leur ferme est incendiée par des indiens Cherokee...",
@@ -15609,7 +15609,7 @@
           "copies": [
             {
               "idCopie": 3816,
-              "duree": 103,
+              "duree": 104,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
