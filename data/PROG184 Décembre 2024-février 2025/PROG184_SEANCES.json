@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-07T09:45:46.617Z",
+  "updatedAt": "2024-10-07T14:03:31.987Z",
   "data": [
     {
       "idSeance": 185115,
@@ -1966,7 +1966,9 @@
             {
               "idCopie": 28180,
               "duree": 20,
-              "format": "DCP"
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 8354
@@ -2009,7 +2011,9 @@
             {
               "idCopie": 28178,
               "duree": 13,
-              "format": "DCP"
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 49843
@@ -10903,7 +10907,7 @@
           "titreNx": "Стачка",
           "realisateurs": "Sergueï M. Eisenstein",
           "annee": 1925,
-          "duree": 82,
+          "duree": 94,
           "generique": "Aleksandr Antonov, Mikhaïl Gomorov",
           "synopsis": "Dans une usine de la Russie tsariste, le suicide d'un ouvrier déclenche une grève. Le mécanisme soulèvement-répression résume les nombreux mouvements prérévolutionnaires auxquels le film rend hommage.",
           "miniTexte": "Premier film, et coup de maître pour Eisenstein, qui signe avec _La Grève_ un tract politique, mode d'emploi du débrayage face à l'oppression subie par le prolétariat – ici littéralement comparé, par le biais du montage, à du bétail corvéable à merci. Construite comme une tragédie, une merveille d'invention, joyeuse et virtuose, dans laquelle le cinéaste, 25 ans à l'époque, déploie une maestria qui n'a pas pris une ride.",
@@ -10911,7 +10915,7 @@
           "copies": [
             {
               "idCopie": 11928,
-              "duree": 82,
+              "duree": 94,
               "format": "DCP",
               "intertitres": "INT. FR."
             }
@@ -10946,7 +10950,7 @@
           "titreNx": "Октябрь",
           "realisateurs": "Sergueï M. Eisenstein",
           "annee": 1927,
-          "duree": 103,
+          "duree": 126,
           "generique": "Boris Livanov, Vassili Nikandrov, Nikolaï Popov",
           "adaptation": "D'après l'ouvrage _Dix jours qui ébranlèrent le monde_ de John Silas Reed.",
           "synopsis": "La Révolution de 1917 et le passage du pouvoir aux mains des Soviets.",
@@ -10955,7 +10959,7 @@
           "copies": [
             {
               "idCopie": 3369,
-              "duree": 103,
+              "duree": 126,
               "format": "DCP",
               "langCopie": "RUS",
               "intertitres": "INT. FR."
@@ -11879,7 +11883,8 @@
           ],
           "idFilmBoxoffice": 2341
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Adrien Leconte"
     },
     {
       "idSeance": 184865,
