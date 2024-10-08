@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-08T08:22:56.818Z",
+  "updatedAt": "2024-10-08T09:40:03.710Z",
   "data": [
     {
       "idSeance": 185115,
@@ -2460,13 +2460,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28208,
-              "duree": 75,
-              "format": "35 mm",
-              "version": "VO",
-              "selected": true
-            },
-            {
               "idCopie": 28422,
               "duree": 75,
               "format": "DCP",
@@ -2631,10 +2624,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28408,
+              "idCopie": 2846,
               "duree": 125,
               "format": "DCP",
               "version": "VO",
+              "langCopie": "ITA",
               "sousTitres": "STF"
             }
           ],
@@ -11210,7 +11204,7 @@
           "art": "Le",
           "realisateurs": "Marcel Carné",
           "annee": 1938,
-          "duree": 91,
+          "duree": 92,
           "generique": "Jean Gabin, Michèle Morgan, Michel Simon, Pierre Brasseur",
           "adaptation": "D'après le roman _Le Quai des brumes_ de Pierre Mac Orlan.",
           "synopsis": "Au Havre, un déserteur tombe amoureux d'une orpheline.",
@@ -11219,17 +11213,17 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 8656,
-              "duree": 91,
-              "format": "DCP",
-              "selected": true
-            },
-            {
               "idCopie": 9161,
               "duree": 92,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "FRE"
+              "langCopie": "FRE",
+              "selected": true
+            },
+            {
+              "idCopie": 8656,
+              "duree": 91,
+              "format": "DCP"
             },
             {
               "idCopie": 13318,
