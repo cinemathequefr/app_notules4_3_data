@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-09T12:55:45.028Z",
+  "updatedAt": "2024-10-09T08:14:42.552Z",
   "data": [
     {
       "idSeance": 185115,
@@ -4216,18 +4216,16 @@
           "titreVo": "Who'll Stop the Rain",
           "realisateurs": "Karel Reisz",
           "annee": 1978,
-          "duree": 105,
+          "duree": 127,
           "generique": "Nick Nolte, Tuesday Weld, Michael Moriarty",
           "adaptation": "D'après le roman _Les Guerriers de l'enfer_ de Robert Stone.",
           "miniTexte": "Fin du conflit vietnamien. Le retour aux États-Unis pour un correspondant de guerre et un ex-Marine se transforme en traque désespérée, alors qu'ils tentent de livrer deux kilos d'héroïne en Californie. Bien plus que le simple film d'action violent que certains se sont limités à voir lors de sa sélection cannoise, un grand thriller post-Vietnam, qui traduit le désarroi d'une époque et arbore la beauté froide du meilleur cinéma des années 50, celui de Walsh, Ford ou Hawks.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28934,
-              "duree": 105,
-              "format": "35 mm",
+              "idCopie": 28671,
+              "duree": 127,
               "version": "VO",
-              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ],
@@ -4362,11 +4360,17 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 28662,
+              "duree": 52,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            },
+            {
               "idCopie": 28672,
               "duree": 52,
-              "format": "Numérique",
-              "version": "VO",
-              "sousTitres": "STF"
+              "format": "35 mm",
+              "selected": true
             }
           ]
         }
@@ -4528,7 +4532,6 @@
               "duree": 22,
               "format": "Numérique",
               "version": "VO",
-              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ],
@@ -4548,7 +4551,7 @@
             {
               "idCopie": 28673,
               "duree": 33,
-              "format": "Numérique",
+              "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
