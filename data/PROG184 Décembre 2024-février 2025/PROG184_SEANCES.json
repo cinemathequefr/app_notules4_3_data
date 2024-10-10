@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-10T09:57:27.901Z",
+  "updatedAt": "2024-10-10T15:41:41.616Z",
   "data": [
     {
       "idSeance": 185115,
@@ -3046,7 +3046,7 @@
       ],
       "idEvenement": 31260,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-20T20:30:00",
+      "dateHeure": "2024-12-20T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3119,7 +3119,7 @@
       ]
     },
     {
-      "idSeance": 145329,
+      "idSeance": 187660,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -3131,8 +3131,8 @@
       ],
       "idEvenement": 31262,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-22T19:45:00",
-      "idSalle": "GF",
+      "dateHeure": "2024-12-20T18:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -3464,7 +3464,7 @@
       "mention": "Séance présentée par Jean-François Rauger"
     },
     {
-      "idSeance": 184941,
+      "idSeance": 187661,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -3476,8 +3476,8 @@
       ],
       "idEvenement": 31271,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-20T18:00:00",
-      "idSalle": "HL",
+      "dateHeure": "2024-12-22T19:45:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -3505,8 +3505,7 @@
           ],
           "idFilmBoxoffice": 17555
         }
-      ],
-      "mention": "Séance présentée par Jean-François Rauger"
+      ]
     },
     {
       "idSeance": 137660,
@@ -4220,7 +4219,7 @@
           "titreVo": "Who'll Stop the Rain",
           "realisateurs": "Karel Reisz",
           "annee": 1978,
-          "duree": 105,
+          "duree": 127,
           "generique": "Nick Nolte, Tuesday Weld, Michael Moriarty",
           "adaptation": "D'après le roman _Les Guerriers de l'enfer_ de Robert Stone.",
           "miniTexte": "Fin du conflit vietnamien. Le retour aux États-Unis pour un correspondant de guerre et un ex-Marine se transforme en traque désespérée, alors qu'ils tentent de livrer deux kilos d'héroïne en Californie. Bien plus que le simple film d'action violent que certains se sont limités à voir lors de sa sélection cannoise, un grand thriller post-Vietnam, qui traduit le désarroi d'une époque et arbore la beauté froide du meilleur cinéma des années 50, celui de Walsh, Ford ou Hawks.",
@@ -4228,7 +4227,7 @@
           "copies": [
             {
               "idCopie": 28934,
-              "duree": 105,
+              "duree": 127,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
@@ -4470,7 +4469,7 @@
       ],
       "idEvenement": 31304,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-13T20:45:00",
+      "dateHeure": "2024-12-13T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4673,16 +4672,16 @@
           "titreVo": "All Fall Down",
           "realisateurs": "John Frankenheimer",
           "annee": 1962,
-          "duree": 109,
+          "duree": 111,
           "generique": "Eva Marie Saint, Warren Beatty, Karl Malden",
           "adaptation": "D'après le roman _All Fall Down_ de James Leo Herlihy.",
           "miniTexte": "Karl Malden en père désœuvré, Angela Lansbury en mère puritaine et dépassée, Warren Beatty en séducteur pervers et agressif, adulé par son frère cadet qui se bat pour le sortir de prison. À travers les relations d'une famille bancale, Frankenheimer brosse le portrait féroce d'une certaine Amérique des années 60 et de sa jeunesse désaxée.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28576,
-              "duree": 109,
-              "format": "16 mm",
+              "idCopie": 28790,
+              "duree": 111,
+              "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
@@ -4716,16 +4715,16 @@
           "titreVo": "All Fall Down",
           "realisateurs": "John Frankenheimer",
           "annee": 1962,
-          "duree": 109,
+          "duree": 111,
           "generique": "Eva Marie Saint, Warren Beatty, Karl Malden",
           "adaptation": "D'après le roman _All Fall Down_ de James Leo Herlihy.",
           "miniTexte": "Karl Malden en père désœuvré, Angela Lansbury en mère puritaine et dépassée, Warren Beatty en séducteur pervers et agressif, adulé par son frère cadet qui se bat pour le sortir de prison. À travers les relations d'une famille bancale, Frankenheimer brosse le portrait féroce d'une certaine Amérique des années 60 et de sa jeunesse désaxée.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28576,
-              "duree": 109,
-              "format": "16 mm",
+              "idCopie": 28790,
+              "duree": 111,
+              "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
@@ -4975,9 +4974,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28853,
+              "idCopie": 28937,
               "duree": 118,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
@@ -5015,9 +5014,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28853,
+              "idCopie": 28937,
               "duree": 118,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
@@ -5314,6 +5313,7 @@
               "duree": 237,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ],
@@ -5781,9 +5781,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28752,
+              "idCopie": 28827,
               "duree": 98,
-              "format": "35 mm",
+              "format": "16 mm",
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
@@ -5868,7 +5868,7 @@
             {
               "idCopie": 28886,
               "duree": 147,
-              "format": "Numérique",
+              "format": "DCP",
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
@@ -5912,7 +5912,7 @@
             {
               "idCopie": 28886,
               "duree": 147,
-              "format": "Numérique",
+              "format": "DCP",
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
@@ -6122,7 +6122,10 @@
             {
               "idCopie": 22070,
               "duree": 165,
-              "version": "VO"
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 7350
@@ -7300,7 +7303,8 @@
               "idCopie": 28457,
               "duree": 76,
               "version": "VO",
-              "langCopie": "GER"
+              "langCopie": "GER",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 189736
@@ -7711,7 +7715,10 @@
             {
               "idCopie": 11858,
               "duree": 99,
-              "format": "35 mm"
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 27089
@@ -8166,12 +8173,15 @@
               "duree": 98,
               "format": "16 mm",
               "version": "VO",
+              "stDemande": true,
               "selected": true
             },
             {
               "idCopie": 28504,
               "duree": 98,
-              "version": "VO"
+              "format": "16 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 61142
@@ -8801,6 +8811,48 @@
       ]
     },
     {
+      "idSeance": 187662,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31399,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-23T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33586,
+          "titre": "Sur les quais",
+          "titreVo": "On the Waterfront",
+          "realisateurs": "Elia Kazan",
+          "annee": 1954,
+          "duree": 108,
+          "generique": "Marlon Brando, Karl Malden, Rod Steiger, Eva Marie Saint",
+          "synopsis": "Jeune docker, Terry est manipulé par son frère, avocat corrompu du syndicat des dockers. Il assiste sans intervenir au meurtre d'un employé. Quand la sœur de la victime lui demande de l'aide, Terry se retrouve face à un dilemme.",
+          "miniTexte": "Coupable d'avoir trahi un collègue à la botte d'un syndicat mafieux, un ancien boxeur devenu docker cherche la rédemption. Préféré à Frank Sinatra quelques jours avant le tournage, Brando irradie de rage et d'intensité dans une exploration du pouvoir criminel, qui fait écho à la propre histoire de Kazan. Un brillant film noir aux élans néoréalistes, récompensé par huit Oscars.",
+          "commentaire": "Dans le cadre de l'hommage rendu à Marlon Brando à l'occasion du centenaire de sa naissance, chef-d'œuvre de la « renaissance new-yorkaise » des années 50 par son chef de file : Elia Kazan. Vibrant éloge de la trahison par un délateur pour les uns, lucidité antistalinienne et documentée pour les autres : l'un des films les plus discutés de l'histoire du cinéma. — F. B.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28936,
+              "duree": 108,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1627
+        }
+      ]
+    },
+    {
       "idSeance": 145259,
       "idProg": 184,
       "idCycleCategories": [
@@ -9019,7 +9071,7 @@
       ],
       "idEvenement": 31402,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-13T15:30:00",
+      "dateHeure": "2024-12-13T17:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -9323,7 +9375,7 @@
       ],
       "idEvenement": 31406,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-16T16:30:00",
+      "dateHeure": "2024-12-16T15:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -9450,8 +9502,8 @@
       ],
       "idEvenement": 31408,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-13T18:00:00",
-      "idSalle": "GF",
+      "dateHeure": "2024-12-13T19:30:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -9606,8 +9658,7 @@
             {
               "idCopie": 28632,
               "duree": 11,
-              "format": "16 mm",
-              "version": "VO"
+              "format": "16 mm"
             }
           ],
           "idFilmBoxoffice": 1585
@@ -9680,7 +9731,8 @@
               "duree": 6,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ]
         }
@@ -9734,7 +9786,8 @@
               "idCopie": 810,
               "duree": 58,
               "format": "16 mm",
-              "intertitres": "INT. ANG."
+              "intertitres": "INT. ANG.",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 19092
@@ -10818,8 +10871,10 @@
       ],
       "idEvenement": 31467,
       "typeEvenement": 13,
-      "dateHeure": "2025-02-27T21:30:00",
+      "dateHeure": "2025-02-27T21:00:00",
       "idSalle": "HL",
+      "idSeanceAssoc": 184898,
+      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -12810,7 +12865,9 @@
           "copies": [
             {
               "idCopie": 28681,
-              "duree": 74
+              "duree": 74,
+              "format": "DCP",
+              "version": "VF"
             }
           ],
           "idFilmBoxoffice": 38826
@@ -12848,7 +12905,9 @@
           "copies": [
             {
               "idCopie": 28681,
-              "duree": 74
+              "duree": 74,
+              "format": "DCP",
+              "version": "VF"
             }
           ],
           "idFilmBoxoffice": 38826
@@ -13206,10 +13265,19 @@
           "titreNx": "おおかみこどもの雨と雪",
           "realisateurs": "Mamoru Hosoda",
           "annee": 2011,
+          "duree": 117,
           "ageMinimal": 10,
           "synopsis": "Le père de Yuki et Ame était un homme-loup. À sa mort, leur mère doit élever seule et à l'abri des regards ses deux enfants, mi humains, mi louveteaux. La famille s'installe à la campagne où Yuki et Ame grandissent en liberté et apprennent à mieux connaître la nature, les saisons, la neige et les tempêtes.",
           "synopsisJP": "Dans un village proche d'une forêt, une mère élève seule ses deux enfants, dont le père est un homme-loup. Hosuda réalise une chronique familiale qui parle d'amour, d'éducation, de métissage et de respect de la nature. Délicat et bouleversant, un beau film d'animation adapté par la suite en manga.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 28690,
+              "duree": 117,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ],
           "idFilmBoxoffice": 206736
         }
       ]
@@ -13514,7 +13582,8 @@
               "idCopie": 28685,
               "duree": 7,
               "format": "35 mm",
-              "intertitres": "INT. ANG."
+              "intertitres": "INT. ANG.",
+              "stDemande": true
             }
           ]
         },
@@ -13553,7 +13622,6 @@
               "idCopie": 28687,
               "duree": 15,
               "format": "35 mm",
-              "version": "VF",
               "langCopie": "FRE"
             }
           ]
@@ -14941,7 +15009,8 @@
           ],
           "idFilmBoxoffice": 230
         }
-      ]
+      ],
+      "mention": "Séance présentée par Amandine D'Azevedo"
     },
     {
       "idSeance": 185022,
@@ -15003,6 +15072,8 @@
       "typeConference": "Conférence",
       "idSalle": "GF",
       "duree": 90,
+      "idSeanceAssoc": 139332,
+      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -17213,11 +17284,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 17984,
+              "idCopie": 25408,
               "duree": 126,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 8373
