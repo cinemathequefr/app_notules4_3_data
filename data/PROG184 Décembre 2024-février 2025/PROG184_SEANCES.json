@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-09T12:55:45.028Z",
+  "updatedAt": "2024-10-10T09:20:54.942Z",
   "data": [
     {
       "idSeance": 185115,
@@ -1434,7 +1434,9 @@
             {
               "idCopie": 23934,
               "duree": 22,
-              "version": "VO"
+              "format": "Numérique",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 27395
@@ -1477,6 +1479,7 @@
             {
               "idCopie": 23905,
               "duree": 30,
+              "format": "Numérique",
               "version": "VO",
               "stDemande": true
             }
@@ -1500,6 +1503,7 @@
             {
               "idCopie": 23935,
               "duree": 30,
+              "format": "Numérique",
               "version": "VO",
               "stDemande": true
             }
@@ -5630,7 +5634,7 @@
       "idEvenement": 31325,
       "typeEvenement": 13,
       "dateHeure": "2025-02-24T15:30:00",
-      "idSalle": "HL",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -7379,7 +7383,8 @@
               "idCopie": 28843,
               "duree": 119,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 29699
@@ -8034,15 +8039,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28497,
-              "duree": 165,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "Autres",
-              "stDemande": true,
-              "selected": true
-            },
-            {
               "idCopie": 28498,
               "duree": 165,
               "format": "35 mm",
@@ -8421,13 +8417,7 @@
               "duree": 84,
               "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 28507,
-              "duree": 85,
-              "version": "VO"
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 212906
@@ -8558,19 +8548,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28842,
-              "duree": 90,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 28509,
               "duree": 90,
               "format": "DCP",
               "version": "VO",
-              "stDemande": true
+              "stDemande": true,
+              "selected": true
             },
             {
               "idCopie": 28508,
@@ -8610,19 +8593,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28842,
-              "duree": 90,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 28509,
               "duree": 90,
               "format": "DCP",
               "version": "VO",
-              "stDemande": true
+              "stDemande": true,
+              "selected": true
             },
             {
               "idCopie": 28508,
@@ -8806,7 +8782,7 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 16274,
+              "idCopie": 28936,
               "duree": 108,
               "format": "35 mm",
               "version": "VO",
@@ -9445,7 +9421,7 @@
           "duree": 215,
           "generique": "Kris Kristofferson, Christopher Walken, John Hurt, Isabelle Huppert",
           "synopsis": "En 1890, dans le nouvel État du Wyoming, de gros propriétaires de bétail entrent en guerre contre des immigrants venus d'Europe centrale.",
-          "miniTexte": "Sur la lancée du triomphe de _Voyage au bout de l'enfer_, Cimino entame son grand œuvre : ce qu'il rêve être le film définitif sur la conquête de l'Ouest, un western plus grand que tout, que ceux qui le précédent, que l'Histoire elle-même. Le tournage est épique, le bras de fer avec United Artist brutal, et le résultat démesuré. Les noces de l'intime et de l'immense, un film d'action et une oraison viscontienne, une chimère homérique qui laissera le studio et le cinéaste exsangues. Il faut enlever la triste étiquette de film maudit à _La Porte du paradis_, et le revoir dans toute sa splendeur, sur écran géant, et dans son montage d'origine.",
+          "miniTexte": "Sur la lancée du triomphe de _Voyage au bout de l'enfer_, Cimino entame son grand œuvre : ce qu'il rêve être le film définitif sur la conquête de l'Ouest, un western plus grand que tout, que ceux qui le précédent, que l'Histoire elle-même. Le tournage est épique, le bras de fer avec United Artist brutal, et le résultat démesuré. Les noces de l'intime et de l'immense, un film d'action et une oraison viscontienne, une chimère homérique qui laissera le studio et le cinéaste exsangues. Il faut enlever la triste étiquette de film maudit à _La Porte du paradis_, et le revoir dans toute sa splendeur, sur écran géant, dans son montage et ses couleurs d'origine.",
           "status": 2,
           "copies": [
             {
@@ -9631,7 +9607,7 @@
               "idCopie": 28632,
               "duree": 11,
               "format": "16 mm",
-              "version": "VF"
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 1585
@@ -10844,8 +10820,6 @@
       "typeEvenement": 13,
       "dateHeure": "2025-02-27T21:30:00",
       "idSalle": "HL",
-      "idSeanceAssoc": 184898,
-      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -10959,7 +10933,7 @@
           "idFilmBoxoffice": 1981
         }
       ],
-      "mention": "Ouverture de la rétrospective. Accompagnement musical par Maxime Delpierre"
+      "mention": "Ouverture de la rétrospective. Accompagnement musical par L'Équerre"
     },
     {
       "idSeance": 184768,
@@ -11213,18 +11187,7 @@
               "idCopie": 9161,
               "duree": 92,
               "format": "35 mm",
-              "version": "VO",
-              "langCopie": "FRE",
-              "selected": true
-            },
-            {
-              "idCopie": 8656,
-              "duree": 91,
-              "format": "DCP"
-            },
-            {
-              "idCopie": 13318,
-              "duree": 91
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 2594
@@ -11423,13 +11386,7 @@
             {
               "idCopie": 11802,
               "duree": 107,
-              "format": "35 mm",
-              "selected": true
-            },
-            {
-              "idCopie": 28643,
-              "duree": 107,
-              "format": "DCP"
+              "format": "35 mm"
             }
           ],
           "idFilmBoxoffice": 3508
@@ -11916,7 +11873,7 @@
           "idFilmBoxoffice": 213305
         }
       ],
-      "mention": "Accompagnement musical par La Mverte et Vega Voga"
+      "mention": "Accompagnement musical par La Mverte"
     },
     {
       "idSeance": 185104,
@@ -11988,13 +11945,7 @@
             {
               "idCopie": 6522,
               "duree": 120,
-              "format": "35 mm",
-              "selected": true
-            },
-            {
-              "idCopie": 6530,
-              "duree": 120,
-              "format": "DCP"
+              "format": "35 mm"
             }
           ],
           "idFilmBoxoffice": 607
@@ -12080,7 +12031,6 @@
               "idCopie": 13255,
               "duree": 104,
               "format": "35 mm",
-              "version": "VO",
               "langCopie": "FRE"
             }
           ],
@@ -12470,7 +12420,7 @@
           "idFilmBoxoffice": 309029
         }
       ],
-      "mention": "Séance présentée par Jean-François Rauger et Pauline de Raymond"
+      "mention": "Séance présentée par Jean-François Rauger et Pauline de Raymond. Accompagnement musical par Paul Lay"
     },
     {
       "idSeance": 145266,
@@ -13740,7 +13690,7 @@
           "duree": 85,
           "generique": "Mel Gibson, Joanne Samuel, Hugh Keays-Byrne",
           "synopsis": "Sur les autoroutes désertées d'une Australie méconnaissable, une guerre sans merci oppose motards hors-la-loi et policiers Interceptor, qui tentent de triompher de la vermine au volant de voitures aux moteurs surgonflés.",
-          "miniTexte": "Tourné avec deux bouts de ficelles, _Mad Max_est une date, un jalon qui, en 90 minutes sans une once de gras, pose les bases de 40 ans de films d'action à venir. L'apocalypse selon Miller, moins folklorique que dans les quatre suites que connaîtra le film, n'en est pas moins effrayante, qui fait de l'Australie une terre d'anarchie où quelques policiers brutaux tentent de juguler l'ultraviolence qui les entoure. Un chef-d'œuvre nihiliste et inoxydable. Et la naissance d'une star mondiale, Mel Gibson.",
+          "miniTexte": "Tourné avec deux bouts de ficelles, _Mad Max_ est une date, un jalon qui, en 90 minutes sans une once de gras, pose les bases de 40 ans de films d'action à venir. L'apocalypse selon Miller, moins folklorique que dans les quatre suites que connaîtra le film, n'en est pas moins effrayante, qui fait de l'Australie une terre d'anarchie où quelques policiers brutaux tentent de juguler l'ultraviolence qui les entoure. Un chef-d'œuvre nihiliste et inoxydable. Et la naissance d'une star mondiale, Mel Gibson.",
           "status": 2,
           "copies": [
             {
@@ -14862,7 +14812,8 @@
           "copies": [
             {
               "idCopie": 28713,
-              "duree": 94
+              "duree": 94,
+              "format": "35 mm"
             }
           ],
           "idFilmBoxoffice": 58416
@@ -15052,8 +15003,6 @@
       "typeConference": "Conférence",
       "idSalle": "GF",
       "duree": 90,
-      "idSeanceAssoc": 139332,
-      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -15272,7 +15221,8 @@
           ],
           "idFilmBoxoffice": 46373
         }
-      ]
+      ],
+      "mention": "Séance présentée par Jean-François Rauger"
     },
     {
       "idSeance": 137003,
@@ -15917,7 +15867,8 @@
           ],
           "idFilmBoxoffice": 99094
         }
-      ]
+      ],
+      "mention": "Séance présentée par Juliette Armantier"
     },
     {
       "idSeance": 185028,
@@ -16253,33 +16204,6 @@
       "mention": "Séance suivie d'une discussion avec Marin Gérard"
     },
     {
-      "idSeance": 184996,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 18,
-          "idCategorie": 1856,
-          "titreCycle": "Conservatoire des techniques cinématographiques",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 31716,
-      "typeEvenement": 14,
-      "dateHeure": "2024-12-13T18:30:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 240,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 31716,
-          "idTypeConf": 16,
-          "titre": "Film + Dialogue directeur Photo (FCFA)",
-          "duree": 240
-        }
-      ]
-    },
-    {
       "idSeance": 184997,
       "idProg": 184,
       "idCycleCategories": [
@@ -16542,7 +16466,8 @@
           ],
           "idFilmBoxoffice": 48908
         }
-      ]
+      ],
+      "mention": "Séance présentée par Élise Girard"
     },
     {
       "idSeance": 185324,
@@ -17632,6 +17557,33 @@
         }
       ],
       "mention": "Séance présentée par Serge Avédikian"
+    },
+    {
+      "idSeance": 187659,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 18,
+          "idCategorie": 1856,
+          "titreCycle": "Conservatoire des techniques cinématographiques",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31902,
+      "typeEvenement": 14,
+      "dateHeure": "2024-12-13T17:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "GF",
+      "duree": 90,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31902,
+          "idTypeConf": 55,
+          "titre": "Une caméra historique : le Parvo L de Edouard Tissé, le directeur de la photographie d'Eisenstein",
+          "duree": 90
+        }
+      ]
     }
   ]
 }
