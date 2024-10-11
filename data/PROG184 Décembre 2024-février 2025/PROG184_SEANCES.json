@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-10T15:41:41.616Z",
+  "updatedAt": "2024-10-11T09:44:01.389Z",
   "data": [
     {
       "idSeance": 185115,
@@ -1158,7 +1158,7 @@
           "duree": 99,
           "generique": "Keira Knightley, Michael Fassbender, Viggo Mortensen",
           "adaptation": "D'après le roman _A Most Dangerous Method_ de John Kerr et la pièce _The Talking Cure_ de Christopher Hampton.",
-          "miniTexte": "Les relations tumultueuses entre les deux pères de la psychanalyse, Carl Gustav Jung et Sigmund Freud, aux prises avec une patiente atteinte d'hystérie. D'abord classique, la chronique historique se mue en romance charnelle, propice à un réjouissant face-à-face d'acteurs.",
+          "miniTexte": "Les relations tumultueuses entre Carl Gustav Jung et Sigmund Freud, aux prises avec une patiente atteinte d'hystérie. D'abord classique, la chronique historique se mue en romance charnelle, propice à un réjouissant face-à-face d'acteurs.",
           "status": 2,
           "copies": [
             {
@@ -2969,7 +2969,7 @@
           "idFilm": 70058,
           "titre": "Propriété, c'est plus le vol",
           "art": "La",
-          "titreVo": "Proprietà non è piu un furto",
+          "titreVo": "Proprietà non è più un furto",
           "artVo": "La",
           "realisateurs": "Elio Petri",
           "annee": 1973,
@@ -3705,7 +3705,7 @@
           "duree": 90,
           "generique": "Catriona MacColl, David Warbeck, Sarah Keller",
           "synopsis": "A la Nouvelle-Orléans, en 1927, un peintre est crucifié pour sorcellerie. Cinquante ans plus tard, une jeune femme hérite de l'hôtel où s'est déroulé le drame. Elle découvrira que la demeure est construite sur une des sept portes de l'Enfer.",
-          "miniTexte": "Héritière d'un hôtel maudit, une jeune femme découvre qu'il est construit sur l'une des sept portes de l'Enfer. Pierre angulaire et sommet de l'œuvre de Fulci, _L'Au-delà_ s'impose comme la peinture d'un monde chaotique, un film d'horreur macabre, lyrique et sensoriel, un théâtre de la cruauté, jugé pornographique dans son traitement.",
+          "miniTexte": "Héritière d'un hôtel maudit, une jeune femme découvre qu'il est construit sur l'une des sept portes de l'Enfer. Pierre angulaire et sommet de l'œuvre de Fulci, _L'Au-delà_ s'impose comme la peinture d'un monde chaotique, un film d'horreur macabre, lyrique et sensoriel, un théâtre de la cruauté, jugé pornographique par la critique de l'époque.",
           "status": 2,
           "copies": [
             {
@@ -3790,7 +3790,7 @@
           "realisateurs": "Stanley Kubrick",
           "annee": 1980,
           "duree": 119,
-          "generique": "Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers",
+          "generique": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
           "adaptation": "D'après le roman _Shining : L'Enfant lumière_ de Stephen King.",
           "synopsis": "L'écrivain Jack Torrance passe l'hiver avec sa femme et son fils dans un immense hôtel isolé. Il assure le gardiennage de l'établissement et peut ainsi consacrer son temps à l'écriture. Mais une force maléfique semble le rendre de plus en plus violent.",
           "miniTexte": "Au gram dam de l'écrivain, Kubrick s'approprie le roman de Stephen King davantage qu'il ne l'adapte, et le tord à sa volonté pour se concentrer sur la pure terreur du récit et la folie de son héros. Nicholson, dans le rôle de sa vie, fait du cabotinage un art, qui convoque les fantômes de l'expressionnisme. Souvent présenté comme le film ultime du genre, le concentré d'un siècle de peurs. Une date dans le cinéma d'horreur.",
@@ -8562,12 +8562,7 @@
               "duree": 90,
               "format": "DCP",
               "version": "VO",
-              "stDemande": true,
-              "selected": true
-            },
-            {
-              "idCopie": 28508,
-              "duree": 90
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 944
@@ -8607,12 +8602,7 @@
               "duree": 90,
               "format": "DCP",
               "version": "VO",
-              "stDemande": true,
-              "selected": true
-            },
-            {
-              "idCopie": 28508,
-              "duree": 90
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 944
@@ -10718,7 +10708,7 @@
           "realisateurs": "Wes Craven",
           "annee": 1984,
           "duree": 91,
-          "generique": "John Saxon, Ronee Blakley, Heather Langenkamp",
+          "generique": "Robert Englund, Heather Langenkamp, John Saxon",
           "synopsis": "Des adolescents sont victimes de cauchemars mortels. Leurs nuits sont hantées par le spectre d'un tueur d'enfants.",
           "miniTexte": "Un inquiétant croque-mitaine tourmente les rêves d'adolescents. À travers l'incarnation cauchemardesque de Freddy Krueger, Wes Craven entrelace suspense et action pour mieux transformer des peurs universelles en réalité monstrueuse. Un monument de terreur, considéré comme l'un des piliers du cinéma d'horreur.",
           "status": 2,
@@ -12826,8 +12816,7 @@
               "idCopie": 3686,
               "duree": 50,
               "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "intertitres": "INT. FR."
             }
           ],
           "idFilmBoxoffice": 2255
@@ -13191,9 +13180,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 10256,
+              "idCopie": 28938,
               "duree": 85,
-              "format": "35 mm"
+              "format": "DCP",
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 53976
@@ -15103,8 +15093,7 @@
         {
           "ordre": 1,
           "idFilm": 29749,
-          "titre": "Amadeus (Director's Cut)",
-          "titreVo": "Amadeus",
+          "titre": "Amadeus",
           "realisateurs": "Miloš Forman",
           "annee": 1984,
           "duree": 158,
