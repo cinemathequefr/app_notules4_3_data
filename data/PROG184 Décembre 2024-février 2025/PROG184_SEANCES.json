@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-11T10:39:56.718Z",
+  "updatedAt": "2024-10-14T08:39:55.524Z",
   "data": [
     {
       "idSeance": 185115,
@@ -1002,14 +1002,6 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 24030,
-              "duree": 98,
-              "format": "35 mm",
-              "version": "VO",
               "sousTitres": "STF"
             }
           ],
@@ -1108,14 +1100,6 @@
           "copies": [
             {
               "idCopie": 23914,
-              "duree": 0,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 24031,
               "duree": 0,
               "format": "35 mm",
               "version": "VO",
@@ -1564,7 +1548,8 @@
               "idCopie": 23932,
               "duree": 14,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 27248
@@ -1611,27 +1596,6 @@
         },
         {
           "ordre": 5,
-          "idFilm": 153087,
-          "titre": "Faith Healer",
-          "art": "The",
-          "realisateurs": "David Cronenberg",
-          "annee": 1987,
-          "duree": 60,
-          "generique": "Louise Robey, John D. LeMay, Chris Wiggins",
-          "synopsis": "Deux jeunes antiquaires héritent de la boutique de leur oncle, qui avait conclu un pacte avec le diable.",
-          "miniTexte": "Un charlatan religieux découvre un gant mystérieux, qui guérit les patients mourants et transmet la maladie à d'autres personnes. L'un des meilleurs épisodes de _Friday The 13th: The Series_, sommet de _body horror_.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 23985,
-              "duree": 60,
-              "version": "VO",
-              "stDemande": true
-            }
-          ]
-        },
-        {
-          "ordre": 6,
           "idFilm": 153089,
           "titre": "Letter from Michelangelo",
           "realisateurs": "David Cronenberg",
@@ -1647,7 +1611,7 @@
           ]
         },
         {
-          "ordre": 7,
+          "ordre": 6,
           "idFilm": 153093,
           "titre": "Death of David Cronenberg",
           "art": "The",
@@ -1665,7 +1629,7 @@
           ]
         },
         {
-          "ordre": 8,
+          "ordre": 7,
           "idFilm": 153094,
           "titre": "Nid",
           "art": "Le",
@@ -1686,7 +1650,7 @@
           ]
         },
         {
-          "ordre": 9,
+          "ordre": 8,
           "idFilm": 153090,
           "titre": "Jim Ritchie Sculptor",
           "realisateurs": "David Cronenberg",
@@ -3421,7 +3385,7 @@
       "mention": "Séance présentée par Jean-François Rauger"
     },
     {
-      "idSeance": 184940,
+      "idSeance": 187668,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -3433,7 +3397,7 @@
       ],
       "idEvenement": 31269,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-22T17:00:00",
+      "dateHeure": "2024-12-21T17:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3460,8 +3424,7 @@
           ],
           "idFilmBoxoffice": 5155
         }
-      ],
-      "mention": "Séance présentée par Jean-François Rauger"
+      ]
     },
     {
       "idSeance": 187661,
@@ -3520,7 +3483,7 @@
       ],
       "idEvenement": 31272,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-26T20:15:00",
+      "dateHeure": "2024-12-26T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3635,7 +3598,7 @@
       ]
     },
     {
-      "idSeance": 137555,
+      "idSeance": 187669,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -3647,7 +3610,7 @@
       ],
       "idEvenement": 31275,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-21T17:30:00",
+      "dateHeure": "2024-12-22T17:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3678,7 +3641,7 @@
       ]
     },
     {
-      "idSeance": 137661,
+      "idSeance": 187666,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -3690,7 +3653,7 @@
       ],
       "idEvenement": 31276,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-26T18:00:00",
+      "dateHeure": "2024-12-21T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3719,8 +3682,7 @@
           ],
           "idFilmBoxoffice": 49613
         }
-      ],
-      "mention": "Séance présentée par Jean-François Rauger"
+      ]
     },
     {
       "idSeance": 145327,
@@ -3766,7 +3728,7 @@
       ]
     },
     {
-      "idSeance": 137556,
+      "idSeance": 187665,
       "idProg": 184,
       "idCycleCategories": [
         {
@@ -3778,7 +3740,7 @@
       ],
       "idEvenement": 31279,
       "typeEvenement": 13,
-      "dateHeure": "2024-12-21T20:00:00",
+      "dateHeure": "2024-12-26T20:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3793,7 +3755,7 @@
           "generique": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
           "adaptation": "D'après le roman _Shining : L'Enfant lumière_ de Stephen King.",
           "synopsis": "L'écrivain Jack Torrance passe l'hiver avec sa femme et son fils dans un immense hôtel isolé. Il assure le gardiennage de l'établissement et peut ainsi consacrer son temps à l'écriture. Mais une force maléfique semble le rendre de plus en plus violent.",
-          "miniTexte": "Au gram dam de l'écrivain, Kubrick s'approprie le roman de Stephen King davantage qu'il ne l'adapte, et le tord à sa volonté pour se concentrer sur la pure terreur du récit et la folie de son héros. Nicholson, dans le rôle de sa vie, fait du cabotinage un art, qui convoque les fantômes de l'expressionnisme. Souvent présenté comme le film ultime du genre, le concentré d'un siècle de peurs. Une date dans le cinéma d'horreur.",
+          "miniTexte": "Une date dans le cinéma d'horreur : au gram dam de l'écrivain, Kubrick s'approprie le roman de Stephen King davantage qu'il ne l'adapte, et le tord à sa volonté pour se concentrer sur la pure terreur du récit et la folie de son héros. Nicholson, dans le rôle de sa vie, fait du cabotinage un art, qui convoque les fantômes de l'expressionnisme. Le concentré d'un siècle de peurs, souvent présenté comme le film ultime du genre – ici présenté dans son montage européen.",
           "commentaire": "« Le plus important dans un film, ce sont les mystères, ce qui est au-delà de la raison et du langage » ; en constante révolution artistique mais toujours via l'expérimentation technique, comme s'il voulait à chaque fois raconter une histoire comme cela n'avait jamais été fait, Stanley Kubrick, après la lumière à la bougie de Barry Lyndon, exige le mouvement caméra à la fluidité absolue pour Shining. Déjà, en 1974, Kubrick reçoit une démo filmée avec un prototype. Il répond : « Cela devrait révolutionner la manière de filmer. J'ai une question : y a-t-il une hauteur minimale à laquelle ce mystérieux stabilisateur peut être utilisé ? » Adaptation d'un roman plutôt banal de Stephen King, _Shining_ aspire à transcender l'invisible et, accessoirement, à devenir le film d'horreur ultime. Si chaque détail devient un élément intellectuel et narratif, l'art nouveau du Steadicam fait de tout le film un symptôme, sublimant le message cinématographique, que ce soit à tricycle sur une moquette au motif indélébile ou lors d'une poursuite dans un labyrinthe enneigé tout aussi inoubliable. Kubrick aime amplifier à l'extrême, que ce soient les contre-plongées délirantes ou les expressions outrées de ses acteurs. Mais finalement, le plus spectaculaire, ce qui devient par la suite l'image référence du film, réside dans une idée simplissime : filmer à hauteur d'enfant, en caméra portée, mobile et ultra rapide, en frôlant les murs et près du sol, à la manière d'un « tapis volant ». Le Steadicam est ainsi perfectionné, en liaison (radio et retour vidéo) directe avec le cinéaste. Coïncidence ou pas, le petit Danny fait le même poids qu'une caméra Arriflex 35BL.\n\nÉmilie Cauquy",
           "status": 2,
           "copies": [
@@ -10512,6 +10474,49 @@
       ]
     },
     {
+      "idSeance": 187667,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 809,
+          "idCategorie": 3459,
+          "titreCycle": "Marlon Brando",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31456,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-23T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45766,
+          "titre": "Bal des maudits",
+          "art": "Le",
+          "titreVo": "Young Lions",
+          "artVo": "The",
+          "realisateurs": "Edward Dmytryk",
+          "annee": 1958,
+          "duree": 167,
+          "generique": "Marlon Brando, Montgomery Clift, Dean Martin",
+          "adaptation": "D'après le roman _The Young Lions_ d'Irwin Shaw.",
+          "miniTexte": "Les destins croisés d'un officier allemand et de deux soldats américains durant la Seconde Guerre mondiale. D'après un best-seller d'Irwin Shaw, _Le Bal des maudits_ reflète la montée et la chute de l'Allemagne nazie à travers une étonnante peinture de l'ambiguïté humaine, emmenée par un trio d'acteurs au diapason.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28541,
+              "duree": 167,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 52911
+        }
+      ]
+    },
+    {
       "idSeance": 145258,
       "idProg": 184,
       "idCycleCategories": [
@@ -16796,50 +16801,6 @@
       "typeEvenement": 13,
       "dateHeure": "2025-01-06T15:30:00",
       "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 44907,
-          "titre": "Homme au bras d'or",
-          "art": "L'",
-          "titreVo": "Man With the Golden Arm",
-          "artVo": "The",
-          "realisateurs": "Otto Preminger",
-          "annee": 1955,
-          "duree": 119,
-          "generique": "Frank Sinatra, Kim Novak, Eleanor Parker, Arnold Stang",
-          "adaptation": "D'après le roman _The Man with the Golden Arm_ de Nelson Algren.",
-          "miniTexte": "Après une cure de désintoxication, Frankie Machine retrouve son quartier et tente de devenir batteur de jazz. Coup de tonnerre à Hollywood : bravant le Code Hays, _L'Homme au bras d'or_ est le premier film à évoquer l'enfer de la drogue, avec un réalisme violent. Preminger rue dans les brancards contre la censure, démissionne de l'Association des Producteurs, et revendique son indépendance. La partition jazz d'Elmer Bernstein est sublime, Frank Sinatra, au jeu instinctif, est à son sommet, bouleversant. Une liberté de ton, un témoignage précis comme un documentaire, traversé de poésie sourde, et toujours, chez Preminger, la volonté de traiter des sujets sensibles, sans jugement aucun. Un voyage au bout de la nuit cruel qui hante longtemps le spectateur, le film le plus engagé du cinéaste, si ce n'est son plus beau.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 6941,
-              "duree": 119,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 29699
-        }
-      ]
-    },
-    {
-      "idSeance": 185056,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 416,
-          "idCategorie": 1847,
-          "titreCycle": "Otto Preminger",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31751,
-      "typeEvenement": 13,
-      "dateHeure": "2025-01-29T19:00:00",
-      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
