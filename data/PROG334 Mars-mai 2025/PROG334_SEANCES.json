@@ -1,0 +1,78 @@
+{
+  "updatedAt": "2024-10-16T08:00:32.481Z",
+  "data": [
+    {
+      "idSeance": 185617,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31866,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-19T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33193,
+          "titre": "Rivière rouge",
+          "art": "La",
+          "titreVo": "Red River",
+          "realisateurs": "Howard Hawks",
+          "annee": 1946,
+          "duree": 133,
+          "generique": "John Wayne, Montgomery Clift, Joanne Dru",
+          "adaptation": "D'après le roman _The Chisholm Trail_ de Borden Chase.",
+          "synopsis": "Tom Dunson, un pionnier, et son fils adoptif, rescapé d'un massacre, doivent convoyer un important troupeau de bétail le long de la piste Chilshom. Mais le comportement tyrannique de Tom provoque une mutinerie.",
+          "commentaire": "« Prends soin de mon gars Duke et fais un bon film », lui a écrit John Ford. Alors Hawks, s'il a d'abord rêvé de Cary Grant et Gary Cooper, bichonne John Wayne, sa grande silhouette et son visage buriné, et embauche le débutant Montgomery Clift pour lui tenir tête. Si, hors plateau, Monty se heurte au machisme de son partenaire, le duo fonctionne parfaitement devant la caméra. Hawks, lui, s'engage dans son premier western en faisant un pas de côté : ce qui l'intéresse, c'est l'évolution de la relation entre les deux hommes, qui passe de l'admiration à la rivalité haineuse. Avec son style direct et épuré, _La Rivière rouge_ parle d'amour filial, d'Œdipe, d'appât du gain, prend des accents de lutte des classes, dans une nature prégnante, rude, que le cinéaste choisit délibérément de filmer en noir et blanc, en confiant la photo à Russell Harlan. Hawks fait la concession d'une lenteur parfois nécessaire, coupe des scènes amorales pour ménager la censure, mais laisse quand même des dialogues suggestifs – Monty Clift et John Ireland comparant leurs armes à feu. _La Rivière rouge_ a la marque des premières fois réussies, et déjà, contient des sarments de _Rio Bravo_, le Duke, le thème de Dimitri Tiomkin que reprendra Dean Martin, le fidèle et édenté Walter Brennan. Premier western, _first shoot_, et, d'entrée, un sommet du genre.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23166,
+              "duree": 133,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 185428,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672
+        }
+      ],
+      "idEvenement": 31991,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-12T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37551,
+          "titre": "Nous avons gagné ce soir",
+          "titreVo": "Set-up",
+          "artVo": "The",
+          "realisateurs": "Robert Wise",
+          "annee": 1948,
+          "adaptation": "D'après le poème _The Set-up_ de Joseph Moncure March.",
+          "status": 0
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    }
+  ]
+}
