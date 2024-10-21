@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-17T09:39:41.326Z",
+  "updatedAt": "2024-10-18T15:35:03.467Z",
   "data": [
     {
       "idSeance": 132987,
@@ -2034,8 +2034,7 @@
               "duree": 106,
               "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 7072
@@ -12149,126 +12148,6 @@
       ]
     },
     {
-      "idSeance": 144502,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 11,
-          "idCategorie": 3405,
-          "titreCycle": "Séances spéciales",
-          "titreSousCycle": "Godzilla Day"
-        }
-      ],
-      "idEvenement": 31064,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-03T18:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 120329,
-          "titre": "Godzilla contre Mecanik Monster",
-          "titreVo": "Gojira tai Mekagojira",
-          "titreNx": "ゴジラ対メカゴジラ",
-          "realisateurs": "Jun Fukuda",
-          "annee": 1974,
-          "duree": 83,
-          "generique": "Masaaki Daimon, Reiko Tajima, Kazuya Aoyama",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28268,
-              "duree": 83,
-              "format": "35 mm",
-              "version": "VF",
-              "langCopie": "FRE"
-            }
-          ],
-          "idFilmBoxoffice": 184179
-        }
-      ]
-    },
-    {
-      "idSeance": 134030,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 11,
-          "idCategorie": 3405,
-          "titreCycle": "Séances spéciales",
-          "titreSousCycle": "Godzilla Day"
-        }
-      ],
-      "idEvenement": 31065,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-03T20:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 97016,
-          "titre": "Godzilla: Final Wars",
-          "titreVo": "Gojira: Fainaru wōzu",
-          "titreNx": "ゴジラ ファイナルウォーズ",
-          "realisateurs": "Ryuhei Kitamura",
-          "annee": 2005,
-          "duree": 124,
-          "generique": "Masahiro Matsuoka, Rei Kikukawa, Akira Takarada",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28271,
-              "duree": 124,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 60845
-        }
-      ]
-    },
-    {
-      "idSeance": 144500,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 11,
-          "idCategorie": 3405,
-          "titreCycle": "Séances spéciales",
-          "titreSousCycle": "Godzilla Day"
-        }
-      ],
-      "idEvenement": 31066,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-03T14:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 74370,
-          "titre": "Planète des monstres",
-          "art": "La",
-          "titreVo": "Kaijū-tō no kessen: Gojira no musuko",
-          "titreNx": "怪獣島の決戦 ゴジラの息子",
-          "realisateurs": "Jun Fukuda",
-          "annee": 1967,
-          "duree": 85,
-          "generique": "Tadao Takashima, Akira Kubo, Bibari Maeda",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28272,
-              "duree": 85,
-              "format": "35 mm",
-              "version": "VF"
-            }
-          ],
-          "idFilmBoxoffice": 17693
-        }
-      ]
-    },
-    {
       "idSeance": 131902,
       "idProg": 182,
       "idCycleCategories": [
@@ -12592,6 +12471,7 @@
               "duree": 90,
               "format": "DCP",
               "version": "VO",
+              "sousTitres": "STF",
               "stDemande": true
             }
           ]
@@ -16631,47 +16511,6 @@
       "mention": "Avant-première. Séance présentée par Payal Kapadia"
     },
     {
-      "idSeance": 132797,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 11,
-          "idCategorie": 3443,
-          "titreCycle": "Séances spéciales",
-          "titreSousCycle": "Avant-première Miguel Gomes"
-        }
-      ],
-      "idEvenement": 31232,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-04T20:00:00",
-      "idSalle": "HL",
-      "typeSeance": 43,
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 154927,
-          "titre": "Grand Tour",
-          "realisateurs": "Miguel Gomes",
-          "annee": 2024,
-          "duree": 129,
-          "generique": "Gonçalo Waddington, Crista Alfaiate, Jani Zhao",
-          "miniTexte": "Le nouveau tour de magie hypnotique de Miguel Gomes, ou l'épopée de deux colons dans l'Asie du début du XX<sup>e</sup> siècle, filmée dans un noir et blanc somptueux – strié de rares éclats de couleur. Comme en écho à _Tabou_ (2012), un grand huit bicéphale et fiévreux, Prix de la mise en scène au Festival de Cannes 2024.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28397,
-              "duree": 129,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 325470
-        }
-      ],
-      "mention": "Avant-première"
-    },
-    {
       "idSeance": 134225,
       "idProg": 182,
       "idCycleCategories": [
@@ -17893,46 +17732,6 @@
       "mention": "Avant-première"
     },
     {
-      "idSeance": 144501,
-      "idProg": 182,
-      "idCycleCategories": [
-        {
-          "idCycle": 11,
-          "idCategorie": 3405,
-          "titreCycle": "Séances spéciales",
-          "titreSousCycle": "Godzilla Day"
-        }
-      ],
-      "idEvenement": 31436,
-      "typeEvenement": 13,
-      "dateHeure": "2024-11-03T16:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 41548,
-          "titre": "King Kong contre Godzilla",
-          "titreVo": "Kingu Kongu tai Gojira",
-          "titreNx": "キングコング対ゴジラ",
-          "realisateurs": "Ishirō Honda",
-          "annee": 1962,
-          "duree": 85,
-          "generique": "Tadao Takashima, Kenji Sahara, Yū Fujiki",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28535,
-              "duree": 85,
-              "format": "35 mm",
-              "version": "VF",
-              "langCopie": "FRE"
-            }
-          ],
-          "idFilmBoxoffice": 41227
-        }
-      ]
-    },
-    {
       "idSeance": 132053,
       "idProg": 182,
       "idCycleCategories": [
@@ -18255,6 +18054,475 @@
         }
       ],
       "mention": "Séance présentée par Jean-Christophe Berjon"
+    },
+    {
+      "idSeance": 144500,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3405,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Godzilla Day"
+        }
+      ],
+      "idEvenement": 31837,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-03T14:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155028,
+          "titre": "Monstres attaquent (bande-annonce)",
+          "art": "Les",
+          "realisateurs": "Shigeo Tanaka",
+          "annee": 1966,
+          "duree": 2,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28923,
+              "duree": 2,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 155020,
+          "titre": "Invasion planète X (bande-annonce)",
+          "realisateurs": "Ishirō Honda",
+          "annee": 1965,
+          "duree": 2,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28917,
+              "duree": 2,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 155016,
+          "titre": "Gappa, le descendant de Godzilla (bande-annonce)",
+          "titreVo": "Daikyojū Gappa",
+          "titreNx": "大巨獣ガッパ",
+          "realisateurs": "Haruyasu Noguchi",
+          "annee": 1967,
+          "duree": 2,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28914,
+              "duree": 2,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 155021,
+          "titre": "Revanche de King-Kong (bande-annonce)",
+          "art": "La",
+          "realisateurs": "Ishirō Honda",
+          "annee": 1967,
+          "duree": 2,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28926,
+              "duree": 2,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 74370,
+          "titre": "Planète des monstres",
+          "art": "La",
+          "titreVo": "Kaijū-tō no kessen: Gojira no musuko",
+          "titreNx": "怪獣島の決戦 ゴジラの息子",
+          "realisateurs": "Jun Fukuda",
+          "annee": 1967,
+          "duree": 85,
+          "generique": "Tadao Takashima, Akira Kubo, Bibari Maeda",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28272,
+              "duree": 85,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ],
+          "idFilmBoxoffice": 17693
+        }
+      ]
+    },
+    {
+      "idSeance": 144501,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3405,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Godzilla Day"
+        }
+      ],
+      "idEvenement": 31845,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-03T16:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155022,
+          "titre": "Ataragon (bande-annonce)",
+          "realisateurs": "Ishirō Honda",
+          "annee": 1963,
+          "duree": 2,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28909,
+              "duree": 2,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 155017,
+          "titre": "Guerre des monstres (bande-Annonce)",
+          "art": "La",
+          "realisateurs": "Ishirō Honda",
+          "annee": 1966,
+          "duree": 2,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28915,
+              "duree": 2,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 41548,
+          "titre": "King Kong contre Godzilla",
+          "titreVo": "Kingu Kongu tai Gojira",
+          "titreNx": "キングコング対ゴジラ",
+          "realisateurs": "Ishirō Honda",
+          "annee": 1962,
+          "duree": 85,
+          "generique": "Tadao Takashima, Kenji Sahara, Yū Fujiki",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28535,
+              "duree": 85,
+              "format": "35 mm",
+              "version": "VF",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 41227
+        },
+        {
+          "ordre": 4,
+          "idFilm": 155026,
+          "titre": "Monstres du continent perdu (bande-annonce)",
+          "art": "Les",
+          "realisateurs": "Ishirō Honda",
+          "annee": 1974,
+          "duree": 2,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28924,
+              "duree": 2,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 144502,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3405,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Godzilla Day"
+        }
+      ],
+      "idEvenement": 31847,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-03T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155023,
+          "titre": "Envahisseurs attaquent (bande-annonce)",
+          "art": "Les",
+          "titreVo": "Kaiju soshingeki",
+          "realisateurs": "Ishirō Honda",
+          "annee": 1968,
+          "duree": 4,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28911,
+              "duree": 4,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 155043,
+          "titre": "Planète de monstres – Bande Annonce",
+          "art": "La",
+          "titreVo": "Kaijuto no kessen : Gojira no musuko",
+          "realisateurs": "Jun Fukuda",
+          "annee": 1967,
+          "duree": 2,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29016,
+              "duree": 2,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 155025,
+          "titre": "Latitude zéro (bande-annonce)",
+          "realisateurs": "Ishirō Honda",
+          "annee": 1969,
+          "duree": 2,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28920,
+              "duree": 2,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 120329,
+          "titre": "Godzilla contre Mecanik Monster",
+          "titreVo": "Gojira tai Mekagojira",
+          "titreNx": "ゴジラ対メカゴジラ",
+          "realisateurs": "Jun Fukuda",
+          "annee": 1974,
+          "duree": 83,
+          "generique": "Masaaki Daimon, Reiko Tajima, Kazuya Aoyama",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28268,
+              "duree": 83,
+              "format": "35 mm",
+              "version": "VF",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 184179
+        }
+      ]
+    },
+    {
+      "idSeance": 134030,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3405,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Godzilla Day"
+        }
+      ],
+      "idEvenement": 31849,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-03T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155024,
+          "titre": "Envahisseurs de l'espace",
+          "art": "Les",
+          "titreVo": "Gezora, Ganime, Kameba: Kessen! Nankai no kaijū",
+          "titreNx": "ゲゾラ・ガニメ・カメーバ 決戦!南海の大怪獣",
+          "realisateurs": "Ishirō Honda",
+          "annee": 1970,
+          "duree": 2,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28913,
+              "duree": 2,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ],
+          "idFilmBoxoffice": 17829
+        },
+        {
+          "ordre": 2,
+          "idFilm": 97016,
+          "titre": "Godzilla: Final Wars",
+          "titreVo": "Gojira: Fainaru wōzu",
+          "titreNx": "ゴジラ ファイナルウォーズ",
+          "realisateurs": "Ryuhei Kitamura",
+          "annee": 2005,
+          "duree": 124,
+          "generique": "Masahiro Matsuoka, Rei Kikukawa, Akira Takarada",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28271,
+              "duree": 124,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 60845
+        },
+        {
+          "ordre": 3,
+          "idFilm": 155018,
+          "titre": "Hommes d'une autre planète (bande-annonce)",
+          "art": "Les",
+          "realisateurs": "Seika Den",
+          "annee": 1976,
+          "duree": 2,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28916,
+              "duree": 2,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 155027,
+          "titre": "Objectif terre, mission apocalypse (bande-annonce)",
+          "realisateurs": "Jun Fukuda",
+          "annee": 1971,
+          "duree": 2,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28925,
+              "duree": 2,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 132425,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3679,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Avant-premières (séances privées)"
+        }
+      ],
+      "idEvenement": 32128,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-21T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155040,
+          "titre": "François Truffaut, le scénario de ma vie",
+          "realisateurs": "David Teboul",
+          "annee": 2024,
+          "duree": 90,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29001,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 1000002048
+        }
+      ]
+    },
+    {
+      "idSeance": 132611,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3679,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Avant-premières (séances privées)"
+        }
+      ],
+      "idEvenement": 32129,
+      "typeEvenement": 13,
+      "dateHeure": "2024-10-28T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155041,
+          "titre": "Claude Lelouch, la vie en mieux",
+          "realisateurs": "Élise Baudouin",
+          "annee": 2024,
+          "duree": 70,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29002,
+              "duree": 70,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 1000006913
+        }
+      ]
     }
   ]
 }
