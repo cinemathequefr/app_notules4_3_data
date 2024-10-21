@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-18T09:56:34.755Z",
+  "updatedAt": "2024-10-21T09:31:03.654Z",
   "data": [
     {
       "idSeance": 186184,
@@ -232,6 +232,68 @@
       ]
     },
     {
+      "idSeance": 187742,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32063,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-16T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33903,
+          "titre": "Homme que j'ai tué",
+          "art": "L'",
+          "titreVo": "Broken Lullaby = The Man I Killed",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1932,
+          "generique": "Lionel Barrymore, Nancy Carroll, Phillips Holmes, Louise Carter",
+          "synopsis": "Rongé par la culpabilité, un jeune homme qui en a tué un autre à la guerre vient trouver la famille de sa victime un an après.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 185565,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32064,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-16T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33899,
+          "titre": "Huitième Femme de Barbe-Bleue",
+          "art": "La",
+          "titreVo": "Bluebeard's Eighth Wife",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1938,
+          "generique": "Gary Cooper, Claudette Colbert, Edward Everett Horton",
+          "adaptation": "D'après la pièce _La Huitième femme de Barbe-Bleue_ d'Alfred Savoir.",
+          "synopsis": "Michael Brandon, milliardaire américain en vacances, tombe sous le charme de Nicole, qu'il décide de séduire. Lorsqu'elle se rend compte qu'il a été marié 7 fois, elle l'épouse pour ensuite feindre l'indifférence.",
+          "miniTexte": "Le dernier film réalisé par Lubitsch pour Paramount, l'un de ses rares échecs commerciaux, réhabilité avec le temps. Billy Wilder et Charles Brackett concoctent un récit tendre et enlevé, émaillé de réparties cinglantes et de séquences cultes. Un chassé-croisé amoureux à l'énergie communicative, porté par Gary Cooper, survolté en milliardaire blasé.",
+          "status": 2
+        }
+      ]
+    },
+    {
       "idSeance": 187700,
       "idProg": 334,
       "idCycleCategories": [
@@ -263,6 +325,35 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 185581,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32077,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-17T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34602,
+          "titre": "Lieutenant souriant",
+          "art": "Le",
+          "titreVo": "Smiling Lieutenant",
+          "artVo": "The",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1931,
+          "status": 0
+        }
+      ]
+    },
+    {
       "idSeance": 185548,
       "idProg": 334,
       "idCycleCategories": [
@@ -288,6 +379,63 @@
           "generique": "Marlene Dietrich, Herbert Marshall, Melvyn Douglas, Edward Everett Horton",
           "adaptation": "D'après la pièce _Angyal_ de Melchior Lengyel.",
           "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 185462,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32082,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-13T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33825,
+          "titre": "Merry Widow",
+          "art": "The",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1934,
+          "adaptation": "D'après l'opérette _Die lustige Witwe_ de Franz Lehár.  \nD'après le livret de l'opérette _Die lustige Witwe_ de Victor Léon et Leo Stein.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 185566,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32090,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-16T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34420,
+          "titre": "Ninotchka",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1939,
+          "generique": "Greta Garbo, Melvyn Douglas, Béla Lugosi",
+          "synopsis": "Une austère commissaire politique soviétique est envoyée à Paris pour négocier l'acquisition de bijoux et ramener dans le droit chemin des collègues qui ont succombé aux charmes du capitalisme décadent.",
+          "miniTexte": "Les premiers pas comiques de Greta Garbo dans une amusante satire politique. Pour leur deuxième collaboration, Lubitsch et Wilder dévoilent la fantaisie et l'humour de l'actrice, métamorphosée en impitoyable commissaire soviétique. Un grand succès qui permettra à _La Belle de Moscou_ de voir le jour en 1957.",
+          "status": 2
         }
       ]
     },
@@ -320,6 +468,93 @@
           "miniTexte": "Un triangle amoureux en forme de vaudeville audacieux, adapté d'une pièce signée Noël Coward. En pleine Amérique puritaine des années 30, Lubitsch entremêle émancipation féminine et refus du conformisme dans une comédie délicieusement amorale, qui manie avec intelligence l'art de la suggestion.",
           "commentaire": "« La perfection de la coupe, la perfection de la couture, la perfection du tissu, il n'est de haute couture qu'à Paris, il n'est de haute production qu'à Hollywood, la perfection du goût et de la technique, du savoir, une maîtrise absolue, la discrétion dans l'audace. Ernst Lubitsch est, à notre souvenir, l'homme dont l'œuvre symbolisera un jour cette perfection, ce style sans défaut qui fut le propre de cet art. » (Henri Langlois)",
           "status": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 185549,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32094,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-15T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34599,
+          "titre": "Shop Around the Corner",
+          "art": "The",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1939,
+          "generique": "James Stewart, Margaret Sullavan, Frank Morgan",
+          "adaptation": "D'après la pièce _Parfumerie_ de Miklós László.",
+          "synopsis": "À Budapest, Alfred et Klára travaillent ensemble dans la même boutique, mais ne s'entendent pas. Alfred correspond par petites annonces avec une femme. Quand il découvre qu'il s'agit de Klára, il lui cache la vérité tout en se rapprochant d'elle.",
+          "miniTexte": "L'alliance parfaite du cynisme, de la tendresse et de la mélancolie dans une indémodable comédie romantique. L'époque est à la peinture de la grande bourgeoisie américaine, mais ici Lubitsch met en scène des héros ordinaires, confrontés au quotidien et à la crise, pour un sommet de délicatesse et d'humanité.",
+          "status": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 185582,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32109,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-17T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34597,
+          "titre": "Une heure près de toi",
+          "titreVo": "One Hour with You",
+          "realisateurs": "Ernst Lubitsch, George Cukor",
+          "annee": 1931,
+          "adaptation": "D'après la pièce _Nur ein Traum_ de Lothar Schmidt.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 187702,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32111,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-13T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33911,
+          "titre": "Si j'avais un million",
+          "titreVo": "If I Had a Million",
+          "realisateurs": "James Cruze, H. Bruce Humberstone, Ernst Lubitsch, [etc.]",
+          "annee": 1932,
+          "adaptation": "D'après le roman _Windfall_ de Robert D. Andrews.",
+          "status": 0
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-18T15:34:59.631Z",
+  "updatedAt": "2024-10-21T08:50:35.025Z",
   "data": [
     {
       "idSeance": 185115,
@@ -1796,17 +1796,9 @@
             {
               "idCopie": 28183,
               "duree": 80,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 28210,
-              "duree": 80,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 4226
@@ -1846,17 +1838,9 @@
             {
               "idCopie": 28183,
               "duree": 80,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 28210,
-              "duree": 80,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 4226
@@ -1894,9 +1878,9 @@
             {
               "idCopie": 28191,
               "duree": 73,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 128560
@@ -1958,7 +1942,8 @@
               "idCopie": 28187,
               "duree": 25,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ]
         },
@@ -2148,14 +2133,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28211,
-              "duree": 90,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 28231,
               "duree": 90,
               "format": "35 mm",
@@ -2197,14 +2174,6 @@
           "miniTexte": "La légende veut qu'un beau garçon doive se faire emmurer vivant sous le toit d'une forteresse pour l'empêcher de s'écrouler. Après des années de silence et de goulag, Paradjanov s'approprie un célèbre conte géorgien sur le sacrifice, l'héroïsme et la liberté. Dans un enchevêtrement de tableaux somptueux, riches en symboles et cérémonials, les dix-sept chapitres qui composent le récit racontent le chemin tragique de chacun des personnages, comme un hommage que le cinéaste dédie « aux vaillants guerriers de tous les temps, qui donnèrent leur vie pour défendre leur patrie ».",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 28211,
-              "duree": 90,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
             {
               "idCopie": 28231,
               "duree": 90,
@@ -2251,9 +2220,9 @@
             {
               "idCopie": 28423,
               "duree": 83,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 100631
@@ -2292,9 +2261,9 @@
             {
               "idCopie": 28426,
               "duree": 78,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 83155
@@ -2433,7 +2402,8 @@
               "idCopie": 28422,
               "duree": 75,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
