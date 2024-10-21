@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-21T08:50:35.025Z",
+  "updatedAt": "2024-10-21T15:35:59.970Z",
   "data": [
     {
       "idSeance": 185115,
@@ -5548,11 +5548,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 9992,
+              "idCopie": 28901,
               "duree": 110,
               "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STF"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 2445
@@ -5590,11 +5591,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 9992,
+              "idCopie": 28901,
               "duree": 110,
               "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STF"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 2445
@@ -11861,7 +11863,7 @@
           "idFilmBoxoffice": 2341
         }
       ],
-      "mention": "Accompagnement musical par Adrien Leconte"
+      "mention": "Accompagnement musical par Adrien Leconte, Clément Duthoit et Yves Rousseau"
     },
     {
       "idSeance": 184865,
@@ -12449,7 +12451,7 @@
           "idFilmBoxoffice": 309029
         }
       ],
-      "mention": "Séance présentée par Jean-François Rauger et Pauline de Raymond. Accompagnement musical par Paul Lay"
+      "mention": "Séance présentée par Jean-François Rauger et Pauline de Raymond. Accompagnement musical par Paul Lay et Vincent Lê Quang"
     },
     {
       "idSeance": 145266,
