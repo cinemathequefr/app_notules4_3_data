@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-21T15:35:59.970Z",
+  "updatedAt": "2024-10-22T09:09:55.502Z",
   "data": [
     {
       "idSeance": 185115,
@@ -32,7 +32,7 @@
             {
               "idCopie": 23872,
               "duree": 63,
-              "format": "35 mm",
+              "format": "Numérique",
               "version": "VO"
             }
           ],
@@ -71,7 +71,7 @@
             {
               "idCopie": 23873,
               "duree": 63,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "stDemande": true
             }
@@ -1327,16 +1327,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 23931,
+              "idCopie": 29019,
               "duree": 96,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 28733,
-              "duree": 96
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 9450
@@ -1373,16 +1368,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 23931,
+              "idCopie": 29019,
               "duree": 96,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 28733,
-              "duree": 96
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 9450
@@ -14215,25 +14205,18 @@
           "realisateurs": "Robert Wise",
           "annee": 1971,
           "dureeStd": 131,
-          "duree": 131,
+          "duree": 115,
           "generique": "Arthur Hill, David Wayne, Kate Reid",
           "adaptation": "D'après le roman _La Variété Andromède_ de Michael Crichton.",
           "miniTexte": "D'après le roman de Michael Crichton, l'enquête sur la propagation d'une bactérie extraterrestre, après la chute d'une capsule spatiale. Avec une vraisemblance scientifique quasi documentaire, combinée aux effets visuels de Douglas Trumbull, un thriller au suspense haletant, qui révèle une humanité devenue dépendante de la technologie. Un monde en proie aux crises biologiques, aux angoisses et à la paranoïa plus que jamais actuelles.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 298,
-              "duree": 131,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "selected": true
-            },
-            {
               "idCopie": 25475,
               "duree": 115,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 88402
