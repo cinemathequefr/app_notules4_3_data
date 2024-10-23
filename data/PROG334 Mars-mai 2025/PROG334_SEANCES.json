@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-23T13:24:24.990Z",
+  "updatedAt": "2024-10-23T16:20:09.226Z",
   "data": [
     {
       "idSeance": 186184,
@@ -173,6 +173,36 @@
       ]
     },
     {
+      "idSeance": 185695,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32039,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-21T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33907,
+          "titre": "Ciel peut attendre",
+          "art": "Le",
+          "titreVo": "Heaven Can Wait",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1943,
+          "generique": "Gene Tierney, Don Ameche, Charles Coburn",
+          "adaptation": "D'après la pièce _Szuletesnap_ de Lazlo Bus-Fekete.",
+          "status": 0
+        }
+      ]
+    },
+    {
       "idSeance": 185547,
       "idProg": 334,
       "idCycleCategories": [
@@ -202,6 +232,37 @@
       ]
     },
     {
+      "idSeance": 185738,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32055,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-22T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33719,
+          "titre": "Folle ingénue",
+          "art": "La",
+          "titreVo": "Cluny Brown",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1945,
+          "generique": "Jennifer Jones, Charles Boyer, Peter Lawford",
+          "adaptation": "D'après le roman _Cluny Brown_ de Margery Sharp.",
+          "synopsis": "La jeune et pétulante Cluny Brown remplace son oncle plombier pour une intervention chez Hilary Ames. Elle y fait la connaissance d'un séduisant réfugié tchèque, pique-assiette et philosophe.",
+          "status": 0
+        }
+      ]
+    },
+    {
       "idSeance": 185505,
       "idProg": 334,
       "idCycleCategories": [
@@ -214,7 +275,7 @@
       ],
       "idEvenement": 32062,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-14T19:00:00",
+      "dateHeure": "2025-03-14T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -292,6 +353,34 @@
           "synopsis": "Michael Brandon, milliardaire américain en vacances, tombe sous le charme de Nicole, qu'il décide de séduire. Lorsqu'elle se rend compte qu'il a été marié 7 fois, elle l'épouse pour ensuite feindre l'indifférence.",
           "miniTexte": "Le dernier film réalisé par Lubitsch pour Paramount, l'un de ses rares échecs commerciaux, réhabilité avec le temps. Billy Wilder et Charles Brackett concoctent un récit tendre et enlevé, émaillé de réparties cinglantes et de séquences cultes. Un chassé-croisé amoureux à l'énergie communicative, porté par Gary Cooper, survolté en milliardaire blasé.",
           "status": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 185694,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32066,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-21T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34623,
+          "titre": "Illusions perdues",
+          "titreVo": "That Uncertain Feeling",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1940,
+          "adaptation": "D'après la pièce _Divorçons_ de Victorien Sardou et Émile de Najac.",
+          "status": 0
         }
       ]
     },
@@ -413,6 +502,35 @@
       ]
     },
     {
+      "idSeance": 185737,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32084,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-22T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34622,
+          "titre": "Prince étudiant",
+          "art": "Le",
+          "titreVo": "Student Prince in Old Heidelberg",
+          "artVo": "The",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1926,
+          "status": 0
+        }
+      ]
+    },
+    {
       "idSeance": 185566,
       "idProg": 334,
       "idCycleCategories": [
@@ -454,7 +572,7 @@
       ],
       "idEvenement": 32091,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-14T21:00:00",
+      "dateHeure": "2025-03-14T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -505,6 +623,36 @@
       ]
     },
     {
+      "idSeance": 185755,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32103,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-23T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 96455,
+          "titre": "Veuve joyeuse",
+          "art": "La",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1934,
+          "generique": "Maurice Chevalier, Jeanette MacDonald, Danièle Parola",
+          "adaptation": "D'après le livret _La Veuve joyeuse_ de Victor Léon et Leo Stein.  \nD'après l'opérette _Die Lustige Witwe_ de Franz Lehár.",
+          "synopsis": "Le Prince Danilo est chargé de ramener dans sa patrie une riche veuve venue mener grande vie à Paris.",
+          "status": 0
+        }
+      ]
+    },
+    {
       "idSeance": 185582,
       "idProg": 334,
       "idCycleCategories": [
@@ -529,6 +677,48 @@
           "annee": 1931,
           "adaptation": "D'après la pièce _Nur ein Traum_ de Lothar Schmidt.",
           "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 185620,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32110,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-19T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33920,
+          "titre": "Dame au manteau d'hermine",
+          "art": "La",
+          "titreVo": "That Lady in Ermine",
+          "realisateurs": "Ernst Lubitsch, Otto Preminger",
+          "annee": 1948,
+          "duree": 90,
+          "generique": "Betty Grable, Douglas Fairbanks Jr., Cesar Romero",
+          "adaptation": "D'après l'opérette _Die Frau im Hermelin_ d'Ernst Welisch et Rudolf Schanzer.",
+          "miniTexte": "1861, Italie du Nord. L'armée hongroise assiège le château de la comtesse Angelina, dont l'aïeule revient à la vie pour sauver la situation. Une opérette en Technicolor, truffée de trouvailles visuelles, pour la dernière réalisation de Lubitsch. Preminger achève le travail du maître, mort en cours de tournage, tout en posant ça et là sa propre griffe.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 11751,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 2250
         }
       ]
     },
@@ -561,6 +751,107 @@
       ]
     },
     {
+      "idSeance": 185619,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32112,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-19T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35692,
+          "titre": "Scandale à la cour",
+          "titreVo": "A Royal Scandal",
+          "realisateurs": "Otto Preminger",
+          "annee": 1945,
+          "generique": "Tallulah Bankhead, Charles Coburn, Anne Baxter, Vincent Price",
+          "adaptation": "D'après la pièce _The Czarina_ de Lajos Biró et Melchior Lengyel.",
+          "miniTexte": "Dans la Russie du XVIII<sup>e</sup>, où les conspirations s'ourdissent entre deux portes, Catherine II s'éprend d'un jeune lieutenant idéaliste. Une relecture de _Paradis perdu_ (1924) de Lubitsch, qui, malade, se voit remplacé sur le tournage par Preminger, porté aux nues par la Fox après le succès de _Laura_.",
+          "status": 2,
+          "idFilmBoxoffice": 109038
+        }
+      ]
+    },
+    {
+      "idSeance": 185756,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32112,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-23T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35692,
+          "titre": "Scandale à la cour",
+          "titreVo": "A Royal Scandal",
+          "realisateurs": "Otto Preminger",
+          "annee": 1945,
+          "generique": "Tallulah Bankhead, Charles Coburn, Anne Baxter, Vincent Price",
+          "adaptation": "D'après la pièce _The Czarina_ de Lajos Biró et Melchior Lengyel.",
+          "miniTexte": "Dans la Russie du XVIII<sup>e</sup>, où les conspirations s'ourdissent entre deux portes, Catherine II s'éprend d'un jeune lieutenant idéaliste. Une relecture de _Paradis perdu_ (1924) de Lubitsch, qui, malade, se voit remplacé sur le tournage par Preminger, porté aux nues par la Fox après le succès de _Laura_.",
+          "status": 2,
+          "idFilmBoxoffice": 109038
+        }
+      ]
+    },
+    {
+      "idSeance": 186562,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32115,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-23T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40189,
+          "titre": "Piccadilly",
+          "realisateurs": "Ewald Andreas Dupont",
+          "annee": 1929,
+          "duree": 108,
+          "generique": "Gilda Gray, Anna May Wong",
+          "synopsis": "Pour sauver son établissement de la faillite, le propriétaire d'un night-club londonien offre à une modeste employée de cuisine d'origine chinoise, belle et ambitieuse, de devenir danseuse-vedette.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 14023,
+              "duree": 108,
+              "format": "DCP",
+              "intertitres": "INT. ANG."
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
       "idSeance": 187698,
       "idProg": 334,
       "idCycleCategories": [
@@ -590,6 +881,295 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 187762,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 976,
+          "idCategorie": 3677,
+          "titreCycle": "Robert Benton",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32131,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-20T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30561,
+          "titre": "Chat connaît l'assassin",
+          "art": "Le",
+          "titreVo": "Late Show",
+          "artVo": "The",
+          "realisateurs": "Robert Benton",
+          "annee": 1977,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 185741,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 976,
+          "idCategorie": 3677,
+          "titreCycle": "Robert Benton",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32132,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-22T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30558,
+          "titre": "Kramer contre Kramer",
+          "titreVo": "Kramer vs Kramer",
+          "realisateurs": "Robert Benton",
+          "annee": 1979,
+          "generique": "Dustin Hoffman, Meryl Streep, Justin Henry, Jane Alexander",
+          "synopsis": "Exaspérée par les priorités professionnelles de son mari, Joanna Kramer quitte son mari Ted et leur fils Billy. Le père doit alors concilier l'éducation de son fils et son travail de publicitaire mais parvient à tisser une relation très forte avec Billy. Quelques mois plus tard, Joanna est de retour et entame une procédure judiciaire pour obtenir la garde de l'enfant.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 185742,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 976,
+          "idCategorie": 3677,
+          "titreCycle": "Robert Benton",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32133,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-22T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 29611,
+          "titre": "Mort aux enchères",
+          "art": "La",
+          "titreVo": "Still of the Night",
+          "realisateurs": "Robert Benton",
+          "annee": 1982,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 185761,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 976,
+          "idCategorie": 3677,
+          "titreCycle": "Robert Benton",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32134,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-23T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30586,
+          "titre": "Saisons du cœur",
+          "art": "Les",
+          "titreVo": "Places in the Heart",
+          "realisateurs": "Robert Benton",
+          "annee": 1984,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 185770,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 976,
+          "idCategorie": 3677,
+          "titreCycle": "Robert Benton",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32135,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-24T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46191,
+          "titre": "Nadine",
+          "realisateurs": "Robert Benton",
+          "annee": 1986,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 185771,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 976,
+          "idCategorie": 3677,
+          "titreCycle": "Robert Benton",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32136,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-24T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30546,
+          "titre": "Billy Bathgate",
+          "realisateurs": "Robert Benton",
+          "annee": 1991,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 185808,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 976,
+          "idCategorie": 3677,
+          "titreCycle": "Robert Benton",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32137,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-26T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59757,
+          "titre": "Un homme presque parfait",
+          "titreVo": "Nobody's Fool",
+          "realisateurs": "Robert Benton",
+          "annee": 1993,
+          "duree": 110,
+          "generique": "Paul Newman, Jessica Tandy, Bruce Willis",
+          "adaptation": "D'après le roman _Un homme presque parfait_ de Richard Russo.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29003,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185809,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 976,
+          "idCategorie": 3677,
+          "titreCycle": "Robert Benton",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32138,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-26T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 29499,
+          "titre": "Heure magique",
+          "art": "L'",
+          "titreVo": "Twilight",
+          "realisateurs": "Robert Benton",
+          "annee": 1997,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 187763,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 976,
+          "idCategorie": 3677,
+          "titreCycle": "Robert Benton",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32139,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-27T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 87338,
+          "titre": "Couleur du mensonge",
+          "art": "La",
+          "titreVo": "Human Stain",
+          "artVo": "The",
+          "realisateurs": "Robert Benton",
+          "annee": 2002,
+          "adaptation": "D'après le roman _La Couleur du mensonge_ de Philip Roth.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 185885,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 976,
+          "idCategorie": 3677,
+          "titreCycle": "Robert Benton",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32140,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-28T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155042,
+          "titre": "Feast of Love",
+          "realisateurs": "Robert Benton",
+          "annee": 2007,
+          "status": 0
+        }
+      ]
+    },
+    {
       "idSeance": 185507,
       "idProg": 334,
       "idCycleCategories": [
@@ -602,7 +1182,7 @@
       ],
       "idEvenement": 32141,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-14T19:00:00",
+      "dateHeure": "2025-03-14T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -630,7 +1210,7 @@
       ],
       "idEvenement": 32142,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-14T21:00:00",
+      "dateHeure": "2025-03-14T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -674,6 +1254,32 @@
           "annee": 1967,
           "generique": "Jardel Filho, Paulo Autran",
           "synopsis": "À Eldorado, un homme agonisant évoque son passé politique.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 187761,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 977,
+          "idCategorie": 3678,
+          "titreCycle": "Glauber Rocha",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32144,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-20T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 89905,
+          "titre": "Câncer",
+          "realisateurs": "Glauber Rocha",
+          "annee": 1968,
           "status": 0
         }
       ]
@@ -724,7 +1330,7 @@
       ],
       "idEvenement": 32146,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-15T19:30:00",
+      "dateHeure": "2025-03-15T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -753,7 +1359,7 @@
       ],
       "idEvenement": 32147,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-15T21:30:00",
+      "dateHeure": "2025-03-15T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -763,6 +1369,60 @@
           "titreVo": "Cabezas cortadas",
           "realisateurs": "Glauber Rocha",
           "annee": 1970,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 185760,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 977,
+          "idCategorie": 3678,
+          "titreCycle": "Glauber Rocha",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32148,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-23T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 89906,
+          "titre": "Historia do Brasil",
+          "realisateurs": "Glauber Rocha",
+          "annee": 1974,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 185740,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 977,
+          "idCategorie": 3678,
+          "titreCycle": "Glauber Rocha",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32149,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-22T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43204,
+          "titre": "Claro",
+          "realisateurs": "Glauber Rocha",
+          "annee": 1975,
+          "generique": "Juliet Berto, Tony Scott, Carmelo Bene",
+          "synopsis": "Film improvisé mêlant acteurs professionnels et amateurs dans les rues de Rome.",
           "status": 0
         }
       ]

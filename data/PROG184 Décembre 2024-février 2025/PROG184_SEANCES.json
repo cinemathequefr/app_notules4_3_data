@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-23T13:24:04.243Z",
+  "updatedAt": "2024-10-23T16:19:07.673Z",
   "data": [
     {
       "idSeance": 185115,
@@ -114,13 +114,7 @@
               "idCopie": 23874,
               "duree": 87,
               "format": "35 mm",
-              "version": "VO",
-              "selected": true
-            },
-            {
-              "idCopie": 27711,
-              "duree": 87,
-              "format": "Numérique"
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 77272
@@ -156,14 +150,6 @@
           "miniTexte": "Une greffe d'un nouveau genre transforme Marilyn Chambers – icône du cinéma pornographique – en « patient zéro » d'une épidémie de rage. Deux ans après _Frissons_, Cronenberg réutilise avec brio l'allégorie sexuelle comme vecteur d'horreur pour unir la chair, la violence et la science. Une vision prémonitoire et troublante des années sida.",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 23899,
-              "duree": 91,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
             {
               "idCopie": 27730,
               "duree": 91,
@@ -204,14 +190,6 @@
           "miniTexte": "Une greffe d'un nouveau genre transforme Marilyn Chambers – icône du cinéma pornographique – en « patient zéro » d'une épidémie de rage. Deux ans après _Frissons_, Cronenberg réutilise avec brio l'allégorie sexuelle comme vecteur d'horreur pour unir la chair, la violence et la science. Une vision prémonitoire et troublante des années sida.",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 23899,
-              "duree": 91,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
             {
               "idCopie": 27730,
               "duree": 91,
@@ -1146,29 +1124,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 23912,
-              "duree": 99,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 23913,
-              "duree": 99,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 23911,
-              "duree": 99,
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 27708,
-              "duree": 99
+              "duree": 99,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 132376
@@ -4119,7 +4077,7 @@
               "duree": 101,
               "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 69654
@@ -4162,7 +4120,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 49932
@@ -4300,7 +4258,6 @@
               "duree": 52,
               "format": "Numérique",
               "version": "VO",
-              "sousTitres": "STF",
               "stDemande": true
             }
           ]
@@ -4464,7 +4421,6 @@
               "format": "Numérique",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF",
               "stDemande": true
             }
           ],
@@ -4487,7 +4443,6 @@
               "format": "Numérique",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF",
               "stDemande": true
             }
           ]
@@ -16170,8 +16125,18 @@
           "titre": "Fogaréu",
           "realisateurs": "Flávia Neves",
           "annee": 2022,
+          "duree": 100,
           "generique": "Bárbara Colen, Nena Inoue, Eucir De Souza",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 27486,
+              "duree": 100,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 299885
         }
       ],
@@ -17576,8 +17541,16 @@
           "titre": "Rien sauf l'été",
           "realisateurs": "Claude Schmitz",
           "annee": 2017,
+          "duree": 35,
           "generique": "Hélène Bressiant, Damien Chapelle, Lucie Debay",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29029,
+              "duree": 35,
+              "format": "DCP"
+            }
+          ]
         }
       ],
       "mention": "Séance suivie d'une discussion avec Alexia Portal"
