@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-22T09:09:55.502Z",
+  "updatedAt": "2024-10-22T16:50:09.854Z",
   "data": [
     {
       "idSeance": 185115,
@@ -1976,7 +1976,8 @@
             {
               "idCopie": 28181,
               "duree": 9,
-              "format": "DCP"
+              "format": "DCP",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 49840
@@ -1999,7 +2000,8 @@
               "idCopie": 28198,
               "duree": 36,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
