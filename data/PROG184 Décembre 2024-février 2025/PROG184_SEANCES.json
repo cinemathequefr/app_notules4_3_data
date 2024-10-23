@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-23T09:16:15.376Z",
+  "updatedAt": "2024-10-23T13:24:04.243Z",
   "data": [
     {
       "idSeance": 185115,
@@ -4300,7 +4300,8 @@
               "duree": 52,
               "format": "Numérique",
               "version": "VO",
-              "sousTitres": "STF"
+              "sousTitres": "STF",
+              "stDemande": true
             }
           ]
         }
@@ -4463,7 +4464,8 @@
               "format": "Numérique",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF"
+              "sousTitres": "STF",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 29735
@@ -4485,7 +4487,8 @@
               "format": "Numérique",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF"
+              "sousTitres": "STF",
+              "stDemande": true
             }
           ]
         }
@@ -5633,7 +5636,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 41123
@@ -5678,7 +5681,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 41123
@@ -5719,7 +5722,8 @@
               "format": "16 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF"
+              "sousTitres": "STF",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 115548
@@ -9621,6 +9625,7 @@
               "idCopie": 28554,
               "duree": 10,
               "format": "16 mm",
+              "version": "VO",
               "langCopie": "FRE"
             }
           ],
