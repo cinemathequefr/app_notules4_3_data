@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-04T09:55:40.264Z",
+  "updatedAt": "2024-11-04T13:12:23.340Z",
   "data": [
     {
       "idSeance": 132987,
@@ -18524,6 +18524,127 @@
           "idFilmBoxoffice": 1000006913
         }
       ]
+    },
+    {
+      "idSeance": 187790,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3681,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Journée Demi Moore"
+        }
+      ],
+      "idEvenement": 32224,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-05T16:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37100,
+          "titre": "Ghost",
+          "realisateurs": "Jerry Zucker",
+          "annee": 1990,
+          "duree": 126,
+          "generique": "Patrick Swayze, Demi Moore, Whoopi Goldberg",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29024,
+              "duree": 126,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 6122
+        }
+      ]
+    },
+    {
+      "idSeance": 187789,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3681,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Journée Demi Moore"
+        }
+      ],
+      "idEvenement": 32225,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-05T14:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 29147,
+          "titre": "À armes égales",
+          "titreVo": "G. I. Jane",
+          "realisateurs": "Ridley Scott",
+          "annee": 1997,
+          "duree": 125,
+          "generique": "Demi Moore, Viggo Mortensen, Anne Bancroft",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29023,
+              "duree": 125,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 16220
+        }
+      ]
+    },
+    {
+      "idSeance": 187791,
+      "idProg": 182,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3681,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Journée Demi Moore"
+        }
+      ],
+      "idEvenement": 32226,
+      "typeEvenement": 13,
+      "dateHeure": "2024-11-05T20:30:00",
+      "idSalle": "HL",
+      "typeSeance": 43,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155044,
+          "titre": "Substance",
+          "art": "The",
+          "realisateurs": "Coralie Fargeat",
+          "annee": 2024,
+          "duree": 140,
+          "generique": "Demi Moore, Margaret Qualley, Dennis Quaid",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29025,
+              "duree": 140,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 300680
+        }
+      ],
+      "mention": "Avant-première"
     }
   ]
 }

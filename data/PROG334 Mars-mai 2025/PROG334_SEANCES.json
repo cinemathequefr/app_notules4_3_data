@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-04T10:00:18.946Z",
+  "updatedAt": "2024-11-04T15:22:55.468Z",
   "data": [
     {
       "idSeance": 186075,
@@ -32,7 +32,22 @@
           "copies": [
             {
               "idCopie": 28904,
-              "duree": 91
+              "duree": 91,
+              "format": "35 mm",
+              "version": "VF",
+              "selected": true
+            },
+            {
+              "idCopie": 29110,
+              "duree": 91,
+              "format": "35 mm",
+              "version": "VF"
+            },
+            {
+              "idCopie": 29111,
+              "duree": 91,
+              "format": "35 mm",
+              "version": "VF"
             }
           ]
         }
@@ -244,10 +259,18 @@
           "status": 0,
           "copies": [
             {
+              "idCopie": 29109,
+              "duree": 119,
+              "format": "35 mm",
+              "langCopie": "FRE",
+              "sousTitres": "Autres",
+              "selected": true
+            },
+            {
               "idCopie": 2693,
               "duree": 119,
               "format": "35 mm",
-              "version": "VF"
+              "langCopie": "FRE"
             }
           ]
         }
@@ -2178,6 +2201,98 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185884,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3685,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Paul Morrissey"
+        }
+      ],
+      "idEvenement": 32258,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-28T21:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 58692,
+          "titre": "Chair pour Frankenstein",
+          "titreVo": "Carne per Frankenstein",
+          "realisateurs": "Paul Morrissey",
+          "annee": 1973,
+          "duree": 94,
+          "generique": "Joe Dallesandro, Monique Van Vooren, Udo Kier",
+          "synopsis": "Le Baron Frankenstein souhaite créer un couple de créatures pour les faire se reproduire et donner vie à une race parfaite.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29089,
+              "duree": 94,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29090,
+              "duree": 94,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185883,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3685,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Paul Morrissey"
+        }
+      ],
+      "idEvenement": 32259,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-28T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59536,
+          "titre": "Du sang pour Dracula",
+          "titreVo": "Dracula cerca sangue di vergine e mori di sete !",
+          "realisateurs": "Paul Morrissey",
+          "annee": 1973,
+          "duree": 100,
+          "generique": "Joe Dallesandro, Udo Kier, Vittorio De Sica",
+          "synopsis": "Le dernier descendant de Dracula est en train de mourir. Pour survivre, il doit boire du sang de jeunes femmes vierges et décide de partir chasser en Italie.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 19093,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VF",
+              "langCopie": "FRE",
+              "selected": true
+            },
+            {
+              "idCopie": 29091,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VF"
             }
           ]
         }
