@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2024-10-23T16:20:09.226Z",
+  "updatedAt": "2024-11-04T10:00:18.946Z",
   "data": [
+    {
+      "idSeance": 186075,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3674,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Apocalypse"
+        }
+      ],
+      "idEvenement": 31841,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-04T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55238,
+          "titre": "Survivants de la fin du monde",
+          "art": "Les",
+          "titreVo": "Damnation Alley",
+          "realisateurs": "Jack Smight",
+          "annee": 1976,
+          "duree": 91,
+          "generique": "Jan-Michael Vincent, George Peppard, Dominique Sanda",
+          "adaptation": "D'après le roman _Damnation Alley_ de Roger Zelazny.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28904,
+              "duree": 91
+            }
+          ]
+        }
+      ]
+    },
     {
       "idSeance": 186184,
       "idProg": 334,
@@ -31,34 +68,40 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 187703,
+      "idSeance": 186828,
       "idProg": 334,
       "idCycleCategories": [
         {
-          "idCycle": 971,
-          "idCategorie": 3670,
-          "titreCycle": "Věra Chytilová",
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31908,
+      "idEvenement": 31944,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-26T20:00:00",
+      "dateHeure": "2025-05-02T20:00:00",
       "idSalle": "HL",
       "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
-          "idFilm": 39010,
-          "titre": "Jeu de la pomme",
-          "art": "Le",
-          "titreVo": "Hra o jablko",
-          "realisateurs": "Věra Chytilová",
-          "annee": 1976,
-          "generique": "Dagmar Bláhová, Jiří Menzel, Jiří Kodet",
-          "synopsis": "Dans une maternité, le docteur John, coureur de jupons invétéré, s'éprend d'une infirmière nouvelle venue.",
-          "status": 1,
-          "idFilmBoxoffice": 3464
+          "idFilm": 70022,
+          "titre": "Vie aigre",
+          "art": "La",
+          "titreVo": "Vita agra",
+          "artVo": "La",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1964,
+          "duree": 100,
+          "generique": "Ugo Tognazzi, Giovanna Ralli",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28958,
+              "duree": 100
+            }
+          ]
         }
       ],
       "mention": "Ouverture de la rétrospective"
@@ -173,6 +216,120 @@
       ]
     },
     {
+      "idSeance": 186452,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3674,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Apocalypse"
+        }
+      ],
+      "idEvenement": 32034,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-18T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47477,
+          "titre": "Malevil",
+          "realisateurs": "Christian de Chalonge",
+          "annee": 1980,
+          "duree": 119,
+          "generique": "Michel Serrault, Jacques Dutronc, Jean-Louis Trintignant",
+          "adaptation": "D'après le roman _Malevil_ de Robert Merle.",
+          "synopsis": "Réunis dans une cave, un groupe de villageois survit à une explosion nucléaire.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 2693,
+              "duree": 119,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186453,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3674,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Apocalypse"
+        }
+      ],
+      "idEvenement": 32035,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-18T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 56901,
+          "titre": "Gladiateur du futur",
+          "art": "Le",
+          "titreVo": "Endgame – Bronx lotta finale",
+          "realisateurs": "Steven Benson",
+          "annee": 1983,
+          "duree": 91,
+          "generique": "Al Cliver, Moira Chen, George Eastman",
+          "synopsis": "Année 2021. Cinquante ans après l'Holocauste nucléaire, le monde est gouverné par une dictature impitoyable, et New York en ruines est devenue une arène géante où s'affrontent les gladiateurs du futur.",
+          "commentaire": "Film réalisé sous pseudonyme par Joe D'Amato.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 364,
+              "duree": 91,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186074,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3674,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Apocalypse"
+        }
+      ],
+      "idEvenement": 32037,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-04T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155036,
+          "titre": "Fin du monde – Nostradamus an 2000",
+          "titreVo": "Nosutoradamusu no daiyogen",
+          "realisateurs": "Toshio Masuda",
+          "annee": 1974,
+          "duree": 76,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28996,
+              "duree": 76,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 185695,
       "idProg": 334,
       "idCycleCategories": [
@@ -196,9 +353,19 @@
           "titreVo": "Heaven Can Wait",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1943,
+          "duree": 112,
           "generique": "Gene Tierney, Don Ameche, Charles Coburn",
           "adaptation": "D'après la pièce _Szuletesnap_ de Lazlo Bus-Fekete.",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29085,
+              "duree": 112,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -226,8 +393,15 @@
           "titreVo": "Lady Windermere's Fan",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1925,
+          "duree": 70,
           "generique": "Ronald Colman",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29075,
+              "duree": 70
+            }
+          ]
         }
       ]
     },
@@ -255,10 +429,35 @@
           "titreVo": "Cluny Brown",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1945,
+          "duree": 99,
           "generique": "Jennifer Jones, Charles Boyer, Peter Lawford",
           "adaptation": "D'après le roman _Cluny Brown_ de Margery Sharp.",
           "synopsis": "La jeune et pétulante Cluny Brown remplace son oncle plombier pour une intervention chez Hilary Ames. Elle y fait la connaissance d'un séduisant réfugié tchèque, pique-assiette et philosophe.",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 21129,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 15802,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 21130,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -285,12 +484,31 @@
           "titreVo": "Trouble in Paradise",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1932,
+          "duree": 83,
           "generique": "Miriam Hopkins, Kay Francis, Herbert Marshall",
           "adaptation": "D'après la pièce _The Honest Finder_ de László Aladár.",
           "synopsis": "Gaston Monescu et Lily forment un couple d'escrocs très habiles. Le vol d'un sac permet à Gaston de s'introduire chez la belle Mariette Colet, dont il tombe amoureux. Mais Lily va remettre les choses au point.",
           "miniTexte": "« Du seul point de vue du style, je pense n'avoir rien fait de meilleur, ou d'aussi bon, que _Haute Pègre_. » Le film préféré de Lubitsch suit les palpitantes aventures de deux escrocs indomptables. Une comédie de haut vol, à la fois sophistiquée et ciselée, qui mêle la perversité et la malice des jeux de désir.",
           "commentaire": "« J'ai parlé de ce qui s'apprend, j'ai parlé du talent, j'ai parlé de ce qui au fond, éventuellement, peut s'acheter en y mettant le prix, mais ce qui ne s'apprend ni ne s'achète c'est le charme et la malice, ah, le charme malicieux de Lubitsch, voilà qui faisait de lui vraiment un Prince. » (François Truffaut)",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 26412,
+              "duree": 83,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 5373,
+              "duree": 83,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -318,9 +536,20 @@
           "titreVo": "Broken Lullaby = The Man I Killed",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1932,
+          "duree": 77,
           "generique": "Lionel Barrymore, Nancy Carroll, Phillips Holmes, Louise Carter",
           "synopsis": "Rongé par la culpabilité, un jeune homme qui en a tué un autre à la guerre vient trouver la famille de sa victime un an après.",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 3211,
+              "duree": 77,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -348,11 +577,36 @@
           "titreVo": "Bluebeard's Eighth Wife",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1938,
+          "duree": 85,
           "generique": "Gary Cooper, Claudette Colbert, Edward Everett Horton",
           "adaptation": "D'après la pièce _La Huitième femme de Barbe-Bleue_ d'Alfred Savoir.",
           "synopsis": "Michael Brandon, milliardaire américain en vacances, tombe sous le charme de Nicole, qu'il décide de séduire. Lorsqu'elle se rend compte qu'il a été marié 7 fois, elle l'épouse pour ensuite feindre l'indifférence.",
           "miniTexte": "Le dernier film réalisé par Lubitsch pour Paramount, l'un de ses rares échecs commerciaux, réhabilité avec le temps. Billy Wilder et Charles Brackett concoctent un récit tendre et enlevé, émaillé de réparties cinglantes et de séquences cultes. Un chassé-croisé amoureux à l'énergie communicative, porté par Gary Cooper, survolté en milliardaire blasé.",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 16421,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 13374,
+              "duree": 85,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 16459,
+              "duree": 84,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
         }
       ]
     },
@@ -379,8 +633,18 @@
           "titreVo": "That Uncertain Feeling",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1940,
+          "duree": 84,
           "adaptation": "D'après la pièce _Divorçons_ de Victorien Sardou et Émile de Najac.",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29084,
+              "duree": 84,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
         }
       ]
     },
@@ -407,10 +671,21 @@
           "titre": "To Be or Not To Be",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1942,
+          "duree": 99,
           "generique": "Carole Lombard, Jack Benny, Robert Stack",
           "synopsis": "Alors que l'armée allemande a envahi la Pologne, une troupe d'acteurs polonais se trouve engagée dans de périlleuses actions de résistance, où leur savoir-faire de comédiens est leur meilleure arme.",
           "miniTexte": "Persuadé que l'on peut rire de tout, Lubitsch utilise ici le théâtre comme une arme burlesque pour inventer une satire au suspense haletant, qui associe dialogues incisifs et caricature implacable. Une pertinente charge antinazi aux multiples jeux de dupes et autres quiproquos, dans la lignée du _Dictateur_.",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 11622,
+              "duree": 99,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ],
       "mention": "Ouverture de la rétrospective"
@@ -440,7 +715,17 @@
           "artVo": "The",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1931,
-          "status": 0
+          "duree": 88,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29080,
+              "duree": 88,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
         }
       ]
     },
@@ -467,37 +752,19 @@
           "titreVo": "Angel",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1937,
+          "duree": 98,
           "generique": "Marlene Dietrich, Herbert Marshall, Melvyn Douglas, Edward Everett Horton",
           "adaptation": "D'après la pièce _Angyal_ de Melchior Lengyel.",
-          "status": 0
-        }
-      ]
-    },
-    {
-      "idSeance": 185462,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32082,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-13T18:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 33825,
-          "titre": "Merry Widow",
-          "art": "The",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1934,
-          "adaptation": "D'après l'opérette _Die lustige Witwe_ de Franz Lehár.  \nD'après le livret de l'opérette _Die lustige Witwe_ de Victor Léon et Leo Stein.",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29083,
+              "duree": 98,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -526,7 +793,53 @@
           "artVo": "The",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1926,
-          "status": 0
+          "duree": 103,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29076,
+              "duree": 103,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187768,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32087,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-19T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33926,
+          "titre": "Monte Carlo",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1930,
+          "duree": 90,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29079,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
         }
       ]
     },
@@ -552,10 +865,37 @@
           "titre": "Ninotchka",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1939,
+          "duree": 110,
           "generique": "Greta Garbo, Melvyn Douglas, Béla Lugosi",
           "synopsis": "Une austère commissaire politique soviétique est envoyée à Paris pour négocier l'acquisition de bijoux et ramener dans le droit chemin des collègues qui ont succombé aux charmes du capitalisme décadent.",
           "miniTexte": "Les premiers pas comiques de Greta Garbo dans une amusante satire politique. Pour leur deuxième collaboration, Lubitsch et Wilder dévoilent la fantaisie et l'humour de l'actrice, métamorphosée en impitoyable commissaire soviétique. Un grand succès qui permettra à _La Belle de Moscou_ de voir le jour en 1957.",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 13394,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 16490,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 13393,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -582,12 +922,30 @@
           "titreVo": "Design for Living",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1933,
+          "duree": 90,
           "generique": "Fredric March, Gary Cooper, Miriam Hopkins",
           "adaptation": "D'après la pièce _Design for Living_ de Noël Coward.",
           "synopsis": "Gilda tombe amoureuse de deux artistes sans le sou. Elle les encourage à s'accomplir professionnellement, sans pouvoir jamais choisir entre les deux.",
           "miniTexte": "Un triangle amoureux en forme de vaudeville audacieux, adapté d'une pièce signée Noël Coward. En pleine Amérique puritaine des années 30, Lubitsch entremêle émancipation féminine et refus du conformisme dans une comédie délicieusement amorale, qui manie avec intelligence l'art de la suggestion.",
           "commentaire": "« La perfection de la coupe, la perfection de la couture, la perfection du tissu, il n'est de haute couture qu'à Paris, il n'est de haute production qu'à Hollywood, la perfection du goût et de la technique, du savoir, une maîtrise absolue, la discrétion dans l'audace. Ernst Lubitsch est, à notre souvenir, l'homme dont l'œuvre symbolisera un jour cette perfection, ce style sans défaut qui fut le propre de cet art. » (Henri Langlois)",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 3378,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 15569,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
         }
       ]
     },
@@ -614,11 +972,30 @@
           "art": "The",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1939,
+          "duree": 97,
           "generique": "James Stewart, Margaret Sullavan, Frank Morgan",
           "adaptation": "D'après la pièce _Parfumerie_ de Miklós László.",
           "synopsis": "À Budapest, Alfred et Klára travaillent ensemble dans la même boutique, mais ne s'entendent pas. Alfred correspond par petites annonces avec une femme. Quand il découvre qu'il s'agit de Klára, il lui cache la vérité tout en se rapprochant d'elle.",
           "miniTexte": "L'alliance parfaite du cynisme, de la tendresse et de la mélancolie dans une indémodable comédie romantique. L'époque est à la peinture de la grande bourgeoisie américaine, mais ici Lubitsch met en scène des héros ordinaires, confrontés au quotidien et à la crise, pour un sommet de délicatesse et d'humanité.",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 13375,
+              "duree": 97,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "Autres",
+              "selected": true
+            },
+            {
+              "idCopie": 26415,
+              "duree": 97,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -645,10 +1022,32 @@
           "art": "La",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1934,
+          "duree": 105,
           "generique": "Maurice Chevalier, Jeanette MacDonald, Danièle Parola",
           "adaptation": "D'après le livret _La Veuve joyeuse_ de Victor Léon et Leo Stein.  \nD'après l'opérette _Die Lustige Witwe_ de Franz Lehár.",
           "synopsis": "Le Prince Danilo est chargé de ramener dans sa patrie une riche veuve venue mener grande vie à Paris.",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 16748,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 16583,
+              "duree": 97,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 29082,
+              "duree": 105,
+              "format": "35 mm"
+            }
+          ]
         }
       ]
     },
@@ -675,8 +1074,23 @@
           "titreVo": "One Hour with You",
           "realisateurs": "Ernst Lubitsch, George Cukor",
           "annee": 1931,
+          "duree": 76,
           "adaptation": "D'après la pièce _Nur ein Traum_ de Lothar Schmidt.",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 11458,
+              "duree": 76,
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 11457,
+              "duree": 76,
+              "format": "35 mm"
+            }
+          ]
         }
       ]
     },
@@ -715,7 +1129,13 @@
               "duree": 90,
               "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STF"
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29086,
+              "duree": 93
             }
           ],
           "idFilmBoxoffice": 2250
@@ -735,7 +1155,7 @@
       ],
       "idEvenement": 32111,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-13T20:30:00",
+      "dateHeure": "2025-03-13T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -745,39 +1165,18 @@
           "titreVo": "If I Had a Million",
           "realisateurs": "James Cruze, H. Bruce Humberstone, Ernst Lubitsch, [etc.]",
           "annee": 1932,
+          "duree": 88,
           "adaptation": "D'après le roman _Windfall_ de Robert D. Andrews.",
-          "status": 0
-        }
-      ]
-    },
-    {
-      "idSeance": 185619,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32112,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-19T18:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 35692,
-          "titre": "Scandale à la cour",
-          "titreVo": "A Royal Scandal",
-          "realisateurs": "Otto Preminger",
-          "annee": 1945,
-          "generique": "Tallulah Bankhead, Charles Coburn, Anne Baxter, Vincent Price",
-          "adaptation": "D'après la pièce _The Czarina_ de Lajos Biró et Melchior Lengyel.",
-          "miniTexte": "Dans la Russie du XVIII<sup>e</sup>, où les conspirations s'ourdissent entre deux portes, Catherine II s'éprend d'un jeune lieutenant idéaliste. Une relecture de _Paradis perdu_ (1924) de Lubitsch, qui, malade, se voit remplacé sur le tournage par Preminger, porté aux nues par la Fox après le succès de _Laura_.",
-          "status": 2,
-          "idFilmBoxoffice": 109038
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29081,
+              "duree": 88,
+              "format": "16 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -804,10 +1203,26 @@
           "titreVo": "A Royal Scandal",
           "realisateurs": "Otto Preminger",
           "annee": 1945,
+          "duree": 94,
           "generique": "Tallulah Bankhead, Charles Coburn, Anne Baxter, Vincent Price",
           "adaptation": "D'après la pièce _The Czarina_ de Lajos Biró et Melchior Lengyel.",
           "miniTexte": "Dans la Russie du XVIII<sup>e</sup>, où les conspirations s'ourdissent entre deux portes, Catherine II s'éprend d'un jeune lieutenant idéaliste. Une relecture de _Paradis perdu_ (1924) de Lubitsch, qui, malade, se voit remplacé sur le tournage par Preminger, porté aux nues par la Fox après le succès de _Laura_.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 28734,
+              "duree": 94,
+              "format": "DCP",
+              "version": "VO",
+              "selected": true
+            },
+            {
+              "idCopie": 28821,
+              "duree": 94,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ],
           "idFilmBoxoffice": 109038
         }
       ]
@@ -852,7 +1267,7 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 187698,
+      "idSeance": 185653,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -864,7 +1279,7 @@
       ],
       "idEvenement": 32130,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-19T20:00:00",
+      "dateHeure": "2025-03-20T20:00:00",
       "idSalle": "HL",
       "typeSeance": 44,
       "items": [
@@ -874,14 +1289,23 @@
           "titre": "Bad Company",
           "realisateurs": "Robert Benton",
           "annee": 1972,
+          "duree": 93,
           "generique": "Jeff Bridges, John Savage",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29049,
+              "duree": 93,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
         }
       ],
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 187762,
+      "idSeance": 187767,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -893,7 +1317,7 @@
       ],
       "idEvenement": 32131,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-20T20:30:00",
+      "dateHeure": "2025-03-22T15:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -905,7 +1329,16 @@
           "artVo": "The",
           "realisateurs": "Robert Benton",
           "annee": 1977,
-          "status": 0
+          "duree": 94,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29050,
+              "duree": 94,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
         }
       ]
     },
@@ -932,9 +1365,29 @@
           "titreVo": "Kramer vs Kramer",
           "realisateurs": "Robert Benton",
           "annee": 1979,
+          "duree": 105,
           "generique": "Dustin Hoffman, Meryl Streep, Justin Henry, Jane Alexander",
           "synopsis": "Exaspérée par les priorités professionnelles de son mari, Joanna Kramer quitte son mari Ted et leur fils Billy. Le père doit alors concilier l'éducation de son fils et son travail de publicitaire mais parvient à tisser une relation très forte avec Billy. Quelques mois plus tard, Joanna est de retour et entame une procédure judiciaire pour obtenir la garde de l'enfant.",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 11640,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 11808,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -962,7 +1415,15 @@
           "titreVo": "Still of the Night",
           "realisateurs": "Robert Benton",
           "annee": 1982,
-          "status": 0
+          "duree": 91,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29051,
+              "duree": 91,
+              "format": "35 mm"
+            }
+          ]
         }
       ]
     },
@@ -990,7 +1451,28 @@
           "titreVo": "Places in the Heart",
           "realisateurs": "Robert Benton",
           "annee": 1984,
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29053,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "selected": true
+            },
+            {
+              "idCopie": 29054,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 29052,
+              "duree": 0,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
         }
       ]
     },
@@ -1042,7 +1524,17 @@
           "titre": "Billy Bathgate",
           "realisateurs": "Robert Benton",
           "annee": 1991,
-          "status": 0
+          "duree": 105,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29055,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -1191,9 +1683,26 @@
           "titre": "Barravento",
           "realisateurs": "Glauber Rocha",
           "annee": 1961,
+          "duree": 76,
           "generique": "Antonio Pitanga, Luiza Maranhão, Lucy de Carvalho",
           "synopsis": "Au Brésil, un jeune homme retourne dans son village d'enfance. Il veut libérer les habitants de l'emprise de la religion Candomblé, facteur, selon lui, d'oppression politique et sociale.",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 2651,
+              "duree": 76,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29041,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
         }
       ]
     },
@@ -1222,39 +1731,20 @@
           "realisateurs": "Glauber Rocha",
           "annee": 1964,
           "dureeStd": 123,
+          "duree": 123,
           "generique": "Geraldo del Rey, Yoná Magalhães, Maurício do Valle, Othon Bastos",
           "synopsis": "Un couple de paysans brésiliens, touché par la misère, est prêt à se compromettre pour s'en sortir. Ils s'en remettent à deux personnages violents et mystiques, symbolisant la révolte : une incarnation de Dieu et l'autre du diable.",
           "commentaire": "Le _sertão_, immense territoire aride du Nordeste brésilien, est le théâtre choisi par Glauber Rocha pour son deuxième long métrage, tout à la fois western, chanson de geste, _Kammerspiel_ de plein air, carnaval halluciné avec lequel le jeune critique et cinéaste bahianais entreprend de révolutionner la vision que son pays démesuré a de lui-même. Le lieu n'est pas pris au hasard. Pour Rocha, la faim, l'injustice et la violence qui règnent sur le _sertão_ de 1940 sont toujours la seule vérité qui vaille d'être criée au Brésil de 1960. Le bouvier Manuel et sa femme Rosa sont en fuite après avoir perdu le presque rien auquel ils s'accrochaient. Dans sa débâcle, Manuel reste mû par un besoin d'espoir apparemment indéracinable. Il se jette aux pieds du mystique Sebastião, le dieu noir du titre, un prêcheur vivant perché avec ses fidèles sur un mont d'où il guette jusqu'au délire une terre promise et un grand renversement – _sertão_ devenant mer, mer devenant _sertão_. Plus loin, Manuel se jette pareillement aux pieds du chef de bande Corisco, le dernier _cangaceiro_, diable blond possédé par le souvenir de l'épopée vengeresse de Lampião contre les propriétaires tout-puissants. Mais voyez : une blancheur calcinante ronge à même l'écran ciels et paysages pour faire savoir que, sous ce soleil, tout ce qui se pare de dualité – dieu, diable, mer, _sertão_ – est un leurre, que tout recommencera dans la violence. Une ombrageuse figure tire son épingle dialectique du jeu : Antônio das Mortes, le tueur à gages, que Rocha fera revenir cinq ans plus tard. En 1964, _Le Dieu noir et le Diable blond_ frappe comme un coup de tonnerre. L'âge de l'auteur ? 24 ans.\n\nNicolas Le Thierry d'Ennequin",
-          "status": 2
-        }
-      ]
-    },
-    {
-      "idSeance": 185551,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 977,
-          "idCategorie": 3678,
-          "titreCycle": "Glauber Rocha",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32143,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-15T15:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 59413,
-          "titre": "Terre en transe",
-          "titreVo": "Terra em transe",
-          "realisateurs": "Glauber Rocha",
-          "annee": 1967,
-          "generique": "Jardel Filho, Paulo Autran",
-          "synopsis": "À Eldorado, un homme agonisant évoque son passé politique.",
-          "status": 0
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 25416,
+              "duree": 123,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -1280,7 +1770,15 @@
           "titre": "Câncer",
           "realisateurs": "Glauber Rocha",
           "annee": 1968,
-          "status": 0
+          "duree": 86,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29048,
+              "duree": 86,
+              "format": "16 mm"
+            }
+          ]
         }
       ]
     },
@@ -1309,9 +1807,34 @@
           "artVo": "O",
           "realisateurs": "Glauber Rocha",
           "annee": 1968,
+          "duree": 95,
           "generique": "Maurício do Valle, Odete Lara",
           "synopsis": "Ancien tueur à gages, Antônio das Mortes reprend son activité. Le colonel Horacio lui demande d'abattre publiquement un agitateur qui dirige un groupe de paysans mystiques, les Beatos. Un duel public s'engage entre les deux hommes.",
           "status": 1,
+          "copies": [
+            {
+              "idCopie": 6617,
+              "duree": 95,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "POR",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29040,
+              "duree": 95,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
+            }
+          ],
           "idFilmBoxoffice": 92
         }
       ],
@@ -1342,7 +1865,23 @@
           "artVo": "Der",
           "realisateurs": "Glauber Rocha",
           "annee": 1969,
-          "status": 0
+          "duree": 95,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29046,
+              "duree": 95,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ITA",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29047,
+              "duree": 95
+            }
+          ]
         }
       ]
     },
@@ -1369,7 +1908,25 @@
           "titreVo": "Cabezas cortadas",
           "realisateurs": "Glauber Rocha",
           "annee": 1970,
-          "status": 0
+          "duree": 95,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29043,
+              "duree": 95,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29044,
+              "duree": 95,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -1395,12 +1952,22 @@
           "titre": "Historia do Brasil",
           "realisateurs": "Glauber Rocha",
           "annee": 1974,
-          "status": 0
+          "duree": 158,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29045,
+              "duree": 158,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
     {
-      "idSeance": 185740,
+      "idSeance": 187766,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1412,7 +1979,7 @@
       ],
       "idEvenement": 32149,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-22T15:00:00",
+      "dateHeure": "2025-03-20T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1421,9 +1988,20 @@
           "titre": "Claro",
           "realisateurs": "Glauber Rocha",
           "annee": 1975,
+          "duree": 107,
           "generique": "Juliet Berto, Tony Scott, Carmelo Bene",
           "synopsis": "Film improvisé mêlant acteurs professionnels et amateurs dans les rues de Rome.",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 3785,
+              "duree": 107,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "POR",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -1452,9 +2030,156 @@
           "artVo": "A",
           "realisateurs": "Glauber Rocha",
           "annee": 1980,
+          "duree": 150,
           "generique": "Maurício do Valle, Jece Valadão",
           "synopsis": "Une vision torrentielle et hallucinatoire de la destinée historique, culturelle et politique du Brésil.",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 6644,
+              "duree": 150,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "POR",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 7002,
+              "duree": 160,
+              "format": "Numérique",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186114,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 981,
+          "idCategorie": 3684,
+          "titreCycle": "Darren Aronofsky",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32245,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-05T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 112692,
+          "titre": "Black Swan",
+          "realisateurs": "Darren Aronofsky",
+          "annee": 2009,
+          "generique": "Natalie Portman, Mila Kunis, Vincent Cassel",
+          "synopsis": "Dans la troupe du New York City Ballet. Nina est prête à tout pour obtenir le rôle principal du _Lac des cygnes_ que dirige l'ambigu Thomas. Mais elle se trouve bientôt confrontée à la belle et sensuelle nouvelle recrue, Lily...",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 185995,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 981,
+          "idCategorie": 3684,
+          "titreCycle": "Darren Aronofsky",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32250,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-02T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 69742,
+          "titre": "Requiem for a Dream",
+          "realisateurs": "Darren Aronofsky",
+          "annee": 1999,
+          "duree": 102,
+          "adaptation": "D'après le roman _Requiem for a dream_ de Hubert Selby Jr..",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29037,
+              "duree": 102
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 185551,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 977,
+          "idCategorie": 3678,
+          "titreCycle": "Glauber Rocha",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32255,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-15T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 89911,
+          "titre": "Amazonas",
+          "realisateurs": "Glauber Rocha",
+          "annee": 1965,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 13178,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "POR"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 59413,
+          "titre": "Terre en transe",
+          "titreVo": "Terra em transe",
+          "realisateurs": "Glauber Rocha",
+          "annee": 1967,
+          "duree": 107,
+          "generique": "Jardel Filho, Paulo Autran",
+          "synopsis": "À Eldorado, un homme agonisant évoque son passé politique.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 4414,
+              "duree": 107,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "POR",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29042,
+              "duree": 115,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     }

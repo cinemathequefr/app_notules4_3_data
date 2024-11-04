@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-10-23T16:19:07.673Z",
+  "updatedAt": "2024-11-04T09:55:05.133Z",
   "data": [
     {
       "idSeance": 185115,
@@ -33,7 +33,8 @@
               "idCopie": 23872,
               "duree": 63,
               "format": "Numérique",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 27292
@@ -482,14 +483,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 27729,
-              "duree": 103,
-              "format": "35 mm",
-              "version": "VO"
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 2031
@@ -533,14 +527,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 27729,
-              "duree": 103,
-              "format": "35 mm",
-              "version": "VO"
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 2031
@@ -1594,7 +1581,9 @@
             {
               "idCopie": 23998,
               "duree": 9,
-              "format": "Numérique"
+              "format": "Numérique",
+              "version": "VO",
+              "stDemande": true
             }
           ]
         },
@@ -4420,8 +4409,7 @@
               "duree": 22,
               "format": "Numérique",
               "version": "VO",
-              "langCopie": "ENG",
-              "stDemande": true
+              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 29735
@@ -4568,7 +4556,7 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28790,
+              "idCopie": 28805,
               "duree": 111,
               "format": "35 mm",
               "version": "VO",
@@ -4611,7 +4599,7 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28790,
+              "idCopie": 28805,
               "duree": 111,
               "format": "35 mm",
               "version": "VO",
@@ -5112,7 +5100,7 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28794,
+              "idCopie": 28796,
               "duree": 132,
               "format": "35 mm",
               "version": "VO",
@@ -5156,7 +5144,7 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28794,
+              "idCopie": 28796,
               "duree": 132,
               "format": "35 mm",
               "version": "VO",
@@ -6400,6 +6388,7 @@
               "duree": 90,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ],
@@ -9440,9 +9429,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28489,
+              "idCopie": 29056,
               "duree": 81,
-              "format": "35 mm",
+              "format": "DCP",
               "intertitres": "INT. FR."
             }
           ],
@@ -9571,17 +9560,15 @@
           "art": "Le",
           "realisateurs": "Paul Grimault",
           "annee": 1947,
-          "duree": 10,
+          "duree": 11,
           "adaptation": "D'après le conte _Le Stoïque Soldat de plomb_ de Hans Christian Andersen.",
           "synopsis": "Dans un magasin de jouets, un petit soldat est amoureux d'une poupée.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28554,
-              "duree": 10,
-              "format": "16 mm",
-              "version": "VO",
-              "langCopie": "FRE"
+              "idCopie": 29102,
+              "duree": 11,
+              "format": "16 mm"
             }
           ],
           "idFilmBoxoffice": 3644
@@ -16387,7 +16374,9 @@
               "idCopie": 28791,
               "duree": 101,
               "format": "35 mm",
-              "version": "VF"
+              "version": "VO",
+              "langCopie": "ITA",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 9799
@@ -17208,11 +17197,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 25408,
+              "idCopie": 17984,
               "duree": 126,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 8373
