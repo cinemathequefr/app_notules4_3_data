@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-04T15:22:55.468Z",
+  "updatedAt": "2024-11-05T09:27:33.943Z",
   "data": [
     {
       "idSeance": 186075,
@@ -165,7 +165,7 @@
       ],
       "idEvenement": 32028,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-21T20:00:00",
+      "dateHeure": "2025-03-21T21:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -204,7 +204,7 @@
       ],
       "idEvenement": 32029,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-21T18:00:00",
+      "dateHeure": "2025-03-21T19:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -353,7 +353,46 @@
       ]
     },
     {
-      "idSeance": 185695,
+      "idSeance": 186119,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32038,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-05T15:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33024,
+          "titre": "Paramount on Parade",
+          "realisateurs": "Dorothy Arzner, Otto Brower, Edmund Goulding, [etc.]",
+          "annee": 1929,
+          "duree": 102,
+          "generique": "Jean Arthur, Gary Cooper, George Bancroft, Maurice Chevalier, Jack Oakie",
+          "synopsis": "Plusieurs épisodes de music hall mis en scène par 11 réalisateurs hollywoodiens.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 11161,
+              "duree": 102,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187814,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -365,7 +404,7 @@
       ],
       "idEvenement": 32039,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-21T21:00:00",
+      "dateHeure": "2025-03-21T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -393,7 +432,324 @@
       ]
     },
     {
-      "idSeance": 185547,
+      "idSeance": 187807,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32040,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-29T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40705,
+          "titre": "Anne Boleyn",
+          "titreVo": "Anna Boleyn",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1920,
+          "duree": 100,
+          "generique": "Emil Jannings, Ludwig Hartau, Hedwig Pauly-Winterstein",
+          "synopsis": "Le roi Henri VIII poursuit Anne Boleyn de ses assiduités mais celle-ci n'y est guère sensible. Après leur mariage, elle en tombe amoureuse tandis que lui se lasse.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 4538,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "GER",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29072,
+              "duree": 124,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187809,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32042,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-30T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40727,
+          "titre": "Bergkatze",
+          "art": "Die",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1921,
+          "duree": 80,
+          "generique": "Pola Negri",
+          "synopsis": "Le lieutenant Alexis, grand séducteur, est muté dans une forteresse en pleine montagne. Sur le chemin, il est attaqué par une bande de brigands mais la fille de leur chef tombe amoureuse de lui.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 9998,
+              "duree": 80,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187797,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32045,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-17T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40703,
+          "titre": "Carmen",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1918,
+          "duree": 70,
+          "generique": "Pola Negri, Harry Liedtke",
+          "synopsis": "Le soldat Don José tombe sous le charme d'une Gitane, Carmen, qui le méprise.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 13885,
+              "duree": 70,
+              "format": "16 mm",
+              "intertitres": "INT. ANG.",
+              "stDemande": true,
+              "selected": true
+            },
+            {
+              "idCopie": 29068,
+              "duree": 70,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185943,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32046,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-30T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40798,
+          "titre": "Du Barry",
+          "art": "La",
+          "titreVo": "Madame Du Barry",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1919,
+          "duree": 123,
+          "generique": "Pola Negri, Emil Jannings, Reinhold Schünzel",
+          "synopsis": "La vie romancée de Madame Du Barry, dernière favorite du roi Louis XV.\n\n---\n\n« Les grandes mises en scène de Lubitsch, l'actrice Pola Negri, sont les derniers soubresauts du cinéma allemand primitif. _La Dubarry_ de Lubitsch ouvre, aussitôt après la guerre, le marché mondial au cinéma allemand, beaucoup moins pour sa mise en scène que pour ce je ne sais quoi de trouble qui avait fait appeler le film _Passion_ aux États-Unis. »\n\n---\n\n« Projeté à New York sous le titre _Passion_, _La Dubarry_ fit sensation, de Pola Negri une star, de Lubitsch un génie cinématographique, et força le blocus qu'avaient essayé d'établir contre le film allemand les industries française, anglaise, italienne et américaine, inquiètes d'un concurrent éventuel. »",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 3436,
+              "duree": 123,
+              "format": "35 mm",
+              "langCopie": "MIT",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187839,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32047,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-28T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 70811,
+          "titre": "Ein fideles Gefängnis",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1917,
+          "duree": 54,
+          "generique": "Emil Jannings, Hanns Kräly",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29067,
+              "duree": 54,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 40802,
+          "titre": "Poupée",
+          "art": "La",
+          "titreVo": "Puppe",
+          "artVo": "Die",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1919,
+          "duree": 51,
+          "generique": "Ernst Lubitsch, Ossi Oswalda",
+          "synopsis": "Le jeune Lancelot, prié de prendre femme alors qu'il n'en veut pas, décide de se retirer dans un monastère et de se marier avec une poupée pour donner la dot aux moines.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 17005,
+              "duree": 51,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "selected": true
+            },
+            {
+              "idCopie": 29070,
+              "duree": 57,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185998,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32048,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-02T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54851,
+          "titre": "Comédiennes",
+          "titreVo": "Marriage Circle",
+          "artVo": "The",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1924,
+          "duree": 98,
+          "generique": "Florence Vidor, Adolph Menjou, Monte Blue, Marie Prevost",
+          "miniTexte": "À l'heure où domine le slapstick à Hollywood, Lubitsch dévoile sa touche inimitable, mise en scène subtile et sous-entendus astucieux. Avec lui, la comédie conjugale va trouver ses lettres de noblesse grâce à un savant dosage d'élégance, d'humour et d'érotisme. Inspiré par _L'Opinion publique_ de Chaplin, _Comédiennes_ marqua toute une génération de cinéastes, de Hitchcock à Kurosawa.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 27430,
+              "duree": 98,
+              "format": "DCP",
+              "langCopie": "MIT",
+              "intertitres": "INT. ANG.",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186120,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32049,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-05T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33858,
+          "titre": "Eternal Love",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1929,
+          "duree": 73,
+          "generique": "John Barrymore",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29077,
+              "duree": 73,
+              "format": "35 mm",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187828,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -429,7 +785,84 @@
       ]
     },
     {
-      "idSeance": 185738,
+      "idSeance": 187808,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32052,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-30T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54203,
+          "titre": "Femme du pharaon",
+          "art": "La",
+          "titreVo": "Weib des Pharao",
+          "artVo": "Das",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1921,
+          "duree": 110,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29074,
+              "duree": 110,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185997,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32053,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-02T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40788,
+          "titre": "Filles de Kohlhiesel",
+          "art": "Les",
+          "titreVo": "Köhlhiesels Töchter",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1920,
+          "duree": 61,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29057,
+              "duree": 61,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187838,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -441,7 +874,7 @@
       ],
       "idEvenement": 32055,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-22T19:00:00",
+      "dateHeure": "2025-03-22T19:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -485,7 +918,81 @@
       ]
     },
     {
-      "idSeance": 185505,
+      "idSeance": 186138,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32057,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-06T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33923,
+          "titre": "Parade d'amour",
+          "titreVo": "Love Parade",
+          "artVo": "The",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1929,
+          "duree": 115,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29078,
+              "duree": 115,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185931,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32061,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-29T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40733,
+          "titre": "Sumurun",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1920,
+          "duree": 103,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29073,
+              "duree": 103,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187795,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -536,7 +1043,7 @@
       ]
     },
     {
-      "idSeance": 187742,
+      "idSeance": 187817,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -577,7 +1084,7 @@
       ]
     },
     {
-      "idSeance": 185565,
+      "idSeance": 187819,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -634,7 +1141,7 @@
       ]
     },
     {
-      "idSeance": 185694,
+      "idSeance": 187813,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -646,7 +1153,7 @@
       ],
       "idEvenement": 32066,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-21T19:00:00",
+      "dateHeure": "2025-03-21T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -672,7 +1179,7 @@
       ]
     },
     {
-      "idSeance": 187700,
+      "idSeance": 187794,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -686,7 +1193,6 @@
       "typeEvenement": 13,
       "dateHeure": "2025-03-12T20:00:00",
       "idSalle": "HL",
-      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -710,11 +1216,10 @@
             }
           ]
         }
-      ],
-      "mention": "Ouverture de la rétrospective"
+      ]
     },
     {
-      "idSeance": 185581,
+      "idSeance": 187765,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -726,8 +1231,8 @@
       ],
       "idEvenement": 32077,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-17T18:00:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-03-19T18:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -753,7 +1258,7 @@
       ]
     },
     {
-      "idSeance": 185548,
+      "idSeance": 187829,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -765,7 +1270,7 @@
       ],
       "idEvenement": 32079,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-15T17:00:00",
+      "dateHeure": "2025-03-15T16:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -792,7 +1297,80 @@
       ]
     },
     {
-      "idSeance": 185737,
+      "idSeance": 185886,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32080,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-28T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40718,
+          "titre": "Yeux de la momie",
+          "art": "Les",
+          "titreVo": "Augen der Mumie Ma",
+          "artVo": "Die",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1918,
+          "duree": 58,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29069,
+              "duree": 58,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186118,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32083,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-05T14:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 87300,
+          "titre": "So This Is Paris",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1926,
+          "duree": 70,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 25373,
+              "duree": 70,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187831,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -831,7 +1409,7 @@
       ]
     },
     {
-      "idSeance": 187768,
+      "idSeance": 187770,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -841,33 +1419,34 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 32087,
+      "idEvenement": 32089,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-19T18:30:00",
+      "dateHeure": "2025-03-13T20:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 33926,
-          "titre": "Monte Carlo",
+          "idFilm": 92587,
+          "titre": "Trois femmes",
+          "titreVo": "Three Women",
           "realisateurs": "Ernst Lubitsch",
-          "annee": 1930,
-          "duree": 90,
+          "annee": 1923,
+          "duree": 89,
+          "adaptation": "D'après le roman _Lillis Ehe_ de Yolande Maree.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 29079,
-              "duree": 90,
+              "idCopie": 11651,
+              "duree": 89,
               "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
+              "intertitres": "INT. FR."
             }
           ]
         }
       ]
     },
     {
-      "idSeance": 185566,
+      "idSeance": 187818,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -879,7 +1458,7 @@
       ],
       "idEvenement": 32090,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-16T17:00:00",
+      "dateHeure": "2025-03-16T16:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -923,7 +1502,7 @@
       ]
     },
     {
-      "idSeance": 185506,
+      "idSeance": 187820,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -973,7 +1552,54 @@
       ]
     },
     {
-      "idSeance": 185549,
+      "idSeance": 185960,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32093,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-31T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33794,
+          "titre": "Paradis defendu",
+          "titreVo": "Forbidden Paradise",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1924,
+          "duree": 78,
+          "generique": "Pola Negri, Adolphe Menjou, Clark Gable",
+          "synopsis": "La tsarine d'un petit royaume européen est sauvée de conspirateurs révolutionnaires par un jeune officier. Il obtient ses faveurs mais pas sa fidélité. Par dépit, il s'allie avec les révolutionnaires contre sa bien-aimée.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 11452,
+              "duree": 78,
+              "format": "35 mm",
+              "intertitres": "Autres",
+              "stDemande": true,
+              "selected": true
+            },
+            {
+              "idCopie": 17888,
+              "duree": 78,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187830,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1023,7 +1649,168 @@
       ]
     },
     {
-      "idSeance": 185755,
+      "idSeance": 185929,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32098,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-29T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40285,
+          "titre": "Princesse aux huitres",
+          "art": "La",
+          "titreVo": "Austernprinzessin",
+          "artVo": "Die",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1919,
+          "duree": 63,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29071,
+              "duree": 63,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187811,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32100,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-06T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 128868,
+          "titre": "Quand j'étais mort",
+          "titreVo": "Als ich tot war",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1915,
+          "duree": 37,
+          "generique": "Ernst Lubitsch",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29064,
+              "duree": 37,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 40745,
+          "titre": "Wenn vier dasselbe tun",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1917,
+          "duree": 42,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29065,
+              "duree": 42,
+              "format": "Numérique",
+              "intertitres": "Autres",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 40754,
+          "titre": "Blusenkönig",
+          "art": "Der",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1917,
+          "duree": 12,
+          "generique": "Ernst Lubitsch",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29066,
+              "duree": 12,
+              "format": "Numérique",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185959,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32102,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-31T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34542,
+          "titre": "Rosita, chanteuse des rues",
+          "titreVo": "Rosita",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1923,
+          "duree": 95,
+          "generique": "Mary Pickford, Holbrook Blinn, Irene Rich",
+          "synopsis": "Rosita, chanteuse de rue, est amoureuse d'un noble désargenté. Mais le roi, qui veut épouser la jeune femme, condamne à mort son rival.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20675,
+              "duree": 95,
+              "format": "DCP",
+              "intertitres": "INT. ANG.",
+              "stDemande": true,
+              "selected": true
+            },
+            {
+              "idCopie": 20731,
+              "duree": 95,
+              "format": "DCP",
+              "intertitres": "INT. ANG."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187815,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1075,7 +1862,100 @@
       ]
     },
     {
-      "idSeance": 185582,
+      "idSeance": 187803,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32104,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-20T16:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 92568,
+          "titre": "Schuhpalast Pinkus",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1916,
+          "duree": 60,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29063,
+              "duree": 60,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187812,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32105,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-17T19:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 73877,
+          "titre": "Roméo et Juliette dans la neige",
+          "titreVo": "Romeo und Julia im Schnee",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1920,
+          "duree": 48,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29062,
+              "duree": 48,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 44984,
+          "titre": "Montmartre",
+          "titreVo": "Flamme",
+          "artVo": "Die",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1922,
+          "duree": 41,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29061,
+              "duree": 41,
+              "format": "Numérique",
+              "intertitres": "INT. ANG.",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187796,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1087,8 +1967,8 @@
       ],
       "idEvenement": 32109,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-17T20:00:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-03-19T20:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -1118,55 +1998,7 @@
       ]
     },
     {
-      "idSeance": 185620,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32110,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-19T20:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 33920,
-          "titre": "Dame au manteau d'hermine",
-          "art": "La",
-          "titreVo": "That Lady in Ermine",
-          "realisateurs": "Ernst Lubitsch, Otto Preminger",
-          "annee": 1948,
-          "duree": 90,
-          "generique": "Betty Grable, Douglas Fairbanks Jr., Cesar Romero",
-          "adaptation": "D'après l'opérette _Die Frau im Hermelin_ d'Ernst Welisch et Rudolf Schanzer.",
-          "miniTexte": "1861, Italie du Nord. L'armée hongroise assiège le château de la comtesse Angelina, dont l'aïeule revient à la vie pour sauver la situation. Une opérette en Technicolor, truffée de trouvailles visuelles, pour la dernière réalisation de Lubitsch. Preminger achève le travail du maître, mort en cours de tournage, tout en posant ça et là sa propre griffe.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 11751,
-              "duree": 90,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29086,
-              "duree": 93
-            }
-          ],
-          "idFilmBoxoffice": 2250
-        }
-      ]
-    },
-    {
-      "idSeance": 187702,
+      "idSeance": 187793,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1204,7 +2036,7 @@
       ]
     },
     {
-      "idSeance": 185756,
+      "idSeance": 187816,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1216,7 +2048,7 @@
       ],
       "idEvenement": 32112,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-23T19:00:00",
+      "dateHeure": "2025-03-23T19:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1290,7 +2122,7 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 185653,
+      "idSeance": 187833,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1304,7 +2136,6 @@
       "typeEvenement": 13,
       "dateHeure": "2025-03-20T20:00:00",
       "idSalle": "HL",
-      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -1324,11 +2155,10 @@
             }
           ]
         }
-      ],
-      "mention": "Ouverture de la rétrospective"
+      ]
     },
     {
-      "idSeance": 187767,
+      "idSeance": 187842,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1366,7 +2196,7 @@
       ]
     },
     {
-      "idSeance": 185741,
+      "idSeance": 187832,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1415,7 +2245,7 @@
       ]
     },
     {
-      "idSeance": 185742,
+      "idSeance": 187843,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1427,7 +2257,7 @@
       ],
       "idEvenement": 32133,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-22T19:30:00",
+      "dateHeure": "2025-03-22T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1451,7 +2281,7 @@
       ]
     },
     {
-      "idSeance": 185761,
+      "idSeance": 187836,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1463,7 +2293,7 @@
       ],
       "idEvenement": 32134,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-23T21:30:00",
+      "dateHeure": "2025-03-23T20:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1500,7 +2330,7 @@
       ]
     },
     {
-      "idSeance": 185770,
+      "idSeance": 187835,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1512,7 +2342,7 @@
       ],
       "idEvenement": 32135,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-24T19:00:00",
+      "dateHeure": "2025-03-24T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1526,7 +2356,7 @@
       ]
     },
     {
-      "idSeance": 185771,
+      "idSeance": 187834,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1538,7 +2368,7 @@
       ],
       "idEvenement": 32136,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-24T21:00:00",
+      "dateHeure": "2025-03-24T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1624,7 +2454,15 @@
           "titreVo": "Twilight",
           "realisateurs": "Robert Benton",
           "annee": 1997,
-          "status": 0
+          "duree": 94,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29115,
+              "duree": 94,
+              "format": "35 mm"
+            }
+          ]
         }
       ]
     },
@@ -1659,7 +2497,7 @@
       ]
     },
     {
-      "idSeance": 185885,
+      "idSeance": 187804,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1671,7 +2509,7 @@
       ],
       "idEvenement": 32140,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-28T18:30:00",
+      "dateHeure": "2025-03-27T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1685,7 +2523,7 @@
       ]
     },
     {
-      "idSeance": 185507,
+      "idSeance": 187822,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1730,7 +2568,7 @@
       ]
     },
     {
-      "idSeance": 185508,
+      "idSeance": 187823,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1772,7 +2610,7 @@
       ]
     },
     {
-      "idSeance": 187761,
+      "idSeance": 187799,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1784,7 +2622,7 @@
       ],
       "idEvenement": 32144,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-20T18:30:00",
+      "dateHeure": "2025-03-19T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1806,7 +2644,7 @@
       ]
     },
     {
-      "idSeance": 187701,
+      "idSeance": 187821,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1864,7 +2702,7 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 185552,
+      "idSeance": 187825,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1909,7 +2747,7 @@
       ]
     },
     {
-      "idSeance": 185553,
+      "idSeance": 187826,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1921,7 +2759,7 @@
       ],
       "idEvenement": 32147,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-15T20:00:00",
+      "dateHeure": "2025-03-15T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1954,7 +2792,7 @@
       ]
     },
     {
-      "idSeance": 185760,
+      "idSeance": 187837,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1990,7 +2828,7 @@
       ]
     },
     {
-      "idSeance": 187766,
+      "idSeance": 187800,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2002,7 +2840,7 @@
       ],
       "idEvenement": 32149,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-20T20:30:00",
+      "dateHeure": "2025-03-19T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2029,7 +2867,7 @@
       ]
     },
     {
-      "idSeance": 185571,
+      "idSeance": 187827,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2106,7 +2944,136 @@
       ]
     },
     {
-      "idSeance": 185995,
+      "idSeance": 186033,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 981,
+          "idCategorie": 3684,
+          "titreCycle": "Darren Aronofsky",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32246,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-03T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 100810,
+          "titre": "Fountain",
+          "art": "The",
+          "realisateurs": "Darren Aronofsky",
+          "annee": 2004,
+          "duree": 96,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29034,
+              "duree": 96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186116,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 981,
+          "idCategorie": 3684,
+          "titreCycle": "Darren Aronofsky",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32247,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-05T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 136881,
+          "titre": "Mother !",
+          "realisateurs": "Darren Aronofsky",
+          "annee": 2016,
+          "duree": 122,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29035,
+              "duree": 122
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186073,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 981,
+          "idCategorie": 3684,
+          "titreCycle": "Darren Aronofsky",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32248,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-04T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 122959,
+          "titre": "Noé",
+          "titreVo": "Noah",
+          "realisateurs": "Darren Aronofsky",
+          "annee": 2012,
+          "duree": 138,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29036,
+              "duree": 138
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186032,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 981,
+          "idCategorie": 3684,
+          "titreCycle": "Darren Aronofsky",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32249,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-03T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 64132,
+          "titre": "Pi",
+          "realisateurs": "Darren Aronofsky",
+          "annee": 1998,
+          "generique": "Sean Gullette, Mark Margolis, Ben Shenkman",
+          "synopsis": "Un mathématicien paranoïaque cherche le chiffre clé qui permettrait de percer les mystères de l'existence. Il est alors courtisé par une secte et une firme de Wall Street.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 187840,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2142,7 +3109,75 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 185551,
+      "idSeance": 186072,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 981,
+          "idCategorie": 3684,
+          "titreCycle": "Darren Aronofsky",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32251,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-04T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 107100,
+          "titre": "Wrestler",
+          "art": "The",
+          "realisateurs": "Darren Aronofsky",
+          "annee": 2008,
+          "duree": 115,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29038,
+              "duree": 115
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186132,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 981,
+          "idCategorie": 3684,
+          "titreCycle": "Darren Aronofsky",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32252,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-06T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155050,
+          "titre": "Whale",
+          "art": "The",
+          "realisateurs": "Darren Aronofsky",
+          "annee": 2022,
+          "duree": 117,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29033,
+              "duree": 117
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187824,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2293,6 +3328,159 @@
               "duree": 100,
               "format": "35 mm",
               "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187810,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3686,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Lubitsch acteur"
+        }
+      ],
+      "idEvenement": 32263,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-05T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 92550,
+          "titre": "orgueil de la firme",
+          "art": "L'",
+          "titreVo": "Stolz der Firma",
+          "artVo": "Der",
+          "realisateurs": "Carl Wilhem",
+          "annee": 1914,
+          "duree": 59,
+          "generique": "Ernst Lubitsch, Martha Kriwitz, Victor Arnold",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29094,
+              "duree": 59,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 92562,
+          "titre": "Mademoiselle Piccolo",
+          "titreVo": "Fraülein Piccolo",
+          "realisateurs": "Franz Hofer",
+          "annee": 1914,
+          "duree": 36,
+          "generique": "Ernst Lubitsch, Dorrit Weixler",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29093,
+              "duree": 36,
+              "format": "16 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187801,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3686,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Lubitsch acteur"
+        }
+      ],
+      "idEvenement": 32265,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-20T18:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 128863,
+          "titre": "Mirakel",
+          "art": "Das",
+          "realisateurs": "Max Reinhardt",
+          "annee": 1912,
+          "duree": 69,
+          "generique": "Ernst Lubitsch, Maria Carmi",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29092,
+              "duree": 69,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187841,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3686,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Lubitsch acteur"
+        }
+      ],
+      "idEvenement": 32266,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-20T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155054,
+          "titre": "Robert et Bertram ou les joyeux vagabonds",
+          "titreVo": "Robert und Bertram oder die lustigen vagabunden",
+          "realisateurs": "Max Mack",
+          "annee": 1915,
+          "duree": 60,
+          "generique": "Ferdinand Bonn",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29095,
+              "duree": 60,
+              "intertitres": "Autres",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 155052,
+          "titre": "Doktor Satansohm",
+          "realisateurs": "Edmund Edel",
+          "annee": 1916,
+          "duree": 44,
+          "generique": "Hans Felix",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29096,
+              "duree": 44,
+              "format": "Numérique",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
             }
           ]
         }

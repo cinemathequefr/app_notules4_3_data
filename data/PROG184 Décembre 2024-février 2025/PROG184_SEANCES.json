@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-04T09:55:05.133Z",
+  "updatedAt": "2024-11-05T09:28:15.266Z",
   "data": [
     {
       "idSeance": 185115,
@@ -1503,6 +1503,7 @@
             {
               "idCopie": 23986,
               "duree": 6,
+              "format": "Numérique",
               "version": "VO",
               "stDemande": true
             }
@@ -1542,7 +1543,8 @@
           "copies": [
             {
               "idCopie": 23987,
-              "duree": 6
+              "duree": 6,
+              "format": "Numérique"
             }
           ]
         },
@@ -1600,7 +1602,7 @@
             {
               "idCopie": 23988,
               "duree": 6,
-              "format": "16 mm"
+              "format": "Numérique"
             }
           ],
           "idFilmBoxoffice": 27250
@@ -1731,11 +1733,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28183,
+              "idCopie": 28210,
               "duree": 80,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 4226
@@ -1773,11 +1775,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28183,
+              "idCopie": 28210,
               "duree": 80,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 4226
@@ -16416,6 +16418,19 @@
             {
               "idCopie": 920,
               "duree": 81,
+              "format": "35 mm",
+              "version": "VF",
+              "selected": true
+            },
+            {
+              "idCopie": 29108,
+              "duree": 81,
+              "format": "35 mm",
+              "version": "VF"
+            },
+            {
+              "idCopie": 29107,
+              "duree": 85,
               "format": "35 mm",
               "version": "VF"
             }
