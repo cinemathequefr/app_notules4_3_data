@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-04T13:12:23.340Z",
+  "updatedAt": "2024-11-04T15:57:45.875Z",
   "data": [
     {
       "idSeance": 132987,
@@ -18534,12 +18534,18 @@
           "idCategorie": 3681,
           "titreCycle": "Séances spéciales",
           "titreSousCycle": "Journée Demi Moore"
+        },
+        {
+          "idCycle": 11,
+          "idCategorie": 2568,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32224,
-      "typeEvenement": 13,
       "dateHeure": "2024-11-05T16:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -18561,6 +18567,13 @@
             }
           ],
           "idFilmBoxoffice": 6122
+        },
+        {
+          "idConf": 32296,
+          "titre": "MASTERCLASS DEMI MOORE",
+          "typeConference": "Leçon de cinéma",
+          "duree": 60,
+          "ordre": 2
         }
       ]
     },
