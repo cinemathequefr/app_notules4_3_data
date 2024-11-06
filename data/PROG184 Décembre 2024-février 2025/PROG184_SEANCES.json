@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-05T09:28:15.266Z",
+  "updatedAt": "2024-11-05T17:35:31.699Z",
   "data": [
     {
       "idSeance": 185115,
@@ -1733,9 +1733,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28210,
+              "idCopie": 28183,
               "duree": 80,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -1775,9 +1775,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28210,
+              "idCopie": 28183,
               "duree": 80,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -17158,7 +17158,8 @@
               "idCopie": 2970,
               "duree": 91,
               "format": "DCP",
-              "intertitres": "INT. FR."
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 229230
