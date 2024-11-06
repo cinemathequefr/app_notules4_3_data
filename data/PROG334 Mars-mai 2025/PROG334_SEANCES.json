@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-05T09:27:33.943Z",
+  "updatedAt": "2024-11-06T14:10:05.368Z",
   "data": [
     {
       "idSeance": 186075,
@@ -120,6 +120,44 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 186874,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31949,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-03T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 89637,
+          "titre": "Tue et fais ta prière",
+          "titreVo": "Requiescant",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1966,
+          "duree": 106,
+          "generique": "Lou Castel, Mark Damon, Pier Paolo Pasolini",
+          "synopsis": "Un enfant mexicain échappé d'un massacre se découvre des talents exceptionnels de tireur et cherche à venger les siens.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28965,
+              "duree": 106,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 186751,
@@ -874,7 +912,7 @@
       ],
       "idEvenement": 32055,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-22T19:30:00",
+      "dateHeure": "2025-03-22T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1193,6 +1231,7 @@
       "typeEvenement": 13,
       "dateHeure": "2025-03-12T20:00:00",
       "idSalle": "HL",
+      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -1216,7 +1255,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Ouverture de la rétrospective"
     },
     {
       "idSeance": 187765,
@@ -1382,7 +1422,7 @@
       ],
       "idEvenement": 32084,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-22T17:00:00",
+      "dateHeure": "2025-03-22T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2307,22 +2347,22 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 29053,
+              "idCopie": 29052,
               "duree": 0,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "selected": true
             },
             {
-              "idCopie": 29054,
+              "idCopie": 29053,
               "duree": 0,
               "format": "35 mm",
               "version": "VO"
             },
             {
-              "idCopie": 29052,
+              "idCopie": 29054,
               "duree": 0,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VO"
             }
           ]
@@ -2351,7 +2391,15 @@
           "titre": "Nadine",
           "realisateurs": "Robert Benton",
           "annee": 1986,
-          "status": 0
+          "duree": 83,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29119,
+              "duree": 83,
+              "format": "35 mm"
+            }
+          ]
         }
       ]
     },
@@ -2518,7 +2566,16 @@
           "titre": "Feast of Love",
           "realisateurs": "Robert Benton",
           "annee": 2007,
-          "status": 0
+          "duree": 97,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29118,
+              "duree": 97,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
         }
       ]
     },
@@ -2916,6 +2973,49 @@
       ]
     },
     {
+      "idSeance": 186373,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32203,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-16T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32391,
+          "titre": "Homme qui tua Liberty Valance",
+          "art": "L'",
+          "titreVo": "Man Who Shot Liberty Valance",
+          "artVo": "The",
+          "realisateurs": "John Ford",
+          "annee": 1961,
+          "duree": 122,
+          "generique": "James Stewart, John Wayne, Vera Miles",
+          "adaptation": "D'après la nouvelle _The Man who shot Liberty Valance_ de Dorothy M. Johnson.",
+          "synopsis": "Un sénateur revient à Shinbone pour assister aux funérailles d'un inconnu. La presse locale, intriguée par la présence du politicien, le presse de questions. Il va alors revenir sur l'époque, où, jeune diplômé en droit, il arriva à Shinbone et essaya d'y faire respecter la loi et débarrasser la ville d'un homme dangereux.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 3854,
+              "duree": 122,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 186114,
       "idProg": 334,
       "idCycleCategories": [
@@ -2996,17 +3096,18 @@
         {
           "ordre": 1,
           "idFilm": 136881,
-          "titre": "Mother !",
+          "titre": "Mother!",
           "realisateurs": "Darren Aronofsky",
           "annee": 2016,
           "duree": 122,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29035,
               "duree": 122
             }
-          ]
+          ],
+          "idFilmBoxoffice": 241747
         }
       ]
     },
@@ -3386,99 +3487,6 @@
               "idCopie": 29093,
               "duree": 36,
               "format": "16 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 187801,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3686,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Lubitsch acteur"
-        }
-      ],
-      "idEvenement": 32265,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-20T18:15:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 128863,
-          "titre": "Mirakel",
-          "art": "Das",
-          "realisateurs": "Max Reinhardt",
-          "annee": 1912,
-          "duree": 69,
-          "generique": "Ernst Lubitsch, Maria Carmi",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 29092,
-              "duree": 69,
-              "format": "35 mm",
-              "intertitres": "INT. FR."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 187841,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3686,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Lubitsch acteur"
-        }
-      ],
-      "idEvenement": 32266,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-20T20:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 155054,
-          "titre": "Robert et Bertram ou les joyeux vagabonds",
-          "titreVo": "Robert und Bertram oder die lustigen vagabunden",
-          "realisateurs": "Max Mack",
-          "annee": 1915,
-          "duree": 60,
-          "generique": "Ferdinand Bonn",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 29095,
-              "duree": 60,
-              "intertitres": "Autres",
-              "stDemande": true
-            }
-          ]
-        },
-        {
-          "ordre": 2,
-          "idFilm": 155052,
-          "titre": "Doktor Satansohm",
-          "realisateurs": "Edmund Edel",
-          "annee": 1916,
-          "duree": 44,
-          "generique": "Hans Felix",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 29096,
-              "duree": 44,
-              "format": "Numérique",
               "intertitres": "INT. ALL.",
               "stDemande": true
             }
