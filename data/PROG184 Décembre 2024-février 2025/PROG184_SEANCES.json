@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-07T12:42:00.341Z",
+  "updatedAt": "2024-11-07T16:24:56.442Z",
   "data": [
     {
       "idSeance": 185115,
@@ -2976,7 +2976,7 @@
           "titreVo": "Vampyr: Der Traum des Allan Gray",
           "realisateurs": "Carl Theodor Dreyer",
           "annee": 1932,
-          "duree": 77,
+          "duree": 73,
           "generique": "Julian West, Maurice Schutz, Rena Mandel, Sybille Schmitz",
           "adaptation": "D'après le roman _Carmilla_ de Sheridan Le Fanu.",
           "synopsis": "Un vampire terrorise un châtelain et ses deux filles.",
@@ -2984,11 +2984,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28439,
-              "duree": 77,
-              "format": "35 mm",
+              "idCopie": 9862,
+              "duree": 73,
+              "format": "DCP",
               "version": "VO",
-              "langCopie": "GER",
               "sousTitres": "STF"
             }
           ],
@@ -12599,8 +12598,6 @@
       "typeEvenement": 13,
       "dateHeure": "2024-11-28T19:30:00",
       "idSalle": "JE",
-      "idSeanceAssoc": 184938,
-      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -12641,8 +12638,6 @@
       "typeEvenement": 13,
       "dateHeure": "2025-02-06T19:30:00",
       "idSalle": "JE",
-      "idSeanceAssoc": 184939,
-      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -15389,8 +15384,6 @@
       "typeConference": "Conférence",
       "idSalle": "JE",
       "duree": 120,
-      "idSeanceAssoc": 136918,
-      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -15418,8 +15411,6 @@
       "typeConference": "Conférence",
       "idSalle": "JE",
       "duree": 120,
-      "idSeanceAssoc": 138778,
-      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -15704,7 +15695,7 @@
       "idEvenement": 31692,
       "typeEvenement": 13,
       "dateHeure": "2024-11-28T15:00:00",
-      "idSalle": "GF",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -16335,7 +16326,7 @@
             },
             {
               "idCopie": 28861,
-              "duree": 90,
+              "duree": 96,
               "format": "35 mm",
               "version": "VF"
             }
