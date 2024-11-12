@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-08T15:55:30.305Z",
+  "updatedAt": "2024-11-12T09:25:19.230Z",
   "data": [
     {
       "idSeance": 185115,
@@ -4260,7 +4260,7 @@
             {
               "idCopie": 28672,
               "duree": 52,
-              "format": "Numérique",
+              "format": "35 mm",
               "version": "VO",
               "stDemande": true
             }
@@ -5252,6 +5252,15 @@
           "copies": [
             {
               "idCopie": 28753,
+              "duree": 119,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29130,
               "duree": 119,
               "format": "35 mm",
               "version": "VO",
@@ -11866,7 +11875,7 @@
           "idFilmBoxoffice": 213305
         }
       ],
-      "mention": "Accompagnement musical par La Mverte"
+      "mention": "Accompagnement musical par Vega Voga et La Mverte"
     },
     {
       "idSeance": 185104,
