@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-08T08:42:12.559Z",
+  "updatedAt": "2024-11-13T08:57:36.432Z",
   "data": [
     {
       "idSeance": 132987,
@@ -8150,7 +8150,7 @@
           "idFilmBoxoffice": 25203
         }
       ],
-      "mention": "Séance présentée par Élie Chouraqui"
+      "mention": "Séance présentée par Élie Chouraqui et Claude Lelouch"
     },
     {
       "idSeance": 133024,
@@ -8228,7 +8228,7 @@
           "idFilmBoxoffice": 5582
         }
       ],
-      "mention": "Séance présentée par Patrick Chesnais et Vincent Lindon"
+      "mention": "Séance présentée par Patrick Chesnais"
     },
     {
       "idSeance": 133623,
@@ -9232,7 +9232,7 @@
           "idFilmBoxoffice": 1334
         }
       ],
-      "mention": "Séance présentée par Antoine Sire et Souad Amidou"
+      "mention": "Séance présentée par Antoine Sire, Souad Amidou et Claude Lelouch"
     },
     {
       "idSeance": 133890,
@@ -12633,40 +12633,74 @@
       "items": [
         {
           "ordre": 1,
-          "idFilm": 112715,
-          "titre": "Blanche-Neige et Rose-Rouge",
-          "titreVo": "Snow White and Rose Red",
-          "realisateurs": "Lotte Reiniger",
-          "annee": 1953,
-          "status": 0
+          "idFilm": 90141,
+          "titre": "Hérisson dans le brouillard",
+          "art": "Le",
+          "titreVo": "Yozhik v tumane",
+          "titreNx": "Ёжик в тумане",
+          "realisateurs": "Youri Norstein",
+          "annee": 1975,
+          "duree": 10,
+          "ageMinimal": 3,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29146,
+              "duree": 10,
+              "format": "DCP"
+            }
+          ]
         },
         {
           "ordre": 2,
-          "idFilm": 112714,
-          "titre": "Belle au bois dormant",
-          "art": "La",
-          "titreVo": "Sleeping Beauty",
-          "artVo": "The",
-          "realisateurs": "Lotte Reiniger",
-          "annee": 1954,
-          "status": 0
+          "idFilm": 155066,
+          "titre": "Secret du loup",
+          "art": "Le",
+          "realisateurs": "Julia Ocker",
+          "annee": 2016,
+          "duree": 4,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29147,
+              "duree": 4,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
         },
         {
           "ordre": 3,
-          "idFilm": 112716,
-          "titre": "Poucette",
-          "titreVo": "Thumbelina",
-          "realisateurs": "Lotte Reiniger",
-          "annee": 1954,
-          "status": 0
+          "idFilm": 139690,
+          "titre": "Moroshka",
+          "realisateurs": "Polina Minchenok",
+          "annee": 2016,
+          "duree": 8,
+          "ageMinimal": 6,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29148,
+              "duree": 8,
+              "format": "DCP"
+            }
+          ]
         },
         {
           "ordre": 4,
-          "idFilm": 42934,
-          "titre": "Hansel and Gretel",
-          "realisateurs": "Lotte Reiniger",
-          "annee": 1955,
-          "status": 0
+          "idFilm": 155065,
+          "titre": "Un paradis",
+          "realisateurs": "Katalin Egely",
+          "annee": 2017,
+          "duree": 4,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29149,
+              "duree": 4,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },
@@ -12688,40 +12722,74 @@
       "items": [
         {
           "ordre": 1,
-          "idFilm": 112715,
-          "titre": "Blanche-Neige et Rose-Rouge",
-          "titreVo": "Snow White and Rose Red",
-          "realisateurs": "Lotte Reiniger",
-          "annee": 1953,
-          "status": 0
+          "idFilm": 90141,
+          "titre": "Hérisson dans le brouillard",
+          "art": "Le",
+          "titreVo": "Yozhik v tumane",
+          "titreNx": "Ёжик в тумане",
+          "realisateurs": "Youri Norstein",
+          "annee": 1975,
+          "duree": 10,
+          "ageMinimal": 3,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29146,
+              "duree": 10,
+              "format": "DCP"
+            }
+          ]
         },
         {
           "ordre": 2,
-          "idFilm": 112714,
-          "titre": "Belle au bois dormant",
-          "art": "La",
-          "titreVo": "Sleeping Beauty",
-          "artVo": "The",
-          "realisateurs": "Lotte Reiniger",
-          "annee": 1954,
-          "status": 0
+          "idFilm": 155066,
+          "titre": "Secret du loup",
+          "art": "Le",
+          "realisateurs": "Julia Ocker",
+          "annee": 2016,
+          "duree": 4,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29147,
+              "duree": 4,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
         },
         {
           "ordre": 3,
-          "idFilm": 112716,
-          "titre": "Poucette",
-          "titreVo": "Thumbelina",
-          "realisateurs": "Lotte Reiniger",
-          "annee": 1954,
-          "status": 0
+          "idFilm": 139690,
+          "titre": "Moroshka",
+          "realisateurs": "Polina Minchenok",
+          "annee": 2016,
+          "duree": 8,
+          "ageMinimal": 6,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29148,
+              "duree": 8,
+              "format": "DCP"
+            }
+          ]
         },
         {
           "ordre": 4,
-          "idFilm": 42934,
-          "titre": "Hansel and Gretel",
-          "realisateurs": "Lotte Reiniger",
-          "annee": 1955,
-          "status": 0
+          "idFilm": 155065,
+          "titre": "Un paradis",
+          "realisateurs": "Katalin Egely",
+          "annee": 2017,
+          "duree": 4,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29149,
+              "duree": 4,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },

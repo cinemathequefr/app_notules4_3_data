@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-08T13:35:26.920Z",
+  "updatedAt": "2024-11-13T09:02:39.926Z",
   "data": [
     {
       "idSeance": 186075,
@@ -32,7 +32,7 @@
           "copies": [
             {
               "idCopie": 28904,
-              "duree": 91,
+              "duree": 0,
               "format": "35 mm",
               "version": "VF",
               "selected": true
@@ -378,9 +378,28 @@
           "titreVo": "Nosutoradamusu no daiyogen",
           "realisateurs": "Toshio Masuda",
           "annee": 1974,
-          "duree": 76,
+          "duree": 67,
           "status": 0,
           "copies": [
+            {
+              "idCopie": 29142,
+              "duree": 67,
+              "format": "35 mm",
+              "version": "VF",
+              "selected": true
+            },
+            {
+              "idCopie": 29141,
+              "duree": 73,
+              "format": "35 mm",
+              "version": "VF"
+            },
+            {
+              "idCopie": 29143,
+              "duree": 73,
+              "format": "35 mm",
+              "version": "VF"
+            },
             {
               "idCopie": 28996,
               "duree": 76,
@@ -2230,7 +2249,8 @@
               "idCopie": 29049,
               "duree": 93,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 34424
@@ -2403,19 +2423,7 @@
               "duree": 0,
               "format": "DCP",
               "version": "VO",
-              "selected": true
-            },
-            {
-              "idCopie": 29053,
-              "duree": 0,
-              "format": "35 mm",
-              "version": "VO"
-            },
-            {
-              "idCopie": 29054,
-              "duree": 0,
-              "format": "35 mm",
-              "version": "VO"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 31404
@@ -3123,9 +3131,25 @@
           "titre": "Black Swan",
           "realisateurs": "Darren Aronofsky",
           "annee": 2009,
+          "duree": 103,
           "generique": "Natalie Portman, Mila Kunis, Vincent Cassel",
           "synopsis": "Dans la troupe du New York City Ballet. Nina est prête à tout pour obtenir le rôle principal du _Lac des cygnes_ que dirige l'ambigu Thomas. Mais elle se trouve bientôt confrontée à la belle et sensuelle nouvelle recrue, Lily...",
           "status": 0,
+          "copies": [
+            {
+              "idCopie": 973,
+              "duree": 103,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29144,
+              "duree": 108
+            }
+          ],
           "idFilmBoxoffice": 125828
         }
       ]
@@ -3192,7 +3216,10 @@
           "copies": [
             {
               "idCopie": 29035,
-              "duree": 122
+              "duree": 122,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 241747
@@ -3256,9 +3283,25 @@
           "titre": "Pi",
           "realisateurs": "Darren Aronofsky",
           "annee": 1998,
+          "duree": 84,
           "generique": "Sean Gullette, Mark Margolis, Ben Shenkman",
           "synopsis": "Un mathématicien paranoïaque cherche le chiffre clé qui permettrait de percer les mystères de l'existence. Il est alors courtisé par une secte et une firme de Wall Street.",
           "status": 0,
+          "copies": [
+            {
+              "idCopie": 6567,
+              "duree": 84,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29145,
+              "duree": 84
+            }
+          ],
           "idFilmBoxoffice": 13351
         }
       ]
@@ -3323,12 +3366,12 @@
           "art": "The",
           "realisateurs": "Darren Aronofsky",
           "annee": 2008,
-          "duree": 115,
+          "duree": 110,
           "status": 0,
           "copies": [
             {
               "idCopie": 29038,
-              "duree": 115
+              "duree": 110
             }
           ],
           "idFilmBoxoffice": 86254
@@ -3363,7 +3406,10 @@
           "copies": [
             {
               "idCopie": 29033,
-              "duree": 117
+              "duree": 117,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 289056
@@ -3470,6 +3516,7 @@
               "duree": 94,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "sousTitres": "STF",
               "selected": true
             },
