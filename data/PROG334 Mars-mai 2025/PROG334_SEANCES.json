@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2024-11-13T09:02:39.926Z",
+  "updatedAt": "2024-11-14T08:44:09.942Z",
   "data": [
+    {
+      "idSeance": 186410,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 955,
+          "idCategorie": 3652,
+          "titreCycle": "Louis Skorecki",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31787,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-17T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 71650,
+          "titre": "Eugénie de Franval",
+          "realisateurs": "Louis Skorecki",
+          "annee": 1974,
+          "duree": 105,
+          "generique": "Élisabeth Boland, Françoise Grimaldi, Jean-René Huleu",
+          "synopsis": "Réflexion sur les rapports entre image et voix off au cinéma, rythmée par la lecture d'une nouvelle de Sade racontant l'amour incestueux d'un père pour sa fille.",
+          "commentaire": "Le roman sadien a toujours été un obstacle quasiment infranchissable pour le cinéma. Comment transformer en image et en son ce qui, finalement, ne peut se concevoir qu'écrit ? L'œuvre du divin marquis ne touche-t-elle pas aux extrémités mêmes de la littérature ? Plutôt que les adaptations culturellement légitimes, c'est sans doute dans les séries B d'un Jess Franco ou dans l'allégorie politique de Pasolini, _Salò_, que l'on peut entrevoir un passage possible entre deux formes d'expression antagoniques. Mais c'est aussi, et davantage encore, dans _Eugénie de Franval_. Tourné en 1974 par Louis Skorecki, le film est une adaptation réalisée avec la conscience d'une contradiction insoluble. Il restitue minutieusement le texte du roman dit en voix off sur des images en noir et blanc peuplées de silhouettes muettes, évoquant les personnages du récit et évoluant devant la caméra. Ce rapport minutieux au texte (rappelant en cela les recherches du couple de cinéastes Jean-Marie Straub et Danièle Huillet) trahit, certes, un désir de respect absolu de l'œuvre originaire saisie dans sa toute puissante singularité. C'est pourtant au moment où Skorecki lui-même, incarnant Valmont, effectue un geste produisant un véritable événement dans le plan, perturbant le dispositif à la fois distancié et discursif d'une restitution du roman de Sade, que quelque chose du cinéma affirme son autonomie. L'essence du médium, toute entière définie par sa capacité à enregistrer et à figer un évènement unique, prend soudain le dessus. Cinéma et littérature sont, dans _Eugénie de Franval_, deux moyens d'expression portés jusqu'à un très haut degré d'incandescence.\n\nJean-François Rauger",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 17760,
+              "duree": 105,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 26445
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
     {
       "idSeance": 186075,
       "idProg": 334,
@@ -31,25 +72,241 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28904,
-              "duree": 0,
-              "format": "35 mm",
-              "version": "VF",
-              "selected": true
-            },
-            {
-              "idCopie": 29110,
-              "duree": 91,
-              "format": "35 mm",
-              "version": "VF"
-            },
-            {
               "idCopie": 29111,
               "duree": 91,
               "format": "35 mm",
               "version": "VF"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186222,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31865,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-10T20:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37802,
+          "titre": "Fille du désert",
+          "art": "La",
+          "titreVo": "Colorado Territory",
+          "realisateurs": "Raoul Walsh",
+          "annee": 1949,
+          "duree": 94,
+          "generique": "Joel McCrea, Virginia Mayo, Dorothy Malone",
+          "adaptation": "D'après le roman _High Sierra_ et le scénario du film éponyme de W.R. Burnett.  \nD'après le film _High Sierra_ de Raoul Walsh.",
+          "synopsis": "En 1870, dans une Amérique en voie de pacification, le hors-la-loi Wes McQueen parvient à s'évader de prison et à rejoindre ses complices avec qui il projette de braquer un train.",
+          "miniTexte": "Avec _La Fille du désert_, Walsh réalise un remake de son propre film, _La Grande Évasion_, sorti huit ans plus tôt. Il en fait un western cosmique aux accents « noir », qui vaut autant pour ses superbes chevauchées, attaques de train et de diligence, que pour son versant psychologique tourné vers la trahison et la fatalité. Dans le rôle de Wes McQueen, pilleur de chemin de fer, évadé de prison, Joel McCrea porte la classe de son héros. Cavalier hors pair, solitaire et sentimental, il rêve de raccrocher le pistolet en s'offrant les bénéfices d'un dernier exploit. S'ensuit une traque, à laquelle ni lui ni sa compagne de planque, l'ardente Virginia Mayo, ne pourront échapper. Sec, tranchant et désespéré, le récit d'une impossible quête de rédemption, aussi tragique que palpitante.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 25913,
+              "duree": 94,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 34591
+        }
+      ]
+    },
+    {
+      "idSeance": 186221,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31866,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-10T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33193,
+          "titre": "Rivière rouge",
+          "art": "La",
+          "titreVo": "Red River",
+          "realisateurs": "Howard Hawks",
+          "annee": 1946,
+          "duree": 133,
+          "generique": "John Wayne, Montgomery Clift, Joanne Dru",
+          "adaptation": "D'après le roman _The Chisholm Trail_ de Borden Chase.",
+          "synopsis": "Tom Dunson, un pionnier, et son fils adoptif, rescapé d'un massacre, doivent convoyer un important troupeau de bétail le long de la piste Chilshom. Mais le comportement tyrannique de Tom provoque une mutinerie.",
+          "commentaire": "« Prends soin de mon gars Duke et fais un bon film », lui a écrit John Ford. Alors Hawks, s'il a d'abord rêvé de Cary Grant et Gary Cooper, bichonne John Wayne, sa grande silhouette et son visage buriné, et embauche le débutant Montgomery Clift pour lui tenir tête. Si, hors plateau, Monty se heurte au machisme de son partenaire, le duo fonctionne parfaitement devant la caméra. Hawks, lui, s'engage dans son premier western en faisant un pas de côté : ce qui l'intéresse, c'est l'évolution de la relation entre les deux hommes, qui passe de l'admiration à la rivalité haineuse. Avec son style direct et épuré, _La Rivière rouge_ parle d'amour filial, d'Œdipe, d'appât du gain, prend des accents de lutte des classes, dans une nature prégnante, rude, que le cinéaste choisit délibérément de filmer en noir et blanc, en confiant la photo à Russell Harlan. Hawks fait la concession d'une lenteur parfois nécessaire, coupe des scènes amorales pour ménager la censure, mais laisse quand même des dialogues suggestifs – Monty Clift et John Ireland comparant leurs armes à feu. _La Rivière rouge_ a la marque des premières fois réussies, et déjà, contient des sarments de _Rio Bravo_, le Duke, le thème de Dimitri Tiomkin que reprendra Dean Martin, le fidèle et édenté Walter Brennan. Premier western, _first shoot_, et, d'entrée, un sommet du genre.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23166,
+              "duree": 133,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 2730
+        }
+      ]
+    },
+    {
+      "idSeance": 186321,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31868,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-13T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45843,
+          "titre": "Train sifflera trois fois",
+          "art": "Le",
+          "titreVo": "High Noon",
+          "realisateurs": "Fred Zinnemann",
+          "annee": 1951,
+          "duree": 85,
+          "generique": "Gary Cooper, Grace Kelly, Lloyd Bridges",
+          "synopsis": "Alors qu'il s'apprête à démissionner de ses fonctions de shérif pour se marier, Will Kane apprend qu'un bandit, condamné autrefois par ses soins, arrive par le train pour se venger...",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28946,
+              "duree": 85,
+              "format": "35 mm",
+              "version": "VO",
+              "selected": true
+            },
+            {
+              "idCopie": 28959,
+              "duree": 85,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 12292,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 3370
+        }
+      ]
+    },
+    {
+      "idSeance": 186305,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31869,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-12T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34190,
+          "titre": "Ange des maudits",
+          "art": "L'",
+          "titreVo": "Rancho Notorious",
+          "realisateurs": "Fritz Lang",
+          "annee": 1952,
+          "duree": 89,
+          "generique": "Marlene Dietrich, Arthur Kennedy, Mel Ferrer",
+          "adaptation": "D'après le roman _Gunsight Whitman_ de Silvia Richards.",
+          "synopsis": "Un fermier parti à la recherche du bandit qui a tué et violé sa fiancée croit le retrouver dans un ranch tenu par Altar Keane et son amant Fairmont.",
+          "commentaire": "Entre tonnerre de colts et volée de chopes de bières, Marlene Dietrich campe une reine de hors-la-loi fascinante, dans cette histoire de haine et de vengeance. Fritz Lang revisite les codes de l'Ouest pour un western d'une beauté crépusculaire.\n\nCe film de la période américaine de Fritz Lang est aussi une des dernières productions tournées dans le véritable procédé Technicolor tri-film. Le film met particulièrement en valeur les exigences esthétiques de la compagnie Technicolor imposées aux réalisateurs et producteurs.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 13056,
+              "duree": 89,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 29702
+        }
+      ]
+    },
+    {
+      "idSeance": 186322,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31877,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-13T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33202,
+          "titre": "Rio Bravo",
+          "realisateurs": "Howard Hawks",
+          "annee": 1958,
+          "duree": 105,
+          "generique": "John Wayne, Dean Martin, Ricky Nelson, Angie Dickinson, Walter Brennan",
+          "synopsis": "Shérif d'une petite ville, John T. Chance tente de maintenir l'ordre sur son territoire avec ses deux adjoints. L'un, Dude, est alcoolique, et l'autre, Stumpy, un vieillard boiteux. Tous doivent résister à une bande de hors-la-loi qui veulent faire sortir leur chef de prison.",
+          "commentaire": "« Désormais, les Américains regardent abondamment la télévision, où il n'y a que des cow-boys et des chanteurs. Alors j'ai fait un western avec des chanteurs... » Véritable leçon de morale stoïcienne, _Rio Bravo_ aura une influence énorme sur la génération suivante de réalisateurs – à commencer par John Carpenter et _Assaut_, où un certain « John T. Chance » signe d'ailleurs le montage... Tout en tension et humour mêlés, le dernier grand western classique, et l'aboutissement d'un genre.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23112,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 23192,
+              "duree": 140,
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 1274
         }
       ]
     },
@@ -77,10 +334,56 @@
           "titreVo": "Ulzana's Raid",
           "realisateurs": "Robert Aldrich",
           "annee": 1972,
-          "status": 0
+          "status": 0,
+          "idFilmBoxoffice": 6682
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 186306,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31886,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-12T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 118315,
+          "titre": "Django Unchained",
+          "realisateurs": "Quentin Tarantino",
+          "annee": 2012,
+          "duree": 164,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28930,
+              "duree": 164,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 28931,
+              "duree": 164,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 190918
+        }
+      ]
     },
     {
       "idSeance": 186828,
@@ -155,7 +458,46 @@
               "format": "DCP",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 25732
+        }
+      ]
+    },
+    {
+      "idSeance": 186699,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31965,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-27T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 150681,
+          "titre": "French Dispatch",
+          "art": "The",
+          "realisateurs": "Wes Anderson",
+          "annee": 2018,
+          "duree": 107,
+          "generique": "Benicio Del Toro, Adrien Brody, Tilda Swinton",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28964,
+              "duree": 107,
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 269684
         }
       ]
     },
@@ -190,6 +532,63 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 187739,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 525,
+          "idCategorie": 3696,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32006,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-07T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37582,
+          "titre": "West Side Story",
+          "realisateurs": "Robert Wise, Jerome Robbins",
+          "annee": 1960,
+          "duree": 148,
+          "generique": "Natalie Wood, Richard Beymer, George Chakiris",
+          "adaptation": "D'après la comédie musicale _West Side Story_ de Leonard Bernstein, Stephen Sondheim et Arthur Laurents.",
+          "ageMinimal": 10,
+          "synopsis": "Dans le West Side, bas quartier de New York, deux bandes de jeunes s'affrontent, les Sharks de Bernardo et les Jets de Riff. Un ancien membre des Jets, Tony, s'éprend de Maria, la sœur de Bernardo.",
+          "synopsisJP": "À New York, deux gangs rivaux, les Jets et les Sharks, s'affrontent dans des chorégraphies éblouissantes, sur la célèbre partition de Leonard Bernstein, tandis que Tony et Maria tentent de vivre leur amour naissant. Racisme, rivalités ethniques, rêve américain : la version moderne de _Roméo et Juliette_ aux 10 Oscars, devenue culte.",
+          "commentaire": "Après le succès du procédé de prise de vue 65mm Todd-AO, la société Panavision se lance à son tour dans l'aventure de l'écran large de grande qualité. _West Side Story_ est la deuxième production à bénéficier du procédé Panavision 70 qui fut rapidement dénommé Super Panavision afin de le distinguer du 35mm. Procédé pour films monumentaux, difficile à manier, il offre une qualité d'espace scénique visuel et sonore jamais atteinte dans l'histoire du cinéma en termes de définition, de saturation des couleurs et de profondeur de champ.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 16573,
+              "duree": 148,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 11812,
+              "duree": 152,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1073
+        }
+      ]
     },
     {
       "idSeance": 185697,
@@ -282,7 +681,7 @@
       ],
       "idEvenement": 32034,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-18T21:00:00",
+      "dateHeure": "2025-04-18T21:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -328,7 +727,7 @@
       ],
       "idEvenement": 32035,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-18T19:00:00",
+      "dateHeure": "2025-04-18T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -628,7 +1027,7 @@
       ]
     },
     {
-      "idSeance": 185943,
+      "idSeance": 185944,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -640,7 +1039,7 @@
       ],
       "idEvenement": 32046,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-30T14:30:00",
+      "dateHeure": "2025-03-30T17:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1297,7 +1696,7 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 187765,
+      "idSeance": 187884,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1309,7 +1708,7 @@
       ],
       "idEvenement": 32077,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-19T18:00:00",
+      "dateHeure": "2025-03-20T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1349,7 +1748,7 @@
       ],
       "idEvenement": 32079,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-15T16:30:00",
+      "dateHeure": "2025-03-15T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1373,46 +1772,6 @@
             }
           ],
           "idFilmBoxoffice": 36572
-        }
-      ]
-    },
-    {
-      "idSeance": 185886,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32080,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-28T20:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 40718,
-          "titre": "Yeux de la momie",
-          "art": "Les",
-          "titreVo": "Augen der Mumie Ma",
-          "artVo": "Die",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1918,
-          "duree": 58,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 29069,
-              "duree": 58,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 14433
         }
       ]
     },
@@ -1698,7 +2057,7 @@
       ],
       "idEvenement": 32094,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-15T19:00:00",
+      "dateHeure": "2025-03-15T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1967,7 +2326,7 @@
       ],
       "idEvenement": 32104,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-20T16:45:00",
+      "dateHeure": "2025-03-20T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2051,7 +2410,7 @@
       ]
     },
     {
-      "idSeance": 187796,
+      "idSeance": 187885,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2063,7 +2422,7 @@
       ],
       "idEvenement": 32109,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-19T20:00:00",
+      "dateHeure": "2025-03-20T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2214,13 +2573,14 @@
               "format": "DCP",
               "intertitres": "INT. ANG."
             }
-          ]
+          ],
+          "idFilmBoxoffice": 27999
         }
       ],
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 187833,
+      "idSeance": 187886,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2232,8 +2592,9 @@
       ],
       "idEvenement": 32130,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-20T20:00:00",
+      "dateHeure": "2025-03-19T20:00:00",
       "idSalle": "HL",
+      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -2255,7 +2616,8 @@
           ],
           "idFilmBoxoffice": 34424
         }
-      ]
+      ],
+      "mention": "Ouverture de la rétrospective"
     },
     {
       "idSeance": 187842,
@@ -2305,7 +2667,7 @@
       ]
     },
     {
-      "idSeance": 187832,
+      "idSeance": 187889,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2317,7 +2679,7 @@
       ],
       "idEvenement": 32132,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-22T17:30:00",
+      "dateHeure": "2025-03-23T14:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2355,7 +2717,7 @@
       ]
     },
     {
-      "idSeance": 187843,
+      "idSeance": 187892,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2367,7 +2729,7 @@
       ],
       "idEvenement": 32133,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-22T20:00:00",
+      "dateHeure": "2025-03-22T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2393,7 +2755,7 @@
       ]
     },
     {
-      "idSeance": 187850,
+      "idSeance": 187893,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2405,7 +2767,7 @@
       ],
       "idEvenement": 32134,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-23T20:45:00",
+      "dateHeure": "2025-03-22T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2431,7 +2793,7 @@
       ]
     },
     {
-      "idSeance": 187849,
+      "idSeance": 187894,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2443,7 +2805,7 @@
       ],
       "idEvenement": 32135,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-24T18:00:00",
+      "dateHeure": "2025-03-23T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2475,7 +2837,7 @@
       ]
     },
     {
-      "idSeance": 187834,
+      "idSeance": 187895,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2487,7 +2849,7 @@
       ],
       "idEvenement": 32136,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-24T20:00:00",
+      "dateHeure": "2025-03-23T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2512,7 +2874,7 @@
       ]
     },
     {
-      "idSeance": 185808,
+      "idSeance": 187896,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2524,7 +2886,7 @@
       ],
       "idEvenement": 32137,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-26T18:00:00",
+      "dateHeure": "2025-03-24T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2552,7 +2914,7 @@
       ]
     },
     {
-      "idSeance": 187851,
+      "idSeance": 187897,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2564,7 +2926,7 @@
       ],
       "idEvenement": 32138,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-26T20:30:00",
+      "dateHeure": "2025-03-24T20:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2591,7 +2953,7 @@
       ]
     },
     {
-      "idSeance": 187852,
+      "idSeance": 187898,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2603,7 +2965,7 @@
       ],
       "idEvenement": 32139,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-27T18:30:00",
+      "dateHeure": "2025-03-26T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2632,7 +2994,7 @@
       ]
     },
     {
-      "idSeance": 187804,
+      "idSeance": 187899,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2644,7 +3006,43 @@
       ],
       "idEvenement": 32140,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-27T20:45:00",
+      "dateHeure": "2025-03-26T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155042,
+          "titre": "Feast of Love",
+          "realisateurs": "Robert Benton",
+          "annee": 2007,
+          "duree": 97,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29118,
+              "duree": 97,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 140179
+        }
+      ]
+    },
+    {
+      "idSeance": 187879,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 976,
+          "idCategorie": 3677,
+          "titreCycle": "Robert Benton",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32140,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-28T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2941,7 +3339,7 @@
       ]
     },
     {
-      "idSeance": 187837,
+      "idSeance": 187880,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2953,7 +3351,7 @@
       ],
       "idEvenement": 32148,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-23T17:30:00",
+      "dateHeure": "2025-03-20T21:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3071,6 +3469,12 @@
       "idProg": 334,
       "idCycleCategories": [
         {
+          "idCycle": 525,
+          "idCategorie": 3696,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
+        },
+        {
           "idCycle": 970,
           "idCategorie": 3669,
           "titreCycle": "Le western, 25 indispensables",
@@ -3105,12 +3509,13 @@
               "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 5140
         }
       ]
     },
     {
-      "idSeance": 186114,
+      "idSeance": 187883,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -3202,7 +3607,7 @@
       ],
       "idEvenement": 32247,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-05T19:00:00",
+      "dateHeure": "2025-04-05T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3262,7 +3667,7 @@
       ]
     },
     {
-      "idSeance": 186032,
+      "idSeance": 187882,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -3286,7 +3691,7 @@
           "duree": 84,
           "generique": "Sean Gullette, Mark Margolis, Ben Shenkman",
           "synopsis": "Un mathématicien paranoïaque cherche le chiffre clé qui permettrait de percer les mystères de l'existence. Il est alors courtisé par une secte et une firme de Wall Street.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 6567,
@@ -3330,12 +3735,15 @@
           "realisateurs": "Darren Aronofsky",
           "annee": 1999,
           "duree": 102,
-          "adaptation": "D'après le roman _Requiem for a dream_ de Hubert Selby Jr..",
-          "status": 0,
+          "adaptation": "D'après le roman _Requiem for a Dream_ de Hubert Selby Jr..",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29037,
-              "duree": 102
+              "duree": 102,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 26602
@@ -3371,7 +3779,10 @@
           "copies": [
             {
               "idCopie": 29038,
-              "duree": 110
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 86254
@@ -3512,15 +3923,6 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 29089,
-              "duree": 94,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 29090,
               "duree": 94,
               "format": "35 mm",
@@ -3626,6 +4028,350 @@
             }
           ],
           "idFilmBoxoffice": 185016
+        }
+      ]
+    },
+    {
+      "idSeance": 187693,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3695,
+          "titreCycle": "Parlons cinéma... avec Patric Chiha",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32331,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-10T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37935,
+          "titre": "Nuages flottants",
+          "titreVo": "Ukigumo",
+          "realisateurs": "Mikio Naruse",
+          "annee": 1955,
+          "generique": "Hideko Takamine, Masayuki Mori, Mariko Okada",
+          "synopsis": "Durant un voyage en Indochine pendant la Seconde Guerre mondiale, Yukiko fait la rencontre de Kengo, un homme marié. Celui-ci promet de divorcer à leur retour au Japon.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 187696,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3695,
+          "titreCycle": "Parlons cinéma... avec Patric Chiha",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32332,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-24T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155069,
+          "titre": "Mouvement des choses",
+          "art": "Le",
+          "titreVo": "Movimento das Coisas",
+          "artVo": "O",
+          "realisateurs": "Manuela Serra",
+          "annee": 1985,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 187871,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3695,
+          "titreCycle": "Parlons cinéma... avec Patric Chiha",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32333,
+      "typeEvenement": 14,
+      "dateHeure": "2025-04-03T21:00:00",
+      "typeConference": "Dialogue",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 32333,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Patric Chiha",
+          "duree": 60
+        }
+      ]
+    },
+    {
+      "idSeance": 187887,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3695,
+          "titreCycle": "Parlons cinéma... avec Patric Chiha",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32334,
+      "typeEvenement": 14,
+      "dateHeure": "2025-04-10T21:00:00",
+      "typeConference": "Dialogue",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 32334,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Patric Chiha",
+          "duree": 60
+        }
+      ]
+    },
+    {
+      "idSeance": 187888,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3695,
+          "titreCycle": "Parlons cinéma... avec Patric Chiha",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32335,
+      "typeEvenement": 14,
+      "dateHeure": "2025-04-24T20:15:00",
+      "typeConference": "Dialogue",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 32335,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Patric Chiha",
+          "duree": 60
+        }
+      ]
+    },
+    {
+      "idSeance": 187736,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 525,
+          "idCategorie": 3696,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32336,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-27T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50141,
+          "titre": "Doulos",
+          "art": "Le",
+          "realisateurs": "Jean-Pierre Melville",
+          "annee": 1962,
+          "generique": "Jean-Paul Belmondo, Serge Reggiani, Jean Desailly",
+          "adaptation": "D'après le roman _Le Doulos_ de Pierre Lesou.",
+          "synopsis": "Un gangster ne sait pas que son meilleur ami est indicateur de police.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 187868,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 525,
+          "idCategorie": 3114,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32337,
+      "typeEvenement": 14,
+      "dateHeure": "2025-03-27T21:00:00",
+      "typeConference": "Dialogue",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 32337,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Frédéric Bonnaud",
+          "duree": 60
+        }
+      ]
+    },
+    {
+      "idSeance": 187738,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 525,
+          "idCategorie": 3114,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32338,
+      "typeEvenement": 14,
+      "dateHeure": "2025-04-17T21:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 32338,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Frédéric Bonnaud",
+          "duree": 60
+        }
+      ]
+    },
+    {
+      "idSeance": 187870,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 525,
+          "idCategorie": 3114,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32339,
+      "typeEvenement": 14,
+      "dateHeure": "2025-05-07T22:00:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 32339,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Frédéric Bonnaud",
+          "duree": 60
+        }
+      ]
+    },
+    {
+      "idSeance": 187694,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3695,
+          "titreCycle": "Parlons cinéma... avec Patric Chiha",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32341,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-03T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155070,
+          "titre": "Main",
+          "art": "La",
+          "titreVo": "Hand",
+          "artVo": "The",
+          "realisateurs": "Kar-Wai Wong",
+          "annee": 2006,
+          "status": 0
+        },
+        {
+          "ordre": 2,
+          "idFilm": 50874,
+          "titre": "Une partie de campagne",
+          "realisateurs": "Jean Renoir",
+          "annee": 1936,
+          "generique": "Sylvia Bataille, Jane Marken, André Gabriello, Georges Darnoux",
+          "adaptation": "D'après la nouvelle _Une partie de campagne_ de Guy de Maupassant.",
+          "synopsis": "Été 1860, Monsieur Dufour, accompagné de sa famille, décide de passer une journée à la campagne.\n\n---\n\nÉté 1860. Monsieur Dufour, un commerçant parisien, ainsi que son épouse, sa belle-mère, sa jeune fille et son commis et futur gendre, passent une journée à la campagne et déjeunent à l'auberge du père Poulain. Deuxcanotiers en goguette entreprennent de séduirela mère et la fille...",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 187900,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 18,
+          "idCategorie": 1856,
+          "titreCycle": "Conservatoire des techniques cinématographiques",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32342,
+      "typeEvenement": 14,
+      "dateHeure": "2025-04-18T17:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "GF",
+      "duree": 90,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 32342,
+          "idTypeConf": 55,
+          "titre": "Rencontre avec Simon Weisse",
+          "duree": 90
+        }
+      ]
+    },
+    {
+      "idSeance": 187740,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 18,
+          "idCategorie": 1856,
+          "titreCycle": "Conservatoire des techniques cinématographiques",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32343,
+      "typeEvenement": 14,
+      "dateHeure": "2025-05-16T18:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "HL",
+      "duree": 90,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 32343,
+          "idTypeConf": 55,
+          "titre": "Rencontre avec Robert Yeoman",
+          "duree": 90
         }
       ]
     }

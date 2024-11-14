@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-13T08:57:36.432Z",
+  "updatedAt": "2024-11-14T08:33:24.364Z",
   "data": [
     {
       "idSeance": 132987,
@@ -8150,7 +8150,7 @@
           "idFilmBoxoffice": 25203
         }
       ],
-      "mention": "Séance présentée par Élie Chouraqui et Claude Lelouch"
+      "mention": "Séance présentée par Claude Lelouch"
     },
     {
       "idSeance": 133024,
@@ -8466,7 +8466,8 @@
           ],
           "idFilmBoxoffice": 43194
         }
-      ]
+      ],
+      "mention": "Séance présentée par Jean Ollé-Laprune"
     },
     {
       "idSeance": 133102,
@@ -8584,7 +8585,7 @@
           "idFilmBoxoffice": 40405
         }
       ],
-      "mention": "Séance présentée par Arlette Gordon"
+      "mention": "Séance présentée par Arlette Gordon, Élie Chouraqui et Claude Lelouch"
     },
     {
       "idSeance": 133625,
@@ -12656,10 +12657,12 @@
           "idFilm": 155066,
           "titre": "Secret du loup",
           "art": "Le",
+          "titreVo": "Wolf",
           "realisateurs": "Julia Ocker",
           "annee": 2016,
+          "dureeStd": 4,
           "duree": 4,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29147,
@@ -12675,9 +12678,10 @@
           "titre": "Moroshka",
           "realisateurs": "Polina Minchenok",
           "annee": 2016,
+          "dureeStd": 7,
           "duree": 8,
           "ageMinimal": 6,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29148,
@@ -12693,7 +12697,7 @@
           "realisateurs": "Katalin Egely",
           "annee": 2017,
           "duree": 4,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29149,
@@ -12745,10 +12749,12 @@
           "idFilm": 155066,
           "titre": "Secret du loup",
           "art": "Le",
+          "titreVo": "Wolf",
           "realisateurs": "Julia Ocker",
           "annee": 2016,
+          "dureeStd": 4,
           "duree": 4,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29147,
@@ -12764,9 +12770,10 @@
           "titre": "Moroshka",
           "realisateurs": "Polina Minchenok",
           "annee": 2016,
+          "dureeStd": 7,
           "duree": 8,
           "ageMinimal": 6,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29148,
@@ -12782,7 +12789,7 @@
           "realisateurs": "Katalin Egely",
           "annee": 2017,
           "duree": 4,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29149,
@@ -13076,8 +13083,9 @@
           "titre": "Sainte Barbe",
           "realisateurs": "Claude Barras, Cédric Louis",
           "annee": 2007,
+          "dureeStd": 7,
           "duree": 8,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28630,
