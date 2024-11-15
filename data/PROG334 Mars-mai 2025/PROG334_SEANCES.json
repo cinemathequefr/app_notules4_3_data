@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-15T09:10:06.206Z",
+  "updatedAt": "2024-11-15T13:15:37.201Z",
   "data": [
     {
       "idSeance": 186410,
@@ -4212,6 +4212,60 @@
           "idTypeConf": 55,
           "titre": "Rencontre avec Robert Yeoman",
           "duree": 90
+        }
+      ]
+    },
+    {
+      "idSeance": 187911,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 977,
+          "idCategorie": 3706,
+          "titreCycle": "Glauber Rocha",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32380,
+      "typeEvenement": 14,
+      "dateHeure": "2025-03-20T19:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "GF",
+      "duree": 90,
+      "items": [
+        {
+          "idConf": 32380,
+          "titre": "« QUI ÊTES-VOUS GLAUBER ROCHA ? » PAR GABRIELA TRUJILLO",
+          "typeConference": "Conférence",
+          "duree": 90,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 187912,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3708,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32382,
+      "typeEvenement": 14,
+      "dateHeure": "2025-03-22T16:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 32382,
+          "titre": "WES ANDERSON PAR WES ANDERSON",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 1
         }
       ]
     }
