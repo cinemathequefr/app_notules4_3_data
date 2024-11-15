@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-14T08:44:09.942Z",
+  "updatedAt": "2024-11-15T09:10:06.206Z",
   "data": [
     {
       "idSeance": 186410,
@@ -416,8 +416,11 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28958,
-              "duree": 100
+              "idCopie": 29178,
+              "duree": 100,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -1696,46 +1699,6 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 187884,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32077,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-20T18:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 34602,
-          "titre": "Lieutenant souriant",
-          "art": "Le",
-          "titreVo": "Smiling Lieutenant",
-          "artVo": "The",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1931,
-          "duree": 88,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 29080,
-              "duree": 88,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 13877
-        }
-      ]
-    },
-    {
       "idSeance": 187829,
       "idProg": 334,
       "idCycleCategories": [
@@ -2410,50 +2373,6 @@
       ]
     },
     {
-      "idSeance": 187885,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32109,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-20T20:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 34597,
-          "titre": "Une heure près de toi",
-          "titreVo": "One Hour with You",
-          "realisateurs": "Ernst Lubitsch, George Cukor",
-          "annee": 1931,
-          "duree": 76,
-          "adaptation": "D'après la pièce _Nur ein Traum_ de Lothar Schmidt.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 11458,
-              "duree": 76,
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 11457,
-              "duree": 76,
-              "format": "35 mm"
-            }
-          ],
-          "idFilmBoxoffice": 719
-        }
-      ]
-    },
-    {
       "idSeance": 187793,
       "idProg": 334,
       "idCycleCategories": [
@@ -2592,7 +2511,7 @@
       ],
       "idEvenement": 32130,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-19T20:00:00",
+      "dateHeure": "2025-03-20T20:00:00",
       "idSalle": "HL",
       "typeSeance": 44,
       "items": [
@@ -3536,23 +3455,17 @@
           "titre": "Black Swan",
           "realisateurs": "Darren Aronofsky",
           "annee": 2009,
-          "duree": 103,
+          "duree": 108,
           "generique": "Natalie Portman, Mila Kunis, Vincent Cassel",
           "synopsis": "Dans la troupe du New York City Ballet. Nina est prête à tout pour obtenir le rôle principal du _Lac des cygnes_ que dirige l'ambigu Thomas. Mais elle se trouve bientôt confrontée à la belle et sensuelle nouvelle recrue, Lily...",
           "status": 0,
           "copies": [
             {
-              "idCopie": 973,
-              "duree": 103,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 29144,
-              "duree": 108
+              "duree": 108,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 125828
@@ -3659,7 +3572,10 @@
           "copies": [
             {
               "idCopie": 29036,
-              "duree": 138
+              "duree": 138,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 194938
@@ -3891,82 +3807,6 @@
             }
           ],
           "idFilmBoxoffice": 2672
-        }
-      ]
-    },
-    {
-      "idSeance": 185884,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 14,
-          "idCategorie": 3685,
-          "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Paul Morrissey"
-        }
-      ],
-      "idEvenement": 32258,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-28T21:15:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 58692,
-          "titre": "Chair pour Frankenstein",
-          "titreVo": "Carne per Frankenstein",
-          "realisateurs": "Paul Morrissey",
-          "annee": 1973,
-          "duree": 94,
-          "generique": "Joe Dallesandro, Monique Van Vooren, Udo Kier",
-          "synopsis": "Le Baron Frankenstein souhaite créer un couple de créatures pour les faire se reproduire et donner vie à une race parfaite.",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 29090,
-              "duree": 94,
-              "format": "35 mm",
-              "version": "VF"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 185883,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 14,
-          "idCategorie": 3685,
-          "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Paul Morrissey"
-        }
-      ],
-      "idEvenement": 32259,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-28T19:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 59536,
-          "titre": "Du sang pour Dracula",
-          "titreVo": "Dracula cerca sangue di vergine e mori di sete !",
-          "realisateurs": "Paul Morrissey",
-          "annee": 1973,
-          "duree": 100,
-          "generique": "Joe Dallesandro, Udo Kier, Vittorio De Sica",
-          "synopsis": "Le dernier descendant de Dracula est en train de mourir. Pour survivre, il doit boire du sang de jeunes femmes vierges et décide de partir chasser en Italie.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 19093,
-              "duree": 100,
-              "format": "35 mm",
-              "version": "VF"
-            }
-          ]
         }
       ]
     },
