@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2024-11-15T13:15:37.201Z",
+  "updatedAt": "2024-11-18T09:14:01.641Z",
   "data": [
+    {
+      "idSeance": 186263,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31730,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-11T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55579,
+          "titre": "Runaway, l'évadé du futur",
+          "titreVo": "Runaway",
+          "realisateurs": "Michael Crichton",
+          "annee": 1984,
+          "duree": 99,
+          "generique": "Tom Selleck, Cynthia Rhodes, Gene Simmons",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28799,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ],
+          "idFilmBoxoffice": 75582
+        }
+      ]
+    },
     {
       "idSeance": 186410,
       "idProg": 334,
@@ -78,6 +116,174 @@
               "version": "VF"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186264,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31846,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-11T21:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 60442,
+          "titre": "Planète hurlante",
+          "titreVo": "Screamers",
+          "realisateurs": "Christian Duguay",
+          "annee": 1995,
+          "duree": 107,
+          "generique": "Peter Weller, Jennifer Rubin, Roy Dupuis",
+          "adaptation": "D'après la nouvelle _Second variety_ de Philip K. Dick.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27031,
+              "duree": 107,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186260,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31862,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-11T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32352,
+          "titre": "Chevauchée fantastique",
+          "art": "La",
+          "titreVo": "Stagecoach",
+          "realisateurs": "John Ford",
+          "annee": 1938,
+          "duree": 97,
+          "generique": "John Wayne, Andy Devine, John Carradine",
+          "adaptation": "D'après la nouvelle _Stage to Lordsburg_ d'Ernest Haycox. ",
+          "ageMinimal": 10,
+          "synopsis": "À bord d'une diligence traversant l'Arizona, neuf passagers très différents (un joueur professionnel, une femme enceinte, un médecin ivrogne, un banquier escroc) essayent de cohabiter, tout en résistant aux attaques des Peaux-Rouges emmenés par leur chef, Geronimo.\n",
+          "synopsisJP": "À bord d'une diligence traversant l'Arizona, neuf passagers en tous genres (un joueur professionnel, une femme enceinte, un médecin ivrogne, un banquier escroc...) essayent de cohabiter, tout en résistant aux attaques des Peaux-Rouges. Ce film a inspiré l'album de Lucky Luke : _La Diligence_.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 781,
+              "duree": 97,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1834
+        }
+      ]
+    },
+    {
+      "idSeance": 186307,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31863,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-12T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37590,
+          "titre": "Cavalier du désert",
+          "art": "Le",
+          "titreVo": "Westerner",
+          "artVo": "The",
+          "realisateurs": "William Wyler",
+          "annee": 1939,
+          "duree": 98,
+          "generique": "Gary Cooper, Walter Brennan, Doris Davenport",
+          "synopsis": "Cole Hardin est arrêté pour un vol de chevaux qu'il n'a pas commis. Au terme d'un procès expéditif, il est condamné à mort par le juge Roy Bean, mais échappe au moins temporairement à la pendaison.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 13851,
+              "duree": 98,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 25301
+        }
+      ]
+    },
+    {
+      "idSeance": 186261,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31864,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-11T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36898,
+          "titre": "Étrange incident",
+          "art": "L'",
+          "titreVo": "Ox-Bow Incident",
+          "artVo": "The",
+          "realisateurs": "William A. Wellman",
+          "annee": 1943,
+          "duree": 75,
+          "generique": "Henry Fonda, Dana Andrews, Mary Beth Hughes, Anthony Quinn",
+          "synopsis": "En 1885, dans une petite ville du Nevada, l'éleveur Kinkaid a été assassiné par des voleurs de bétail. En l'absence du shérif, et malgré l'opposition du juge, le major Tetley rassemble une milice.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 25604,
+              "duree": 75,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 3947
         }
       ]
     },
@@ -165,6 +371,48 @@
             }
           ],
           "idFilmBoxoffice": 2730
+        }
+      ]
+    },
+    {
+      "idSeance": 186337,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31867,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-14T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 60404,
+          "titre": "Ville abandonnée",
+          "titreVo": "Yellow Sky",
+          "realisateurs": "William A. Wellman",
+          "annee": 1948,
+          "duree": 99,
+          "generique": "Gregory Peck, Richard Widmark, Anne Baxter",
+          "adaptation": "D'après le roman _Yellow Sky_ de W. R. Burnett.",
+          "synopsis": "Une bande de pilleurs de banques traverse un désert pour fuir les représentants de l'ordre.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 4491,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 43428
         }
       ]
     },
@@ -265,6 +513,251 @@
       ]
     },
     {
+      "idSeance": 186450,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31870,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-18T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36639,
+          "titre": "Homme des vallées perdues",
+          "art": "L'",
+          "titreVo": "Shane",
+          "realisateurs": "George Stevens",
+          "annee": 1951,
+          "duree": 118,
+          "generique": "Alan Ladd, Jean Arthur, Van Heflin",
+          "adaptation": "D'après le roman _Shane_ de Jack Schaefer.",
+          "ageMinimal": 8,
+          "synopsis": "Joey voit d'un œil inquiet l'arrivée de Shane, cow-boy solitaire, dans la ferme de ses parents dans une vallée du Wyoming. Shane leur demande l'hospitalité et leur vient en aide face aux attaques d'une bande de hors-la-loi, provoquant immédiatement l'admiration de Joey.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 25534,
+              "duree": 118,
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 2761
+        }
+      ]
+    },
+    {
+      "idSeance": 186451,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31871,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-18T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45270,
+          "titre": "Appât",
+          "art": "L'",
+          "titreVo": "Naked Spur",
+          "artVo": "The",
+          "realisateurs": "Anthony Mann",
+          "annee": 1952,
+          "duree": 91,
+          "generique": "James Stewart, Janet Leigh, Robert Ryan",
+          "miniTexte": "James Stewart ne quitte plus la veste usée du cow-boy fruste et tourmenté, celle d'un chasseur de primes contraint d'accepter l'aide de deux compagnons peu fiables. Avec ses avalanches de rochers, sa grotte qui s'écroule ou son torrent tumultueux, _L'Appât_ est un modèle de maîtrise dans l'utilisation du paysage. Les accidents de relief agissent sur la psychologie des personnages, autant qu'ils exacerbent leurs divergences, au cours d'un périple régi par la rivalité, la manipulation, le cynisme et la cupidité, que seule la blondeur féminine de Janet Leigh parvient à atténuer.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 19549,
+              "duree": 91,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 8086
+        }
+      ]
+    },
+    {
+      "idSeance": 186493,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31872,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-19T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30234,
+          "titre": "Vera Cruz",
+          "realisateurs": "Robert Aldrich",
+          "annee": 1954,
+          "dureeStd": 93,
+          "duree": 93,
+          "generique": "Gary Cooper, Burt Lancaster, Denise Darcel",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 8426,
+              "duree": 93,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 5892
+        }
+      ]
+    },
+    {
+      "idSeance": 186701,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31873,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-27T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37515,
+          "titre": "Homme qui n'a pas d'étoile",
+          "art": "L'",
+          "titreVo": "Man Without a Star",
+          "realisateurs": "King Vidor",
+          "annee": 1954,
+          "generique": "Kirk Douglas, Jeanne Crain, Claire Trevor",
+          "adaptation": "D'après le roman _L'Homme qui n'a pas d'étoile_ de Dee Linford.",
+          "synopsis": "Dans une petite ville de l'Ouest, Demsey Rae est engagé dans le ranch appartenant à la séduisante Reed Bowman.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 20050,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 36143
+        }
+      ]
+    },
+    {
+      "idSeance": 186494,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31875,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-19T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31564,
+          "titre": "3h10 pour Yuma",
+          "titreVo": "3:10 to Yuma",
+          "realisateurs": "Delmer Daves",
+          "annee": 1957,
+          "duree": 92,
+          "generique": "Glenn Ford, Van Heflin, Felicia Farr",
+          "synopsis": "En échange d'une forte prime, un éleveur ruiné est mandaté pour convoyer un dangereux hors-la-loi jusqu'à la gare, où ils prendront le train jusqu'à Yuma et son pénitencier.",
+          "commentaire": "Souvent comparé à _Le Train sifflera trois fois_ (_High Noon_, Fred Zinnemann, 1951), _3h10 pour Yuma_ repose sur des ressorts dramatiques et psychologiques bien différents. Là où Zinnemann exposait un drame de la solitude, Daves édifie une violente confrontation psychologique, et parfois physique, entre deux tempéraments que tout oppose : Ben Wade (Glenn Ford), hors-la-loi pilleur de trains, séducteur pervers et corrupteur machiavélique, et Dan Evans (Van Heflin), fermier ruiné, au caractère buté et mutique, méprisé par sa famille, chargé, par nécessité économique, de convoyer Wade jusqu'au train qui le conduira en prison. Sur ce canevas, Daves élabore une magnifique progression dramatique, des plaines arides de l'Arizona au huis clos d'une chambre d'hôtel où se concentre leur affrontement. La force de la mise en scène est de conduire le spectateur à éprouver une égale sympathie pour les deux hommes, et par de subtiles variations, de les amener l'un et l'autre sur une voie où ils ne peuvent plus que s'entre-détruire ou pactiser. Mais leurs enjeux personnels ne sont pas égaux : pour Wade le prisonnier, il s'agit de reconquérir sa liberté, alors qu'Evans le _loser_ doit racheter sa dignité bafouée. Entretenant le suspense au prix d'un long plan-séquence qui conduit les deux hommes jusqu'au train, Daves, _deus ex machina_ humaniste et bienveillant, fait pleuvoir sur ses héros une eau quasi baptismale qui laisse espérer, pour l'un et l'autre, un heureux dénouement.\n\nJoël Daire",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29101,
+              "duree": 92,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 6007
+        }
+      ]
+    },
+    {
+      "idSeance": 186511,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31876,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-20T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32268,
+          "titre": "Quarante tueurs",
+          "titreVo": "Forty Guns",
+          "realisateurs": "Samuel Fuller",
+          "annee": 1957,
+          "duree": 76,
+          "generique": "Barbara Stanwyck, Barry Sullivan, Dean Jagger, John Ericson, Robert Dix",
+          "synopsis": "Jessica Drummond règne sur Tombstone, assistée de ses quarante hommes de main. Le jour où son frère tue celui du nouveau shérif signe le début d'une bataille sanglante.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 12852,
+              "duree": 76,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 37433
+        }
+      ]
+    },
+    {
       "idSeance": 186322,
       "idProg": 334,
       "idCycleCategories": [
@@ -311,6 +804,280 @@
       ]
     },
     {
+      "idSeance": 186512,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31878,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-20T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37251,
+          "titre": "Trésor du pendu",
+          "art": "Le",
+          "titreVo": "Law and Jake Wade",
+          "artVo": "The",
+          "realisateurs": "John Sturges",
+          "annee": 1957,
+          "duree": 86,
+          "generique": "Robert Taylor, Richard Widmark, Patricia Owens",
+          "adaptation": "D'après le roman _The Law and Jake Wade_ de Marvin H. Albert.",
+          "synopsis": "Ancien hors-la-loi devenu shérif d'une petite ville américaine, Jake Wade sauve de la potence un ancien complice, Clint Hollister. Mais Jake n'en a pas fini pour autant avec son passé.",
+          "commentaire": "En pleine gloire après le succès de _Fort Bravo_ (1953) et _Règlement de comptes à O.K. Corral_ (1957), John Sturges transpose sur grand écran le roman de Marvin H. Albert, _The Law and Jake Wade_ – renommé _Le Trésor du pendu_ – en 1958. Quelques mois avant son ambitieuse adaptation du _Vieil Homme et la mer_ d'Ernest Hemingway, il filme un combat psychologique au sommet entre Robert Taylor et Richard Widmark, souligné par la superbe photographie de Robert Surtees. En abordant le western par une veine plus intime, plus proche de ses personnages, le cinéaste rend compte de la complexité des sentiments et de l'inévitable confrontation à son passé. Sans éluder plusieurs passages obligés du genre – l'attaque nocturne des Comanches, le duel final au pistolet –, il se recentre autour d'un scénario qui mêle sens du suspense et relation équivoque, où brille le magnétique Richard Widmark. Dans les paysages somptueux de la Sierra Nevada, _Le Trésor du pendu_ s'éloigne peu à peu des sentiers balisés pour incarner le poids de la fatalité et du destin, de l'amitié fraternelle devenue haine viscérale.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 22556,
+              "duree": 86
+            }
+          ],
+          "idFilmBoxoffice": 39145
+        }
+      ]
+    },
+    {
+      "idSeance": 186338,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31879,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-14T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 56740,
+          "titre": "Chevauchée de la vengeance",
+          "art": "La",
+          "titreVo": "Ride Lonesome",
+          "realisateurs": "Budd Boetticher",
+          "annee": 1959,
+          "duree": 73,
+          "generique": "Randolph Scott, Karen Steele, Lee Van Cleef, James Coburn",
+          "synopsis": "Le chasseur de primes Ben Brigade arrête un hors-la-loi pour le faire pendre à Santa Cruz. Il est poursuivi par des Mescaleros, et par le frère de son prisonnier, qu'il recherche lui-même pour se venger parce qu'il a tué sa femme. ",
+          "commentaire": "C'est l'un des joyaux des hollywoodophiles et des cinéastes cinéphiles (Tarantino, notamment), un de ces titres comme un nom de code qu'un spectateur averti échange avec son semblable pour le reconnaître ou le désavouer sur le champ. C'est un western de plein air, une intrigue ramenée à une poignée de personnages (mais chacun à plusieurs facettes), un rythme entre péripéties et écoulement du temps (le film dure à peine 1h 15, l'un de ses plans-séquences près de 3 minutes). C'est l'émotion, le temps d'une scène, d'une confession en acte, celle d'un homme condamné à la solitude qui veille un cheval blessé pour que l'animal retrouve l'envie de vivre au contact d'une présence. C'est en même temps un art des silhouettes, des contre-jours et de la nuit (américaine), une préférence pour le plan large au détriment des gros plans et une science des cadrages qui font soudain du CinemaScope le plus beau format du monde. C'est en somme une mise en scène qui témoigne calmement mais sans cesse d'un cinéaste en état de grâce, ainsi ce dernier plan tellement vanté, un mouvement ascendant à la grue qui rime avec le tout premier après le générique d'ouverture, un panoramique descendant. Et au milieu, tel un tronc d'arbre, l'acteur Randolph Scott, vêtu d'une tenue qui épouse la couleur de l'espace, celle de décors de pierre, arides, stériles, autant de figurations de son paysage mental dévasté, calciné. _Ride Lonesome_ est bien le mètre étalon d'une perception et d'un goût, presque un partage des eaux.\n\nBernard Benoliel",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28941,
+              "duree": 73,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 3061
+        }
+      ]
+    },
+    {
+      "idSeance": 186323,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31880,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-13T19:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37254,
+          "titre": "Sept mercenaires",
+          "art": "Les",
+          "titreVo": "Magnificent Seven",
+          "artVo": "The",
+          "realisateurs": "John Sturges",
+          "annee": 1960,
+          "duree": 128,
+          "adaptation": "D'après le scénario du film _Les Sept samouraï_ d'Akira Kurosawa.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29099,
+              "duree": 128,
+              "format": "35 mm",
+              "version": "VF",
+              "selected": true
+            },
+            {
+              "idCopie": 29100,
+              "duree": 128,
+              "format": "35 mm",
+              "version": "VF"
+            },
+            {
+              "idCopie": 28932,
+              "duree": 128,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 837
+        }
+      ]
+    },
+    {
+      "idSeance": 187955,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31881,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-25T19:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35773,
+          "titre": "Horde sauvage",
+          "art": "La",
+          "titreVo": "Wild Bunch",
+          "artVo": "The",
+          "realisateurs": "Sam Peckinpah",
+          "annee": 1968,
+          "duree": 140,
+          "generique": "William Holden, Ernest Borgnine, Robert Ryan, Edmond O'Brien, Warren Oates",
+          "synopsis": "Au sud du Texas, une bande de hors la loi se prépare à commettre un hold-up et tombe finalement dans une embuscade. Elle est traquée jusqu'au Mexique par des chasseurs de primes.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 7478,
+              "duree": 140,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 28943,
+              "duree": 140,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1276
+        }
+      ]
+    },
+    {
+      "idSeance": 187956,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31882,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-26T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42779,
+          "titre": "Il était une fois dans l'Ouest",
+          "titreVo": "C'era una volta il West",
+          "realisateurs": "Sergio Leone",
+          "annee": 1968,
+          "duree": 164,
+          "generique": "Henry Fonda, Claudia Cardinale, Charles Bronson, Jason Robards",
+          "synopsis": "En pleine révolution industrielle, le chemin de fer se développe dans le Grand Ouest. Sur un quai de gare désert, trois hommes armés attendent un voyageur, un énigmatique joueur d'harmonica.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28944,
+              "duree": 164,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 23979,
+              "duree": 164,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 2021
+        }
+      ]
+    },
+    {
+      "idSeance": 186599,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31883,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-24T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31934,
+          "titre": "Deux hommes dans l'Ouest",
+          "titreVo": "Wild Rovers",
+          "realisateurs": "Blake Edwards",
+          "annee": 1970,
+          "duree": 133,
+          "generique": "William Holden, Ryan O'Neal, Karl Malden",
+          "synopsis": "En 1880, dans l'Ouest américain, deux cow-boys se rencontrent. Tous deux portés par le même désir de changer de vie, ils décident d'organiser ensemble le braquage d'une banque.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 7681,
+              "duree": 133,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 5439
+        }
+      ]
+    },
+    {
       "idSeance": 186184,
       "idProg": 334,
       "idCycleCategories": [
@@ -339,6 +1106,47 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 186600,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31885,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-24T20:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31142,
+          "titre": "Impitoyable",
+          "titreVo": "Unforgiven",
+          "realisateurs": "Clint Eastwood",
+          "annee": 1992,
+          "dureeStd": 130,
+          "duree": 130,
+          "generique": "Clint Eastwood, Gene Hackman, Morgan Freeman",
+          "synopsis": "Au Kansas, en 1880, William Munny s'est retiré pour fonder une famille après une carrière de tueur remplie. Mais il ne peut refuser la proposition d'une prime pour venger une prostituée défigurée.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 14594,
+              "duree": 130,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 7663
+        }
+      ]
     },
     {
       "idSeance": 186306,
@@ -386,6 +1194,319 @@
       ]
     },
     {
+      "idSeance": 187064,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31929,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-10T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 56101,
+          "titre": "Du sang dans la montagne",
+          "titreVo": "Un fiume di dollari",
+          "realisateurs": "Lee W. Beaver",
+          "annee": 1966,
+          "duree": 89,
+          "generique": "Thomas Hunter, Henry Silva, Dan Duryea",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29098,
+              "duree": 89,
+              "format": "Numérique",
+              "version": "VO",
+              "langCopie": "ITA"
+            },
+            {
+              "idCopie": 28963,
+              "duree": 89,
+              "format": "DCP",
+              "selected": true
+            }
+          ],
+          "idFilmBoxoffice": 173183
+        }
+      ]
+    },
+    {
+      "idSeance": 186876,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31930,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-03T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45918,
+          "titre": "Achtung banditi !",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1951,
+          "duree": 98,
+          "generique": "Gina Lollobrigida, Andrea Checchi, Vittorio Duse",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28951,
+              "duree": 98,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 115710
+        }
+      ]
+    },
+    {
+      "idSeance": 187083,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31931,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-11T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 63707,
+          "titre": "Maîtresse de Gramigna",
+          "art": "La",
+          "titreVo": "Amante di Gramigna",
+          "artVo": "L'",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1968,
+          "duree": 108,
+          "generique": "Gian Maria Volonté, Stefania Sandrelli, Ivo Garrani",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28967,
+              "duree": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187065,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31932,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-10T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 58501,
+          "titre": "Bandits à Milan",
+          "titreVo": "Banditi a Milano",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1967,
+          "duree": 99,
+          "generique": "Gian Maria Volonté",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29022,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 28966,
+              "duree": 99,
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187084,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31933,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-11T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 103493,
+          "titre": "Barbagia",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1969,
+          "duree": 97,
+          "generique": "Terence Hill, Don Backy, Frank Wolff",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28968,
+              "duree": 97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186905,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31934,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-05T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43383,
+          "titre": "Bossu de Rome",
+          "art": "Le",
+          "titreVo": "Gobbo",
+          "artVo": "Il",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1960,
+          "duree": 103,
+          "generique": "Gérard Blain, Anna Maria Ferrero, Bernard Blier",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28955,
+              "duree": 103,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 33512
+        }
+      ]
+    },
+    {
+      "idSeance": 186942,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31935,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-07T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80359,
+          "titre": "Carabinier à cheval",
+          "art": "Le",
+          "titreVo": "Carabiniere a cavallo",
+          "artVo": "Il",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1961,
+          "duree": 81,
+          "generique": "Nino Manfredi, Annette Stroyberg, Peppino De Filippo",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28956,
+              "duree": 81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186894,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31941,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-04T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43282,
+          "titre": "Chronique des pauvres amants",
+          "art": "La",
+          "titreVo": "Cronache di poveri amanti",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1953,
+          "duree": 117,
+          "generique": "Anna Maria Ferrero, Cosetta Greco, Antonella Lualdi, Marcello Mastroianni",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28953,
+              "duree": 117,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 193356
+        }
+      ]
+    },
+    {
       "idSeance": 186828,
       "idProg": 334,
       "idCycleCategories": [
@@ -428,6 +1549,153 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 187094,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31945,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-12T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 73202,
+          "titre": "Vengeance du Sicilien",
+          "art": "La",
+          "titreVo": "Torino nera",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1972,
+          "duree": 105,
+          "generique": "Bud Spencer, Andrea Balestri, Domenico Santoro, Nicola Di Bari",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28970,
+              "duree": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187922,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31946,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-03T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59002,
+          "titre": "Dans les faubourgs de la ville",
+          "titreVo": "Ai margini della metropoli",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1952,
+          "duree": 92,
+          "generique": "Massimo Girotti, Giulietta Masina, Marina Berti",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28952,
+              "duree": 92,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186943,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31947,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-07T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43359,
+          "titre": "Traqués par la Gestapo",
+          "titreVo": "Oro di Roma",
+          "artVo": "L'",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1961,
+          "duree": 110,
+          "generique": "Gérard Blain, Anna Maria Ferrero, Jean Sorel",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28957,
+              "duree": 110,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186904,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31948,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-05T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 58872,
+          "titre": "Esterina",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1959,
+          "duree": 95,
+          "generique": "Carla Gravina, Geoffrey Horne, Domenico Modugno",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28954,
+              "duree": 95,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 186874,
       "idProg": 334,
       "idCycleCategories": [
@@ -463,6 +1731,203 @@
             }
           ],
           "idFilmBoxoffice": 25732
+        }
+      ]
+    },
+    {
+      "idSeance": 187092,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31950,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-12T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 74867,
+          "titre": "Scandale à Rome",
+          "titreVo": "Roma bene",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1971,
+          "duree": 99,
+          "generique": "Nino Manfredi, Senta Berger, Virna Lisi",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28969,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186974,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31953,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-08T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43401,
+          "titre": "Procès de Vérone",
+          "art": "Le",
+          "titreVo": "Processo di Verona",
+          "artVo": "Il",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1962,
+          "duree": 118,
+          "generique": "Silvana Mangano, Françoise Prévost",
+          "synopsis": "Rome, été 1943. La destitution de Mussolini est votée mais celui-ci est rapidement libéré. Il fait arrêter ses opposants, dont son propre gendre et son épouse. Leur procès se déroule à Vérone.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 6004,
+              "duree": 118,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 39508
+        }
+      ]
+    },
+    {
+      "idSeance": 187063,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31954,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-10T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 71265,
+          "titre": "Lutring... réveille-toi et meurs",
+          "titreVo": "Svegliati e uccidi",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1966,
+          "duree": 123,
+          "generique": "Robert Hoffmann, Lisa Gastoni, Gian Maria Volonté",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28961,
+              "duree": 123,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ITA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187950,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31957,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-08T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80780,
+          "titre": "Derniers Jours de Mussolini",
+          "art": "Les",
+          "titreVo": "Mussolini, ultimo atto",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1974,
+          "duree": 126,
+          "generique": "Rod Steiger, Franco Nero, Lisa Gastoni, Henry Fonda",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28973,
+              "duree": 126
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185754,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31960,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-23T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 110552,
+          "titre": "Fantastic Mr. Fox",
+          "realisateurs": "Wes Anderson",
+          "annee": 2007,
+          "duree": 88,
+          "generique": "George Clooney, Meryl Streep, Bill Murray",
+          "adaptation": "D'après le roman _Fantastique Maître Renard_ de Roald Dahl.",
+          "ageMinimal": 6,
+          "synopsisJP": "Un renard voleur de poules doit affronter trois redoutables fermiers. D'après Roald Dahl, un film d'aventures aux couleurs automnales, aux accents écologiques, en animation image par image de marionnettes, et qui aborde en douceur les thèmes de la famille et de la transmission chers à Wes Anderson.",
+          "commentaire": "_Fantastic Mr. Fox_ de Roald Dahl est le premier roman que Wes Anderson a lu dans son enfance. Lorsque Revolution Studios en acquiert les droits en 2004, Anderson est tout de suite associé au projet, d'abord avec Henry Selick (qui a déjà travaillé avec lui comme directeur de l'animation sur _La Vie aquatique_), puis avec Mark Gustafson et Noah Baumbach, ce dernier cosignant le scénario avec le réalisateur. Anderson commence par s'installer pendant plusieurs semaines dans la propriété anglaise où Dahl a écrit la plupart de ses romans, et s'inspire largement de cet environnement rural pour mettre au point la direction artistique du film. Sorti fin 2009 aux États-Unis, _Fantastic Mr. Fox_ est en partie éclipsé par le triomphe de la production Pixar _Là-haut_. Formellement, les deux films sont aussi éloignés que possible : Anderson refuse l'esthétique numérique pour privilégier l'animation image par image de marionnettes fabriquées et animées à la main (armatures en acier, fourrure et vêtements), évoluant dans cent cinquante décors entièrement manufacturés, dans une gamme chromatique très douce (magnifiques couleurs automnales). La surprise initiale de voir Wes Anderson s'aventurer sur le terrain du cinéma d'animation est vite occultée par une reconnaissance immédiate de son style visuel : élégance et précision de la composition des cadres, frontalité des plans balayés par des travellings latéraux, douceur de ton mêlée de brutales accélérations de rythme. Si _Fantastic Mr. Fox_ met en scène des renards, blaireaux et autres opossums, son grand sujet est aussi celui des films de fiction en prises de vue réelles du cinéaste (_La Famille Tenenbaum_, _La Vie aquatique_, _À bord du Darjeeling Limited_...) : la famille, les questions de filiation, de transmission, d'affranchissement du cadre ou de l'héritage familial. Le tout enveloppé dans un film d'aventures enlevé, porteur d'un message écologique et humaniste. Il en résulte un équilibre subtil entre fantaisie visuelle et réalisme des sentiments, entre péripéties trépidantes et drame existentiel poignant.\n\nCaroline Maleville",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 7527,
+              "duree": 88,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 114976
         }
       ]
     },
@@ -505,6 +1970,359 @@
       ]
     },
     {
+      "idSeance": 186890,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31972,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-04T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80546,
+          "titre": "Criminal Court",
+          "realisateurs": "Robert Wise",
+          "annee": 1946,
+          "generique": "Tom Conway, Martha O'Driscoll, June Clayworth",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29150,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186871,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31977,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-03T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37482,
+          "titre": "Jour où la terre s'arrêta",
+          "art": "Le",
+          "titreVo": "Day the Earth Stood Still",
+          "artVo": "The",
+          "realisateurs": "Robert Wise",
+          "annee": 1951,
+          "duree": 92,
+          "generique": "Michael Rennie, Patricia Neal, Hugh Marlowe, Sam Jaffe",
+          "adaptation": "D'après la nouvelle _Farewell to the Master_ de Harry Bates.",
+          "ageMinimal": 10,
+          "synopsis": "Une soucoupe volante atterrit à Washington. En dépit du scepticisme général, l'extraterrestre qui en était passager se révèle porteur d'un message de paix pour l'humanité.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 13303,
+              "duree": 92,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29152,
+              "duree": 92,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 3463
+        }
+      ]
+    },
+    {
+      "idSeance": 187017,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31978,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-09T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46152,
+          "titre": "Ciel rouge",
+          "titreVo": "Blood on the Moon",
+          "realisateurs": "Robert Wise",
+          "annee": 1948,
+          "generique": "Robert Mitchum, Barbara Bel Geddes, Robert Preston",
+          "adaptation": "D'après le roman _Gunman's Chance_ de Luke Short.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29151,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 1091
+        }
+      ]
+    },
+    {
+      "idSeance": 186872,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31979,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-03T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37528,
+          "titre": "Canonnière du Yang-Tsé",
+          "art": "La",
+          "titreVo": "Sand Pebbles",
+          "artVo": "The",
+          "realisateurs": "Robert Wise",
+          "annee": 1966,
+          "duree": 155,
+          "generique": "Steve McQueen, Richard Attenborough, Candice Bergen",
+          "adaptation": "D'après le roman _The Sand Pebbles_ de Richard McKenna.",
+          "synopsis": "En 1926, Jack Holeman est affecté sur un navire de guerre américain qui patrouille sur le fleuve Yang-Tsé. Il s'éprend de la jeune collaboratrice d'un missionnaire, tandis que la Chine sombre dans la guerre civile.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 3789,
+              "duree": 155,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 3775,
+              "duree": 184,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 11793,
+              "duree": 155,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 3926
+        }
+      ]
+    },
+    {
+      "idSeance": 187078,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31981,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-11T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37480,
+          "titre": "Captive City",
+          "art": "The",
+          "realisateurs": "Robert Wise",
+          "annee": 1952,
+          "generique": "John Forsythe, Joan Camden, Harold J. Kennedy",
+          "status": 1,
+          "idFilmBoxoffice": 92923
+        }
+      ]
+    },
+    {
+      "idSeance": 187062,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31982,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-10T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37549,
+          "titre": "Maison sur la colline",
+          "art": "La",
+          "titreVo": "House on Telegraph Hill",
+          "artVo": "The",
+          "realisateurs": "Robert Wise",
+          "annee": 1950,
+          "duree": 92,
+          "generique": "Richard Basehart, Valentina Cortese, William Lundigan",
+          "adaptation": "D'après le roman _The Frightened Child_ de Dana Lyon.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29162,
+              "duree": 92,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 20075
+        }
+      ]
+    },
+    {
+      "idSeance": 186870,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31985,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-03T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37560,
+          "titre": "Mélodie du bonheur",
+          "art": "La",
+          "titreVo": "Sound of Music",
+          "artVo": "The",
+          "realisateurs": "Robert Wise",
+          "annee": 1964,
+          "duree": 174,
+          "generique": "Julie Andrews, Christopher Plummer, Eleanor Parker",
+          "adaptation": "D'après le roman _The Trapp family_ de Maria von Trapp.",
+          "synopsis": "En Autriche, peu de temps avant le déclenchement de la Seconde Guerre mondiale. Maria, une jeune femme pleine d'esprit, quitte le couvent pour devenir la gouvernante des sept enfants du Capitaine Von Trapp. Ce veuf autoritaire dirige la maison d'une main de fer et, dès son arrivée, Maria se heurte à l'hostilité des enfants.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 13314,
+              "duree": 174,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 4511,
+              "duree": 174,
+              "format": "70 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            },
+            {
+              "idCopie": 16572,
+              "duree": 174,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 238
+        }
+      ]
+    },
+    {
+      "idSeance": 186978,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31990,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-08T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46102,
+          "titre": "Né pour tuer",
+          "titreVo": "Born to Kill",
+          "realisateurs": "Robert Wise",
+          "annee": 1946,
+          "duree": 92,
+          "adaptation": "D'après le roman _Deadlier Than the Male_ de James Gunn.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29157,
+              "duree": 92,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 1060
+        }
+      ]
+    },
+    {
       "idSeance": 186751,
       "idProg": 334,
       "idCycleCategories": [
@@ -535,6 +2353,235 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 186889,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31994,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-04T16:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59493,
+          "titre": "Mademoiselle Fifi",
+          "realisateurs": "Robert Wise",
+          "annee": 1944,
+          "duree": 69,
+          "generique": "Simone Simon, John Emery, Kurt Kreuger",
+          "adaptation": "D'après les nouvelles _Boule de Suif_ et _Mademoiselle Fifi_ de Guy de Maupassant.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29163,
+              "duree": 69,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 59778
+        }
+      ]
+    },
+    {
+      "idSeance": 187080,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31995,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-11T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46153,
+          "titre": "Rats du désert",
+          "art": "Les",
+          "titreVo": "Desert Rats",
+          "artVo": "The",
+          "realisateurs": "Robert Wise",
+          "annee": 1953,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29153,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 48645
+        }
+      ]
+    },
+    {
+      "idSeance": 187061,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31996,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-10T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 79960,
+          "titre": "Rebelles de Fort Thorn",
+          "art": "Les",
+          "titreVo": "Two Flags West",
+          "realisateurs": "Robert Wise",
+          "annee": 1950,
+          "status": 0,
+          "idFilmBoxoffice": 108891
+        }
+      ]
+    },
+    {
+      "idSeance": 186831,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31997,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-02T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 60806,
+          "titre": "Récupérateur de cadavres",
+          "titreVo": "Body Snatcher",
+          "artVo": "The",
+          "realisateurs": "Robert Wise",
+          "annee": 1945,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29156,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 18709
+        }
+      ]
+    },
+    {
+      "idSeance": 187018,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31999,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-09T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37349,
+          "titre": "Secrets de femme",
+          "titreVo": "Three Secrets",
+          "realisateurs": "Robert Wise",
+          "annee": 1950,
+          "status": 0,
+          "idFilmBoxoffice": 108894
+        }
+      ]
+    },
+    {
+      "idSeance": 187079,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32000,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-11T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80452,
+          "titre": "Something for the Birds",
+          "realisateurs": "Robert Wise",
+          "annee": 1952,
+          "status": 0,
+          "idFilmBoxoffice": 108889
+        }
+      ]
+    },
+    {
+      "idSeance": 186977,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32004,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-08T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80544,
+          "titre": "Un jeu de mort",
+          "titreVo": "A Game of Death",
+          "realisateurs": "Robert Wise",
+          "annee": 1946,
+          "adaptation": "D'après le roman _The Most Dangerous Game_ de Richard Connell.",
+          "status": 0,
+          "idFilmBoxoffice": 32689
+        }
+      ]
     },
     {
       "idSeance": 187739,
@@ -590,6 +2637,85 @@
             }
           ],
           "idFilmBoxoffice": 1073
+        }
+      ]
+    },
+    {
+      "idSeance": 186895,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32007,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-04T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155033,
+          "titre": "Dingo",
+          "art": "Le",
+          "titreVo": "svitato",
+          "artVo": "Lo",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1956,
+          "duree": 110,
+          "generique": "Dario Fo, Franca Rame, Giorgia Moll",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29116,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 28986,
+              "duree": 84,
+              "format": "Numérique",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 16926
+        }
+      ]
+    },
+    {
+      "idSeance": 186830,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32009,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-02T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46127,
+          "titre": "Malédiction des hommes chats",
+          "art": "La",
+          "titreVo": "Curse of the Cat People",
+          "realisateurs": "Gunther V. Fritsch, Robert Wise",
+          "annee": 1943,
+          "generique": "Simone Simon, Kent Smith, Jane Randolph",
+          "status": 1,
+          "idFilmBoxoffice": 11121
         }
       ]
     },
@@ -700,18 +2826,18 @@
           "status": 0,
           "copies": [
             {
+              "idCopie": 2693,
+              "duree": 119,
+              "format": "35 mm",
+              "langCopie": "FRE",
+              "selected": true
+            },
+            {
               "idCopie": 29109,
               "duree": 119,
               "format": "35 mm",
               "langCopie": "FRE",
-              "sousTitres": "Autres",
-              "selected": true
-            },
-            {
-              "idCopie": 2693,
-              "duree": 119,
-              "format": "35 mm",
-              "langCopie": "FRE"
+              "sousTitres": "Autres"
             }
           ]
         }
@@ -865,7 +2991,48 @@
       ],
       "idEvenement": 32039,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-21T20:00:00",
+      "dateHeure": "2025-03-21T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33907,
+          "titre": "Ciel peut attendre",
+          "art": "Le",
+          "titreVo": "Heaven Can Wait",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1943,
+          "duree": 112,
+          "generique": "Gene Tierney, Don Ameche, Charles Coburn",
+          "adaptation": "D'après la pièce _Szuletesnap_ de Lazlo Bus-Fekete.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29085,
+              "duree": 112,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 392
+        }
+      ]
+    },
+    {
+      "idSeance": 186372,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32039,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-16T16:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1082,7 +3249,7 @@
       ],
       "idEvenement": 32047,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-28T18:00:00",
+      "dateHeure": "2025-03-28T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1150,7 +3317,7 @@
       ],
       "idEvenement": 32048,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-02T21:30:00",
+      "dateHeure": "2025-04-02T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1305,7 +3472,7 @@
       ],
       "idEvenement": 32053,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-02T19:30:00",
+      "dateHeure": "2025-04-02T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1389,7 +3556,64 @@
       ]
     },
     {
-      "idSeance": 186138,
+      "idSeance": 186071,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32055,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-04T15:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33719,
+          "titre": "Folle ingénue",
+          "art": "La",
+          "titreVo": "Cluny Brown",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1945,
+          "duree": 99,
+          "generique": "Jennifer Jones, Charles Boyer, Peter Lawford",
+          "adaptation": "D'après le roman _Cluny Brown_ de Margery Sharp.",
+          "synopsis": "La jeune et pétulante Cluny Brown remplace son oncle plombier pour une intervention chez Hilary Ames. Elle y fait la connaissance d'un séduisant réfugié tchèque, pique-assiette et philosophe.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 21129,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 15802,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 21130,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1646
+        }
+      ]
+    },
+    {
+      "idSeance": 187931,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1401,8 +3625,8 @@
       ],
       "idEvenement": 32057,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-06T19:00:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-04-04T18:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -1517,6 +3741,58 @@
       ]
     },
     {
+      "idSeance": 186259,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32062,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-11T16:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34651,
+          "titre": "Haute Pègre",
+          "titreVo": "Trouble in Paradise",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1932,
+          "duree": 83,
+          "generique": "Miriam Hopkins, Kay Francis, Herbert Marshall",
+          "adaptation": "D'après la pièce _The Honest Finder_ de László Aladár.",
+          "synopsis": "Gaston Monescu et Lily forment un couple d'escrocs très habiles. Le vol d'un sac permet à Gaston de s'introduire chez la belle Mariette Colet, dont il tombe amoureux. Mais Lily va remettre les choses au point.",
+          "miniTexte": "« Du seul point de vue du style, je pense n'avoir rien fait de meilleur, ou d'aussi bon, que _Haute Pègre_. » Le film préféré de Lubitsch suit les palpitantes aventures de deux escrocs indomptables. Une comédie de haut vol, à la fois sophistiquée et ciselée, qui mêle la perversité et la malice des jeux de désir.",
+          "commentaire": "« J'ai parlé de ce qui s'apprend, j'ai parlé du talent, j'ai parlé de ce qui au fond, éventuellement, peut s'acheter en y mettant le prix, mais ce qui ne s'apprend ni ne s'achète c'est le charme et la malice, ah, le charme malicieux de Lubitsch, voilà qui faisait de lui vraiment un Prince. » (François Truffaut)",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 26412,
+              "duree": 83,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 5373,
+              "duree": 83,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 4
+        }
+      ]
+    },
+    {
       "idSeance": 187817,
       "idProg": 334,
       "idCycleCategories": [
@@ -1530,6 +3806,48 @@
       "idEvenement": 32063,
       "typeEvenement": 13,
       "dateHeure": "2025-03-16T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33903,
+          "titre": "Homme que j'ai tué",
+          "art": "L'",
+          "titreVo": "Broken Lullaby = The Man I Killed",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1932,
+          "duree": 77,
+          "generique": "Lionel Barrymore, Nancy Carroll, Phillips Holmes, Louise Carter",
+          "synopsis": "Rongé par la culpabilité, un jeune homme qui en a tué un autre à la guerre vient trouver la famille de sa victime un an après.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 3211,
+              "duree": 77,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 4033
+        }
+      ]
+    },
+    {
+      "idSeance": 186220,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32063,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-10T16:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1617,6 +3935,64 @@
       ]
     },
     {
+      "idSeance": 187930,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32064,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-02T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33899,
+          "titre": "Huitième Femme de Barbe-Bleue",
+          "art": "La",
+          "titreVo": "Bluebeard's Eighth Wife",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1938,
+          "duree": 85,
+          "generique": "Gary Cooper, Claudette Colbert, Edward Everett Horton",
+          "adaptation": "D'après la pièce _La Huitième femme de Barbe-Bleue_ d'Alfred Savoir.",
+          "synopsis": "Michael Brandon, milliardaire américain en vacances, tombe sous le charme de Nicole, qu'il décide de séduire. Lorsqu'elle se rend compte qu'il a été marié 7 fois, elle l'épouse pour ensuite feindre l'indifférence.",
+          "miniTexte": "Le dernier film réalisé par Lubitsch pour Paramount, l'un de ses rares échecs commerciaux, réhabilité avec le temps. Billy Wilder et Charles Brackett concoctent un récit tendre et enlevé, émaillé de réparties cinglantes et de séquences cultes. Un chassé-croisé amoureux à l'énergie communicative, porté par Gary Cooper, survolté en milliardaire blasé.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 16421,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 13374,
+              "duree": 85,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 16459,
+              "duree": 84,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 632
+        }
+      ]
+    },
+    {
       "idSeance": 187813,
       "idProg": 334,
       "idCycleCategories": [
@@ -1629,7 +4005,7 @@
       ],
       "idEvenement": 32066,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-21T18:00:00",
+      "dateHeure": "2025-03-21T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1652,6 +4028,107 @@
             }
           ],
           "idFilmBoxoffice": 1734
+        }
+      ]
+    },
+    {
+      "idSeance": 186409,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32066,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-17T17:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34623,
+          "titre": "Illusions perdues",
+          "titreVo": "That Uncertain Feeling",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1940,
+          "duree": 84,
+          "adaptation": "D'après la pièce _Divorçons_ de Victorien Sardou et Émile de Najac.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29084,
+              "duree": 84,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 1734
+        }
+      ]
+    },
+    {
+      "idSeance": 185758,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32067,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-23T14:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 128867,
+          "titre": "Joyeuse prison",
+          "art": "La",
+          "titreVo": "Fidele Gefängnis",
+          "artVo": "Das",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1917,
+          "duree": 54,
+          "generique": "Harry Liedtke, Kitty Dewall",
+          "synopsis": "Alex est un noceur, qui, au lieu de passer une nuit en prison après un délit mineur, se rend à un bal masqué. Sa femme l'y trouve en train d'aguicher la domestique.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 10620,
+              "duree": 54,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 117729
+        },
+        {
+          "ordre": 2,
+          "idFilm": 92582,
+          "titre": "Je ne voudrais pas être un homme",
+          "titreVo": "Ich möchte kein Mann sein",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1918,
+          "duree": 44,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29058,
+              "duree": 44,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 10400
         }
       ]
     },
@@ -1699,6 +4176,87 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 186031,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32068,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-03T16:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34625,
+          "titre": "To Be or Not To Be",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1942,
+          "duree": 99,
+          "generique": "Carole Lombard, Jack Benny, Robert Stack",
+          "synopsis": "Alors que l'armée allemande a envahi la Pologne, une troupe d'acteurs polonais se trouve engagée dans de périlleuses actions de résistance, où leur savoir-faire de comédiens est leur meilleure arme.",
+          "miniTexte": "Persuadé que l'on peut rire de tout, Lubitsch utilise ici le théâtre comme une arme burlesque pour inventer une satire au suspense haletant, qui associe dialogues incisifs et caricature implacable. Une pertinente charge antinazi aux multiples jeux de dupes et autres quiproquos, dans la lignée du _Dictateur_.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 11622,
+              "duree": 99,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 317
+        }
+      ]
+    },
+    {
+      "idSeance": 187952,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32077,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-12T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34602,
+          "titre": "Lieutenant souriant",
+          "art": "Le",
+          "titreVo": "Smiling Lieutenant",
+          "artVo": "The",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1931,
+          "duree": 88,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29080,
+              "duree": 88,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 13877
+        }
+      ]
+    },
+    {
       "idSeance": 187829,
       "idProg": 334,
       "idCycleCategories": [
@@ -1735,6 +4293,86 @@
             }
           ],
           "idFilmBoxoffice": 36572
+        }
+      ]
+    },
+    {
+      "idSeance": 187935,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32079,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-09T17:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33887,
+          "titre": "Ange",
+          "titreVo": "Angel",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1937,
+          "duree": 98,
+          "generique": "Marlene Dietrich, Herbert Marshall, Melvyn Douglas, Edward Everett Horton",
+          "adaptation": "D'après la pièce _Angyal_ de Melchior Lengyel.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29083,
+              "duree": 98,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 36572
+        }
+      ]
+    },
+    {
+      "idSeance": 186186,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32080,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-09T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40718,
+          "titre": "Yeux de la momie",
+          "art": "Les",
+          "titreVo": "Augen der Mumie Ma",
+          "artVo": "Die",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1918,
+          "duree": 58,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29069,
+              "duree": 58,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 14433
         }
       ]
     },
@@ -1810,6 +4448,100 @@
             }
           ],
           "idFilmBoxoffice": 170821
+        }
+      ]
+    },
+    {
+      "idSeance": 187923,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32085,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-19T20:15:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40800,
+          "titre": "Meyer aus Berlin",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1918,
+          "duree": 51,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29059,
+              "duree": 51,
+              "format": "35 mm",
+              "intertitres": "Autres",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 120299
+        },
+        {
+          "ordre": 2,
+          "idFilm": 34540,
+          "titre": "Patriot",
+          "art": "The",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1928,
+          "duree": 8,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29060,
+              "duree": 8,
+              "format": "35 mm",
+              "intertitres": "INT. ANG.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 133239
+        }
+      ]
+    },
+    {
+      "idSeance": 185769,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32087,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-24T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33926,
+          "titre": "Monte Carlo",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1930,
+          "duree": 90,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29079,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 61408
         }
       ]
     },
@@ -1909,6 +4641,63 @@
       ]
     },
     {
+      "idSeance": 187929,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32090,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-07T16:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34420,
+          "titre": "Ninotchka",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1939,
+          "duree": 110,
+          "generique": "Greta Garbo, Melvyn Douglas, Béla Lugosi",
+          "synopsis": "Une austère commissaire politique soviétique est envoyée à Paris pour négocier l'acquisition de bijoux et ramener dans le droit chemin des collègues qui ont succombé aux charmes du capitalisme décadent.",
+          "miniTexte": "Les premiers pas comiques de Greta Garbo dans une amusante satire politique. Pour leur deuxième collaboration, Lubitsch et Wilder dévoilent la fantaisie et l'humour de l'actrice, métamorphosée en impitoyable commissaire soviétique. Un grand succès qui permettra à _La Belle de Moscou_ de voir le jour en 1957.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 13394,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 16490,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 13393,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 366
+        }
+      ]
+    },
+    {
       "idSeance": 187820,
       "idProg": 334,
       "idCycleCategories": [
@@ -1960,7 +4749,58 @@
       ]
     },
     {
-      "idSeance": 185960,
+      "idSeance": 186335,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32091,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-14T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34543,
+          "titre": "Sérénade à trois",
+          "titreVo": "Design for Living",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1933,
+          "duree": 90,
+          "generique": "Fredric March, Gary Cooper, Miriam Hopkins",
+          "adaptation": "D'après la pièce _Design for Living_ de Noël Coward.",
+          "synopsis": "Gilda tombe amoureuse de deux artistes sans le sou. Elle les encourage à s'accomplir professionnellement, sans pouvoir jamais choisir entre les deux.",
+          "miniTexte": "Un triangle amoureux en forme de vaudeville audacieux, adapté d'une pièce signée Noël Coward. En pleine Amérique puritaine des années 30, Lubitsch entremêle émancipation féminine et refus du conformisme dans une comédie délicieusement amorale, qui manie avec intelligence l'art de la suggestion.",
+          "commentaire": "« La perfection de la coupe, la perfection de la couture, la perfection du tissu, il n'est de haute couture qu'à Paris, il n'est de haute production qu'à Hollywood, la perfection du goût et de la technique, du savoir, une maîtrise absolue, la discrétion dans l'audace. Ernst Lubitsch est, à notre souvenir, l'homme dont l'œuvre symbolisera un jour cette perfection, ce style sans défaut qui fut le propre de cet art. » (Henri Langlois)",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 3378,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 15569,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 1389
+        }
+      ]
+    },
+    {
+      "idSeance": 186187,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1972,7 +4812,7 @@
       ],
       "idEvenement": 32093,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-31T20:30:00",
+      "dateHeure": "2025-04-09T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2021,6 +4861,57 @@
       "idEvenement": 32094,
       "typeEvenement": 13,
       "dateHeure": "2025-03-15T20:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34599,
+          "titre": "Shop Around the Corner",
+          "art": "The",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1939,
+          "duree": 97,
+          "generique": "James Stewart, Margaret Sullavan, Frank Morgan",
+          "adaptation": "D'après la pièce _Parfumerie_ de Miklós László.",
+          "synopsis": "À Budapest, Alfred et Klára travaillent ensemble dans la même boutique, mais ne s'entendent pas. Alfred correspond par petites annonces avec une femme. Quand il découvre qu'il s'agit de Klára, il lui cache la vérité tout en se rapprochant d'elle.",
+          "miniTexte": "L'alliance parfaite du cynisme, de la tendresse et de la mélancolie dans une indémodable comédie romantique. L'époque est à la peinture de la grande bourgeoisie américaine, mais ici Lubitsch met en scène des héros ordinaires, confrontés au quotidien et à la crise, pour un sommet de délicatesse et d'humanité.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 13375,
+              "duree": 97,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "Autres",
+              "selected": true
+            },
+            {
+              "idCopie": 26415,
+              "duree": 97,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 679
+        }
+      ]
+    },
+    {
+      "idSeance": 186146,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32094,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-07T14:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2111,8 +5002,8 @@
       ],
       "idEvenement": 32100,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-06T17:00:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-04-06T19:30:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -2277,6 +5168,59 @@
       ]
     },
     {
+      "idSeance": 186327,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32103,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-13T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 96455,
+          "titre": "Veuve joyeuse",
+          "art": "La",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1934,
+          "duree": 105,
+          "generique": "Maurice Chevalier, Jeanette MacDonald, Danièle Parola",
+          "adaptation": "D'après le livret _La Veuve joyeuse_ de Victor Léon et Leo Stein.  \nD'après l'opérette _Die Lustige Witwe_ de Franz Lehár.",
+          "synopsis": "Le Prince Danilo est chargé de ramener dans sa patrie une riche veuve venue mener grande vie à Paris.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 16748,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 16583,
+              "duree": 97,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 29082,
+              "duree": 105,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 3934
+        }
+      ]
+    },
+    {
       "idSeance": 187803,
       "idProg": 334,
       "idCycleCategories": [
@@ -2369,6 +5313,142 @@
             }
           ],
           "idFilmBoxoffice": 18463
+        }
+      ]
+    },
+    {
+      "idSeance": 185693,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32109,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-21T16:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34597,
+          "titre": "Une heure près de toi",
+          "titreVo": "One Hour with You",
+          "realisateurs": "Ernst Lubitsch, George Cukor",
+          "annee": 1931,
+          "duree": 76,
+          "adaptation": "D'après la pièce _Nur ein Traum_ de Lothar Schmidt.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 11458,
+              "duree": 76,
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 11457,
+              "duree": 76,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 719
+        }
+      ]
+    },
+    {
+      "idSeance": 186328,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32109,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-13T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34597,
+          "titre": "Une heure près de toi",
+          "titreVo": "One Hour with You",
+          "realisateurs": "Ernst Lubitsch, George Cukor",
+          "annee": 1931,
+          "duree": 76,
+          "adaptation": "D'après la pièce _Nur ein Traum_ de Lothar Schmidt.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 11458,
+              "duree": 76,
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 11457,
+              "duree": 76,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 719
+        }
+      ]
+    },
+    {
+      "idSeance": 185882,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32110,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-28T16:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33920,
+          "titre": "Dame au manteau d'hermine",
+          "art": "La",
+          "titreVo": "That Lady in Ermine",
+          "realisateurs": "Ernst Lubitsch, Otto Preminger",
+          "annee": 1948,
+          "duree": 90,
+          "generique": "Betty Grable, Douglas Fairbanks Jr., Cesar Romero",
+          "adaptation": "D'après l'opérette _Die Frau im Hermelin_ d'Ernst Welisch et Rudolf Schanzer.",
+          "miniTexte": "1861, Italie du Nord. L'armée hongroise assiège le château de la comtesse Angelina, dont l'aïeule revient à la vie pour sauver la situation. Une opérette en Technicolor, truffée de trouvailles visuelles, pour la dernière réalisation de Lubitsch. Preminger achève le travail du maître, mort en cours de tournage, tout en posant ça et là sa propre griffe.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 11751,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29086,
+              "duree": 93
+            }
+          ],
+          "idFilmBoxoffice": 2250
         }
       ]
     },
@@ -3166,6 +6246,62 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 187936,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 977,
+          "idCategorie": 3678,
+          "titreCycle": "Glauber Rocha",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32145,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-16T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 58013,
+          "titre": "Antônio das mortes",
+          "titreVo": "Dragão da Maldade contra o Santo Guerreiro",
+          "artVo": "O",
+          "realisateurs": "Glauber Rocha",
+          "annee": 1968,
+          "duree": 95,
+          "generique": "Maurício do Valle, Odete Lara",
+          "synopsis": "Ancien tueur à gages, Antônio das Mortes reprend son activité. Le colonel Horacio lui demande d'abattre publiquement un agitateur qui dirige un groupe de paysans mystiques, les Beatos. Un duel public s'engage entre les deux hommes.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 6617,
+              "duree": 95,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "POR",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29040,
+              "duree": 95,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 92
+        }
+      ]
+    },
+    {
       "idSeance": 187825,
       "idProg": 334,
       "idCycleCategories": [
@@ -3384,6 +6520,1053 @@
       ]
     },
     {
+      "idSeance": 185430,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32152,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-12T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42621,
+          "titre": "Incompris",
+          "art": "L'",
+          "titreVo": "Incompreso",
+          "realisateurs": "Luigi Comencini",
+          "annee": 1966,
+          "duree": 105,
+          "generique": "Anthony Quayle, Stefano Colagrande, Simone Giannozzi, John Sharp",
+          "adaptation": "D'après le roman _L'Incompris_ de Florence Montgomery.",
+          "synopsis": "À la mort de son épouse, sir Duncombe, consul de Grande-Bretagne à Florence, confie ses deux fils à une gouvernante. Andréa, l'aîné, âgé de 11 ans, sait que son père l'aime moins que son cadet.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 202,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ITA",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 3447
+        }
+      ]
+    },
+    {
+      "idSeance": 185426,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32153,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-12T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46469,
+          "titre": "Longue marche",
+          "art": "La",
+          "realisateurs": "Alexandre Astruc",
+          "annee": 1965,
+          "duree": 95,
+          "generique": "Robert Hossein, Jean-Louis Trintignant, Maurice Ronet, Jean-Pierre Kalfon",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29004,
+              "duree": 95,
+              "format": "35 mm",
+              "selected": true
+            },
+            {
+              "idCopie": 29005,
+              "duree": 95,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 29006,
+              "duree": 95,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 5001
+        }
+      ]
+    },
+    {
+      "idSeance": 187938,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32154,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-14T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32082,
+          "titre": "Butch Cassidy et le Kid",
+          "titreVo": "Butch Cassidy and the Sundance Kid",
+          "realisateurs": "George Roy Hill",
+          "annee": 1968,
+          "duree": 110,
+          "generique": "Paul Newman, Robert Redford, Katharine Ross, Strother Martin",
+          "synopsis": "Fin 19ème siècle, au Far West. Butch Cassidy et Sundance Kid, deux séduisants et intrépides malfrats, pillent des banques et détroussent les voyageurs de train. Une escouade de détectives est engagée par l'Union Pacific et, déterminée à en finir, se lance à travers l'espace américain à la poursuite des deux bandits.",
+          "commentaire": "En 1968, alors que le « western spaghetti » s'est emparé du genre en rendant désuète sa version américaine, _Butch Cassidy et le Kid_ résonne comme une balade sauvage aux allures de relecture nostalgique. Soutenu par l'excellent scénario de William Goldman – qui recevra l'Oscar –, le long métrage prend le judicieux parti de narrer l'émergence d'un nouveau monde au sein duquel ses héros ne se reconnaissent plus. Par l'élégance de sa mise en scène – d'une introduction mélancolique à une magnifique séquence à bicyclette –, il raconte, sous son récit de hors-la-loi en cavale, l'envie de goûter à une jeunesse éternelle face à la disparition progressive de nos repères. En filmant Paul Newman et Robert Redford tels deux enfants terribles à la fois tendres et cyniques, George Roy Hill saisit la complicité, l'indéfectible amitié, mais aussi les failles qui unissent ses personnages. Sans chercher à les excuser, ni à les diaboliser, il observe, entre joyeuse ironie et noirceur romanesque, l'impact d'une société où la perspective d'un horizon meilleur s'est évanouie dans la nature.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29125,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 22557,
+              "duree": 110,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 559
+        }
+      ]
+    },
+    {
+      "idSeance": 187944,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32155,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-24T16:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47125,
+          "titre": "Une femme douce",
+          "realisateurs": "Robert Bresson",
+          "annee": 1968,
+          "duree": 90,
+          "generique": "Dominique Sanda, Guy Frangin, Jeanne Lobre",
+          "adaptation": "D'après la nouvelle _La Douce_ de Fiodor Mikhaïlovitch Dostoïevski.",
+          "synopsis": "Un homme trouve le corps sans vie de sa femme venant de se suicider. Il se remémore leur vie passée.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 13439,
+              "duree": 90,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 2325
+        }
+      ]
+    },
+    {
+      "idSeance": 187937,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32156,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-13T16:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33437,
+          "titre": "Easy Rider",
+          "realisateurs": "Dennis Hopper",
+          "annee": 1969,
+          "dureeStd": 96,
+          "duree": 95,
+          "generique": "Peter Fonda, Dennis Hopper, Jack Nicholson",
+          "synopsis": "Avec l'argent d'un trafic de drogue, deux amis décident de traverser l'Amérique à moto.",
+          "miniTexte": "Hippies. Sexe. Drogue. BO culte, échantillon des plus grands succès rock et psyché de l'époque. Trois marginaux traversent en Harley l'Amérique conservatrice dans un road trip métaphysique, acte de naissance d'une nouvelle vague contestataire. _Easy Rider_ connaît un succès phénoménal, et devient le film emblématique de la contre-culture et du Nouvel Hollywood. Une véritable onde de choc.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 24643,
+              "duree": 95,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 178
+        }
+      ]
+    },
+    {
+      "idSeance": 185615,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32157,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-19T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 58774,
+          "titre": "Cicatrice intérieure",
+          "art": "La",
+          "realisateurs": "Philippe Garrel",
+          "annee": 1970,
+          "duree": 60,
+          "generique": "Nico, Pierre Clémenti, Philippe Garrel, Daniel Pommereulle",
+          "synopsis": "Dans des paysages d'Égypte et d'Islande, d'une étrange beauté, l'errance d'une femme, de deux hommes et d'un enfant.",
+          "commentaire": "_Desertshore_, 1970. Nico compose son dernier album pendant que son amant imagine son prochain film. La voix grave et mélancolique de la chanteuse colle aux images d'espaces éthérés de Philippe Garrel. Il en fait la bande son de _La Cicatrice intérieure_, film-trip sur les errances de leur couple tourmenté, au cœur de terres isolées, entre Sinaï, Islande et vallée de la Mort. Un désir de fuite mystique expliqué par Garrel : « Au moment de _La Cicatrice_, je voulais le désert, le désert américain. C'est fantastique, le désert, avec une caméra. On est totalement sorti de la civilisation. Pas un objet, pas une maison. Tout est vierge. Une manière de se couper du monde. Sur le terrain, on a le vertige, l'impression qu'on change de monde en tournant. Il y a comme une toile en mouvement, qui dirige des vibrations, il n'y a pas de parcours, il n'y a pas d'a priori sur l'évolution ; il y a un univers mystique. Le cinéma de déraison. »",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 18434,
+              "duree": 60,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 789
+        }
+      ]
+    },
+    {
+      "idSeance": 187945,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32158,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-03T15:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38158,
+          "titre": "Dodes'kaden",
+          "titreVo": "Dodesukaden",
+          "titreNx": "どですかでん",
+          "realisateurs": "Akira Kurosawa",
+          "annee": 1970,
+          "duree": 140,
+          "generique": "Yoshitaka Zushi, Kin Sugai, Junzaburō Ban",
+          "adaptation": "D'après des nouvelles du recueil _Quartier sans soleil_ de Shūgorō Yamamoto.",
+          "synopsis": "Dans un quartier défavorisé de Tokyo, dans les années 1970, un jeune garçon un peu simple s'échappe du réel pour se construire un monde imaginaire dans lequel il conduit un tramway.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29007,
+              "duree": 140,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "JPN",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 45909
+        }
+      ]
+    },
+    {
+      "idSeance": 185580,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32159,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-17T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41861,
+          "titre": "Jardin des Finzi-Contini",
+          "art": "Le",
+          "titreVo": "Giardino dei Finzi-Contini",
+          "artVo": "Il",
+          "realisateurs": "Vittorio De Sica",
+          "annee": 1970,
+          "duree": 94,
+          "generique": "Dominique Sanda, Lino Capolicchio, Alessandro D'Alatri",
+          "adaptation": "D'après le roman _Le Jardin des Finzi-Contini_ de Giorgio Bassani.",
+          "synopsis": "Italie, 1938. Le régime fasciste multiplie les mesures à l'encontre des Juifs italiens, mais l'aristocratique famille Finzi-Contini ne croit pas à la menace, et continue sa vie insouciante et dorée, bien à l'abri dans son domaine.",
+          "commentaire": "Restauré par Istituto Luce Cinecittà aux laboratoires Studio Cine de Rome et L'Immagine ritrovata de Bologne.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 13803,
+              "duree": 94,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 49956
+        }
+      ]
+    },
+    {
+      "idSeance": 185804,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32160,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-26T15:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51577,
+          "titre": "Nuit américaine",
+          "art": "La",
+          "realisateurs": "François Truffaut",
+          "annee": 1972,
+          "duree": 115,
+          "generique": "Jacqueline Bisset, Jean-Pierre Aumont, Valentina Cortese",
+          "ageMinimal": 10,
+          "synopsis": "Le récit d'une grande aventure où des hommes et des femmes (techniciens, acteurs, producteurs) s'associent pour faire du cinéma, cet art du vrai et du faux dont on découvre les coulisses.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 14526,
+              "duree": 115,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 3709
+        }
+      ]
+    },
+    {
+      "idSeance": 187946,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32161,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-04T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48839,
+          "titre": "Tout va bien",
+          "realisateurs": "Jean-Luc Godard, Jean-Pierre Gorin",
+          "annee": 1972,
+          "duree": 95,
+          "generique": "Jane Fonda, Yves Montand",
+          "synopsis": "« Les jours passent. Des événements sociaux se passent, et quelques émissions pirates aussi, dont les gens discutent, et elle et lui aussi. » (JLG, synopsis)",
+          "commentaire": "« _Tout va bien_ n'a pas marché malgré un sujet fort intéressant qui abordait aussi bien l'actualité politique qu'ouvrière. Je suis solidaire de la classe ouvrière, car ceux qui en sont vivent plus difficilement, plus durement que d'autres. Mais elle est aussi en proie, tout comme certains syndicats, à ses propres contradictions. Bref, ni Jane Fonda ni moi n'avons été payés, mais cela ne m'empêche pas de dire que j'ai été heureux d'avoir travaillé avec Jean-Luc Godard car j'ai beaucoup appris avec lui. » (Yves Montand)",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 15893,
+              "duree": 95,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 5798
+        }
+      ]
+    },
+    {
+      "idSeance": 185958,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32162,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-31T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 39288,
+          "titre": "Alice dans les villes",
+          "titreVo": "Alice in den Städten",
+          "realisateurs": "Wim Wenders",
+          "annee": 1973,
+          "duree": 110,
+          "generique": "Rüdiger Vogler, Yella Rottländer, Lisa Kreuzer",
+          "synopsis": "Un journaliste allemand en reportage aux États-Unis est bloqué dans un aéroport en grève. Une femme lui confie sa fille, Alice. Elle doit les rejoindre à Amsterdam mais elle n'est pas au rendez-vous...",
+          "commentaire": "Philip Winter, un photographe en mal de vivre, en mal de création, en proie à l'angoisse existentielle. Une enfant délaissée qui lui est confiée, le temps d'un voyage, par sa mère. Pour son quatrième long métrage, Wim Wenders filme l'ennui, la monotonie, mais aussi la complicité et la tendresse entre ses deux personnages. Il prend son temps, saisit des instants au vol comme le ferait le photographe, déploie un sens aigu de l'espace, filme les motels et la Ruhr, des paysages vidés de leur sens entre les États-Unis et l'Europe. Sa caméra scrute le mal-être avec une rigueur sèche et une précision qui se teintent de pudeur et de grâce, de légèreté aussi, doublées d'une mélancolie que renforce l'usage du noir et blanc. Carnet de route, road movie en forme de double quête, une raison de vivre pour l'homme, des repères familiaux pour l'enfant, _Alice dans les villes_ impose doucement Wenders en cinéaste de l'errance, et préfigure _Paris, Texas_. Porté par Yella Rottländer, sa jeune interprète, et Rüdiger Vogler, acteur fétiche de Wenders, le film, à sa sortie, emballe la critique. Le personnage de Philip Winter est l'alter ego du réalisateur, qui confiera plus tard son attachement à ce film qu'il considère comme son premier.\n\nHélène Lacolomberie",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 13760,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 60
+        }
+      ]
+    },
+    {
+      "idSeance": 187942,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32163,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-28T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35587,
+          "titre": "Apportez-moi la tête d'Alfredo Garcia",
+          "titreVo": "Bring Me the Head of Alfredo Garcia",
+          "realisateurs": "Sam Peckinpah",
+          "annee": 1973,
+          "duree": 112,
+          "generique": "Isela Vega, Gig Young, Warren Oates, Robert Webber, Helmut Dantine",
+          "synopsis": "La fille d'un puissant propriétaire foncier mexicain, tombée enceinte, doit révéler le nom de son séducteur. Le père offre alors une forte récompense à qui lui apportera la tête d'Alfredo Garcia.\n\n---\n\nUn riche propriétaire mexicain offre une somme importante à qui lui apportera la tête de l'homme qui a séduit sa fille. Un pianiste minable se met en chasse.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 287,
+              "duree": 112,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 34003
+        }
+      ]
+    },
+    {
+      "idSeance": 186147,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32164,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-07T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35025,
+          "titre": "À cause d'un assassinat",
+          "titreVo": "Parallax View",
+          "artVo": "The",
+          "realisateurs": "Alan J. Pakula",
+          "annee": 1973,
+          "duree": 102,
+          "generique": "Warren Beatty, Paula Prentiss, William Daniels",
+          "synopsis": "A Seattle, le jour de la fête de l'Indépendance, le sénateur Carroll est assassiné. Trois ans plus tard, après les disparitions successives de plusieurs témoins, le journaliste Joe Frady, entame une enquête révélant peu à peu l'envergure du complot.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 2638,
+              "duree": 102,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 1349
+        }
+      ]
+    },
+    {
+      "idSeance": 187943,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32165,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-21T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51629,
+          "titre": "Femmes, femmes",
+          "realisateurs": "Paul Vecchiali",
+          "annee": 1974,
+          "duree": 120,
+          "generique": "Hélène Surgère, Sonia Saviange, Michel Delahaye",
+          "synopsis": "Deux actrices déchues partagent un appartement et transforment leur vie en une pièce de théâtre.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 1253,
+              "duree": 120,
+              "format": "35 mm",
+              "langCopie": "FRE",
+              "selected": true
+            },
+            {
+              "idCopie": 29009,
+              "duree": 120
+            }
+          ],
+          "idFilmBoxoffice": 920
+        }
+      ]
+    },
+    {
+      "idSeance": 186309,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32166,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-12T17:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42345,
+          "titre": "Parfum de femme",
+          "titreVo": "Profumo di donna",
+          "realisateurs": "Dino Risi",
+          "annee": 1974,
+          "duree": 103,
+          "generique": "Vittorio Gassman, Alessandro Momo, Agostina Belli",
+          "adaptation": "D'après le roman _Parfum de femme_ de Giovanni Arpino.",
+          "synopsis": "Un jeune officier d'ordonnance est chargé de tenir compagnie à un ancien capitaine devenu aveugle, obsédé par les femmes et tenté par le suicide.",
+          "commentaire": "Un portrait à l'eau-forte qui traduit l'état d'esprit d'un homme refusant de voir ce que son infirmité lui prend, à savoir sa fierté, son assurance, sa virilité et son autorité. Si Fausto joue les comiques, c'est pour mieux dissimuler son amertume. Impérial, agressif et angoissé, Vittorio Gassman l'interprète avec un immense talent. Un rôle, récompensé au Festival de Cannes, plein de nuances et de force, pour un film à la fois très cruel et très tendre. Avec _Parfum de femme_, Dino Risi apparaît dès lors comme un clown triste. « C'est certainement un film plus grave que d'habitude pour moi, et plutôt que de comédie à l'italienne, il faudrait peut-être parler ici de tragédie à l'italienne. » Une comédie triste réussie, une œuvre populaire, à la fois divertissante et subtilement critique, une recette d'alchimiste dont seul Risi a le secret.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21324,
+              "duree": 103,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1792
+        }
+      ]
+    },
+    {
+      "idSeance": 186182,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32167,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-09T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47186,
+          "titre": "Fantôme de la liberté",
+          "art": "Le",
+          "realisateurs": "Luis Buñuel",
+          "annee": 1974,
+          "duree": 104,
+          "generique": "Adriana Asti, Julien Bertheau, Michel Piccoli",
+          "synopsis": "Cadavre exquis dont les quatorze épisodes dévergondent le cartésianisme rigide de notre société.",
+          "commentaire": "« _Le Fantôme de la liberté_ est l'un des films les plus angoissants, les plus inquiétants de Luis Buñuel. C'est un film de fin du monde, de jugement dernier, le plus proche parent qui soit de _L'Ange exterminateur_ et de _L'Âge d'or_. Frustration, fiasco, prolifération, envahissement, dérèglement, y précèdent l'avertissement suprême du Commandeur. » (Robert Benayoun, _Positif_, octobre 1974)",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 13821,
+              "duree": 104,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 3973
+        }
+      ]
+    },
+    {
+      "idSeance": 186525,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32168,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-21T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 39874,
+          "titre": "Ferdinand le radical",
+          "titreVo": "Starke Ferdinand",
+          "artVo": "Der",
+          "realisateurs": "Alexander Kluge",
+          "annee": 1975,
+          "duree": 91,
+          "generique": "Heinz Schubert, Verena Rudolph, Gert Günther Hoffmann",
+          "synopsis": "Ferdinand Rieche, ancien commissaire de police, est maintenant responsable de la protection d'une grande usine de produits chimiques. Mais hormis la présence occasionnelle de manifestants devant les portes de l'usine, il n'a malheureusement pas grand-chose à faire.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 832,
+              "duree": 91,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "GER",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 785,
+              "duree": 0
+            }
+          ],
+          "idFilmBoxoffice": 2756
+        }
+      ]
+    },
+    {
+      "idSeance": 187965,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32169,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-24T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 29753,
+          "titre": "Vol au-dessus d'un nid de coucou",
+          "titreVo": "One Flew Over the Cuckoo's Nest",
+          "realisateurs": "Miloš Forman",
+          "annee": 1975,
+          "duree": 134,
+          "generique": "Jack Nicholson, Louise Fletcher, Will Sampson",
+          "adaptation": "D'après le roman _One Flew Over the Cuckoo's Nest_ de Ken Kesey.",
+          "synopsis": "Randall P. McMurphy se fait interner dans une clinique psychiatrique pour échapper à la prison. Y découvrant l'oppression des soignants et la détresse des malades il instigue une rébellion dans l'établissement.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 12665,
+              "duree": 134,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 2072
+        }
+      ]
+    },
+    {
+      "idSeance": 187951,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32170,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-10T16:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38648,
+          "titre": "Droit du plus fort",
+          "art": "Le",
+          "titreVo": "Faustrecht der Freiheit",
+          "realisateurs": "Rainer Werner Fassbinder",
+          "annee": 1974,
+          "duree": 123,
+          "generique": "Rainer Werner Fassbinder, Peter Chatel, Karlheinz Böhm",
+          "synopsis": "Franz Biberkopf, un jeune homosexuel, perd son travail et son petit ami, arrêté par la police. Il gagne à la loterie et rencontre un homme très intéressé par son argent.",
+          "commentaire": "« Le film cherche à représenter, dans la vie quotidienne en Allemagne, les différenciations de classe, à y inscrire la lutte des classes ; et à sortir le monde homosexuel du ghetto mystificateur où il se trouve refoulé. » (Serge Le Péron)",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 14082,
+              "duree": 123,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "GER",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 4201
+        }
+      ]
+    },
+    {
+      "idSeance": 187964,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32171,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-18T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 53117,
+          "titre": "Homme qui voulut être roi",
+          "art": "L'",
+          "titreVo": "Man Who Would Be King",
+          "artVo": "The",
+          "realisateurs": "John Huston",
+          "annee": 1975,
+          "duree": 129,
+          "generique": "Sean Connery, Michael Caine, Christopher Plummer",
+          "adaptation": "D'après la nouvelle _The Man Who Would Be King_ de Rudyard Kipling.",
+          "ageMinimal": 11,
+          "synopsis": "Au siècle dernier, deux hommes entreprennent un long voyage dans le Kafiristan. L'un d'eux sera considéré par un peuple de cette région comme un roi et un dieu.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 9853,
+              "duree": 129,
+              "format": "Numérique",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 808
+        }
+      ]
+    },
+    {
+      "idSeance": 186375,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32172,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-16T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47004,
+          "titre": "Bête",
+          "art": "La",
+          "realisateurs": "Walerian Borowczyk",
+          "annee": 1975,
+          "duree": 104,
+          "generique": "Lisbeth Hummel, Sirpa Lane, Guy Tréjan, Marcel Dalio",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29010,
+              "duree": 104,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 2631
+        }
+      ]
+    },
+    {
+      "idSeance": 187962,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32173,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-17T16:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45297,
+          "titre": "Cadavres exquis",
+          "titreVo": "Cadaveri eccellenti",
+          "realisateurs": "Francesco Rosi",
+          "annee": 1975,
+          "duree": 121,
+          "generique": "Lino Ventura, Fernando Rey, Max von Sydow",
+          "adaptation": "D'après le roman _Il Contesto_ de Leonardo Sciascia.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 5194,
+              "duree": 121,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 12486
+        }
+      ]
+    },
+    {
+      "idSeance": 187960,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32177,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-25T16:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49954,
+          "titre": "Monsieur Klein",
+          "realisateurs": "Joseph Losey",
+          "annee": 1975,
+          "duree": 122,
+          "generique": "Alain Delon, Jeanne Moreau, Francine Bergé",
+          "synopsis": "En 1942, Robert Klein, amateur d'art, profite des lois raciales de Vichy pour racheter à bas prix des œuvres à des collectionneurs qui tentent de fuir la France. Il découvre un jour que quelqu'un cherche à le faire confondre avec un autre Robert Klein, juif.",
+          "commentaire": "César du meilleur film, du meilleur réalisateur et des meilleurs décors en 1977, _Monsieur Klein_ dresse le portrait kafkaïen de la condition juive durant l'Occupation. Sur un scénario de Franco Solinas, Joseph Losey revient vers l'atmosphère de ses premiers films avec une nouvelle dénonciation de l'intolérance et du racisme qui gangrènent une société malade. Alors que son personnage principal, un bourgeois opportuniste, veut s'enrichir sur la détresse d'autrui, il est rattrapé par le destin et se retrouve aux prises avec un mystérieux double de lui-même. Lancé à sa recherche, son héros voit son inébranlable confiance s'évaporer à mesure qu'il avance dans une odyssée faite de doutes et d'humiliations. À travers cette descente aux enfers, Losey s'intéresse à l'absurdité du monde et à la naissance du remords. Remarquablement incarné par Alain Delon, son protagoniste comprend trop tard la puérilité d'un orgueil mal placé, qui lui ouvre les portes de la déchéance. Par son regard soudainement transformé, le cinéaste raconte ces actes que l'on se borne à ignorer et ces visions d'horreur à affronter pour retourner vers notre humanité.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 9349,
+              "duree": 122,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 68249
+        }
+      ]
+    },
+    {
+      "idSeance": 186714,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32178,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-28T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43886,
+          "titre": "Innocent",
+          "art": "L'",
+          "titreVo": "Innocente",
+          "artVo": "L'",
+          "realisateurs": "Luchino Visconti",
+          "annee": 1975,
+          "duree": 130,
+          "generique": "Giancarlo Giannini, Laura Antonelli",
+          "adaptation": "D'après le roman _ L'Innocent_ de Gabriele D'Annunzio.",
+          "synopsis": "Un grand bourgeois devient jaloux de sa femme dont il tombe amoureux en apprenant qu'elle est la maîtresse d'un écrivain à la mode.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 5738,
+              "duree": 130,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ITA",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 962
+        }
+      ]
+    },
+    {
+      "idSeance": 186336,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32179,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-14T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43178,
+          "titre": "Casanova de Fellini",
+          "art": "Le",
+          "titreVo": "Casanova di Federico Fellini",
+          "artVo": "Il",
+          "realisateurs": "Federico Fellini",
+          "annee": 1975,
+          "duree": 166,
+          "generique": "Donald Sutherland, Tina Aumont, Margareth Clementi",
+          "adaptation": "D'après _Histoire de ma vie_ de Giacomo Casanova.",
+          "synopsis": "Le séducteur mythique, Giacomo Casanova, est emprisonné à Venise à la suite d'un scandale. Il s'évade et voyage d'une cour européenne à l'autre.",
+          "miniTexte": "Fellini le dit dans son titre : il s'agit d'une vision très personnelle du célèbre séducteur vénitien. La lecture de ses mémoires l'a ennuyé et irrité, et le tournage peine à démarrer. Fellini va jusqu'à faire appel à un ami médium pour invoquer l'esprit de Casanova depuis l'au-delà. Faisant exploser le budget initial, le résultat est une fresque baroque somptueuse dans laquelle le cinéaste dévoile son côté sombre. Son Casanova, interprété par Donald Sutherland, est un cynique, opportuniste insupportable. Un « sexocentrique » décadent que Fellini déteste et qu'il transforme en fantôme cadavérique. Une œuvre acide, glaciale et pessimiste, pour laquelle le maestro invente les plus belles images.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 16644,
+              "duree": 166,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 147
+        }
+      ]
+    },
+    {
       "idSeance": 186373,
       "idProg": 334,
       "idCycleCategories": [
@@ -3508,7 +7691,7 @@
       ]
     },
     {
-      "idSeance": 186116,
+      "idSeance": 187934,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -3520,7 +7703,7 @@
       ],
       "idEvenement": 32247,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-05T18:30:00",
+      "dateHeure": "2025-04-05T21:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3545,7 +7728,7 @@
       ]
     },
     {
-      "idSeance": 186073,
+      "idSeance": 187933,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -3557,7 +7740,7 @@
       ],
       "idEvenement": 32248,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-04T20:30:00",
+      "dateHeure": "2025-04-05T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3668,7 +7851,7 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 186072,
+      "idSeance": 187932,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -3680,7 +7863,7 @@
       ],
       "idEvenement": 32251,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-04T18:00:00",
+      "dateHeure": "2025-04-04T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3868,6 +8051,100 @@
             }
           ],
           "idFilmBoxoffice": 185016
+        }
+      ]
+    },
+    {
+      "idSeance": 185621,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3686,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Lubitsch acteur"
+        }
+      ],
+      "idEvenement": 32265,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-19T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 128863,
+          "titre": "Mirakel",
+          "art": "Das",
+          "realisateurs": "Max Reinhardt",
+          "annee": 1912,
+          "duree": 69,
+          "generique": "Ernst Lubitsch, Maria Carmi",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29092,
+              "duree": 69,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185743,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3686,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Lubitsch acteur"
+        }
+      ],
+      "idEvenement": 32266,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-22T15:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155054,
+          "titre": "Robert et Bertram ou les joyeux vagabonds",
+          "titreVo": "Robert und Bertram oder die lustigen vagabunden",
+          "realisateurs": "Max Mack",
+          "annee": 1915,
+          "duree": 60,
+          "generique": "Ferdinand Bonn",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29095,
+              "duree": 60,
+              "intertitres": "Autres",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 155052,
+          "titre": "Doktor Satansohm",
+          "realisateurs": "Edmund Edel",
+          "annee": 1916,
+          "duree": 44,
+          "generique": "Hans Felix",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29096,
+              "duree": 44,
+              "format": "Numérique",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 186240
         }
       ]
     },
@@ -4214,6 +8491,480 @@
           "duree": 90
         }
       ]
+    },
+    {
+      "idSeance": 185843,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32350,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-27T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33148,
+          "titre": "Bleak Moments",
+          "realisateurs": "Mike Leigh",
+          "annee": 1971,
+          "duree": 110,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29189,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185999,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32351,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-02T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 152044,
+          "titre": "Meantime",
+          "realisateurs": "Mike Leigh",
+          "annee": 1983,
+          "status": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 185844,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32352,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-27T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41616,
+          "titre": "High Hopes",
+          "realisateurs": "Mike Leigh",
+          "annee": 1988,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 185945,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32353,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-30T19:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 56447,
+          "titre": "Life Is Sweet",
+          "realisateurs": "Mike Leigh",
+          "annee": 1990,
+          "duree": 103,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29190,
+              "duree": 103,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185925,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32354,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-29T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41617,
+          "titre": "Naked",
+          "realisateurs": "Mike Leigh",
+          "annee": 1993,
+          "generique": "David Thewlis, Lesley Sharp, Katrin Cartlidge",
+          "synopsis": "Johnny doit fuir Manchester après avoir violé une femme. Il se réfugie dans l'Est de Londres, chez son ancienne petite amie, et entame une longue errance dans les rues de la ville, pleine de sombres rencontres.",
+          "commentaire": "Après un premier film, _Bleak Moments_, en 1971, Mike Leigh passe une quinzaine d'années à réaliser des séries et des téléfilms avant de revenir au cinéma avec _High Hopes_ (1988) et _Life Is Sweet_ (1990), comédies dramatiques réalistes qui se concentrent sur une cellule familiale. _Naked_, comédie grinçante, violente, à l'esthétique réaliste trompeuse, opère un tournant sombre. Le tournage a pour cadre des lieux existants, mais Leigh et son équipe grisent les murs, éliminent les couleurs vives, et au moment du développement de la pellicule évitent le bain de blanchiment afin de donner plus de densité aux noirs. L'atmosphère blafarde qui en résulte fait basculer le film du côté de la métaphore. _Naked_ plonge le spectateur dans une vision cauchemardesque d'une Angleterre exsangue après la décennie thatchérienne, une époque où les rapports humains ne sont plus que brutalité. Loin des nobles personnages de la classe ouvrière de Ken Loach, Johnny, interprété par David Thewlis (récompensé à Cannes en 1993, tout comme Mike Leigh pour son scénario), est un Ulysse, affreux, sale et méchant, qui erre dans Londres. Son pendant, le glaçant Jeremy, à l'autre bout du spectre social, va encore plus loin dans l'abjection, sous le vernis du yuppie. Entre les deux, une série de personnages, des femmes victimes, souvent, mais résilientes et solidaires, et un gardien de nuit. Improvisé en partie, tourné sans autorisation dans les rues de la capitale anglaise, _Naked_ est aussi un film du langage, des accents, chargé d'une parole envahissante contre la frustration d'un monde toujours indifférent et froid.\n\nWafa Ghermani",
+          "status": 2,
+          "idFilmBoxoffice": 8373
+        }
+      ]
+    },
+    {
+      "idSeance": 187924,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32355,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-28T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 58591,
+          "titre": "Secrets et mensonges",
+          "titreVo": "Secrets and Lies",
+          "realisateurs": "Mike Leigh",
+          "annee": 1995,
+          "duree": 142,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29184,
+              "duree": 142,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29185,
+              "duree": 142,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187927,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32356,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-07T18:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 62001,
+          "titre": "Deux filles d'aujourd'hui",
+          "titreVo": "Career Girls",
+          "realisateurs": "Mike Leigh",
+          "annee": 1996,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 185927,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32357,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-29T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 71542,
+          "titre": "Topsy-Turvy",
+          "realisateurs": "Mike Leigh",
+          "annee": 1998,
+          "duree": 160,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29186,
+              "duree": 160,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187915,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32358,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-31T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 79078,
+          "titre": "All or Nothing",
+          "realisateurs": "Mike Leigh",
+          "annee": 2001,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 187925,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32359,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-28T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 94913,
+          "titre": "Vera Drake",
+          "realisateurs": "Mike Leigh",
+          "annee": 2004,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 187919,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32360,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-06T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 104875,
+          "titre": "Be Happy",
+          "titreVo": "Happy-Go-Lucky",
+          "realisateurs": "Mike Leigh",
+          "annee": 2007,
+          "duree": 118,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29191,
+              "duree": 118,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187926,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32361,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-06T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 112397,
+          "titre": "Another Year",
+          "realisateurs": "Mike Leigh",
+          "annee": 2009,
+          "duree": 129,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29187,
+              "duree": 129,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29188,
+              "duree": 129,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186149,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32362,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-07T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 123299,
+          "titre": "Mr. Turner",
+          "realisateurs": "Mike Leigh",
+          "annee": 2013,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 187916,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32363,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-02T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 149736,
+          "titre": "Peterloo",
+          "realisateurs": "Mike Leigh",
+          "annee": 2018,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 187848,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32364,
+      "typeEvenement": 13,
+      "libelleEvenement": "HARD TRUTHS",
+      "dateHeure": "2025-03-26T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 43,
+      "theorique": true,
+      "mention": "Avant-première",
+      "items": []
     },
     {
       "idSeance": 187911,
