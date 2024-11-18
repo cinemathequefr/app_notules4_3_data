@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-18T12:21:34.573Z",
+  "updatedAt": "2024-11-18T14:56:44.027Z",
   "data": [
     {
       "idSeance": 186263,
@@ -7,9 +7,9 @@
       "idCycleCategories": [
         {
           "idCycle": 14,
-          "idCategorie": 3384,
+          "idCategorie": 3674,
           "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Apocalypse"
         }
       ],
       "idEvenement": 31730,
@@ -24,15 +24,16 @@
           "titreVo": "Runaway",
           "realisateurs": "Michael Crichton",
           "annee": 1984,
-          "duree": 99,
+          "duree": 100,
           "generique": "Tom Selleck, Cynthia Rhodes, Gene Simmons",
           "status": 0,
           "copies": [
             {
               "idCopie": 28799,
-              "duree": 99,
+              "duree": 100,
               "format": "35 mm",
-              "version": "VF"
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 75582
@@ -126,9 +127,9 @@
       "idCycleCategories": [
         {
           "idCycle": 14,
-          "idCategorie": 3384,
+          "idCategorie": 3674,
           "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Apocalypse"
         }
       ],
       "idEvenement": 31846,
@@ -157,51 +158,6 @@
             }
           ],
           "idFilmBoxoffice": 15127
-        }
-      ]
-    },
-    {
-      "idSeance": 186260,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 970,
-          "idCategorie": 3669,
-          "titreCycle": "Le western, 25 indispensables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31862,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-11T18:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 32352,
-          "titre": "Chevauchée fantastique",
-          "art": "La",
-          "titreVo": "Stagecoach",
-          "realisateurs": "John Ford",
-          "annee": 1938,
-          "duree": 97,
-          "generique": "John Wayne, Andy Devine, John Carradine",
-          "adaptation": "D'après la nouvelle _Stage to Lordsburg_ d'Ernest Haycox. ",
-          "ageMinimal": 10,
-          "synopsis": "À bord d'une diligence traversant l'Arizona, neuf passagers très différents (un joueur professionnel, une femme enceinte, un médecin ivrogne, un banquier escroc) essayent de cohabiter, tout en résistant aux attaques des Peaux-Rouges emmenés par leur chef, Geronimo.\n",
-          "synopsisJP": "À bord d'une diligence traversant l'Arizona, neuf passagers en tous genres (un joueur professionnel, une femme enceinte, un médecin ivrogne, un banquier escroc...) essayent de cohabiter, tout en résistant aux attaques des Peaux-Rouges. Ce film a inspiré l'album de Lucky Luke : _La Diligence_.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 781,
-              "duree": 97,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 1834
         }
       ]
     },
@@ -244,48 +200,6 @@
             }
           ],
           "idFilmBoxoffice": 25301
-        }
-      ]
-    },
-    {
-      "idSeance": 186261,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 970,
-          "idCategorie": 3669,
-          "titreCycle": "Le western, 25 indispensables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31864,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-11T20:15:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 36898,
-          "titre": "Étrange incident",
-          "art": "L'",
-          "titreVo": "Ox-Bow Incident",
-          "artVo": "The",
-          "realisateurs": "William A. Wellman",
-          "annee": 1943,
-          "duree": 75,
-          "generique": "Henry Fonda, Dana Andrews, Mary Beth Hughes, Anthony Quinn",
-          "synopsis": "En 1885, dans une petite ville du Nevada, l'éleveur Kinkaid a été assassiné par des voleurs de bétail. En l'absence du shérif, et malgré l'opposition du juge, le major Tetley rassemble une milice.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 25604,
-              "duree": 75,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 3947
         }
       ]
     },
@@ -419,7 +333,7 @@
       ]
     },
     {
-      "idSeance": 186321,
+      "idSeance": 187981,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -431,7 +345,7 @@
       ],
       "idEvenement": 31868,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-13T14:30:00",
+      "dateHeure": "2025-04-11T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -756,6 +670,52 @@
             }
           ],
           "idFilmBoxoffice": 37433
+        }
+      ]
+    },
+    {
+      "idSeance": 187982,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31877,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-11T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33202,
+          "titre": "Rio Bravo",
+          "realisateurs": "Howard Hawks",
+          "annee": 1958,
+          "duree": 105,
+          "generique": "John Wayne, Dean Martin, Ricky Nelson, Angie Dickinson, Walter Brennan",
+          "synopsis": "Shérif d'une petite ville, John T. Chance tente de maintenir l'ordre sur son territoire avec ses deux adjoints. L'un, Dude, est alcoolique, et l'autre, Stumpy, un vieillard boiteux. Tous doivent résister à une bande de hors-la-loi qui veulent faire sortir leur chef de prison.",
+          "commentaire": "« Désormais, les Américains regardent abondamment la télévision, où il n'y a que des cow-boys et des chanteurs. Alors j'ai fait un western avec des chanteurs... » Véritable leçon de morale stoïcienne, _Rio Bravo_ aura une influence énorme sur la génération suivante de réalisateurs – à commencer par John Carpenter et _Assaut_, où un certain « John T. Chance » signe d'ailleurs le montage... Tout en tension et humour mêlés, le dernier grand western classique, et l'aboutissement d'un genre.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23112,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 23192,
+              "duree": 140,
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 1274
         }
       ]
     },
@@ -1444,7 +1404,7 @@
       ],
       "idEvenement": 31935,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-07T18:30:00",
+      "dateHeure": "2025-05-07T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1637,7 +1597,7 @@
       ],
       "idEvenement": 31947,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-07T20:30:00",
+      "dateHeure": "2025-05-07T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1972,6 +1932,41 @@
       ]
     },
     {
+      "idSeance": 185736,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31968,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-22T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155032,
+          "titre": "Asteroid City",
+          "realisateurs": "Wes Anderson",
+          "annee": 2023,
+          "duree": 106,
+          "generique": "Scarlett Johansson, Jason Schwartzman, Tom Hanks",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28962,
+              "duree": 106
+            }
+          ],
+          "idFilmBoxoffice": 290497
+        }
+      ]
+    },
+    {
       "idSeance": 186890,
       "idProg": 334,
       "idCycleCategories": [
@@ -1984,7 +1979,7 @@
       ],
       "idEvenement": 31972,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-04T19:00:00",
+      "dateHeure": "2025-05-04T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2604,7 +2599,7 @@
       ],
       "idEvenement": 32006,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-07T19:00:00",
+      "dateHeure": "2025-05-07T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2828,18 +2823,18 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 2693,
-              "duree": 119,
-              "format": "35 mm",
-              "langCopie": "FRE",
-              "selected": true
-            },
-            {
               "idCopie": 29109,
               "duree": 119,
               "format": "35 mm",
               "langCopie": "FRE",
-              "sousTitres": "Autres"
+              "sousTitres": "Autres",
+              "selected": true
+            },
+            {
+              "idCopie": 2693,
+              "duree": 119,
+              "format": "35 mm",
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 31776
@@ -6318,7 +6313,7 @@
       ],
       "idEvenement": 32146,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-15T17:30:00",
+      "dateHeure": "2025-03-15T18:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6364,7 +6359,7 @@
       ],
       "idEvenement": 32147,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-15T19:30:00",
+      "dateHeure": "2025-03-15T20:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6398,7 +6393,7 @@
       ]
     },
     {
-      "idSeance": 187880,
+      "idSeance": 187979,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -6410,7 +6405,7 @@
       ],
       "idEvenement": 32148,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-20T21:15:00",
+      "dateHeure": "2025-03-15T15:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7788,7 +7783,7 @@
       ],
       "idEvenement": 32185,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-07T15:30:00",
+      "dateHeure": "2025-05-07T15:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -8187,7 +8182,7 @@
       ]
     },
     {
-      "idSeance": 187824,
+      "idSeance": 187980,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -8199,7 +8194,7 @@
       ],
       "idEvenement": 32255,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-15T15:00:00",
+      "dateHeure": "2025-03-20T21:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -9309,7 +9304,7 @@
       ],
       "idEvenement": 32381,
       "typeEvenement": 14,
-      "dateHeure": "2025-03-13T19:00:00",
+      "dateHeure": "2025-03-14T19:00:00",
       "typeConference": "Conférence",
       "idSalle": "GF",
       "duree": 90,
@@ -9398,6 +9393,33 @@
         {
           "idConf": 32396,
           "titre": "DARREN ARONOFSKY PAR DARREN ARONOFSKY",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 187984,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3707,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32397,
+      "typeEvenement": 14,
+      "dateHeure": "2025-04-12T16:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 32397,
+          "titre": "FILM + DIALOGUE LUBITSCH",
           "typeConference": "Dialogue",
           "duree": 60,
           "ordre": 1
