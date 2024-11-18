@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-18T09:57:59.103Z",
+  "updatedAt": "2024-11-18T12:21:34.573Z",
   "data": [
     {
       "idSeance": 186263,
@@ -115,7 +115,8 @@
               "format": "35 mm",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 178636
         }
       ]
     },
@@ -154,7 +155,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 15127
         }
       ]
     },
@@ -1561,7 +1563,7 @@
       ],
       "idEvenement": 31945,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-12T21:00:00",
+      "dateHeure": "2025-05-12T20:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1747,7 +1749,7 @@
       ],
       "idEvenement": 31950,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-12T17:00:00",
+      "dateHeure": "2025-05-12T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2839,7 +2841,8 @@
               "langCopie": "FRE",
               "sousTitres": "Autres"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 31776
         }
       ]
     },
@@ -2934,7 +2937,8 @@
               "format": "35 mm",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 15347
         }
       ]
     },
@@ -5453,7 +5457,7 @@
       ]
     },
     {
-      "idSeance": 187793,
+      "idSeance": 187844,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -5465,8 +5469,8 @@
       ],
       "idEvenement": 32111,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-13T18:30:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-03-15T16:30:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -7441,6 +7445,82 @@
       ]
     },
     {
+      "idSeance": 187975,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32174,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-02T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 56826,
+          "titre": "Maîtresse",
+          "realisateurs": "Barbet Schroeder",
+          "annee": 1975,
+          "duree": 112,
+          "generique": "Gérard Depardieu, Bulle Ogier, André Rouyer",
+          "synopsis": "Vendeur d'encyclopédies et cambrioleur, Mario s'introduit un jour, avec un ami, dans l'appartement d'une jeune femme. Ils y font la connaissance d'Ariane, qui se révèle la maîtresse incontestée d'un trouble univers.",
+          "miniTexte": "Le scandale de sa sortie dissipé depuis longtemps, ce qui frappe aujourd'hui dans _Maîtresse_, et sa description naturaliste et frontale des milieux SM parisiens, c'est son honnêteté, cette manière de filmer l'extraordinaire sans aucun surplomb ni ironie. L'histoire d'amour entre Bulle Ogier et Gérard Depardieu, tous deux bouleversants, n'en est que plus forte.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 7879,
+              "duree": 112,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 1370
+        }
+      ]
+    },
+    {
+      "idSeance": 187976,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32175,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-08T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51130,
+          "titre": "Mado",
+          "realisateurs": "Claude Sautet",
+          "annee": 1976,
+          "duree": 135,
+          "generique": "Michel Piccoli, Ottavia Piccolo, Jacques Dutronc, Romy Schneider",
+          "synopsis": "Simon Léotard, un promoteur immobilier, se retrouve ruiné par Lepidon, un concurrent véreux. Ce dernier lui réclame le remboursement des traites qu'il a consenties à son associé, qui vient de se suicider. Grâce à Mado, une jeune prostituée dont il tombe amoureux, Simon se venge de Lepidon.",
+          "commentaire": "L'un des films préférés de Claude Sautet, avec Michel Piccoli et Ottavia Piccolo dans le personnage de Mado. Et un rôle très court pour Romy Schneider, sombre et sans fard, incarnant en quelques gestes la fragilité d'une femme alcoolique. Une seule scène mais d'une présence qu'on n'oublie pas.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 2190,
+              "duree": 135,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 3526
+        }
+      ]
+    },
+    {
       "idSeance": 187960,
       "idProg": 334,
       "idCycleCategories": [
@@ -7563,6 +7643,186 @@
             }
           ],
           "idFilmBoxoffice": 147
+        }
+      ]
+    },
+    {
+      "idSeance": 186903,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32180,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-05T16:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44540,
+          "titre": "Joueurs d'échecs",
+          "art": "Les",
+          "titreVo": "Shatranj ke khilari",
+          "realisateurs": "Satyajit Ray",
+          "annee": 1976,
+          "duree": 120,
+          "generique": "Richard Attenborough, Amjad Khan, Sanjeev Kumar",
+          "synopsis": "Inde 1850, deux propriétaires terriens jouent d'interminables parties d'échecs. Plongés dans leurs passions, ils ignorent les visées colonisatrices de la puissante armée britannique.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 9181,
+              "duree": 120,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 221
+        }
+      ]
+    },
+    {
+      "idSeance": 187977,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32182,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-09T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31044,
+          "titre": "Gloria",
+          "realisateurs": "John Cassavetes",
+          "annee": 1979,
+          "duree": 123,
+          "generique": "Gena Rowlands, John Adames, Julie Carmen, Buck Henry",
+          "synopsis": "Gloria, New-Yorkaise solitaire et ancienne maîtresse d'un gangster, recueille le jeune fils de ses voisins de palier, assassinés par la mafia. Elle décide de s'enfuir avec lui pour le protéger de la pègre.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 18531,
+              "duree": 123,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 958
+        }
+      ]
+    },
+    {
+      "idSeance": 187978,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32183,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-12T15:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31341,
+          "titre": "Bronco Billy",
+          "realisateurs": "Clint Eastwood",
+          "annee": 1979,
+          "duree": 116,
+          "generique": "Clint Eastwood, Sondra Locke, Geoffrey Lewis",
+          "ageMinimal": 10,
+          "synopsis": "Le cow-boy Bronco Billy est à la tête d'un petit cirque western peuplé de toute sorte de personnages marginaux qui voyagent, de foire en foire, sur les routes de l'Ouest. Alors que le monde se modernise, ils continuent de croire à leur spectacle... La rencontre avec Antoinette Lily, engagée pour le numéro de tireur d'élite, va bouleverser leur quotidien. De l'aveu même d'Eastwood, ce film est un hommage discret à l'univers de Federico Fellini.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 17879,
+              "duree": 116,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29106,
+              "duree": 119,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 386
+        }
+      ]
+    },
+    {
+      "idSeance": 186939,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32185,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-07T15:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38136,
+          "titre": "Kagemusha, l'ombre du guerrier (Director's Cut)",
+          "titreVo": "Kagemusha",
+          "titreNx": "影武者",
+          "realisateurs": "Akira Kurosawa",
+          "annee": 1979,
+          "duree": 179,
+          "generique": "Tatsuya Nakadai, Tsutomu Yamazaki, Kenichi Hagiwara",
+          "synopsis": "En guerre avec d'autres clans, le chef des Takeda s'adjoint un sosie afin d'être omniprésent. Mais le chef meurt et le sosie sert à cacher la défaillance du pouvoir.",
+          "commentaire": "« Henri Langlois est toujours vivant au fond de moi. C'est lui qui m'a incité avec passion à tourner des films en couleurs. J'ai tourné à titre d'essai _Dodes'kaden_. Après avoir fait _Dersou Ouzala_, j'ai enfin pu, dans _Kagemusha_, atteindre le stade où j'utilisai la couleur librement, à ma manière. » (Akira Kurosawa)",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 3647,
+              "duree": 179,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "JPN",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 11786,
+              "duree": 179,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 955
         }
       ]
     },
@@ -8173,7 +8433,8 @@
           "annee": 1955,
           "generique": "Hideko Takamine, Masayuki Mori, Mariko Okada",
           "synopsis": "Durant un voyage en Indochine pendant la Seconde Guerre mondiale, Yukiko fait la rencontre de Kengo, un homme marié. Celui-ci promet de divorcer à leur retour au Japon.",
-          "status": 0
+          "status": 0,
+          "idFilmBoxoffice": 1930
         }
       ]
     },
@@ -8313,7 +8574,8 @@
           "generique": "Jean-Paul Belmondo, Serge Reggiani, Jean Desailly",
           "adaptation": "D'après le roman _Le Doulos_ de Pierre Lesou.",
           "synopsis": "Un gangster ne sait pas que son meilleur ami est indicateur de police.",
-          "status": 0
+          "status": 0,
+          "idFilmBoxoffice": 918
         }
       ]
     },
@@ -8357,7 +8619,7 @@
       ],
       "idEvenement": 32338,
       "typeEvenement": 14,
-      "dateHeure": "2025-04-17T21:30:00",
+      "dateHeure": "2025-04-16T21:30:00",
       "typeConference": "Dialogue",
       "idSalle": "HL",
       "duree": 60,
@@ -8434,7 +8696,8 @@
           "generique": "Sylvia Bataille, Jane Marken, André Gabriello, Georges Darnoux",
           "adaptation": "D'après la nouvelle _Une partie de campagne_ de Guy de Maupassant.",
           "synopsis": "Été 1860, Monsieur Dufour, accompagné de sa famille, décide de passer une journée à la campagne.\n\n---\n\nÉté 1860. Monsieur Dufour, un commerçant parisien, ainsi que son épouse, sa belle-mère, sa jeune fille et son commis et futur gendre, passent une journée à la campagne et déjeunent à l'auberge du père Poulain. Deuxcanotiers en goguette entreprennent de séduirela mère et la fille...",
-          "status": 0
+          "status": 0,
+          "idFilmBoxoffice": 1315
         }
       ]
     },
@@ -8524,7 +8787,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 14282
         }
       ]
     },
@@ -8550,7 +8814,8 @@
           "titre": "Meantime",
           "realisateurs": "Mike Leigh",
           "annee": 1983,
-          "status": 1
+          "status": 1,
+          "idFilmBoxoffice": 13746
         }
       ]
     },
@@ -8576,7 +8841,8 @@
           "titre": "High Hopes",
           "realisateurs": "Mike Leigh",
           "annee": 1988,
-          "status": 0
+          "status": 0,
+          "idFilmBoxoffice": 4624
         }
       ]
     },
@@ -8612,7 +8878,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 6999
         }
       ]
     },
@@ -8687,7 +8954,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 15225
         }
       ]
     },
@@ -8714,7 +8982,8 @@
           "titreVo": "Career Girls",
           "realisateurs": "Mike Leigh",
           "annee": 1996,
-          "status": 0
+          "status": 0,
+          "idFilmBoxoffice": 10441
         }
       ]
     },
@@ -8750,7 +9019,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 21848
         }
       ]
     },
@@ -8776,7 +9046,8 @@
           "titre": "All or Nothing",
           "realisateurs": "Mike Leigh",
           "annee": 2001,
-          "status": 0
+          "status": 0,
+          "idFilmBoxoffice": 42084
         }
       ]
     },
@@ -8802,7 +9073,8 @@
           "titre": "Vera Drake",
           "realisateurs": "Mike Leigh",
           "annee": 2004,
-          "status": 0
+          "status": 0,
+          "idFilmBoxoffice": 57418
         }
       ]
     },
@@ -8839,7 +9111,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 9906
         }
       ]
     },
@@ -8883,7 +9156,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 171855
         }
       ]
     },
@@ -8909,7 +9183,8 @@
           "titre": "Mr. Turner",
           "realisateurs": "Mike Leigh",
           "annee": 2013,
-          "status": 0
+          "status": 0,
+          "idFilmBoxoffice": 218496
         }
       ]
     },
@@ -8935,7 +9210,8 @@
           "titre": "Peterloo",
           "realisateurs": "Mike Leigh",
           "annee": 2018,
-          "status": 0
+          "status": 0,
+          "idFilmBoxoffice": 237203
         }
       ]
     },
@@ -8967,6 +9243,33 @@
       "items": []
     },
     {
+      "idSeance": 187967,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 976,
+          "idCategorie": 3705,
+          "titreCycle": "Robert Benton",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32379,
+      "typeEvenement": 14,
+      "dateHeure": "2025-03-23T16:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 32379,
+          "titre": "DIALOGUE AVEC MURIELLE JOUDET",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 1
+        }
+      ]
+    },
+    {
       "idSeance": 187911,
       "idProg": 334,
       "idCycleCategories": [
@@ -8994,6 +9297,33 @@
       ]
     },
     {
+      "idSeance": 187966,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3707,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32381,
+      "typeEvenement": 14,
+      "dateHeure": "2025-03-13T19:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "GF",
+      "duree": 90,
+      "items": [
+        {
+          "idConf": 32381,
+          "titre": "CONFÉRENCE LUBITSCH",
+          "typeConference": "Conférence",
+          "duree": 90,
+          "ordre": 1
+        }
+      ]
+    },
+    {
       "idSeance": 187912,
       "idProg": 334,
       "idCycleCategories": [
@@ -9014,6 +9344,141 @@
         {
           "idConf": 32382,
           "titre": "WES ANDERSON PAR WES ANDERSON",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 187971,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3715,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32395,
+      "typeEvenement": 14,
+      "dateHeure": "2025-05-03T19:00:00",
+      "typeConference": "Dialogue",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 32395,
+          "titre": "DIALOGUE AVEC JEAN-FRANÇOIS RAUGER",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 187968,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 981,
+          "idCategorie": 3716,
+          "titreCycle": "Darren Aronofsky",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32396,
+      "typeEvenement": 14,
+      "dateHeure": "2025-04-05T16:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 32396,
+          "titre": "DARREN ARONOFSKY PAR DARREN ARONOFSKY",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 187969,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3708,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32398,
+      "typeEvenement": 14,
+      "dateHeure": "2025-04-26T16:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 32398,
+          "titre": "DIALOGUE AVEC MATTHIEU ORLÉAN",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 187974,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3708,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32399,
+      "typeEvenement": 14,
+      "dateHeure": "2025-05-10T16:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 32399,
+          "titre": "DIALOGUE AVEC NICOLAS SAADA",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 187972,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3717,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32400,
+      "typeEvenement": 14,
+      "dateHeure": "2025-05-04T16:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 32400,
+          "titre": "DIALOGUE AVEC SERGE CHAUVIN",
           "typeConference": "Dialogue",
           "duree": 60,
           "ordre": 1
