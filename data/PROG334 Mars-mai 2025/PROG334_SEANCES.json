@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-18T14:56:44.027Z",
+  "updatedAt": "2024-11-18T16:23:34.003Z",
   "data": [
     {
       "idSeance": 186263,
@@ -37,6 +37,111 @@
             }
           ],
           "idFilmBoxoffice": 75582
+        }
+      ]
+    },
+    {
+      "idSeance": 186498,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 955,
+          "idCategorie": 3652,
+          "titreCycle": "Louis Skorecki",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31785,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-19T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 125577,
+          "titre": "Cinéphiles : Éric a disparu",
+          "art": "Les",
+          "realisateurs": "Louis Skorecki",
+          "annee": 1988,
+          "duree": 56,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 8901,
+              "duree": 56,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 4722
+        },
+        {
+          "ordre": 2,
+          "idFilm": 103111,
+          "titre": "Cinéphiles 3 : Les Ruses de Frédéric",
+          "art": "Les",
+          "realisateurs": "Louis Skorecki",
+          "annee": 2006,
+          "duree": 32,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29211,
+              "duree": 32,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187947,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 955,
+          "idCategorie": 3652,
+          "titreCycle": "Louis Skorecki",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31786,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-19T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51176,
+          "titre": "Cinéphiles : Le retour de Jean",
+          "art": "Les",
+          "realisateurs": "Louis Skorecki",
+          "annee": 1988,
+          "duree": 74,
+          "generique": "Nidam Abdi, Sébastien Clerger, Nathalie Coffre",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 8900,
+              "duree": 74,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "FRE",
+              "selected": true
+            },
+            {
+              "idCopie": 28002,
+              "duree": 74,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 28003,
+              "duree": 74,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 4717
         }
       ]
     },
@@ -1851,6 +1956,48 @@
       ]
     },
     {
+      "idSeance": 186133,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31959,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-06T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 77667,
+          "titre": "Famille Tenenbaum",
+          "art": "La",
+          "titreVo": "Royal Tenenbaums",
+          "artVo": "The",
+          "realisateurs": "Wes Anderson",
+          "annee": 2001,
+          "duree": 110,
+          "generique": "Gene Hackman, Anjelica Huston, Ben Stiller",
+          "synopsis": "Chez les Tenenbaum, les enfants ont toujours été des génies. Mais un jour, Etheline, leur mère, demande le divorce.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 11317,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 29188
+        }
+      ]
+    },
+    {
       "idSeance": 185754,
       "idProg": 334,
       "idCycleCategories": [
@@ -1894,6 +2041,175 @@
       ]
     },
     {
+      "idSeance": 187988,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31961,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-19T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 103939,
+          "titre": "À bord du Darjeeling Limited",
+          "titreVo": "Darjeeling Limited",
+          "artVo": "The",
+          "realisateurs": "Wes Anderson",
+          "annee": 2007,
+          "duree": 91,
+          "generique": "Owen Wilson, Adrien Brody, Jason Schwartzman",
+          "synopsis": "Trois frères qui ne se sont pas parlé depuis la mort de leur père décident de faire ensemble un grand voyage en train à travers l'Inde afin de renouer les liens d'autrefois.",
+          "commentaire": "_À bord du Darjeeling Limited_ est le cinquième long métrage de Wes Anderson. Il impose l'univers fascinant et coloré du cinéaste, où décors élaborés et costumes délicats le disputent à une mise en scène dynamique et nerveuse. Les petits espaces des compartiments et le couloir exigu du train obligent à une construction méticuleuse dans un cadre réduit, le train lui-même figurant l'histoire qui avance. Le film s'ouvre sur ce qui paraît une course-poursuite. Il y a bien une course : celle entre Bill Murray et Adrien Brody, pour qui il s'agit de monter dans le train qui vient de partir. Course entre deux générations d'acteurs, seul le plus jeune parviendra à bord du Darjeeling Limited : c'est son aventure, un voyage initiatique, après l'enfance. Peter (Adrien Brody) rejoint à bord ses deux frères, Francis (Owen Wilson) et Jack (Jason Schwartzman). Ils entament ensemble un voyage « spirituel » à travers le Rajasthan dont l'objet sera, pour ces garçons en quête de sens familial, de reconstituer une fratrie décomposée et, plus matures, de réapprendre à vivre. Traiter des sujets forts (et parfois embarrassants) à la manière d'une comédie d'aventures légère et mélancolique est un art ici parfaitement maîtrisé par Wes Anderson. Le film, émouvant et sensible, à l'esthétique affirmée et à la mise en scène élégante, approche avec intelligence les difficultés des personnages à être au monde. En l'occurrence une partie du monde, l'Inde, où ils se retrouvent à la fois perdus et bouleversés. Les trois frères trimballent une tonne de valises chics et personnalisées, dont on se demande ce qu'elles peuvent bien contenir (on les ouvre seulement pour y trouver des antidépresseurs et un gaz lacrymogène servant au cadet à tenir ses aînés à distance) et dont c'est peu de dire qu'elles encombrent. Leur mission achevée (retrouver leur mère retirée dans un monastère himalayen), les frangins, montés _in extremis_ à bord du train du retour, contemplent leurs bagages jetés à terre, épars, comme on regarde s'éloigner un passé trop lourd, encombrant. Adultes, ils sont soulagés. Et nous, ravis.\n\nMatthieu Grimault",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 11326,
+              "duree": 91,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 22857,
+              "duree": 0,
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 115736
+        }
+      ]
+    },
+    {
+      "idSeance": 187954,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31962,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-26T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 122457,
+          "titre": "Grand Budapest Hotel",
+          "art": "The",
+          "realisateurs": "Wes Anderson",
+          "annee": 2013,
+          "duree": 99,
+          "generique": "Ralph Fiennes, F. Murray Abraham, Mathieu Amalric",
+          "synopsis": "Un vieil écrivain se souvient de son entrevue avec le propriétaire du fameux hôtel Grand Budapest.",
+          "commentaire": "« En réalité, le gourmet, comme l'artiste, est l'une des créatures les plus malheureuses sur terre. Son mal vient de ce qu'il recherche constamment et trouve si peu : la perfection. » (Ludwig Bemelmans)\n\nOn nomme manie, en psychiatrie, un état d'excitation intellectuelle et physique avec exaltation de l'humeur et euphorie anormale. Ainsi, _The Grand Budapest Hotel_ est une comédie maniaque à saturation ébouriffante : casting en avalanche de stars funambules hollywoodiennes et européennes, récit à tiroirs façon matriochka (télescopage de trois époques différentes avec son jeu de trois formats d'image distincts), dialogues mitraillettes et mille idées formelles à la minute récompensées ici et là (décors, costumes et accessoires, séquences en stop motion et en silhouette), photographie tout en symétrie signée par le désormais attitré Robert D. Yeoman, sans oublier l'orchestre Ossipov et ses trente-cinq joueurs de balalaïkas, cors des alpes, orgue, cloches ou autre cymbalum (Oscar de la meilleure musique pour Randall Poster et Alexandre Desplat, déjà présent sur _Fantastic Mr. Fox_ et _Moonrise Kingdom_). Le film a été tourné principalement à Görlitz (zone interrogeant la frontière, entre Allemagne, Pologne et République tchèque), mais pour les nombreux plans larges du palace (inspiration mélangée du Palais Bristol, Grandhotel Pupp et du Gellért à Budapest), une maquette de trois mètres de haut a été réalisée, maison de poupée monumentale entièrement décorée à la main, objet de musée immédiat. Pour raconter les tribulations d'une Mitteleuropa qui court à sa perte, Wes Anderson s'est clairement inspiré des écrits de Stefan Zweig, de l'imaginaire de Ludwig Bemelmans et du cinéma d'Ernst Lubitsch. Un bel ensemble obsessionnel et joyeux, tiré à quatre épingles et parfaitement remonté comme un coucou sophistiqué de la Forêt-Noire perfectionné au Japon, qui donne vie à un drôle de mélange entre fougue (travelling en longue prise et effet domino, signatures du cinéaste) et mélancolie, à ce tropisme délicat pour le monde perdu en photochrome et résistance pudique à la nuit de l'humanité des années 1940.\n\nÉmilie Cauquy",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 11097,
+              "duree": 99,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 207825
+        }
+      ]
+    },
+    {
+      "idSeance": 186888,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31963,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-04T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 138742,
+          "titre": "Île aux chiens",
+          "art": "L'",
+          "titreVo": "Isle of Dogs",
+          "realisateurs": "Wes Anderson",
+          "annee": 2017,
+          "duree": 101,
+          "generique": "Bryan Cranston, Edward Norton, Koyu Rankin",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28974,
+              "duree": 101
+            }
+          ],
+          "idFilmBoxoffice": 241680
+        }
+      ]
+    },
+    {
+      "idSeance": 186510,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31964,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-20T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 116174,
+          "titre": "Moonrise Kingdom",
+          "realisateurs": "Wes Anderson",
+          "annee": 2011,
+          "duree": 94,
+          "generique": "Bruce Willis, Edward Norton, Jared Gilman, Kara Hayward",
+          "ageMinimal": 10,
+          "synopsis": "Sam et Suzy, douze ans, tombent amoureux et planifient en secret leur fugue vers le fin fond de la forêt. Tandis que toute la communauté de l'île part à leur recherche, une tempête se rapproche dangereusement des côtes.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 14518,
+              "duree": 94,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 187864
+        }
+      ]
+    },
+    {
       "idSeance": 186699,
       "idProg": 334,
       "idCycleCategories": [
@@ -1928,6 +2244,84 @@
             }
           ],
           "idFilmBoxoffice": 269684
+        }
+      ]
+    },
+    {
+      "idSeance": 187881,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31966,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-30T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 65554,
+          "titre": "Rushmore",
+          "realisateurs": "Wes Anderson",
+          "annee": 1998,
+          "duree": 89,
+          "generique": "Jason Schwartzman, Bill Murray, Olivia Williams",
+          "synopsis": "Max est étudiant à Rushmore. Il délaisse ses études au profit d'une multitude d'activités extra-scolaires.",
+          "commentaire": "_Rushmore_ a déjà commencé depuis cinq bonnes minutes. C'est une entame honorable, de belle facture, mais rien ne déborde vraiment du traditionnel programme du film de campus. Puis déboule une courte séquence, deux minutes un peu folles, nouvelles. Deux minutes qui lancent le film, et le cinéma de Wes Anderson dans un même mouvement. Un lumineux enchaînement de plans comme un manifeste esthétique, que le cinéaste s'emploiera ensuite à développer, à polir, dans les films qui suivront. Avec des cadres au cordeau, à la symétrie millimétrée. Une direction artistique rétro-pastel quasi maniaque. Une bande originale racée : The Kinks, The Faces, The Who... En quinze plans léchés et emballants, Anderson vient de poser les bases de son art. Son précédent et premier film, _Bottle Rocket_, ne laissait rien présager de cette brusque éclosion. La comédie, sympathique, dévoilait un réel talent, mais plastiquement, le film ne tranchait pas. _Rushmore_ tranche. Il ne ressemble à rien d'autre qu'à ce que deviendra ensuite la patte Anderson, assemblage hétéroclite d'esthétique publicitaire, de dispositifs théâtraux, de bricolages dandys et de références lettrées : Stefan Zweig, Jacques-Yves Cousteau, Jules Verne, Hal Ashby, Yves Montand... S'il a parfois été reproché au cinéma de Wes Anderson son côté mignon, maison de poupées pop, ce qui étonne finalement devant _Rushmore_, c'est combien ces procédés de mise en scène voyants n'étouffent jamais l'émotion : derrière les artifices sourd une mélancolie retenue, une petite note triste tenue tout le long du film et qui, le dernier plan venu, vous laisse sur le flanc. Bill Murray, équilibriste de génie, y est dans la même seconde hilarant et déchirant. Il porte ce petit film fragile sur ses épaules, et trouve ici le rôle – et le cinéaste – qui feront basculer sa carrière et l'introniseront roi sur l'échiquier du cool. Ce n'est pas le moindre attrait de _Rushmore_, mont séduisant d'une œuvre en devenir.\n\nXavier Jamet",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 11001,
+              "duree": 89,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 21344
+        }
+      ]
+    },
+    {
+      "idSeance": 187983,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31967,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-13T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 95860,
+          "titre": "Vie aquatique",
+          "art": "La",
+          "titreVo": "Life Aquatic with Steve Zissou",
+          "artVo": "The",
+          "realisateurs": "Wes Anderson",
+          "annee": 2003,
+          "duree": 118,
+          "generique": "Bill Murray, Owen Wilson, Anjelica Huston",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28976,
+              "duree": 118
+            }
+          ],
+          "idFilmBoxoffice": 53109
         }
       ]
     },
@@ -1979,7 +2373,7 @@
       ],
       "idEvenement": 31972,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-04T20:30:00",
+      "dateHeure": "2025-05-04T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2224,7 +2618,7 @@
       ]
     },
     {
-      "idSeance": 186870,
+      "idSeance": 187248,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2236,7 +2630,7 @@
       ],
       "idEvenement": 31985,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-03T14:30:00",
+      "dateHeure": "2025-05-17T14:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2364,7 +2758,7 @@
       ],
       "idEvenement": 31994,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-04T16:30:00",
+      "dateHeure": "2025-05-04T14:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2455,44 +2849,6 @@
           "annee": 1950,
           "status": 0,
           "idFilmBoxoffice": 108891
-        }
-      ]
-    },
-    {
-      "idSeance": 186831,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 973,
-          "idCategorie": 3672,
-          "titreCycle": "Robert Wise",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31997,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-02T20:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 60806,
-          "titre": "Récupérateur de cadavres",
-          "titreVo": "Body Snatcher",
-          "artVo": "The",
-          "realisateurs": "Robert Wise",
-          "annee": 1945,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 29156,
-              "duree": 0,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            }
-          ],
-          "idFilmBoxoffice": 18709
         }
       ]
     },
@@ -2683,36 +3039,6 @@
             }
           ],
           "idFilmBoxoffice": 16926
-        }
-      ]
-    },
-    {
-      "idSeance": 186830,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 973,
-          "idCategorie": 3672,
-          "titreCycle": "Robert Wise",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32009,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-02T18:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 46127,
-          "titre": "Malédiction des hommes chats",
-          "art": "La",
-          "titreVo": "Curse of the Cat People",
-          "realisateurs": "Gunther V. Fritsch, Robert Wise",
-          "annee": 1943,
-          "generique": "Simone Simon, Kent Smith, Jane Randolph",
-          "status": 1,
-          "idFilmBoxoffice": 11121
         }
       ]
     },
@@ -7453,7 +7779,7 @@
       "idEvenement": 32174,
       "typeEvenement": 13,
       "dateHeure": "2025-05-02T16:00:00",
-      "idSalle": "GF",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -9346,6 +9672,33 @@
       ]
     },
     {
+      "idSeance": 187985,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3714,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32394,
+      "typeEvenement": 14,
+      "dateHeure": "2025-04-26T16:30:00",
+      "typeConference": "Dialogue",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 32394,
+          "titre": "FILM + DIALOGUE",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 1
+        }
+      ]
+    },
+    {
       "idSeance": 187971,
       "idProg": 334,
       "idCycleCategories": [
@@ -9439,7 +9792,7 @@
       ],
       "idEvenement": 32398,
       "typeEvenement": 14,
-      "dateHeure": "2025-04-26T16:30:00",
+      "dateHeure": "2025-04-27T16:30:00",
       "typeConference": "Dialogue",
       "idSalle": "HL",
       "duree": 60,
@@ -9504,6 +9857,161 @@
           "typeConference": "Dialogue",
           "duree": 60,
           "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 187986,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 955,
+          "idCategorie": 3720,
+          "titreCycle": "Louis Skorecki",
+          "titreSousCycle": "Courts métrages"
+        }
+      ],
+      "idEvenement": 32415,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-20T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155083,
+          "titre": "pieds dans les nuages (et la tête dans la lune)",
+          "art": "Les",
+          "realisateurs": "Louis Skorecki",
+          "annee": 1966,
+          "duree": 20,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29206,
+              "duree": 20,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 71649,
+          "titre": "Escalier de la haine",
+          "art": "L'",
+          "realisateurs": "Louis Skorecki",
+          "annee": 1982,
+          "duree": 41,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29207,
+              "duree": 41,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 155087,
+          "titre": "Histoire sentimentale",
+          "art": "Une",
+          "realisateurs": "Louis Skorecki",
+          "annee": 1984,
+          "duree": 25,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29209,
+              "duree": 25,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 155088,
+          "titre": "LN 2/3",
+          "realisateurs": "Louis Skorecki",
+          "annee": 1988,
+          "duree": 10,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29210,
+              "duree": 10,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186516,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 955,
+          "idCategorie": 3652,
+          "titreCycle": "Louis Skorecki",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32425,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-20T19:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155089,
+          "titre": "Retour des cinéphiles",
+          "art": "Le",
+          "realisateurs": "Louis Skorecki",
+          "annee": 2007,
+          "duree": 52,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29212,
+              "duree": 52,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186496,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 955,
+          "idCategorie": 3652,
+          "titreCycle": "Louis Skorecki",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32428,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-19T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155092,
+          "titre": "Juif de Lascaux",
+          "art": "Le",
+          "realisateurs": "Louis Skorecki",
+          "annee": 2015,
+          "duree": 52,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29215,
+              "duree": 52,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     }
