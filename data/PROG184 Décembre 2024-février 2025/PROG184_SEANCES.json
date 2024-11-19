@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-19T09:09:31.596Z",
+  "updatedAt": "2024-11-19T11:24:51.911Z",
   "data": [
     {
       "idSeance": 185115,
@@ -4131,6 +4131,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
+              "stDemande": true,
               "selected": true
             },
             {
@@ -4352,20 +4353,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28864,
-              "duree": 90,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 29127,
               "duree": 90,
               "format": "16 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 9705

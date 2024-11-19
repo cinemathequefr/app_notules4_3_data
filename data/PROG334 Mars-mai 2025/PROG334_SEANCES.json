@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-19T09:09:01.980Z",
+  "updatedAt": "2024-11-19T11:24:23.194Z",
   "data": [
     {
       "idSeance": 186263,
@@ -8090,7 +8090,7 @@
           "annee": 1968,
           "duree": 110,
           "generique": "Paul Newman, Robert Redford, Katharine Ross, Strother Martin",
-          "synopsis": "Fin 19ème siècle, au Far West. Butch Cassidy et Sundance Kid, deux séduisants et intrépides malfrats, pillent des banques et détroussent les voyageurs de train. Une escouade de détectives est engagée par l'Union Pacific et, déterminée à en finir, se lance à travers l'espace américain à la poursuite des deux bandits.",
+          "synopsis": "Fin XIX<sup>e</sup> siècle, au Far West. Butch Cassidy et le Sundance Kid, deux séduisants et intrépides malfrats, pillent des banques et détroussent les voyageurs de train. Une escouade de détectives est engagée par l'Union Pacific et, déterminée à en finir, se lance à travers l'espace américain à la poursuite des deux bandits.",
           "commentaire": "En 1968, alors que le « western spaghetti » s'est emparé du genre en rendant désuète sa version américaine, _Butch Cassidy et le Kid_ résonne comme une balade sauvage aux allures de relecture nostalgique. Soutenu par l'excellent scénario de William Goldman – qui recevra l'Oscar –, le long métrage prend le judicieux parti de narrer l'émergence d'un nouveau monde au sein duquel ses héros ne se reconnaissent plus. Par l'élégance de sa mise en scène – d'une introduction mélancolique à une magnifique séquence à bicyclette –, il raconte, sous son récit de hors-la-loi en cavale, l'envie de goûter à une jeunesse éternelle face à la disparition progressive de nos repères. En filmant Paul Newman et Robert Redford tels deux enfants terribles à la fois tendres et cyniques, George Roy Hill saisit la complicité, l'indéfectible amitié, mais aussi les failles qui unissent ses personnages. Sans chercher à les excuser, ni à les diaboliser, il observe, entre joyeuse ironie et noirceur romanesque, l'impact d'une société où la perspective d'un horizon meilleur s'est évanouie dans la nature.",
           "status": 1,
           "copies": [
@@ -9240,8 +9240,8 @@
           "duree": 116,
           "generique": "Clint Eastwood, Sondra Locke, Geoffrey Lewis",
           "ageMinimal": 10,
-          "synopsis": "Le cow-boy Bronco Billy est à la tête d'un petit cirque western peuplé de toute sorte de personnages marginaux qui voyagent, de foire en foire, sur les routes de l'Ouest. Alors que le monde se modernise, ils continuent de croire à leur spectacle... La rencontre avec Antoinette Lily, engagée pour le numéro de tireur d'élite, va bouleverser leur quotidien. De l'aveu même d'Eastwood, ce film est un hommage discret à l'univers de Federico Fellini.",
-          "status": 0,
+          "synopsis": "Le cowboy Bronco Billy est à la tête d'un petit cirque western peuplé de toute sorte de personnages marginaux qui voyagent, de foire en foire, sur les routes de l'Ouest. Alors que le monde se modernise, ils continuent de croire à leur spectacle... La rencontre avec Antoinette Lily, engagée pour le numéro de tireur d'élite, va bouleverser leur quotidien. De l'aveu même d'Eastwood, ce film est un hommage discret à l'univers de Federico Fellini.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 17879,
@@ -10596,7 +10596,17 @@
           "titre": "High Hopes",
           "realisateurs": "Mike Leigh",
           "annee": 1988,
+          "duree": 112,
           "status": 0,
+          "copies": [
+            {
+              "idCopie": 29228,
+              "duree": 112,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 4624
         }
       ]
@@ -10801,7 +10811,17 @@
           "titre": "All or Nothing",
           "realisateurs": "Mike Leigh",
           "annee": 2001,
+          "duree": 128,
           "status": 0,
+          "copies": [
+            {
+              "idCopie": 29224,
+              "duree": 128,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 42084
         }
       ]
@@ -10828,7 +10848,17 @@
           "titre": "Vera Drake",
           "realisateurs": "Mike Leigh",
           "annee": 2004,
+          "duree": 125,
           "status": 0,
+          "copies": [
+            {
+              "idCopie": 29226,
+              "duree": 125,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 57418
         }
       ]
@@ -10910,6 +10940,13 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 29227,
+              "duree": 129,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 171855
@@ -10938,7 +10975,16 @@
           "titre": "Mr. Turner",
           "realisateurs": "Mike Leigh",
           "annee": 2013,
+          "duree": 149,
           "status": 0,
+          "copies": [
+            {
+              "idCopie": 29225,
+              "duree": 149,
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 218496
         }
       ]
