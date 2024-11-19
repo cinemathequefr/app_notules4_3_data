@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-18T16:23:34.003Z",
+  "updatedAt": "2024-11-19T09:09:01.980Z",
   "data": [
     {
       "idSeance": 186263,
@@ -53,7 +53,7 @@
       ],
       "idEvenement": 31785,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-19T19:30:00",
+      "dateHeure": "2025-04-19T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -187,6 +187,40 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 187209,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31840,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-16T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155019,
+          "titre": "Metalstorm",
+          "realisateurs": "Charles Band",
+          "annee": 1983,
+          "duree": 84,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28903,
+              "duree": 84
+            }
+          ],
+          "idFilmBoxoffice": 186478
+        }
+      ]
+    },
+    {
       "idSeance": 186075,
       "idProg": 334,
       "idCycleCategories": [
@@ -263,6 +297,42 @@
             }
           ],
           "idFilmBoxoffice": 15127
+        }
+      ]
+    },
+    {
+      "idSeance": 187208,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31853,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-16T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30274,
+          "titre": "Future cop",
+          "titreVo": "Trancers",
+          "realisateurs": "Charles Band",
+          "annee": 1984,
+          "duree": 76,
+          "generique": "Tim Thomerson, Helen Hunt, Telma Hopkins",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28907,
+              "duree": 76
+            }
+          ],
+          "idFilmBoxoffice": 199597
         }
       ]
     },
@@ -1534,6 +1604,187 @@
       ]
     },
     {
+      "idSeance": 187282,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31936,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-19T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 56897,
+          "titre": "Caro Gorbaciov",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1988,
+          "duree": 85,
+          "generique": "Harvey Keitel, Flaminia Lizzani",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28983,
+              "duree": 85
+            }
+          ],
+          "idFilmBoxoffice": 206174
+        }
+      ]
+    },
+    {
+      "idSeance": 187273,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31937,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-18T19:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43368,
+          "titre": "Casa del tappeto giallo",
+          "art": "La",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1983,
+          "duree": 89,
+          "generique": "Erland Josephson, Béatrice Romand, Vittorio Mezzogiorno",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28981,
+              "duree": 89
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187283,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31938,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-19T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 147185,
+          "titre": "Cattiva",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1990,
+          "duree": 97,
+          "generique": "Giuliana De Sio, Julian Sands, Erland Josephson",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28984,
+              "duree": 97,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187131,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31939,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-14T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 89804,
+          "titre": "Célestine",
+          "art": "La",
+          "titreVo": "Celestina P... R...",
+          "artVo": "La",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1964,
+          "duree": 105,
+          "generique": "Assia Noris, Beba Loncar, Raffaella Carrà",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28960,
+              "duree": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187254,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31940,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-17T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43374,
+          "titre": "Fontamara",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1980,
+          "duree": 139,
+          "generique": "Michele Placido, Antonella Murgia, Ida Di Benedetto",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28980,
+              "duree": 139,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 186894,
       "idProg": 334,
       "idCycleCategories": [
@@ -1570,6 +1821,76 @@
             }
           ],
           "idFilmBoxoffice": 193356
+        }
+      ]
+    },
+    {
+      "idSeance": 187132,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31942,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-14T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54870,
+          "titre": "Jo le fou",
+          "titreVo": "Crazy Joe",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1973,
+          "duree": 101,
+          "generique": "Peter Boyle",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28971,
+              "duree": 101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187253,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31943,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-17T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 137657,
+          "titre": "Double plaisir",
+          "titreVo": "Kleinhoff Hotel",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1977,
+          "duree": 105,
+          "generique": "Corinne Cléry, Bruce Robinson, Katja Rupé",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28979,
+              "duree": 105
+            }
+          ]
         }
       ]
     },
@@ -1840,6 +2161,81 @@
       ]
     },
     {
+      "idSeance": 188004,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31951,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-15T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 60725,
+          "titre": "Tuer pour tuer",
+          "titreVo": "San Babila ore venti : Un delitto inutile",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1975,
+          "duree": 101,
+          "generique": "Daniele Asti, Brigitte Skay, Giuliano Cesareo",
+          "synopsis": "Les exactions de quelques militants d'extrême-droite à Milan.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28975,
+              "duree": 101,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188003,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31952,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-15T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 84806,
+          "titre": "Storie di vita i malavita = Racket della prostituzione minorile",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1975,
+          "duree": 123,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28977,
+              "duree": 123,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 186974,
       "idProg": 334,
       "idCycleCategories": [
@@ -1916,6 +2312,81 @@
               "langCopie": "ITA"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188005,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31955,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-18T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 87730,
+          "titre": "Mamma Ebe",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1985,
+          "duree": 106,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28982,
+              "duree": 106,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187316,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31956,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-21T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54032,
+          "titre": "Remake, Rome ville ouverte",
+          "titreVo": "Celluloide",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1995,
+          "duree": 110,
+          "generique": "Giancarlo Giannini, Massimo Ghini, Anna Falchi",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29017,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ITA",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 14955
         }
       ]
     },
@@ -2409,7 +2880,7 @@
       ],
       "idEvenement": 31977,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-03T18:00:00",
+      "dateHeure": "2025-05-03T17:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2500,7 +2971,7 @@
       ],
       "idEvenement": 31979,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-03T20:00:00",
+      "dateHeure": "2025-05-03T19:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2512,15 +2983,15 @@
           "artVo": "The",
           "realisateurs": "Robert Wise",
           "annee": 1966,
-          "duree": 155,
+          "duree": 184,
           "generique": "Steve McQueen, Richard Attenborough, Candice Bergen",
           "adaptation": "D'après le roman _The Sand Pebbles_ de Richard McKenna.",
           "synopsis": "En 1926, Jack Holeman est affecté sur un navire de guerre américain qui patrouille sur le fleuve Yang-Tsé. Il s'éprend de la jeune collaboratrice d'un missionnaire, tandis que la Chine sombre dans la guerre civile.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 3789,
-              "duree": 155,
+              "idCopie": 3775,
+              "duree": 184,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
@@ -2528,8 +2999,8 @@
               "selected": true
             },
             {
-              "idCopie": 3775,
-              "duree": 184,
+              "idCopie": 3789,
+              "duree": 155,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
@@ -3043,6 +3514,227 @@
       ]
     },
     {
+      "idSeance": 187320,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32008,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-21T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155034,
+          "titre": "Hotel Meina",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 2007,
+          "duree": 110,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28987,
+              "duree": 110
+            }
+          ],
+          "idFilmBoxoffice": 130665
+        }
+      ]
+    },
+    {
+      "idSeance": 186749,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32017,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-30T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37061,
+          "titre": "Shanghai Express",
+          "realisateurs": "Josef von Sternberg",
+          "annee": 1932,
+          "duree": 82,
+          "generique": "Marlene Dietrich, Clive Brook, Anna May Wong",
+          "synopsis": "Dans une Chine en pleine guerre civile, un petit groupe d'occidentaux montent dans un train à destination de Shanghai. Parmi eux, une femme à la réputation sulfureuse, surnommée Shanghai Lily, attire les regards et les réprobations. Le train est attaqué.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29039,
+              "duree": 82
+            }
+          ],
+          "idFilmBoxoffice": 2623
+        }
+      ]
+    },
+    {
+      "idSeance": 187957,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32024,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-26T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 142624,
+          "titre": "Grain de son",
+          "titreVo": "Dinty",
+          "realisateurs": "Marshall Neilan",
+          "annee": 1920,
+          "duree": 67,
+          "generique": "Wesley Barry, Colleen Moore, Anna May Wong",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28994,
+              "duree": 67,
+              "format": "35 mm",
+              "version": "Autres",
+              "langCopie": "ENG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186706,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32025,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-27T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155035,
+          "titre": "Driven from home",
+          "realisateurs": "James Young",
+          "annee": 1927,
+          "duree": 76,
+          "generique": "Virginia Lee Corbin, Ray Hallor, Anna May Wong",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28993,
+              "duree": 76,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186715,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32026,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-28T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 57639,
+          "titre": "Ange maudit",
+          "titreVo": "Schmutziges Geld",
+          "realisateurs": "Richard Eichberg",
+          "annee": 1928,
+          "duree": 97,
+          "generique": "Anna May Wong, Heinrich George, Mary Kid",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28992,
+              "duree": 97,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "GER"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186685,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32027,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-26T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 104030,
+          "titre": "Papillon de la rue",
+          "titreVo": "Großstadtschmetterling",
+          "realisateurs": "Richard Eichberg",
+          "annee": 1929,
+          "duree": 97,
+          "generique": "Anna May Wong, Tilla Garden, Fred Louis Lerch",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28995,
+              "duree": 97,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "GER"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 185697,
       "idProg": 334,
       "idCycleCategories": [
@@ -3117,6 +3809,84 @@
             }
           ],
           "idFilmBoxoffice": 500
+        }
+      ]
+    },
+    {
+      "idSeance": 187398,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32031,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-23T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36071,
+          "titre": "Stryker",
+          "realisateurs": "Cirio H. Santiago",
+          "annee": 1983,
+          "duree": 85,
+          "generique": "Steve Sandor, Andria Savio, William Ostrander",
+          "synopsis": "Après la Troisième Guerre mondiale, des bandes se disputent âprement les rares points d'eau.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 24791,
+              "duree": 85,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ],
+          "idFilmBoxoffice": 1230
+        }
+      ]
+    },
+    {
+      "idSeance": 187397,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32032,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-23T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31089,
+          "titre": "New York ne répond plus",
+          "titreVo": "Ultimate Warrior",
+          "artVo": "The",
+          "realisateurs": "Robert Clouse",
+          "annee": 1975,
+          "duree": 94,
+          "generique": "Yul Brynner, Max von Sydow, Joanna Miles",
+          "synopsis": "Dans le futur, en 2012, le monde a été dévasté. Quelques rares survivants se sont regroupés en bandes organisées à New York. Le chef de l'une d'entre elles fait appel à un mercenaire pour faire face aux attaques d'une autre bande.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 13932,
+              "duree": 94,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ],
+          "idFilmBoxoffice": 36011
         }
       ]
     },
@@ -5864,6 +6634,86 @@
       ]
     },
     {
+      "idSeance": 187993,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32113,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-26T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 120007,
+          "titre": "Fleur de Lotus",
+          "titreVo": "Toll of the Sea",
+          "artVo": "The",
+          "realisateurs": "Chester M. Franklin",
+          "annee": 1922,
+          "duree": 50,
+          "generique": "Anna May Wong, Kenneth Harlan, Beatrice Bentley",
+          "synopsis": "Une jeune chinoise, Fleur de Lotus, sauve Allan Carver de la noyade. Elle en tombe immédiatement amoureuse. Mais Carver doit retourner aux États-Unis, et ne peut se résoudre à emmener la jeune femme avec lui.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 2073,
+              "duree": 50,
+              "format": "35 mm",
+              "langCopie": "ENG",
+              "intertitres": "INT. ANG."
+            }
+          ],
+          "idFilmBoxoffice": 173893
+        }
+      ]
+    },
+    {
+      "idSeance": 186716,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32114,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-28T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33068,
+          "titre": "Monsieur Wu",
+          "titreVo": "Mr Wu",
+          "realisateurs": "William Nigh",
+          "annee": 1929,
+          "duree": 95,
+          "generique": "Lon Chaney, Louise Dresser, Renée Adorée",
+          "synopsis": "Mandarin Wu est un homme autoritaire qui porte cependant un grand amour à sa superbe fille, Nang Ping. Il arrange un mariage pour elle tandis que celle-ci tombe amoureuse d'un gentleman anglais.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 2665,
+              "duree": 95,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ],
+          "idFilmBoxoffice": 131772
+        }
+      ]
+    },
+    {
       "idSeance": 186562,
       "idProg": 334,
       "idCycleCategories": [
@@ -5902,6 +6752,286 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 186877,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32116,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-03T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 67451,
+          "titre": "Ile des hommes perdus",
+          "art": "L'",
+          "titreVo": "Island of Lost Men",
+          "realisateurs": "Kurt Neumann",
+          "annee": 1939,
+          "generique": "Anna May Wong, J. Carrol Naish, Anthony Quinn",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 187996,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32117,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-04T17:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59132,
+          "titre": "Dame de Tchoung-King",
+          "art": "La",
+          "titreVo": "Lady from Chungking",
+          "realisateurs": "William Nigh",
+          "annee": 1950,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 187995,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32118,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-03T20:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 67449,
+          "titre": "Roi de Chinatown",
+          "art": "Le",
+          "titreVo": "King of Chinatown",
+          "realisateurs": "Nick Grinde",
+          "annee": 1939,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 186892,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32119,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-04T15:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 82319,
+          "titre": "Bombs over Burma",
+          "realisateurs": "Joseph H. Lewis",
+          "annee": 1942,
+          "duree": 67,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29193,
+              "duree": 67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187990,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32120,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-02T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155037,
+          "titre": "When were you born",
+          "realisateurs": "William C. McGann",
+          "annee": 1938,
+          "duree": 65,
+          "generique": "Anna May Wong, Margaret Lindsay, Lola Lane",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29182,
+              "duree": 65,
+              "format": "16 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186754,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32121,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-30T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 67446,
+          "titre": "Dangereux à connaître",
+          "titreVo": "Dangerous to Know",
+          "realisateurs": "Robert Florey",
+          "annee": 1937,
+          "generique": "Akim Tamiroff, Anna May Wong, Gail Patrick",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 187989,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32122,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-02T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 67445,
+          "titre": "Fille de Shanghai",
+          "art": "La",
+          "titreVo": "Daughter of Shanghai",
+          "realisateurs": "Robert Florey",
+          "annee": 1937,
+          "generique": "Charles Bickford, Anna May Wong, Buster Crabbe",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 186753,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32124,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-30T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155038,
+          "titre": "Sherlock Holmes: Une étude en rouge",
+          "titreVo": "A study in scarlet",
+          "realisateurs": "Edwin L. Marin",
+          "annee": 1933,
+          "generique": "Reginald Owen, Anna May Wong, June Clyde",
+          "status": 0,
+          "idFilmBoxoffice": 282786
+        }
+      ]
+    },
+    {
+      "idSeance": 186705,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32126,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-27T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 95256,
+          "titre": "Marchande de rêves",
+          "art": "La",
+          "titreVo": "Drifting",
+          "realisateurs": "Tod Browning",
+          "annee": 1923,
+          "duree": 70,
+          "generique": "Wallace Beery, Priscilla Dean, Matt Moore",
+          "synopsis": "Une jeune femme tente de quitter un gang de trafiquants d'opium de Shanghai dont elle fait partie.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 13191,
+              "duree": 70,
+              "format": "DCP",
+              "intertitres": "INT. ANG."
+            }
+          ],
+          "idFilmBoxoffice": 26140
+        }
+      ]
     },
     {
       "idSeance": 187886,
@@ -6639,7 +7769,7 @@
       ],
       "idEvenement": 32146,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-15T18:15:00",
+      "dateHeure": "2025-03-15T15:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6685,7 +7815,7 @@
       ],
       "idEvenement": 32147,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-15T20:15:00",
+      "dateHeure": "2025-03-15T17:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6731,7 +7861,7 @@
       ],
       "idEvenement": 32148,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-15T15:00:00",
+      "dateHeure": "2025-03-15T19:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7766,7 +8896,7 @@
       ]
     },
     {
-      "idSeance": 187975,
+      "idSeance": 188000,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -7779,7 +8909,7 @@
       "idEvenement": 32174,
       "typeEvenement": 13,
       "dateHeure": "2025-05-02T16:00:00",
-      "idSalle": "HL",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -7892,7 +9022,7 @@
       ],
       "idEvenement": 32178,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-28T17:00:00",
+      "dateHeure": "2025-04-28T15:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -8009,6 +9139,44 @@
       ]
     },
     {
+      "idSeance": 188001,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32181,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-16T16:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50626,
+          "titre": "Loulou",
+          "realisateurs": "Maurice Pialat",
+          "annee": 1979,
+          "duree": 110,
+          "generique": "Isabelle Huppert, Gérard Depardieu, Guy Marchand",
+          "synopsis": "Nelly, une petite bourgeoise, quitte son mari pour Loulou, un marginal qui la séduit par son refus des conventions sociales.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 504,
+              "duree": 110,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 612
+        }
+      ]
+    },
+    {
       "idSeance": 187977,
       "idProg": 334,
       "idCycleCategories": [
@@ -8097,6 +9265,44 @@
       ]
     },
     {
+      "idSeance": 187252,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32184,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-17T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34432,
+          "titre": "Blues Brothers",
+          "art": "The",
+          "realisateurs": "John Landis",
+          "annee": 1979,
+          "duree": 133,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29011,
+              "duree": 133,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 311
+        }
+      ]
+    },
+    {
       "idSeance": 186939,
       "idProg": 334,
       "idCycleCategories": [
@@ -8144,6 +9350,234 @@
             }
           ],
           "idFilmBoxoffice": 955
+        }
+      ]
+    },
+    {
+      "idSeance": 187281,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32186,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-19T15:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54713,
+          "titre": "Allemagne, mère blafarde",
+          "titreVo": "Deutschland, bleiche Mutter",
+          "realisateurs": "Helma Sanders-Brahms",
+          "annee": 1979,
+          "duree": 120,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29012,
+              "duree": 120,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29166,
+              "duree": 120,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 29167,
+              "duree": 120,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 61
+        }
+      ]
+    },
+    {
+      "idSeance": 187352,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32187,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-22T15:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51832,
+          "titre": "Possession",
+          "realisateurs": "Andrzej Żuławski",
+          "annee": 1980,
+          "duree": 127,
+          "generique": "Isabelle Adjani, Sam Neill",
+          "synopsis": "De retour d'un long voyage, Marc retrouve à Berlin sa femme Anna et son fils, Bob. Prise de crises violentes, Anna disparait. Marc engage un détective qui découvre bientôt qu'elle s'est réfugiée dans une étrange demeure où semble se cacher une créature surgie des ténèbres.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 17699,
+              "duree": 127,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 274
+        }
+      ]
+    },
+    {
+      "idSeance": 187163,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32188,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-15T15:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 39476,
+          "titre": "De la vie des marionnettes",
+          "titreVo": "Aus dem Leben der Marionetten",
+          "realisateurs": "Ingmar Bergman",
+          "annee": 1979,
+          "duree": 104,
+          "generique": "Robert Atzorn, Christine Buchegger, Martin Benrath",
+          "synopsis": "Un homme étrangle une prostituée. Les motivations profondes du meurtre se dévoilent progressivement.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 15452,
+              "duree": 104,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 6133
+        }
+      ]
+    },
+    {
+      "idSeance": 188002,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32189,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-23T16:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35646,
+          "titre": "Absence de malice",
+          "titreVo": "Absence of Malice",
+          "realisateurs": "Sydney Pollack",
+          "annee": 1980,
+          "duree": 116,
+          "generique": "Paul Newman, Sally Field, Bob Balaban",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22774,
+              "duree": 116,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 22775,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 29123,
+              "duree": 115,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 30
+        }
+      ]
+    },
+    {
+      "idSeance": 187470,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32190,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-26T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41838,
+          "titre": "Conte de la folie ordinaire",
+          "titreVo": "Storie di ordinaria follia",
+          "realisateurs": "Marco Ferreri",
+          "annee": 1981,
+          "generique": "Ornella Muti, Ben Gazzara, Susan Tyrrell",
+          "adaptation": "D'après le recueil de nouvelles _Contes de la folie ordinaire_ de Charles Bukowski.",
+          "synopsis": "Charles Serking, poète anarchiste et ivrogne, vit dans un quartier sordide de Los Angeles. Il rencontre Cass, mi-ange, mi-démon, qui se prostitue dans les quartiers chics.",
+          "commentaire": "Adapté du recueil de Charles Bukowski, _Conte de la folie ordinaire_ dresse le portrait d'un auteur en marge de tout système établi. Charles Serking, double de l'écrivain américain, est incarné par le cassavetesien Ben Gazzara, parfait en poète underground, alcoolique et fauché, dont le processus artistique implique une fréquentation accrue des bars, des trottoirs et des plages désolées de Los Angeles. La caméra de Ferreri le suit, au plus près, dérivant dans cette Amérique fangeuse, où la souffrance physique des femmes qu'il croise, engendrée par le sexe à outrance ou l'automutilation, fait écho à sa souffrance psychique. Sa rencontre avec la plus belle fille de la ville – du titre d'une des nouvelles de Bukowski –, au désespoir plus profond encore que le sien, va bouleverser sa vision de l'amour... Quand le verbe cru de Bukowski rejoint les obsessions de Ferreri, cela donne un film qui marque violemment les esprits.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21787,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VF",
+              "selected": true
+            },
+            {
+              "idCopie": 21826,
+              "duree": 0
+            }
+          ],
+          "idFilmBoxoffice": 80717
         }
       ]
     },
@@ -9711,16 +11145,16 @@
       ],
       "idEvenement": 32395,
       "typeEvenement": 14,
-      "dateHeure": "2025-05-03T19:00:00",
+      "dateHeure": "2025-05-03T16:45:00",
       "typeConference": "Dialogue",
       "idSalle": "GF",
-      "duree": 60,
+      "duree": 75,
       "items": [
         {
           "idConf": 32395,
           "titre": "DIALOGUE AVEC JEAN-FRANÇOIS RAUGER",
           "typeConference": "Dialogue",
-          "duree": 60,
+          "duree": 75,
           "ordre": 1
         }
       ]
@@ -9834,7 +11268,7 @@
       ]
     },
     {
-      "idSeance": 187972,
+      "idSeance": 187999,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -9846,7 +11280,7 @@
       ],
       "idEvenement": 32400,
       "typeEvenement": 14,
-      "dateHeure": "2025-05-04T16:30:00",
+      "dateHeure": "2025-05-14T21:00:00",
       "typeConference": "Dialogue",
       "idSalle": "HL",
       "duree": 60,
@@ -9861,7 +11295,7 @@
       ]
     },
     {
-      "idSeance": 187986,
+      "idSeance": 186526,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -9873,7 +11307,7 @@
       ],
       "idEvenement": 32415,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-20T17:30:00",
+      "dateHeure": "2025-04-21T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -9946,6 +11380,40 @@
       ]
     },
     {
+      "idSeance": 187992,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 955,
+          "idCategorie": 3652,
+          "titreCycle": "Louis Skorecki",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32421,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-20T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155086,
+          "titre": "CNC – Contre la Nouvelle Cinéphilie",
+          "realisateurs": "Louis Skorecki",
+          "annee": 1984,
+          "duree": 70,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29208,
+              "duree": 70,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 186516,
       "idProg": 334,
       "idCycleCategories": [
@@ -9958,7 +11426,7 @@
       ],
       "idEvenement": 32425,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-20T19:45:00",
+      "dateHeure": "2025-04-20T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -9974,6 +11442,74 @@
             {
               "idCopie": 29212,
               "duree": 52,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186527,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 955,
+          "idCategorie": 3652,
+          "titreCycle": "Louis Skorecki",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32426,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-21T20:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155090,
+          "titre": "Skorecki déménage",
+          "realisateurs": "Louis Skorecki",
+          "annee": 2009,
+          "duree": 78,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29213,
+              "duree": 78,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186564,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 955,
+          "idCategorie": 3652,
+          "titreCycle": "Louis Skorecki",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32427,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-23T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155091,
+          "titre": "Skorecki devient producteur",
+          "realisateurs": "Louis Skorecki",
+          "annee": 2013,
+          "duree": 94,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29214,
+              "duree": 94,
               "format": "DCP"
             }
           ]
@@ -10012,6 +11548,60 @@
               "format": "DCP"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187997,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 955,
+          "idCategorie": 3721,
+          "titreCycle": "Louis Skorecki",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32430,
+      "typeEvenement": 14,
+      "dateHeure": "2025-04-19T16:15:00",
+      "typeConference": "Dialogue",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 32430,
+          "titre": "DIALOGUE AVEC LOUIS SKORECKI",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 187998,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 955,
+          "idCategorie": 3721,
+          "titreCycle": "Louis Skorecki",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32431,
+      "typeEvenement": 14,
+      "dateHeure": "2025-04-20T15:45:00",
+      "typeConference": "Conférence",
+      "idSalle": "GF",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 32431,
+          "titre": "DIALOGUE AVEC LOUIS SKORECKI",
+          "typeConference": "Conférence",
+          "duree": 60,
+          "ordre": 1
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-18T16:23:47.336Z",
+  "updatedAt": "2024-11-19T09:09:31.596Z",
   "data": [
     {
       "idSeance": 185115,
@@ -3860,7 +3860,7 @@
           "titreNx": "リング",
           "realisateurs": "Hideo Nakata",
           "annee": 1998,
-          "duree": 96,
+          "duree": 95,
           "generique": "Nanako Matsushima, Miki Nakatani, Hiroyuki Sanada",
           "adaptation": "D'après le roman _Ring_ de Kōji Suzuki.",
           "synopsis": "Une jeune fille meurt mystérieusement après avoir regardé une cassette vidéo. Reiko, journaliste intriguée par l'affaire, réussit à mettre la main sur la cassette.",
@@ -3869,7 +3869,7 @@
           "copies": [
             {
               "idCopie": 11338,
-              "duree": 96,
+              "duree": 95,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "JPN",
@@ -5626,7 +5626,15 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "stDemande": true
+              "stDemande": true,
+              "selected": true
+            },
+            {
+              "idCopie": 29223,
+              "duree": 106,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 41123
@@ -5671,7 +5679,15 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "stDemande": true
+              "stDemande": true,
+              "selected": true
+            },
+            {
+              "idCopie": 29223,
+              "duree": 106,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 41123
@@ -10091,7 +10107,7 @@
           "art": "Le",
           "realisateurs": "Jean-Pierre Melville",
           "annee": 1970,
-          "duree": 150,
+          "duree": 140,
           "generique": "Alain Delon, Bourvil, Gian Maria Volonté, Yves Montand",
           "synopsis": "Un truand marseillais, un détenu en cavale et un ancien policier préparent le cambriolage de la bijouterie Mauboussin, place Vendôme. Ils sont surveillés par le commissaire Mattei, de la brigade criminelle.",
           "miniTexte": "Le récit d'un casse spectaculaire, dans une bijouterie de la place Vendôme. Les truands Delon, Volonté et Montand affrontent Bourvil en commissaire mélancolique, leur jeu est minimaliste, la sobriété leur va bien. Un polar à l'os, magistral.",
@@ -10100,7 +10116,7 @@
           "copies": [
             {
               "idCopie": 22737,
-              "duree": 150,
+              "duree": 140,
               "format": "DCP"
             }
           ],
