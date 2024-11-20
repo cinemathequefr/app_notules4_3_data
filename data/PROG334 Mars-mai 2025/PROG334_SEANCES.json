@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-20T08:32:48.872Z",
+  "updatedAt": "2024-11-20T13:39:03.888Z",
   "data": [
     {
       "idSeance": 186263,
@@ -1455,7 +1455,7 @@
       ]
     },
     {
-      "idSeance": 187065,
+      "idSeance": 187020,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1467,7 +1467,7 @@
       ],
       "idEvenement": 31932,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-10T20:00:00",
+      "dateHeure": "2025-05-09T21:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1482,11 +1482,10 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 29022,
+              "idCopie": 29181,
               "duree": 99,
               "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STF",
               "selected": true
             },
             {
@@ -2195,11 +2194,8 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 28969,
-              "duree": 99,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
+              "idCopie": 29256,
+              "duree": 99
             }
           ]
         }
@@ -2323,7 +2319,7 @@
       ]
     },
     {
-      "idSeance": 188009,
+      "idSeance": 187019,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2335,7 +2331,7 @@
       ],
       "idEvenement": 31954,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-10T17:30:00",
+      "dateHeure": "2025-05-09T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4227,7 +4223,7 @@
       ]
     },
     {
-      "idSeance": 187018,
+      "idSeance": 188052,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -4239,7 +4235,7 @@
       ],
       "idEvenement": 31999,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-09T20:00:00",
+      "dateHeure": "2025-05-12T19:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -12789,6 +12785,82 @@
           "typeConference": "Dialogue",
           "duree": 60,
           "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 188050,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 991,
+          "idCategorie": 3713,
+          "titreCycle": "Le flou au cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32401,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-09T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155076,
+          "titre": "In Water",
+          "titreVo": "Mul-an-e-seo",
+          "realisateurs": "Sang-soo Hong",
+          "annee": 2023,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29197,
+              "duree": 0
+            }
+          ],
+          "idFilmBoxoffice": 312597
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 188051,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 991,
+          "idCategorie": 3713,
+          "titreCycle": "Le flou au cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32403,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-10T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 29106,
+          "titre": "Harry dans tous ses états",
+          "titreVo": "Deconstructing Harry",
+          "realisateurs": "Woody Allen",
+          "annee": 1996,
+          "duree": 96,
+          "generique": "Woody Allen, Caroline Aaron, Kirstie Alley, Robin Williams, Demi Moore",
+          "synopsis": "Ecrivain à succès mais en panne d'inspiration, Harry se rend dans son ancienne université pour un hommage. Il y retrouve tous les gens avec qui il s'était brouillé.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29196,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 4738
         }
       ]
     },
