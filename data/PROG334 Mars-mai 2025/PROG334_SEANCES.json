@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-19T14:01:29.303Z",
+  "updatedAt": "2024-11-20T08:32:48.872Z",
   "data": [
     {
       "idSeance": 186263,
@@ -187,19 +187,19 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 187209,
+      "idSeance": 186642,
       "idProg": 334,
       "idCycleCategories": [
         {
           "idCycle": 14,
-          "idCategorie": 3384,
+          "idCategorie": 3674,
           "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Apocalypse"
         }
       ],
       "idEvenement": 31840,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-16T21:00:00",
+      "dateHeure": "2025-04-25T21:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -213,7 +213,9 @@
           "copies": [
             {
               "idCopie": 28903,
-              "duree": 84
+              "duree": 84,
+              "format": "35 mm",
+              "version": "VF"
             }
           ],
           "idFilmBoxoffice": 186478
@@ -301,19 +303,19 @@
       ]
     },
     {
-      "idSeance": 187208,
+      "idSeance": 186641,
       "idProg": 334,
       "idCycleCategories": [
         {
           "idCycle": 14,
-          "idCategorie": 3384,
+          "idCategorie": 3674,
           "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Apocalypse"
         }
       ],
       "idEvenement": 31853,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-16T19:00:00",
+      "dateHeure": "2025-04-25T19:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -323,13 +325,16 @@
           "titreVo": "Trancers",
           "realisateurs": "Charles Band",
           "annee": 1984,
-          "duree": 76,
+          "duree": 77,
           "generique": "Tim Thomerson, Helen Hunt, Telma Hopkins",
           "status": 0,
           "copies": [
             {
               "idCopie": 28907,
-              "duree": 76
+              "duree": 77,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 199597
@@ -1331,7 +1336,7 @@
       ]
     },
     {
-      "idSeance": 187064,
+      "idSeance": 188010,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1343,7 +1348,7 @@
       ],
       "idEvenement": 31929,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-10T17:30:00",
+      "dateHeure": "2025-05-11T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1413,7 +1418,7 @@
       ]
     },
     {
-      "idSeance": 187083,
+      "idSeance": 188011,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1425,7 +1430,7 @@
       ],
       "idEvenement": 31931,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-11T17:30:00",
+      "dateHeure": "2025-05-12T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1462,7 +1467,7 @@
       ],
       "idEvenement": 31932,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-10T19:30:00",
+      "dateHeure": "2025-05-10T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1494,7 +1499,7 @@
       ]
     },
     {
-      "idSeance": 187084,
+      "idSeance": 188012,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1506,7 +1511,7 @@
       ],
       "idEvenement": 31933,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-11T20:30:00",
+      "dateHeure": "2025-05-12T20:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1604,7 +1609,7 @@
       ]
     },
     {
-      "idSeance": 187282,
+      "idSeance": 188022,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1616,7 +1621,7 @@
       ],
       "idEvenement": 31936,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-19T18:00:00",
+      "dateHeure": "2025-05-19T20:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1639,7 +1644,7 @@
       ]
     },
     {
-      "idSeance": 187273,
+      "idSeance": 188020,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1651,7 +1656,7 @@
       ],
       "idEvenement": 31937,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-18T19:45:00",
+      "dateHeure": "2025-05-18T20:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1674,7 +1679,7 @@
       ]
     },
     {
-      "idSeance": 187283,
+      "idSeance": 188023,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1686,7 +1691,7 @@
       ],
       "idEvenement": 31938,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-19T20:00:00",
+      "dateHeure": "2025-05-21T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1711,7 +1716,7 @@
       ]
     },
     {
-      "idSeance": 187131,
+      "idSeance": 187442,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1723,7 +1728,7 @@
       ],
       "idEvenement": 31939,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-14T18:00:00",
+      "dateHeure": "2025-05-24T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1748,7 +1753,7 @@
       ]
     },
     {
-      "idSeance": 187254,
+      "idSeance": 188019,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1760,7 +1765,7 @@
       ],
       "idEvenement": 31940,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-17T20:45:00",
+      "dateHeure": "2025-05-18T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1825,7 +1830,7 @@
       ]
     },
     {
-      "idSeance": 187132,
+      "idSeance": 188015,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1837,7 +1842,7 @@
       ],
       "idEvenement": 31942,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-14T20:15:00",
+      "dateHeure": "2025-05-15T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1860,7 +1865,7 @@
       ]
     },
     {
-      "idSeance": 187253,
+      "idSeance": 188018,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1872,7 +1877,7 @@
       ],
       "idEvenement": 31943,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-17T18:30:00",
+      "dateHeure": "2025-05-17T20:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1937,7 +1942,47 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 187094,
+      "idSeance": 187443,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31944,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-24T21:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 70022,
+          "titre": "Vie aigre",
+          "art": "La",
+          "titreVo": "Vita agra",
+          "artVo": "La",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1964,
+          "duree": 100,
+          "generique": "Ugo Tognazzi, Giovanna Ralli",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29178,
+              "duree": 100,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188014,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1949,7 +1994,7 @@
       ],
       "idEvenement": 31945,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-12T20:15:00",
+      "dateHeure": "2025-05-14T20:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2123,7 +2168,7 @@
       ]
     },
     {
-      "idSeance": 187092,
+      "idSeance": 188013,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2135,7 +2180,7 @@
       ],
       "idEvenement": 31950,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-12T18:00:00",
+      "dateHeure": "2025-05-14T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2161,7 +2206,7 @@
       ]
     },
     {
-      "idSeance": 188004,
+      "idSeance": 188017,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2173,7 +2218,7 @@
       ],
       "idEvenement": 31951,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-15T20:30:00",
+      "dateHeure": "2025-05-17T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2200,7 +2245,7 @@
       ]
     },
     {
-      "idSeance": 188003,
+      "idSeance": 188016,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2212,7 +2257,7 @@
       ],
       "idEvenement": 31952,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-15T18:00:00",
+      "dateHeure": "2025-05-15T20:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2278,7 +2323,7 @@
       ]
     },
     {
-      "idSeance": 187063,
+      "idSeance": 188009,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2290,7 +2335,7 @@
       ],
       "idEvenement": 31954,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-10T15:00:00",
+      "dateHeure": "2025-05-10T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2316,7 +2361,7 @@
       ]
     },
     {
-      "idSeance": 188005,
+      "idSeance": 188021,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2328,7 +2373,7 @@
       ],
       "idEvenement": 31955,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-18T17:30:00",
+      "dateHeure": "2025-05-19T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2351,7 +2396,7 @@
       ]
     },
     {
-      "idSeance": 187316,
+      "idSeance": 188024,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2363,7 +2408,7 @@
       ],
       "idEvenement": 31956,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-21T18:30:00",
+      "dateHeure": "2025-05-21T20:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2516,7 +2561,7 @@
       ],
       "idEvenement": 31959,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-17T17:00:00",
+      "dateHeure": "2025-05-17T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2742,7 +2787,7 @@
       ],
       "idEvenement": 31963,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-04T18:30:00",
+      "dateHeure": "2025-05-04T14:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3037,6 +3082,101 @@
       ]
     },
     {
+      "idSeance": 187439,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31969,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-24T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45584,
+          "titre": "Je veux vivre",
+          "titreVo": "I Want to Live!",
+          "realisateurs": "Robert Wise",
+          "annee": 1958,
+          "generique": "Susan Hayward, Simon Oakland, Virginia Vincent",
+          "status": 1,
+          "idFilmBoxoffice": 20085
+        }
+      ]
+    },
+    {
+      "idSeance": 187457,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31970,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-25T19:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37510,
+          "titre": "Deux sur la balançoire",
+          "titreVo": "Two for the Seesaw",
+          "realisateurs": "Robert Wise",
+          "annee": 1962,
+          "generique": "Robert Mitchum, Shirley MacLaine, Edmon Ryan",
+          "adaptation": "D'après la pièce de théâtre _Two for the Seesaw_ de William Gibson.",
+          "status": 1,
+          "idFilmBoxoffice": 20074
+        }
+      ]
+    },
+    {
+      "idSeance": 187472,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31971,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-26T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 83462,
+          "titre": "East Side Story",
+          "titreVo": "Rooftops",
+          "realisateurs": "Robert Wise",
+          "annee": 1988,
+          "duree": 98,
+          "generique": "Jason Gedrick, Troy Beyer, Eddie Velez",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29164,
+              "duree": 98
+            }
+          ],
+          "idFilmBoxoffice": 32597
+        }
+      ]
+    },
+    {
       "idSeance": 186890,
       "idProg": 334,
       "idCycleCategories": [
@@ -3049,7 +3189,7 @@
       ],
       "idEvenement": 31972,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-04T20:45:00",
+      "dateHeure": "2025-05-04T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3069,6 +3209,170 @@
               "langCopie": "ENG"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187396,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31973,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-23T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 60254,
+          "titre": "Femmes coupables",
+          "titreVo": "Until They Sail",
+          "realisateurs": "Robert Wise",
+          "annee": 1957,
+          "generique": "Jean Simmons, Joan Fontaine, Paul Newman",
+          "status": 1,
+          "idFilmBoxoffice": 108895
+        }
+      ]
+    },
+    {
+      "idSeance": 187318,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31974,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-21T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37532,
+          "titre": "Hélène de Troie",
+          "titreVo": "Helen of Troy",
+          "realisateurs": "Robert Wise",
+          "annee": 1954,
+          "duree": 118,
+          "generique": "Stanley Baker, Rossana Podesta, Jacques Sernas",
+          "adaptation": "D'après _L'Iliade_ de Homère.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29159,
+              "duree": 118,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 5547
+        }
+      ]
+    },
+    {
+      "idSeance": 188028,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31975,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-25T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45838,
+          "titre": "Coup de l'escalier",
+          "art": "Le",
+          "titreVo": "Odds Against Tomorrow",
+          "realisateurs": "Robert Wise",
+          "annee": 1959,
+          "duree": 96,
+          "generique": "Harry Belafonte, Robert Ryan, Shelley Winters",
+          "adaptation": "D'après le roman _Le Coup de l'escalier_ de William P. McGivern.",
+          "synopsis": "Dave Burke, un ancien policier, rêve de se venger de ceux qui l'ont exclu et condamné à un an de prison pour malversation. Il prémédite l'attaque de la banque de Melton, petite ville proche de New York, mais a besoin de deux complices. Le premier sera Slater, un dur aigri et raciste, le second Ingram, un noir chanteur dans une boite de nuit et criblé de dettes.",
+          "miniTexte": "Le braquage n'arrive qu'à la fin ; l'intérêt de ce film noir crépusculaire, qui convoque des figures tutélaires du genre (Robert Ryan, Gloria Grahame), réside dans l'affrontement psychologique. Un ancien policier prépare un coup avec un chanteur noir paumé et un ex-soldat raciste. Sur fond de jazz désenchanté, un _caper movie_ étouffant, sombre comme l'âme humaine et sa bêtise.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 2404,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29161,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            },
+            {
+              "idCopie": 28288,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 12288
+        }
+      ]
+    },
+    {
+      "idSeance": 187268,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31976,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-18T19:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59256,
+          "titre": "Destination Gobi",
+          "realisateurs": "Robert Wise",
+          "annee": 1953,
+          "duree": 89,
+          "generique": "Richard Widmark, Don Taylor, Murvyn Vye",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29155,
+              "duree": 89,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 20072
         }
       ]
     },
@@ -3223,6 +3527,46 @@
       ]
     },
     {
+      "idSeance": 187395,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31980,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-23T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 58703,
+          "titre": "Cette nuit ou jamais",
+          "titreVo": "This Could Be the Night",
+          "realisateurs": "Robert Wise",
+          "annee": 1957,
+          "duree": 85,
+          "generique": "Jean Simmons, Paul Douglas, Anthony Franciosa",
+          "adaptation": "D'après la nouvelle _Protection for a Tough Racket_ de Cordelia Baird Gross.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 10389,
+              "duree": 85,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 108893
+        }
+      ]
+    },
+    {
       "idSeance": 187078,
       "idProg": 334,
       "idCycleCategories": [
@@ -3294,6 +3638,74 @@
       ]
     },
     {
+      "idSeance": 187355,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31983,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-22T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37508,
+          "titre": "Loi de la prairie",
+          "art": "La",
+          "titreVo": "Tribute to a Bad Man",
+          "realisateurs": "Robert Wise",
+          "annee": 1955,
+          "generique": "James Cagney, Don Dubbins, Stephen McNally",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29165,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 48833
+        }
+      ]
+    },
+    {
+      "idSeance": 188031,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31984,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-26T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37580,
+          "titre": "Brève rencontre à Paris",
+          "titreVo": "Two People",
+          "realisateurs": "Robert Wise",
+          "annee": 1972,
+          "generique": "Peter Fonda, Lindsay Wagner, Estelle Parsons",
+          "status": 1,
+          "idFilmBoxoffice": 28032
+        }
+      ]
+    },
+    {
       "idSeance": 187248,
       "idProg": 334,
       "idCycleCategories": [
@@ -3351,6 +3763,64 @@
       ]
     },
     {
+      "idSeance": 188033,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31986,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-08T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37536,
+          "titre": "Audrey Rose",
+          "realisateurs": "Robert Wise",
+          "annee": 1976,
+          "generique": "Anthony Hopkins, Marsha Mason, John Beck",
+          "adaptation": "D'après le roman _Audrey Rose_ de Frank De Felitta.",
+          "status": 1,
+          "idFilmBoxoffice": 18465
+        }
+      ]
+    },
+    {
+      "idSeance": 187267,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31987,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-18T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37553,
+          "titre": "Mon grand",
+          "titreVo": "So Big",
+          "realisateurs": "Robert Wise",
+          "annee": 1953,
+          "adaptation": "D'après le roman _So big_ d'Edna Ferber.",
+          "status": 0,
+          "idFilmBoxoffice": 48653
+        }
+      ]
+    },
+    {
       "idSeance": 187128,
       "idProg": 334,
       "idCycleCategories": [
@@ -3394,7 +3864,43 @@
       ]
     },
     {
-      "idSeance": 186978,
+      "idSeance": 188034,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31989,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-16T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80558,
+          "titre": "Mystery in Mexico",
+          "realisateurs": "Robert Wise",
+          "annee": 1948,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29158,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 108890
+        }
+      ]
+    },
+    {
+      "idSeance": 188035,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -3406,8 +3912,8 @@
       ],
       "idEvenement": 31990,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-08T20:00:00",
-      "idSalle": "HL",
+      "dateHeure": "2025-05-16T20:30:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -3465,6 +3971,66 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 188029,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31992,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-19T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37539,
+          "titre": "Odyssée du Hindenburg",
+          "art": "L'",
+          "titreVo": "Hindenburg",
+          "artVo": "The",
+          "realisateurs": "Robert Wise",
+          "annee": 1975,
+          "status": 1,
+          "idFilmBoxoffice": 54553
+        }
+      ]
+    },
+    {
+      "idSeance": 187438,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31993,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-24T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37542,
+          "titre": "Odyssée du sous-marin Nerka",
+          "art": "L'",
+          "titreVo": "Run Silent Run Deep",
+          "realisateurs": "Robert Wise",
+          "annee": 1957,
+          "adaptation": "D'après le roman _Run Silent Run Deep_ d'Edward L. Beach.",
+          "status": 0,
+          "idFilmBoxoffice": 46536
+        }
+      ]
+    },
+    {
       "idSeance": 186889,
       "idProg": 334,
       "idCycleCategories": [
@@ -3477,7 +4043,7 @@
       ],
       "idEvenement": 31994,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-04T14:30:00",
+      "dateHeure": "2025-05-04T16:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3572,6 +4138,95 @@
       ]
     },
     {
+      "idSeance": 187167,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31997,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-15T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 60806,
+          "titre": "Récupérateur de cadavres",
+          "titreVo": "Body Snatcher",
+          "artVo": "The",
+          "realisateurs": "Robert Wise",
+          "annee": 1945,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29156,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 18709
+        }
+      ]
+    },
+    {
+      "idSeance": 188032,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31998,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-08T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37485,
+          "titre": "Maison du diable",
+          "art": "La",
+          "titreVo": "Haunting",
+          "artVo": "The",
+          "realisateurs": "Robert Wise",
+          "annee": 1963,
+          "duree": 112,
+          "generique": "Julie Harris, Claire Bloom, Richard Johnson",
+          "adaptation": "D'après le roman _The Haunting of Hill House_ de Shirley Jackson.",
+          "miniTexte": "Dans le traditionnel manoir hanté, la séance de spiritisme est prétexte à une exploration audacieuse des névroses sexuelles et des pulsions refoulées (Julie Harris et Claire Bloom, parfaites). Cadrages, décors baroques, pouvoir de suggestion et bruitages anxiogènes suffisent à produire une atmosphère terrifiante. Un classique de l'épouvante, chef-d'œuvre de sobriété et d'efficacité.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 26530,
+              "duree": 112,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 27605,
+              "duree": 112,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 10433
+        }
+      ]
+    },
+    {
       "idSeance": 187018,
       "idProg": 334,
       "idCycleCategories": [
@@ -3627,7 +4282,104 @@
       ]
     },
     {
-      "idSeance": 186977,
+      "idSeance": 187356,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32001,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-22T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37559,
+          "titre": "Marqué par la haine",
+          "titreVo": "Somebody up There Likes Me",
+          "realisateurs": "Robert Wise",
+          "annee": 1956,
+          "status": 0,
+          "idFilmBoxoffice": 6569
+        }
+      ]
+    },
+    {
+      "idSeance": 188026,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32002,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-17T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37345,
+          "titre": "Star !",
+          "realisateurs": "Robert Wise",
+          "annee": 1967,
+          "duree": 175,
+          "generique": "Julie Andrews, Richard Crenna, Michael Craig",
+          "synopsis": "La vie de Gertrude Lawrence, célèbre artiste de music-hall de la première moitié du XXe siècle.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 4515,
+              "duree": 175,
+              "format": "70 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 79382
+        }
+      ]
+    },
+    {
+      "idSeance": 188030,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32003,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-19T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37347,
+          "titre": "Star Trek, le film",
+          "titreVo": "Star Trek: the Motion Picture",
+          "realisateurs": "Robert Wise",
+          "annee": 1979,
+          "dureeStd": 132,
+          "adaptation": "D'après la série télévisée _Star Trek_ de Gene Roddenberry.",
+          "status": 1,
+          "idFilmBoxoffice": 13022
+        }
+      ]
+    },
+    {
+      "idSeance": 188036,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -3639,7 +4391,7 @@
       ],
       "idEvenement": 32004,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-08T18:30:00",
+      "dateHeure": "2025-05-04T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3652,6 +4404,45 @@
           "adaptation": "D'après le roman _The Most Dangerous Game_ de Richard Connell.",
           "status": 0,
           "idFilmBoxoffice": 32689
+        }
+      ]
+    },
+    {
+      "idSeance": 187317,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32005,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-21T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37447,
+          "titre": "Tour des ambitieux",
+          "art": "La",
+          "titreVo": "Executive Suite",
+          "realisateurs": "Robert Wise",
+          "annee": 1953,
+          "duree": 104,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29160,
+              "duree": 104,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 43257
         }
       ]
     },
@@ -3762,7 +4553,7 @@
       ]
     },
     {
-      "idSeance": 187320,
+      "idSeance": 188025,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -3774,7 +4565,7 @@
       ],
       "idEvenement": 32008,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-21T20:45:00",
+      "dateHeure": "2025-05-22T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3792,6 +4583,36 @@
             }
           ],
           "idFilmBoxoffice": 130665
+        }
+      ]
+    },
+    {
+      "idSeance": 187166,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32009,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-15T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46127,
+          "titre": "Malédiction des hommes chats",
+          "art": "La",
+          "titreVo": "Curse of the Cat People",
+          "realisateurs": "Gunther V. Fritsch, Robert Wise",
+          "annee": 1943,
+          "generique": "Simone Simon, Kent Smith, Jane Randolph",
+          "status": 1,
+          "idFilmBoxoffice": 11121
         }
       ]
     },
@@ -4066,9 +4887,9 @@
       "idCycleCategories": [
         {
           "idCycle": 14,
-          "idCategorie": 3384,
+          "idCategorie": 3674,
           "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Apocalypse"
         }
       ],
       "idEvenement": 32031,
@@ -4104,9 +4925,9 @@
       "idCycleCategories": [
         {
           "idCycle": 14,
-          "idCategorie": 3384,
+          "idCategorie": 3674,
           "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Apocalypse"
         }
       ],
       "idEvenement": 32032,
@@ -7043,7 +7864,7 @@
       ],
       "idEvenement": 32117,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-04T17:00:00",
+      "dateHeure": "2025-05-04T17:15:00",
       "idSalle": "JE",
       "items": [
         {
@@ -9399,7 +10220,7 @@
       ],
       "idEvenement": 32181,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-16T16:30:00",
+      "dateHeure": "2025-05-16T16:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -9667,7 +10488,7 @@
       ],
       "idEvenement": 32187,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-22T15:30:00",
+      "dateHeure": "2025-05-22T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -9826,6 +10647,202 @@
             }
           ],
           "idFilmBoxoffice": 80717
+        }
+      ]
+    },
+    {
+      "idSeance": 188008,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32192,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-11T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35368,
+          "titre": "Furyo",
+          "titreVo": "Merry Christmas Mr. Lawrence",
+          "realisateurs": "Nagisa Ōshima",
+          "annee": 1982,
+          "duree": 123,
+          "generique": "Tom Conti, David Bowie, Takeshi Kitano, Ryūichi Sakamoto",
+          "adaptation": "D'après le roman _The Seed and the Sower_ de Laurens Van der Post.",
+          "synopsis": "Java, 1942. Dans un camp japonais de prisonniers américains, l'intransigeant capitaine Yonoi impose une discipline de fer. L'arrivée et l'attitude provocante d'un beau soldat anglais, Jack Celliers, troublent Yonoi et mettent dangereusement à mal son autorité.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 3979,
+              "duree": 123,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 4008,
+              "duree": 122,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 6266,
+              "duree": 122,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 23680,
+              "duree": 122,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 204
+        }
+      ]
+    },
+    {
+      "idSeance": 188042,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32193,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-10T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41099,
+          "titre": "Travail au noir",
+          "titreVo": "Moonlighting",
+          "realisateurs": "Jerzy Skolimowski",
+          "annee": 1982,
+          "duree": 97,
+          "generique": "Jeremy Irons, Eugene Lipinski, Jiří Stanislav",
+          "synopsis": "Trois maçons polonais et leur contremaître, Novak, viennent à Londres travailler au noir. Novak, autoritaire, est le seul à parler anglais. Lorsqu'il prend connaissance du coup d'État en Pologne, il tait la nouvelle à ses compatriotes.",
+          "commentaire": "Jerzy Skolimowski réalise _Travail au noir_ en réaction à la grave crise qui éclate dans son pays en décembre 1981. Le Parti communiste au pouvoir a instauré la loi martiale face à la montée du tout jeune syndicat Solidarność. Le cinéaste vit alors en exil à Londres. Il réunit chez lui quatre scénaristes qui doivent composer un récit à partir de ses indications. Il cherche un acteur pour le rôle principal, celui du contremaître Nowak. Il contacte Jeremy Irons. Le film devra se faire en quelques semaines car Irons est enthousiaste mais doit tourner un mois plus tard pour une autre production. Après une scène d'exposition à l'aéroport de Londres, _Travail au noir_ se déploie dans un espace réduit, un quartier résidentiel de la ville. Trois ouvriers polonais et leur contremaître se trouvent coincés entre une maison à rénover, le supermarché voisin et quelques commerces du quartier. Dans ce petit périmètre, Skolimowski se livre à une réflexion subtile et complexe, amusée et douloureuse, sur le monde contemporain. Nowak et ses ouvriers sont coupés de leurs épouses ou familles, mais aussi du drame que traverse la Pologne. L'événement n'apparaît à Nowak que par les images froides de téléviseurs en vitrine. Il parle à une photographie de sa femme et l'imagine jusqu'à l'obsession dans les bras de son patron. Mais la petite troupe venue de l'Est fait aussi la découverte brutale de l'Occident : ses cadences de travail infernales (les accidents de chantier et les manipulations de Nowak), son individualisme radical (la mesquinerie des voisins londoniens), la prégnance de la surveillance et l'insécurité qu'elle engendre (les scènes récurrentes de vol à la supérette), une société où les individus se font tous concurrence.\n\nPauline de Raymond",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29126,
+              "duree": 97,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 321
+        }
+      ]
+    },
+    {
+      "idSeance": 187461,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32194,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-25T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38040,
+          "titre": "Ballade de Narayama",
+          "art": "La",
+          "titreVo": "Narayama bushikō",
+          "titreNx": "楢山節考",
+          "realisateurs": "Shōhei Imamura",
+          "annee": 1982,
+          "duree": 128,
+          "generique": "Ken Ogata, Sumiko Sakamoto, Tonpei Hidari",
+          "adaptation": "D'après la nouvelle _Étude à propos des chansons de Narayama_ de Shichiro Fukazawa.",
+          "synopsis": "Dans un petit village japonais, la coutume veut que les anciens ayant atteint soixante-dix ans se rendent au sommet du Narayama pour y mourir. Une femme âgée vit ses derniers jours avant l'échéance fatidique.",
+          "commentaire": "Palme d'Or à Cannes en 1983, La Ballade de Narayama explore la pratique ancestrale de l'_ubasute_, pèlerinage des anciens vers la mort. Après l'envoûtante version de Kinoshita en 1958, Imamura signe une œuvre radicale, d'un réalisme brutal, où la beauté de la nature se confond avec la cruauté d'une société primitive. Obsessions de nourriture et de sexe sont au centre des préoccupations du village, un monde rustre et sordide, où la vieille Orin passe ses dernières saisons avant le grand voyage. Un chemin douloureux, d'une émotion brute qui prend littéralement aux tripes, jusqu'au retour solitaire du fils endeuillé.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22987,
+              "duree": 128,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 128
+        }
+      ]
+    },
+    {
+      "idSeance": 187441,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32195,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-24T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41315,
+          "titre": "Femme flambée",
+          "art": "La",
+          "titreVo": "Flambierte Frau",
+          "artVo": "Die",
+          "realisateurs": "Robert Van Ackeren",
+          "annee": 1982,
+          "duree": 106,
+          "generique": "Gudrun Landgrebe, Mathieu Carrière",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29014,
+              "duree": 106,
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29015,
+              "duree": 106,
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 195
         }
       ]
     },
@@ -10796,6 +11813,43 @@
       ]
     },
     {
+      "idSeance": 188043,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32350,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-03T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33148,
+          "titre": "Bleak Moments",
+          "realisateurs": "Mike Leigh",
+          "annee": 1971,
+          "duree": 110,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29189,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 14282
+        }
+      ]
+    },
+    {
       "idSeance": 185999,
       "idProg": 334,
       "idCycleCategories": [
@@ -10823,7 +11877,7 @@
       ]
     },
     {
-      "idSeance": 185844,
+      "idSeance": 188037,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -10837,6 +11891,43 @@
       "typeEvenement": 13,
       "dateHeure": "2025-03-27T20:15:00",
       "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41616,
+          "titre": "High Hopes",
+          "realisateurs": "Mike Leigh",
+          "annee": 1988,
+          "duree": 112,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29228,
+              "duree": 112,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 4624
+        }
+      ]
+    },
+    {
+      "idSeance": 188045,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32352,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-05T15:30:00",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
@@ -10927,6 +12018,36 @@
       ]
     },
     {
+      "idSeance": 186076,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32354,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-04T20:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41617,
+          "titre": "Naked",
+          "realisateurs": "Mike Leigh",
+          "annee": 1993,
+          "generique": "David Thewlis, Lesley Sharp, Katrin Cartlidge",
+          "synopsis": "Johnny doit fuir Manchester après avoir violé une femme. Il se réfugie dans l'Est de Londres, chez son ancienne petite amie, et entame une longue errance dans les rues de la ville, pleine de sombres rencontres.",
+          "commentaire": "Après un premier film, _Bleak Moments_, en 1971, Mike Leigh passe une quinzaine d'années à réaliser des séries et des téléfilms avant de revenir au cinéma avec _High Hopes_ (1988) et _Life Is Sweet_ (1990), comédies dramatiques réalistes qui se concentrent sur une cellule familiale. _Naked_, comédie grinçante, violente, à l'esthétique réaliste trompeuse, opère un tournant sombre. Le tournage a pour cadre des lieux existants, mais Leigh et son équipe grisent les murs, éliminent les couleurs vives, et au moment du développement de la pellicule évitent le bain de blanchiment afin de donner plus de densité aux noirs. L'atmosphère blafarde qui en résulte fait basculer le film du côté de la métaphore. _Naked_ plonge le spectateur dans une vision cauchemardesque d'une Angleterre exsangue après la décennie thatchérienne, une époque où les rapports humains ne sont plus que brutalité. Loin des nobles personnages de la classe ouvrière de Ken Loach, Johnny, interprété par David Thewlis (récompensé à Cannes en 1993, tout comme Mike Leigh pour son scénario), est un Ulysse, affreux, sale et méchant, qui erre dans Londres. Son pendant, le glaçant Jeremy, à l'autre bout du spectre social, va encore plus loin dans l'abjection, sous le vernis du yuppie. Entre les deux, une série de personnages, des femmes victimes, souvent, mais résilientes et solidaires, et un gardien de nuit. Improvisé en partie, tourné sans autorisation dans les rues de la capitale anglaise, _Naked_ est aussi un film du langage, des accents, chargé d'une parole envahissante contre la frustration d'un monde toujours indifférent et froid.\n\nWafa Ghermani",
+          "status": 2,
+          "idFilmBoxoffice": 8373
+        }
+      ]
+    },
+    {
       "idSeance": 187924,
       "idProg": 334,
       "idCycleCategories": [
@@ -10941,6 +12062,52 @@
       "typeEvenement": 13,
       "dateHeure": "2025-03-28T18:00:00",
       "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 58591,
+          "titre": "Secrets et mensonges",
+          "titreVo": "Secrets and Lies",
+          "realisateurs": "Mike Leigh",
+          "annee": 1995,
+          "duree": 142,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29184,
+              "duree": 142,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29185,
+              "duree": 142,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 15225
+        }
+      ]
+    },
+    {
+      "idSeance": 188047,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32355,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-06T15:00:00",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
@@ -11038,7 +12205,44 @@
       ]
     },
     {
-      "idSeance": 187915,
+      "idSeance": 188048,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32357,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-05T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 71542,
+          "titre": "Topsy-Turvy",
+          "realisateurs": "Mike Leigh",
+          "annee": 1998,
+          "duree": 160,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29186,
+              "duree": 160,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 21848
+        }
+      ]
+    },
+    {
+      "idSeance": 188039,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -11075,7 +12279,7 @@
       ]
     },
     {
-      "idSeance": 187925,
+      "idSeance": 188038,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -11124,7 +12328,7 @@
       ],
       "idEvenement": 32360,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-06T17:30:00",
+      "dateHeure": "2025-04-06T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -11162,7 +12366,7 @@
       ],
       "idEvenement": 32361,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-06T20:00:00",
+      "dateHeure": "2025-04-06T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -11202,7 +12406,7 @@
       ]
     },
     {
-      "idSeance": 186149,
+      "idSeance": 188040,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -11900,7 +13104,7 @@
       ]
     },
     {
-      "idSeance": 187987,
+      "idSeance": 188041,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -11921,7 +13125,25 @@
           "titre": "Peter Pan",
           "realisateurs": "Herbert Brenon",
           "annee": 1924,
-          "status": 0
+          "duree": 102,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29235,
+              "duree": 102,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29234,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ]
         }
       ]
     }
