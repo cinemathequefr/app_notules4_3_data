@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-20T13:39:03.888Z",
+  "updatedAt": "2024-11-21T08:54:52.095Z",
   "data": [
     {
       "idSeance": 186263,
@@ -3191,7 +3191,8 @@
         {
           "ordre": 1,
           "idFilm": 80546,
-          "titre": "Criminal Court",
+          "titre": "Cour criminelle",
+          "titreVo": "Criminal Court",
           "realisateurs": "Robert Wise",
           "annee": 1946,
           "generique": "Tom Conway, Martha O'Driscoll, June Clayworth",
@@ -3581,8 +3582,10 @@
         {
           "ordre": 1,
           "idFilm": 37480,
-          "titre": "Captive City",
-          "art": "The",
+          "titre": "Ville captive",
+          "art": "La",
+          "titreVo": "Captive City",
+          "artVo": "The",
           "realisateurs": "Robert Wise",
           "annee": 1952,
           "generique": "John Forsythe, Joan Camden, Harold J. Kennedy",
@@ -3728,7 +3731,7 @@
           "annee": 1964,
           "duree": 174,
           "generique": "Julie Andrews, Christopher Plummer, Eleanor Parker",
-          "adaptation": "D'après le roman _The Trapp family_ de Maria von Trapp.",
+          "adaptation": "D'après le roman _The Trapp Family_ de Maria von Trapp.",
           "synopsis": "En Autriche, peu de temps avant le déclenchement de la Seconde Guerre mondiale. Maria, une jeune femme pleine d'esprit, quitte le couvent pour devenir la gouvernante des sept enfants du Capitaine Von Trapp. Ce veuf autoritaire dirige la maison d'une main de fer et, dès son arrivée, Maria se heurte à l'hostilité des enfants.",
           "status": 1,
           "copies": [
@@ -3810,8 +3813,9 @@
           "titreVo": "So Big",
           "realisateurs": "Robert Wise",
           "annee": 1953,
-          "adaptation": "D'après le roman _So big_ d'Edna Ferber.",
-          "status": 0,
+          "generique": "Jane Wyman, Sterling Hayden, Nancy Olson",
+          "adaptation": "D'après le roman _So Big_ d'Edna Ferber.",
+          "status": 1,
           "idFilmBoxoffice": 48653
         }
       ]
@@ -3878,10 +3882,12 @@
         {
           "ordre": 1,
           "idFilm": 80558,
-          "titre": "Mystery in Mexico",
+          "titre": "Mystère au Mexique",
+          "titreVo": "Mystery in Mexico",
           "realisateurs": "Robert Wise",
           "annee": 1948,
-          "status": 0,
+          "generique": "William Lundigan, Jacqueline White, Ricardo Cortez",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29158,
@@ -3919,8 +3925,9 @@
           "realisateurs": "Robert Wise",
           "annee": 1946,
           "duree": 92,
-          "adaptation": "D'après le roman _Deadlier Than the Male_ de James Gunn.",
-          "status": 0,
+          "generique": "Claire Trevor, Lawrence Tierney, Walter Slezak",
+          "adaptation": "D'après le roman _Tendre Femelle_ de James Gunn.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29157,
@@ -3959,8 +3966,9 @@
           "artVo": "The",
           "realisateurs": "Robert Wise",
           "annee": 1948,
+          "generique": "Robert Ryan, Audrey Totter, George Tobias",
           "adaptation": "D'après le poème _The Set-up_ de Joseph Moncure March.",
-          "status": 0,
+          "status": 1,
           "idFilmBoxoffice": 945
         }
       ],
@@ -3991,6 +3999,7 @@
           "artVo": "The",
           "realisateurs": "Robert Wise",
           "annee": 1975,
+          "generique": "George C. Scott, Anne Bancroft, William Atherton",
           "status": 1,
           "idFilmBoxoffice": 54553
         }
@@ -4020,8 +4029,9 @@
           "titreVo": "Run Silent Run Deep",
           "realisateurs": "Robert Wise",
           "annee": 1957,
-          "adaptation": "D'après le roman _Run Silent Run Deep_ d'Edward L. Beach.",
-          "status": 0,
+          "generique": "Clark Gable, Burt Lancaster, Jack Warden",
+          "adaptation": "D'après le roman _Run Silent, Run Deep_ d'Edward L. Beach.",
+          "status": 1,
           "idFilmBoxoffice": 46536
         }
       ]
@@ -4090,7 +4100,8 @@
           "artVo": "The",
           "realisateurs": "Robert Wise",
           "annee": 1953,
-          "status": 0,
+          "generique": "Richard Burton, James Mason, Robert Newton",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29153,
@@ -4128,7 +4139,8 @@
           "titreVo": "Two Flags West",
           "realisateurs": "Robert Wise",
           "annee": 1950,
-          "status": 0,
+          "generique": "Joseph Cotten, Linda Darnell, Jeff Chandler",
+          "status": 1,
           "idFilmBoxoffice": 108891
         }
       ]
@@ -4153,11 +4165,14 @@
           "ordre": 1,
           "idFilm": 60806,
           "titre": "Récupérateur de cadavres",
+          "art": "Le",
           "titreVo": "Body Snatcher",
           "artVo": "The",
           "realisateurs": "Robert Wise",
           "annee": 1945,
-          "status": 0,
+          "generique": "Boris Karloff, Béla Lugosi, Henry Daniell",
+          "adaptation": "D'après la nouvelle _Le Voleur de cadavres_ de Robert Louis Stevenson.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29156,
@@ -4245,7 +4260,8 @@
           "titreVo": "Three Secrets",
           "realisateurs": "Robert Wise",
           "annee": 1950,
-          "status": 0,
+          "generique": "Eleanor Parker, Patricia Neal, Ruth Roman",
+          "status": 1,
           "idFilmBoxoffice": 108894
         }
       ]
@@ -4272,7 +4288,8 @@
           "titre": "Something for the Birds",
           "realisateurs": "Robert Wise",
           "annee": 1952,
-          "status": 0,
+          "generique": "Victor Mature, Patricia Neal, Edmund Gwenn",
+          "status": 1,
           "idFilmBoxoffice": 108889
         }
       ]
@@ -4297,10 +4314,11 @@
           "ordre": 1,
           "idFilm": 37559,
           "titre": "Marqué par la haine",
-          "titreVo": "Somebody up There Likes Me",
+          "titreVo": "Somebody Up There Likes Me",
           "realisateurs": "Robert Wise",
           "annee": 1956,
-          "status": 0,
+          "generique": "Paul Newman, Pier Angeli, Everett Sloane",
+          "status": 1,
           "idFilmBoxoffice": 6569
         }
       ]
@@ -4330,7 +4348,7 @@
           "duree": 175,
           "generique": "Julie Andrews, Richard Crenna, Michael Craig",
           "synopsis": "La vie de Gertrude Lawrence, célèbre artiste de music-hall de la première moitié du XXe siècle.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 4515,
@@ -4368,6 +4386,7 @@
           "realisateurs": "Robert Wise",
           "annee": 1979,
           "dureeStd": 132,
+          "generique": "William Shatner, Leonard Nimoy, DeForest Kelley",
           "adaptation": "D'après la série télévisée _Star Trek_ de Gene Roddenberry.",
           "status": 1,
           "idFilmBoxoffice": 13022
@@ -4397,8 +4416,9 @@
           "titreVo": "A Game of Death",
           "realisateurs": "Robert Wise",
           "annee": 1946,
+          "generique": "John Loder, Audrey Long, Edgar Barrier",
           "adaptation": "D'après le roman _The Most Dangerous Game_ de Richard Connell.",
-          "status": 0,
+          "status": 1,
           "idFilmBoxoffice": 32689
         }
       ]
@@ -4428,7 +4448,9 @@
           "realisateurs": "Robert Wise",
           "annee": 1953,
           "duree": 104,
-          "status": 0,
+          "generique": "Barbara Stanwyck, William Holden, June Allyson",
+          "adaptation": "D'après le roman _Executive Suite_ de Cameron Hawley.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29160,
@@ -4471,7 +4493,7 @@
           "realisateurs": "Robert Wise, Jerome Robbins",
           "annee": 1960,
           "duree": 148,
-          "generique": "Natalie Wood, Richard Beymer, George Chakiris",
+          "generique": "Natalie Wood, Richard Beymer, George Chakiris, Rita Moreno",
           "adaptation": "D'après la comédie musicale _West Side Story_ de Leonard Bernstein, Stephen Sondheim et Arthur Laurents.",
           "ageMinimal": 10,
           "synopsis": "Dans le West Side, bas quartier de New York, deux bandes de jeunes s'affrontent, les Sharks de Bernardo et les Jets de Riff. Un ancien membre des Jets, Tony, s'éprend de Maria, la sœur de Bernardo.",
@@ -4987,6 +5009,7 @@
               "idCopie": 29109,
               "duree": 119,
               "format": "35 mm",
+              "version": "VO",
               "langCopie": "FRE",
               "sousTitres": "Autres",
               "selected": true
@@ -4995,6 +5018,7 @@
               "idCopie": 2693,
               "duree": 119,
               "format": "35 mm",
+              "version": "VO",
               "langCopie": "FRE"
             }
           ],
@@ -10917,7 +10941,7 @@
           "duree": 108,
           "generique": "Natalie Portman, Mila Kunis, Vincent Cassel",
           "synopsis": "Dans la troupe du New York City Ballet. Nina est prête à tout pour obtenir le rôle principal du _Lac des cygnes_ que dirige l'ambigu Thomas. Mais elle se trouve bientôt confrontée à la belle et sensuelle nouvelle recrue, Lily...",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29144,
@@ -10955,7 +10979,8 @@
           "realisateurs": "Darren Aronofsky",
           "annee": 2004,
           "duree": 96,
-          "status": 0,
+          "generique": "Hugh Jackman, Rachel Weisz, Ellen Burstyn",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29034,
@@ -10989,6 +11014,7 @@
           "realisateurs": "Darren Aronofsky",
           "annee": 2016,
           "duree": 122,
+          "generique": "Jennifer Lawrence, Javier Bardem, Ed Harris, Michelle Pfeiffer",
           "status": 1,
           "copies": [
             {
@@ -11027,7 +11053,8 @@
           "realisateurs": "Darren Aronofsky",
           "annee": 2012,
           "duree": 138,
-          "status": 0,
+          "generique": "Russell Crowe, Jennifer Connelly, Ray Winstone, Anthony Hopkins",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29036,
@@ -11110,7 +11137,8 @@
           "realisateurs": "Darren Aronofsky",
           "annee": 1999,
           "duree": 102,
-          "adaptation": "D'après le roman _Requiem for a Dream_ de Hubert Selby Jr..",
+          "generique": "Ellen Burstyn, Jared Leto, Jennifer Connelly",
+          "adaptation": "D'après le roman _Requiem for a Dream_ de Hubert Selby Jr.",
           "status": 1,
           "copies": [
             {
@@ -11150,7 +11178,8 @@
           "realisateurs": "Darren Aronofsky",
           "annee": 2008,
           "duree": 110,
-          "status": 0,
+          "generique": "Mickey Rourke, Marisa Tomei, Evan Rachel Wood",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29038,
@@ -11188,7 +11217,9 @@
           "realisateurs": "Darren Aronofsky",
           "annee": 2022,
           "duree": 117,
-          "status": 0,
+          "generique": "Brendan Fraser, Sadie Sink, Hong Chau",
+          "adaptation": "D'après la pièce _The Whale_ de Samuel D. Hunter.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29033,
