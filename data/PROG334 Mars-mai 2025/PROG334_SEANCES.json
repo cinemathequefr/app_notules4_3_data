@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-25T09:17:18.398Z",
+  "updatedAt": "2024-11-25T13:51:25.711Z",
   "data": [
     {
       "idSeance": 186263,
@@ -64,6 +64,7 @@
           "realisateurs": "Louis Skorecki",
           "annee": 1988,
           "duree": 56,
+          "miniTexte": "Deux ados devant la Cinémathèque de Chaillot. « Ça ressemble à rien cet endroit. Enfin si, on dirait un décor de _Brazil_, bien sinistre... J'aimerais pas voir un film là-dedans, moi, tout le monde y a une gueule d'enterrement. » Le second épisode des _Cinéphiles_, dans lequel de jeunes gens échangent sur les films qu'ils aiment, ou qu'ils détestent, sous l'œil toujours délicieusement cruel du cinéaste, vent debout contre la muséification du cinéma.",
           "status": 1,
           "copies": [
             {
@@ -84,7 +85,8 @@
           "realisateurs": "Louis Skorecki",
           "annee": 2006,
           "duree": 32,
-          "status": 0,
+          "miniTexte": "« De l'eau est passée sous les ponts. Le cinéma d'aujourd'hui, c'est la téléréalité. Vous n'êtes pas d'accord ? Je m'en fous... » Troisième round, plus resserré, des Cinéphiles. La cinéphilie comme discours, mais qui tournerait plus que jamais à vide : Frédéric Beigbeder fait rentrer dans le crâne d'un enfant de 5 ans quelques théories sur _Rio Bravo_, quand Axelle Ropert et son acolyte se balancent des noms de cinéastes sans plus d'arguments. Féroce, et vivifiant.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29211,
@@ -120,7 +122,8 @@
           "annee": 1988,
           "duree": 74,
           "generique": "Nidam Abdi, Sébastien Clerger, Nathalie Coffre",
-          "status": 0,
+          "miniTexte": "« Tu vas vraiment voir ce film ? C'est nul, c'est des garçons et des filles qui parlent pendant une heure, sur n'importe quoi. » Dans le cadre strict de longs plans-séquences, de jeunes cinévores soliloquent sur les films qu'ils ont vus, ou qu'ils veulent voir. Mais dans un monde où, d'après l'auteur, le cinéma serait déjà mort depuis longtemps, ce dialogue semble vide de sens, loin de la cinéphilie des années 60. Apparitions hilarantes de Michel Cressole en critique désabusé par le septième art, et qui finit par uriner sur les murs du cinéma dont il sort excédé.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 8900,
@@ -171,6 +174,7 @@
           "duree": 105,
           "generique": "Élisabeth Boland, Françoise Grimaldi, Jean-René Huleu",
           "synopsis": "Réflexion sur les rapports entre image et voix off au cinéma, rythmée par la lecture d'une nouvelle de Sade racontant l'amour incestueux d'un père pour sa fille.",
+          "miniTexte": "La restitution minutieuse du roman de Sade, dit en voix off sur des images en noir et blanc. Un rapport rigoureux au texte qui rappelle les recherches de Straub et Huillet, jusqu'à ce qu'intervienne un véritable événement dans le plan, perturbant le dispositif distancié d'une restitution de l'ouvrage. Le cinéma et la littérature portés jusqu'à un très haut degré d'incandescence.",
           "commentaire": "Le roman sadien a toujours été un obstacle quasiment infranchissable pour le cinéma. Comment transformer en image et en son ce qui, finalement, ne peut se concevoir qu'écrit ? L'œuvre du divin marquis ne touche-t-elle pas aux extrémités mêmes de la littérature ? Plutôt que les adaptations culturellement légitimes, c'est sans doute dans les séries B d'un Jess Franco ou dans l'allégorie politique de Pasolini, _Salò_, que l'on peut entrevoir un passage possible entre deux formes d'expression antagoniques. Mais c'est aussi, et davantage encore, dans _Eugénie de Franval_. Tourné en 1974 par Louis Skorecki, le film est une adaptation réalisée avec la conscience d'une contradiction insoluble. Il restitue minutieusement le texte du roman dit en voix off sur des images en noir et blanc peuplées de silhouettes muettes, évoquant les personnages du récit et évoluant devant la caméra. Ce rapport minutieux au texte (rappelant en cela les recherches du couple de cinéastes Jean-Marie Straub et Danièle Huillet) trahit, certes, un désir de respect absolu de l'œuvre originaire saisie dans sa toute puissante singularité. C'est pourtant au moment où Skorecki lui-même, incarnant Valmont, effectue un geste produisant un véritable événement dans le plan, perturbant le dispositif à la fois distancié et discursif d'une restitution du roman de Sade, que quelque chose du cinéma affirme son autonomie. L'essence du médium, toute entière définie par sa capacité à enregistrer et à figer un évènement unique, prend soudain le dessus. Cinéma et littérature sont, dans _Eugénie de Franval_, deux moyens d'expression portés jusqu'à un très haut degré d'incandescence.\n\nJean-François Rauger",
           "status": 1,
           "copies": [
@@ -1433,10 +1437,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28951,
+              "idCopie": 29271,
               "duree": 98,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 115710
@@ -1667,7 +1672,11 @@
           "copies": [
             {
               "idCopie": 28983,
-              "duree": 85
+              "duree": 85,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ITA",
+              "sousTitres": "Autres"
             }
           ],
           "idFilmBoxoffice": 206174
@@ -1735,6 +1744,7 @@
           "annee": 1990,
           "duree": 97,
           "generique": "Giuliana De Sio, Julian Sands, Erland Josephson",
+          "miniTexte": "Une jeune femme au comportement schizophrène est accueillie dans une clinique de luxe à Zurich, au début de XX<sup>e</sup> siècle. Elle est prise en charge par un jeune professeur qui va appliquer à son cas les théories de Sigmund Freud. Une rareté, avec le regretté Julian Sands, tragiquement décédé en 2023.",
           "status": 2,
           "copies": [
             {
@@ -1776,6 +1786,7 @@
           "duree": 105,
           "generique": "Assia Noris, Beba Loncar, Raffaella Carrà",
           "adaptation": "D'après le roman _La Célestine_ de Fernando de Rojas.",
+          "miniTexte": "Quinze ans après avoir disparu des écrans, le dernier tour de piste d'Assia Noris, l'une des grandes stars du cinéma des téléphones blancs, ces comédies italiennes légères et bourgeoises qui faisaient fureur dans les années 30. L'actrice sort ici de sa zone de confort, tête d'affiche d'une comédie grinçante et pessimiste sur l'arrivisme, l'argent et le déclin moral de l'Italie d'après-guerre.",
           "status": 2,
           "copies": [
             {
@@ -2521,7 +2532,10 @@
           "copies": [
             {
               "idCopie": 28973,
-              "duree": 126
+              "duree": 126,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -4607,7 +4621,7 @@
           "synopsis": "Dans le West Side, bas quartier de New York, deux bandes de jeunes s'affrontent, les Sharks de Bernardo et les Jets de Riff. Un ancien membre des Jets, Tony, s'éprend de Maria, la sœur de Bernardo.",
           "synopsisJP": "À New York, deux gangs rivaux, les Jets et les Sharks, s'affrontent dans des chorégraphies éblouissantes, sur la célèbre partition de Leonard Bernstein, tandis que Tony et Maria tentent de vivre leur amour naissant. Racisme, rivalités ethniques, rêve américain : la version moderne de _Roméo et Juliette_ aux dix Oscars, devenue culte.",
           "miniTexte": "À New York, deux gangs rivaux, les Jets et les Sharks, s'affrontent dans des chorégraphies éblouissantes, sur la célèbre partition de Leonard Bernstein, tandis que Tony et Maria tentent de vivre leur amour naissant. Parfaites illustrations d'une jeunesse passionnée, qui lutte pour exister, Richard Beymer et Natalie Wood forment un bouleversant duo de rébellion et de nostalgie. Racisme, rivalités ethniques, rêve américain : la version moderne de _Roméo et Juliette_ aux dix Oscars, devenue culte.",
-          "commentaire": "Après le succès du procédé de prise de vue 65mm Todd-AO, la société Panavision se lance à son tour dans l'aventure de l'écran large de grande qualité. _West Side Story_ est la deuxième production à bénéficier du procédé Panavision 70 qui fut rapidement dénommé Super Panavision afin de le distinguer du 35mm. Procédé pour films monumentaux, difficile à manier, il offre une qualité d'espace scénique visuel et sonore jamais atteinte dans l'histoire du cinéma en termes de définition, de saturation des couleurs et de profondeur de champ.",
+          "commentaire": "L'original, après Broadway et avant Spielberg. Grande réussite spectaculaire d'un Hollywood qui refuse de baisser les bras devant la télévision, au risque de l'emphase et du monumental, le film sera couvert d'Oscars et reste un hit historique de la comédie musicale. Avec ses audaces (New York vue d'en haut et le début sans paroles, le générique final de Saul Bass), son trio magique de génies (Bernstein/Sondheim/Robbins) et ses duos sentimentaux un tantinet sirupeux. Mais Chakiris et Natalie Wood. — Frédéric Bonnaud",
           "status": 2,
           "copies": [
             {
@@ -4773,7 +4787,7 @@
           "duree": 82,
           "generique": "Marlene Dietrich, Clive Brook, Anna May Wong",
           "synopsis": "Dans une Chine en pleine guerre civile, un petit groupe d'occidentaux montent dans un train à destination de Shanghai. Parmi eux, une femme à la réputation sulfureuse, surnommée Shanghai Lily, attire les regards et les réprobations. Le train est attaqué.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29039,
@@ -4923,7 +4937,7 @@
           "annee": 1929,
           "duree": 97,
           "generique": "Anna May Wong, Tilla Garden, Fred Louis Lerch",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28995,
@@ -5431,8 +5445,10 @@
         {
           "ordre": 1,
           "idFilm": 40727,
-          "titre": "Bergkatze",
-          "art": "Die",
+          "titre": "Chatte des montagnes",
+          "art": "La",
+          "titreVo": "Bergkatze",
+          "artVo": "Die",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1921,
           "duree": 80,
@@ -5544,76 +5560,6 @@
       ]
     },
     {
-      "idSeance": 187839,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32047,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-28T17:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 70811,
-          "titre": "Ein fideles Gefängnis",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1917,
-          "duree": 54,
-          "generique": "Emil Jannings, Hanns Kräly",
-          "miniTexte": "D'après une opérette de Richard Strauss, le film dépeint avec humour les problèmes conjugaux d'un couple de la bourgeoisie berlinoise. Méprises et sous-entendus malicieux, modèles types de la première vague du maître.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29067,
-              "duree": 54,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ]
-        },
-        {
-          "ordre": 2,
-          "idFilm": 40802,
-          "titre": "Poupée",
-          "art": "La",
-          "titreVo": "Puppe",
-          "artVo": "Die",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1919,
-          "duree": 51,
-          "generique": "Ernst Lubitsch, Ossi Oswalda",
-          "synopsis": "Le jeune Lancelot, prié de prendre femme alors qu'il n'en veut pas, décide de se retirer dans un monastère et de se marier avec une poupée pour donner la dot aux moines.",
-          "miniTexte": "Dans un décor de papier installé par ses soins, Lubitsch lance lui-même le film : pour échapper au mariage, un jeune héritier se cache dans un monastère, où des moines paillards le poussent à épouser une poupée mécanique. Sur un motif cher au cinéaste – une femme éveille le désir d'un homme qu'elle détourne de son chemin –, _La Poupée_ exploite brillamment les effets visuels comiques, dans un monde féerique aux accents expressionnistes. Ici, les pantins dansent et deviennent des sosies de chair, capables de faire fondre le cœur des plus misogynes.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 17005,
-              "duree": 51,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "selected": true
-            },
-            {
-              "idCopie": 29070,
-              "duree": 57,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 6045
-        }
-      ]
-    },
-    {
       "idSeance": 185998,
       "idProg": 334,
       "idCycleCategories": [
@@ -5638,7 +5584,8 @@
           "realisateurs": "Ernst Lubitsch",
           "annee": 1924,
           "duree": 98,
-          "generique": "Florence Vidor, Adolph Menjou, Monte Blue, Marie Prevost",
+          "generique": "Florence Vidor, Adolphe Menjou, Monte Blue, Marie Prevost",
+          "adaptation": "D'après la pièce _Nur ein Traum_ de Lothar Schmidt.",
           "miniTexte": "Les débuts américains de Lubitsch mettent en scène deux couples viennois, mis à l'épreuve par une série de quiproquos et de tentations amoureuses. À l'heure où le _slapstick_ connaît ses heures de gloire à Hollywood, le cinéaste dévoile sa touche inimitable, mélange de mise en scène sophistiquée et de sous-entendus malicieux. Avec lui, la comédie conjugale va trouver ses lettres de noblesse grâce à un savant dosage d'élégance, d'humour et d'érotisme. Inspiré par _L'Opinion publique_ de Chaplin, _Comédiennes_ marquera toute une génération de cinéastes, de Hitchcock à Kurosawa.",
           "status": 2,
           "copies": [
@@ -5674,11 +5621,13 @@
         {
           "ordre": 1,
           "idFilm": 33858,
-          "titre": "Eternal Love",
+          "titre": "Abîme",
+          "art": "L'",
+          "titreVo": "Eternal Love",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1929,
           "duree": 73,
-          "generique": "John Barrymore",
+          "generique": "John Barrymore, Camilla Horn, Victor Varconi",
           "miniTexte": "Pendant les guerres napoléoniennes, dans les Alpes suisses, la passion contrariée d'un montagnard avec la fille du pasteur. Tourné en décors naturels dans les Rocheuses canadiennes, le dernier film muet de Lubitsch est une variation sur les amours impossibles, son thème de prédilection. Avec une tonalité plus sombre qu'à l'accoutumée, le cinéaste tire habilement parti des paysages enneigés pour créer une atmosphère de pur romantisme. Les vastes étendues blanches deviennent le théâtre d'intimité et de désespoir partagés par John Barrymore et Camilla Horn. Deux grands interprètes, suivis au plus près par une caméra aérienne, et de taille à transporter les émotions vers les plus hauts sommets.",
           "status": 1,
           "copies": [
@@ -5712,13 +5661,14 @@
         {
           "ordre": 1,
           "idFilm": 33905,
-          "titre": "Eventail de Lady Windermere",
+          "titre": "Éventail de Lady Windermere",
           "art": "L'",
           "titreVo": "Lady Windermere's Fan",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1925,
           "duree": 70,
-          "generique": "Ronald Colman",
+          "generique": "Ronald Colman, May McAvoy, Irene Rich",
+          "adaptation": "D'après la pièce _L'Éventail de Lady Windermere_ d'Oscar Wilde.",
           "miniTexte": "Comédie de mœurs dans la haute société londonienne, le film raconte les soupçons de Lady Windermer sur l'infidélité de son mari avec une femme de mauvaise réputation. Lubitsch troque l'esprit de la pièce d'Oscar Wilde contre son équivalent visuel : un geste, un sourire esquissé, un regard soutenu. Si secrets et mensonges se cachent derrière les portes closes, ils se révèlent astucieusement au travers d'un décor ou d'un objet perdu. Fondé sur l'ambiguïté des relations et sur les hypocrisies de la morale victorienne, _L'Éventail de Lady Windermere_ est un bijou de cruauté et d'amertume. Un incontournable du cinéma muet, longtemps resté inédit en France.",
           "status": 1,
           "copies": [
@@ -5756,6 +5706,7 @@
           "realisateurs": "Ernst Lubitsch",
           "annee": 1921,
           "duree": 110,
+          "generique": "Emil Jannings, Dagny Servaes, Harry Liedtke",
           "miniTexte": "Autour d'une intrigue amoureuse dans l'Égypte antique, une satire du pouvoir aux décors spectaculaires. La dernière superproduction allemande de Lubitsch, qui lui ouvre un boulevard vers les studios hollywoodiens.",
           "status": 1,
           "copies": [
@@ -6392,70 +6343,6 @@
       ]
     },
     {
-      "idSeance": 185758,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32067,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-23T14:30:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 128867,
-          "titre": "Joyeuse prison",
-          "art": "La",
-          "titreVo": "Fidele Gefängnis",
-          "artVo": "Das",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1917,
-          "duree": 54,
-          "generique": "Harry Liedtke, Kitty Dewall",
-          "synopsis": "Alex est un noceur, qui, au lieu de passer une nuit en prison après un délit mineur, se rend à un bal masqué. Sa femme l'y trouve en train d'aguicher la domestique.",
-          "miniTexte": "Un mari fêtard évite une nuit de prison en se cachant dans un bal costumé. Avec un soin minutieux, Lubitsch tourne en dérision le mariage et les jeux amoureux dans une farce qui préfigure _Comédiennes_ et _Haute Pègre_.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 10620,
-              "duree": 54,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 117729
-        },
-        {
-          "ordre": 2,
-          "idFilm": 92582,
-          "titre": "Je ne voudrais pas être un homme",
-          "titreVo": "Ich möchte kein Mann sein",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1918,
-          "duree": 44,
-          "miniTexte": "Décidée à expérimenter la liberté masculine, une jeune femme se travestit et sort pour une nuit d'aventures. Un Lubitsch avant-coureur et subversif qui explore les normes de genres avec malice.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29058,
-              "duree": 44,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 10400
-        }
-      ]
-    },
-    {
       "idSeance": 187794,
       "idProg": 334,
       "idCycleCategories": [
@@ -6818,6 +6705,38 @@
         },
         {
           "ordre": 2,
+          "idFilm": 40802,
+          "titre": "Poupée",
+          "art": "La",
+          "titreVo": "Puppe",
+          "artVo": "Die",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1919,
+          "duree": 51,
+          "generique": "Ernst Lubitsch, Ossi Oswalda",
+          "synopsis": "Le jeune Lancelot, prié de prendre femme alors qu'il n'en veut pas, décide de se retirer dans un monastère et de se marier avec une poupée pour donner la dot aux moines.",
+          "miniTexte": "Dans un décor de papier installé par ses soins, Lubitsch lance lui-même le film : pour échapper au mariage, un jeune héritier se cache dans un monastère, où des moines paillards le poussent à épouser une poupée mécanique. Sur un motif cher au cinéaste – une femme éveille le désir d'un homme qu'elle détourne de son chemin –, _La Poupée_ exploite brillamment les effets visuels comiques, dans un monde féerique aux accents expressionnistes. Ici, les pantins dansent et deviennent des sosies de chair, capables de faire fondre le cœur des plus misogynes.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 17005,
+              "duree": 51,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "selected": true
+            },
+            {
+              "idCopie": 29070,
+              "duree": 57,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 6045
+        },
+        {
+          "ordre": 3,
           "idFilm": 34540,
           "titre": "Patriot",
           "art": "The",
@@ -7385,8 +7304,10 @@
         {
           "ordre": 3,
           "idFilm": 40754,
-          "titre": "Blusenkönig",
-          "art": "Der",
+          "titre": "Roi du corsage",
+          "art": "Le",
+          "titreVo": "Blusenkönig",
+          "artVo": "Der",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1917,
           "duree": 12,
@@ -7951,8 +7872,9 @@
           "annee": 1929,
           "duree": 95,
           "generique": "Lon Chaney, Louise Dresser, Renée Adorée",
+          "adaptation": "D'après la pièce _Monsieur Wu_ de Maurice Vernon et Harold Owen.",
           "synopsis": "Mandarin Wu est un homme autoritaire qui porte cependant un grand amour à sa superbe fille, Nang Ping. Il arrange un mariage pour elle tandis que celle-ci tombe amoureuse d'un gentleman anglais.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 2665,
@@ -7989,9 +7911,9 @@
           "realisateurs": "Ewald Andreas Dupont",
           "annee": 1929,
           "duree": 108,
-          "generique": "Gilda Gray, Anna May Wong",
+          "generique": "Gilda Gray, Anna May Wong, Jameson Thomas",
           "synopsis": "Pour sauver son établissement de la faillite, le propriétaire d'un night-club londonien offre à une modeste employée de cuisine d'origine chinoise, belle et ambitieuse, de devenir danseuse-vedette.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 14023,
@@ -8024,13 +7946,13 @@
         {
           "ordre": 1,
           "idFilm": 67451,
-          "titre": "Ile des hommes perdus",
+          "titre": "Île des hommes perdus",
           "art": "L'",
           "titreVo": "Island of Lost Men",
           "realisateurs": "Kurt Neumann",
           "annee": 1939,
           "generique": "Anna May Wong, J. Carrol Naish, Anthony Quinn",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -8087,7 +8009,8 @@
           "titreVo": "King of Chinatown",
           "realisateurs": "Nick Grinde",
           "annee": 1939,
-          "status": 0
+          "generique": "Akim Tamiroff, Anna May Wong, J. Carrol Naish",
+          "status": 1
         }
       ]
     },
@@ -8144,12 +8067,12 @@
         {
           "ordre": 1,
           "idFilm": 155037,
-          "titre": "When were you born",
+          "titre": "When Were You Born",
           "realisateurs": "William C. McGann",
           "annee": 1938,
           "duree": 65,
           "generique": "Anna May Wong, Margaret Lindsay, Lola Lane",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29182,
@@ -8239,11 +8162,11 @@
           "ordre": 1,
           "idFilm": 155038,
           "titre": "Sherlock Holmes: Une étude en rouge",
-          "titreVo": "A study in scarlet",
+          "titreVo": "A Study in Scarlet",
           "realisateurs": "Edwin L. Marin",
           "annee": 1933,
           "generique": "Reginald Owen, Anna May Wong, June Clyde",
-          "status": 0,
+          "status": 1,
           "idFilmBoxoffice": 282786
         }
       ]
@@ -8274,8 +8197,9 @@
           "annee": 1923,
           "duree": 70,
           "generique": "Wallace Beery, Priscilla Dean, Matt Moore",
+          "adaptation": "D'après la pièce _La Marchande de rêves_ de Daisy H. Andrews et John Colton.",
           "synopsis": "Une jeune femme tente de quitter un gang de trafiquants d'opium de Shanghai dont elle fait partie.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 13191,
@@ -11113,6 +11037,7 @@
           "adaptation": "D'après la nouvelle _The Man Who Shot Liberty Valance_ de Dorothy M. Johnson.",
           "synopsis": "Un sénateur revient à Shinbone pour assister aux funérailles d'un inconnu. La presse locale, intriguée par la présence du politicien, le presse de questions. Il va alors revenir sur l'époque, où, jeune diplômé en droit, il arriva à Shinbone et essaya d'y faire respecter la loi et débarrasser la ville d'un homme dangereux.",
           "miniTexte": "Pour son avant-dernier western, Ford imagine un duel au sommet entre John Wayne et James Stewart, métaphore de la contradiction entre réalité historique et légende. Non sans une certaine nostalgie, il filme saloons, hold-ups et autres galopades dans une véritable folie du saccage, où s'illustrent des personnages à la Dickens. Quant à la célèbre scène des élections, extraordinaire, elle est d'une incroyable actualité.",
+          "commentaire": "Testament d'un immense cinéaste, œuvre si dense et si riche qu'elle est sans cesse son propre commentaire et devient matière à méditation infinie, le film analyse comment un simple fait divers (un avocat courageux élimine une brute épaisse qui terrorisait une petite ville de l'Ouest, voilà pour la légende) devient la métaphore d'un pan entier de l'histoire américaine et une réflexion magistrale sur la fin d'un ordre social et le début d'un autre. On ne fera jamais mieux. — Frédéric Bonnaud",
           "status": 2,
           "copies": [
             {
@@ -11662,11 +11587,11 @@
         {
           "ordre": 2,
           "idFilm": 155052,
-          "titre": "Doktor Satansohm",
+          "titre": "Doktor Satansohn",
           "realisateurs": "Edmund Edel",
           "annee": 1916,
           "duree": 44,
-          "generique": "Hans Felix",
+          "generique": "Hans Felix, Yo Larte, Marga Köhler",
           "miniTexte": "Fantasmagorie aux accents faustiens, qui voit le propriétaire d'un institut de beauté, un certain Dr. Satansohn, réaliser le rêve d'une femme qui aspire à la jeunesse éternelle. Sous condition qu'elle n'embrasse plus aucun homme.",
           "status": 1,
           "copies": [
@@ -11850,7 +11775,8 @@
           "generique": "Jean-Paul Belmondo, Serge Reggiani, Jean Desailly",
           "adaptation": "D'après le roman _Le Doulos_ de Pierre Lesou.",
           "synopsis": "Un gangster ne sait pas que son meilleur ami est indicateur de police.",
-          "status": 0,
+          "miniTexte": "Après _Léon Morin, prêtre_, « le film de la prudence, lisse et parfait » selon Jean-Pierre Melville, alors en quête de respectabilité et de moyens financiers, le cinéaste de la rue Jenner retrouve Jean-Paul Belmondo, qu'il sait capable de tout jouer, y compris un prêtre allumeur, et renoue avec le polar français sous influence américaine. Implacable et millimétrée, la mise en scène emporte un scénario un peu trop roué et manipulateur. Melville trouve ici son style définitif. — Frédéric Bonnaud",
+          "status": 2,
           "idFilmBoxoffice": 918
         }
       ]
@@ -11861,9 +11787,9 @@
       "idCycleCategories": [
         {
           "idCycle": 525,
-          "idCategorie": 3114,
+          "idCategorie": 3696,
           "titreCycle": "Ciné-club de Frédéric Bonnaud",
-          "titreSousCycle": "Rencontres et conférences"
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 32337,
@@ -11888,9 +11814,9 @@
       "idCycleCategories": [
         {
           "idCycle": 525,
-          "idCategorie": 3114,
+          "idCategorie": 3696,
           "titreCycle": "Ciné-club de Frédéric Bonnaud",
-          "titreSousCycle": "Rencontres et conférences"
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 32338,
@@ -11915,9 +11841,9 @@
       "idCycleCategories": [
         {
           "idCycle": 525,
-          "idCategorie": 3114,
+          "idCategorie": 3696,
           "titreCycle": "Ciné-club de Frédéric Bonnaud",
-          "titreSousCycle": "Rencontres et conférences"
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 32339,
@@ -12376,7 +12302,8 @@
           "realisateurs": "Mike Leigh",
           "annee": 1995,
           "duree": 142,
-          "status": 0,
+          "generique": "Timothy Spall, Phyllis Logan, Brenda Blethyn",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29184,
@@ -12414,7 +12341,8 @@
           "realisateurs": "Mike Leigh",
           "annee": 1995,
           "duree": 142,
-          "status": 0,
+          "generique": "Timothy Spall, Phyllis Logan, Brenda Blethyn",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29184,
@@ -12452,7 +12380,8 @@
           "realisateurs": "Mike Leigh",
           "annee": 1996,
           "duree": 87,
-          "status": 0,
+          "generique": "Katrin Cartlidge, Lynda Steadman, Kate Byers",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29261,
@@ -12487,7 +12416,8 @@
           "realisateurs": "Mike Leigh",
           "annee": 1998,
           "duree": 160,
-          "status": 0,
+          "generique": "Jim Broadbent, Allan Corduner, Timothy Spall",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29186,
@@ -12524,7 +12454,8 @@
           "realisateurs": "Mike Leigh",
           "annee": 1998,
           "duree": 160,
-          "status": 0,
+          "generique": "Jim Broadbent, Allan Corduner, Timothy Spall",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29186,
@@ -12673,7 +12604,8 @@
           "realisateurs": "Mike Leigh",
           "annee": 2009,
           "duree": 129,
-          "status": 0,
+          "generique": "Jim Broadbent, Lesley Manville, Ruth Sheen",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29187,
@@ -13162,7 +13094,8 @@
           "realisateurs": "Louis Skorecki",
           "annee": 1966,
           "duree": 20,
-          "status": 0,
+          "miniTexte": "Le premier film de Skorecki, un essai amoureux « sous influence Godard (surtout Bande à part) », et où l'on peut entendre un solo inédit d'Archie Shepp, enregistré à New York en 65.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29206,
@@ -13179,7 +13112,8 @@
           "realisateurs": "Louis Skorecki",
           "annee": 1982,
           "duree": 41,
-          "status": 0,
+          "miniTexte": "De drôles de « personnages » s'agitent dans un squatt irréaliste et coloré, sans jamais s'écouter, à croire qu'ils vivent chacun dans un espace différent. Adoré par Serge Daney, le film le plus personnel de Skorecki, et le premier dans lequel il apparaît, dans le rôle d'un rat/conteur.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29207,
@@ -13196,7 +13130,8 @@
           "realisateurs": "Louis Skorecki",
           "annee": 1984,
           "duree": 25,
-          "status": 0,
+          "miniTexte": "« Un film trop lent, trop complaisant, garrelo-straubien, dont le seul intérêt est d'avoir mis en scène quelques polaroïds de l'adolescent qui joue un petit rôle dans le très beau film de Stavros Tornes, _Danilo Treles_ (1986), un film dédié à l'Escalier de la haine parce que le héros y porte lui aussi un masque de rat. » Louis Skorecki",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29209,
@@ -13212,7 +13147,8 @@
           "realisateurs": "Louis Skorecki",
           "annee": 1988,
           "duree": 10,
-          "status": 0,
+          "miniTexte": "Court métrage poétique, fait avec un reste de bobine sur le tournage du _Retour de Jean_.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29210,
@@ -13246,7 +13182,8 @@
           "realisateurs": "Louis Skorecki",
           "annee": 1984,
           "duree": 70,
-          "status": 0,
+          "miniTexte": "« Quand on parle de cinéphilie, je crois qu'il faut expliquer, préciser, mettre les choses à plat : mettre soi-même les pieds dans le plat et y aller de sa personne, faute de quoi l'autre, le lecteur, risque de n'y rien comprendre. » Lecture à deux voix du célèbre article de Skorecki écrit en 1978 pour les _Cahiers du cinéma_.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29208,
@@ -13315,7 +13252,8 @@
           "realisateurs": "Louis Skorecki",
           "annee": 2009,
           "duree": 78,
-          "status": 0,
+          "miniTexte": "Raphaël Girault met en scène le départ de Louis Skorecki de _Libération_ en 2007, après qu'Édouard de Rothschild est entré au capital du journal. Tantôt cocasse, tantôt malplaisant, le désormais ex-critique finit par bouleverser, incarnation d'un monde – la presse, la critique cinéma – en train de radicalement basculer.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29213,
@@ -13349,7 +13287,8 @@
           "realisateurs": "Louis Skorecki",
           "annee": 2013,
           "duree": 94,
-          "status": 0,
+          "miniTexte": "Entouré de Marie Anne Guerin et Vladimir Léon, Skorecki lance sa boîte de production, un paradoxe pour « quelqu'un qui ne veut plus aller voir de films et qui part en courant dès qu'il est question d'argent ».",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29214,
@@ -13384,7 +13323,8 @@
           "realisateurs": "Louis Skorecki",
           "annee": 2015,
           "duree": 52,
-          "status": 0,
+          "miniTexte": "Une série de vignettes, décalées, incongrues, de conseils culinaires, de masques d'animaux et d'expressions yiddish pour raconter – ou ne surtout pas le faire, ou alors par la bande – ses origines juives. Longtemps resté invisible, le film est présenté dans une toute nouvelle restauration mise en œuvre par la Cinémathèque française.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29215,
@@ -13472,7 +13412,9 @@
           "realisateurs": "Herbert Brenon",
           "annee": 1924,
           "duree": 102,
-          "status": 0,
+          "generique": "Betty Bronson, Ernest Torrence, Anna May Wong",
+          "adaptation": "D'après la pièce _Peter Pan_ de J. M. Barrie",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29235,
@@ -13516,6 +13458,151 @@
           "realisateurs": "Mike Leigh",
           "annee": 2024,
           "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 185758,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32480,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-23T14:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 92582,
+          "titre": "Je ne voudrais pas être un homme",
+          "titreVo": "Ich möchte kein Mann sein",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1918,
+          "duree": 44,
+          "miniTexte": "Décidée à expérimenter la liberté masculine, une jeune femme se travestit et sort pour une nuit d'aventures. Un Lubitsch avant-coureur et subversif qui explore les normes de genres avec malice.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29058,
+              "duree": 44,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 10400
+        },
+        {
+          "ordre": 2,
+          "idFilm": 70811,
+          "titre": "Ein fideles Gefängnis",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1917,
+          "duree": 54,
+          "generique": "Emil Jannings, Hanns Kräly",
+          "miniTexte": "D'après une opérette de Richard Strauss, le film dépeint avec humour les problèmes conjugaux d'un couple de la bourgeoisie berlinoise. Méprises et sous-entendus malicieux, modèles types de la première vague du maître.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29067,
+              "duree": 54,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187839,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32480,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-28T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 92582,
+          "titre": "Je ne voudrais pas être un homme",
+          "titreVo": "Ich möchte kein Mann sein",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1918,
+          "duree": 44,
+          "miniTexte": "Décidée à expérimenter la liberté masculine, une jeune femme se travestit et sort pour une nuit d'aventures. Un Lubitsch avant-coureur et subversif qui explore les normes de genres avec malice.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29058,
+              "duree": 44,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 10400
+        },
+        {
+          "ordre": 2,
+          "idFilm": 70811,
+          "titre": "Ein fideles Gefängnis",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1917,
+          "duree": 54,
+          "generique": "Emil Jannings, Hanns Kräly",
+          "miniTexte": "D'après une opérette de Richard Strauss, le film dépeint avec humour les problèmes conjugaux d'un couple de la bourgeoisie berlinoise. Méprises et sous-entendus malicieux, modèles types de la première vague du maître.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29067,
+              "duree": 54,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188068,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 472,
+          "idCategorie": 2757,
+          "titreCycle": "Archi Vives",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32483,
+      "typeEvenement": 14,
+      "dateHeure": "2025-03-20T17:30:00",
+      "typeConference": "Conférence",
+      "idSalle": "JE",
+      "duree": 120,
+      "items": [
+        {
+          "idConf": 32483,
+          "titre": "CINÉGRAPHIES, LES FEMMES DE LA TEMPÊTE : L'ARCHIVE OPOPONAX",
+          "typeConference": "Conférence",
+          "duree": 120,
+          "ordre": 1
         }
       ]
     }
