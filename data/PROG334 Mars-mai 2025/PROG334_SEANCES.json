@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-25T13:51:25.711Z",
+  "updatedAt": "2024-11-25T16:21:57.200Z",
   "data": [
     {
       "idSeance": 186263,
@@ -2220,7 +2220,9 @@
               "idCopie": 28965,
               "duree": 106,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "langCopie": "ITA",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 25732
@@ -3139,12 +3141,18 @@
           "idCategorie": 3671,
           "titreCycle": "Wes Anderson",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 972,
+          "idCategorie": 3708,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31968,
-      "typeEvenement": 13,
       "dateHeure": "2025-03-22T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -3163,6 +3171,13 @@
             }
           ],
           "idFilmBoxoffice": 290497
+        },
+        {
+          "idConf": 32382,
+          "titre": "WES ANDERSON PAR WES ANDERSON",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
         }
       ]
     },
@@ -4669,23 +4684,15 @@
           "artVo": "Lo",
           "realisateurs": "Carlo Lizzani",
           "annee": 1956,
-          "duree": 110,
+          "duree": 84,
           "generique": "Dario Fo, Franca Rame, Giorgia Moll",
           "miniTexte": "Alors qu'il tourne définitivement le dos au néoréalisme, Lizzani signe une comédie loufoque, très enlevée, portée par Dario Fo, 40 ans avant qu'il ne reçoive le Prix Nobel de littérature. Alors jeune acteur comique, il compose ici un journaliste lunaire, quelque part entre _Monsieur Hulot_ et les héros de Pierre Étaix.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 29116,
-              "duree": 110,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 28986,
               "duree": 84,
-              "format": "Numérique",
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -7131,15 +7138,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 13375,
-              "duree": 97,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "Autres",
-              "selected": true
-            },
-            {
               "idCopie": 26415,
               "duree": 97,
               "format": "DCP",
@@ -7181,15 +7179,6 @@
           "miniTexte": "L'alliance parfaite du cynisme, de la tendresse et de la mélancolie dans une indémodable comédie romantique. Pour la troisième fois réuni à l'écran, le couple Margaret Sullavan/James Stewart s'affronte et s'attire dans l'écrin lumineux d'une boutique de maroquinerie à Budapest. Si l'époque est à la peinture de la grande bourgeoisie américaine, Lubitsch met ici en scène des héros ordinaires, confrontés au quotidien et à la crise, dans un sommet de délicatesse et d'humanité.",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 13375,
-              "duree": 97,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "Autres",
-              "selected": true
-            },
             {
               "idCopie": 26415,
               "duree": 97,
@@ -8311,12 +8300,18 @@
           "idCategorie": 3677,
           "titreCycle": "Robert Benton",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 976,
+          "idCategorie": 3705,
+          "titreCycle": "Robert Benton",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32132,
-      "typeEvenement": 13,
       "dateHeure": "2025-03-23T14:30:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -8351,6 +8346,13 @@
             }
           ],
           "idFilmBoxoffice": 1237
+        },
+        {
+          "idConf": 32379,
+          "titre": "DIALOGUE AVEC MURIELLE JOUDET",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
         }
       ]
     },
@@ -11758,12 +11760,18 @@
           "idCategorie": 3696,
           "titreCycle": "Ciné-club de Frédéric Bonnaud",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3696,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 32336,
-      "typeEvenement": 13,
       "dateHeure": "2025-03-27T19:00:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -11778,29 +11786,9 @@
           "miniTexte": "Après _Léon Morin, prêtre_, « le film de la prudence, lisse et parfait » selon Jean-Pierre Melville, alors en quête de respectabilité et de moyens financiers, le cinéaste de la rue Jenner retrouve Jean-Paul Belmondo, qu'il sait capable de tout jouer, y compris un prêtre allumeur, et renoue avec le polar français sous influence américaine. Implacable et millimétrée, la mise en scène emporte un scénario un peu trop roué et manipulateur. Melville trouve ici son style définitif. — Frédéric Bonnaud",
           "status": 2,
           "idFilmBoxoffice": 918
-        }
-      ]
-    },
-    {
-      "idSeance": 187868,
-      "idProg": 334,
-      "idCycleCategories": [
+        },
         {
-          "idCycle": 525,
-          "idCategorie": 3696,
-          "titreCycle": "Ciné-club de Frédéric Bonnaud",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32337,
-      "typeEvenement": 14,
-      "dateHeure": "2025-03-27T21:00:00",
-      "typeConference": "Dialogue",
-      "idSalle": "GF",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
+          "ordre": 2,
           "idConf": 32337,
           "idTypeConf": 16,
           "titre": "Dialogue avec Frédéric Bonnaud",
@@ -12698,33 +12686,6 @@
       ]
     },
     {
-      "idSeance": 187967,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 976,
-          "idCategorie": 3705,
-          "titreCycle": "Robert Benton",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 32379,
-      "typeEvenement": 14,
-      "dateHeure": "2025-03-23T16:30:00",
-      "typeConference": "Dialogue",
-      "idSalle": "GF",
-      "duree": 60,
-      "items": [
-        {
-          "idConf": 32379,
-          "titre": "DIALOGUE AVEC MURIELLE JOUDET",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 1
-        }
-      ]
-    },
-    {
       "idSeance": 187911,
       "idProg": 334,
       "idCycleCategories": [
@@ -12779,33 +12740,6 @@
       ]
     },
     {
-      "idSeance": 187912,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 972,
-          "idCategorie": 3708,
-          "titreCycle": "Wes Anderson",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 32382,
-      "typeEvenement": 14,
-      "dateHeure": "2025-03-22T16:30:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "idConf": 32382,
-          "titre": "WES ANDERSON PAR WES ANDERSON",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 1
-        }
-      ]
-    },
-    {
       "idSeance": 187985,
       "idProg": 334,
       "idCycleCategories": [
@@ -12825,7 +12759,7 @@
       "items": [
         {
           "idConf": 32394,
-          "titre": "FILM + DIALOGUE",
+          "titre": "DIALOGUE AVEC MARION POLIRSZTOK",
           "typeConference": "Dialogue",
           "duree": 60,
           "ordre": 1
