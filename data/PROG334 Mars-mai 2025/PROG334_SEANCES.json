@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-22T15:19:40.283Z",
+  "updatedAt": "2024-11-25T09:17:18.398Z",
   "data": [
     {
       "idSeance": 186263,
@@ -457,6 +457,7 @@
           "generique": "John Wayne, Montgomery Clift, Joanne Dru",
           "adaptation": "D'après le roman _The Chisholm Trail_ de Borden Chase.",
           "synopsis": "Tom Dunson, un pionnier, et son fils adoptif, rescapé d'un massacre, doivent convoyer un important troupeau de bétail le long de la piste Chilshom. Mais le comportement tyrannique de Tom provoque une mutinerie.",
+          "miniTexte": "Avec son style direct et épuré, _La Rivière rouge_ parle d'amour filial, d'Œdipe, d'appât du gain, prend des accents de lutte des classes, dans une nature prégnante, rude, que le cinéaste choisit délibérément de filmer en noir et blanc, en confiant la photo à Russell Harlan. Premier western, first shoot, et, d'entrée, un sommet du genre.",
           "commentaire": "« Prends soin de mon gars Duke et fais un bon film », lui a écrit John Ford. Alors Hawks, s'il a d'abord rêvé de Cary Grant et Gary Cooper, bichonne John Wayne, sa grande silhouette et son visage buriné, et embauche le débutant Montgomery Clift pour lui tenir tête. Si, hors plateau, Monty se heurte au machisme de son partenaire, le duo fonctionne parfaitement devant la caméra. Hawks, lui, s'engage dans son premier western en faisant un pas de côté : ce qui l'intéresse, c'est l'évolution de la relation entre les deux hommes, qui passe de l'admiration à la rivalité haineuse. Avec son style direct et épuré, _La Rivière rouge_ parle d'amour filial, d'Œdipe, d'appât du gain, prend des accents de lutte des classes, dans une nature prégnante, rude, que le cinéaste choisit délibérément de filmer en noir et blanc, en confiant la photo à Russell Harlan. Hawks fait la concession d'une lenteur parfois nécessaire, coupe des scènes amorales pour ménager la censure, mais laisse quand même des dialogues suggestifs – Monty Clift et John Ireland comparant leurs armes à feu. _La Rivière rouge_ a la marque des premières fois réussies, et déjà, contient des sarments de _Rio Bravo_, le Duke, le thème de Dimitri Tiomkin que reprendra Dean Martin, le fidèle et édenté Walter Brennan. Premier western, _first shoot_, et, d'entrée, un sommet du genre.",
           "status": 2,
           "copies": [
@@ -1395,15 +1396,9 @@
             {
               "idCopie": 29098,
               "duree": 89,
-              "format": "Numérique",
+              "format": "DCP",
               "version": "VO",
               "langCopie": "ITA"
-            },
-            {
-              "idCopie": 28963,
-              "duree": 89,
-              "format": "DCP",
-              "selected": true
             }
           ],
           "idFilmBoxoffice": 173183
@@ -4814,7 +4809,7 @@
           "annee": 1920,
           "duree": 67,
           "generique": "Wesley Barry, Colleen Moore, Anna May Wong",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28994,
@@ -4846,12 +4841,13 @@
         {
           "ordre": 1,
           "idFilm": 155035,
-          "titre": "Driven from home",
+          "titre": "Driven from Home",
           "realisateurs": "James Young",
           "annee": 1927,
           "duree": 76,
           "generique": "Virginia Lee Corbin, Ray Hallor, Anna May Wong",
-          "status": 0,
+          "adaptation": "D'après la pièce _Driven from Home_ de Hal Reid.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28993,
@@ -4889,7 +4885,7 @@
           "annee": 1928,
           "duree": 97,
           "generique": "Anna May Wong, Heinrich George, Mary Kid",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28992,
@@ -7916,7 +7912,7 @@
           "duree": 50,
           "generique": "Anna May Wong, Kenneth Harlan, Beatrice Bentley",
           "synopsis": "Une jeune chinoise, Fleur de Lotus, sauve Allan Carver de la noyade. Elle en tombe immédiatement amoureuse. Mais Carver doit retourner aux États-Unis, et ne peut se résoudre à emmener la jeune femme avec lui.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 2073,
@@ -8062,7 +8058,8 @@
           "titreVo": "Lady from Chungking",
           "realisateurs": "William Nigh",
           "annee": 1950,
-          "status": 0
+          "generique": "Anna May Wong, Harold Huber, Mae Clarke",
+          "status": 1
         }
       ]
     },
@@ -8113,11 +8110,12 @@
         {
           "ordre": 1,
           "idFilm": 82319,
-          "titre": "Bombs over Burma",
+          "titre": "Bombs Over Burma",
           "realisateurs": "Joseph H. Lewis",
           "annee": 1942,
           "duree": 67,
-          "status": 0,
+          "generique": "Anna May Wong, Noel Madison, Leslie Denison",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29193,
@@ -8187,7 +8185,8 @@
           "realisateurs": "Robert Florey",
           "annee": 1937,
           "generique": "Akim Tamiroff, Anna May Wong, Gail Patrick",
-          "status": 0
+          "adaptation": "D'après la pièce _On the Spot_ d'Edgar Wallace.",
+          "status": 1
         }
       ]
     },
@@ -8216,7 +8215,7 @@
           "realisateurs": "Robert Florey",
           "annee": 1937,
           "generique": "Charles Bickford, Anna May Wong, Buster Crabbe",
-          "status": 0
+          "status": 1
         }
       ]
     },
@@ -12126,9 +12125,9 @@
       "idCycleCategories": [
         {
           "idCycle": 986,
-          "idCategorie": 3701,
+          "idCategorie": 3725,
           "titreCycle": "Mike Leigh",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Films pour la télévision"
         }
       ],
       "idEvenement": 32351,
