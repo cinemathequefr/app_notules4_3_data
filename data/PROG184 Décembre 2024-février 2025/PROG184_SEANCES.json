@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-25T13:52:19.314Z",
+  "updatedAt": "2024-11-25T14:05:03.458Z",
   "data": [
     {
       "idSeance": 185115,
@@ -15531,27 +15531,6 @@
       "mention": "Séance présentée par Frédéric Bonnaud"
     },
     {
-      "idSeance": 137030,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 140,
-          "idCategorie": 3630,
-          "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "Festival Entrevues Belfort 2024"
-        }
-      ],
-      "idEvenement": 31686,
-      "typeEvenement": 13,
-      "libelleEvenement": "FESTIVAL ENTREVUES DE BELFORT / FESTIVAL ENTREVUES BELFORT",
-      "dateHeure": "2024-12-02T19:00:00",
-      "idSalle": "LE",
-      "typeSeance": 43,
-      "theorique": true,
-      "mention": "Avant-première. Séance présentée par Cécile Cadoux",
-      "items": []
-    },
-    {
       "idSeance": 185031,
       "idProg": 184,
       "idCycleCategories": [
@@ -17672,6 +17651,67 @@
           "duree": 90
         }
       ]
+    },
+    {
+      "idSeance": 137030,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3630,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Festival Entrevues Belfort 2024"
+        }
+      ],
+      "idEvenement": 32490,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-02T19:00:00",
+      "idSalle": "LE",
+      "typeSeance": 43,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155109,
+          "titre": "Avance",
+          "art": "L'",
+          "realisateurs": "Djiby Kebe",
+          "annee": 2024,
+          "dureeStd": 18,
+          "duree": 18,
+          "generique": "Saabo Balde, Julia Faure, Juliette Speck",
+          "synopsis": "Aliou, étudiant aux Beaux-Arts de Paris en pleine ascension, vend pour 3 000 euros à une collectionneuse de renom une toile représentant sa mère décédée. La livraison du tableau devient alors un long périple durant lequel il ressentira tout le poids de l'argent qu'il vient de gagner.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29274,
+              "duree": 18,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 155108,
+          "titre": "Softshell",
+          "realisateurs": "Jinho Myung",
+          "annee": 2024,
+          "dureeStd": 86,
+          "duree": 86,
+          "generique": "Legyaan Thapa, Caledonia Abbey, Heen Sasithorn",
+          "synopsis": "À la mort de leur mère, un frère et une sœur, Américains d'origine thaïlandaise, sont confrontés à une série de révélations inattendues.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29275,
+              "duree": 86,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ],
+      "mention": "Avant-première. Séance présentée par Cécile Cadoux"
     }
   ]
 }
