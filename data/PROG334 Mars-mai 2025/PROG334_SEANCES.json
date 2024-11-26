@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-26T11:13:59.563Z",
+  "updatedAt": "2024-11-26T13:24:21.001Z",
   "data": [
     {
       "idSeance": 186263,
@@ -5616,6 +5616,46 @@
       ]
     },
     {
+      "idSeance": 188082,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32049,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-31T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33858,
+          "titre": "Abîme",
+          "art": "L'",
+          "titreVo": "Eternal Love",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1929,
+          "duree": 73,
+          "generique": "John Barrymore, Camilla Horn, Victor Varconi",
+          "miniTexte": "Pendant les guerres napoléoniennes, dans les Alpes suisses, la passion contrariée d'un montagnard avec la fille du pasteur. Tourné en décors naturels dans les Rocheuses canadiennes, le dernier film muet de Lubitsch est une variation sur les amours impossibles, son thème de prédilection. Avec une tonalité plus sombre qu'à l'accoutumée, le cinéaste tire habilement parti des paysages enneigés pour créer une atmosphère de pur romantisme. Les vastes étendues blanches deviennent le théâtre d'intimité et de désespoir partagés par John Barrymore et Camilla Horn. Deux grands interprètes, suivis au plus près par une caméra aérienne, et de taille à transporter les émotions vers les plus hauts sommets.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29077,
+              "duree": 73,
+              "format": "35 mm",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 98856
+        }
+      ]
+    },
+    {
       "idSeance": 186120,
       "idProg": 334,
       "idCycleCategories": [
@@ -6823,7 +6863,7 @@
       ],
       "idEvenement": 32089,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-13T20:30:00",
+      "dateHeure": "2025-03-13T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7309,7 +7349,7 @@
       ]
     },
     {
-      "idSeance": 185959,
+      "idSeance": 188081,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -7321,7 +7361,7 @@
       ],
       "idEvenement": 32102,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-31T18:30:00",
+      "dateHeure": "2025-03-13T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -9010,7 +9050,7 @@
       ]
     },
     {
-      "idSeance": 188072,
+      "idSeance": 188079,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -9022,7 +9062,7 @@
       ],
       "idEvenement": 32147,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-14T20:30:00",
+      "dateHeure": "2025-03-20T21:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -9213,8 +9253,8 @@
           "duree": 105,
           "generique": "Anthony Quayle, Stefano Colagrande, Simone Giannozzi, John Sharp",
           "adaptation": "D'après le roman _L'Incompris_ de Florence Montgomery.",
-          "synopsis": "À la mort de son épouse, sir Duncombe, consul de Grande-Bretagne à Florence, confie ses deux fils à une gouvernante. Andréa, l'aîné, âgé de 11 ans, sait que son père l'aime moins que son cadet.",
-          "status": 1,
+          "miniTexte": "Le portrait déchirant d'un garçon de onze ans, qui peine à communiquer avec son père diplomate depuis la mort de sa mère. Comencini capture, avec une sensibilité rare, la fragilité des liens familiaux et la solitude d'une enfance marquée par l'absence, dans l'un des plus beaux films sur la préadolescence.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 202,
@@ -9254,7 +9294,8 @@
           "annee": 1965,
           "duree": 95,
           "generique": "Robert Hossein, Jean-Louis Trintignant, Maurice Ronet, Jean-Pierre Kalfon",
-          "status": 1,
+          "miniTexte": "Une poignée de Résistants, traqués par les Allemands, traversent les Cévennes pour rejoindre un autre maquis. Davantage que le périple semé d'embuches, c'est le cheminement des décisions qui intéresse Astruc. La confrontation des personnalités dans une situation extrême, où se révèlent l'état d'esprit et les ressentiments, portés par un trio d'interprètes sur mesure.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29004,
@@ -9303,8 +9344,9 @@
           "duree": 110,
           "generique": "Paul Newman, Robert Redford, Katharine Ross, Strother Martin",
           "synopsis": "Fin XIX<sup>e</sup> siècle, au Far West. Butch Cassidy et le Sundance Kid, deux séduisants et intrépides malfrats, pillent des banques et détroussent les voyageurs de train. Une escouade de détectives est engagée par l'Union Pacific et, déterminée à en finir, se lance à travers l'espace américain à la poursuite des deux bandits.",
+          "miniTexte": "Par l'élégance de sa mise en scène, _Butch Cassidy et le Kid_ raconte, derrière le récit de hors-la-loi en cavale, l'envie de goûter à une jeunesse éternelle face à la disparition progressive de nos repères. Une balade sauvage aux allures de relecture nostalgique avec Paul Newman et Robert Redford en enfants terribles, tendres et cyniques.",
           "commentaire": "En 1968, alors que le « western spaghetti » s'est emparé du genre en rendant désuète sa version américaine, _Butch Cassidy et le Kid_ résonne comme une balade sauvage aux allures de relecture nostalgique. Soutenu par l'excellent scénario de William Goldman – qui recevra l'Oscar –, le long métrage prend le judicieux parti de narrer l'émergence d'un nouveau monde au sein duquel ses héros ne se reconnaissent plus. Par l'élégance de sa mise en scène – d'une introduction mélancolique à une magnifique séquence à bicyclette –, il raconte, sous son récit de hors-la-loi en cavale, l'envie de goûter à une jeunesse éternelle face à la disparition progressive de nos repères. En filmant Paul Newman et Robert Redford tels deux enfants terribles à la fois tendres et cyniques, George Roy Hill saisit la complicité, l'indéfectible amitié, mais aussi les failles qui unissent ses personnages. Sans chercher à les excuser, ni à les diaboliser, il observe, entre joyeuse ironie et noirceur romanesque, l'impact d'une société où la perspective d'un horizon meilleur s'est évanouie dans la nature.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29125,
@@ -9349,8 +9391,8 @@
           "duree": 90,
           "generique": "Dominique Sanda, Guy Frangin, Jeanne Lobre",
           "adaptation": "D'après la nouvelle _La Douce_ de Fiodor Mikhaïlovitch Dostoïevski.",
-          "synopsis": "Un homme trouve le corps sans vie de sa femme venant de se suicider. Il se remémore leur vie passée.",
-          "status": 1,
+          "miniTexte": "Une fenêtre béante, un vase qui glisse d'une table renversée. Une femme vient de se jeter dans le vide, son mari la veillera toute une nuit. Avec son art consommé de l'épure, Bresson triture ses obsessions pour la douleur des âmes. Quiproquo ou ratage annoncé, incapacité à aimer, à le faire savoir... l'émotion est là, qui affleure entre les maladresses et les regrets de ces deux êtres en butte à l'incommunicabilité. Et « le reste est silence ».",
+          "status": 2,
           "copies": [
             {
               "idCopie": 13439,
@@ -9430,8 +9472,9 @@
           "duree": 60,
           "generique": "Nico, Pierre Clémenti, Philippe Garrel, Daniel Pommereulle",
           "synopsis": "Dans des paysages d'Égypte et d'Islande, d'une étrange beauté, l'errance d'une femme, de deux hommes et d'un enfant.",
+          "miniTexte": "La voix grave et mélancolique de la chanteuse Nico colle aux images éthérées de Garrel. Un film-trip sur les errances de leur couple tourmenté, comme un désir de fuite mystique au cœur des terres isolées entre Sinaï, Islande et vallée de la Mort.",
           "commentaire": "_Desertshore_, 1970. Nico compose son dernier album pendant que son amant imagine son prochain film. La voix grave et mélancolique de la chanteuse colle aux images d'espaces éthérés de Philippe Garrel. Il en fait la bande son de _La Cicatrice intérieure_, film-trip sur les errances de leur couple tourmenté, au cœur de terres isolées, entre Sinaï, Islande et vallée de la Mort. Un désir de fuite mystique expliqué par Garrel : « Au moment de _La Cicatrice_, je voulais le désert, le désert américain. C'est fantastique, le désert, avec une caméra. On est totalement sorti de la civilisation. Pas un objet, pas une maison. Tout est vierge. Une manière de se couper du monde. Sur le terrain, on a le vertige, l'impression qu'on change de monde en tournant. Il y a comme une toile en mouvement, qui dirige des vibrations, il n'y a pas de parcours, il n'y a pas d'a priori sur l'évolution ; il y a un univers mystique. Le cinéma de déraison. »",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 18434,
@@ -9471,6 +9514,7 @@
           "generique": "Yoshitaka Zushi, Kin Sugai, Junzaburō Ban",
           "adaptation": "D'après des nouvelles du recueil _Quartier sans soleil_ de Shūgorō Yamamoto.",
           "synopsis": "Dans un quartier défavorisé de Tokyo, dans les années 1970, un jeune garçon un peu simple s'échappe du réel pour se construire un monde imaginaire dans lequel il conduit un tramway.",
+          "miniTexte": "Loin de ses fresques monumentales en noir et blanc, Kurosawa expérimente la couleur pour saisir le quotidien des habitants d'un bidonville de Tokyo. Dans une série de vignettes aussi vives que poétiques, il dévoile l'humanité d'un monde de misère, de rêves et de folie douce, à l'image de ce « dodes'kaden », onomatopée du jeune garçon conduisant chaque jour un tramway imaginaire.",
           "status": 2,
           "copies": [
             {
@@ -9514,8 +9558,7 @@
           "duree": 94,
           "generique": "Dominique Sanda, Lino Capolicchio, Alessandro D'Alatri",
           "adaptation": "D'après le roman _Le Jardin des Finzi-Contini_ de Giorgio Bassani.",
-          "synopsis": "Italie, 1938. Le régime fasciste multiplie les mesures à l'encontre des Juifs italiens, mais l'aristocratique famille Finzi-Contini ne croit pas à la menace, et continue sa vie insouciante et dorée, bien à l'abri dans son domaine.",
-          "commentaire": "Restauré par Istituto Luce Cinecittà aux laboratoires Studio Cine de Rome et L'Immagine ritrovata de Bologne.",
+          "miniTexte": "Italie, 1938. Le régime fasciste multiplie les mesures à l'encontre des Juifs, mais l'aristocratique famille Finzi-Contini ne croit pas à la menace, et continue sa vie insouciante et dorée, bien à l'abri dans son domaine. De Sica suggère toute la tristesse et toute l'horreur du monde en montrant la quiétude d'un jardin opulent, paradis perdu qui abrite les liens et les souvenirs de plusieurs générations.",
           "status": 2,
           "copies": [
             {
@@ -9556,8 +9599,8 @@
           "duree": 115,
           "generique": "Jacqueline Bisset, Jean-Pierre Aumont, Valentina Cortese",
           "ageMinimal": 10,
-          "synopsis": "Le récit d'une grande aventure où des hommes et des femmes (techniciens, acteurs, producteurs) s'associent pour faire du cinéma, cet art du vrai et du faux dont on découvre les coulisses.",
-          "status": 1,
+          "miniTexte": "Avec un amour passionné du cinéma, Truffaut entremêle la vie et le jeu pour raconter la magie de la création, sans jamais occulter les tensions et les compromis. À base de clins d'œil et d'hommages discrets, il jette en coulisses un regard drôle et émouvant, qui brille autant par son esprit que par sa légèreté.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 14526,
@@ -9594,6 +9637,7 @@
           "duree": 95,
           "generique": "Jane Fonda, Yves Montand, Vittorio Caprioli, Anne Wiazemsky",
           "synopsis": "« Les jours passent. Des événements sociaux se passent, et quelques émissions pirates aussi, dont les gens discutent, et elle et lui aussi. » (JLG, synopsis)",
+          "miniTexte": "Un cinéaste et une journaliste américaine en couple, pris en otage par des ouvriers en grève. Sur fond d'histoire d'amour qui bat de l'aile, Godard et Gorin s'interrogent sur l'engagement politique post-68, à travers notamment le dispositif d'un plan en coupe de l'usine, qui illustre les rapports de classes et la division entre prolétaires et dirigeants.",
           "commentaire": "« _Tout va bien_ n'a pas marché malgré un sujet fort intéressant qui abordait aussi bien l'actualité politique qu'ouvrière. Je suis solidaire de la classe ouvrière, car ceux qui en sont vivent plus difficilement, plus durement que d'autres. Mais elle est aussi en proie, tout comme certains syndicats, à ses propres contradictions. Bref, ni Jane Fonda ni moi n'avons été payés, mais cela ne m'empêche pas de dire que j'ai été heureux d'avoir travaillé avec Jean-Luc Godard car j'ai beaucoup appris avec lui. » (Yves Montand)",
           "status": 2,
           "copies": [
@@ -9632,9 +9676,10 @@
           "annee": 1973,
           "duree": 110,
           "generique": "Rüdiger Vogler, Yella Rottländer, Lisa Kreuzer",
-          "synopsis": "Un journaliste allemand en reportage aux États-Unis est bloqué dans un aéroport en grève. Une femme lui confie sa fille, Alice. Elle doit les rejoindre à Amsterdam mais elle n'est pas au rendez-vous...",
+          "synopsis": "Un journaliste allemand en reportage aux États-Unis est bloqué dans un aéroport en grève. Une femme lui confie sa fille, Alice. Elle doit les rejoindre à Amsterdam mais elle n'est pas au rendez-vous.",
+          "miniTexte": "Un photographe en mal de vivre se voit confier la jeune Alice, le temps d'un voyage. Wenders filme la monotonie, mais aussi la complicité entre ses deux personnages, avec rigueur, grâce, et une mélancolie que renforce le somptueux noir et blanc. Il prend son temps, déploie un sens aigu de l'espace, entre les motels et la Ruhr, l'Europe et les États-Unis, dans des paysages vidés de leur sens. Un road movie pour une double quête, qui préfigure _Paris, Texas_. Bouleversant.",
           "commentaire": "Philip Winter, un photographe en mal de vivre, en mal de création, en proie à l'angoisse existentielle. Une enfant délaissée qui lui est confiée, le temps d'un voyage, par sa mère. Pour son quatrième long métrage, Wim Wenders filme l'ennui, la monotonie, mais aussi la complicité et la tendresse entre ses deux personnages. Il prend son temps, saisit des instants au vol comme le ferait le photographe, déploie un sens aigu de l'espace, filme les motels et la Ruhr, des paysages vidés de leur sens entre les États-Unis et l'Europe. Sa caméra scrute le mal-être avec une rigueur sèche et une précision qui se teintent de pudeur et de grâce, de légèreté aussi, doublées d'une mélancolie que renforce l'usage du noir et blanc. Carnet de route, road movie en forme de double quête, une raison de vivre pour l'homme, des repères familiaux pour l'enfant, _Alice dans les villes_ impose doucement Wenders en cinéaste de l'errance, et préfigure _Paris, Texas_. Porté par Yella Rottländer, sa jeune interprète, et Rüdiger Vogler, acteur fétiche de Wenders, le film, à sa sortie, emballe la critique. Le personnage de Philip Winter est l'alter ego du réalisateur, qui confiera plus tard son attachement à ce film qu'il considère comme son premier.\n\nHélène Lacolomberie",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 13760,
@@ -9673,8 +9718,8 @@
           "annee": 1973,
           "duree": 112,
           "generique": "Isela Vega, Gig Young, Warren Oates, Robert Webber, Helmut Dantine",
-          "synopsis": "La fille d'un puissant propriétaire foncier mexicain, tombée enceinte, doit révéler le nom de son séducteur. Le père offre alors une forte récompense à qui lui apportera la tête d'Alfredo Garcia.\n\n---\n\nUn riche propriétaire mexicain offre une somme importante à qui lui apportera la tête de l'homme qui a séduit sa fille. Un pianiste minable se met en chasse.",
-          "status": 1,
+          "miniTexte": "Dans un Mexique impitoyable, Peckinpah signe un jeu de massacre à l'humour macabre, dont la violence crue s'associe à un climat tragique et crépusculaire. Plans séquences, ralentis saisissants et caméra subjective forment la colonne vertébrale d'un western baroque au nihilisme troublant. Avec Warren Oates, interprète fétiche du cinéaste, dans son meilleur rôle.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 287,
@@ -9716,8 +9761,8 @@
           "duree": 102,
           "generique": "Warren Beatty, Paula Prentiss, William Daniels",
           "adaptation": "D'après le roman _The Parallax View_ de Loren Singer.",
-          "synopsis": "A Seattle, le jour de la fête de l'Indépendance, le sénateur Carroll est assassiné. Trois ans plus tard, après les disparitions successives de plusieurs témoins, le journaliste Joe Frady, entame une enquête révélant peu à peu l'envergure du complot.",
-          "status": 1,
+          "miniTexte": "Un journaliste (Warren Beatty, désabusé et combattif) enquête sur le meurtre d'un candidat à la présidence américaine. Fantastique, suspense et thriller s'entrecroisent dans un labyrinthe de mensonges et de manipulations, inspiré par l'assassinat de Kennedy. Le portrait sans concession d'un pays écrasé sous le poids du complot.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 2638,
@@ -9757,7 +9802,8 @@
           "duree": 120,
           "generique": "Hélène Surgère, Sonia Saviange, Michel Delahaye",
           "synopsis": "Deux actrices déchues partagent un appartement et transforment leur vie en une pièce de théâtre.",
-          "status": 1,
+          "miniTexte": "Dans un appartement parisien, deux comédiennes déchues transforment leur vie en une pièce de théâtre. Guidé par la folie douce de ses actrices, Vecchiali saisit leurs moments de complicité, d'ivresse et de désespoir, dans un huis clos mélancolique sur l'amour, la nostalgie et l'illusion théâtrale.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 1253,
@@ -9802,6 +9848,7 @@
           "generique": "Vittorio Gassman, Alessandro Momo, Agostina Belli",
           "adaptation": "D'après le roman _Parfum de femme_ de Giovanni Arpino.",
           "synopsis": "Un jeune officier d'ordonnance est chargé de tenir compagnie à un ancien capitaine devenu aveugle, obsédé par les femmes et tenté par le suicide.",
+          "miniTexte": "Magistral Vittorio Gassman dans le rôle d'un ancien capitaine aveugle, obsédé par les femmes. Un monstre de cynisme et de vulnérabilité, décrit avec finesse par Dino Risi, tout au long d'un périple italien, qui mêle l'humour, le drame et la satire sociale.",
           "commentaire": "Un portrait à l'eau-forte qui traduit l'état d'esprit d'un homme refusant de voir ce que son infirmité lui prend, à savoir sa fierté, son assurance, sa virilité et son autorité. Si Fausto joue les comiques, c'est pour mieux dissimuler son amertume. Impérial, agressif et angoissé, Vittorio Gassman l'interprète avec un immense talent. Un rôle, récompensé au Festival de Cannes, plein de nuances et de force, pour un film à la fois très cruel et très tendre. Avec _Parfum de femme_, Dino Risi apparaît dès lors comme un clown triste. « C'est certainement un film plus grave que d'habitude pour moi, et plutôt que de comédie à l'italienne, il faudrait peut-être parler ici de tragédie à l'italienne. » Une comédie triste réussie, une œuvre populaire, à la fois divertissante et subtilement critique, une recette d'alchimiste dont seul Risi a le secret.",
           "status": 2,
           "copies": [
@@ -9842,8 +9889,7 @@
           "annee": 1974,
           "duree": 104,
           "generique": "Adriana Asti, Julien Bertheau, Michel Piccoli",
-          "synopsis": "Cadavre exquis dont les quatorze épisodes dévergondent le cartésianisme rigide de notre société.",
-          "commentaire": "« _Le Fantôme de la liberté_ est l'un des films les plus angoissants, les plus inquiétants de Luis Buñuel. C'est un film de fin du monde, de jugement dernier, le plus proche parent qui soit de _L'Ange exterminateur_ et de _L'Âge d'or_. Frustration, fiasco, prolifération, envahissement, dérèglement, y précèdent l'avertissement suprême du Commandeur. » (Robert Benayoun, _Positif_, octobre 1974)",
+          "miniTexte": "Dans un cadavre exquis qui dynamite le cartésianisme rigide de la société, Buñuel met en scène quatorze saynètes reliées par le fil rouge de la provocation. Qu'il s'agisse d'un dîner où l'on s'assoit sur des toilettes, ou d'un enfant disparu alors qu'il est bien présent, le film expose avec humour noir les absurdités et les hypocrisies de la bourgeoisie, où les normes morales et religieuses sont joyeusement ridiculisées.",
           "status": 2,
           "copies": [
             {
@@ -9883,8 +9929,8 @@
           "annee": 1975,
           "duree": 91,
           "generique": "Heinz Schubert, Verena Rudolph, Gert Günther Hoffmann",
-          "synopsis": "Ferdinand Rieche, ancien commissaire de police, est maintenant responsable de la protection d'une grande usine de produits chimiques. Mais hormis la présence occasionnelle de manifestants devant les portes de l'usine, il n'a malheureusement pas grand-chose à faire.",
-          "status": 1,
+          "miniTexte": "Une satire tendue qui explore avec mordant la paranoïa bureaucratique de l'Allemagne des années 70. Son héros, responsable de sécurité trop perfectionniste, organise des incidents pour convaincre ses chefs de la nécessité de politiques répressives. Avec ce personnage ambigu, Kluge, figure de proue du nouveau cinéma allemand, dénonce le délire sécuritaire contemporain, où l'obsession du maintien de l'ordre devient un prétexte à l'autoritarisme.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 832,
@@ -9930,8 +9976,8 @@
           "duree": 134,
           "generique": "Jack Nicholson, Louise Fletcher, Will Sampson",
           "adaptation": "D'après le roman _One Flew Over the Cuckoo's Nest_ de Ken Kesey.",
-          "synopsis": "Randall P. McMurphy se fait interner dans une clinique psychiatrique pour échapper à la prison. Y découvrant l'oppression des soignants et la détresse des malades il instigue une rébellion dans l'établissement.",
-          "status": 1,
+          "miniTexte": "Pour échapper à la prison, un détenu choisit de simuler la folie. L'humour pathétique de Forman enflamme une allégorie sur l'oppression, la rébellion et la quête de liberté, qui met en valeur un héros anticonformiste (Jack Nicholson, éblouissant de vérité). Une fable magnifique, chargée d'humanité et d'émotion, cinq fois récompensée aux Oscars.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 12665,
@@ -9970,6 +10016,7 @@
           "duree": 123,
           "generique": "Rainer Werner Fassbinder, Peter Chatel, Karlheinz Böhm",
           "synopsis": "Franz Biberkopf, un jeune homosexuel, perd son travail et son petit ami, arrêté par la police. Il gagne à la loterie et rencontre un homme très intéressé par son argent.",
+          "miniTexte": "La passion entre deux jeunes hommes tourne au tragique rapport de force. Derrière l'histoire d'amour toxique se cache une observation acerbe de la lutte des classes, d'une société obsédée par la réussite sociale et la performance sexuelle. Farouche défenseur des opprimés, Fassbinder capte, de scènes dramatiques en fulgurances grinçantes, l'insatiable désir de révolte d'une galerie de personnages égocentriques et retors.",
           "commentaire": "« Le film cherche à représenter, dans la vie quotidienne en Allemagne, les différenciations de classe, à y inscrire la lutte des classes ; et à sortir le monde homosexuel du ghetto mystificateur où il se trouve refoulé. » (Serge Le Péron)",
           "status": 2,
           "copies": [
@@ -10016,7 +10063,8 @@
           "adaptation": "D'après la nouvelle _The Man Who Would Be King_ de Rudyard Kipling.",
           "ageMinimal": 11,
           "synopsis": "Au siècle dernier, deux hommes entreprennent un long voyage dans le Kafiristan. L'un d'eux sera considéré par un peuple de cette région comme un roi et un dieu.",
-          "status": 1,
+          "miniTexte": "Dans l'Inde de la fin du XIX<sup>e<:SUP> siècle, la quête de gloire de deux anciens soldats anglais qui rêvent de devenir les rois d'un nouvel empire. Inspiré d'une nouvelle de Rudyard Kipling, le récit de leur périple offre au duo d'acteurs Sean Connery/Michael Caine un numéro d'anthologie de flegme britannique, qui oscille constamment entre ironie et bravoure imperturbable, dans un classique du film d'aventures.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 9853,
@@ -10056,7 +10104,8 @@
           "annee": 1975,
           "duree": 104,
           "generique": "Lisbeth Hummel, Sirpa Lane, Guy Tréjan, Marcel Dalio",
-          "status": 1,
+          "miniTexte": "Devant la caméra de Borowczyk, l'histoire de l'union arrangée entre une jeune Anglaise et l'héritier d'une famille d'aristocrates déchus devient une fable subversive, érotique et fantastique, aussi dérangeante que fascinante. Dans l'atmosphère moite d'un château décati, la légende locale d'une créature aux appétits lubriques prend vie, et devient une métaphore des pulsions refoulées, une réflexion sur la bestialité comme libération.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29010,
@@ -10094,7 +10143,8 @@
           "duree": 121,
           "generique": "Lino Ventura, Fernando Rey, Max von Sydow",
           "adaptation": "D'après le roman _Il Contesto_ de Leonardo Sciascia.",
-          "status": 1,
+          "miniTexte": "Dense, captivant, un thriller politique, adapté du roman de Leonardo Sciascia, sur une série de meurtres visant des juges de haut rang. Pour mener l'enquête, un détective incorruptible plonge au cœur d'une conspiration politique. Dans l'Italie des années de plomb, Rosi réalise un grand film, son plus désespéré, et dénonce, sans concession, un monde où la justice et la vérité sont sacrifiées sur l'autel du pouvoir.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 5194,
@@ -10171,7 +10221,7 @@
           "duree": 135,
           "generique": "Michel Piccoli, Ottavia Piccolo, Jacques Dutronc, Romy Schneider",
           "synopsis": "Simon Léotard, un promoteur immobilier, se retrouve ruiné par Lepidon, un concurrent véreux. Ce dernier lui réclame le remboursement des traites qu'il a consenties à son associé, qui vient de se suicider. Grâce à Mado, une jeune prostituée dont il tombe amoureux, Simon se venge de Lepidon.",
-          "commentaire": "L'un des films préférés de Claude Sautet, avec Michel Piccoli et Ottavia Piccolo dans le personnage de Mado. Et un rôle très court pour Romy Schneider, sombre et sans fard, incarnant en quelques gestes la fragilité d'une femme alcoolique. Une seule scène mais d'une présence qu'on n'oublie pas.",
+          "miniTexte": "Sautet explore les rouages du monde des affaires à travers le personnage d'un promoteur aux prises avec la corruption immobilière, prêt à se compromettre pour sauver son entreprise. La rencontre avec une jeune prostituée devient le prétexte à une réflexion sur la crise économique, les illusions perdues et la fragilité des hommes.",
           "status": 2,
           "copies": [
             {
@@ -10209,6 +10259,7 @@
           "duree": 122,
           "generique": "Alain Delon, Jeanne Moreau, Francine Bergé",
           "synopsis": "En 1942, Robert Klein, amateur d'art, profite des lois raciales de Vichy pour racheter à bas prix des œuvres à des collectionneurs qui tentent de fuir la France. Il découvre un jour que quelqu'un cherche à le faire confondre avec un autre Robert Klein, juif.",
+          "miniTexte": "Avec l'histoire d'un amateur d'art qui profite des lois raciales de Vichy pour racheter à bas prix des œuvres de collectionneurs, Losey signe une dénonciation de l'intolérance et du racisme qui gangrènent une société malade. Delon, impérial, dans une descente aux enfers qui voit son inébranlable confiance s'évaporer, à mesure qu'il avance et que s'ouvrent les portes de la déchéance.",
           "commentaire": "César du meilleur film, du meilleur réalisateur et des meilleurs décors en 1977, _Monsieur Klein_ dresse le portrait kafkaïen de la condition juive durant l'Occupation. Sur un scénario de Franco Solinas, Joseph Losey revient vers l'atmosphère de ses premiers films avec une nouvelle dénonciation de l'intolérance et du racisme qui gangrènent une société malade. Alors que son personnage principal, un bourgeois opportuniste, veut s'enrichir sur la détresse d'autrui, il est rattrapé par le destin et se retrouve aux prises avec un mystérieux double de lui-même. Lancé à sa recherche, son héros voit son inébranlable confiance s'évaporer à mesure qu'il avance dans une odyssée faite de doutes et d'humiliations. À travers cette descente aux enfers, Losey s'intéresse à l'absurdité du monde et à la naissance du remords. Remarquablement incarné par Alain Delon, son protagoniste comprend trop tard la puérilité d'un orgueil mal placé, qui lui ouvre les portes de la déchéance. Par son regard soudainement transformé, le cinéaste raconte ces actes que l'on se borne à ignorer et ces visions d'horreur à affronter pour retourner vers notre humanité.",
           "status": 2,
           "copies": [
@@ -10250,8 +10301,8 @@
           "duree": 130,
           "generique": "Giancarlo Giannini, Laura Antonelli, Jennifer O'Neill",
           "adaptation": "D'après le roman _ L'Intrus_ de Gabriele D'Annunzio.",
-          "synopsis": "Un grand bourgeois devient jaloux de sa femme dont il tombe amoureux en apprenant qu'elle est la maîtresse d'un écrivain à la mode.",
-          "status": 1,
+          "miniTexte": "Un triangle amoureux crépusculaire dans l'univers bourgeois de la société romaine. Adapté du roman de Gabriele D'Annunzio, _L'Innocent_ explore un microcosme décadent, haut lieu de trahison et de manipulation. Dialogues incisifs emplis de culpabilité et interprétations marquantes hantent les couloirs d'un chant du cygne désespéré, dernier film de Visconti.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 5738,
@@ -10295,8 +10346,9 @@
           "generique": "Donald Sutherland, Tina Aumont, Margareth Clementi",
           "adaptation": "D'après _Histoire de ma vie_ de Giacomo Casanova.",
           "synopsis": "Le séducteur mythique, Giacomo Casanova, est emprisonné à Venise à la suite d'un scandale. Il s'évade et voyage d'une cour européenne à l'autre.",
-          "miniTexte": "Fellini le dit dans son titre : il s'agit d'une vision très personnelle du célèbre séducteur vénitien. La lecture de ses mémoires l'a ennuyé et irrité, et le tournage peine à démarrer. Fellini va jusqu'à faire appel à un ami médium pour invoquer l'esprit de Casanova depuis l'au-delà. Faisant exploser le budget initial, le résultat est une fresque baroque somptueuse dans laquelle le cinéaste dévoile son côté sombre. Son Casanova, interprété par Donald Sutherland, est un cynique, opportuniste insupportable. Un « sexocentrique » décadent que Fellini déteste et qu'il transforme en fantôme cadavérique. Une œuvre acide, glaciale et pessimiste, pour laquelle le maestro invente les plus belles images.",
-          "status": 1,
+          "miniTexte": "Fellini livre sa vision très personnelle des mémoires de Casanova et dévoile le côté sombre du célèbre séducteur vénitien. Il en fait un « sexocentrique » décadent, un opportuniste pathétique, froid et désincarné, qui contraste avec le propos hédoniste, autant qu'avec les images d'une fresque baroque, à la splendeur sans égale.",
+          "commentaire": "Fellini le dit dans son titre : il s'agit d'une vision très personnelle du célèbre séducteur vénitien. La lecture de ses mémoires l'a ennuyé et irrité, et le tournage peine à démarrer. Fellini va jusqu'à faire appel à un ami médium pour invoquer l'esprit de Casanova depuis l'au-delà. Faisant exploser le budget initial, le résultat est une fresque baroque somptueuse dans laquelle le cinéaste dévoile son côté sombre. Son Casanova, interprété par Donald Sutherland, est un cynique, opportuniste insupportable. Un « sexocentrique » décadent que Fellini déteste et qu'il transforme en fantôme cadavérique. Une œuvre acide, glaciale et pessimiste, pour laquelle le maestro invente les plus belles images.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 16644,
@@ -10337,8 +10389,8 @@
           "duree": 120,
           "generique": "Richard Attenborough, Amjad Khan, Sanjeev Kumar",
           "adaptation": "D'après la nouvelle _Les Joueurs d'échecs_ de Munshi Premchand.",
-          "synopsis": "Inde 1850, deux propriétaires terriens jouent d'interminables parties d'échecs. Plongés dans leurs passions, ils ignorent les visées colonisatrices de la puissante armée britannique.",
-          "status": 1,
+          "miniTexte": "Inde, royaume d'Oudh, 1850. Absorbés par d'interminables parties d'échecs, deux nobles ignorent les manœuvres colonialistes des Britanniques, tandis que le souverain partage son temps entre musique et poésie. Au rythme d'hypnotiques mélopées indiennes, le cinéaste bengali montre l'apathie d'une aristocratie détachée du peuple, dans une métaphore subtile de l'histoire coloniale de son pays.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 9181,
@@ -10377,7 +10429,8 @@
           "duree": 110,
           "generique": "Isabelle Huppert, Gérard Depardieu, Guy Marchand",
           "synopsis": "Nelly, une petite bourgeoise, quitte son mari pour Loulou, un marginal qui la séduit par son refus des conventions sociales.",
-          "status": 1,
+          "miniTexte": "Une femme mariée s'entiche d'un loubard qu'elle prend pour amant, quitte à mettre en péril sa vie rangée. Sur un scénario d'Arlette Langmann, inspiré de leur liaison, Pialat embrasse les amours visqueuses et bestiales d'un couple mal assorti, embarqué dans une passion aussi destructrice qu'exaltante. Un portrait critique de la bourgeoisie au réalisme cru et aux dialogues percutants.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 504,
@@ -10414,7 +10467,7 @@
           "annee": 1979,
           "duree": 123,
           "generique": "Gena Rowlands, John Adames, Julie Carmen, Buck Henry",
-          "synopsis": "Gloria, New-Yorkaise solitaire et ancienne maîtresse d'un gangster, recueille le jeune fils de ses voisins de palier, assassinés par la mafia. Elle décide de s'enfuir avec lui pour le protéger de la pègre.",
+          "miniTexte": "Une ancienne call-girl prend sous son aile un petit garçon dont les parents viennent d'être assassinés. Lion d'or – ex-aequo avec _Atlantic City_ – en 1980, _Gloria_ plonge dans la jungle new-yorkaise pour une envoûtante course contre la mort, où Cassavetes alterne violence sèche et élans lyriques. Avec Gena Rowlands, qui crève l'écran en héroïne résiliente.",
           "status": 2,
           "copies": [
             {
@@ -10454,8 +10507,8 @@
           "duree": 116,
           "generique": "Clint Eastwood, Sondra Locke, Geoffrey Lewis",
           "ageMinimal": 10,
-          "synopsis": "Le cowboy Bronco Billy est à la tête d'un petit cirque western peuplé de toute sorte de personnages marginaux qui voyagent, de foire en foire, sur les routes de l'Ouest. Alors que le monde se modernise, ils continuent de croire à leur spectacle... La rencontre avec Antoinette Lily, engagée pour le numéro de tireur d'élite, va bouleverser leur quotidien. De l'aveu même d'Eastwood, ce film est un hommage discret à l'univers de Federico Fellini.",
-          "status": 1,
+          "miniTexte": "Un cow-boy solitaire, propriétaire d'un cirque itinérant en déroute, engage une épouse délaissée croisée sur sa route. La rencontre de deux univers dans une comédie poétique, qui balance entre le divertissement pur et un hommage nostalgique au Far West, véritable chant nostalgique à la gloire du vieux rêve américain.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 17879,
@@ -10503,7 +10556,8 @@
           "annee": 1979,
           "duree": 133,
           "generique": "Dan Aykroyd, John Belushi, John Landis",
-          "status": 1,
+          "miniTexte": "Comédie musicale emblématique des années 80, qui mêle humour déjanté, poursuites spectaculaires et performances musicales légendaires. Emmenée par le flegme en costume noir des frères Blues, l'histoire raconte leur mission divine : reformer le groupe pour sauver un orphelinat. Avec la réunion de stars comme Aretha Franklin, James Brown ou Ray Charles, une célébration de la musique soul et du rhythm'n' blues, à l'énergie contagieuse.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29011,
@@ -10544,6 +10598,7 @@
           "duree": 179,
           "generique": "Tatsuya Nakadai, Tsutomu Yamazaki, Kenichi Hagiwara",
           "synopsis": "En guerre avec d'autres clans, le chef des Takeda s'adjoint un sosie afin d'être omniprésent. Mais le chef meurt et le sosie sert à cacher la défaillance du pouvoir.",
+          "miniTexte": "Fresque somptueuse, tournée dans des châteaux historiques, _Kagemusha_ s'impose comme une flamboyante tragédie shakespearienne, où pleuvent les rivalités et autres affrontements entre clans. Avec une composition de l'image saisissante, Kurosawa suit les traces d'Eisenstein et Welles pour raconter les légendes des chevaliers du Moyen Âge japonais. Un récit d'aventures exaltant et grandiose, Palme d'or à Cannes.",
           "commentaire": "« Henri Langlois est toujours vivant au fond de moi. C'est lui qui m'a incité avec passion à tourner des films en couleurs. J'ai tourné à titre d'essai _Dodes'kaden_. Après avoir fait _Dersou Ouzala_, j'ai enfin pu, dans _Kagemusha_, atteindre le stade où j'utilisai la couleur librement, à ma manière. » (Akira Kurosawa)",
           "status": 2,
           "copies": [
@@ -10593,7 +10648,8 @@
           "annee": 1979,
           "duree": 120,
           "generique": "Eva Mattes, Ernst Jacobi, Elisabeth Stepanek",
-          "status": 1,
+          "miniTexte": "Un classique mal connu du nouveau cinéma allemand, qui suit le parcours d'une femme et de sa fille dans l'Allemagne du Troisième Reich. Ancré dans l'expérience familiale de la cinéaste, un récit d'amour et de guerre, lyrique et déchirant, qui dénonce les effets destructeurs du nazisme sur les femmes, comme autant de traumatismes transmis d'une génération à l'autre.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29012,
@@ -10649,8 +10705,9 @@
           "annee": 1980,
           "duree": 127,
           "generique": "Isabelle Adjani, Sam Neill, Margit Carstensen",
-          "synopsis": "De retour d'un long voyage, Marc retrouve à Berlin sa femme Anna et son fils, Bob. Prise de crises violentes, Anna disparait. Marc engage un détective qui découvre bientôt qu'elle s'est réfugiée dans une étrange demeure où semble se cacher une créature surgie des ténèbres.",
-          "status": 1,
+          "synopsis": "De retour d'un long voyage, Marc retrouve à Berlin sa femme Anna et son fils, Bob. Prise de crises violentes, Anna disparaît. Marc engage un détective qui découvre bientôt qu'elle s'est réfugiée dans une étrange demeure où semble se cacher une créature surgie des ténèbres.",
+          "miniTexte": "Tourbillon d'émotions et de visions dérangeantes, _Possession_ sonde l'implosion d'un couple à grands coups de disputes houleuses et de mutilations physiques. Derrière une expérience sensorielle intense, une sombre histoire de désespoir et d'amour fou au climat de paranoïa suffocant et à la mise en scène viscérale. Le cauchemar onirique de Żuławski, magistralement incarné par Isabelle Adjani, prix d'interprétation féminine à Cannes et César de la meilleure actrice.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 17699,
@@ -10688,7 +10745,8 @@
           "duree": 104,
           "generique": "Robert Atzorn, Christine Buchegger, Martin Benrath",
           "synopsis": "Un homme étrangle une prostituée. Les motivations profondes du meurtre se dévoilent progressivement.",
-          "status": 1,
+          "miniTexte": "Installé en Allemagne, Bergman poursuit son étude du couple en crise, à travers le meurtre sordide d'une prostituée par un homme respectable. Au fil d'entretiens, de scènes de la vie quotidienne et de séquences de rêve, le film déroule l'examen non linéaire de ses motivations, dans une approche clinique où résonnent toutes les angoisses existentielles du cinéaste suédois.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 15452,
@@ -10727,7 +10785,8 @@
           "annee": 1980,
           "duree": 116,
           "generique": "Paul Newman, Sally Field, Bob Balaban",
-          "status": 1,
+          "miniTexte": "« Absence de malice », du nom de la clause de protection des sources en vigueur aux États-Unis. Soupçonné de meurtre, un homme doit prouver son innocence lorsqu'un juge, pour faire avancer l'enquête, manipule une journaliste aux dents longues, en quête de scoop. Paul Newman et Sally Field au sommet, dans une réflexion sur l'usurpation et la diffamation.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 22774,
@@ -10781,6 +10840,7 @@
           "generique": "Ornella Muti, Ben Gazzara, Susan Tyrrell",
           "adaptation": "D'après le recueil de nouvelles _Contes de la folie ordinaire_ de Charles Bukowski.",
           "synopsis": "Charles Serking, poète anarchiste et ivrogne, vit dans un quartier sordide de Los Angeles. Il rencontre Cass, mi-ange, mi-démon, qui se prostitue dans les quartiers chics.",
+          "miniTexte": "Dans l'Amérique fangeuse des bars, des trottoirs et des plages de Los Angeles, le portrait d'un auteur en marge de tout système établi. Sa rencontre avec une prostituée des quartiers chics, au désespoir plus profond encore que le sien, va bouleverser sa vision de l'amour. Quand le verbe cru de Bukowski rejoint les obsessions de Ferreri, cela donne un film qui marque violemment les esprits.",
           "commentaire": "Adapté du recueil de Charles Bukowski, _Conte de la folie ordinaire_ dresse le portrait d'un auteur en marge de tout système établi. Charles Serking, double de l'écrivain américain, est incarné par le cassavetesien Ben Gazzara, parfait en poète underground, alcoolique et fauché, dont le processus artistique implique une fréquentation accrue des bars, des trottoirs et des plages désolées de Los Angeles. La caméra de Ferreri le suit, au plus près, dérivant dans cette Amérique fangeuse, où la souffrance physique des femmes qu'il croise, engendrée par le sexe à outrance ou l'automutilation, fait écho à sa souffrance psychique. Sa rencontre avec la plus belle fille de la ville – du titre d'une des nouvelles de Bukowski –, au désespoir plus profond encore que le sien, va bouleverser sa vision de l'amour... Quand le verbe cru de Bukowski rejoint les obsessions de Ferreri, cela donne un film qui marque violemment les esprits.",
           "status": 2,
           "copies": [
@@ -10826,7 +10886,7 @@
           "duree": 123,
           "generique": "Tom Conti, David Bowie, Takeshi Kitano, Ryūichi Sakamoto",
           "adaptation": "D'après le roman _The Seed and the Sower_ de Laurens Van der Post.",
-          "synopsis": "Java, 1942. Dans un camp japonais de prisonniers américains, l'intransigeant capitaine Yonoi impose une discipline de fer. L'arrivée et l'attitude provocante d'un beau soldat anglais, Jack Celliers, troublent Yonoi et mettent dangereusement à mal son autorité.",
+          "miniTexte": "Les relations difficiles entre prisonniers et geôliers dans un camp à Java durant la Seconde Guerre mondiale. De scènes sensuelles en séquences de violence crue, Oshima filme le choc de deux mondes, la rencontre de la discipline militaire japonaise avec l'individualisme occidental. Une fable entêtante, qui offre une partition sur mesure à David Bowie.",
           "status": 2,
           "copies": [
             {
@@ -10889,9 +10949,9 @@
           "annee": 1982,
           "duree": 97,
           "generique": "Jeremy Irons, Eugene Lipinski, Jiří Stanislav",
-          "synopsis": "Trois maçons polonais et leur contremaître, Novak, viennent à Londres travailler au noir. Novak, autoritaire, est le seul à parler anglais. Lorsqu'il prend connaissance du coup d'État en Pologne, il tait la nouvelle à ses compatriotes.",
+          "miniTexte": "À travers le portrait de trois ouvriers polonais et de leur contremaître venus travailler au noir à Londres, Skolimowski livre une réflexion subtile et complexe, amusée et douloureuse, sur le monde brutal de l'Occident, en même temps qu'il dénonce la situation politique en Pologne au début des années 80.",
           "commentaire": "Jerzy Skolimowski réalise _Travail au noir_ en réaction à la grave crise qui éclate dans son pays en décembre 1981. Le Parti communiste au pouvoir a instauré la loi martiale face à la montée du tout jeune syndicat Solidarność. Le cinéaste vit alors en exil à Londres. Il réunit chez lui quatre scénaristes qui doivent composer un récit à partir de ses indications. Il cherche un acteur pour le rôle principal, celui du contremaître Nowak. Il contacte Jeremy Irons. Le film devra se faire en quelques semaines car Irons est enthousiaste mais doit tourner un mois plus tard pour une autre production. Après une scène d'exposition à l'aéroport de Londres, _Travail au noir_ se déploie dans un espace réduit, un quartier résidentiel de la ville. Trois ouvriers polonais et leur contremaître se trouvent coincés entre une maison à rénover, le supermarché voisin et quelques commerces du quartier. Dans ce petit périmètre, Skolimowski se livre à une réflexion subtile et complexe, amusée et douloureuse, sur le monde contemporain. Nowak et ses ouvriers sont coupés de leurs épouses ou familles, mais aussi du drame que traverse la Pologne. L'événement n'apparaît à Nowak que par les images froides de téléviseurs en vitrine. Il parle à une photographie de sa femme et l'imagine jusqu'à l'obsession dans les bras de son patron. Mais la petite troupe venue de l'Est fait aussi la découverte brutale de l'Occident : ses cadences de travail infernales (les accidents de chantier et les manipulations de Nowak), son individualisme radical (la mesquinerie des voisins londoniens), la prégnance de la surveillance et l'insécurité qu'elle engendre (les scènes récurrentes de vol à la supérette), une société où les individus se font tous concurrence.\n\nPauline de Raymond",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29126,
@@ -10933,7 +10993,7 @@
           "duree": 128,
           "generique": "Ken Ogata, Sumiko Sakamoto, Tonpei Hidari",
           "adaptation": "D'après la nouvelle _Étude à propos des chansons de Narayama_ de Shichirō Fukazawa.",
-          "synopsis": "Dans un petit village japonais, la coutume veut que les anciens ayant atteint soixante-dix ans se rendent au sommet du Narayama pour y mourir. Une femme âgée vit ses derniers jours avant l'échéance fatidique.",
+          "miniTexte": "Dans un petit village japonais, la coutume veut que les anciens ayant atteint 70 ans se rendent au sommet du Narayama pour y mourir. La vieille Orin passe ses dernières saisons avant le grand voyage. Palme d'Or à Cannes, une œuvre radicale qui explore la pratique ancestrale de l'_ubasute_, d'une émotion brute qui prend littéralement aux tripes.",
           "commentaire": "Palme d'Or à Cannes en 1983, La Ballade de Narayama explore la pratique ancestrale de l'_ubasute_, pèlerinage des anciens vers la mort. Après l'envoûtante version de Kinoshita en 1958, Imamura signe une œuvre radicale, d'un réalisme brutal, où la beauté de la nature se confond avec la cruauté d'une société primitive. Obsessions de nourriture et de sexe sont au centre des préoccupations du village, un monde rustre et sordide, où la vieille Orin passe ses dernières saisons avant le grand voyage. Un chemin douloureux, d'une émotion brute qui prend littéralement aux tripes, jusqu'au retour solitaire du fils endeuillé.",
           "status": 2,
           "copies": [
@@ -10976,7 +11036,8 @@
           "annee": 1982,
           "duree": 106,
           "generique": "Gudrun Landgrebe, Mathieu Carrière, Hanns Zischler",
-          "status": 1,
+          "miniTexte": "Succès considérable en Allemagne, _La Femme flambée_ suit le parcours d'une bourgeoise qui décide de tout quitter pour vivre de ses charmes et gagner son indépendance. La situation commence à dégénérer lorsqu'elle s'installe avec un gigolo. Derrière l'incompatibilité de leurs vies privées et professionnelles, Van Ackeren décrit froidement la tension d'une relation prise entre désir et pouvoir.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29014,
@@ -11374,7 +11435,7 @@
       ]
     },
     {
-      "idSeance": 187980,
+      "idSeance": 188080,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -11386,7 +11447,7 @@
       ],
       "idEvenement": 32255,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-20T21:15:00",
+      "dateHeure": "2025-03-14T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -13322,7 +13383,7 @@
       ],
       "idEvenement": 32425,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-20T19:30:00",
+      "dateHeure": "2025-04-20T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -13478,7 +13539,7 @@
       ]
     },
     {
-      "idSeance": 187998,
+      "idSeance": 188078,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -13490,7 +13551,7 @@
       ],
       "idEvenement": 32431,
       "typeEvenement": 14,
-      "dateHeure": "2025-04-20T15:45:00",
+      "dateHeure": "2025-04-20T18:45:00",
       "typeConference": "Conférence",
       "idSalle": "GF",
       "duree": 60,
