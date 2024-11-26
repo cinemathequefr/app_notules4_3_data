@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-26T13:24:21.001Z",
+  "updatedAt": "2024-11-26T18:36:19.345Z",
   "data": [
     {
       "idSeance": 186263,
@@ -2197,12 +2197,18 @@
           "idCategorie": 3248,
           "titreCycle": "Carlo Lizzani",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 753,
+          "idCategorie": 3715,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31949,
-      "typeEvenement": 13,
       "dateHeure": "2025-05-03T15:00:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -2227,6 +2233,13 @@
             }
           ],
           "idFilmBoxoffice": 25732
+        },
+        {
+          "idConf": 32395,
+          "titre": "DIALOGUE AVEC JEAN-FRANÇOIS RAUGER",
+          "typeConference": "Dialogue",
+          "duree": 75,
+          "ordre": 2
         }
       ]
     },
@@ -2768,6 +2781,70 @@
       ]
     },
     {
+      "idSeance": 187059,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 972,
+          "idCategorie": 3708,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31961,
+      "dateHeure": "2025-05-10T14:30:00",
+      "idSalle": "HL",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 103939,
+          "titre": "À bord du Darjeeling Limited",
+          "titreVo": "Darjeeling Limited",
+          "artVo": "The",
+          "realisateurs": "Wes Anderson",
+          "annee": 2007,
+          "duree": 91,
+          "generique": "Owen Wilson, Adrien Brody, Jason Schwartzman",
+          "synopsis": "Trois frères qui ne se sont pas parlé depuis la mort de leur père décident de faire ensemble un grand voyage en train à travers l'Inde afin de renouer les liens d'autrefois.",
+          "miniTexte": "Le voyage en train, à travers l'Inde, d'une fratrie en quête de recomposition. Équipés d'une dizaine de valises, d'antidépresseurs et d'une bombe lacrymogène, les voici en route pour résoudre une foule de conflits familiaux, prêts à se délester d'un passé trop lourd et accepter de rentrer dans l'âge adulte.",
+          "commentaire": "_À bord du Darjeeling Limited_ est le cinquième long métrage de Wes Anderson. Il impose l'univers fascinant et coloré du cinéaste, où décors élaborés et costumes délicats le disputent à une mise en scène dynamique et nerveuse. Les petits espaces des compartiments et le couloir exigu du train obligent à une construction méticuleuse dans un cadre réduit, le train lui-même figurant l'histoire qui avance. Le film s'ouvre sur ce qui paraît une course-poursuite. Il y a bien une course : celle entre Bill Murray et Adrien Brody, pour qui il s'agit de monter dans le train qui vient de partir. Course entre deux générations d'acteurs, seul le plus jeune parviendra à bord du Darjeeling Limited : c'est son aventure, un voyage initiatique, après l'enfance. Peter (Adrien Brody) rejoint à bord ses deux frères, Francis (Owen Wilson) et Jack (Jason Schwartzman). Ils entament ensemble un voyage « spirituel » à travers le Rajasthan dont l'objet sera, pour ces garçons en quête de sens familial, de reconstituer une fratrie décomposée et, plus matures, de réapprendre à vivre. Traiter des sujets forts (et parfois embarrassants) à la manière d'une comédie d'aventures légère et mélancolique est un art ici parfaitement maîtrisé par Wes Anderson. Le film, émouvant et sensible, à l'esthétique affirmée et à la mise en scène élégante, approche avec intelligence les difficultés des personnages à être au monde. En l'occurrence une partie du monde, l'Inde, où ils se retrouvent à la fois perdus et bouleversés. Les trois frères trimballent une tonne de valises chics et personnalisées, dont on se demande ce qu'elles peuvent bien contenir (on les ouvre seulement pour y trouver des antidépresseurs et un gaz lacrymogène servant au cadet à tenir ses aînés à distance) et dont c'est peu de dire qu'elles encombrent. Leur mission achevée (retrouver leur mère retirée dans un monastère himalayen), les frangins, montés _in extremis_ à bord du train du retour, contemplent leurs bagages jetés à terre, épars, comme on regarde s'éloigner un passé trop lourd, encombrant. Adultes, ils sont soulagés. Et nous, ravis.\n\nMatthieu Grimault",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 11326,
+              "duree": 91,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 22857,
+              "duree": 0,
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 115736
+        },
+        {
+          "idConf": 32399,
+          "titre": "DIALOGUE AVEC NICOLAS SAADA",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
+        }
+      ]
+    },
+    {
       "idSeance": 187455,
       "idProg": 334,
       "idCycleCategories": [
@@ -2949,12 +3026,18 @@
           "idCategorie": 3671,
           "titreCycle": "Wes Anderson",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 972,
+          "idCategorie": 3708,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31965,
-      "typeEvenement": 13,
       "dateHeure": "2025-04-27T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -2976,6 +3059,13 @@
             }
           ],
           "idFilmBoxoffice": 269684
+        },
+        {
+          "idConf": 32398,
+          "titre": "DIALOGUE AVEC MATTHIEU ORLÉAN",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
         }
       ]
     },
@@ -3958,12 +4048,18 @@
           "idCategorie": 3672,
           "titreCycle": "Robert Wise",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 973,
+          "idCategorie": 3717,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31988,
-      "typeEvenement": 13,
       "dateHeure": "2025-05-14T18:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -3989,6 +4085,13 @@
             }
           ],
           "idFilmBoxoffice": 88402
+        },
+        {
+          "idConf": 32400,
+          "titre": "DIALOGUE AVEC SERGE CHAUVIN",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
         }
       ]
     },
@@ -4623,12 +4726,18 @@
           "idCategorie": 3672,
           "titreCycle": "Robert Wise",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3696,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 32006,
-      "typeEvenement": 13,
       "dateHeure": "2025-05-07T18:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -4663,6 +4772,13 @@
             }
           ],
           "idFilmBoxoffice": 1073
+        },
+        {
+          "ordre": 2,
+          "idConf": 32339,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Frédéric Bonnaud",
+          "duree": 60
         }
       ]
     },
@@ -4785,12 +4901,18 @@
           "idCategorie": 3673,
           "titreCycle": "Anna May Wong",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 974,
+          "idCategorie": 3714,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32017,
-      "typeEvenement": 13,
       "dateHeure": "2025-04-26T15:00:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -4809,6 +4931,13 @@
             }
           ],
           "idFilmBoxoffice": 2623
+        },
+        {
+          "idConf": 32394,
+          "titre": "DIALOGUE AVEC MARION POLIRSZTOK",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
         }
       ]
     },
@@ -9064,6 +9193,8 @@
       "typeEvenement": 13,
       "dateHeure": "2025-03-20T21:15:00",
       "idSalle": "GF",
+      "idSeanceAssoc": 187911,
+      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -11072,12 +11203,18 @@
           "idCategorie": 3669,
           "titreCycle": "Le western, 25 indispensables",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3696,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 32203,
-      "typeEvenement": 13,
       "dateHeure": "2025-04-16T19:00:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -11106,6 +11243,13 @@
             }
           ],
           "idFilmBoxoffice": 5140
+        },
+        {
+          "ordre": 2,
+          "idConf": 32338,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Frédéric Bonnaud",
+          "duree": 60
         }
       ]
     },
@@ -11118,12 +11262,18 @@
           "idCategorie": 3684,
           "titreCycle": "Darren Aronofsky",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 981,
+          "idCategorie": 3716,
+          "titreCycle": "Darren Aronofsky",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32245,
-      "typeEvenement": 13,
       "dateHeure": "2025-04-05T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -11146,6 +11296,13 @@
             }
           ],
           "idFilmBoxoffice": 125828
+        },
+        {
+          "idConf": 32396,
+          "titre": "DARREN ARONOFSKY PAR DARREN ARONOFSKY",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
         }
       ]
     },
@@ -11672,12 +11829,18 @@
           "idCategorie": 3695,
           "titreCycle": "Parlons cinéma... avec Patric Chiha",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3695,
+          "titreCycle": "Parlons cinéma... avec Patric Chiha",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 32331,
-      "typeEvenement": 13,
       "dateHeure": "2025-04-10T19:00:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -11691,6 +11854,13 @@
           "miniTexte": "Yukiko dit à son éternel et vieillissant amant qui n'a jamais quitté sa femme pour elle : « Quand nous marchons ensemble, on a l'air d'un couple. » Dans les films de Mikio Naruse, quand un couple marche, il parle le plus souvent du couple et de la marche. Ils parlent de leur façon de marcher, de ce que c'est de marcher ensemble ou de comment les autres les perçoivent quand ils marchent à deux. Mais peut-on vraiment marcher ensemble ? — Patrick Chiha",
           "status": 1,
           "idFilmBoxoffice": 1930
+        },
+        {
+          "ordre": 2,
+          "idConf": 32334,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Patric Chiha",
+          "duree": 60
         }
       ]
     },
@@ -11703,12 +11873,18 @@
           "idCategorie": 3695,
           "titreCycle": "Parlons cinéma... avec Patric Chiha",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3695,
+          "titreCycle": "Parlons cinéma... avec Patric Chiha",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 32332,
-      "typeEvenement": 13,
       "dateHeure": "2025-04-24T19:00:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -11721,83 +11897,9 @@
           "annee": 1985,
           "miniTexte": "Dans un village du nord du Portugal, trois familles, une journée de travail. Le mouvement des choses, une suite de gestes, des éclats de lumières, la mise en scène du temps. Tout le monde est pris dans ses tâches quotidiennes. Rattachés au monde et aux autres, ils vivent dans le présent. Seule Isabel regarde ailleurs, peut-être vers l'avenir. Que voit-elle ? — Patrick Chiha",
           "status": 1
-        }
-      ]
-    },
-    {
-      "idSeance": 187871,
-      "idProg": 334,
-      "idCycleCategories": [
+        },
         {
-          "idCycle": 152,
-          "idCategorie": 3695,
-          "titreCycle": "Parlons cinéma... avec Patric Chiha",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32333,
-      "typeEvenement": 14,
-      "dateHeure": "2025-04-03T21:00:00",
-      "typeConference": "Dialogue",
-      "idSalle": "GF",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 32333,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Patric Chiha",
-          "duree": 60
-        }
-      ]
-    },
-    {
-      "idSeance": 187887,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 152,
-          "idCategorie": 3695,
-          "titreCycle": "Parlons cinéma... avec Patric Chiha",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32334,
-      "typeEvenement": 14,
-      "dateHeure": "2025-04-10T21:00:00",
-      "typeConference": "Dialogue",
-      "idSalle": "GF",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 32334,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Patric Chiha",
-          "duree": 60
-        }
-      ]
-    },
-    {
-      "idSeance": 187888,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 152,
-          "idCategorie": 3695,
-          "titreCycle": "Parlons cinéma... avec Patric Chiha",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32335,
-      "typeEvenement": 14,
-      "dateHeure": "2025-04-24T20:15:00",
-      "typeConference": "Dialogue",
-      "idSalle": "GF",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
+          "ordre": 2,
           "idConf": 32335,
           "idTypeConf": 16,
           "titre": "Dialogue avec Patric Chiha",
@@ -11851,60 +11953,6 @@
       ]
     },
     {
-      "idSeance": 187738,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 525,
-          "idCategorie": 3696,
-          "titreCycle": "Ciné-club de Frédéric Bonnaud",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32338,
-      "typeEvenement": 14,
-      "dateHeure": "2025-04-16T21:30:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 32338,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Frédéric Bonnaud",
-          "duree": 60
-        }
-      ]
-    },
-    {
-      "idSeance": 187870,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 525,
-          "idCategorie": 3696,
-          "titreCycle": "Ciné-club de Frédéric Bonnaud",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32339,
-      "typeEvenement": 14,
-      "dateHeure": "2025-05-07T22:00:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 32339,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Frédéric Bonnaud",
-          "duree": 60
-        }
-      ]
-    },
-    {
       "idSeance": 187694,
       "idProg": 334,
       "idCycleCategories": [
@@ -11913,12 +11961,18 @@
           "idCategorie": 3695,
           "titreCycle": "Parlons cinéma... avec Patric Chiha",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3695,
+          "titreCycle": "Parlons cinéma... avec Patric Chiha",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 32341,
-      "typeEvenement": 13,
       "dateHeure": "2025-04-03T19:00:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -11944,6 +11998,13 @@
           "miniTexte": "Une journée en famille à la campagne, au bord du Loing. La relation entre une courtisane et son timide tailleur à Hong Kong. Toutes ces robes qu'on touche mais qui nous séparent de l'être aimé. Puis soudain, la pluie. Enfin un contact. Bouleversant, déchirant. Les gouttes pénètrent les surfaces. Et l'on entrevoit pour un instant le bonheur. — Patrick Chiha",
           "status": 1,
           "idFilmBoxoffice": 1315
+        },
+        {
+          "ordre": 3,
+          "idConf": 32333,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Patric Chiha",
+          "duree": 60
         }
       ]
     },
@@ -12756,6 +12817,8 @@
       "typeConference": "Conférence",
       "idSalle": "GF",
       "duree": 90,
+      "idSeanceAssoc": 188079,
+      "typeAssoc": 117,
       "items": [
         {
           "idConf": 32380,
@@ -12794,87 +12857,6 @@
       ]
     },
     {
-      "idSeance": 187985,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 974,
-          "idCategorie": 3714,
-          "titreCycle": "Anna May Wong",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 32394,
-      "typeEvenement": 14,
-      "dateHeure": "2025-04-26T16:30:00",
-      "typeConference": "Dialogue",
-      "idSalle": "GF",
-      "duree": 60,
-      "items": [
-        {
-          "idConf": 32394,
-          "titre": "DIALOGUE AVEC MARION POLIRSZTOK",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 1
-        }
-      ]
-    },
-    {
-      "idSeance": 187971,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 753,
-          "idCategorie": 3715,
-          "titreCycle": "Carlo Lizzani",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 32395,
-      "typeEvenement": 14,
-      "dateHeure": "2025-05-03T16:45:00",
-      "typeConference": "Dialogue",
-      "idSalle": "GF",
-      "duree": 75,
-      "items": [
-        {
-          "idConf": 32395,
-          "titre": "DIALOGUE AVEC JEAN-FRANÇOIS RAUGER",
-          "typeConference": "Dialogue",
-          "duree": 75,
-          "ordre": 1
-        }
-      ]
-    },
-    {
-      "idSeance": 187968,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 981,
-          "idCategorie": 3716,
-          "titreCycle": "Darren Aronofsky",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 32396,
-      "typeEvenement": 14,
-      "dateHeure": "2025-04-05T16:30:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "idConf": 32396,
-          "titre": "DARREN ARONOFSKY PAR DARREN ARONOFSKY",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 1
-        }
-      ]
-    },
-    {
       "idSeance": 187984,
       "idProg": 334,
       "idCycleCategories": [
@@ -12895,87 +12877,6 @@
         {
           "idConf": 32397,
           "titre": "FILM + DIALOGUE LUBITSCH",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 1
-        }
-      ]
-    },
-    {
-      "idSeance": 187969,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 972,
-          "idCategorie": 3708,
-          "titreCycle": "Wes Anderson",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 32398,
-      "typeEvenement": 14,
-      "dateHeure": "2025-04-27T16:30:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "idConf": 32398,
-          "titre": "DIALOGUE AVEC MATTHIEU ORLÉAN",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 1
-        }
-      ]
-    },
-    {
-      "idSeance": 187974,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 972,
-          "idCategorie": 3708,
-          "titreCycle": "Wes Anderson",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 32399,
-      "typeEvenement": 14,
-      "dateHeure": "2025-05-10T16:30:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "idConf": 32399,
-          "titre": "DIALOGUE AVEC NICOLAS SAADA",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 1
-        }
-      ]
-    },
-    {
-      "idSeance": 187999,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 973,
-          "idCategorie": 3717,
-          "titreCycle": "Robert Wise",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 32400,
-      "typeEvenement": 14,
-      "dateHeure": "2025-05-14T21:00:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "idConf": 32400,
-          "titre": "DIALOGUE AVEC SERGE CHAUVIN",
           "typeConference": "Dialogue",
           "duree": 60,
           "ordre": 1
@@ -13344,12 +13245,18 @@
           "idCategorie": 3652,
           "titreCycle": "Louis Skorecki",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 955,
+          "idCategorie": 3721,
+          "titreCycle": "Louis Skorecki",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32421,
-      "typeEvenement": 13,
       "dateHeure": "2025-04-20T17:30:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -13367,6 +13274,13 @@
               "format": "DCP"
             }
           ]
+        },
+        {
+          "idConf": 32431,
+          "titre": "DIALOGUE AVEC LOUIS SKORECKI",
+          "typeConference": "Conférence",
+          "duree": 60,
+          "ordre": 2
         }
       ]
     },
@@ -13484,12 +13398,18 @@
           "idCategorie": 3652,
           "titreCycle": "Louis Skorecki",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 955,
+          "idCategorie": 3721,
+          "titreCycle": "Louis Skorecki",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32428,
-      "typeEvenement": 13,
       "dateHeure": "2025-04-19T15:00:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -13508,60 +13428,13 @@
               "format": "DCP"
             }
           ]
-        }
-      ]
-    },
-    {
-      "idSeance": 187997,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 955,
-          "idCategorie": 3721,
-          "titreCycle": "Louis Skorecki",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 32430,
-      "typeEvenement": 14,
-      "dateHeure": "2025-04-19T16:15:00",
-      "typeConference": "Dialogue",
-      "idSalle": "GF",
-      "duree": 60,
-      "items": [
+        },
         {
           "idConf": 32430,
           "titre": "DIALOGUE AVEC LOUIS SKORECKI",
           "typeConference": "Dialogue",
           "duree": 60,
-          "ordre": 1
-        }
-      ]
-    },
-    {
-      "idSeance": 188078,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 955,
-          "idCategorie": 3721,
-          "titreCycle": "Louis Skorecki",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 32431,
-      "typeEvenement": 14,
-      "dateHeure": "2025-04-20T18:45:00",
-      "typeConference": "Conférence",
-      "idSalle": "GF",
-      "duree": 60,
-      "items": [
-        {
-          "idConf": 32431,
-          "titre": "DIALOGUE AVEC LOUIS SKORECKI",
-          "typeConference": "Conférence",
-          "duree": 60,
-          "ordre": 1
+          "ordre": 2
         }
       ]
     },
