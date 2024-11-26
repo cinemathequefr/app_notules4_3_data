@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-25T16:21:57.200Z",
+  "updatedAt": "2024-11-26T08:45:21.303Z",
   "data": [
     {
       "idSeance": 186263,
@@ -33,6 +33,7 @@
               "duree": 100,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ],
@@ -5416,9 +5417,8 @@
               "idCopie": 4538,
               "duree": 100,
               "format": "35 mm",
-              "version": "VO",
               "langCopie": "GER",
-              "sousTitres": "STF",
+              "intertitres": "INT. FR.",
               "selected": true
             },
             {
@@ -6619,10 +6619,18 @@
           "titre": "So This Is Paris",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1926,
-          "duree": 70,
+          "duree": 60,
           "miniTexte": "Remake de _Ein fideles Gefängnis_ (1917), la version américaine met en scène deux couples interchangeables dans deux maisons de la même rue. Un motif de symétrie qui permet à Lubitsch de pousser son goût du quiproquo jusqu'au délire. Hilarant.",
           "status": 1,
           "copies": [
+            {
+              "idCopie": 29276,
+              "duree": 60,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
             {
               "idCopie": 25373,
               "duree": 70,
@@ -6886,13 +6894,6 @@
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 13393,
-              "duree": 110,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 366
@@ -6942,13 +6943,6 @@
               "format": "DCP",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 13393,
-              "duree": 110,
-              "format": "DCP",
-              "version": "VO",
               "sousTitres": "STF"
             }
           ],
@@ -7406,11 +7400,6 @@
               "duree": 97,
               "format": "35 mm",
               "version": "VO"
-            },
-            {
-              "idCopie": 29082,
-              "duree": 105,
-              "format": "35 mm"
             }
           ],
           "idFilmBoxoffice": 3934
@@ -7460,11 +7449,6 @@
               "duree": 97,
               "format": "35 mm",
               "version": "VO"
-            },
-            {
-              "idCopie": 29082,
-              "duree": 105,
-              "format": "35 mm"
             }
           ],
           "idFilmBoxoffice": 3934
@@ -7696,12 +7680,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29086,
-              "duree": 93
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 2250
@@ -8198,6 +8177,42 @@
             }
           ],
           "idFilmBoxoffice": 26140
+        }
+      ]
+    },
+    {
+      "idSeance": 188075,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 472,
+          "idCategorie": 3676,
+          "titreCycle": "Archi Vives",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32127,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-20T19:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155039,
+          "titre": "Cinégraphies, les femmes de la tempête",
+          "realisateurs": "Céline Ruivo",
+          "annee": 2023,
+          "duree": 60,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28999,
+              "duree": 60,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -8773,7 +8788,7 @@
       ]
     },
     {
-      "idSeance": 187823,
+      "idSeance": 188073,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -8785,7 +8800,7 @@
       ],
       "idEvenement": 32142,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-14T20:30:00",
+      "dateHeure": "2025-03-15T17:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -9017,7 +9032,7 @@
       ]
     },
     {
-      "idSeance": 187826,
+      "idSeance": 188072,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -9029,7 +9044,7 @@
       ],
       "idEvenement": 32147,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-15T17:00:00",
+      "dateHeure": "2025-03-14T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -9077,7 +9092,7 @@
       ],
       "idEvenement": 32148,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-15T19:00:00",
+      "dateHeure": "2025-03-15T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -13005,6 +13020,158 @@
       ]
     },
     {
+      "idSeance": 188074,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 991,
+          "idCategorie": 3713,
+          "titreCycle": "Le flou au cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32404,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-11T17:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155080,
+          "titre": "Shockingly Hot",
+          "realisateurs": "Stan Brakhage",
+          "annee": 1996,
+          "duree": 4,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29200,
+              "duree": 4,
+              "format": "16 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 15415
+        },
+        {
+          "ordre": 2,
+          "idFilm": 155078,
+          "titre": "Wold Shadow",
+          "art": "The",
+          "realisateurs": "Stan Brakhage",
+          "annee": 1972,
+          "duree": 3,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29202,
+              "duree": 3,
+              "format": "16 mm",
+              "version": "VO"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 132670,
+          "titre": "Thunder",
+          "realisateurs": "Takashi Ito",
+          "annee": 1982,
+          "duree": 5,
+          "synopsis": "Femme foudre illuminant la nuit. (Y.G.)",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 10397,
+              "duree": 5,
+              "format": "16 mm"
+            }
+          ],
+          "idFilmBoxoffice": 197745
+        },
+        {
+          "ordre": 4,
+          "idFilm": 155077,
+          "titre": "Fire of Waters",
+          "realisateurs": "Stan Brakhage",
+          "annee": 1965,
+          "duree": 7,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29199,
+              "duree": 7,
+              "format": "16 mm",
+              "version": "VO"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 155082,
+          "titre": "Dizziness",
+          "realisateurs": "Takashi Itô",
+          "annee": 2001,
+          "status": 0
+        },
+        {
+          "ordre": 6,
+          "idFilm": 69982,
+          "titre": "Anticipation of the Night",
+          "realisateurs": "Stan Brakhage",
+          "annee": 1958,
+          "duree": 39,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29198,
+              "duree": 39,
+              "format": "16 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 19512
+        }
+      ]
+    },
+    {
+      "idSeance": 187066,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 991,
+          "idCategorie": 3713,
+          "titreCycle": "Le flou au cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32411,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-10T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155079,
+          "titre": "Text of Light",
+          "art": "The",
+          "realisateurs": "Stan Brakhage",
+          "annee": 1974,
+          "duree": 70,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29201,
+              "duree": 70,
+              "format": "16 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 45200
+        }
+      ]
+    },
+    {
       "idSeance": 186526,
       "idProg": 334,
       "idCycleCategories": [
@@ -13087,6 +13254,42 @@
             {
               "idCopie": 29210,
               "duree": 10,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187081,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 991,
+          "idCategorie": 3713,
+          "titreCycle": "Le flou au cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32420,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-11T15:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 149883,
+          "titre": "Il n'y aura plus de nuit",
+          "realisateurs": "Éléonore Weber",
+          "annee": 2020,
+          "duree": 76,
+          "generique": "Nathalie Richard",
+          "synopsis": "Retour sur des vidéos enregistrées par les armées américaine et française en Afghanistan, en Irak, au Pakistan... Le film détourne ces images du discours de propagande et montre où peut mener le désir de voir, lorsqu'il s'exerce sans limites.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 24483,
+              "duree": 76,
               "format": "DCP"
             }
           ]
