@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-27T10:52:21.585Z",
+  "updatedAt": "2024-11-27T16:29:57.460Z",
   "data": [
     {
       "idSeance": 186263,
@@ -3304,6 +3304,36 @@
       ]
     },
     {
+      "idSeance": 188088,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31969,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-08T16:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45584,
+          "titre": "Je veux vivre",
+          "titreVo": "I Want to Live!",
+          "realisateurs": "Robert Wise",
+          "annee": 1958,
+          "generique": "Susan Hayward, Simon Oakland, Virginia Vincent",
+          "miniTexte": "Le long combat d'une femme, condamnée pour meurtre sans preuves formelles, en attente de son exécution. Basé sur une affaire ayant bouleversé les États-Unis, _Je veux vivre_ dénonce la peine de mort et les dysfonctionnements du système judiciaire américain dans un drame émouvant. Avec un Oscar de la meilleure actrice à la clé pour l'interprétation magistrale de Susan Hayward, tout en force et sobriété.",
+          "status": 2,
+          "idFilmBoxoffice": 20085
+        }
+      ]
+    },
+    {
       "idSeance": 187439,
       "idProg": 334,
       "idCycleCategories": [
@@ -3389,7 +3419,7 @@
           "annee": 1988,
           "duree": 98,
           "generique": "Jason Gedrick, Troy Beyer, Eddie Velez",
-          "miniTexte": "Vingt-sept ans après _West Side Story_, Wise revient à la comédie musicale en suivant des adolescents installés sur le toit d'un immeuble abandonné. Dans des rues ravagées par le crack du Lower Manhattan, il filme une jeunesse fougueuse à l'énergie débordante, animée par une danse de combat libératrice. Le dernier long métrage du cinéaste.",
+          "miniTexte": "Vingt-sept ans après _West Side Story_, Wise revient à la comédie musicale en suivant des adolescents installés sur le toit d'un immeuble abandonné. Dans des rues ravagées par le crack du Lower Manhattan, il filme une jeunesse fougueuse à l'énergie débordante, animée par une chorégrahpie libératrice. Le dernier long métrage du cinéaste.",
           "status": 2,
           "copies": [
             {
@@ -3463,7 +3493,7 @@
           "realisateurs": "Robert Wise",
           "annee": 1957,
           "generique": "Jean Simmons, Joan Fontaine, Paul Newman",
-          "miniTexte": "Les destins contrariés de quatre sœurs, amoureuses éperdues de soldats américains durant la guerre. Porté par un prodigieux ensemble d'actrices (Joan Fontaine, Jean Simmons, Piper Laurie), Femmes coupables évoque subtilement le drame des sentiments dans une atmosphère mélancolique. Avec un jeune Paul Newman dans l'un de ses premiers rôles.",
+          "miniTexte": "En Nouvelle-Zélande, les destins contrariés de quatre sœurs, amoureuses éperdues de soldats américains durant la guerre. Porté par un prodigieux ensemble d'actrices (Joan Fontaine, Jean Simmons, Piper Laurie), Femmes coupables évoque subtilement le drame des sentiments dans une atmosphère mélancolique. Avec un jeune Paul Newman dans l'un de ses premiers rôles.",
           "status": 2,
           "idFilmBoxoffice": 108895
         }
@@ -3636,7 +3666,60 @@
           "adaptation": "D'après la nouvelle _Farewell to the Master_ de Harry Bates.",
           "ageMinimal": 10,
           "synopsis": "Une soucoupe volante atterrit à Washington. En dépit du scepticisme général, l'extraterrestre qui en était passager se révèle porteur d'un message de paix pour l'humanité.",
-          "miniTexte": "Reconnue comme la première œuvre d'envergure de science-fiction dans le cinéma américain, _Le Jour où la terre s'arrêta_ voit l'arrivée d'une soucoupe volante à Washington. En pleine guerre froide, le film témoigne des tensions géopolitiques de l'époque dans un mélange d'effets spéciaux réalistes et d'observation de la condition humaine. Un classique du genre, avec l'inoubliable partition de Bernard Hermann.",
+          "miniTexte": "Reconnue comme la première œuvre d'envergure de science-fiction dans le cinéma américain, _Le Jour où la terre s'arrêta_ voit l'arrivée d'une soucoupe volante à Washington. En pleine guerre froide, ce film antibelliciste témoigne des tensions géopolitiques de l'époque dans un mélange d'effets spéciaux réalistes et d'observation de la condition humaine. Un classique du genre, avec l'inoubliable partition de Bernard Hermann.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 13303,
+              "duree": 92,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29152,
+              "duree": 92,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 3463
+        }
+      ]
+    },
+    {
+      "idSeance": 187165,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31977,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-15T16:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37482,
+          "titre": "Jour où la terre s'arrêta",
+          "art": "Le",
+          "titreVo": "Day the Earth Stood Still",
+          "artVo": "The",
+          "realisateurs": "Robert Wise",
+          "annee": 1951,
+          "duree": 92,
+          "generique": "Michael Rennie, Patricia Neal, Hugh Marlowe, Sam Jaffe",
+          "adaptation": "D'après la nouvelle _Farewell to the Master_ de Harry Bates.",
+          "ageMinimal": 10,
+          "synopsis": "Une soucoupe volante atterrit à Washington. En dépit du scepticisme général, l'extraterrestre qui en était passager se révèle porteur d'un message de paix pour l'humanité.",
+          "miniTexte": "Reconnue comme la première œuvre d'envergure de science-fiction dans le cinéma américain, _Le Jour où la terre s'arrêta_ voit l'arrivée d'une soucoupe volante à Washington. En pleine guerre froide, ce film antibelliciste témoigne des tensions géopolitiques de l'époque dans un mélange d'effets spéciaux réalistes et d'observation de la condition humaine. Un classique du genre, avec l'inoubliable partition de Bernard Hermann.",
           "status": 2,
           "copies": [
             {
@@ -3846,6 +3929,49 @@
       "idEvenement": 31982,
       "typeEvenement": 13,
       "dateHeure": "2025-05-10T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37549,
+          "titre": "Maison sur la colline",
+          "art": "La",
+          "titreVo": "House on Telegraph Hill",
+          "artVo": "The",
+          "realisateurs": "Robert Wise",
+          "annee": 1950,
+          "duree": 92,
+          "generique": "Richard Basehart, Valentina Cortese, William Lundigan",
+          "adaptation": "D'après le roman _The Frightened Child_ de Dana Lyon.",
+          "miniTexte": "Une jeune polonaise usurpe l'identité d'une amie, morte en détention lors de son arrivée sur le territoire américain. Dans la peau d'une héroïne en quête d'elle-même, Valentina Cortese impose une présence hitchcockienne, au diapason d'un film noir transformé en mélodrame, puis en thriller psychologique ambigu. Un machiavélique théâtre des soupçons et des apparences aux secrets bien gardés.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29162,
+              "duree": 92,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 20075
+        }
+      ]
+    },
+    {
+      "idSeance": 187205,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31982,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-16T16:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4133,7 +4259,7 @@
       ],
       "idEvenement": 31989,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-16T18:30:00",
+      "dateHeure": "2025-05-16T18:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4144,7 +4270,7 @@
           "realisateurs": "Robert Wise",
           "annee": 1948,
           "generique": "William Lundigan, Jacqueline White, Ricardo Cortez",
-          "miniTexte": "Un détective investigue sur la disparition mystérieuse d'un collègue. Dans les paysages exotiques du Mexique, Wise invente un film noir aux nombreux rebondissements, saupoudré d'une pointe de romance. Mensonges, trahisons et secrets s'y immiscent dans une ambiance suspicieuse, où la vérité semble plus fragile que jamais.",
+          "miniTexte": "Un détective enquête sur la disparition mystérieuse d'un collègue. Dans les paysages exotiques du Mexique, Wise invente un film noir aux nombreux rebondissements, saupoudré d'une pointe de romance. Mensonges, trahisons et secrets s'y immiscent dans une ambiance suspicieuse, où la vérité semble plus fragile que jamais.",
           "status": 2,
           "copies": [
             {
@@ -4174,6 +4300,47 @@
       "typeEvenement": 13,
       "dateHeure": "2025-05-16T20:30:00",
       "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46102,
+          "titre": "Né pour tuer",
+          "titreVo": "Born to Kill",
+          "realisateurs": "Robert Wise",
+          "annee": 1946,
+          "duree": 92,
+          "generique": "Claire Trevor, Lawrence Tierney, Walter Slezak",
+          "adaptation": "D'après le roman _Tendre Femelle_ de James Gunn.",
+          "miniTexte": "La descente aux enfers d'une femme soumise à un psychopathe charismatique. Dans une atmosphère irrespirable, Wise adapte l'excellent roman de James Gunn, amas de passions destructrices et personnages pervers (Lawrence Tierney, terrifiant), pour mieux interroger la nature du mal et son emprise.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29157,
+              "duree": 92,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 1060
+        }
+      ]
+    },
+    {
+      "idSeance": 187280,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31990,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-19T16:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -4235,6 +4402,38 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 188084,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31991,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-12T20:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37551,
+          "titre": "Nous avons gagné ce soir",
+          "titreVo": "Set-up",
+          "artVo": "The",
+          "realisateurs": "Robert Wise",
+          "annee": 1948,
+          "generique": "Robert Ryan, Audrey Totter, George Tobias",
+          "adaptation": "D'après le poème _The Set-up_ de Joseph Moncure March.",
+          "miniTexte": "Triompher dans la chute pourrait être la morale de _Nous avons gagné ce soir_, film noir à la frontière du documentaire sur le dernier round d'un boxeur en fin de carrière. Tourné en temps réel, il dénonce l'envers de la boxe, l'accumulation de combats truqués par de petits escrocs et le sadisme du public. Dans cette vision d'une société aliénée, Wise filme, avec un noir et blanc rugueux, l'énergie du désespoir d'un champion raté qui veut échapper à sa destinée (Robert Ryan, extraordinaire). Un uppercut sec et sans fioritures à la violence flamboyante.",
+          "status": 2,
+          "idFilmBoxoffice": 945
+        }
+      ]
+    },
+    {
       "idSeance": 188029,
       "idProg": 334,
       "idCycleCategories": [
@@ -4292,7 +4491,7 @@
           "annee": 1957,
           "generique": "Clark Gable, Burt Lancaster, Jack Warden",
           "adaptation": "D'après le roman _Run Silent, Run Deep_ d'Edward L. Beach.",
-          "miniTexte": "Un commandant assoiffé de vengeance entraîne son équipe dans les dangers de la guerre sous-marine. Scènes de vie et batailles se succèdent au rythme d'un montage effréné, qui ménage une ambiance oppressante particulièrement réaliste. Avec un affrontement de taille entre Clark Gable et Burt Lancaster.",
+          "miniTexte": "Un commandant de sous-marin assoiffé de vengeance expose son équipage aux dangers de la guerre subaquatique. Scènes de vie et batailles se succèdent au rythme d'un montage effréné, qui ménage une ambiance oppressante particulièrement réaliste. Avec un affrontement de taille entre Clark Gable et Burt Lancaster.",
           "status": 2,
           "idFilmBoxoffice": 46536
         }
@@ -4323,7 +4522,7 @@
           "duree": 69,
           "generique": "Simone Simon, John Emery, Kurt Kreuger",
           "adaptation": "D'après les nouvelles _Boule de Suif_ et _Mademoiselle Fifi_ de Guy de Maupassant.",
-          "miniTexte": "Adapté de nouvelles signées Maupassant – dont _Boule de Suif_ –, _Mademoiselle Fifi_ explore la brutalité de l'occupation allemande face à la résistance féminine de l'époque, incarnée par l'épatante Simone Simon. Alors que sa mise en scène joue avec l'ombre et la lumière, Wise capte à merveille un climat de méfiance à la violence psychologique constante.",
+          "miniTexte": "Adapté de deux nouvelles signées Maupassant – dont _Boule de Suif_ –, _Mademoiselle Fifi_ explore la brutalité de l'occupation allemande durant la guerre de 1870, face à la résistance féminine de l'époque, incarnée par l'épatante Simone Simon. Alors que sa mise en scène joue avec l'ombre et la lumière, Wise capte à merveille un climat de méfiance à la violence psychologique constante.",
           "status": 2,
           "copies": [
             {
@@ -4453,6 +4652,48 @@
       ]
     },
     {
+      "idSeance": 187354,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31997,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-22T16:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 60806,
+          "titre": "Récupérateur de cadavres",
+          "art": "Le",
+          "titreVo": "Body Snatcher",
+          "artVo": "The",
+          "realisateurs": "Robert Wise",
+          "annee": 1945,
+          "generique": "Boris Karloff, Béla Lugosi, Henry Daniell",
+          "adaptation": "D'après la nouvelle _Le Voleur de cadavres_ de Robert Louis Stevenson.",
+          "miniTexte": "Deux géants de l'épouvante, Boris Karloff et Béla Lugosi, s'associent pour une danse macabre inspirée des classiques du genre. Hôpitaux glauques, maisons sinistres et cimetières abandonnés sont au rendez-vous d'un récit angoissant à l'ambiance gothique, adapté de Stevenson et basé sur un trafic de cadavres ayant défrayé la chronique à Édimbourg.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29156,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 18709
+        }
+      ]
+    },
+    {
       "idSeance": 188032,
       "idProg": 334,
       "idCycleCategories": [
@@ -4516,7 +4757,7 @@
       ],
       "idEvenement": 31999,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-12T19:00:00",
+      "dateHeure": "2025-05-12T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4559,6 +4800,36 @@
           "miniTexte": "Membre d'une société de protection des condors, une jeune femme cherche de l'aide à Washington pour sauver l'espèce. Wise joue la carte de la romance entre un lobbyiste sans scrupules et une idéaliste entêtée (le charmant duo Victor Mature / Patricia Neal) dans sa première comédie satirique, qui rappelle _Mr Smith au Sénat_.",
           "status": 2,
           "idFilmBoxoffice": 108889
+        }
+      ]
+    },
+    {
+      "idSeance": 187016,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32001,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-09T15:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37559,
+          "titre": "Marqué par la haine",
+          "titreVo": "Somebody Up There Likes Me",
+          "realisateurs": "Robert Wise",
+          "annee": 1956,
+          "generique": "Paul Newman, Pier Angeli, Everett Sloane",
+          "miniTexte": "La vie mouvementée du boxeur champion du monde des poids moyens en 1947, Rocky Graziano. Appelé pour remplacer James Dean au pied levé, Paul Newman s'empare brillamment du rôle, portrait poignant d'un mauvais garçon aux encombrants démons intérieurs. Un film de boxe intense, qui inspirera Stallone pour _Rocky_.",
+          "status": 2,
+          "idFilmBoxoffice": 6569
         }
       ]
     },
@@ -4691,6 +4962,48 @@
           "miniTexte": "Quatorze ans après l'original, Wise adapte à nouveau _Les Chasses du comte Zaroff_ dans un thriller psychologique en forme de film d'aventures. Sur une île à la beauté sauvage, il tisse une palpitante odyssée de survie pour des naufragés victimes de la folie et de la vengeance.",
           "status": 2,
           "idFilmBoxoffice": 32689
+        }
+      ]
+    },
+    {
+      "idSeance": 187091,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32005,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-12T16:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37447,
+          "titre": "Tour des ambitieux",
+          "art": "La",
+          "titreVo": "Executive Suite",
+          "realisateurs": "Robert Wise",
+          "annee": 1953,
+          "duree": 104,
+          "generique": "Barbara Stanwyck, William Holden, June Allyson",
+          "adaptation": "D'après le roman _Executive Suite_ de Cameron Hawley.",
+          "miniTexte": "Après le décès du président d'une fabrique de meubles, une lutte sans merci s'engage pour les candidats à sa succession. Wise brosse un tableau impitoyable du monde de l'entreprise, fait de compétitions et de coups bas, avec un talent aigu de l'observation et un sens du rythme haletant. Un film visionnaire, Prix spécial du jury pour l'ensemble de la distribution à Venise en 1954.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29160,
+              "duree": 104,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 43257
         }
       ]
     },
@@ -4918,6 +5231,37 @@
       ]
     },
     {
+      "idSeance": 187394,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32009,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-23T16:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46127,
+          "titre": "Malédiction des hommes chats",
+          "art": "La",
+          "titreVo": "Curse of the Cat People",
+          "realisateurs": "Gunther V. Fritsch, Robert Wise",
+          "annee": 1943,
+          "generique": "Simone Simon, Kent Smith, Jane Randolph",
+          "miniTexte": "Le premier film de Wise, coréalisé avec Gunther von Fritsch, reconnu comme une suite spirituelle de _La Féline_. Onirisme et poésie se rencontrent pour examiner les rêves d'une enfant enfermée dans sa solitude. Sur la bande-son de Roy Webb, un conte gothique psychologique se déploie comme la délicate mise en scène des peurs infantiles et des tensions familiales.",
+          "status": 2,
+          "idFilmBoxoffice": 11121
+        }
+      ]
+    },
+    {
       "idSeance": 188076,
       "idProg": 334,
       "idCycleCategories": [
@@ -5002,7 +5346,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 186706,
@@ -5040,7 +5385,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 186715,
@@ -5078,7 +5424,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 188077,
@@ -5634,7 +5981,8 @@
           ],
           "idFilmBoxoffice": 58242
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 187797,
@@ -5683,7 +6031,8 @@
           ],
           "idFilmBoxoffice": 3043
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 185944,
@@ -5807,7 +6156,8 @@
           ],
           "idFilmBoxoffice": 98856
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 186120,
@@ -5927,7 +6277,8 @@
           ],
           "idFilmBoxoffice": 9358
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 185997,
@@ -5967,7 +6318,8 @@
           ],
           "idFilmBoxoffice": 129859
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 187838,
@@ -6161,7 +6513,8 @@
           ],
           "idFilmBoxoffice": 32356
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 187795,
@@ -6795,7 +7148,8 @@
           ],
           "idFilmBoxoffice": 14433
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 186118,
@@ -6839,7 +7193,8 @@
           ],
           "idFilmBoxoffice": 34285
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 187831,
@@ -6883,7 +7238,7 @@
       ]
     },
     {
-      "idSeance": 187923,
+      "idSeance": 188085,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -7041,7 +7396,8 @@
           ],
           "idFilmBoxoffice": 766
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 187818,
@@ -7274,14 +7630,6 @@
           "miniTexte": "Le film des retrouvailles de Pola Negri et Lubitsch à Hollywood est une audacieuse comédie sexuelle inspirée de la vie de la Grande Catherine, tsarine russe du XVIII<sup>e</sup> siècle. Un ballet stylisé, rehaussé de fantaisies anachroniques et de détails savoureux.",
           "status": 1,
           "copies": [
-            {
-              "idCopie": 11452,
-              "duree": 78,
-              "format": "35 mm",
-              "intertitres": "Autres",
-              "stDemande": true,
-              "selected": true
-            },
             {
               "idCopie": 17888,
               "duree": 78,
@@ -7663,7 +8011,8 @@
           ],
           "idFilmBoxoffice": 137960
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 187812,
@@ -7724,7 +8073,8 @@
           ],
           "idFilmBoxoffice": 18463
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 185693,
@@ -7985,7 +8335,8 @@
           ],
           "idFilmBoxoffice": 173893
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 186716,
@@ -8025,7 +8376,8 @@
           ],
           "idFilmBoxoffice": 131772
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 186562,
@@ -8350,7 +8702,8 @@
           ],
           "idFilmBoxoffice": 26140
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 188075,
@@ -10575,7 +10928,7 @@
       ],
       "idEvenement": 32181,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-16T16:00:00",
+      "dateHeure": "2025-05-16T16:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -11748,7 +12101,8 @@
           ],
           "idFilmBoxoffice": 185016
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 185621,
@@ -12176,7 +12530,7 @@
       ]
     },
     {
-      "idSeance": 185999,
+      "idSeance": 188086,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -12487,7 +12841,7 @@
       ]
     },
     {
-      "idSeance": 187927,
+      "idSeance": 188087,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -12813,7 +13167,7 @@
       ],
       "idEvenement": 32363,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-02T20:30:00",
+      "dateHeure": "2025-04-02T20:45:00",
       "idSalle": "JE",
       "items": [
         {
@@ -13653,7 +14007,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 188068,
