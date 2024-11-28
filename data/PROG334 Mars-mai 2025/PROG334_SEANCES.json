@@ -1,6 +1,45 @@
 {
-  "updatedAt": "2024-11-28T09:37:14.036Z",
+  "updatedAt": "2024-11-28T16:24:16.931Z",
   "data": [
+    {
+      "idSeance": 188129,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3637,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Juliana Rojas"
+        }
+      ],
+      "idEvenement": 31712,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-17T19:00:00",
+      "idSalle": "JE",
+      "typeSeance": 43,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 154997,
+          "titre": "Cidade; Campo",
+          "realisateurs": "Juliana Rojas",
+          "annee": 2024,
+          "dureeStd": 119,
+          "duree": 119,
+          "generique": "Fernanda Vianna, Mirella Façanha, Bruna Linzmeyer",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28866,
+              "duree": 119,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 284851
+        }
+      ],
+      "mention": "Avant-première"
+    },
     {
       "idSeance": 186263,
       "idProg": 334,
@@ -347,6 +386,52 @@
       ]
     },
     {
+      "idSeance": 186407,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31862,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-17T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32352,
+          "titre": "Chevauchée fantastique",
+          "art": "La",
+          "titreVo": "Stagecoach",
+          "realisateurs": "John Ford",
+          "annee": 1938,
+          "duree": 97,
+          "generique": "John Wayne, Andy Devine, John Carradine",
+          "adaptation": "D'après la nouvelle _Stage to Lordsburg_ d'Ernest Haycox. ",
+          "ageMinimal": 10,
+          "synopsis": "À bord d'une diligence traversant l'Arizona, neuf passagers très différents (un joueur professionnel, une femme enceinte, un médecin ivrogne, un banquier escroc) essayent de cohabiter, tout en résistant aux attaques des Peaux-Rouges emmenés par leur chef, Geronimo.\n",
+          "synopsisJP": "À bord d'une diligence traversant l'Arizona, neuf passagers en tous genres (un joueur professionnel, une femme enceinte, un médecin ivrogne, un banquier escroc...) essayent de cohabiter, tout en résistant aux attaques des Peaux-Rouges. Ce film a inspiré l'album de Lucky Luke : _La Diligence_.",
+          "miniTexte": "Avec _La Chevauchée fantastique_, western fondateur devenu l'un des mètres étalon du genre, la carrière de Ford prend un nouvel élan tandis que celle de John Wayne décolle définitivement. Sept fois nommé aux Oscars en 1940, il met en scène, pour la première fois, les paysages grandioses de Monument Valley dans une peinture sociétale en forme d'aventure haletante.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 781,
+              "duree": 97,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1834
+        }
+      ]
+    },
+    {
       "idSeance": 186307,
       "idProg": 334,
       "idCycleCategories": [
@@ -386,6 +471,49 @@
             }
           ],
           "idFilmBoxoffice": 25301
+        }
+      ]
+    },
+    {
+      "idSeance": 188093,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31864,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-17T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36898,
+          "titre": "Étrange incident",
+          "art": "L'",
+          "titreVo": "Ox-Bow Incident",
+          "artVo": "The",
+          "realisateurs": "William A. Wellman",
+          "annee": 1943,
+          "duree": 75,
+          "generique": "Henry Fonda, Dana Andrews, Mary Beth Hughes, Anthony Quinn",
+          "synopsis": "En 1885, dans une petite ville du Nevada, l'éleveur Kinkaid a été assassiné par des voleurs de bétail. En l'absence du shérif, et malgré l'opposition du juge, le major Tetley rassemble une milice.",
+          "miniTexte": "Une bande de cow-boys et de fermiers de l'Ouest américain décide de former un groupe d'autodéfense pour venger la mort d'un des leurs. Dans la lignée de _Furie_ et de _Douze hommes en colère_, _L'Étrange Incident_ convoque rumeurs et passions collectives pour interroger la notion de justice. Une déconstruction du mythe de l'Ouest à la mise en scène épurée.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 25604,
+              "duree": 75,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 3947
         }
       ]
     },
@@ -502,7 +630,7 @@
           "titreVo": "Yellow Sky",
           "realisateurs": "William A. Wellman",
           "annee": 1948,
-          "duree": 99,
+          "duree": 98,
           "generique": "Gregory Peck, Richard Widmark, Anne Baxter",
           "adaptation": "D'après le roman _Yellow Sky_ de W. R. Burnett.",
           "synopsis": "Une bande de pilleurs de banques traverse un désert pour fuir les représentants de l'ordre.",
@@ -510,12 +638,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 4491,
-              "duree": 99,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF"
+              "idCopie": 29301,
+              "duree": 98,
+              "format": "DCP",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 43428
@@ -894,7 +1020,7 @@
           "titre": "Rio Bravo",
           "realisateurs": "Howard Hawks",
           "annee": 1958,
-          "duree": 105,
+          "duree": 140,
           "generique": "John Wayne, Dean Martin, Angie Dickinson",
           "adaptation": "D'après la nouvelle _Rio Bravo_ de B. H. McCampbell.",
           "synopsis": "Shérif d'une petite ville, John T. Chance tente de maintenir l'ordre sur son territoire avec ses deux adjoints. L'un, Dude, est alcoolique, et l'autre, Stumpy, un vieillard boiteux. Tous doivent résister à une bande de hors-la-loi qui veulent faire sortir leur chef de prison.",
@@ -902,14 +1028,6 @@
           "commentaire": "« Désormais, les Américains regardent abondamment la télévision, où il n'y a que des cow-boys et des chanteurs. Alors j'ai fait un western avec des chanteurs... » Véritable leçon de morale stoïcienne, _Rio Bravo_ aura une influence énorme sur la génération suivante de réalisateurs – à commencer par John Carpenter et _Assaut_, où un certain « John T. Chance » signe d'ailleurs le montage... Tout en tension et humour mêlés, le dernier grand western classique, et l'aboutissement d'un genre.",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 23112,
-              "duree": 105,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
             {
               "idCopie": 23192,
               "duree": 140,
@@ -942,7 +1060,7 @@
           "titre": "Rio Bravo",
           "realisateurs": "Howard Hawks",
           "annee": 1958,
-          "duree": 105,
+          "duree": 140,
           "generique": "John Wayne, Dean Martin, Angie Dickinson",
           "adaptation": "D'après la nouvelle _Rio Bravo_ de B. H. McCampbell.",
           "synopsis": "Shérif d'une petite ville, John T. Chance tente de maintenir l'ordre sur son territoire avec ses deux adjoints. L'un, Dude, est alcoolique, et l'autre, Stumpy, un vieillard boiteux. Tous doivent résister à une bande de hors-la-loi qui veulent faire sortir leur chef de prison.",
@@ -950,14 +1068,6 @@
           "commentaire": "« Désormais, les Américains regardent abondamment la télévision, où il n'y a que des cow-boys et des chanteurs. Alors j'ai fait un western avec des chanteurs... » Véritable leçon de morale stoïcienne, _Rio Bravo_ aura une influence énorme sur la génération suivante de réalisateurs – à commencer par John Carpenter et _Assaut_, où un certain « John T. Chance » signe d'ailleurs le montage... Tout en tension et humour mêlés, le dernier grand western classique, et l'aboutissement d'un genre.",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 23112,
-              "duree": 105,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
             {
               "idCopie": 23192,
               "duree": 140,
@@ -1383,7 +1493,7 @@
       ],
       "idEvenement": 31929,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-11T20:30:00",
+      "dateHeure": "2025-05-11T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2739,6 +2849,65 @@
       ]
     },
     {
+      "idSeance": 188106,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31960,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-23T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 110552,
+          "titre": "Fantastic Mr. Fox",
+          "realisateurs": "Wes Anderson",
+          "annee": 2007,
+          "duree": 88,
+          "generique": "George Clooney, Meryl Streep, Bill Murray",
+          "adaptation": "D'après le roman _Fantastique Maître Renard_ de Roald Dahl.",
+          "ageMinimal": 6,
+          "synopsisJP": "Un renard voleur de poules doit affronter trois redoutables fermiers. D'après Roald Dahl, un film d'aventures aux couleurs automnales, aux accents écologiques, en animation image par image de marionnettes, et qui aborde en douceur les thèmes de la famille et de la transmission chers à Wes Anderson.",
+          "miniTexte": "Pour ses premiers pas dans le cinéma d'animation, Wes Anderson choisit un livre de son enfance, _Fantastique Maître Renard_ de Roald Dahl. Avec Noah Baumbach au scénario et Mark Gustafson aux marionnettes, les aventures d'un renard voleur de poules deviennent une nouvelle variation sur la filiation et l'affranchissement de l'héritage familial, drapée dans un décor automnal au style visuel immédiatement reconnaissable : maquettes, cadres, travelling latéraux. Un terrain de jeu idéal pour une fantaisie en stop motion, qui parle aussi d'écologie, de justice et de solidarité avec humour et une infinie tendresse.",
+          "commentaire": "_Fantastic Mr. Fox_ de Roald Dahl est le premier roman que Wes Anderson a lu dans son enfance. Lorsque Revolution Studios en acquiert les droits en 2004, Anderson est tout de suite associé au projet, d'abord avec Henry Selick (qui a déjà travaillé avec lui comme directeur de l'animation sur _La Vie aquatique_), puis avec Mark Gustafson et Noah Baumbach, ce dernier cosignant le scénario avec le réalisateur. Anderson commence par s'installer pendant plusieurs semaines dans la propriété anglaise où Dahl a écrit la plupart de ses romans, et s'inspire largement de cet environnement rural pour mettre au point la direction artistique du film. Sorti fin 2009 aux États-Unis, _Fantastic Mr. Fox_ est en partie éclipsé par le triomphe de la production Pixar _Là-haut_. Formellement, les deux films sont aussi éloignés que possible : Anderson refuse l'esthétique numérique pour privilégier l'animation image par image de marionnettes fabriquées et animées à la main (armatures en acier, fourrure et vêtements), évoluant dans cent cinquante décors entièrement manufacturés, dans une gamme chromatique très douce (magnifiques couleurs automnales). La surprise initiale de voir Wes Anderson s'aventurer sur le terrain du cinéma d'animation est vite occultée par une reconnaissance immédiate de son style visuel : élégance et précision de la composition des cadres, frontalité des plans balayés par des travellings latéraux, douceur de ton mêlée de brutales accélérations de rythme. Si _Fantastic Mr. Fox_ met en scène des renards, blaireaux et autres opossums, son grand sujet est aussi celui des films de fiction en prises de vue réelles du cinéaste (_La Famille Tenenbaum_, _La Vie aquatique_, _À bord du Darjeeling Limited_...) : la famille, les questions de filiation, de transmission, d'affranchissement du cadre ou de l'héritage familial. Le tout enveloppé dans un film d'aventures enlevé, porteur d'un message écologique et humaniste. Il en résulte un équilibre subtil entre fantaisie visuelle et réalisme des sentiments, entre péripéties trépidantes et drame existentiel poignant.\n\nCaroline Maleville",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28531,
+              "duree": 88,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 7527,
+              "duree": 88,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 114976
+        }
+      ]
+    },
+    {
       "idSeance": 187988,
       "idProg": 334,
       "idCycleCategories": [
@@ -3304,7 +3473,7 @@
       ]
     },
     {
-      "idSeance": 188088,
+      "idSeance": 188095,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -3316,7 +3485,7 @@
       ],
       "idEvenement": 31969,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-08T16:30:00",
+      "dateHeure": "2025-05-08T16:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3349,7 +3518,7 @@
       ]
     },
     {
-      "idSeance": 187439,
+      "idSeance": 188103,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -3926,7 +4095,7 @@
       ],
       "idEvenement": 31981,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-11T17:00:00",
+      "dateHeure": "2025-05-11T16:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4168,7 +4337,7 @@
       ]
     },
     {
-      "idSeance": 188033,
+      "idSeance": 188096,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -4212,7 +4381,7 @@
       ]
     },
     {
-      "idSeance": 187267,
+      "idSeance": 188102,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -4438,7 +4607,7 @@
       ]
     },
     {
-      "idSeance": 186751,
+      "idSeance": 188094,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -4452,7 +4621,6 @@
       "typeEvenement": 13,
       "dateHeure": "2025-04-30T20:00:00",
       "idSalle": "HL",
-      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -4492,11 +4660,10 @@
           ],
           "idFilmBoxoffice": 945
         }
-      ],
-      "mention": "Ouverture de la rétrospective"
+      ]
     },
     {
-      "idSeance": 188084,
+      "idSeance": 188100,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -4668,7 +4835,7 @@
       ],
       "idEvenement": 31995,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-11T20:00:00",
+      "dateHeure": "2025-05-11T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4697,7 +4864,7 @@
       ]
     },
     {
-      "idSeance": 187061,
+      "idSeance": 188097,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -4872,7 +5039,7 @@
       ]
     },
     {
-      "idSeance": 188052,
+      "idSeance": 188099,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -4912,7 +5079,7 @@
       ]
     },
     {
-      "idSeance": 187079,
+      "idSeance": 188098,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -4924,7 +5091,7 @@
       ],
       "idEvenement": 32000,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-11T19:00:00",
+      "dateHeure": "2025-05-11T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -5372,7 +5539,7 @@
       ]
     },
     {
-      "idSeance": 187166,
+      "idSeance": 188101,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -5953,7 +6120,7 @@
       ]
     },
     {
-      "idSeance": 186119,
+      "idSeance": 188091,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -5965,7 +6132,7 @@
       ],
       "idEvenement": 32038,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-05T15:45:00",
+      "dateHeure": "2025-03-20T16:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6262,7 +6429,7 @@
       ]
     },
     {
-      "idSeance": 185998,
+      "idSeance": 188089,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -6274,7 +6441,7 @@
       ],
       "idEvenement": 32048,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-02T20:30:00",
+      "dateHeure": "2025-03-13T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6358,7 +6525,7 @@
       ],
       "idEvenement": 32049,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-05T18:00:00",
+      "dateHeure": "2025-04-05T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7546,7 +7713,7 @@
       ]
     },
     {
-      "idSeance": 187770,
+      "idSeance": 188090,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -7558,7 +7725,7 @@
       ],
       "idEvenement": 32089,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-13T18:30:00",
+      "dateHeure": "2025-04-02T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7582,8 +7749,7 @@
           ],
           "idFilmBoxoffice": 766
         }
-      ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
+      ]
     },
     {
       "idSeance": 187818,
@@ -7951,7 +8117,8 @@
           ],
           "idFilmBoxoffice": 846
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 187811,
@@ -8049,7 +8216,7 @@
       ],
       "idEvenement": 32102,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-13T20:30:00",
+      "dateHeure": "2025-03-13T20:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -8162,7 +8329,7 @@
       ]
     },
     {
-      "idSeance": 187803,
+      "idSeance": 188092,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -8174,7 +8341,7 @@
       ],
       "idEvenement": 32104,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-20T17:30:00",
+      "dateHeure": "2025-04-05T15:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -8197,8 +8364,7 @@
           ],
           "idFilmBoxoffice": 137960
         }
-      ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
+      ]
     },
     {
       "idSeance": 187812,
@@ -9621,17 +9787,17 @@
               "selected": true
             },
             {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
-            },
-            {
               "idCopie": 29040,
               "duree": 95,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 92
@@ -9679,17 +9845,17 @@
               "selected": true
             },
             {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
-            },
-            {
               "idCopie": 29040,
               "duree": 95,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 92
@@ -9998,12 +10164,16 @@
               "idCopie": 29004,
               "duree": 95,
               "format": "35 mm",
+              "version": "VO",
+              "langCopie": "FRE",
               "selected": true
             },
             {
               "idCopie": 29005,
               "duree": 95,
-              "format": "35 mm"
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "FRE"
             },
             {
               "idCopie": 29006,
@@ -10827,7 +10997,7 @@
       ],
       "idEvenement": 32173,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-17T16:30:00",
+      "dateHeure": "2025-04-17T16:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -12239,7 +12409,7 @@
       ],
       "idEvenement": 32263,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-05T20:00:00",
+      "dateHeure": "2025-04-05T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -14078,6 +14248,610 @@
       ]
     },
     {
+      "idSeance": 185614,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32459,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-19T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 97033,
+          "titre": "Charlie et la chocolaterie",
+          "titreVo": "Charlie and the Chocolate Factory",
+          "realisateurs": "Tim Burton",
+          "annee": 2004,
+          "duree": 116,
+          "generique": "Johnny Depp, Freddie Highmore, David Kelly",
+          "adaptation": "D'après le roman _Charlie et la chocolaterie_ de Roald Dahl.",
+          "ageMinimal": 8,
+          "synopsis": "Les moyens de la famille de Charlie sont si limités que les occasions pour lui de manger du chocolat sont bien rares. Lorsqu'il découvre un ticket d'or dans une tablette, c'est un billet d'entrée inespéré pour l'usine de friandises du fantasque Willy Wonka.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 11202,
+              "duree": 116,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185803,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32460,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-26T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 137193,
+          "titre": "Un conte peut en cacher un autre",
+          "realisateurs": "Jakob Schuh, Jan Lachauer, Bin-Han To",
+          "annee": 2016,
+          "duree": 61,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29264,
+              "duree": 61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186137,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32461,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-06T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 60872,
+          "titre": "Matilda",
+          "realisateurs": "Danny DeVito",
+          "annee": 1996,
+          "duree": 98,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29302,
+              "duree": 98
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188107,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32462,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-09T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 61391,
+          "titre": "James et la pêche géante",
+          "titreVo": "James and the Giant Peach",
+          "realisateurs": "Henry Selick",
+          "annee": 1995,
+          "duree": 80,
+          "synopsis": "A bord d'une pêche géante entraînée par une nuée de mouettes, James entreprend un voyage enchanteur au-dessus de l'Atlantique. L'équipage de cet étrange véhicule n'est pas moins surprenant : un criquet pince-sans-rire, un mille-pattes vantard, une coccinelle maternelle, une araignée élégante, un ver de terre mélancolique et une luciole légèrement « allumée »...",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 543,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186326,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32463,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-13T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32707,
+          "titre": "Mécano de la General",
+          "art": "Le",
+          "titreVo": "General",
+          "artVo": "The",
+          "realisateurs": "Buster Keaton, Clyde Bruckman",
+          "annee": 1926,
+          "duree": 75,
+          "generique": "Buster Keaton, Marion Mack, Frank Barnes",
+          "adaptation": "D'après le récit _The Great Locomotive_ de William Pittenger.",
+          "ageMinimal": 6,
+          "synopsis": "Au début de la guerre de Sécession, Johnnie Gray est refusé dans l'armée sudiste. Lorsque sa fiancée Annabelle reste à bord d'une locomotive dérobée par les Nordistes, il se lance à la poursuite de la machine.",
+          "synopsisJP": "Amoureux de sa fiancée autant que de sa locomotive, le pacifique Johnnie Gray se retrouve, bien malgré lui, enrôlé dans la guerre de Sécession. Courses-poursuites sur les rails et batailles célèbres entre Sudistes et Nordistes, vues par le réalisateur burlesque et génial interprète au visage impassible, Buster Keaton.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 6377,
+              "duree": 75,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186515,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32464,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-20T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48037,
+          "titre": "Demoiselles de Rochefort",
+          "art": "Les",
+          "realisateurs": "Jacques Demy",
+          "annee": 1966,
+          "dureeStd": 120,
+          "duree": 120,
+          "generique": "Catherine Deneuve, Françoise Dorléac, Danielle Darrieux, Jacques Perrin, Gene Kelly",
+          "ageMinimal": 8,
+          "synopsis": "Deux sœurs jumelles qui enseignent l'une la danse, l'autre la musique, rencontrent l'une un peintre-poète qui fait son service militaire dans la marine, l'autre un marchand d'instuments de musique.",
+          "synopsisJP": "Delphine et Solange, sœurs jumelles pétillantes nées-sous-le-signe-des-Gémeaux, rêvent au grand amour. Couleurs éclatantes, casting de choix, morceaux légendaires de Michel Legrand illuminent la plus grande comédie musicale du cinéma français.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 780,
+              "duree": 120,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186559,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32465,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-23T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34670,
+          "titre": "Fievel et le nouveau monde",
+          "titreVo": "An American Tail",
+          "realisateurs": "Don Bluth",
+          "annee": 1986,
+          "duree": 80,
+          "ageMinimal": 6,
+          "synopsis": "La famille Souriskewitz embarque pour un monde sans chats, l'Amérique. Au cours de la traversée, Fievel est emporté par une tempête et échoue à New York. Pour pouvoir retrouver sa famille, il devra faire face aux dangers de ce nouveau pays, bien différent de ce qu'il avait imaginé.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29263,
+              "duree": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186704,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32466,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-27T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30069,
+          "titre": "Chantons sous la pluie",
+          "titreVo": "Singin' in the Rain",
+          "realisateurs": "Gene Kelly, Stanley Donen",
+          "annee": 1951,
+          "duree": 103,
+          "generique": "Gene Kelly, Donald O'Connor, Debbie Reynolds, Jean Hagen",
+          "ageMinimal": 10,
+          "synopsis": "Les studios de Hollywood à l'aube du parlant : techniciens, réalisateurs et acteurs ont bien du mal à s'adapter aux nouvelles conditions de tournage.",
+          "synopsisJP": "Deux stars du muet tournent leur premier film parlant. Couleurs explosives, chorégraphies pétillantes, claquettes sous la pluie, et un trio d'acteurs qui enchaîne les numéros dans la bonne humeur : la plus grande comédie musicale de tous les temps, qui célèbre Hollywood et la magie du cinéma.",
+          "commentaire": "Dans les années 1920, le parolier Arthur Freed et le compositeur Nacio Herb Brown écrivent des chansons pour des revues de music-hall, dont _Singin' in the Rain_. En 1939, Freed intègre le département musical de la MGM. La Freed Unit produit notamment, dans les années 1940, les grandes comédies musicales de Vincente Minnelli. En 1950, la MGM achète le répertoire de chansons « Freed et Brown », à partir duquel Arthur Freed souhaite produire une comédie musicale. _Make 'Em Laugh_ et _Moses_ seront les seules chansons écrites spécialement pour le film. Au printemps, il fait venir de New York les scénaristes Aldoph Green et Betty Comden. Le tandem vient d'adapter pour l'écran leur spectacle _On the Town_, tourné l'année précédente par le duo Stanley Donen et Gene Kelly, qui rejoint la production après la fin du tournage d'_Un Américain à Paris_. L'équipe va s'inspirer de personnages réels, et recueillir des témoignages contemporains de l'avènement du parlant, concordant avec l'époque des chansons.\n\nLes répétitions débutent en avril 1951, et le tournage se déroule de juin à novembre. La MGM a recours à ses propres archives pour reconstituer le studio de la Monumental Pictures et les équipements de l'époque. Mille cinq cents costumes sont créés pour le tournage en Technicolor. La très jeune Debbie Reynolds incarne Kathy Selden, qui, dans le film, double la voix de la star Lina Lamont, interprétée par Jean Hagen. Ironie de cette mise en abyme, c'est en réalité la voix chantée de Debbie Reynolds qui a été doublée à cause de l'accent de la jeune actrice...\n\nMarion Langlois",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 13653,
+              "duree": 103,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186937,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32467,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-07T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 99842,
+          "titre": "Azur et Asmar",
+          "realisateurs": "Michel Ocelot",
+          "annee": 2006,
+          "duree": 90,
+          "ageMinimal": 6,
+          "synopsis": "Il était une fois Azur, le fils du châtelain, et Asmar, le fils de la nourrice. Élevés ensemble, ils sont pourtant séparés et doivent même se défier car ils partagent le même rêve : épouser la fée des djinns.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 10906,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187082,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32468,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-11T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51579,
+          "titre": "Quatre cents coups",
+          "art": "Les",
+          "realisateurs": "François Truffaut",
+          "annee": 1959,
+          "duree": 93,
+          "generique": "Jean-Pierre Léaud, Patrick Auffay, Claire Maurier",
+          "ageMinimal": 8,
+          "synopsis": "Paris, place de Clichy, années 1950. Le turbulent Antoine Doinel sèche l'école pour traîner avec son camarade René dans les rues et les cinéma du quartier.",
+          "commentaire": "« Où ai-je trouvé le nom d'Antoine Doinel ? J'ai pensé d'abord me rapprocher d'un nom qui me plaisait beaucoup à l'oreille, celui d'Étienne Loinod, collaborateur des _Cahiers du cinéma_ (en réalité le pseudonyme anagramme de Jacques Doniol-Valcroze). J'ai cru sincèrement inventer le nom d'Antoine Doinel jusqu'au jour où quelqu'un m'a fait remarquer que j'avais simplement emprunté celui de la secrétaire de Jean Renoir, Ginette Doinel ! C'est justement Jean Renoir qui m'a appris que l'acteur jouant un personnage est plus important que ce personnage, ou si l'on préfère, qu'il faut toujours sacrifier l'abstrait au concret. Rien d'étonnant donc si Antoine Doinel s'est, dès le premier jour de tournage des _Quatre cents coups_, éloigné de moi pour se rapprocher de Jean-Pierre Léaud. » (François Truffaut)",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 5007,
+              "duree": 93,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188127,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32469,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-21T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 109176,
+          "titre": "Panda, petit panda",
+          "titreVo": "Panda kopanda",
+          "titreNx": "パンダ・コパンダ",
+          "realisateurs": "Isao Takahata",
+          "annee": 1973,
+          "ageMinimal": 3,
+          "synopsis": "Deux aventures d'une petite fille orpheline qui fait l'étrange rencontre d'un panda et de son fils. Tous trois recomposent une drôle de famille. _Un film tout rond et tout doux où l'on s'amuse beaucoup grâce à l'optimisme de la petite fille._",
+          "status": 1,
+          "idFilmBoxoffice": 140987
+        }
+      ]
+    },
+    {
+      "idSeance": 188128,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32471,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-14T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50401,
+          "titre": "Grande vadrouille",
+          "art": "La",
+          "realisateurs": "Gérard Oury",
+          "annee": 1966,
+          "duree": 122,
+          "generique": "Louis de Funès, Bourvil, Marie Dubois, Terry-Thomas",
+          "synopsis": "1942 : trois officiers d'un bombardier anglais abattu par les Allemands au-dessus de Paris occupée sautent en parachute et atterrissent en différents endroits de la capitale. Ils sont cachés par deux civils français, qui n'ont d'autre choix que de les mener en zone libre.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20261,
+              "duree": 122,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187460,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32471,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-25T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50401,
+          "titre": "Grande vadrouille",
+          "art": "La",
+          "realisateurs": "Gérard Oury",
+          "annee": 1966,
+          "duree": 122,
+          "generique": "Louis de Funès, Bourvil, Marie Dubois, Terry-Thomas",
+          "synopsis": "1942 : trois officiers d'un bombardier anglais abattu par les Allemands au-dessus de Paris occupée sautent en parachute et atterrissent en différents endroits de la capitale. Ils sont cachés par deux civils français, qui n'ont d'autre choix que de les mener en zone libre.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20261,
+              "duree": 122,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186893,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32472,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-04T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 77799,
+          "titre": "Monstres et Cie",
+          "titreVo": "Monsters, Inc.",
+          "realisateurs": "Pete Docter, David Silverman, Lee Unkrich",
+          "annee": 2001,
+          "duree": 92,
+          "ageMinimal": 4,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 11712,
+              "duree": 92,
+              "format": "DCP",
+              "version": "VF",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188105,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32473,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-12T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45203,
+          "titre": "Cent un dalmatiens",
+          "art": "Les",
+          "titreVo": "One Hundred and One Dalmatians",
+          "artVo": "The",
+          "realisateurs": "Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman",
+          "annee": 1960,
+          "duree": 80,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29262,
+              "duree": 80,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185570,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32473,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-16T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45203,
+          "titre": "Cent un dalmatiens",
+          "art": "Les",
+          "titreVo": "One Hundred and One Dalmatians",
+          "artVo": "The",
+          "realisateurs": "Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman",
+          "annee": 1960,
+          "duree": 80,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29262,
+              "duree": 80,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 185758,
       "idProg": 334,
       "idCycleCategories": [
@@ -14224,6 +14998,319 @@
           "ordre": 1
         }
       ]
+    },
+    {
+      "idSeance": 185948,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32496,
+      "typeEvenement": 13,
+      "libelleEvenement": "LILA LUMIÈRE VIVE LE PRINTEMPS",
+      "dateHeure": "2025-03-30T15:00:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 185992,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32496,
+      "typeEvenement": 13,
+      "libelleEvenement": "LILA LUMIÈRE VIVE LE PRINTEMPS",
+      "dateHeure": "2025-04-02T15:00:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 186748,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32497,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-30T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37342,
+          "titre": "Charlot au music-hall",
+          "titreVo": "A Night in the Show",
+          "realisateurs": "Charles Chaplin",
+          "annee": 1915,
+          "generique": "Charles Chaplin, Edna Purviance, Leo White, John Rand",
+          "ageMinimal": 6,
+          "synopsis": "Une soirée au cabaret avec Charlot dans le rôle du trouble-fête. Adapté du numéro que faisait Chaplin durant ses années de vaudeville, ce film est un torrent de rires et se termine en véritable pugilat pour les malheureux artistes présents sur scène.",
+          "status": 2
+        },
+        {
+          "ordre": 2,
+          "idFilm": 31221,
+          "titre": "Charlot et le comte",
+          "titreVo": "Count",
+          "artVo": "The",
+          "realisateurs": "Charles Chaplin",
+          "annee": 1916,
+          "synopsis": "Êtes-vous sûrs de toujours reconnaître Charlot ? Même sans sa moustache, lorsqu'il se déguise en jeune fille ou quand il se fait passer pour un riche aristocrate ?",
+          "status": 0
+        },
+        {
+          "ordre": 3,
+          "idFilm": 36411,
+          "titre": "Charlot fait une cure",
+          "titreVo": "Cure",
+          "artVo": "The",
+          "realisateurs": "Charles Chaplin",
+          "annee": 1917,
+          "generique": "Charles Chaplin, Edna Purviance",
+          "ageMinimal": 6,
+          "status": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 186370,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32498,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-16T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 125654,
+          "titre": "Souvenirs de Marnie",
+          "titreVo": "Omoide no Mânî",
+          "realisateurs": "Hiromasa Yonebayashi",
+          "annee": 2014,
+          "adaptation": "D'après le roman _When Marnie was there_ de Joan G. Robinson.",
+          "ageMinimal": 7,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 185772,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3727,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Paul Nouhet"
+        }
+      ],
+      "idEvenement": 32501,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-24T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155112,
+          "titre": "Méduses de Gouville",
+          "art": "Les",
+          "realisateurs": "Paul Nouhet",
+          "annee": 2018,
+          "duree": 21,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29304,
+              "duree": 21,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 155111,
+          "titre": "Camille sans contact",
+          "realisateurs": "Paul Nouhet",
+          "annee": 2020,
+          "duree": 15,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29305,
+              "duree": 15,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 155110,
+          "titre": "Salut les zins!",
+          "realisateurs": "Paul Nouhet",
+          "annee": 2023,
+          "duree": 46,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29306,
+              "duree": 46,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185961,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3728,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Antonin Peretjatko"
+        }
+      ],
+      "idEvenement": 32503,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-31T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155113,
+          "titre": "Voyage au bord de la guerre",
+          "realisateurs": "Antonin Peretjatko",
+          "annee": 2024,
+          "duree": 62,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29307,
+              "duree": 62,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187271,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32504,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-18T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 58010,
+          "titre": "Robin des Bois",
+          "titreVo": "Robin Hood",
+          "realisateurs": "Wolfgang Reitherman",
+          "annee": 1970,
+          "duree": 83,
+          "generique": "Dominique Paturel, Claude Bertrand, Philippe Dumat",
+          "ageMinimal": 4,
+          "synopsis": "En l'absence du souverain Richard Cœur de Lion parti en croisades, le Prince Jean règne en tyran sur le royaume. Alors, comme les Gaulois menés par Astérix et Obélix, Robin des Bois et ses amis mènent la résistance en détroussant les convoyeurs d'impôts et en défendant les pauvres contre les injustices.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 12598,
+              "duree": 83,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 187473,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3729,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Yannick Muller"
+        }
+      ],
+      "idEvenement": 32505,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-26T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155114,
+          "titre": "Malo fait du vélo",
+          "realisateurs": "Yannick Muller",
+          "annee": 2024,
+          "duree": 18,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29308,
+              "duree": 18,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 186150,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3729,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Yannick Muller"
+        }
+      ],
+      "idEvenement": 32506,
+      "typeEvenement": 13,
+      "libelleEvenement": "JEUNE CINÉMA BRÉSILIEN (EN ASSOCIATION AVEC LE FESTIVAL REGARDS SATELLITES)",
+      "dateHeure": "2025-04-07T19:00:00",
+      "idSalle": "JE",
+      "theorique": true,
+      "items": []
     }
   ]
 }
