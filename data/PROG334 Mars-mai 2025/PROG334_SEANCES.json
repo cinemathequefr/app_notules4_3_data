@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-27T16:29:57.460Z",
+  "updatedAt": "2024-11-28T09:37:14.036Z",
   "data": [
     {
       "idSeance": 186263,
@@ -3326,9 +3326,24 @@
           "titreVo": "I Want to Live!",
           "realisateurs": "Robert Wise",
           "annee": 1958,
+          "duree": 120,
           "generique": "Susan Hayward, Simon Oakland, Virginia Vincent",
           "miniTexte": "Le long combat d'une femme, condamnée pour meurtre sans preuves formelles, en attente de son exécution. Basé sur une affaire ayant bouleversé les États-Unis, _Je veux vivre_ dénonce la peine de mort et les dysfonctionnements du système judiciaire américain dans un drame émouvant. Avec un Oscar de la meilleure actrice à la clé pour l'interprétation magistrale de Susan Hayward, tout en force et sobriété.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 28988,
+              "duree": 120,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29293,
+              "duree": 120
+            }
+          ],
           "idFilmBoxoffice": 20085
         }
       ]
@@ -3356,9 +3371,24 @@
           "titreVo": "I Want to Live!",
           "realisateurs": "Robert Wise",
           "annee": 1958,
+          "duree": 120,
           "generique": "Susan Hayward, Simon Oakland, Virginia Vincent",
           "miniTexte": "Le long combat d'une femme, condamnée pour meurtre sans preuves formelles, en attente de son exécution. Basé sur une affaire ayant bouleversé les États-Unis, _Je veux vivre_ dénonce la peine de mort et les dysfonctionnements du système judiciaire américain dans un drame émouvant. Avec un Oscar de la meilleure actrice à la clé pour l'interprétation magistrale de Susan Hayward, tout en force et sobriété.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 28988,
+              "duree": 120,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29293,
+              "duree": 120
+            }
+          ],
           "idFilmBoxoffice": 20085
         }
       ]
@@ -3911,6 +3941,14 @@
           "generique": "John Forsythe, Joan Camden, Harold J. Kennedy",
           "miniTexte": "Alors que des gangsters sont à ses trousses, un couple trouve refuge dans un commissariat et commence à raconter son histoire. Inspiré de faits réels et mâtiné de jazz, _La Ville captive_ s'impose comme un sombre portrait de la corruption, au scénario dense et complexe, qui mêle intrigues politiques, enquêtes journalistiques et tensions sociales.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29292,
+              "duree": 0,
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
           "idFilmBoxoffice": 92923
         }
       ]
@@ -4151,10 +4189,24 @@
           "titre": "Audrey Rose",
           "realisateurs": "Robert Wise",
           "annee": 1976,
+          "duree": 113,
           "generique": "Anthony Hopkins, Marsha Mason, John Beck",
           "adaptation": "D'après le roman _Audrey Rose_ de Frank De Felitta.",
           "miniTexte": "Persuadé que sa fille décédée s'est réincarnée dans le corps d'une autre, un père de famille tente, par tous les moyens, de convaincre les parents de l'enfant. Pas à pas, Wise construit un film surprenant, dont l'atmosphère pesante et mystérieuse bascule progressivement du drame au thriller. Avec un travail raffiné sur la lumière et le montage, il interroge l'inexplicable et joue avec nos croyances pour mettre en scène la puissance des liens familiaux. En homme désorienté par la souffrance, Anthony Hopkins livre une prestation captivante, en équilibre instable entre l'angoisse sourde et l'émotion sincère.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29289,
+              "duree": 113,
+              "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29290,
+              "duree": 113
+            }
+          ],
           "idFilmBoxoffice": 18465
         }
       ]
@@ -4182,10 +4234,28 @@
           "titreVo": "So Big",
           "realisateurs": "Robert Wise",
           "annee": 1953,
+          "duree": 101,
           "generique": "Jane Wyman, Sterling Hayden, Nancy Olson",
           "adaptation": "D'après le roman _So Big_ d'Edna Ferber.",
           "miniTexte": "Une jeune veuve consent à tous les sacrifices pour son fils unique. Wise adapte fidèlement le roman d'Edna Ferber dans un drame familial sur une mère courage, attachée à l'éducation de son enfant. Nuancée et émouvante, l'interprétation remarquable de Jane Wyman sublime la force d'une femme confrontée aux défis de la maternité en solitaire.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29300,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29299,
+              "duree": 101,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
           "idFilmBoxoffice": 48653
         }
       ]
@@ -4392,10 +4462,34 @@
           "artVo": "The",
           "realisateurs": "Robert Wise",
           "annee": 1948,
+          "duree": 72,
           "generique": "Robert Ryan, Audrey Totter, George Tobias",
           "adaptation": "D'après le poème _The Set-up_ de Joseph Moncure March.",
           "miniTexte": "Triompher dans la chute pourrait être la morale de _Nous avons gagné ce soir_, film noir à la frontière du documentaire sur le dernier round d'un boxeur en fin de carrière. Tourné en temps réel, il dénonce l'envers de la boxe, l'accumulation de combats truqués par de petits escrocs et le sadisme du public. Dans cette vision d'une société aliénée, Wise filme, avec un noir et blanc rugueux, l'énergie du désespoir d'un champion raté qui veut échapper à sa destinée (Robert Ryan, extraordinaire). Un uppercut sec et sans fioritures à la violence flamboyante.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29287,
+              "duree": 72,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29285,
+              "duree": 72,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            },
+            {
+              "idCopie": 29284,
+              "duree": 72,
+              "format": "16 mm",
+              "version": "VO"
+            }
+          ],
           "idFilmBoxoffice": 945
         }
       ],
@@ -4425,10 +4519,34 @@
           "artVo": "The",
           "realisateurs": "Robert Wise",
           "annee": 1948,
+          "duree": 72,
           "generique": "Robert Ryan, Audrey Totter, George Tobias",
           "adaptation": "D'après le poème _The Set-up_ de Joseph Moncure March.",
           "miniTexte": "Triompher dans la chute pourrait être la morale de _Nous avons gagné ce soir_, film noir à la frontière du documentaire sur le dernier round d'un boxeur en fin de carrière. Tourné en temps réel, il dénonce l'envers de la boxe, l'accumulation de combats truqués par de petits escrocs et le sadisme du public. Dans cette vision d'une société aliénée, Wise filme, avec un noir et blanc rugueux, l'énergie du désespoir d'un champion raté qui veut échapper à sa destinée (Robert Ryan, extraordinaire). Un uppercut sec et sans fioritures à la violence flamboyante.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29287,
+              "duree": 72,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29285,
+              "duree": 72,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            },
+            {
+              "idCopie": 29284,
+              "duree": 72,
+              "format": "16 mm",
+              "version": "VO"
+            }
+          ],
           "idFilmBoxoffice": 945
         }
       ]
@@ -4602,9 +4720,18 @@
           "titreVo": "Two Flags West",
           "realisateurs": "Robert Wise",
           "annee": 1950,
+          "duree": 92,
           "generique": "Joseph Cotten, Linda Darnell, Jeff Chandler",
           "miniTexte": "Des prisonniers sudistes sont enrôlés dans l'armée de l'Union pour combattre les Indiens. Sur fond de guerre de Sécession et de chevauchées dans le désert, le portrait d'hommes face à la guerre, confrontés à leurs idéaux. Un western singulier, qui entrecroise les notions de loyauté, de vengeance et de rédemption.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29291,
+              "duree": 92,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ],
           "idFilmBoxoffice": 108891
         }
       ]
@@ -4767,9 +4894,19 @@
           "titreVo": "Three Secrets",
           "realisateurs": "Robert Wise",
           "annee": 1950,
+          "duree": 98,
           "generique": "Eleanor Parker, Patricia Neal, Ruth Roman",
           "miniTexte": "Seul survivant d'un accident d'avion dans lequel il a perdu ses parents, un petit garçon découvre qu'il a été adopté. Alors que trois femmes différentes pourraient être la mère de l'enfant, Wise crée une structure en triple flashback, qui privilégie le suspense au pathos et offre des partitions sensibles à son trio d'actrices.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29294,
+              "duree": 98,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
           "idFilmBoxoffice": 108894
         }
       ]
@@ -4796,9 +4933,26 @@
           "titre": "Something for the Birds",
           "realisateurs": "Robert Wise",
           "annee": 1952,
+          "duree": 81,
           "generique": "Victor Mature, Patricia Neal, Edmund Gwenn",
           "miniTexte": "Membre d'une société de protection des condors, une jeune femme cherche de l'aide à Washington pour sauver l'espèce. Wise joue la carte de la romance entre un lobbyiste sans scrupules et une idéaliste entêtée (le charmant duo Victor Mature / Patricia Neal) dans sa première comédie satirique, qui rappelle _Mr Smith au Sénat_.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29295,
+              "duree": 81,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29296,
+              "duree": 81,
+              "format": "16 mm",
+              "version": "VO"
+            }
+          ],
           "idFilmBoxoffice": 108889
         }
       ]
@@ -4829,6 +4983,15 @@
           "generique": "Paul Newman, Pier Angeli, Everett Sloane",
           "miniTexte": "La vie mouvementée du boxeur champion du monde des poids moyens en 1947, Rocky Graziano. Appelé pour remplacer James Dean au pied levé, Paul Newman s'empare brillamment du rôle, portrait poignant d'un mauvais garçon aux encombrants démons intérieurs. Un film de boxe intense, qui inspirera Stallone pour _Rocky_.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 26746,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 6569
         }
       ]
@@ -4859,6 +5022,15 @@
           "generique": "Paul Newman, Pier Angeli, Everett Sloane",
           "miniTexte": "La vie mouvementée du boxeur champion du monde des poids moyens en 1947, Rocky Graziano. Appelé pour remplacer James Dean au pied levé, Paul Newman s'empare brillamment du rôle, portrait poignant d'un mauvais garçon aux encombrants démons intérieurs. Un film de boxe intense, qui inspirera Stallone pour _Rocky_.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 26746,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 6569
         }
       ]
@@ -5223,9 +5395,16 @@
           "titreVo": "Curse of the Cat People",
           "realisateurs": "Gunther V. Fritsch, Robert Wise",
           "annee": 1943,
+          "duree": 70,
           "generique": "Simone Simon, Kent Smith, Jane Randolph",
           "miniTexte": "Le premier film de Wise, coréalisé avec Gunther von Fritsch, reconnu comme une suite spirituelle de _La Féline_. Onirisme et poésie se rencontrent pour examiner les rêves d'une enfant enfermée dans sa solitude. Sur la bande-son de Roy Webb, un conte gothique psychologique se déploie comme la délicate mise en scène des peurs infantiles et des tensions familiales.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29298,
+              "duree": 70
+            }
+          ],
           "idFilmBoxoffice": 11121
         }
       ]
@@ -5254,9 +5433,16 @@
           "titreVo": "Curse of the Cat People",
           "realisateurs": "Gunther V. Fritsch, Robert Wise",
           "annee": 1943,
+          "duree": 70,
           "generique": "Simone Simon, Kent Smith, Jane Randolph",
           "miniTexte": "Le premier film de Wise, coréalisé avec Gunther von Fritsch, reconnu comme une suite spirituelle de _La Féline_. Onirisme et poésie se rencontrent pour examiner les rêves d'une enfant enfermée dans sa solitude. Sur la bande-son de Roy Webb, un conte gothique psychologique se déploie comme la délicate mise en scène des peurs infantiles et des tensions familiales.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29298,
+              "duree": 70
+            }
+          ],
           "idFilmBoxoffice": 11121
         }
       ]
@@ -8924,7 +9110,7 @@
           "annee": 1982,
           "duree": 91,
           "generique": "Meryl Streep, Roy Scheider, Jessica Tandy",
-          "miniTexte": "Un antiquaire égorgé, une assistante suspecte et un psy qui mène l'enquête, dans un polar trouble sur fond de psychanalyse. Le spectateur arpente les dédales d'un labyrinthe où s'affrontent à chaque croisement Eros et Thanatos. Robert Benton marche allègrement dans les pas d'Alfred Hitchcock, et sonde la dimension voyeuriste de l'analyse, comme de la mise en scène.",
+          "miniTexte": "Un antiquaire égorgé, une assistante suspecte et un psy qui mène l'enquête, dans un polar trouble sur fond de psychanalyse. Le spectateur arpente les dédales d'un labyrinthe où s'affrontent à chaque croisement Eros et Thanatos. Robert Benton rend hommage à Alfred Hitchcock, et sonde la dimension voyeuriste de l'analyse, comme de la mise en scène.",
           "status": 2,
           "copies": [
             {
@@ -9435,17 +9621,17 @@
               "selected": true
             },
             {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
+            },
+            {
               "idCopie": 29040,
               "duree": 95,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 92
@@ -9493,17 +9679,17 @@
               "selected": true
             },
             {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
+            },
+            {
               "idCopie": 29040,
               "duree": 95,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 92
