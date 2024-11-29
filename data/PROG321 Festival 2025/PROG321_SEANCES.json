@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-29T13:47:16.373Z",
+  "updatedAt": "2024-11-29T16:04:24.289Z",
   "data": [
     {
       "idSeance": 185292,
@@ -131,6 +131,128 @@
             }
           ],
           "idFilmBoxoffice": 3866
+        }
+      ]
+    },
+    {
+      "idSeance": 185235,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 980,
+          "idCategorie": 3683,
+          "titreCycle": "Marleen Gorris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32228,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-07T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 114386,
+          "titre": "Miroirs brisés",
+          "titreVo": "Gebroken spiegels",
+          "realisateurs": "Marleen Gorris",
+          "annee": 1984,
+          "duree": 110,
+          "generique": "Lineke Rijxman, Henriëtte Tol",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29028,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188141,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 979,
+          "idCategorie": 3682,
+          "titreCycle": "Henry Fonda",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32231,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-06T14:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32400,
+          "titre": "Vers sa destinée",
+          "titreVo": "Young Mr Lincoln",
+          "realisateurs": "John Ford",
+          "annee": 1939,
+          "duree": 101,
+          "generique": "Henry Fonda, Alice Brady, Marjorie Weaver",
+          "synopsis": "À la mort de la femme qu'il aimait, le jeune Abraham Lincoln décide d'aller à Springfield pour y apprendre le droit. Il exerce en tant qu'avocat dans un cabinet depuis quelques temps lorsqu'un assassinat se produit le jour de la fête de l'indépendance.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 3815,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 5473,
+              "duree": 101,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188138,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 979,
+          "idCategorie": 3682,
+          "titreCycle": "Henry Fonda",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32232,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-07T18:00:00",
+      "idSalle": "LE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155046,
+          "titre": "Henry Fonda for President",
+          "realisateurs": "Alexander Horwath",
+          "annee": 2024,
+          "duree": 184,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29303,
+              "duree": 184,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
         }
       ]
     },
@@ -309,6 +431,46 @@
       ]
     },
     {
+      "idSeance": 185277,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32311,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-08T14:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66215,
+          "titre": "Trois sublimes canailles",
+          "titreVo": "Three Bad Men",
+          "realisateurs": "John Ford",
+          "annee": 1925,
+          "duree": 92,
+          "generique": "George O'Brien, Olive Borden, J. Farrell MacDonald",
+          "adaptation": "D'après l'histoire _Over the border_ de Herman Whitaker.",
+          "synopsis": "À la suite de la ruée vers la terre au Dakota en 1876, trois hors-la-loi sympathiques vont mettre fin aux agissements d'un shérif peu respectueux de la loi.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29135,
+              "duree": 92,
+              "format": "DCP",
+              "intertitres": "INT. ANG.",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 185191,
       "idProg": 321,
       "idCycleCategories": [
@@ -345,6 +507,43 @@
       ]
     },
     {
+      "idSeance": 185188,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 984,
+          "idCategorie": 3692,
+          "titreCycle": "Hommage au KOFA",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32321,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-06T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155064,
+          "titre": "Art de la Chasteté",
+          "art": "L'",
+          "titreVo": "Bound by Chastity Rules",
+          "realisateurs": "Sang-ok Shin",
+          "annee": 1962,
+          "duree": 141,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29171,
+              "duree": 141,
+              "format": "DCP",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 185291,
       "idProg": 321,
       "idCycleCategories": [
@@ -375,6 +574,164 @@
               "duree": 104,
               "format": "35 mm",
               "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185279,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 987,
+          "idCategorie": 3709,
+          "titreCycle": "Susan Seidelman",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32386,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-08T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36728,
+          "titre": "Smithereens",
+          "realisateurs": "Susan Seidelman",
+          "annee": 1980,
+          "duree": 89,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29278,
+              "duree": 89,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185157,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 987,
+          "idCategorie": 3709,
+          "titreCycle": "Susan Seidelman",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32387,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-07T18:15:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36706,
+          "titre": "Diable",
+          "art": "La",
+          "titreVo": "She-Devil",
+          "realisateurs": "Susan Seidelman",
+          "annee": 1989,
+          "duree": 104,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29220,
+              "duree": 104,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29221,
+              "duree": 104,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188142,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 990,
+          "idCategorie": 3712,
+          "titreCycle": "Pedro Costa",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32391,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-08T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 29129,
+          "titre": "Ossos",
+          "realisateurs": "Pedro Costa",
+          "annee": 1997,
+          "duree": 94,
+          "generique": "Vanda Duarte, Nuno Vaz",
+          "synopsis": "L'errance dramatique d'un jeune couple et d'un bébé dans les rues d'un quartier pauvre de Lisbonne.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29318,
+              "duree": 94,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185234,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32432,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-07T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44903,
+          "titre": "Faust",
+          "titreVo": "Faust – Eine deutsche Volkssage",
+          "realisateurs": "Friedrich Wilhelm Murnau",
+          "annee": 1926,
+          "duree": 107,
+          "generique": "Gösta Ekman, Emil Jannings, Camilla Horn",
+          "adaptation": "D'après la pièce _Faust_ de Johann Wolfgang von Goethe.",
+          "synopsis": "Après avoir semé la peste, Méphisto propose un pacte à Faust.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29222,
+              "duree": 107,
+              "format": "DCP",
+              "intertitres": "INT. FR."
             }
           ]
         }
