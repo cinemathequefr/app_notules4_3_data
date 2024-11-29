@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-29T11:40:49.065Z",
+  "updatedAt": "2024-11-29T13:47:12.529Z",
   "data": [
     {
       "idSeance": 188129,
@@ -5618,7 +5618,11 @@
           "copies": [
             {
               "idCopie": 29039,
-              "duree": 82
+              "duree": 82,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 2623
@@ -13436,7 +13440,7 @@
       "items": [
         {
           "idConf": 32381,
-          "titre": "CONFÉRENCE LUBITSCH",
+          "titre": "LUBITSCH AU TRAVAIL (À HOLLYWOOD)",
           "typeConference": "Conférence",
           "duree": 90,
           "ordre": 1
@@ -13463,7 +13467,7 @@
       "items": [
         {
           "idConf": 32397,
-          "titre": "FILM + DIALOGUE LUBITSCH",
+          "titre": "FILM + DIALOGUE AVEC CHARLOTTE GARSON",
           "typeConference": "Dialogue",
           "duree": 60,
           "ordre": 1

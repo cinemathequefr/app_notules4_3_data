@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-29T11:35:55.100Z",
+  "updatedAt": "2024-11-29T13:47:16.373Z",
   "data": [
     {
       "idSeance": 185292,
@@ -42,6 +42,50 @@
             }
           ],
           "idFilmBoxoffice": 5168
+        }
+      ]
+    },
+    {
+      "idSeance": 185229,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31800,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-07T14:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42451,
+          "titre": "Nuit",
+          "art": "La",
+          "titreVo": "Notte",
+          "artVo": "La",
+          "realisateurs": "Michelangelo Antonioni",
+          "annee": 1960,
+          "duree": 122,
+          "generique": "Marcello Mastroianni, Jeanne Moreau, Monica Vitti",
+          "synopsis": "Les dernières heures vécues ensemble d'un couple d'intellectuels bourgeois, lors d'une soirée mondaine.",
+          "miniTexte": "En filmant le vide, l'ennui, Antonioni met en scène la destruction annoncée d'un couple et file la métaphore d'un urbanisme hostile pour figurer la fragilité des sentiments. Avec Mastroianni, le cinéaste amorce l'érosion de l'idéal mâle italien, et fait de Jeanne Moreau une égérie de la résignation. Ours d'or à Berlin.",
+          "commentaire": "Antonioni met en scène la destruction annoncée d'un couple, file la métaphore d'un urbanisme hostile pour figurer la fragilité des sentiments, amorce avec Mastroianni l'érosion de l'idéal mâle italien, et fait de Jeanne Moreau une égérie de la résignation. Il filme le vide, l'ennui, et invente une nouvelle forme qui à elle seule fait vaciller l'édifice du néoréalisme, et lui vaudra l'Ours d'or à Berlin.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28878,
+              "duree": 122,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ITA"
+            }
+          ],
+          "idFilmBoxoffice": 675
         }
       ]
     },
@@ -150,6 +194,69 @@
       ]
     },
     {
+      "idSeance": 185230,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 982,
+          "idCategorie": 3689,
+          "titreCycle": "John McTiernan",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32289,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-07T16:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33665,
+          "titre": "Piège de cristal",
+          "titreVo": "Die Hard",
+          "realisateurs": "John McTiernan",
+          "annee": 1987,
+          "duree": 132,
+          "generique": "Bruce Willis, Alan Rickman, Alexander Godunov",
+          "adaptation": "D'après le roman _Nothing Lasts Forever_ de Roderick Thorp.",
+          "synopsis": "John McLane, policier de New York, rejoint sa femme dont il est séparé à Los Angeles pour Noël. Espérant une réconciliation, il se rend à la fête organisée par la multinationale où elle travaille. Un commando prend bientôt l'immeuble d'assaut.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 5352,
+              "duree": 132,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 4941,
+              "duree": 132,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 4942,
+              "duree": 132,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 4943,
+              "duree": 132,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 185275,
       "idProg": 321,
       "idCycleCategories": [
@@ -214,7 +321,7 @@
       ],
       "idEvenement": 32315,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T18:00:00",
+      "dateHeure": "2025-03-06T19:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -286,7 +393,7 @@
       ],
       "idEvenement": 32492,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-07T18:00:00",
+      "dateHeure": "2025-03-07T19:30:00",
       "idSalle": "HL",
       "items": [
         {
