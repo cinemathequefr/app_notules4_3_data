@@ -1,0 +1,320 @@
+{
+  "updatedAt": "2024-11-29T11:35:55.100Z",
+  "data": [
+    {
+      "idSeance": 185292,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31799,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-08T17:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45920,
+          "titre": "Prisonnière du désert",
+          "art": "La",
+          "titreVo": "Searchers",
+          "artVo": "The",
+          "realisateurs": "John Ford",
+          "annee": 1955,
+          "duree": 119,
+          "generique": "John Wayne, Jeffrey Hunter, Vera Miles",
+          "adaptation": "D'après le roman _The Searchers_ d'Alan Le May.",
+          "ageMinimal": 9,
+          "synopsis": "En 1868, au Texas, des Comanches attaquent la famille d'Aaron Edwards. Lorsque son frère découvre le massacre et comprend que ses deux nièces ont été enlevées par les Indiens, il part à leur recherche.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28877,
+              "duree": 119,
+              "format": "70 mm",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 5168
+        }
+      ]
+    },
+    {
+      "idSeance": 185294,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31804,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-09T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37023,
+          "titre": "Vent",
+          "art": "Le",
+          "titreVo": "Wind",
+          "artVo": "The",
+          "realisateurs": "Victor Sjöström",
+          "annee": 1928,
+          "dureeStd": 85,
+          "duree": 72,
+          "generique": "Lillian Gish, Lars Hanson, Montagu Love",
+          "adaptation": "D'après le roman _The Wind_ de Dorothy Scarborough.",
+          "synopsis": "Venue s'installer dans un désert reculé, une jeune femme épouse un cow-boy.",
+          "commentaire": "« Étrange film qui est très éloigné du romanesque des films de Hollywood, tout proche des thèmes de Pabst, du naturalisme implacable, du sens de la nature des Nordiques et de la complexité de sujets auxquels seule la littérature nous avait habitués jusqu'alors. _Le Vent_ est une alliance admirable de toutes les qualités du cinéma suédois et du meilleur du cinéma américain. Lars Hanson y côtoie Lillian Gish et le cheval fantôme des Rocheuses y évoque sans cesse les rennes fous de Stiller. » (Henri Langlois)",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28882,
+              "duree": 72,
+              "format": "DCP",
+              "intertitres": "INT. ANG.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 3866
+        }
+      ]
+    },
+    {
+      "idSeance": 185154,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 982,
+          "idCategorie": 3689,
+          "titreCycle": "John McTiernan",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32288,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33663,
+          "titre": "Last Action Hero",
+          "realisateurs": "John McTiernan",
+          "annee": 1992,
+          "duree": 131,
+          "generique": "Arnold Schwarzenegger, F. Murray Abraham, Art Carney",
+          "ageMinimal": 10,
+          "synopsis": "Le jeune Danny Madigan est un grand fan d'Arnold Schwarzenegger et de sa série des _Jack Slater_. Un jour, un projectionniste lui offre un ticket magique qui le transporte dans l'univers de la fiction.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 4939,
+              "duree": 131,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 4940,
+              "duree": 131,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 9919,
+              "duree": 131,
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 29282,
+              "duree": 131,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185275,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 982,
+          "idCategorie": 3689,
+          "titreCycle": "John McTiernan",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32290,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-08T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33562,
+          "titre": "Predator",
+          "realisateurs": "John McTiernan",
+          "annee": 1986,
+          "duree": 106,
+          "generique": "Arnold Schwarzenegger, Carl Weathers, Elpidia Carrillo",
+          "synopsis": "Les membres d'un commando en mission dans la jungle d'Amérique Centrale deviennent les proies d'un guerrier extra-terrestre.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 4944,
+              "duree": 106,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 4945,
+              "duree": 107,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 29283,
+              "duree": 107,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185191,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32315,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-06T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 75413,
+          "titre": "Sur mes lèvres",
+          "realisateurs": "Jacques Audiard",
+          "annee": 2001,
+          "duree": 115,
+          "generique": "Vincent Cassel, Emmanuelle Devos, Olivier Gourmet",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29139,
+              "duree": 115,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185291,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 987,
+          "idCategorie": 3709,
+          "titreCycle": "Susan Seidelman",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32385,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-08T14:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36654,
+          "titre": "Recherche Susan désespérément",
+          "titreVo": "Desperately Seeking Susan",
+          "realisateurs": "Susan Seidelman",
+          "annee": 1984,
+          "duree": 104,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29217,
+              "duree": 104,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185231,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 982,
+          "idCategorie": 3689,
+          "titreCycle": "John McTiernan",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32492,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-07T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 64913,
+          "titre": "Thomas Crown",
+          "titreVo": "Thomas Crown Affair",
+          "artVo": "The",
+          "realisateurs": "John McTiernan",
+          "annee": 1999,
+          "duree": 105,
+          "generique": "Pierce Brosnan, Rene Russo, Denis Leary",
+          "synopsis": "Thomas Crown, amateur d'art, riche mécène, vole un tableau de Monet dans un grand musée new-yorkais. Catherine Banning, chasseuse de primes pour la compagnie assurant le tableau, le suspecte immédiatement.",
+          "miniTexte": "Le remake de la version avec Steve McQueen et Faye Dunaway. Le vol de tableau a remplacé le hold-up, Boston est devenue New York, Crown est sympathique et facétieux. Mais la substance est la même, qui célèbre le goût du risque, et cache un jeu de séduction vénéneux, pour l'amour de l'art et surtout l'art de l'amour.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 4974,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 20498
+        }
+      ]
+    }
+  ]
+}

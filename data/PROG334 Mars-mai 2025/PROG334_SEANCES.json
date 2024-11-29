@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-29T09:29:33.341Z",
+  "updatedAt": "2024-11-29T11:40:49.065Z",
   "data": [
     {
       "idSeance": 188129,
@@ -2696,7 +2696,11 @@
           "copies": [
             {
               "idCopie": 28972,
-              "duree": 91
+              "duree": 91,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 39496
@@ -2827,15 +2831,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28531,
-              "duree": 88,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 7527,
               "duree": 88,
               "format": "DCP",
@@ -2866,6 +2861,26 @@
       "items": [
         {
           "ordre": 1,
+          "idFilm": 155117,
+          "titre": "Hotel Chevalier",
+          "realisateurs": "Wes Anderson",
+          "annee": 2007,
+          "duree": 13,
+          "generique": "Natalie Portman, Jason Schwartzman, Waris Ahluwalia",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29312,
+              "duree": 13,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
           "idFilm": 103939,
           "titre": "À bord du Darjeeling Limited",
           "titreVo": "Darjeeling Limited",
@@ -2879,15 +2894,6 @@
           "commentaire": "_À bord du Darjeeling Limited_ est le cinquième long métrage de Wes Anderson. Il impose l'univers fascinant et coloré du cinéaste, où décors élaborés et costumes délicats le disputent à une mise en scène dynamique et nerveuse. Les petits espaces des compartiments et le couloir exigu du train obligent à une construction méticuleuse dans un cadre réduit, le train lui-même figurant l'histoire qui avance. Le film s'ouvre sur ce qui paraît une course-poursuite. Il y a bien une course : celle entre Bill Murray et Adrien Brody, pour qui il s'agit de monter dans le train qui vient de partir. Course entre deux générations d'acteurs, seul le plus jeune parviendra à bord du Darjeeling Limited : c'est son aventure, un voyage initiatique, après l'enfance. Peter (Adrien Brody) rejoint à bord ses deux frères, Francis (Owen Wilson) et Jack (Jason Schwartzman). Ils entament ensemble un voyage « spirituel » à travers le Rajasthan dont l'objet sera, pour ces garçons en quête de sens familial, de reconstituer une fratrie décomposée et, plus matures, de réapprendre à vivre. Traiter des sujets forts (et parfois embarrassants) à la manière d'une comédie d'aventures légère et mélancolique est un art ici parfaitement maîtrisé par Wes Anderson. Le film, émouvant et sensible, à l'esthétique affirmée et à la mise en scène élégante, approche avec intelligence les difficultés des personnages à être au monde. En l'occurrence une partie du monde, l'Inde, où ils se retrouvent à la fois perdus et bouleversés. Les trois frères trimballent une tonne de valises chics et personnalisées, dont on se demande ce qu'elles peuvent bien contenir (on les ouvre seulement pour y trouver des antidépresseurs et un gaz lacrymogène servant au cadet à tenir ses aînés à distance) et dont c'est peu de dire qu'elles encombrent. Leur mission achevée (retrouver leur mère retirée dans un monastère himalayen), les frangins, montés _in extremis_ à bord du train du retour, contemplent leurs bagages jetés à terre, épars, comme on regarde s'éloigner un passé trop lourd, encombrant. Adultes, ils sont soulagés. Et nous, ravis.\n\nMatthieu Grimault",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 22857,
-              "duree": 0,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
             {
               "idCopie": 11326,
               "duree": 91,
@@ -2924,6 +2930,26 @@
       "items": [
         {
           "ordre": 1,
+          "idFilm": 155117,
+          "titre": "Hotel Chevalier",
+          "realisateurs": "Wes Anderson",
+          "annee": 2007,
+          "duree": 13,
+          "generique": "Natalie Portman, Jason Schwartzman, Waris Ahluwalia",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29312,
+              "duree": 13,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
           "idFilm": 103939,
           "titre": "À bord du Darjeeling Limited",
           "titreVo": "Darjeeling Limited",
@@ -2937,15 +2963,6 @@
           "commentaire": "_À bord du Darjeeling Limited_ est le cinquième long métrage de Wes Anderson. Il impose l'univers fascinant et coloré du cinéaste, où décors élaborés et costumes délicats le disputent à une mise en scène dynamique et nerveuse. Les petits espaces des compartiments et le couloir exigu du train obligent à une construction méticuleuse dans un cadre réduit, le train lui-même figurant l'histoire qui avance. Le film s'ouvre sur ce qui paraît une course-poursuite. Il y a bien une course : celle entre Bill Murray et Adrien Brody, pour qui il s'agit de monter dans le train qui vient de partir. Course entre deux générations d'acteurs, seul le plus jeune parviendra à bord du Darjeeling Limited : c'est son aventure, un voyage initiatique, après l'enfance. Peter (Adrien Brody) rejoint à bord ses deux frères, Francis (Owen Wilson) et Jack (Jason Schwartzman). Ils entament ensemble un voyage « spirituel » à travers le Rajasthan dont l'objet sera, pour ces garçons en quête de sens familial, de reconstituer une fratrie décomposée et, plus matures, de réapprendre à vivre. Traiter des sujets forts (et parfois embarrassants) à la manière d'une comédie d'aventures légère et mélancolique est un art ici parfaitement maîtrisé par Wes Anderson. Le film, émouvant et sensible, à l'esthétique affirmée et à la mise en scène élégante, approche avec intelligence les difficultés des personnages à être au monde. En l'occurrence une partie du monde, l'Inde, où ils se retrouvent à la fois perdus et bouleversés. Les trois frères trimballent une tonne de valises chics et personnalisées, dont on se demande ce qu'elles peuvent bien contenir (on les ouvre seulement pour y trouver des antidépresseurs et un gaz lacrymogène servant au cadet à tenir ses aînés à distance) et dont c'est peu de dire qu'elles encombrent. Leur mission achevée (retrouver leur mère retirée dans un monastère himalayen), les frangins, montés _in extremis_ à bord du train du retour, contemplent leurs bagages jetés à terre, épars, comme on regarde s'éloigner un passé trop lourd, encombrant. Adultes, ils sont soulagés. Et nous, ravis.\n\nMatthieu Grimault",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 22857,
-              "duree": 0,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
             {
               "idCopie": 11326,
               "duree": 91,
@@ -2961,7 +2978,7 @@
           "titre": "DIALOGUE AVEC NICOLAS SAADA",
           "typeConference": "Dialogue",
           "duree": 60,
-          "ordre": 2
+          "ordre": 3
         }
       ]
     },
@@ -2983,6 +3000,26 @@
       "items": [
         {
           "ordre": 1,
+          "idFilm": 155117,
+          "titre": "Hotel Chevalier",
+          "realisateurs": "Wes Anderson",
+          "annee": 2007,
+          "duree": 13,
+          "generique": "Natalie Portman, Jason Schwartzman, Waris Ahluwalia",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29312,
+              "duree": 13,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
           "idFilm": 103939,
           "titre": "À bord du Darjeeling Limited",
           "titreVo": "Darjeeling Limited",
@@ -2996,15 +3033,6 @@
           "commentaire": "_À bord du Darjeeling Limited_ est le cinquième long métrage de Wes Anderson. Il impose l'univers fascinant et coloré du cinéaste, où décors élaborés et costumes délicats le disputent à une mise en scène dynamique et nerveuse. Les petits espaces des compartiments et le couloir exigu du train obligent à une construction méticuleuse dans un cadre réduit, le train lui-même figurant l'histoire qui avance. Le film s'ouvre sur ce qui paraît une course-poursuite. Il y a bien une course : celle entre Bill Murray et Adrien Brody, pour qui il s'agit de monter dans le train qui vient de partir. Course entre deux générations d'acteurs, seul le plus jeune parviendra à bord du Darjeeling Limited : c'est son aventure, un voyage initiatique, après l'enfance. Peter (Adrien Brody) rejoint à bord ses deux frères, Francis (Owen Wilson) et Jack (Jason Schwartzman). Ils entament ensemble un voyage « spirituel » à travers le Rajasthan dont l'objet sera, pour ces garçons en quête de sens familial, de reconstituer une fratrie décomposée et, plus matures, de réapprendre à vivre. Traiter des sujets forts (et parfois embarrassants) à la manière d'une comédie d'aventures légère et mélancolique est un art ici parfaitement maîtrisé par Wes Anderson. Le film, émouvant et sensible, à l'esthétique affirmée et à la mise en scène élégante, approche avec intelligence les difficultés des personnages à être au monde. En l'occurrence une partie du monde, l'Inde, où ils se retrouvent à la fois perdus et bouleversés. Les trois frères trimballent une tonne de valises chics et personnalisées, dont on se demande ce qu'elles peuvent bien contenir (on les ouvre seulement pour y trouver des antidépresseurs et un gaz lacrymogène servant au cadet à tenir ses aînés à distance) et dont c'est peu de dire qu'elles encombrent. Leur mission achevée (retrouver leur mère retirée dans un monastère himalayen), les frangins, montés _in extremis_ à bord du train du retour, contemplent leurs bagages jetés à terre, épars, comme on regarde s'éloigner un passé trop lourd, encombrant. Adultes, ils sont soulagés. Et nous, ravis.\n\nMatthieu Grimault",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 22857,
-              "duree": 0,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
             {
               "idCopie": 11326,
               "duree": 91,
@@ -9727,17 +9755,17 @@
               "selected": true
             },
             {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
+            },
+            {
               "idCopie": 29040,
               "duree": 95,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 92
@@ -9785,17 +9813,17 @@
               "selected": true
             },
             {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
+            },
+            {
               "idCopie": 29040,
               "duree": 95,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 92
@@ -15161,6 +15189,125 @@
       "idSalle": "JE",
       "theorique": true,
       "items": []
+    },
+    {
+      "idSeance": 186717,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3730,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "David Depesseville"
+        }
+      ],
+      "idEvenement": 32507,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-28T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155115,
+          "titre": "Tremblements",
+          "art": "Les",
+          "realisateurs": "David Depesseville",
+          "annee": 2024,
+          "duree": 37,
+          "generique": "Bastien Bouillon, Marc Barbé",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29310,
+              "duree": 37,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance suivie d'une discussion avec David Depesseville"
+    },
+    {
+      "idSeance": 187095,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3731,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "GREC"
+        }
+      ],
+      "idEvenement": 32508,
+      "typeEvenement": 13,
+      "libelleEvenement": "4 FILMS DU GREC 2025",
+      "dateHeure": "2025-05-12T19:00:00",
+      "idSalle": "JE",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 186339,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3732,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Avant-première Jean-Baptiste Alazard"
+        }
+      ],
+      "idEvenement": 32509,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-14T19:30:00",
+      "idSalle": "JE",
+      "typeSeance": 43,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155116,
+          "titre": "Festa major",
+          "realisateurs": "Jean-Baptiste Alazard",
+          "annee": 2024,
+          "duree": 98,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29311,
+              "duree": 98,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Avant-première. Séance suivie d'une discussion avec Jean-Baptiste Alazard"
+    },
+    {
+      "idSeance": 186906,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3733,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Hefse Guiro"
+        }
+      ],
+      "idEvenement": 32512,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-05T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155118,
+          "titre": "Par-delà les montagnes",
+          "realisateurs": "Hefse Guiro",
+          "annee": 2024,
+          "status": 0
+        }
+      ],
+      "mention": "Séance suivie d'une discussion avec Hefse Guiro"
     }
   ]
 }
