@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-02T10:57:17.557Z",
+  "updatedAt": "2024-12-02T11:14:38.961Z",
   "data": [
     {
       "idSeance": 188129,
@@ -3446,8 +3446,8 @@
         },
         {
           "idConf": 32382,
-          "titre": "WES ANDERSON PAR WES ANDERSON",
-          "typeConference": "Dialogue",
+          "titre": "WES ANDERSON PAR WES ANDERSON, UNE LEÇON DE CINÉMA",
+          "typeConference": "Leçon de cinéma",
           "duree": 60,
           "ordre": 2
         }
@@ -4756,6 +4756,15 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 29336,
+              "duree": 135,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "Autres",
+              "selected": true
+            },
+            {
               "idCopie": 29333,
               "duree": 135
             }
@@ -4788,10 +4797,18 @@
           "titreVo": "Run Silent Run Deep",
           "realisateurs": "Robert Wise",
           "annee": 1957,
+          "duree": 93,
           "generique": "Clark Gable, Burt Lancaster, Jack Warden",
           "adaptation": "D'après le roman _Run Silent, Run Deep_ d'Edward L. Beach.",
           "miniTexte": "Un commandant de sous-marin assoiffé de vengeance expose son équipage aux dangers de la guerre subaquatique. Scènes de vie et batailles se succèdent au rythme d'un montage effréné, qui ménage une ambiance oppressante particulièrement réaliste. Avec un affrontement de taille entre Clark Gable et Burt Lancaster.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29337,
+              "duree": 93,
+              "format": "35 mm"
+            }
+          ],
           "idFilmBoxoffice": 46536
         }
       ]
@@ -5280,10 +5297,21 @@
           "realisateurs": "Robert Wise",
           "annee": 1979,
           "dureeStd": 132,
+          "duree": 132,
           "generique": "William Shatner, Leonard Nimoy, DeForest Kelley",
           "adaptation": "D'après la série télévisée _Star Trek_ de Gene Roddenberry.",
           "miniTexte": "Le passage de _Star Trek_ du petit au grand écran. Avec des effets spéciaux révolutionnaires pour l'époque, l'équipage de l'USS Enterprise embarque pour une aventure cosmique de haut vol, qui mêle ambition et contemplation. Derrière les vaisseaux et autres paysages spatiaux, l'heure est à la réflexion sur l'évolution technologique et aux percées de l'intelligence artificielle.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29339,
+              "duree": 132,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 13022
         }
       ]
@@ -6685,7 +6713,7 @@
           "titreVo": "Cluny Brown",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1945,
-          "duree": 100,
+          "duree": 99,
           "generique": "Jennifer Jones, Charles Boyer, Peter Lawford",
           "adaptation": "D'après le roman _Cluny Brown_ de Margery Sharp.",
           "synopsis": "La jeune et pétulante Cluny Brown remplace son oncle plombier pour une intervention chez Hilary Ames. Elle y fait la connaissance d'un séduisant réfugié tchèque, pique-assiette et philosophe.",
@@ -6693,24 +6721,24 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 15802,
-              "duree": 100,
+              "idCopie": 21129,
+              "duree": 99,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF",
               "selected": true
             },
             {
-              "idCopie": 21129,
-              "duree": 99,
+              "idCopie": 21130,
+              "duree": 100,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             },
             {
-              "idCopie": 21130,
+              "idCopie": 15802,
               "duree": 100,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -6743,7 +6771,7 @@
           "titreVo": "Cluny Brown",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1945,
-          "duree": 100,
+          "duree": 99,
           "generique": "Jennifer Jones, Charles Boyer, Peter Lawford",
           "adaptation": "D'après le roman _Cluny Brown_ de Margery Sharp.",
           "synopsis": "La jeune et pétulante Cluny Brown remplace son oncle plombier pour une intervention chez Hilary Ames. Elle y fait la connaissance d'un séduisant réfugié tchèque, pique-assiette et philosophe.",
@@ -6751,24 +6779,24 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 15802,
-              "duree": 100,
+              "idCopie": 21129,
+              "duree": 99,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF",
               "selected": true
             },
             {
-              "idCopie": 21129,
-              "duree": 99,
+              "idCopie": 21130,
+              "duree": 100,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             },
             {
-              "idCopie": 21130,
+              "idCopie": 15802,
               "duree": 100,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -6996,7 +7024,12 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF"
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29335,
+              "duree": 76
             }
           ],
           "idFilmBoxoffice": 4033
@@ -7039,7 +7072,12 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF"
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29335,
+              "duree": 76
             }
           ],
           "idFilmBoxoffice": 4033
@@ -7098,6 +7136,13 @@
               "duree": 84,
               "format": "35 mm",
               "version": "VO"
+            },
+            {
+              "idCopie": 29334,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 632
@@ -7156,6 +7201,13 @@
               "duree": 84,
               "format": "35 mm",
               "version": "VO"
+            },
+            {
+              "idCopie": 29334,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 632
@@ -7364,10 +7416,18 @@
           "artVo": "The",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1931,
-          "duree": 88,
+          "duree": 102,
           "miniTexte": "Une romance musicale triangulaire, fondée sur l'insinuation et les quiproquos. À partir d'un fâcheux clin d'œil, la mécanique bien huilée de Lubitsch se met en marche dans une Vienne d'opérette, royaume de l'inconstance et du bon mot.",
           "status": 1,
           "copies": [
+            {
+              "idCopie": 29338,
+              "duree": 102,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
             {
               "idCopie": 29080,
               "duree": 88,
@@ -7895,7 +7955,8 @@
               "idCopie": 15569,
               "duree": 90,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 1389
@@ -7946,7 +8007,8 @@
               "idCopie": 15569,
               "duree": 90,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 1389
@@ -8629,6 +8691,7 @@
               "duree": 94,
               "format": "DCP",
               "version": "VO",
+              "stDemande": true,
               "selected": true
             },
             {
@@ -8676,6 +8739,7 @@
               "duree": 94,
               "format": "DCP",
               "version": "VO",
+              "stDemande": true,
               "selected": true
             },
             {
@@ -9819,6 +9883,12 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
+            },
+            {
               "idCopie": 6617,
               "duree": 95,
               "format": "35 mm",
@@ -9833,12 +9903,6 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 92
@@ -9877,6 +9941,12 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
+            },
+            {
               "idCopie": 6617,
               "duree": 95,
               "format": "35 mm",
@@ -9891,12 +9961,6 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 92
@@ -12727,7 +12791,7 @@
       "idEvenement": 32343,
       "typeEvenement": 14,
       "dateHeure": "2025-05-16T18:00:00",
-      "typeConference": "Conférence",
+      "typeConference": "Leçon de cinéma",
       "idSalle": "HL",
       "duree": 90,
       "items": [
