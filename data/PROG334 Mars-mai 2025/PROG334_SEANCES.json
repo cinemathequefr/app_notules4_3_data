@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-02T11:41:39.704Z",
+  "updatedAt": "2024-12-02T12:50:33.376Z",
   "data": [
     {
       "idSeance": 188129,
@@ -3808,7 +3808,10 @@
             },
             {
               "idCopie": 29344,
-              "duree": 92
+              "duree": 92,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 3463
@@ -3865,7 +3868,10 @@
             },
             {
               "idCopie": 29344,
-              "duree": 92
+              "duree": 92,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 3463
@@ -15464,9 +15470,9 @@
       "idCycleCategories": [
         {
           "idCycle": 140,
-          "idCategorie": 3729,
+          "idCategorie": 3735,
           "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "Yannick Muller"
+          "titreSousCycle": "Jeune cinéma brésilien"
         }
       ],
       "idEvenement": 32506,
