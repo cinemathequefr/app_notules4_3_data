@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-29T16:04:24.289Z",
+  "updatedAt": "2024-12-02T09:04:07.463Z",
   "data": [
     {
       "idSeance": 185292,
@@ -131,6 +131,46 @@
             }
           ],
           "idFilmBoxoffice": 3866
+        }
+      ]
+    },
+    {
+      "idSeance": 185297,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31890,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-09T14:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59370,
+          "titre": "Viol en première page",
+          "titreVo": "Sbatti il mostro in prima pagina",
+          "realisateurs": "Marco Bellocchio",
+          "annee": 1972,
+          "duree": 88,
+          "generique": "Gian Maria Volonté, Fabio Garriba, Jacques Herlin",
+          "synopsis": "Le rédacteur en chef d'un grand quotidien milanais exploite un fait divers à des fins politiques.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28929,
+              "duree": 88,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 18187
         }
       ]
     },
@@ -471,6 +511,47 @@
       ]
     },
     {
+      "idSeance": 185298,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32312,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-09T16:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30582,
+          "titre": "Tueurs de flics",
+          "titreVo": "Onion Field",
+          "artVo": "The",
+          "realisateurs": "Harold Becker",
+          "annee": 1979,
+          "duree": 122,
+          "generique": "John Savage, James Woods, Franklyn Seales",
+          "synopsis": "A Los Angeles, deux agents de police surprennent deux malfaiteurs en plein casse et ces derniers tuent l'un des policiers de sang froid.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29136,
+              "duree": 122,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 185191,
       "idProg": 321,
       "idCycleCategories": [
@@ -693,6 +774,40 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185193,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 989,
+          "idCategorie": 3711,
+          "titreCycle": "Jacques Bral",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32393,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-06T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38105,
+          "titre": "Polar",
+          "realisateurs": "Jacques Bral",
+          "annee": 1982,
+          "duree": 97,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29322,
+              "duree": 97,
+              "format": "DCP"
             }
           ]
         }

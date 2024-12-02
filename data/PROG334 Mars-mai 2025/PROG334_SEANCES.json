@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-11-29T16:04:20.710Z",
+  "updatedAt": "2024-12-02T09:04:02.974Z",
   "data": [
     {
       "idSeance": 188129,
@@ -1629,12 +1629,6 @@
               "idCopie": 29181,
               "duree": 99,
               "format": "35 mm",
-              "version": "VO",
-              "selected": true
-            },
-            {
-              "idCopie": 28966,
-              "duree": 99,
               "version": "VO"
             }
           ]
@@ -6642,7 +6636,7 @@
           "titreVo": "Cluny Brown",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1945,
-          "duree": 100,
+          "duree": 99,
           "generique": "Jennifer Jones, Charles Boyer, Peter Lawford",
           "adaptation": "D'après le roman _Cluny Brown_ de Margery Sharp.",
           "synopsis": "La jeune et pétulante Cluny Brown remplace son oncle plombier pour une intervention chez Hilary Ames. Elle y fait la connaissance d'un séduisant réfugié tchèque, pique-assiette et philosophe.",
@@ -6650,16 +6644,16 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 15802,
-              "duree": 100,
+              "idCopie": 21129,
+              "duree": 99,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF",
               "selected": true
             },
             {
-              "idCopie": 21129,
-              "duree": 99,
+              "idCopie": 15802,
+              "duree": 100,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
@@ -6700,7 +6694,7 @@
           "titreVo": "Cluny Brown",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1945,
-          "duree": 100,
+          "duree": 99,
           "generique": "Jennifer Jones, Charles Boyer, Peter Lawford",
           "adaptation": "D'après le roman _Cluny Brown_ de Margery Sharp.",
           "synopsis": "La jeune et pétulante Cluny Brown remplace son oncle plombier pour une intervention chez Hilary Ames. Elle y fait la connaissance d'un séduisant réfugié tchèque, pique-assiette et philosophe.",
@@ -6708,16 +6702,16 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 15802,
-              "duree": 100,
+              "idCopie": 21129,
+              "duree": 99,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF",
               "selected": true
             },
             {
-              "idCopie": 21129,
-              "duree": 99,
+              "idCopie": 15802,
+              "duree": 100,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
@@ -7243,7 +7237,7 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 186031,
+      "idSeance": 186303,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -7255,7 +7249,7 @@
       ],
       "idEvenement": 32068,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-03T16:00:00",
+      "dateHeure": "2025-04-12T14:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -8559,6 +8553,53 @@
       "idEvenement": 32112,
       "typeEvenement": 13,
       "dateHeure": "2025-03-23T19:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35692,
+          "titre": "Scandale à la cour",
+          "titreVo": "A Royal Scandal",
+          "realisateurs": "Otto Preminger",
+          "annee": 1945,
+          "duree": 94,
+          "generique": "Tallulah Bankhead, Charles Coburn, Anne Baxter, Vincent Price",
+          "adaptation": "D'après la pièce _The Czarina_ de Lajos Biró et Melchior Lengyel.",
+          "miniTexte": "Dans la Russie du XVIII<sup>e</sup>, où les conspirations s'ourdissent entre deux portes, Catherine II s'éprend d'un jeune lieutenant idéaliste. Une relecture de _Paradis perdu_ (1924) de Lubitsch, qui, malade, se voit remplacé sur le tournage par Preminger.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28734,
+              "duree": 94,
+              "format": "DCP",
+              "version": "VO",
+              "selected": true
+            },
+            {
+              "idCopie": 28821,
+              "duree": 94,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 109038
+        }
+      ]
+    },
+    {
+      "idSeance": 188148,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32112,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-03T16:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -9976,7 +10017,14 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "POR",
-              "sousTitres": "STF"
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29326,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO"
             }
           ]
         }
@@ -10027,6 +10075,11 @@
               "duree": 160,
               "format": "Numérique",
               "version": "VO"
+            },
+            {
+              "idCopie": 29324,
+              "duree": 160,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 186413
@@ -12216,6 +12269,12 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 29325,
+              "duree": 115,
+              "format": "DCP",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 2672
