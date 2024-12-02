@@ -1,8 +1,27 @@
 {
-  "updatedAt": "2024-12-02T12:50:33.376Z",
+  "updatedAt": "2024-12-02T15:44:52.986Z",
   "data": [
     {
-      "idSeance": 188129,
+      "idSeance": 185394,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3436,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Çağla Zencirci et Guillaume Giovanetti"
+        }
+      ],
+      "idEvenement": 31209,
+      "typeEvenement": 13,
+      "libelleEvenement": "ÇAĞLA ZENCIRCI & GUILLAUME GIOVANETTI (AVEC LA VILLA ALBERTINE)",
+      "dateHeure": "2025-03-10T19:00:00",
+      "idSalle": "JE",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 188166,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -14,9 +33,8 @@
       ],
       "idEvenement": 31712,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-17T19:00:00",
+      "dateHeure": "2025-03-24T19:00:00",
       "idSalle": "JE",
-      "typeSeance": 43,
       "items": [
         {
           "ordre": 1,
@@ -37,8 +55,7 @@
           ],
           "idFilmBoxoffice": 284851
         }
-      ],
-      "mention": "Avant-première"
+      ]
     },
     {
       "idSeance": 186263,
@@ -243,7 +260,7 @@
       ],
       "idEvenement": 31841,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-04T21:00:00",
+      "dateHeure": "2025-04-04T21:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -964,46 +981,6 @@
       ]
     },
     {
-      "idSeance": 188134,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 970,
-          "idCategorie": 3669,
-          "titreCycle": "Le western, 25 indispensables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31877,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-13T17:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 33202,
-          "titre": "Rio Bravo",
-          "realisateurs": "Howard Hawks",
-          "annee": 1958,
-          "duree": 140,
-          "generique": "John Wayne, Dean Martin, Angie Dickinson",
-          "adaptation": "D'après la nouvelle _Rio Bravo_ de B. H. McCampbell.",
-          "synopsis": "Shérif d'une petite ville, John T. Chance tente de maintenir l'ordre sur son territoire avec ses deux adjoints. L'un, Dude, est alcoolique, et l'autre, Stumpy, un vieillard boiteux. Tous doivent résister à une bande de hors-la-loi qui veulent faire sortir leur chef de prison.",
-          "miniTexte": "Véritable leçon de morale stoïcienne, _Rio Bravo_ aura une influence énorme sur la génération suivante de réalisateurs – à commencer par John Carpenter et _Assaut_, où un certain « John T. Chance » signe d'ailleurs le montage... Tout en tension et humour mêlés, le dernier grand western classique, et l'aboutissement d'un genre.",
-          "commentaire": "« Désormais, les Américains regardent abondamment la télévision, où il n'y a que des cow-boys et des chanteurs. Alors j'ai fait un western avec des chanteurs... » Véritable leçon de morale stoïcienne, _Rio Bravo_ aura une influence énorme sur la génération suivante de réalisateurs – à commencer par John Carpenter et _Assaut_, où un certain « John T. Chance » signe d'ailleurs le montage... Tout en tension et humour mêlés, le dernier grand western classique, et l'aboutissement d'un genre.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 23192,
-              "duree": 140,
-              "version": "VO"
-            }
-          ],
-          "idFilmBoxoffice": 1274
-        }
-      ]
-    },
-    {
       "idSeance": 186512,
       "idProg": 334,
       "idCycleCategories": [
@@ -1317,7 +1294,7 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 186600,
+      "idSeance": 188177,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1446,7 +1423,7 @@
       ]
     },
     {
-      "idSeance": 186876,
+      "idSeance": 188179,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1458,7 +1435,7 @@
       ],
       "idEvenement": 31930,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-03T18:30:00",
+      "dateHeure": "2025-05-03T20:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1608,7 +1585,7 @@
       ],
       "idEvenement": 31934,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-05T21:00:00",
+      "dateHeure": "2025-05-05T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1628,7 +1605,8 @@
             {
               "idCopie": 28955,
               "duree": 103,
-              "format": "35 mm"
+              "format": "35 mm",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 33512
@@ -1867,7 +1845,7 @@
       ]
     },
     {
-      "idSeance": 186894,
+      "idSeance": 188181,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1879,7 +1857,7 @@
       ],
       "idEvenement": 31941,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-04T17:30:00",
+      "dateHeure": "2025-05-04T19:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2104,7 +2082,7 @@
       ]
     },
     {
-      "idSeance": 187922,
+      "idSeance": 188180,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2116,7 +2094,7 @@
       ],
       "idEvenement": 31946,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-03T20:45:00",
+      "dateHeure": "2025-05-04T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2181,7 +2159,7 @@
       ]
     },
     {
-      "idSeance": 186904,
+      "idSeance": 188178,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -2193,7 +2171,7 @@
       ],
       "idEvenement": 31948,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-05T19:00:00",
+      "dateHeure": "2025-05-03T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2639,7 +2617,7 @@
       ],
       "idEvenement": 31959,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-06T17:00:00",
+      "dateHeure": "2025-04-06T14:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2759,69 +2737,6 @@
             }
           ],
           "idFilmBoxoffice": 114976
-        }
-      ]
-    },
-    {
-      "idSeance": 187988,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 972,
-          "idCategorie": 3671,
-          "titreCycle": "Wes Anderson",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31961,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-19T14:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 155117,
-          "titre": "Hotel Chevalier",
-          "realisateurs": "Wes Anderson",
-          "annee": 2007,
-          "duree": 13,
-          "generique": "Natalie Portman, Jason Schwartzman, Waris Ahluwalia",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 29312,
-              "duree": 13,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF"
-            }
-          ]
-        },
-        {
-          "ordre": 2,
-          "idFilm": 103939,
-          "titre": "À bord du Darjeeling Limited",
-          "titreVo": "Darjeeling Limited",
-          "artVo": "The",
-          "realisateurs": "Wes Anderson",
-          "annee": 2007,
-          "duree": 91,
-          "generique": "Owen Wilson, Adrien Brody, Jason Schwartzman",
-          "synopsis": "Trois frères qui ne se sont pas parlé depuis la mort de leur père décident de faire ensemble un grand voyage en train à travers l'Inde afin de renouer les liens d'autrefois.",
-          "miniTexte": "Le voyage en train, à travers l'Inde, d'une fratrie en quête de recomposition. Équipés d'une dizaine de valises, d'antidépresseurs et d'une bombe lacrymogène, les voici en route pour résoudre une foule de conflits familiaux, prêts à se délester d'un passé trop lourd et accepter de rentrer dans l'âge adulte.",
-          "commentaire": "_À bord du Darjeeling Limited_ est le cinquième long métrage de Wes Anderson. Il impose l'univers fascinant et coloré du cinéaste, où décors élaborés et costumes délicats le disputent à une mise en scène dynamique et nerveuse. Les petits espaces des compartiments et le couloir exigu du train obligent à une construction méticuleuse dans un cadre réduit, le train lui-même figurant l'histoire qui avance. Le film s'ouvre sur ce qui paraît une course-poursuite. Il y a bien une course : celle entre Bill Murray et Adrien Brody, pour qui il s'agit de monter dans le train qui vient de partir. Course entre deux générations d'acteurs, seul le plus jeune parviendra à bord du Darjeeling Limited : c'est son aventure, un voyage initiatique, après l'enfance. Peter (Adrien Brody) rejoint à bord ses deux frères, Francis (Owen Wilson) et Jack (Jason Schwartzman). Ils entament ensemble un voyage « spirituel » à travers le Rajasthan dont l'objet sera, pour ces garçons en quête de sens familial, de reconstituer une fratrie décomposée et, plus matures, de réapprendre à vivre. Traiter des sujets forts (et parfois embarrassants) à la manière d'une comédie d'aventures légère et mélancolique est un art ici parfaitement maîtrisé par Wes Anderson. Le film, émouvant et sensible, à l'esthétique affirmée et à la mise en scène élégante, approche avec intelligence les difficultés des personnages à être au monde. En l'occurrence une partie du monde, l'Inde, où ils se retrouvent à la fois perdus et bouleversés. Les trois frères trimballent une tonne de valises chics et personnalisées, dont on se demande ce qu'elles peuvent bien contenir (on les ouvre seulement pour y trouver des antidépresseurs et un gaz lacrymogène servant au cadet à tenir ses aînés à distance) et dont c'est peu de dire qu'elles encombrent. Leur mission achevée (retrouver leur mère retirée dans un monastère himalayen), les frangins, montés _in extremis_ à bord du train du retour, contemplent leurs bagages jetés à terre, épars, comme on regarde s'éloigner un passé trop lourd, encombrant. Adultes, ils sont soulagés. Et nous, ravis.\n\nMatthieu Grimault",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 11326,
-              "duree": 91,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 115736
         }
       ]
     },
@@ -3019,7 +2934,7 @@
       ],
       "idEvenement": 31963,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-04T14:30:00",
+      "dateHeure": "2025-05-04T17:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3559,7 +3474,7 @@
       ],
       "idEvenement": 31972,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-04T18:30:00",
+      "dateHeure": "2025-05-04T19:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3879,7 +3794,7 @@
       ]
     },
     {
-      "idSeance": 187017,
+      "idSeance": 188183,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -3891,7 +3806,7 @@
       ],
       "idEvenement": 31978,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-09T18:00:00",
+      "dateHeure": "2025-05-08T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4056,49 +3971,6 @@
             }
           ],
           "idFilmBoxoffice": 92923
-        }
-      ]
-    },
-    {
-      "idSeance": 187062,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 973,
-          "idCategorie": 3672,
-          "titreCycle": "Robert Wise",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31982,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-10T20:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 37549,
-          "titre": "Maison sur la colline",
-          "art": "La",
-          "titreVo": "House on Telegraph Hill",
-          "artVo": "The",
-          "realisateurs": "Robert Wise",
-          "annee": 1950,
-          "duree": 92,
-          "generique": "Richard Basehart, Valentina Cortese, William Lundigan",
-          "adaptation": "D'après le roman _The Frightened Child_ de Dana Lyon.",
-          "miniTexte": "Une jeune polonaise usurpe l'identité d'une amie, morte en détention lors de son arrivée sur le territoire américain. Dans la peau d'une héroïne en quête d'elle-même, Valentina Cortese impose une présence hitchcockienne, au diapason d'un film noir transformé en mélodrame, puis en thriller psychologique ambigu. Un machiavélique théâtre des soupçons et des apparences aux secrets bien gardés.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29162,
-              "duree": 92,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            }
-          ],
-          "idFilmBoxoffice": 20075
         }
       ]
     },
@@ -4567,6 +4439,7 @@
       "typeEvenement": 13,
       "dateHeure": "2025-04-30T20:00:00",
       "idSalle": "HL",
+      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -4606,7 +4479,8 @@
           ],
           "idFilmBoxoffice": 945
         }
-      ]
+      ],
+      "mention": "Ouverture de la rétrospective"
     },
     {
       "idSeance": 188100,
@@ -4765,7 +4639,7 @@
       ],
       "idEvenement": 31994,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-04T16:45:00",
+      "dateHeure": "2025-05-04T14:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4834,7 +4708,7 @@
       ]
     },
     {
-      "idSeance": 188097,
+      "idSeance": 188174,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -4846,7 +4720,7 @@
       ],
       "idEvenement": 31996,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-10T18:30:00",
+      "dateHeure": "2025-05-17T20:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4958,7 +4832,7 @@
       ]
     },
     {
-      "idSeance": 188032,
+      "idSeance": 188184,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -4970,7 +4844,7 @@
       ],
       "idEvenement": 31998,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-08T18:30:00",
+      "dateHeure": "2025-05-09T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -5006,8 +4880,7 @@
           ],
           "idFilmBoxoffice": 10433
         }
-      ],
-      "mention": "Séance présentée par Juliette Armantier"
+      ]
     },
     {
       "idSeance": 188099,
@@ -5174,7 +5047,7 @@
       ]
     },
     {
-      "idSeance": 188026,
+      "idSeance": 188172,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -5186,7 +5059,7 @@
       ],
       "idEvenement": 32002,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-17T20:15:00",
+      "dateHeure": "2025-05-10T19:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -5268,7 +5141,7 @@
       ],
       "idEvenement": 32004,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-04T20:30:00",
+      "dateHeure": "2025-05-04T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -5442,7 +5315,7 @@
       ]
     },
     {
-      "idSeance": 186895,
+      "idSeance": 188182,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -5454,7 +5327,7 @@
       ],
       "idEvenement": 32007,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-04T20:00:00",
+      "dateHeure": "2025-05-05T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -5466,15 +5339,15 @@
           "artVo": "Lo",
           "realisateurs": "Carlo Lizzani",
           "annee": 1956,
-          "duree": 84,
+          "duree": 95,
           "generique": "Dario Fo, Franca Rame, Giorgia Moll",
           "miniTexte": "Alors qu'il tourne définitivement le dos au néoréalisme, Lizzani signe une comédie loufoque, très enlevée, portée par Dario Fo, 40 ans avant qu'il ne reçoive le Prix Nobel de littérature. Alors jeune acteur comique, il compose ici un journaliste lunaire, quelque part entre _Monsieur Hulot_ et les héros de Pierre Étaix.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28986,
-              "duree": 84,
-              "format": "DCP",
+              "idCopie": 29116,
+              "duree": 95,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -6053,7 +5926,7 @@
       ],
       "idEvenement": 32037,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-04T19:00:00",
+      "dateHeure": "2025-04-04T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6293,57 +6166,7 @@
       "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
-      "idSeance": 187797,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32045,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-17T18:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 40703,
-          "titre": "Carmen",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1918,
-          "duree": 70,
-          "generique": "Pola Negri, Harry Liedtke, Leopold von Ledebur",
-          "adaptation": "D'après la nouvelle _Carmen_ de Prosper Mérimée.",
-          "synopsis": "Le soldat Don José tombe sous le charme d'une Gitane, Carmen, qui le méprise.",
-          "miniTexte": "Dans les rues de Séville reconstituées, des centaines de figurants, et Pola Negri dans le rôle de l'impétueuse gitane. Première grande production de Lubitsch, l'adaptation de la nouvelle de Mérimée, diffusée avec succès dans les cinémas américains, constitue les fondements de sa future carrière hollywoodienne.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 13885,
-              "duree": 70,
-              "format": "16 mm",
-              "intertitres": "INT. ANG.",
-              "stDemande": true,
-              "selected": true
-            },
-            {
-              "idCopie": 29068,
-              "duree": 70,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 3043
-        }
-      ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
-    },
-    {
-      "idSeance": 185944,
+      "idSeance": 188171,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -6355,7 +6178,7 @@
       ],
       "idEvenement": 32046,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-30T17:00:00",
+      "dateHeure": "2025-04-06T17:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -6986,54 +6809,6 @@
       ]
     },
     {
-      "idSeance": 186220,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32063,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-10T16:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 33903,
-          "titre": "Homme que j'ai tué",
-          "art": "L'",
-          "titreVo": "Broken Lullaby = The Man I Killed",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1932,
-          "duree": 77,
-          "generique": "Lionel Barrymore, Nancy Carroll, Phillips Holmes, Louise Carter",
-          "synopsis": "Rongé par la culpabilité, un jeune homme qui en a tué un autre à la guerre vient trouver la famille de sa victime un an après.",
-          "miniTexte": "Hanté par le remords, un jeune Français se rend dans la famille du soldat allemand qu'il a tué pendant la guerre. Inspiré de la pièce pacifiste de Maurice Rostand, Lubitsch explore la culpabilité et le pardon avec une grande délicatesse. L'unique mélodrame de sa période américaine.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 3211,
-              "duree": 77,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29335,
-              "duree": 76
-            }
-          ],
-          "idFilmBoxoffice": 4033
-        }
-      ]
-    },
-    {
       "idSeance": 187819,
       "idProg": 334,
       "idCycleCategories": [
@@ -7443,7 +7218,7 @@
       ],
       "idEvenement": 32079,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-09T17:30:00",
+      "dateHeure": "2025-04-09T16:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -7873,7 +7648,7 @@
       ],
       "idEvenement": 32091,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-14T20:00:00",
+      "dateHeure": "2025-03-14T21:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -8108,7 +7883,7 @@
         {
           "ordre": 1,
           "idFilm": 40285,
-          "titre": "Princesse aux huitres",
+          "titre": "Princesse aux huîtres",
           "art": "La",
           "titreVo": "Austernprinzessin",
           "artVo": "Die",
@@ -8127,86 +7902,6 @@
         }
       ],
       "mention": "Accompagnement musical par Jean-François Zygel"
-    },
-    {
-      "idSeance": 187811,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32100,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-06T19:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 128868,
-          "titre": "Quand j'étais mort",
-          "titreVo": "Als ich tot war",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1915,
-          "duree": 37,
-          "generique": "Ernst Lubitsch",
-          "miniTexte": "Un dandy se fait passer pour mort et revient chez lui déguisé en domestique. Les débuts de Lubitsch et la plus ancienne de ses réalisations encore visibles, une comédie conjugale mordante, qui révèle tout son génie burlesque.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29327,
-              "duree": 37
-            }
-          ],
-          "idFilmBoxoffice": 27337
-        },
-        {
-          "ordre": 2,
-          "idFilm": 40745,
-          "titre": "Wenn vier dasselbe tun",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1917,
-          "duree": 42,
-          "miniTexte": "Sur le thème du sentiment amoureux, Lubitsch réalise et interprète un ballet pour quatre personnages, dont la cadence annonce ses futurs _musicals_.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29065,
-              "duree": 42,
-              "format": "Numérique",
-              "intertitres": "Autres",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 185387
-        },
-        {
-          "ordre": 3,
-          "idFilm": 40754,
-          "titre": "Roi du corsage",
-          "art": "Le",
-          "titreVo": "Blusenkönig",
-          "artVo": "Der",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1917,
-          "duree": 12,
-          "generique": "Ernst Lubitsch, Käthe Dorsch, Guido Herzfeld",
-          "miniTexte": "Fragment d'un film perdu, dans la série des comédies « boutiquières » qui ont fait la renommée de Lubitsch, et dans lesquelles il interprète un petit apprenti qui tente de s'élever socialement.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29066,
-              "duree": 12,
-              "format": "Numérique",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ]
-        }
-      ]
     },
     {
       "idSeance": 188081,
@@ -8370,68 +8065,6 @@
           "idFilmBoxoffice": 137960
         }
       ]
-    },
-    {
-      "idSeance": 187812,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32105,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-17T19:45:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 73877,
-          "titre": "Roméo et Juliette dans la neige",
-          "titreVo": "Romeo und Julia im Schnee",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1920,
-          "duree": 48,
-          "miniTexte": "Pastiche de la pièce de Shakespeare, _Roméo et Juliette dans la neige_ fait partie de la série « montagnarde » de Lubitsch. Transformés en rustres bavarois, les Capulethofer et les Montekugerl s'affrontent à coup de batailles de boules de neige et de procès farfelus.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29062,
-              "duree": 48,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 75372
-        },
-        {
-          "ordre": 2,
-          "idFilm": 44984,
-          "titre": "Montmartre",
-          "titreVo": "Flamme",
-          "artVo": "Die",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1922,
-          "duree": 41,
-          "miniTexte": "Une modiste parisienne se perd dans une vie dissolue, au grand dam de son cousin. Illuminés par le jeu subtil de Pola Negri, les fragments qui subsistent de ce drame naturaliste offrent un aperçu fascinant du dernier film allemand de Lubitsch.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29061,
-              "duree": 41,
-              "format": "Numérique",
-              "intertitres": "INT. ANG.",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 18463
-        }
-      ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 185693,
@@ -9174,7 +8807,7 @@
           "annee": 1972,
           "duree": 93,
           "generique": "Jeff Bridges, John Savage, Barry Brown",
-          "miniTexte": "Jusqu'alors scénariste aux côtés de David Newman (_Bonnie and Clyde_, _Le Reptile_...), Robert Benton réalise un western sombre, désenchanté, sur fond de guerre de Sécession. En 1865, pour échapper à la conscription, un fils de bonne famille décide, avec la bénédiction de ses parents, de gagner l'Ouest. Accompagné par un voyou sans scrupules, il fuit la violence de la guerre pour celle d'une vie rude, marquée par la faim, le froid, les rivalités. Dans cette croisade où la violence est éclairée par instants d'humour et de malice, le tandem insolite glisse vers l'amitié. Démythification de l'Ouest, rêves de jeunesse étouffés : un western réaliste, imprégné de l'esprit seventies – et dans lequel il n'est pas interdit de voir l'allégorie d'une génération qui refuse d'aller combattre au Vietnam. Avec un talentueux Jeff Bridges, tout juste auréolé du succès de _La Dernière Séance_ de Peter Bogdanovich.",
+          "miniTexte": "Jusqu'alors scénariste aux côtés de David Newman (_Bonnie and Clyde_, _Le Reptile_...), Robert Benton réalise un western sombre, désenchanté, sur fond de guerre de Sécession. En 1865, pour échapper à la conscription, un fils de bonne famille décide, avec la bénédiction de ses parents, de gagner l'Ouest. Accompagné par un voyou sans scrupules, il fuit la violence de la guerre pour celle d'une vie rude, marquée par la faim, le froid, les rivalités. Dans cette croisade où la sauvagerie est éclairée par instants d'humour et de malice, le tandem insolite glisse vers l'amitié. Démythification de l'Ouest, rêves de jeunesse étouffés : un western réaliste, imprégné de l'esprit _seventies_ – et dans lequel il n'est pas interdit de voir l'allégorie d'une génération qui refuse d'aller combattre au Vietnam. Avec un talentueux Jeff Bridges, tout juste auréolé du succès de _La Dernière Séance_ de Peter Bogdanovich.",
           "status": 2,
           "copies": [
             {
@@ -9368,7 +9001,7 @@
           "titreVo": "Places in the Heart",
           "realisateurs": "Robert Benton",
           "annee": 1984,
-          "generique": "Sally Field, John Malkovich, Ed Harris",
+          "generique": "Sally Field, Danny Glover, John Malkovich, Ed Harris",
           "miniTexte": "Au Texas, la Grande Dépression contraint une veuve à cultiver du coton, pour sauver sa maison et nourrir ses enfants. Benton replonge dans ses souvenirs familiaux – l'histoire retrace celle de sa propre grand-mère –, et filme le Ku-Klux-Klan, un typhon ravageur, les valeurs et la terre nourricière. Une vision authentique, quasi biblique, de l'Amérique des années 30. Oscar du meilleur scénario.",
           "status": 2,
           "copies": [
@@ -9536,7 +9169,7 @@
           "realisateurs": "Robert Benton",
           "annee": 1997,
           "duree": 94,
-          "generique": "Paul Newman, Susan Sarandon, Gene Hackman, Reese Witherspoon",
+          "generique": "Paul Newman, Susan Sarandon, Gene Hackman, James Gardner",
           "miniTexte": "« Twilight » ou le crépuscule, l'heure du bilan et de toutes les résolutions : Harry Boss, privé usé et désabusé, habite chez un couple d'amis et végète entre deux missions minables. Jusqu'à ce qu'on lui demande d'enquêter sur la mort, déjà ancienne, de l'ex de madame. Robert Benton s'appuie sur son trio d'acteurs et prend son temps pour construire un film tortueux, noir malgré les reflets de la luxueuse piscine et le sourire mystérieux de Susan Sarandon. Les cadavres dégringolent du placard resté jusque-là entrebaillé, tandis que face à Gene Hackman, Paul Newman joue les Philip Marlowe avec sa classe et son élégance. Un polar dépourvu de tout cynisme, qui questionne les valeurs, honneur, sincérité, et rend grâce avec une touche de mélancolie – notamment la partition d'Elmer Bernstein – à un certain classicisme hollywoodien.",
           "status": 2,
           "copies": [
@@ -10380,7 +10013,7 @@
       ]
     },
     {
-      "idSeance": 187945,
+      "idSeance": 188185,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -10390,79 +10023,31 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 32158,
+      "idEvenement": 32160,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-03T15:30:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-04-19T14:30:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 38158,
-          "titre": "Dodes'kaden",
-          "titreVo": "Dodesukaden",
-          "titreNx": "どですかでん",
-          "realisateurs": "Akira Kurosawa",
-          "annee": 1970,
-          "duree": 140,
-          "generique": "Yoshitaka Zushi, Kin Sugai, Junzaburō Ban",
-          "adaptation": "D'après des nouvelles du recueil _Quartier sans soleil_ de Shūgorō Yamamoto.",
-          "synopsis": "Dans un quartier défavorisé de Tokyo, dans les années 1970, un jeune garçon un peu simple s'échappe du réel pour se construire un monde imaginaire dans lequel il conduit un tramway.",
-          "miniTexte": "Loin de ses fresques monumentales en noir et blanc, Kurosawa expérimente la couleur pour saisir le quotidien des habitants d'un bidonville de Tokyo. Dans une série de vignettes aussi vives que poétiques, il dévoile l'humanité d'un monde de misère, de rêves et de folie douce, à l'image de ce « dodes'kaden », onomatopée du jeune garçon conduisant chaque jour un tramway imaginaire.",
+          "idFilm": 51577,
+          "titre": "Nuit américaine",
+          "art": "La",
+          "realisateurs": "François Truffaut",
+          "annee": 1972,
+          "duree": 115,
+          "generique": "Jacqueline Bisset, Jean-Pierre Aumont, Valentina Cortese",
+          "ageMinimal": 10,
+          "miniTexte": "Avec un amour passionné du cinéma, Truffaut entremêle la vie et le jeu pour raconter la magie de la création, sans jamais occulter les tensions et les compromis. À base de clins d'œil et d'hommages discrets, il jette en coulisses un regard drôle et émouvant, qui brille autant par son esprit que par sa légèreté.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 29007,
-              "duree": 140,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "JPN",
-              "sousTitres": "STF"
+              "idCopie": 14526,
+              "duree": 115,
+              "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 45909
-        }
-      ]
-    },
-    {
-      "idSeance": 185580,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 978,
-          "idCategorie": 3680,
-          "titreCycle": "Histoire permanente du cinéma",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32159,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-17T16:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 41861,
-          "titre": "Jardin des Finzi-Contini",
-          "art": "Le",
-          "titreVo": "Giardino dei Finzi-Contini",
-          "artVo": "Il",
-          "realisateurs": "Vittorio De Sica",
-          "annee": 1970,
-          "duree": 94,
-          "generique": "Dominique Sanda, Lino Capolicchio, Alessandro D'Alatri",
-          "adaptation": "D'après le roman _Le Jardin des Finzi-Contini_ de Giorgio Bassani.",
-          "miniTexte": "Italie, 1938. Le régime fasciste multiplie les mesures à l'encontre des Juifs, mais l'aristocratique famille Finzi-Contini ne croit pas à la menace, et continue sa vie insouciante et dorée, bien à l'abri dans son domaine. De Sica suggère toute la tristesse et toute l'horreur du monde en montrant la quiétude d'un jardin opulent, paradis perdu qui abrite les liens et les souvenirs de plusieurs générations.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 13803,
-              "duree": 94,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 49956
+          "idFilmBoxoffice": 3709
         }
       ]
     },
@@ -10479,7 +10064,7 @@
       ],
       "idEvenement": 32161,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-04T17:00:00",
+      "dateHeure": "2025-04-04T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -10801,50 +10386,6 @@
             }
           ],
           "idFilmBoxoffice": 2072
-        }
-      ]
-    },
-    {
-      "idSeance": 187951,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 978,
-          "idCategorie": 3680,
-          "titreCycle": "Histoire permanente du cinéma",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32170,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-10T16:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 38648,
-          "titre": "Droit du plus fort",
-          "art": "Le",
-          "titreVo": "Faustrecht der Freiheit",
-          "realisateurs": "Rainer Werner Fassbinder",
-          "annee": 1974,
-          "duree": 123,
-          "generique": "Rainer Werner Fassbinder, Peter Chatel, Karlheinz Böhm",
-          "synopsis": "Franz Biberkopf, un jeune homosexuel, perd son travail et son petit ami, arrêté par la police. Il gagne à la loterie et rencontre un homme très intéressé par son argent.",
-          "miniTexte": "La passion entre deux jeunes hommes tourne au tragique rapport de force. Derrière l'histoire d'amour toxique se cache une observation acerbe de la lutte des classes, d'une société obsédée par la réussite sociale et la performance sexuelle. Farouche défenseur des opprimés, Fassbinder capte, de scènes dramatiques en fulgurances grinçantes, l'insatiable désir de révolte d'une galerie de personnages égocentriques et retors.",
-          "commentaire": "« Le film cherche à représenter, dans la vie quotidienne en Allemagne, les différenciations de classe, à y inscrire la lutte des classes ; et à sortir le monde homosexuel du ghetto mystificateur où il se trouve refoulé. » (Serge Le Péron)",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 14082,
-              "duree": 123,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "GER",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 4201
         }
       ]
     },
@@ -11190,7 +10731,7 @@
       ],
       "idEvenement": 32180,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-05T16:30:00",
+      "dateHeure": "2025-05-05T16:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -11672,6 +11213,45 @@
             }
           ],
           "idFilmBoxoffice": 80717
+        }
+      ]
+    },
+    {
+      "idSeance": 188176,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32191,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-23T16:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 39583,
+          "titre": "Fitzcarraldo",
+          "realisateurs": "Werner Herzog",
+          "annee": 1981,
+          "duree": 157,
+          "generique": "Klaus Kinski, Claudia Cardinale, José Lewgoy, Miguel Ángel Fuentes",
+          "miniTexte": "Le film le plus fou de Werner Herzog, l'épopée d'un mégalomane passionné d'art lyrique, qui entreprend de construire un opéra en pleine forêt amazonienne. Marqué par des conditions extrêmes de tournage, le transport d'un bateau à vapeur au-dessus d'une colline et les colères à répétition de Klaus Kinski, _Fitzcarraldo_ incarne pleinement la folie des grandeurs, dans une authentique réflexion sur l'obsession et la quête de l'extase artistique.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 7643,
+              "duree": 157,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1537
         }
       ]
     },
@@ -12247,7 +11827,7 @@
       ],
       "idEvenement": 32252,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-06T14:30:00",
+      "dateHeure": "2025-04-06T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -12369,7 +11949,7 @@
         {
           "ordre": 1,
           "idFilm": 92550,
-          "titre": "orgueil de la firme",
+          "titre": "Orgueil de la firme",
           "art": "L'",
           "titreVo": "Stolz der Firma",
           "artVo": "Der",
@@ -13207,7 +12787,7 @@
       ],
       "idEvenement": 32353,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-30T19:30:00",
+      "dateHeure": "2025-03-30T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -13279,6 +12859,45 @@
       ]
     },
     {
+      "idSeance": 188165,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32354,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-03T20:15:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41617,
+          "titre": "Naked",
+          "realisateurs": "Mike Leigh",
+          "annee": 1993,
+          "generique": "David Thewlis, Lesley Sharp, Katrin Cartlidge",
+          "synopsis": "Johnny doit fuir Manchester après avoir violé une femme. Il se réfugie dans l'Est de Londres, chez son ancienne petite amie, et entame une longue errance dans les rues de la ville, pleine de sombres rencontres.",
+          "commentaire": "Après un premier film, _Bleak Moments_, en 1971, Mike Leigh passe une quinzaine d'années à réaliser des séries et des téléfilms avant de revenir au cinéma avec _High Hopes_ (1988) et _Life Is Sweet_ (1990), comédies dramatiques réalistes qui se concentrent sur une cellule familiale. _Naked_, comédie grinçante, violente, à l'esthétique réaliste trompeuse, opère un tournant sombre. Le tournage a pour cadre des lieux existants, mais Leigh et son équipe grisent les murs, éliminent les couleurs vives, et au moment du développement de la pellicule évitent le bain de blanchiment afin de donner plus de densité aux noirs. L'atmosphère blafarde qui en résulte fait basculer le film du côté de la métaphore. _Naked_ plonge le spectateur dans une vision cauchemardesque d'une Angleterre exsangue après la décennie thatchérienne, une époque où les rapports humains ne sont plus que brutalité. Loin des nobles personnages de la classe ouvrière de Ken Loach, Johnny, interprété par David Thewlis (récompensé à Cannes en 1993, tout comme Mike Leigh pour son scénario), est un Ulysse, affreux, sale et méchant, qui erre dans Londres. Son pendant, le glaçant Jeremy, à l'autre bout du spectre social, va encore plus loin dans l'abjection, sous le vernis du yuppie. Entre les deux, une série de personnages, des femmes victimes, souvent, mais résilientes et solidaires, et un gardien de nuit. Improvisé en partie, tourné sans autorisation dans les rues de la capitale anglaise, _Naked_ est aussi un film du langage, des accents, chargé d'une parole envahissante contre la frustration d'un monde toujours indifférent et froid.\n\nWafa Ghermani",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29192,
+              "duree": 0,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 8373
+        }
+      ]
+    },
+    {
       "idSeance": 187924,
       "idProg": 334,
       "idCycleCategories": [
@@ -13318,7 +12937,7 @@
       ]
     },
     {
-      "idSeance": 188047,
+      "idSeance": 186121,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -13330,7 +12949,7 @@
       ],
       "idEvenement": 32355,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-06T15:00:00",
+      "dateHeure": "2025-04-05T21:15:00",
       "idSalle": "JE",
       "items": [
         {
@@ -13390,44 +13009,6 @@
             }
           ],
           "idFilmBoxoffice": 10441
-        }
-      ]
-    },
-    {
-      "idSeance": 185927,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 986,
-          "idCategorie": 3701,
-          "titreCycle": "Mike Leigh",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32357,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-29T19:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 71542,
-          "titre": "Topsy-Turvy",
-          "realisateurs": "Mike Leigh",
-          "annee": 1998,
-          "duree": 160,
-          "generique": "Jim Broadbent, Allan Corduner, Timothy Spall",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29186,
-              "duree": 160,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 21848
         }
       ]
     },
@@ -13507,7 +13088,7 @@
       ]
     },
     {
-      "idSeance": 188038,
+      "idSeance": 188168,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -13519,7 +13100,7 @@
       ],
       "idEvenement": 32359,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-28T21:00:00",
+      "dateHeure": "2025-03-29T19:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -13578,6 +13159,59 @@
             }
           ],
           "idFilmBoxoffice": 9906
+        }
+      ]
+    },
+    {
+      "idSeance": 188169,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3701,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32361,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-30T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 112397,
+          "titre": "Another Year",
+          "realisateurs": "Mike Leigh",
+          "annee": 2009,
+          "duree": 129,
+          "generique": "Jim Broadbent, Lesley Manville, Ruth Sheen",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29187,
+              "duree": 129,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29188,
+              "duree": 129,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 29227,
+              "duree": 129,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 171855
         }
       ]
     },
@@ -13766,7 +13400,7 @@
       ],
       "idEvenement": 32401,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-09T20:00:00",
+      "dateHeure": "2025-05-09T20:30:00",
       "idSalle": "HL",
       "typeSeance": 44,
       "items": [
@@ -15013,6 +14647,77 @@
       ]
     },
     {
+      "idSeance": 186136,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3725,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Films pour la télévision"
+        }
+      ],
+      "idEvenement": 32477,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-06T15:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 113075,
+          "titre": "A Sense of History",
+          "realisateurs": "Mike Leigh",
+          "annee": 1992,
+          "duree": 25,
+          "synopsis": "Le 23e comte de Leete commence à partager ses pensées intimes sur son pays, son patrimoine et les institutions modernes en qui il voit l'ennemi. Mais peu à peu, le comte livre à la caméra des secrets de famille qui donnent une tout autre coloration à ce portrait.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29265,
+              "duree": 25,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 113074,
+          "titre": "Short and Curlies",
+          "art": "The",
+          "realisateurs": "Mike Leigh",
+          "annee": 1987,
+          "duree": 17,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29266,
+              "duree": 17,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 135930,
+          "titre": "A Running Jump",
+          "realisateurs": "Mike Leigh",
+          "annee": 2012,
+          "duree": 35,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29267,
+              "duree": 35,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 185758,
       "idProg": 334,
       "idCycleCategories": [
@@ -15291,7 +14996,7 @@
       ]
     },
     {
-      "idSeance": 185772,
+      "idSeance": 188167,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -15303,7 +15008,7 @@
       ],
       "idEvenement": 32501,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-24T19:00:00",
+      "dateHeure": "2025-05-12T19:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -15519,25 +15224,6 @@
         }
       ],
       "mention": "Séance suivie d'une discussion avec David Depesseville"
-    },
-    {
-      "idSeance": 187095,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 140,
-          "idCategorie": 3731,
-          "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "GREC"
-        }
-      ],
-      "idEvenement": 32508,
-      "typeEvenement": 13,
-      "libelleEvenement": "4 FILMS DU GREC 2025",
-      "dateHeure": "2025-05-12T19:00:00",
-      "idSalle": "JE",
-      "theorique": true,
-      "items": []
     },
     {
       "idSeance": 186339,
