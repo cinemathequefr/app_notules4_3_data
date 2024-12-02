@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-02T10:47:59.996Z",
+  "updatedAt": "2024-12-02T10:57:17.557Z",
   "data": [
     {
       "idSeance": 188129,
@@ -3566,10 +3566,20 @@
           "titreVo": "Two for the Seesaw",
           "realisateurs": "Robert Wise",
           "annee": 1962,
+          "duree": 120,
           "generique": "Robert Mitchum, Shirley MacLaine, Edmon Ryan",
           "adaptation": "D'après la pièce de théâtre _Two for the Seesaw_ de William Gibson.",
           "miniTexte": "Marqués par leurs passés respectifs, un avocat et une danseuse vivent une histoire d'amour tumultueuse, faite d'angoisses et de contradictions. Par les gestes, les silences et les regards, _Deux sur la balançoire_, d'après la fameuse pièce, raconte la réinvention de soi après une rupture, mais aussi la complexité des émotions et les différences culturelles. Une romance poignante, sublimée par l'alchimie du duo Mitchum/MacLaine.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 28989,
+              "duree": 120,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
           "idFilmBoxoffice": 20074
         }
       ]
@@ -3672,9 +3682,16 @@
           "titreVo": "Until They Sail",
           "realisateurs": "Robert Wise",
           "annee": 1957,
+          "duree": 94,
           "generique": "Jean Simmons, Joan Fontaine, Paul Newman",
           "miniTexte": "En Nouvelle-Zélande, les destins contrariés de quatre sœurs, amoureuses éperdues de soldats américains durant la guerre. Porté par un prodigieux ensemble d'actrices (Joan Fontaine, Jean Simmons, Piper Laurie), Femmes coupables évoque subtilement le drame des sentiments dans une atmosphère mélancolique. Avec un jeune Paul Newman dans l'un de ses premiers rôles.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29332,
+              "duree": 94
+            }
+          ],
           "idFilmBoxoffice": 108895
         }
       ]
@@ -4733,9 +4750,16 @@
           "artVo": "The",
           "realisateurs": "Robert Wise",
           "annee": 1975,
+          "duree": 135,
           "generique": "George C. Scott, Anne Bancroft, William Atherton",
           "miniTexte": "Les derniers instants du célèbre dirigeable allemand, le Hindenburg. Le cinéaste s'essaie au film catastrophe et recrée minutieusement une Allemagne en pleine montée du nazisme face à la peur de l'espionnage. À huis clos, il façonne une escalade de tension jusqu'à l'impressionnante séquence de l'explosion, grand moment de tragédie.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29333,
+              "duree": 135
+            }
+          ],
           "idFilmBoxoffice": 54553
         }
       ]
@@ -5026,7 +5050,8 @@
           ],
           "idFilmBoxoffice": 10433
         }
-      ]
+      ],
+      "mention": "Séance présentée par Juliette Armantier"
     },
     {
       "idSeance": 188099,
