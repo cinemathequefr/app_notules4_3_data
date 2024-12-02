@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-02T09:04:02.974Z",
+  "updatedAt": "2024-12-02T09:52:23.048Z",
   "data": [
     {
       "idSeance": 188129,
@@ -7245,12 +7245,18 @@
           "idCategorie": 3675,
           "titreCycle": "Ernst Lubitsch",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 975,
+          "idCategorie": 3707,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32068,
-      "typeEvenement": 13,
       "dateHeure": "2025-04-12T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -7274,6 +7280,13 @@
             }
           ],
           "idFilmBoxoffice": 317
+        },
+        {
+          "idConf": 32397,
+          "titre": "FILM + DIALOGUE AVEC CHARLOTTE GARSON",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
         }
       ]
     },
@@ -13474,33 +13487,6 @@
           "titre": "LUBITSCH AU TRAVAIL (À HOLLYWOOD)",
           "typeConference": "Conférence",
           "duree": 90,
-          "ordre": 1
-        }
-      ]
-    },
-    {
-      "idSeance": 187984,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3707,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 32397,
-      "typeEvenement": 14,
-      "dateHeure": "2025-04-12T16:30:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "idConf": 32397,
-          "titre": "FILM + DIALOGUE AVEC CHARLOTTE GARSON",
-          "typeConference": "Dialogue",
-          "duree": 60,
           "ordre": 1
         }
       ]
