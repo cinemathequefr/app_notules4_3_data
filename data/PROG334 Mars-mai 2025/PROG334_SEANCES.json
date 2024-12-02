@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-02T09:52:23.048Z",
+  "updatedAt": "2024-12-02T10:47:59.996Z",
   "data": [
     {
       "idSeance": 188129,
@@ -3336,6 +3336,15 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29330,
+              "duree": 118,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ],
@@ -3375,6 +3384,15 @@
           "copies": [
             {
               "idCopie": 28976,
+              "duree": 118,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29330,
               "duree": 118,
               "format": "35 mm",
               "version": "VO",
@@ -4234,9 +4252,18 @@
           "titreVo": "Two People",
           "realisateurs": "Robert Wise",
           "annee": 1972,
+          "duree": 100,
           "generique": "Peter Fonda, Lindsay Wagner, Estelle Parsons",
           "miniTexte": "L'histoire d'amour brève et passionnelle entre un déserteur du Vietnam et une célèbre mannequin. Wise retrace l'itinéraire mélancolique de deux âmes perdues, qui se croisent à Paris, et aborde, sous l'angle du mélodrame intime, les conséquences des conflits sur les individus. Avec un duo Fonda/Wagner parfaitement assorti.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29331,
+              "duree": 100,
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
           "idFilmBoxoffice": 28032
         }
       ]
@@ -6264,11 +6291,8 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 9998,
-              "duree": 80,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
+              "idCopie": 29329,
+              "duree": 80
             }
           ],
           "idFilmBoxoffice": 58242
@@ -6636,7 +6660,7 @@
           "titreVo": "Cluny Brown",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1945,
-          "duree": 99,
+          "duree": 100,
           "generique": "Jennifer Jones, Charles Boyer, Peter Lawford",
           "adaptation": "D'après le roman _Cluny Brown_ de Margery Sharp.",
           "synopsis": "La jeune et pétulante Cluny Brown remplace son oncle plombier pour une intervention chez Hilary Ames. Elle y fait la connaissance d'un séduisant réfugié tchèque, pique-assiette et philosophe.",
@@ -6644,16 +6668,16 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 21129,
-              "duree": 99,
+              "idCopie": 15802,
+              "duree": 100,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF",
               "selected": true
             },
             {
-              "idCopie": 15802,
-              "duree": 100,
+              "idCopie": 21129,
+              "duree": 99,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
@@ -6694,7 +6718,7 @@
           "titreVo": "Cluny Brown",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1945,
-          "duree": 99,
+          "duree": 100,
           "generique": "Jennifer Jones, Charles Boyer, Peter Lawford",
           "adaptation": "D'après le roman _Cluny Brown_ de Margery Sharp.",
           "synopsis": "La jeune et pétulante Cluny Brown remplace son oncle plombier pour une intervention chez Hilary Ames. Elle y fait la connaissance d'un séduisant réfugié tchèque, pique-assiette et philosophe.",
@@ -6702,16 +6726,16 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 21129,
-              "duree": 99,
+              "idCopie": 15802,
+              "duree": 100,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF",
               "selected": true
             },
             {
-              "idCopie": 15802,
-              "duree": 100,
+              "idCopie": 21129,
+              "duree": 99,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
@@ -8054,16 +8078,13 @@
           "artVo": "Die",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1919,
-          "duree": 63,
+          "duree": 70,
           "miniTexte": "Visuellement époustouflant, inventif, grotesque jusqu'au scabreux, _La Princesse aux huîtres_ représente le meilleur des comédies déjantées du cinéaste, qui utilise pour la première fois le burlesque comme satire. La fille capricieuse du magnat de l'huître américain veut épouser un prince, mais évidemment rien ne se passe comme prévu. Dans un décor opulent, les ballets incessants de serviteurs combinés aux fracas des objets donnent au film une énergie bourdonnante, à l'image d'une scène de foxtrot d'anthologie. Une agitation sur mesure, qui reflète toute la vanité et la luxure d'une bourgeoisie débridée, dans l'une des plus éclatantes démonstrations de l'art du rythme selon Lubitsch.",
           "status": 1,
           "copies": [
             {
-              "idCopie": 29071,
-              "duree": 63,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
+              "idCopie": 29328,
+              "duree": 70
             }
           ],
           "idFilmBoxoffice": 846
@@ -8100,11 +8121,8 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 29064,
-              "duree": 37,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
+              "idCopie": 29327,
+              "duree": 37
             }
           ],
           "idFilmBoxoffice": 27337
@@ -11928,7 +11946,7 @@
         {
           "idConf": 32396,
           "titre": "DARREN ARONOFSKY PAR DARREN ARONOFSKY",
-          "typeConference": "Dialogue",
+          "typeConference": "Leçon de cinéma",
           "duree": 60,
           "ordre": 2
         }
@@ -12665,7 +12683,7 @@
           "ordre": 1,
           "idConf": 32342,
           "idTypeConf": 55,
-          "titre": "Rencontre avec Simon Weisse",
+          "titre": "Conférence de Simon Weisse",
           "duree": 90
         }
       ]
@@ -12691,7 +12709,7 @@
         {
           "ordre": 1,
           "idConf": 32343,
-          "idTypeConf": 55,
+          "idTypeConf": 16,
           "titre": "Rencontre avec Robert Yeoman",
           "duree": 90
         }
@@ -15329,6 +15347,33 @@
         }
       ],
       "mention": "Séance suivie d'une discussion avec Hefse Guiro"
+    },
+    {
+      "idSeance": 188149,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3734,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32517,
+      "typeEvenement": 14,
+      "dateHeure": "2025-03-29T16:30:00",
+      "typeConference": "Leçon de cinéma",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 32517,
+          "titre": "MIKE LEIGH PAR MIKE LEIGH. UNE LEÇON DE CINÉMA.",
+          "typeConference": "Leçon de cinéma",
+          "duree": 60,
+          "ordre": 1
+        }
+      ]
     }
   ]
 }
