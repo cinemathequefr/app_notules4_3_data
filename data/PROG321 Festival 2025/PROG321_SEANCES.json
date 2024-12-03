@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-03T13:45:34.927Z",
+  "updatedAt": "2024-12-03T14:22:07.667Z",
   "data": [
     {
       "idSeance": 188170,
@@ -1644,33 +1644,33 @@
       ]
     },
     {
-      "idSeance": 188223,
+      "idSeance": 188232,
       "idProg": 321,
       "idCycleCategories": [
         {
           "idCycle": 992,
-          "idCategorie": 3740,
+          "idCategorie": 3739,
           "titreCycle": "Werner Schroeter",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 32539,
+      "idEvenement": 32526,
       "typeEvenement": 13,
       "dateHeure": "2025-03-08T19:00:00",
       "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 155136,
-          "titre": "Aggression",
+          "idFilm": 155126,
+          "titre": "Ica Vilander",
           "realisateurs": "Werner Schroeter",
           "annee": 1968,
-          "duree": 22,
+          "duree": 5,
           "status": 0,
           "copies": [
             {
-              "idCopie": 29365,
-              "duree": 22,
+              "idCopie": 29368,
+              "duree": 5,
               "format": "DCP",
               "version": "VO",
               "stDemande": true
@@ -1679,16 +1679,16 @@
         },
         {
           "ordre": 2,
-          "idFilm": 95434,
-          "titre": "Neurasia",
+          "idFilm": 155124,
+          "titre": "Carla Salome",
           "realisateurs": "Werner Schroeter",
-          "annee": 1969,
-          "duree": 37,
+          "annee": 1968,
+          "duree": 5,
           "status": 0,
           "copies": [
             {
-              "idCopie": 29367,
-              "duree": 37,
+              "idCopie": 29369,
+              "duree": 5,
               "format": "DCP",
               "version": "VO",
               "stDemande": true
@@ -1697,16 +1697,70 @@
         },
         {
           "ordre": 3,
-          "idFilm": 155137,
-          "titre": "Argila",
+          "idFilm": 155125,
+          "titre": "Magdalena",
           "realisateurs": "Werner Schroeter",
-          "annee": 1969,
-          "duree": 33,
+          "annee": 1968,
+          "duree": 2,
           "status": 0,
           "copies": [
             {
-              "idCopie": 29366,
-              "duree": 33,
+              "idCopie": 29370,
+              "duree": 2,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 155133,
+          "titre": "Morte d'Isotta",
+          "art": "La",
+          "realisateurs": "Werner Schroeter",
+          "annee": 1968,
+          "duree": 37,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29371,
+              "duree": 37,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 155134,
+          "titre": "Himmel Hoch",
+          "realisateurs": "Werner Schroeter",
+          "annee": 1968,
+          "duree": 10,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29372,
+              "duree": 10,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 6,
+          "idFilm": 155135,
+          "titre": "Paula -« Je reviens »",
+          "realisateurs": "Werner Schroeter",
+          "annee": 1968,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29373,
+              "duree": 0,
               "format": "DCP",
               "version": "VO",
               "stDemande": true
