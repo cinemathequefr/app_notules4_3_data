@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-03T09:09:45.069Z",
+  "updatedAt": "2024-12-03T13:41:23.366Z",
   "data": [
     {
       "idSeance": 185394,
@@ -6757,6 +6757,19 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 14777,
+              "duree": 83,
+              "format": "DCP",
+              "version": "VO"
+            },
+            {
+              "idCopie": 29364,
+              "duree": 83,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 4
@@ -6809,6 +6822,19 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 14777,
+              "duree": 83,
+              "format": "DCP",
+              "version": "VO"
+            },
+            {
+              "idCopie": 29364,
+              "duree": 83,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 4
@@ -6856,7 +6882,10 @@
             },
             {
               "idCopie": 29335,
-              "duree": 76
+              "duree": 76,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 4033
@@ -7731,11 +7760,12 @@
               "selected": true
             },
             {
-              "idCopie": 15569,
+              "idCopie": 26416,
               "duree": 90,
               "format": "DCP",
               "version": "VO",
-              "stDemande": true
+              "langCopie": "ENG",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 1389
@@ -7783,11 +7813,12 @@
               "selected": true
             },
             {
-              "idCopie": 15569,
+              "idCopie": 26416,
               "duree": 90,
               "format": "DCP",
               "version": "VO",
-              "stDemande": true
+              "langCopie": "ENG",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 1389
@@ -12288,12 +12319,12 @@
           "titre": "Mandrin, épisode 1 : Le Révolté",
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
-          "duree": 73,
+          "duree": 81,
           "status": 0,
           "copies": [
             {
               "idCopie": 29351,
-              "duree": 73,
+              "duree": 81,
               "format": "35 mm",
               "intertitres": "INT. FR."
             }
@@ -12305,12 +12336,12 @@
           "titre": "Mandrin, épisode 2 : L'Exempt Pistolet",
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
-          "duree": 38,
+          "duree": 42,
           "status": 0,
           "copies": [
             {
               "idCopie": 29352,
-              "duree": 38,
+              "duree": 42,
               "format": "35 mm",
               "intertitres": "INT. FR."
             }
@@ -12340,12 +12371,12 @@
           "titre": "Mandrin, épisode 3 : L'Étrange escamoteur",
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
-          "duree": 34,
+          "duree": 38,
           "status": 0,
           "copies": [
             {
               "idCopie": 29353,
-              "duree": 34,
+              "duree": 38,
               "format": "35 mm",
               "intertitres": "INT. FR."
             }
@@ -12357,12 +12388,12 @@
           "titre": "Mandrin, épisode 4 : Les Noces de Mandrin",
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
-          "duree": 41,
+          "duree": 46,
           "status": 0,
           "copies": [
             {
               "idCopie": 29354,
-              "duree": 41,
+              "duree": 46,
               "format": "35 mm",
               "intertitres": "INT. FR."
             }
@@ -12392,12 +12423,12 @@
           "titre": "Mandrin, épisode 5 : Le Château de M. de Voltaire",
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
-          "duree": 43,
+          "duree": 48,
           "status": 0,
           "copies": [
             {
               "idCopie": 29356,
-              "duree": 43,
+              "duree": 48,
               "format": "35 mm",
               "intertitres": "INT. FR."
             }
@@ -12409,12 +12440,12 @@
           "titre": "Mandrin, épisode 6 : La Grâce du Roy",
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
-          "duree": 45,
+          "duree": 50,
           "status": 0,
           "copies": [
             {
               "idCopie": 29357,
-              "duree": 45,
+              "duree": 50,
               "format": "35 mm",
               "intertitres": "INT. FR."
             }
@@ -12444,12 +12475,12 @@
           "titre": "Mandrin, épisode 7 : La Trahison",
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
-          "duree": 40,
+          "duree": 44,
           "status": 0,
           "copies": [
             {
               "idCopie": 29358,
-              "duree": 40,
+              "duree": 44,
               "format": "35 mm",
               "intertitres": "INT. FR."
             }
@@ -12461,12 +12492,12 @@
           "titre": "Mandrin, épisode 8 : Justice",
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
-          "duree": 49,
+          "duree": 55,
           "status": 0,
           "copies": [
             {
               "idCopie": 29359,
-              "duree": 49,
+              "duree": 55,
               "format": "35 mm",
               "intertitres": "INT. FR."
             }
@@ -15514,7 +15545,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Sylvie Pierre"
     }
   ]
 }
