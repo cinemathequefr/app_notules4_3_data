@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-02T15:44:52.986Z",
+  "updatedAt": "2024-12-02T16:06:06.128Z",
   "data": [
     {
       "idSeance": 185394,
@@ -549,48 +549,6 @@
       ]
     },
     {
-      "idSeance": 186337,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 970,
-          "idCategorie": 3669,
-          "titreCycle": "Le western, 25 indispensables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31867,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-14T18:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 60404,
-          "titre": "Ville abandonnée",
-          "art": "La",
-          "titreVo": "Yellow Sky",
-          "realisateurs": "William A. Wellman",
-          "annee": 1948,
-          "duree": 98,
-          "generique": "Gregory Peck, Richard Widmark, Anne Baxter",
-          "adaptation": "D'après le roman _Yellow Sky_ de W. R. Burnett.",
-          "synopsis": "Une bande de pilleurs de banques traverse un désert pour fuir les représentants de l'ordre.",
-          "miniTexte": "Poursuivi par des soldats, un groupe de hors-la-loi se réfugie dans une ville fantôme perdue au milieu du désert. Rongés par l'appât du gain, Richard Widmark et Gregory Peck se confrontent dans un huis clos tendu, qui questionne la loyauté envers les siens et le désir de rédemption. Un western atypique, perpétuellement surprenant par sa violence contenue.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29301,
-              "duree": 98,
-              "format": "DCP",
-              "version": "VO"
-            }
-          ],
-          "idFilmBoxoffice": 43428
-        }
-      ]
-    },
-    {
       "idSeance": 187981,
       "idProg": 334,
       "idCycleCategories": [
@@ -1023,7 +981,7 @@
       ]
     },
     {
-      "idSeance": 186338,
+      "idSeance": 188190,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1035,8 +993,8 @@
       ],
       "idEvenement": 31879,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-14T20:45:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-04-13T17:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -1078,7 +1036,7 @@
       ],
       "idEvenement": 31880,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-13T19:45:00",
+      "dateHeure": "2025-04-13T19:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -6166,6 +6124,55 @@
       "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
+      "idSeance": 188187,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32045,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-12T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40703,
+          "titre": "Carmen",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1918,
+          "duree": 70,
+          "generique": "Pola Negri, Harry Liedtke, Leopold von Ledebur",
+          "adaptation": "D'après la nouvelle _Carmen_ de Prosper Mérimée.",
+          "synopsis": "Le soldat Don José tombe sous le charme d'une Gitane, Carmen, qui le méprise.",
+          "miniTexte": "Dans les rues de Séville reconstituées, des centaines de figurants, et Pola Negri dans le rôle de l'impétueuse gitane. Première grande production de Lubitsch, l'adaptation de la nouvelle de Mérimée, diffusée avec succès dans les cinémas américains, constitue les fondements de sa future carrière hollywoodienne.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 13885,
+              "duree": 70,
+              "format": "16 mm",
+              "intertitres": "INT. ANG.",
+              "stDemande": true,
+              "selected": true
+            },
+            {
+              "idCopie": 29068,
+              "duree": 70,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 3043
+        }
+      ]
+    },
+    {
       "idSeance": 188171,
       "idProg": 334,
       "idCycleCategories": [
@@ -6480,7 +6487,7 @@
           "titreVo": "Cluny Brown",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1945,
-          "duree": 99,
+          "duree": 100,
           "generique": "Jennifer Jones, Charles Boyer, Peter Lawford",
           "adaptation": "D'après le roman _Cluny Brown_ de Margery Sharp.",
           "synopsis": "La jeune et pétulante Cluny Brown remplace son oncle plombier pour une intervention chez Hilary Ames. Elle y fait la connaissance d'un séduisant réfugié tchèque, pique-assiette et philosophe.",
@@ -6488,24 +6495,24 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 21129,
-              "duree": 99,
-              "format": "35 mm",
+              "idCopie": 15802,
+              "duree": 100,
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF",
               "selected": true
             },
             {
-              "idCopie": 21130,
-              "duree": 100,
+              "idCopie": 21129,
+              "duree": 99,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             },
             {
-              "idCopie": 15802,
+              "idCopie": 21130,
               "duree": 100,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -6538,7 +6545,7 @@
           "titreVo": "Cluny Brown",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1945,
-          "duree": 99,
+          "duree": 100,
           "generique": "Jennifer Jones, Charles Boyer, Peter Lawford",
           "adaptation": "D'après le roman _Cluny Brown_ de Margery Sharp.",
           "synopsis": "La jeune et pétulante Cluny Brown remplace son oncle plombier pour une intervention chez Hilary Ames. Elle y fait la connaissance d'un séduisant réfugié tchèque, pique-assiette et philosophe.",
@@ -6546,24 +6553,24 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 21129,
-              "duree": 99,
-              "format": "35 mm",
+              "idCopie": 15802,
+              "duree": 100,
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF",
               "selected": true
             },
             {
-              "idCopie": 21130,
-              "duree": 100,
+              "idCopie": 21129,
+              "duree": 99,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             },
             {
-              "idCopie": 15802,
+              "idCopie": 21130,
               "duree": 100,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -6657,7 +6664,7 @@
       "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
-      "idSeance": 187795,
+      "idSeance": 188193,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -6669,7 +6676,7 @@
       ],
       "idEvenement": 32062,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-14T18:00:00",
+      "dateHeure": "2025-03-15T16:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -7128,7 +7135,7 @@
       ],
       "idEvenement": 32077,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-12T19:30:00",
+      "dateHeure": "2025-04-12T19:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7165,7 +7172,7 @@
       ]
     },
     {
-      "idSeance": 187829,
+      "idSeance": 188191,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -7177,7 +7184,7 @@
       ],
       "idEvenement": 32079,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-15T18:30:00",
+      "dateHeure": "2025-03-14T21:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -7636,7 +7643,7 @@
       ]
     },
     {
-      "idSeance": 187820,
+      "idSeance": 188192,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -7648,7 +7655,7 @@
       ],
       "idEvenement": 32091,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-14T21:00:00",
+      "dateHeure": "2025-03-15T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -7904,6 +7911,86 @@
       "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
+      "idSeance": 188189,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32100,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-14T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 128868,
+          "titre": "Quand j'étais mort",
+          "titreVo": "Als ich tot war",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1915,
+          "duree": 37,
+          "generique": "Ernst Lubitsch",
+          "miniTexte": "Un dandy se fait passer pour mort et revient chez lui déguisé en domestique. Les débuts de Lubitsch et la plus ancienne de ses réalisations encore visibles, une comédie conjugale mordante, qui révèle tout son génie burlesque.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29327,
+              "duree": 37
+            }
+          ],
+          "idFilmBoxoffice": 27337
+        },
+        {
+          "ordre": 2,
+          "idFilm": 40745,
+          "titre": "Wenn vier dasselbe tun",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1917,
+          "duree": 42,
+          "miniTexte": "Sur le thème du sentiment amoureux, Lubitsch réalise et interprète un ballet pour quatre personnages, dont la cadence annonce ses futurs _musicals_.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29065,
+              "duree": 42,
+              "format": "Numérique",
+              "intertitres": "Autres",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 185387
+        },
+        {
+          "ordre": 3,
+          "idFilm": 40754,
+          "titre": "Roi du corsage",
+          "art": "Le",
+          "titreVo": "Blusenkönig",
+          "artVo": "Der",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1917,
+          "duree": 12,
+          "generique": "Ernst Lubitsch, Käthe Dorsch, Guido Herzfeld",
+          "miniTexte": "Fragment d'un film perdu, dans la série des comédies « boutiquières » qui ont fait la renommée de Lubitsch, et dans lesquelles il interprète un petit apprenti qui tente de s'élever socialement.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29066,
+              "duree": 12,
+              "format": "Numérique",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 188081,
       "idProg": 334,
       "idCycleCategories": [
@@ -8067,6 +8154,67 @@
       ]
     },
     {
+      "idSeance": 188188,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32105,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-14T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 73877,
+          "titre": "Roméo et Juliette dans la neige",
+          "titreVo": "Romeo und Julia im Schnee",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1920,
+          "duree": 48,
+          "miniTexte": "Pastiche de la pièce de Shakespeare, _Roméo et Juliette dans la neige_ fait partie de la série « montagnarde » de Lubitsch. Transformés en rustres bavarois, les Capulethofer et les Montekugerl s'affrontent à coup de batailles de boules de neige et de procès farfelus.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29062,
+              "duree": 48,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 75372
+        },
+        {
+          "ordre": 2,
+          "idFilm": 44984,
+          "titre": "Montmartre",
+          "titreVo": "Flamme",
+          "artVo": "Die",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1922,
+          "duree": 41,
+          "miniTexte": "Une modiste parisienne se perd dans une vie dissolue, au grand dam de son cousin. Illuminés par le jeu subtil de Pola Negri, les fragments qui subsistent de ce drame naturaliste offrent un aperçu fascinant du dernier film allemand de Lubitsch.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29061,
+              "duree": 41,
+              "format": "Numérique",
+              "intertitres": "INT. ANG.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 18463
+        }
+      ]
+    },
+    {
       "idSeance": 185693,
       "idProg": 334,
       "idCycleCategories": [
@@ -8196,46 +8344,6 @@
             }
           ],
           "idFilmBoxoffice": 2250
-        }
-      ]
-    },
-    {
-      "idSeance": 187844,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32111,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-15T16:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 33911,
-          "titre": "Si j'avais un million",
-          "titreVo": "If I Had a Million",
-          "realisateurs": "James Cruze, H. Bruce Humberstone, Ernst Lubitsch, [etc.]",
-          "annee": 1932,
-          "duree": 88,
-          "adaptation": "D'après le roman _Windfall_ de Robert D. Andrews.",
-          "miniTexte": "Film à sketches dans lequel un riche industriel décide de léguer un million de dollars à des inconnus trouvés au hasard dans l'annuaire. Lubitsch choisit l'excellent Charles Laughton pour incarner l'heureux élu dans un court gag inoubliable.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29081,
-              "duree": 88,
-              "format": "16 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 2429
         }
       ]
     },
@@ -9307,7 +9415,7 @@
       ]
     },
     {
-      "idSeance": 187822,
+      "idSeance": 188195,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -9319,7 +9427,7 @@
       ],
       "idEvenement": 32141,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-14T18:30:00",
+      "dateHeure": "2025-03-15T15:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -9550,7 +9658,7 @@
       ]
     },
     {
-      "idSeance": 187825,
+      "idSeance": 188194,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -9562,8 +9670,8 @@
       ],
       "idEvenement": 32146,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-15T15:00:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-03-14T18:30:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -10257,49 +10365,6 @@
             }
           ],
           "idFilmBoxoffice": 920
-        }
-      ]
-    },
-    {
-      "idSeance": 186309,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 978,
-          "idCategorie": 3680,
-          "titreCycle": "Histoire permanente du cinéma",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32166,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-12T17:15:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 42345,
-          "titre": "Parfum de femme",
-          "titreVo": "Profumo di donna",
-          "realisateurs": "Dino Risi",
-          "annee": 1974,
-          "duree": 103,
-          "generique": "Vittorio Gassman, Alessandro Momo, Agostina Belli",
-          "adaptation": "D'après le roman _Parfum de femme_ de Giovanni Arpino.",
-          "synopsis": "Un jeune officier d'ordonnance est chargé de tenir compagnie à un ancien capitaine devenu aveugle, obsédé par les femmes et tenté par le suicide.",
-          "miniTexte": "Magistral Vittorio Gassman dans le rôle d'un ancien capitaine aveugle, obsédé par les femmes. Un monstre de cynisme et de vulnérabilité, décrit avec finesse par Dino Risi, tout au long d'un périple italien, qui mêle l'humour, le drame et la satire sociale.",
-          "commentaire": "Un portrait à l'eau-forte qui traduit l'état d'esprit d'un homme refusant de voir ce que son infirmité lui prend, à savoir sa fierté, son assurance, sa virilité et son autorité. Si Fausto joue les comiques, c'est pour mieux dissimuler son amertume. Impérial, agressif et angoissé, Vittorio Gassman l'interprète avec un immense talent. Un rôle, récompensé au Festival de Cannes, plein de nuances et de force, pour un film à la fois très cruel et très tendre. Avec _Parfum de femme_, Dino Risi apparaît dès lors comme un clown triste. « C'est certainement un film plus grave que d'habitude pour moi, et plutôt que de comédie à l'italienne, il faudrait peut-être parler ici de tragédie à l'italienne. » Une comédie triste réussie, une œuvre populaire, à la fois divertissante et subtilement critique, une recette d'alchimiste dont seul Risi a le secret.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 21324,
-              "duree": 103,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 1792
         }
       ]
     },
@@ -11868,7 +11933,7 @@
       ],
       "idEvenement": 32255,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-14T20:30:00",
+      "dateHeure": "2025-03-14T21:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -13177,59 +13242,6 @@
       "typeEvenement": 13,
       "dateHeure": "2025-03-30T17:00:00",
       "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 112397,
-          "titre": "Another Year",
-          "realisateurs": "Mike Leigh",
-          "annee": 2009,
-          "duree": 129,
-          "generique": "Jim Broadbent, Lesley Manville, Ruth Sheen",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29187,
-              "duree": 129,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29188,
-              "duree": 129,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 29227,
-              "duree": 129,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 171855
-        }
-      ]
-    },
-    {
-      "idSeance": 187926,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 986,
-          "idCategorie": 3701,
-          "titreCycle": "Mike Leigh",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32361,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-06T20:30:00",
-      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -14643,6 +14655,33 @@
               "version": "VF"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188186,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 986,
+          "idCategorie": 3725,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Films pour la télévision"
+        }
+      ],
+      "idEvenement": 32474,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-06T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155107,
+          "titre": "Nuts in May",
+          "realisateurs": "Mike Leigh",
+          "annee": 1976,
+          "synopsis": "C'est l'histoire comique d'une bataille épuisante entre un amoureux de la nature et un couple de bien-pensants qui cherchent à profiter de leurs vacances dans un camping qu'ils croient idyllique.",
+          "status": 0
         }
       ]
     },
