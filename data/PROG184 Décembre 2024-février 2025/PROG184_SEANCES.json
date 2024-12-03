@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-02T15:27:59.785Z",
+  "updatedAt": "2024-12-03T09:09:54.164Z",
   "data": [
     {
       "idSeance": 185115,
@@ -4749,12 +4749,28 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 29360,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "Autres",
+              "selected": true
+            },
+            {
               "idCopie": 28758,
               "duree": 80,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
               "stDemande": true
+            },
+            {
+              "idCopie": 28839,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 202092
@@ -5205,19 +5221,30 @@
           "art": "The",
           "realisateurs": "John Frankenheimer",
           "annee": 1973,
-          "duree": 237,
+          "duree": 239,
           "generique": "Lee Marvin, Fredric March, Robert Ryan",
           "adaptation": "D'après la pièce _Le marchand de glace est passé_ d'Eugene O'Neill.",
           "miniTexte": "L'adaptation fidèle de la pièce d'Eugene O'Neill, chronique de l'amertume dans le huis clos d'un bar miteux. Lee Marvin campe un homme au désespoir sourd, qui raconte à qui veut sa vie, ses désirs et ses désillusions. Un voyage introspectif, une réflexion implacable sur l'humanité. Et le dernier film des grands Robert Ryan et Fredric March.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 28573,
-              "duree": 237,
+              "idCopie": 29018,
+              "duree": 239,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF"
+              "selected": true
+            },
+            {
+              "idCopie": 29361,
+              "duree": 239,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            },
+            {
+              "idCopie": 29362,
+              "duree": 239
             }
           ],
           "idFilmBoxoffice": 34441
@@ -17034,7 +17061,7 @@
           "titre": "Stalag 17",
           "realisateurs": "Billy Wilder",
           "annee": 1953,
-          "duree": 121,
+          "duree": 120,
           "generique": "William Holden, Otto Preminger, Don Taylor",
           "adaptation": "D'après la pièce _Stalag 17_ de Donald Bevan et Edmund Trzcinski.",
           "synopsis": "Durant la Seconde Guerre mondiale, dans un camp de prisonniers américains en Allemagne, Sefton, qui commerce avec l'ennemi, est soupçonné d'être un traître et décide d'un plan pour se disculper.",
@@ -17043,7 +17070,7 @@
           "copies": [
             {
               "idCopie": 16449,
-              "duree": 121,
+              "duree": 120,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
@@ -17076,7 +17103,7 @@
           "titre": "Stalag 17",
           "realisateurs": "Billy Wilder",
           "annee": 1953,
-          "duree": 121,
+          "duree": 120,
           "generique": "William Holden, Otto Preminger, Don Taylor",
           "adaptation": "D'après la pièce _Stalag 17_ de Donald Bevan et Edmund Trzcinski.",
           "synopsis": "Durant la Seconde Guerre mondiale, dans un camp de prisonniers américains en Allemagne, Sefton, qui commerce avec l'ennemi, est soupçonné d'être un traître et décide d'un plan pour se disculper.",
@@ -17085,7 +17112,7 @@
           "copies": [
             {
               "idCopie": 16449,
-              "duree": 121,
+              "duree": 120,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",

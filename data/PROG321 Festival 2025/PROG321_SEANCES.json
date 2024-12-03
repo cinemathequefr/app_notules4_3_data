@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-02T16:06:11.024Z",
+  "updatedAt": "2024-12-03T09:09:49.442Z",
   "data": [
     {
       "idSeance": 188170,
@@ -32,7 +32,9 @@
             {
               "idCopie": 28873,
               "duree": 94,
-              "format": "35 mm"
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -67,17 +69,11 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 6711,
-              "duree": 110,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "selected": true
-            },
-            {
               "idCopie": 28871,
               "duree": 110,
-              "format": "DCP"
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }

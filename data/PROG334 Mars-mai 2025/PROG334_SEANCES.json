@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-02T16:06:06.128Z",
+  "updatedAt": "2024-12-03T09:09:45.069Z",
   "data": [
     {
       "idSeance": 185394,
@@ -549,6 +549,48 @@
       ]
     },
     {
+      "idSeance": 186682,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31867,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-26T16:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 60404,
+          "titre": "Ville abandonnée",
+          "art": "La",
+          "titreVo": "Yellow Sky",
+          "realisateurs": "William A. Wellman",
+          "annee": 1948,
+          "duree": 98,
+          "generique": "Gregory Peck, Richard Widmark, Anne Baxter",
+          "adaptation": "D'après le roman _Yellow Sky_ de W. R. Burnett.",
+          "synopsis": "Une bande de pilleurs de banques traverse un désert pour fuir les représentants de l'ordre.",
+          "miniTexte": "Poursuivi par des soldats, un groupe de hors-la-loi se réfugie dans une ville fantôme perdue au milieu du désert. Rongés par l'appât du gain, Richard Widmark et Gregory Peck se confrontent dans un huis clos tendu, qui questionne la loyauté envers les siens et le désir de rédemption. Un western atypique, perpétuellement surprenant par sa violence contenue.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29301,
+              "duree": 98,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 43428
+        }
+      ]
+    },
+    {
       "idSeance": 187981,
       "idProg": 334,
       "idCycleCategories": [
@@ -899,7 +941,7 @@
       ]
     },
     {
-      "idSeance": 187982,
+      "idSeance": 188199,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -1402,14 +1444,14 @@
           "titre": "Achtung! Banditi!",
           "realisateurs": "Carlo Lizzani",
           "annee": 1951,
-          "duree": 98,
+          "duree": 104,
           "generique": "Gina Lollobrigida, Andrea Checchi, Vittorio Duse",
           "miniTexte": "Scénariste pour De Santis puis assistant de Rossellini, Lizzani passe à la réalisation en 1951. Face à la réticence des producteurs italiens, le néo-cinéaste rassemble des fonds avec l'aide d'une coopérative et du PC italien, dont il est membre, pour filmer un groupe de résistants qui cherchent à subtiliser une cargaison d'armes aux Allemands dans une usine de Ligurie. Un film de guerre choral, aux forts accents sociaux.",
           "status": 2,
           "copies": [
             {
               "idCopie": 29271,
-              "duree": 98,
+              "duree": 104,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
@@ -1555,14 +1597,14 @@
           "artVo": "Il",
           "realisateurs": "Carlo Lizzani",
           "annee": 1960,
-          "duree": 103,
+          "duree": 101,
           "generique": "Gérard Blain, Anna Maria Ferrero, Bernard Blier",
           "miniTexte": "Un jeune homme prend les armes pour combattre les nazis dans les rues de Rome. Le conflit terminé, il devient une figure locale du crime. Film de guerre exalté qui vire au polar, avec Gérard Blain, extraordinaire en héros de la résistance ambigu aux brusques accès de violences, sexuelles et criminelles. À noter aussi dans des seconds rôles réjouissants, Bertrand Blier en policier et Pier Paolo Pasolini en partisan.",
           "status": 2,
           "copies": [
             {
               "idCopie": 28955,
-              "duree": 103,
+              "duree": 101,
               "format": "35 mm",
               "version": "VO"
             }
@@ -1631,14 +1673,14 @@
           "titre": "Caro Gorbaciov",
           "realisateurs": "Carlo Lizzani",
           "annee": 1988,
-          "duree": 85,
+          "duree": 81,
           "generique": "Harvey Keitel, Flaminia Lizzani, Gianluca Favilla",
           "miniTexte": "La dernière nuit de liberté de Nikolaï Boukharine, figure de la Révolution d'Octobre qui finira exécuté par le pouvoir stalinien. Conscient de son arrestation imminente, l'intellectuel se lance dans l'écriture d'une lettre pour la postérité. Harvey Keitel en révolutionnaire russe, doublé en italien : le charme des coproductions européennes des années 80 pour un huis clos familial et politique.",
           "status": 2,
           "copies": [
             {
               "idCopie": 28983,
-              "duree": 85,
+              "duree": 81,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ITA",
@@ -1942,7 +1984,7 @@
           "artVo": "La",
           "realisateurs": "Carlo Lizzani",
           "annee": 1964,
-          "duree": 100,
+          "duree": 103,
           "generique": "Ugo Tognazzi, Giovanna Ralli, Nino Krisman",
           "adaptation": "D'après le roman _La Vie aigre_ de Luciano Bianciardi.",
           "miniTexte": "Un intellectuel de province s'installe à Milan avec l'intention de commettre un attentat à la bombe pour venger la mort de 43 ouvriers. La « grande ville » va peu à peu le changer... Une comédie italienne sophistiquée et caustique, adaptation d'un roman de Luciano Bianciardi, sortie dans le sillage de la Nouvelle vague italienne. Avec un immense Ugo Tognazzi.",
@@ -1950,7 +1992,7 @@
           "copies": [
             {
               "idCopie": 29178,
-              "duree": 100,
+              "duree": 103,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
@@ -1985,7 +2027,7 @@
           "artVo": "La",
           "realisateurs": "Carlo Lizzani",
           "annee": 1964,
-          "duree": 100,
+          "duree": 103,
           "generique": "Ugo Tognazzi, Giovanna Ralli, Nino Krisman",
           "adaptation": "D'après le roman _La Vie aigre_ de Luciano Bianciardi.",
           "miniTexte": "Un intellectuel de province s'installe à Milan avec l'intention de commettre un attentat à la bombe pour venger la mort de 43 ouvriers. La « grande ville » va peu à peu le changer... Une comédie italienne sophistiquée et caustique, adaptation d'un roman de Luciano Bianciardi, sortie dans le sillage de la Nouvelle vague italienne. Avec un immense Ugo Tognazzi.",
@@ -1993,7 +2035,7 @@
           "copies": [
             {
               "idCopie": 29178,
-              "duree": 100,
+              "duree": 103,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
@@ -2102,15 +2144,16 @@
           "artVo": "L'",
           "realisateurs": "Carlo Lizzani",
           "annee": 1961,
-          "duree": 110,
+          "duree": 97,
           "generique": "Gérard Blain, Anna Maria Ferrero, Jean Sorel",
           "miniTexte": "Le troisième film de Lizzani consacré à l'occupation allemande, qui raconte cette fois le ghetto de Rome, et le déchirement de familles juives menacées de rafles si elles ne rassemblent pas 50 kilos d'or en deux jours. Le cinéaste exhume à nouveau les heures sombres de son pays et, tournant le dos aux préceptes du néoréalisme, n'hésite pas à teinter son drame historique de touches mélodramatiques. Rivette en fit le reproche à Pontecorvo (_Kapò_) trois ans plus tôt, on fera ce même reproche à Spielberg trente ans plus tard (_La Liste de Schindler_). Mais derrière les artifices, assumés, du spectacle populaire, le film n'en reste pas moins déchirant.",
           "status": 2,
           "copies": [
             {
               "idCopie": 28957,
-              "duree": 110,
-              "format": "35 mm"
+              "duree": 97,
+              "format": "35 mm",
+              "version": "VO"
             }
           ]
         }
@@ -2506,14 +2549,14 @@
           "titreVo": "Mussolini, ultimo atto",
           "realisateurs": "Carlo Lizzani",
           "annee": 1974,
-          "duree": 126,
+          "duree": 135,
           "generique": "Rod Steiger, Franco Nero, Lisa Gastoni, Henry Fonda",
           "miniTexte": "La redécouverte d'une rareté, évocation, comme son titre l'indique, de la fin de règne pathétique de Benito Mussolini. De facture plutôt austère, le film épate par sa précision documentaire, sa musique – magnifique partition d'Ennio Morricone – et son casting. Rod Steiger, à qui on a parfois pu reprocher une certaine outrance, est ici extraordinaire en Duce, malgré la post-synchronisation. Son Mussolini est un despote fantoche, devenu le jouet des Allemands, un pantin pompeux qui cache le vertige de sa chute dans une théâtralité grotesque. Steiger reprendra le rôle cinq ans plus tard dans _Le Lion du désert_, mais c'est chez Lizzani qu'il aura donné toute la démesure de son talent.",
           "status": 2,
           "copies": [
             {
               "idCopie": 28973,
-              "duree": 126,
+              "duree": 135,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
@@ -3297,52 +3340,7 @@
       ]
     },
     {
-      "idSeance": 188103,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 973,
-          "idCategorie": 3672,
-          "titreCycle": "Robert Wise",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31969,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-24T19:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 45584,
-          "titre": "Je veux vivre",
-          "titreVo": "I Want to Live!",
-          "realisateurs": "Robert Wise",
-          "annee": 1958,
-          "duree": 120,
-          "generique": "Susan Hayward, Simon Oakland, Virginia Vincent",
-          "miniTexte": "Le long combat d'une femme, condamnée pour meurtre sans preuves formelles, en attente de son exécution. Basé sur une affaire ayant bouleversé les États-Unis, _Je veux vivre_ dénonce la peine de mort et les dysfonctionnements du système judiciaire américain dans un drame émouvant. Avec un Oscar de la meilleure actrice à la clé pour l'interprétation magistrale de Susan Hayward, tout en force et sobriété.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28988,
-              "duree": 120,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "selected": true
-            },
-            {
-              "idCopie": 29293,
-              "duree": 120
-            }
-          ],
-          "idFilmBoxoffice": 20085
-        }
-      ]
-    },
-    {
-      "idSeance": 187457,
+      "idSeance": 188201,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -3395,7 +3393,7 @@
       ],
       "idEvenement": 31971,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-26T20:00:00",
+      "dateHeure": "2025-05-26T20:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3458,7 +3456,7 @@
       ]
     },
     {
-      "idSeance": 187396,
+      "idSeance": 188203,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -4016,7 +4014,7 @@
       ]
     },
     {
-      "idSeance": 188031,
+      "idSeance": 188206,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -4497,7 +4495,7 @@
       ]
     },
     {
-      "idSeance": 188029,
+      "idSeance": 188200,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -4507,45 +4505,37 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 31992,
+      "idEvenement": 31993,
       "typeEvenement": 13,
       "dateHeure": "2025-05-19T18:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 37539,
-          "titre": "Odyssée du Hindenburg",
+          "idFilm": 37542,
+          "titre": "Odyssée du sous-marin Nerka",
           "art": "L'",
-          "titreVo": "Hindenburg",
-          "artVo": "The",
+          "titreVo": "Run Silent Run Deep",
           "realisateurs": "Robert Wise",
-          "annee": 1975,
-          "duree": 135,
-          "generique": "George C. Scott, Anne Bancroft, William Atherton",
-          "miniTexte": "Les derniers instants du célèbre dirigeable allemand, le Hindenburg. Le cinéaste s'essaie au film catastrophe et recrée minutieusement une Allemagne en pleine montée du nazisme face à la peur de l'espionnage. À huis clos, il façonne une escalade de tension jusqu'à l'impressionnante séquence de l'explosion, grand moment de tragédie.",
+          "annee": 1957,
+          "duree": 93,
+          "generique": "Clark Gable, Burt Lancaster, Jack Warden",
+          "adaptation": "D'après le roman _Run Silent, Run Deep_ d'Edward L. Beach.",
+          "miniTexte": "Un commandant de sous-marin assoiffé de vengeance expose son équipage aux dangers de la guerre subaquatique. Scènes de vie et batailles se succèdent au rythme d'un montage effréné, qui ménage une ambiance oppressante particulièrement réaliste. Avec un affrontement de taille entre Clark Gable et Burt Lancaster.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 29336,
-              "duree": 135,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "Autres",
-              "selected": true
-            },
-            {
-              "idCopie": 29333,
-              "duree": 135
+              "idCopie": 29337,
+              "duree": 93,
+              "format": "35 mm"
             }
           ],
-          "idFilmBoxoffice": 54553
+          "idFilmBoxoffice": 46536
         }
       ]
     },
     {
-      "idSeance": 187438,
+      "idSeance": 188205,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -5044,7 +5034,7 @@
       ]
     },
     {
-      "idSeance": 188030,
+      "idSeance": 188202,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -5269,6 +5259,64 @@
           "idTypeConf": 16,
           "titre": "Dialogue avec Frédéric Bonnaud",
           "duree": 60
+        }
+      ]
+    },
+    {
+      "idSeance": 188207,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 525,
+          "idCategorie": 3696,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 973,
+          "idCategorie": 3672,
+          "titreCycle": "Robert Wise",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32006,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-24T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37582,
+          "titre": "West Side Story",
+          "realisateurs": "Robert Wise, Jerome Robbins",
+          "annee": 1960,
+          "duree": 148,
+          "generique": "Natalie Wood, Richard Beymer, George Chakiris, Rita Moreno",
+          "adaptation": "D'après la comédie musicale _West Side Story_ de Leonard Bernstein, Stephen Sondheim et Arthur Laurents.",
+          "ageMinimal": 10,
+          "synopsis": "Dans le West Side, bas quartier de New York, deux bandes de jeunes s'affrontent, les Sharks de Bernardo et les Jets de Riff. Un ancien membre des Jets, Tony, s'éprend de Maria, la sœur de Bernardo.",
+          "synopsisJP": "À New York, deux gangs rivaux, les Jets et les Sharks, s'affrontent dans des chorégraphies éblouissantes, sur la célèbre partition de Leonard Bernstein, tandis que Tony et Maria tentent de vivre leur amour naissant. Racisme, rivalités ethniques, rêve américain : la version moderne de _Roméo et Juliette_ aux dix Oscars, devenue culte.",
+          "miniTexte": "À New York, deux gangs rivaux, les Jets et les Sharks, s'affrontent dans des chorégraphies éblouissantes, sur la célèbre partition de Leonard Bernstein, tandis que Tony et Maria tentent de vivre leur amour naissant. Parfaites illustrations d'une jeunesse passionnée, qui lutte pour exister, Richard Beymer et Natalie Wood forment un bouleversant duo de rébellion et de nostalgie. Racisme, rivalités ethniques, rêve américain : la version moderne de _Roméo et Juliette_ aux dix Oscars, devenue culte.",
+          "commentaire": "L'original, après Broadway et avant Spielberg. Grande réussite spectaculaire d'un Hollywood qui refuse de baisser les bras devant la télévision, au risque de l'emphase et du monumental, le film sera couvert d'Oscars et reste un hit historique de la comédie musicale. Avec ses audaces (New York vue d'en haut et le début sans paroles, le générique final de Saul Bass), son trio magique de génies (Bernstein/Sondheim/Robbins) et ses duos sentimentaux un tantinet sirupeux. Mais Chakiris et Natalie Wood. — Frédéric Bonnaud",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 16573,
+              "duree": 148,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 11812,
+              "duree": 152,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1073
         }
       ]
     },
@@ -5921,7 +5969,7 @@
       ],
       "idEvenement": 32038,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-20T16:30:00",
+      "dateHeure": "2025-03-20T16:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -8348,6 +8396,46 @@
       ]
     },
     {
+      "idSeance": 188198,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32111,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-28T19:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33911,
+          "titre": "Si j'avais un million",
+          "titreVo": "If I Had a Million",
+          "realisateurs": "James Cruze, H. Bruce Humberstone, Ernst Lubitsch, [etc.]",
+          "annee": 1932,
+          "duree": 88,
+          "adaptation": "D'après le roman _Windfall_ de Robert D. Andrews.",
+          "miniTexte": "Film à sketches dans lequel un riche industriel décide de léguer un million de dollars à des inconnus trouvés au hasard dans l'annuaire. Lubitsch choisit l'excellent Charles Laughton pour incarner l'heureux élu dans un court gag inoubliable.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29081,
+              "duree": 88,
+              "format": "16 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 2429
+        }
+      ]
+    },
+    {
       "idSeance": 187816,
       "idProg": 334,
       "idCycleCategories": [
@@ -8608,7 +8696,7 @@
       ],
       "idEvenement": 32117,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-04T17:15:00",
+      "dateHeure": "2025-05-04T17:30:00",
       "idSalle": "JE",
       "items": [
         {
@@ -8650,40 +8738,6 @@
           "annee": 1939,
           "generique": "Akim Tamiroff, Anna May Wong, J. Carrol Naish",
           "status": 1
-        }
-      ]
-    },
-    {
-      "idSeance": 186892,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 974,
-          "idCategorie": 3673,
-          "titreCycle": "Anna May Wong",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32119,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-04T15:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 82319,
-          "titre": "Bombs Over Burma",
-          "realisateurs": "Joseph H. Lewis",
-          "annee": 1942,
-          "duree": 67,
-          "generique": "Anna May Wong, Noel Madison, Leslie Denison",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29193,
-              "duree": 67
-            }
-          ]
         }
       ]
     },
@@ -9376,45 +9430,6 @@
       ]
     },
     {
-      "idSeance": 187879,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 976,
-          "idCategorie": 3677,
-          "titreCycle": "Robert Benton",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32140,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-28T20:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 155042,
-          "titre": "Feast of Love",
-          "realisateurs": "Robert Benton",
-          "annee": 2007,
-          "duree": 97,
-          "generique": "Morgan Freeman, Greg Kinnear, Radha Mitchell",
-          "adaptation": "D'après le roman _The Feast of Love_ de Charles Baxter.",
-          "miniTexte": "Dans un bar de Portland, Oregon, les relations se nouent et se dénouent, sous le regard du gérant, le vieux Harry – Morgan Freeman, en narrateur placide. Une variation sur l'amour sous toutes ses formes, qui mêle avec habileté, comme souvent chez Robert Benton, le rire et l'émotion.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29118,
-              "duree": 97,
-              "format": "35 mm",
-              "version": "VO"
-            }
-          ],
-          "idFilmBoxoffice": 140179
-        }
-      ]
-    },
-    {
       "idSeance": 188195,
       "idProg": 334,
       "idCycleCategories": [
@@ -10005,7 +10020,7 @@
       ],
       "idEvenement": 32154,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-14T16:00:00",
+      "dateHeure": "2025-03-14T16:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -10451,6 +10466,50 @@
             }
           ],
           "idFilmBoxoffice": 2072
+        }
+      ]
+    },
+    {
+      "idSeance": 188212,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32170,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-19T15:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38648,
+          "titre": "Droit du plus fort",
+          "art": "Le",
+          "titreVo": "Faustrecht der Freiheit",
+          "realisateurs": "Rainer Werner Fassbinder",
+          "annee": 1974,
+          "duree": 123,
+          "generique": "Rainer Werner Fassbinder, Peter Chatel, Karlheinz Böhm",
+          "synopsis": "Franz Biberkopf, un jeune homosexuel, perd son travail et son petit ami, arrêté par la police. Il gagne à la loterie et rencontre un homme très intéressé par son argent.",
+          "miniTexte": "La passion entre deux jeunes hommes tourne au tragique rapport de force. Derrière l'histoire d'amour toxique se cache une observation acerbe de la lutte des classes, d'une société obsédée par la réussite sociale et la performance sexuelle. Farouche défenseur des opprimés, Fassbinder capte, de scènes dramatiques en fulgurances grinçantes, l'insatiable désir de révolte d'une galerie de personnages égocentriques et retors.",
+          "commentaire": "« Le film cherche à représenter, dans la vie quotidienne en Allemagne, les différenciations de classe, à y inscrire la lutte des classes ; et à sortir le monde homosexuel du ghetto mystificateur où il se trouve refoulé. » (Serge Le Péron)",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 14082,
+              "duree": 123,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "GER",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 4201
         }
       ]
     },
@@ -11041,64 +11100,6 @@
             }
           ],
           "idFilmBoxoffice": 955
-        }
-      ]
-    },
-    {
-      "idSeance": 187281,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 978,
-          "idCategorie": 3680,
-          "titreCycle": "Histoire permanente du cinéma",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32186,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-19T15:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 54713,
-          "titre": "Allemagne, mère blafarde",
-          "titreVo": "Deutschland, bleiche Mutter",
-          "realisateurs": "Helma Sanders-Brahms",
-          "annee": 1979,
-          "duree": 120,
-          "generique": "Eva Mattes, Ernst Jacobi, Elisabeth Stepanek",
-          "miniTexte": "Un classique mal connu du nouveau cinéma allemand, qui suit le parcours d'une femme et de sa fille dans l'Allemagne du Troisième Reich. Ancré dans l'expérience familiale de la cinéaste, un récit d'amour et de guerre, lyrique et déchirant, qui dénonce les effets destructeurs du nazisme sur les femmes, comme autant de traumatismes transmis d'une génération à l'autre.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29012,
-              "duree": 120,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "GER",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29166,
-              "duree": 120,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "GER",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 29167,
-              "duree": 120,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "GER",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 61
         }
       ]
     },
@@ -12169,7 +12170,7 @@
       ],
       "idEvenement": 32271,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-04T20:45:00",
+      "dateHeure": "2025-04-04T21:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -12266,7 +12267,7 @@
       ]
     },
     {
-      "idSeance": 188153,
+      "idSeance": 188208,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -12287,7 +12288,16 @@
           "titre": "Mandrin, épisode 1 : Le Révolté",
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
-          "status": 0
+          "duree": 73,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29351,
+              "duree": 73,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
         },
         {
           "ordre": 2,
@@ -12295,12 +12305,21 @@
           "titre": "Mandrin, épisode 2 : L'Exempt Pistolet",
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
-          "status": 0
+          "duree": 38,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29352,
+              "duree": 38,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
         }
       ]
     },
     {
-      "idSeance": 188154,
+      "idSeance": 188209,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -12321,7 +12340,16 @@
           "titre": "Mandrin, épisode 3 : L'Étrange escamoteur",
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
-          "status": 0
+          "duree": 34,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29353,
+              "duree": 34,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
         },
         {
           "ordre": 2,
@@ -12329,12 +12357,21 @@
           "titre": "Mandrin, épisode 4 : Les Noces de Mandrin",
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
-          "status": 0
+          "duree": 41,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29354,
+              "duree": 41,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
         }
       ]
     },
     {
-      "idSeance": 188155,
+      "idSeance": 188210,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -12355,7 +12392,16 @@
           "titre": "Mandrin, épisode 5 : Le Château de M. de Voltaire",
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
-          "status": 0
+          "duree": 43,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29356,
+              "duree": 43,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
         },
         {
           "ordre": 2,
@@ -12363,12 +12409,21 @@
           "titre": "Mandrin, épisode 6 : La Grâce du Roy",
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
-          "status": 0
+          "duree": 45,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29357,
+              "duree": 45,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
         }
       ]
     },
     {
-      "idSeance": 188156,
+      "idSeance": 188211,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -12389,7 +12444,16 @@
           "titre": "Mandrin, épisode 7 : La Trahison",
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
-          "status": 0
+          "duree": 40,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29358,
+              "duree": 40,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
         },
         {
           "ordre": 2,
@@ -12397,7 +12461,16 @@
           "titre": "Mandrin, épisode 8 : Justice",
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
-          "status": 0
+          "duree": 49,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29359,
+              "duree": 49,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
         }
       ]
     },
@@ -12557,18 +12630,6 @@
       "items": [
         {
           "ordre": 1,
-          "idFilm": 155070,
-          "titre": "Main",
-          "art": "La",
-          "titreVo": "Hand",
-          "artVo": "The",
-          "realisateurs": "Kar-Wai Wong",
-          "annee": 2006,
-          "miniTexte": "Une journée en famille à la campagne, au bord du Loing. La relation entre une courtisane et son timide tailleur à Hong Kong. Toutes ces robes qu'on touche mais qui nous séparent de l'être aimé. Puis soudain, la pluie. Enfin un contact. Bouleversant, déchirant. Les gouttes pénètrent les surfaces. Et l'on entrevoit pour un instant le bonheur. — Patrick Chiha",
-          "status": 1
-        },
-        {
-          "ordre": 2,
           "idFilm": 50874,
           "titre": "Une partie de campagne",
           "realisateurs": "Jean Renoir",
@@ -12579,6 +12640,18 @@
           "miniTexte": "Une journée en famille à la campagne, au bord du Loing. La relation entre une courtisane et son timide tailleur à Hong Kong. Toutes ces robes qu'on touche mais qui nous séparent de l'être aimé. Puis soudain, la pluie. Enfin un contact. Bouleversant, déchirant. Les gouttes pénètrent les surfaces. Et l'on entrevoit pour un instant le bonheur. — Patrick Chiha",
           "status": 1,
           "idFilmBoxoffice": 1315
+        },
+        {
+          "ordre": 2,
+          "idFilm": 155070,
+          "titre": "Main",
+          "art": "La",
+          "titreVo": "Hand",
+          "artVo": "The",
+          "realisateurs": "Kar-Wai Wong",
+          "annee": 2006,
+          "miniTexte": "Une journée en famille à la campagne, au bord du Loing. La relation entre une courtisane et son timide tailleur à Hong Kong. Toutes ces robes qu'on touche mais qui nous séparent de l'être aimé. Puis soudain, la pluie. Enfin un contact. Bouleversant, déchirant. Les gouttes pénètrent les surfaces. Et l'on entrevoit pour un instant le bonheur. — Patrick Chiha",
+          "status": 1
         },
         {
           "ordre": 3,
@@ -12699,7 +12772,7 @@
       ],
       "idEvenement": 32350,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-03T18:00:00",
+      "dateHeure": "2025-04-03T17:30:00",
       "idSalle": "JE",
       "items": [
         {
@@ -12815,7 +12888,7 @@
       ],
       "idEvenement": 32352,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-05T15:30:00",
+      "dateHeure": "2025-04-05T15:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -12936,7 +13009,7 @@
       ],
       "idEvenement": 32354,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-03T20:15:00",
+      "dateHeure": "2025-04-03T20:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -13014,7 +13087,7 @@
       ],
       "idEvenement": 32355,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-05T21:15:00",
+      "dateHeure": "2025-04-05T20:45:00",
       "idSalle": "JE",
       "items": [
         {
@@ -13090,7 +13163,7 @@
       ],
       "idEvenement": 32357,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-05T18:00:00",
+      "dateHeure": "2025-04-05T17:30:00",
       "idSalle": "JE",
       "items": [
         {
@@ -14001,6 +14074,56 @@
       ]
     },
     {
+      "idSeance": 186892,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32441,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-04T15:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155097,
+          "titre": "Anna May Wong in Australia",
+          "realisateurs": "National Film & Sound Archive of Australia",
+          "annee": 1939,
+          "duree": 1,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29236,
+              "duree": 1,
+              "format": "Numérique"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 82319,
+          "titre": "Bombs Over Burma",
+          "realisateurs": "Joseph H. Lewis",
+          "annee": 1942,
+          "duree": 67,
+          "generique": "Anna May Wong, Noel Madison, Leslie Denison",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29193,
+              "duree": 67
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 188132,
       "idProg": 334,
       "idCycleCategories": [
@@ -14013,7 +14136,7 @@
       ],
       "idEvenement": 32451,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-04T19:00:00",
+      "dateHeure": "2025-05-04T19:15:00",
       "idSalle": "JE",
       "items": [
         {
@@ -14471,6 +14594,47 @@
       ]
     },
     {
+      "idSeance": 188197,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32470,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-25T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50983,
+          "titre": "Guerre des boutons",
+          "art": "La",
+          "realisateurs": "Yves Robert",
+          "annee": 1961,
+          "duree": 93,
+          "generique": "André Treton, Martin Lartigue, Michel Isella",
+          "adaptation": "D'après le roman _La Guerre des boutons_ de Louis Pergaud.",
+          "ageMinimal": 6,
+          "synopsis": "À chaque rentrée, les écoliers des deux villages voisins de Velrans et Longeverne s'affrontent dans une guerre sans merci. Lebrac, le chef d'une des deux bandes, décide d'arracher les boutons de ses adversaires et de les garder comme trophées de guerre, déclenchant ainsi la colère des parents.",
+          "synopsisJP": "L'affrontement de deux bandes d'écoliers de deux villages voisins, l'école souvent buissonnière, des parents sévères et un instituteur bienveillant : une peinture tendre et pleine d'humour de l'enfance dans la France rurale des années 60. Le Prix Jean-Vigo 1962, avec l'inoubliable Petit Gibus.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 11669,
+              "duree": 93,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 188128,
       "idProg": 334,
       "idCycleCategories": [
@@ -14484,43 +14648,6 @@
       "idEvenement": 32471,
       "typeEvenement": 13,
       "dateHeure": "2025-05-14T15:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 50401,
-          "titre": "Grande vadrouille",
-          "art": "La",
-          "realisateurs": "Gérard Oury",
-          "annee": 1966,
-          "duree": 122,
-          "generique": "Louis de Funès, Bourvil, Marie Dubois, Terry-Thomas",
-          "synopsis": "1942 : trois officiers d'un bombardier anglais abattu par les Allemands au-dessus de Paris occupée sautent en parachute et atterrissent en différents endroits de la capitale. Ils sont cachés par deux civils français, qui n'ont d'autre choix que de les mener en zone libre.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 20261,
-              "duree": 122,
-              "format": "DCP"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 187460,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 728,
-          "idCategorie": 3177,
-          "titreCycle": "Ma petite Cinémathèque",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32471,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-25T15:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -15351,6 +15478,41 @@
           "typeConference": "Leçon de cinéma",
           "duree": 60,
           "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 185698,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 977,
+          "idCategorie": 3736,
+          "titreCycle": "Glauber Rocha",
+          "titreSousCycle": "Documentaires"
+        }
+      ],
+      "idEvenement": 32521,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-21T20:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 101993,
+          "titre": "Homme aux cheveux bleus",
+          "art": "L'",
+          "realisateurs": "Sylvie Pierre, Georges Ulmann",
+          "annee": 1989,
+          "duree": 50,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29350,
+              "duree": 50,
+              "format": "Vidéo"
+            }
+          ]
         }
       ]
     }
