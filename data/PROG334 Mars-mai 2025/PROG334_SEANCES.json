@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-04T10:48:16.629Z",
+  "updatedAt": "2024-12-04T11:22:17.280Z",
   "data": [
     {
       "idSeance": 185394,
@@ -5646,7 +5646,7 @@
       ],
       "idEvenement": 32027,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-25T20:00:00",
+      "dateHeure": "2025-04-27T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6097,7 +6097,7 @@
           "titreVo": "Anna Boleyn",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1920,
-          "duree": 100,
+          "duree": 124,
           "generique": "Emil Jannings, Henny Porten, Ludwig Hartau, Hedwig Pauly-Winterstein",
           "synopsis": "Le roi Henri VIII poursuit Anne Boleyn de ses assiduités mais celle-ci n'y est guère sensible. Après leur mariage, elle en tombe amoureuse tandis que lui se lasse.",
           "miniTexte": "L'histoire tragique de la seconde femme d'Henry VIII, vue en grand par Lubitsch, qui utilise toutes les ressources des majestueux studios de la UFA. D'une envergure internationale, le film vaut au cinéaste d'être qualifié de « Griffith de l'Europe ».",
@@ -6105,18 +6105,10 @@
           "copies": [
             {
               "idCopie": 4538,
-              "duree": 100,
-              "format": "35 mm",
-              "langCopie": "GER",
-              "intertitres": "INT. FR.",
-              "selected": true
-            },
-            {
-              "idCopie": 29072,
               "duree": 124,
               "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
+              "langCopie": "GER",
+              "intertitres": "INT. FR."
             }
           ],
           "idFilmBoxoffice": 127872
@@ -7350,16 +7342,13 @@
           "artVo": "Die",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1918,
-          "duree": 58,
+          "duree": 43,
           "miniTexte": "Les péripéties exotiques d'une jeune danseuse retenue prisonnière dans un tombeau égyptien. Le premier long métrage réalisé par Lubitsch révèle son sens du récit dramatique, tandis que Pola Negri et Emil Jannings accèdent à la célébrité.",
           "status": 1,
           "copies": [
             {
-              "idCopie": 29069,
-              "duree": 58,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
+              "idCopie": 29390,
+              "duree": 43
             }
           ],
           "idFilmBoxoffice": 14433
@@ -8007,14 +7996,15 @@
           "titreVo": "Als ich tot war",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1915,
-          "duree": 37,
+          "duree": 38,
           "generique": "Ernst Lubitsch",
           "miniTexte": "Un dandy se fait passer pour mort et revient chez lui déguisé en domestique. Les débuts de Lubitsch et la plus ancienne de ses réalisations encore visibles, une comédie conjugale mordante, qui révèle tout son génie burlesque.",
           "status": 1,
           "copies": [
             {
               "idCopie": 29327,
-              "duree": 37
+              "duree": 38,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 27337
@@ -8913,7 +8903,7 @@
       ],
       "idEvenement": 32126,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-27T17:30:00",
+      "dateHeure": "2025-04-25T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -12521,9 +12511,9 @@
         },
         {
           "idCycle": 152,
-          "idCategorie": 3695,
+          "idCategorie": 3111,
           "titreCycle": "Parlons cinéma... avec Patric Chiha",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32331,
@@ -12565,9 +12555,9 @@
         },
         {
           "idCycle": 152,
-          "idCategorie": 3695,
+          "idCategorie": 3111,
           "titreCycle": "Parlons cinéma... avec Patric Chiha",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32332,
@@ -12653,9 +12643,9 @@
         },
         {
           "idCycle": 152,
-          "idCategorie": 3695,
+          "idCategorie": 3111,
           "titreCycle": "Parlons cinéma... avec Patric Chiha",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32341,
