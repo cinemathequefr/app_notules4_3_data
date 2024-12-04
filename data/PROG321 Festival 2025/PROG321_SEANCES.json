@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-04T09:36:11.139Z",
+  "updatedAt": "2024-12-04T15:19:20.080Z",
   "data": [
     {
       "idSeance": 188170,
@@ -163,50 +163,6 @@
             }
           ],
           "idFilmBoxoffice": 5168
-        }
-      ]
-    },
-    {
-      "idSeance": 188213,
-      "idProg": 321,
-      "idCycleCategories": [
-        {
-          "idCycle": 957,
-          "idCategorie": 3654,
-          "titreCycle": "Restaurations et incunables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31800,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-09T14:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 42451,
-          "titre": "Nuit",
-          "art": "La",
-          "titreVo": "Notte",
-          "artVo": "La",
-          "realisateurs": "Michelangelo Antonioni",
-          "annee": 1960,
-          "duree": 122,
-          "generique": "Marcello Mastroianni, Jeanne Moreau, Monica Vitti",
-          "synopsis": "Les dernières heures vécues ensemble d'un couple d'intellectuels bourgeois, lors d'une soirée mondaine.",
-          "miniTexte": "En filmant le vide, l'ennui, Antonioni met en scène la destruction annoncée d'un couple et file la métaphore d'un urbanisme hostile pour figurer la fragilité des sentiments. Avec Mastroianni, le cinéaste amorce l'érosion de l'idéal mâle italien, et fait de Jeanne Moreau une égérie de la résignation. Ours d'or à Berlin.",
-          "commentaire": "Antonioni met en scène la destruction annoncée d'un couple, file la métaphore d'un urbanisme hostile pour figurer la fragilité des sentiments, amorce avec Mastroianni l'érosion de l'idéal mâle italien, et fait de Jeanne Moreau une égérie de la résignation. Il filme le vide, l'ennui, et invente une nouvelle forme qui à elle seule fait vaciller l'édifice du néoréalisme, et lui vaudra l'Ours d'or à Berlin.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28878,
-              "duree": 122,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ITA"
-            }
-          ],
-          "idFilmBoxoffice": 675
         }
       ]
     },
@@ -470,8 +426,8 @@
       ],
       "idEvenement": 32287,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T20:30:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-03-06T16:30:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -967,7 +923,7 @@
       ],
       "idEvenement": 32315,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T20:15:00",
+      "dateHeure": "2025-03-06T19:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1178,6 +1134,75 @@
             }
           ],
           "idFilmBoxoffice": 278172
+        }
+      ]
+    },
+    {
+      "idSeance": 188222,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 985,
+          "idCategorie": 3703,
+          "titreCycle": "Raretés des collections",
+          "titreSousCycle": "Le Paris poétique de Prévert, Franju et Baratier"
+        }
+      ],
+      "idEvenement": 32366,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-06T18:00:00",
+      "idSalle": "LE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 68862,
+          "titre": "Notre-Dame, cathédrale de Paris",
+          "realisateurs": "Georges Franju",
+          "annee": 1957,
+          "duree": 20,
+          "synopsis": "Une visite minutieuse de la cathédrale Notre-Dame.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29242,
+              "duree": 20,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 154483,
+          "titre": "Paris la belle",
+          "realisateurs": "Pierre Prévert",
+          "annee": 1960,
+          "duree": 22,
+          "generique": "Marcel Duhamel, Catherine Prévert, Jacques Prévert",
+          "synopsis": "Jacques Prévert s'interroge : est-ce que Paris, c'était mieux avant ?",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 26262,
+              "duree": 22,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 46538,
+          "titre": "Paris la nuit",
+          "realisateurs": "Jacques Baratier, Jean Valère",
+          "annee": 1955,
+          "duree": 30,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29244,
+              "duree": 30,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },
@@ -1520,6 +1545,45 @@
       ]
     },
     {
+      "idSeance": 188245,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32432,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-09T14:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44903,
+          "titre": "Faust",
+          "titreVo": "Faust – Eine deutsche Volkssage",
+          "realisateurs": "Friedrich Wilhelm Murnau",
+          "annee": 1926,
+          "duree": 107,
+          "generique": "Gösta Ekman, Emil Jannings, Camilla Horn",
+          "adaptation": "D'après la pièce _Faust_ de Johann Wolfgang von Goethe.",
+          "synopsis": "Après avoir semé la peste, Méphisto propose un pacte à Faust.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29222,
+              "duree": 107,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 188233,
       "idProg": 321,
       "idCycleCategories": [
@@ -1650,7 +1714,7 @@
       ],
       "idEvenement": 32520,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-09T17:00:00",
+      "dateHeure": "2025-03-09T16:30:00",
       "idSalle": "HL",
       "items": [
         {
