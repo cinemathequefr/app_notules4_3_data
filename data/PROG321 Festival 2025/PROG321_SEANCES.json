@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-03T14:22:07.667Z",
+  "updatedAt": "2024-12-04T09:36:11.139Z",
   "data": [
     {
       "idSeance": 188170,
@@ -727,6 +727,41 @@
       ]
     },
     {
+      "idSeance": 188234,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32308,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-07T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47353,
+          "titre": "Pékin central",
+          "realisateurs": "Camille de Casabianca",
+          "annee": 1986,
+          "duree": 95,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29132,
+              "duree": 95,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 188159,
       "idProg": 321,
       "idCycleCategories": [
@@ -1004,7 +1039,7 @@
       ],
       "idEvenement": 32321,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T19:00:00",
+      "dateHeure": "2025-03-05T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1160,7 +1195,7 @@
       "idEvenement": 32384,
       "typeEvenement": 13,
       "dateHeure": "2025-03-05T15:00:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -1263,8 +1298,8 @@
       ],
       "idEvenement": 32387,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-07T18:15:00",
-      "idSalle": "JE",
+      "dateHeure": "2025-03-09T16:30:00",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -1310,7 +1345,7 @@
       "idEvenement": 32388,
       "typeEvenement": 13,
       "dateHeure": "2025-03-09T14:00:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -1479,6 +1514,43 @@
               "duree": 107,
               "format": "DCP",
               "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188233,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32433,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51356,
+          "titre": "Cousin, cousine",
+          "realisateurs": "Jean-Charles Tacchella",
+          "annee": 1975,
+          "duree": 95,
+          "generique": "Marie-Christine Barrault, Victor Lanoux, Marie-France Pisier, Guy Marchand",
+          "synopsis": "Marthe et Ludovic, cousins par alliance, tombent amoureux l'un de l'autre.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 9817,
+              "duree": 95,
+              "format": "DCP",
+              "langCopie": "FRE"
             }
           ]
         }
@@ -1671,9 +1743,7 @@
             {
               "idCopie": 29368,
               "duree": 5,
-              "format": "DCP",
-              "version": "VO",
-              "stDemande": true
+              "format": "DCP"
             }
           ]
         },
@@ -1707,9 +1777,7 @@
             {
               "idCopie": 29370,
               "duree": 2,
-              "format": "DCP",
-              "version": "VO",
-              "stDemande": true
+              "format": "DCP"
             }
           ]
         },
@@ -1728,6 +1796,7 @@
               "duree": 37,
               "format": "DCP",
               "version": "VO",
+              "langCopie": "GER",
               "stDemande": true
             }
           ]
@@ -1745,8 +1814,7 @@
               "idCopie": 29372,
               "duree": 10,
               "format": "DCP",
-              "version": "VO",
-              "stDemande": true
+              "version": "VO"
             }
           ]
         },
@@ -1762,8 +1830,7 @@
               "idCopie": 29373,
               "duree": 0,
               "format": "DCP",
-              "version": "VO",
-              "stDemande": true
+              "version": "VO"
             }
           ]
         }

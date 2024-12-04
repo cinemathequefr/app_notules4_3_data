@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-03T14:22:03.951Z",
+  "updatedAt": "2024-12-04T09:36:05.914Z",
   "data": [
     {
       "idSeance": 185394,
@@ -622,23 +622,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28946,
-              "duree": 85,
-              "format": "35 mm",
-              "version": "VO",
-              "selected": true
-            },
-            {
-              "idCopie": 28959,
-              "duree": 85,
-              "format": "35 mm",
-              "version": "VO"
-            },
-            {
               "idCopie": 12292,
               "duree": 85,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 3370
@@ -1058,7 +1046,14 @@
               "duree": 73,
               "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STF"
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 20217,
+              "duree": 73,
+              "format": "DCP",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 3061
@@ -1097,22 +1092,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29099,
+              "idCopie": 29384,
               "duree": 128,
-              "format": "35 mm",
-              "version": "VF",
-              "selected": true
-            },
-            {
-              "idCopie": 29100,
-              "duree": 128,
-              "format": "35 mm",
-              "version": "VF"
-            },
-            {
-              "idCopie": 28932,
-              "duree": 128,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO"
             }
           ],
@@ -1202,14 +1184,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28944,
-              "duree": 164,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 23979,
               "duree": 164,
               "format": "DCP",
@@ -1285,9 +1259,18 @@
           "titreVo": "Ulzana's Raid",
           "realisateurs": "Robert Aldrich",
           "annee": 1972,
+          "duree": 103,
           "generique": "Burt Lancaster, Bruce Davison, Jorge Luke",
           "miniTexte": "Un chef apache en fuite est poursuivi par la cavalerie américaine. Tel un hommage à _La Prisonnière du désert_, Aldrich construit un film de traque violent et introspectif, transformé en réflexion sur la cruauté. Aux antipodes du western classique, il installe une tonalité nihiliste, dépourvue de tout manichéisme, pour dépeindre la brutalité de conflits incessants.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29382,
+              "duree": 103,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ],
           "idFilmBoxoffice": 6682
         }
       ],
@@ -2739,7 +2722,8 @@
           ],
           "idFilmBoxoffice": 114976
         }
-      ]
+      ],
+      "mention": "Séance présentée par Wes Anderson"
     },
     {
       "idSeance": 187059,
@@ -6535,7 +6519,7 @@
           "titreVo": "Cluny Brown",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1945,
-          "duree": 100,
+          "duree": 99,
           "generique": "Jennifer Jones, Charles Boyer, Peter Lawford",
           "adaptation": "D'après le roman _Cluny Brown_ de Margery Sharp.",
           "synopsis": "La jeune et pétulante Cluny Brown remplace son oncle plombier pour une intervention chez Hilary Ames. Elle y fait la connaissance d'un séduisant réfugié tchèque, pique-assiette et philosophe.",
@@ -6543,24 +6527,24 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 15802,
-              "duree": 100,
-              "format": "DCP",
+              "idCopie": 21129,
+              "duree": 99,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF",
               "selected": true
             },
             {
-              "idCopie": 21129,
-              "duree": 99,
+              "idCopie": 21130,
+              "duree": 100,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             },
             {
-              "idCopie": 21130,
+              "idCopie": 15802,
               "duree": 100,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -6593,7 +6577,7 @@
           "titreVo": "Cluny Brown",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1945,
-          "duree": 100,
+          "duree": 99,
           "generique": "Jennifer Jones, Charles Boyer, Peter Lawford",
           "adaptation": "D'après le roman _Cluny Brown_ de Margery Sharp.",
           "synopsis": "La jeune et pétulante Cluny Brown remplace son oncle plombier pour une intervention chez Hilary Ames. Elle y fait la connaissance d'un séduisant réfugié tchèque, pique-assiette et philosophe.",
@@ -6601,24 +6585,24 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 15802,
-              "duree": 100,
-              "format": "DCP",
+              "idCopie": 21129,
+              "duree": 99,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF",
               "selected": true
             },
             {
-              "idCopie": 21129,
-              "duree": 99,
+              "idCopie": 21130,
+              "duree": 100,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             },
             {
-              "idCopie": 21130,
+              "idCopie": 15802,
               "duree": 100,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -7263,6 +7247,8 @@
       "typeEvenement": 13,
       "dateHeure": "2025-03-14T21:00:00",
       "idSalle": "HL",
+      "idSeanceAssoc": 187966,
+      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -8595,7 +8581,6 @@
               "idCopie": 2073,
               "duree": 50,
               "format": "35 mm",
-              "langCopie": "ENG",
               "intertitres": "INT. ANG."
             }
           ],
@@ -8802,7 +8787,8 @@
               "idCopie": 29182,
               "duree": 65,
               "format": "16 mm",
-              "version": "VO"
+              "version": "VO",
+              "langCopie": "ENG"
             }
           ]
         }
@@ -8831,9 +8817,19 @@
           "titreVo": "Dangerous to Know",
           "realisateurs": "Robert Florey",
           "annee": 1937,
+          "duree": 70,
           "generique": "Akim Tamiroff, Anna May Wong, Gail Patrick",
           "adaptation": "D'après la pièce _On the Spot_ d'Edgar Wallace.",
-          "status": 1
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29389,
+              "duree": 70,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ]
         }
       ]
     },
@@ -9644,7 +9640,7 @@
           "idFilmBoxoffice": 92
         }
       ],
-      "mention": "Ouverture de la rétrospective"
+      "mention": "Ouverture de la rétrospective. Séance présentée par Sylvie Pierre"
     },
     {
       "idSeance": 187936,
@@ -11595,11 +11591,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 3854,
+              "idCopie": 29383,
               "duree": 122,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ],
@@ -11869,7 +11864,7 @@
           "idFilmBoxoffice": 26602
         }
       ],
-      "mention": "Ouverture de la rétrospective"
+      "mention": "Ouverture de la rétrospective. Séance présentée par Darren Aronofsky"
     },
     {
       "idSeance": 187932,
@@ -13493,6 +13488,8 @@
       "typeConference": "Conférence",
       "idSalle": "GF",
       "duree": 90,
+      "idSeanceAssoc": 188191,
+      "typeAssoc": 117,
       "items": [
         {
           "idConf": 32381,
