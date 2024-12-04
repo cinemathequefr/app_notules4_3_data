@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-04T09:36:05.914Z",
+  "updatedAt": "2024-12-04T10:48:16.629Z",
   "data": [
     {
       "idSeance": 185394,
@@ -82,7 +82,8 @@
           "annee": 1984,
           "duree": 100,
           "generique": "Tom Selleck, Cynthia Rhodes, Gene Simmons",
-          "status": 0,
+          "miniTexte": "Dans un futur proche où règne un trafic de puces électroniques, Tom Selleck, échappé de _Magnum_, traque sans relâche un _bad guy_ déséquilibré (Gene Simmons, bassiste de Kiss), créateur de machines flingueuses et d'arachnides mécaniques. Une chasse à l'homme en forme de délire robotique aux gadgets futuristes, à la fois drôles et terrifiants. _Planète hurlante_ entretient ce climat de défiance envers la technologie avec un _whodunit_ post-apocalyptique biberonné à _The Thing_ et _Terminator_, qui adapte Philip K. Dick sans fausse note et remet à l'honneur Peter Weller, délesté de son armure de RoboCop.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28799,
@@ -3264,7 +3265,10 @@
           "copies": [
             {
               "idCopie": 28962,
-              "duree": 106
+              "duree": 106,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 290497
@@ -5732,6 +5736,7 @@
           "duree": 95,
           "generique": "Michael Sopkiw, Valentine Monnier, George Eastman",
           "synopsis": "Après la troisième guerre thermonucléaire, dans New York transformé en camp de concentration, un aventurier est chargé de retrouver la dernière femme féconde encore en vie.",
+          "miniTexte": "Enlevé et trépidant mélange d'horreur, de science-fiction et d'aventures, _2019, après la chute de New York_ est une fiction post-apocalyptique regorgeant de trouvailles diverses, absurdes et déjantées, où mutations fatales et ruines symbolisent le crépuscule du cinéma bis italien. Un melting-pot toujours d'actualité dans _Atomic Cyborg_, qui voit un homme-machine, adepte du kung-fu et sosie de Ken le Survivant, tenter de sauver une société en proie au chaos, à grands coups de bras de fer et de crânes défoncés à mains nues.",
           "status": 1,
           "copies": [
             {
@@ -5810,6 +5815,7 @@
           "duree": 94,
           "generique": "Yul Brynner, Max von Sydow, Joanna Miles",
           "synopsis": "Dans le futur, en 2012, le monde a été dévasté. Quelques rares survivants se sont regroupés en bandes organisées à New York. Le chef de l'une d'entre elles fait appel à un mercenaire pour faire face aux attaques d'une autre bande.",
+          "miniTexte": "Le succès du _Mad Max_ de George Miller a engendré la production d'un certain nombre d'imitations, souvent bon marché, des aventures du « guerrier de la route ». La preuve avec _New York ne répond plus_, où la mégapole est décimée par un cataclysme caniculaire, qui force les survivants à s'entretuer pour des vivres. Le temps d'un dernier tour de piste pour Yul Brynner, impeccablement taciturne en mercenaire à l'aube de ses adieux. _Stryker_ constitue, quant à lui, un exemple philippin de la relecture opportuniste et mercantile des films de Miller, avec la quête de l'eau comme enjeu crucial pour un aventurier solitaire et un groupe d'amazones.",
           "status": 0,
           "copies": [
             {
@@ -5890,6 +5896,7 @@
           "duree": 91,
           "generique": "Al Cliver, Moira Chen, George Eastman",
           "synopsis": "Année 2021. Cinquante ans après l'Holocauste nucléaire, le monde est gouverné par une dictature impitoyable, et New York en ruines est devenue une arène géante où s'affrontent les gladiateurs du futur.",
+          "miniTexte": "Deux visions opposées de la survie, dans _Le Gladiateur du futur_ et _Malevil_. Chez Joe D'Amato, à la fin de la Troisième Guerre mondiale, l'heure est à un jeu télévisé barbare, « Endgame », croisement de _Battle Royale_ et _Hunger Games_, où pleuvent combats de gladiateurs et morts en direct. Pour Christian de Chalonge, la fin des temps prend des allures de poésie baroque après une explosion nucléaire ayant ravagé l'Europe. L'inlassable cycle des passions humaines se remet en place dans un univers bucolique transformé en paysage lunaire. Une proposition rare dans le cinéma français, habitée par la conviction de Michel Serrault et Jean-Louis Trintignant.",
           "commentaire": "Film réalisé sous pseudonyme par Joe D'Amato.",
           "status": 2,
           "copies": [
@@ -5922,12 +5929,14 @@
         {
           "ordre": 1,
           "idFilm": 155036,
-          "titre": "Fin du monde – Nostradamus an 2000",
+          "titre": "Fin du monde, Nostradamus an 2000",
           "titreVo": "Nosutoradamusu no daiyogen",
+          "titreNx": "ノストラダムスの大予言",
           "realisateurs": "Toshio Masuda",
           "annee": 1974,
           "duree": 73,
-          "status": 0,
+          "miniTexte": "Inspiré par les prophéties du célèbre apothicaire, _Fin du monde, Nostradamus an 2000_ réserve son lot de raz-de-marée, tremblements de terre et pluies acides dans une fable écologique pessimiste sur les dangers de la pollution et des armes nucléaires. Autant de catastrophes favorables à la prolifération de chauves-souris menaçantes, de sangsues mutantes et d'indigènes cannibales. Un bestiaire étoffé dans _Les Survivants de la fin du monde_, tout en images psychédéliques et autres ciels d'orages, où Jan-Michael Vincent (_Supercopter_) et Dominique Sanda luttent contre des scorpions géants et des cafards sanguinaires.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29141,
@@ -6514,7 +6523,7 @@
         {
           "ordre": 1,
           "idFilm": 33719,
-          "titre": "Folle ingénue",
+          "titre": "Folle Ingénue",
           "art": "La",
           "titreVo": "Cluny Brown",
           "realisateurs": "Ernst Lubitsch",
@@ -6523,7 +6532,7 @@
           "generique": "Jennifer Jones, Charles Boyer, Peter Lawford",
           "adaptation": "D'après le roman _Cluny Brown_ de Margery Sharp.",
           "synopsis": "La jeune et pétulante Cluny Brown remplace son oncle plombier pour une intervention chez Hilary Ames. Elle y fait la connaissance d'un séduisant réfugié tchèque, pique-assiette et philosophe.",
-          "miniTexte": "Scénario solidement insensé, dialogues truculents et allusions grivoises qui défient le code Hays, une comédie romantique sur fond de plomberie détraquée, qui voit les facéties d'une jeune fille et d'un réfugié tchèque déranger la sérénité d'un beau manoir anglais.",
+          "miniTexte": "Scénario solidement insensé, dialogues truculents et allusions grivoises qui défient le code Hays, une comédie romantique sur fond de plomberie détraquée, qui voit les facéties d'une jeune fille et d'un réfugié tchèque déranger la sérénité d'un manoir anglais.",
           "status": 1,
           "copies": [
             {
@@ -6572,7 +6581,7 @@
         {
           "ordre": 1,
           "idFilm": 33719,
-          "titre": "Folle ingénue",
+          "titre": "Folle Ingénue",
           "art": "La",
           "titreVo": "Cluny Brown",
           "realisateurs": "Ernst Lubitsch",
@@ -6581,7 +6590,7 @@
           "generique": "Jennifer Jones, Charles Boyer, Peter Lawford",
           "adaptation": "D'après le roman _Cluny Brown_ de Margery Sharp.",
           "synopsis": "La jeune et pétulante Cluny Brown remplace son oncle plombier pour une intervention chez Hilary Ames. Elle y fait la connaissance d'un séduisant réfugié tchèque, pique-assiette et philosophe.",
-          "miniTexte": "Scénario solidement insensé, dialogues truculents et allusions grivoises qui défient le code Hays, une comédie romantique sur fond de plomberie détraquée, qui voit les facéties d'une jeune fille et d'un réfugié tchèque déranger la sérénité d'un beau manoir anglais.",
+          "miniTexte": "Scénario solidement insensé, dialogues truculents et allusions grivoises qui défient le code Hays, une comédie romantique sur fond de plomberie détraquée, qui voit les facéties d'une jeune fille et d'un réfugié tchèque déranger la sérénité d'un manoir anglais.",
           "status": 1,
           "copies": [
             {
@@ -7630,7 +7639,7 @@
           "duree": 110,
           "generique": "Greta Garbo, Melvyn Douglas, Béla Lugosi",
           "synopsis": "Une austère commissaire politique soviétique est envoyée à Paris pour négocier l'acquisition de bijoux et ramener dans le droit chemin des collègues qui ont succombé aux charmes du capitalisme décadent.",
-          "miniTexte": "Les premiers pas comiques de Greta Garbo dans une satire politique irrésistible. Pour leur deuxième collaboration, Ernst Lubitsch et Billy Wilder révèlent la fantaisie et l'humour de l'actrice, métamorphosée en impitoyable commissaire soviétique. Envoyée à Paris pour négocier l'acquisition de bijoux, elle se voit chargée de ramener dans le droit chemin des collègues qui ont succombé aux charmes du capitalisme décadent. Un grand succès qui permettra à _La Belle de Moscou_ de voir le jour en 1957.",
+          "miniTexte": "Les premiers pas comiques de Greta Garbo dans une satire politique irrésistible. Pour leur deuxième collaboration, Ernst Lubitsch et Billy Wilder révèlent la fantaisie et l'humour de l'actrice, métamorphosée en impitoyable commissaire soviétique. Envoyée à Paris pour négocier l'acquisition de bijoux, elle se voit chargée de ramener dans le droit chemin des collègues qui ont succombé aux charmes du capitalisme décadent. Un grand succès qui permettra à son remake _La Belle de Moscou_ de voir le jour en 1957.",
           "status": 2,
           "copies": [
             {
@@ -7680,7 +7689,7 @@
           "duree": 110,
           "generique": "Greta Garbo, Melvyn Douglas, Béla Lugosi",
           "synopsis": "Une austère commissaire politique soviétique est envoyée à Paris pour négocier l'acquisition de bijoux et ramener dans le droit chemin des collègues qui ont succombé aux charmes du capitalisme décadent.",
-          "miniTexte": "Les premiers pas comiques de Greta Garbo dans une satire politique irrésistible. Pour leur deuxième collaboration, Ernst Lubitsch et Billy Wilder révèlent la fantaisie et l'humour de l'actrice, métamorphosée en impitoyable commissaire soviétique. Envoyée à Paris pour négocier l'acquisition de bijoux, elle se voit chargée de ramener dans le droit chemin des collègues qui ont succombé aux charmes du capitalisme décadent. Un grand succès qui permettra à _La Belle de Moscou_ de voir le jour en 1957.",
+          "miniTexte": "Les premiers pas comiques de Greta Garbo dans une satire politique irrésistible. Pour leur deuxième collaboration, Ernst Lubitsch et Billy Wilder révèlent la fantaisie et l'humour de l'actrice, métamorphosée en impitoyable commissaire soviétique. Envoyée à Paris pour négocier l'acquisition de bijoux, elle se voit chargée de ramener dans le droit chemin des collègues qui ont succombé aux charmes du capitalisme décadent. Un grand succès qui permettra à son remake _La Belle de Moscou_ de voir le jour en 1957.",
           "status": 2,
           "copies": [
             {
@@ -7879,7 +7888,7 @@
           "generique": "James Stewart, Margaret Sullavan, Frank Morgan",
           "adaptation": "D'après la pièce _Parfumerie_ de Miklós László.",
           "synopsis": "À Budapest, Alfred et Klára travaillent ensemble dans la même boutique, mais ne s'entendent pas. Alfred correspond par petites annonces avec une femme. Quand il découvre qu'il s'agit de Klára, il lui cache la vérité tout en se rapprochant d'elle.",
-          "miniTexte": "L'alliance parfaite du cynisme, de la tendresse et de la mélancolie dans une indémodable comédie romantique. Pour la troisième fois réuni à l'écran, le couple Margaret Sullavan/James Stewart s'affronte et s'attire dans l'écrin lumineux d'une boutique de maroquinerie à Budapest. Si l'époque est à la peinture de la grande bourgeoisie américaine, Lubitsch met ici en scène des héros ordinaires, confrontés au quotidien et à la crise, dans un sommet de délicatesse et d'humanité.",
+          "miniTexte": "L'alliance parfaite du cynisme, de la tendresse et de la mélancolie dans une indémodable comédie romantique. Pour la troisième fois réunis à l'écran, Margaret Sullavan et James Stewart s'affrontent et s'attirent dans l'écrin lumineux d'une boutique de maroquinerie à Budapest. Si l'époque est à la peinture, dans les comédies, de la grande bourgeoisie américaine, Lubitsch met ici en scène des héros ordinaires, confrontés au quotidien et à la crise, dans un sommet de délicatesse et d'humanité.",
           "status": 2,
           "copies": [
             {
@@ -7921,7 +7930,7 @@
           "generique": "James Stewart, Margaret Sullavan, Frank Morgan",
           "adaptation": "D'après la pièce _Parfumerie_ de Miklós László.",
           "synopsis": "À Budapest, Alfred et Klára travaillent ensemble dans la même boutique, mais ne s'entendent pas. Alfred correspond par petites annonces avec une femme. Quand il découvre qu'il s'agit de Klára, il lui cache la vérité tout en se rapprochant d'elle.",
-          "miniTexte": "L'alliance parfaite du cynisme, de la tendresse et de la mélancolie dans une indémodable comédie romantique. Pour la troisième fois réuni à l'écran, le couple Margaret Sullavan/James Stewart s'affronte et s'attire dans l'écrin lumineux d'une boutique de maroquinerie à Budapest. Si l'époque est à la peinture de la grande bourgeoisie américaine, Lubitsch met ici en scène des héros ordinaires, confrontés au quotidien et à la crise, dans un sommet de délicatesse et d'humanité.",
+          "miniTexte": "L'alliance parfaite du cynisme, de la tendresse et de la mélancolie dans une indémodable comédie romantique. Pour la troisième fois réunis à l'écran, Margaret Sullavan et James Stewart s'affrontent et s'attirent dans l'écrin lumineux d'une boutique de maroquinerie à Budapest. Si l'époque est à la peinture, dans les comédies, de la grande bourgeoisie américaine, Lubitsch met ici en scène des héros ordinaires, confrontés au quotidien et à la crise, dans un sommet de délicatesse et d'humanité.",
           "status": 2,
           "copies": [
             {
@@ -8478,7 +8487,7 @@
           "duree": 94,
           "generique": "Tallulah Bankhead, Charles Coburn, Anne Baxter, Vincent Price",
           "adaptation": "D'après la pièce _The Czarina_ de Lajos Biró et Melchior Lengyel.",
-          "miniTexte": "Dans la Russie du XVIII<sup>e</sup>, où les conspirations s'ourdissent entre deux portes, Catherine II s'éprend d'un jeune lieutenant idéaliste. Une relecture de _Paradis perdu_ (1924) de Lubitsch, qui, malade, se voit remplacé sur le tournage par Preminger.",
+          "miniTexte": "Dans la Russie du XVIII<sup>e</sup>, où les conspirations s'ourdissent entre deux portes, Catherine II s'éprend d'un jeune lieutenant idéaliste. Une relecture de _Paradis perdu_ (1924) déjà réalisé par Lubitsch, qui, malade, se voit remplacé sur le tournage par Preminger.",
           "status": 2,
           "copies": [
             {
@@ -8526,7 +8535,7 @@
           "duree": 94,
           "generique": "Tallulah Bankhead, Charles Coburn, Anne Baxter, Vincent Price",
           "adaptation": "D'après la pièce _The Czarina_ de Lajos Biró et Melchior Lengyel.",
-          "miniTexte": "Dans la Russie du XVIII<sup>e</sup>, où les conspirations s'ourdissent entre deux portes, Catherine II s'éprend d'un jeune lieutenant idéaliste. Une relecture de _Paradis perdu_ (1924) de Lubitsch, qui, malade, se voit remplacé sur le tournage par Preminger.",
+          "miniTexte": "Dans la Russie du XVIII<sup>e</sup>, où les conspirations s'ourdissent entre deux portes, Catherine II s'éprend d'un jeune lieutenant idéaliste. Une relecture de _Paradis perdu_ (1924) déjà réalisé par Lubitsch, qui, malade, se voit remplacé sur le tournage par Preminger.",
           "status": 2,
           "copies": [
             {
@@ -14935,7 +14944,7 @@
           "realisateurs": "Ernst Lubitsch",
           "annee": 1918,
           "duree": 44,
-          "miniTexte": "Décidée à expérimenter la liberté masculine, une jeune femme se travestit et sort pour une nuit d'aventures. Un Lubitsch avant-coureur et subversif qui explore les normes de genres avec malice.",
+          "miniTexte": "Décidée à expérimenter la liberté masculine, une jeune femme se travestit et sort pour une nuit d'aventures. Un Lubitsch avant-gardiste et subversif qui explore les normes de genres avec malice.",
           "status": 1,
           "copies": [
             {
@@ -14999,7 +15008,7 @@
           "realisateurs": "Ernst Lubitsch",
           "annee": 1918,
           "duree": 44,
-          "miniTexte": "Décidée à expérimenter la liberté masculine, une jeune femme se travestit et sort pour une nuit d'aventures. Un Lubitsch avant-coureur et subversif qui explore les normes de genres avec malice.",
+          "miniTexte": "Décidée à expérimenter la liberté masculine, une jeune femme se travestit et sort pour une nuit d'aventures. Un Lubitsch avant-gardiste et subversif qui explore les normes de genres avec malice.",
           "status": 1,
           "copies": [
             {
