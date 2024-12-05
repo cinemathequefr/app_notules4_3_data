@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-04T16:16:57.463Z",
+  "updatedAt": "2024-12-05T09:24:21.858Z",
   "data": [
     {
       "idSeance": 185394,
@@ -5678,7 +5678,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 185697,
@@ -6331,6 +6332,7 @@
               "idCopie": 29077,
               "duree": 73,
               "format": "35 mm",
+              "intertitres": "INT. ANG.",
               "stDemande": true
             }
           ],
@@ -6371,6 +6373,7 @@
               "idCopie": 29077,
               "duree": 73,
               "format": "35 mm",
+              "intertitres": "INT. ANG.",
               "stDemande": true
             }
           ],
@@ -6678,21 +6681,14 @@
           "titre": "Sumurun",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1920,
-          "duree": 103,
+          "duree": 104,
           "miniTexte": "Les intrigues amoureuses d'une troupe de forains sur la route de Bagdad. Sur une trame orientale extravagante, Lubitsch signe une fantaisie aux décors somptueux, un monde de harems, de cheikhs et de danseuses, pris dans le tourbillon des passions contrariées.",
           "status": 1,
           "copies": [
             {
-              "idCopie": 29073,
-              "duree": 103,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true,
-              "selected": true
-            },
-            {
               "idCopie": 29342,
-              "duree": 90
+              "duree": 104,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 32356
@@ -7322,55 +7318,6 @@
       ]
     },
     {
-      "idSeance": 186186,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32080,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-09T18:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 40718,
-          "titre": "Yeux de la momie",
-          "art": "Les",
-          "titreVo": "Augen der Mumie Ma",
-          "artVo": "Die",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1918,
-          "duree": 58,
-          "miniTexte": "Les péripéties exotiques d'une jeune danseuse retenue prisonnière dans un tombeau égyptien. Le premier long métrage réalisé par Lubitsch révèle son sens du récit dramatique, tandis que Pola Negri et Emil Jannings accèdent à la célébrité.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29069,
-              "duree": 58,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "selected": true
-            },
-            {
-              "idCopie": 29390,
-              "duree": 58,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 14433
-        }
-      ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
-    },
-    {
       "idSeance": 186118,
       "idProg": 334,
       "idCycleCategories": [
@@ -7630,7 +7577,8 @@
           ],
           "idFilmBoxoffice": 766
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 187818,
@@ -8050,10 +7998,10 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 29065,
+              "idCopie": 29398,
               "duree": 42,
-              "format": "Numérique",
-              "intertitres": "Autres",
+              "format": "35 mm",
+              "intertitres": "INT. ANG.",
               "stDemande": true
             }
           ],
@@ -8082,7 +8030,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 188081,
@@ -8236,7 +8185,7 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 29063,
+              "idCopie": 29396,
               "duree": 60,
               "format": "35 mm",
               "intertitres": "INT. ALL.",
@@ -8245,7 +8194,8 @@
           ],
           "idFilmBoxoffice": 137960
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 188188,
@@ -8306,7 +8256,8 @@
           ],
           "idFilmBoxoffice": 18463
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 185693,
@@ -10487,45 +10438,6 @@
       ]
     },
     {
-      "idSeance": 187965,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 978,
-          "idCategorie": 3680,
-          "titreCycle": "Histoire permanente du cinéma",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32169,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-24T16:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 29753,
-          "titre": "Vol au-dessus d'un nid de coucou",
-          "titreVo": "One Flew Over the Cuckoo's Nest",
-          "realisateurs": "Miloš Forman",
-          "annee": 1975,
-          "duree": 134,
-          "generique": "Jack Nicholson, Louise Fletcher, Will Sampson",
-          "adaptation": "D'après le roman _One Flew Over the Cuckoo's Nest_ de Ken Kesey.",
-          "miniTexte": "Pour échapper à la prison, un détenu choisit de simuler la folie. L'humour pathétique de Forman enflamme une allégorie sur l'oppression, la rébellion et la quête de liberté, qui met en valeur un héros anticonformiste (Jack Nicholson, éblouissant de vérité). Une fable magnifique, chargée d'humanité et d'émotion, cinq fois récompensée aux Oscars.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 12665,
-              "duree": 134,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 2072
-        }
-      ]
-    },
-    {
       "idSeance": 188212,
       "idProg": 334,
       "idCycleCategories": [
@@ -10599,7 +10511,7 @@
           "adaptation": "D'après la nouvelle _The Man Who Would Be King_ de Rudyard Kipling.",
           "ageMinimal": 11,
           "synopsis": "Au siècle dernier, deux hommes entreprennent un long voyage dans le Kafiristan. L'un d'eux sera considéré par un peuple de cette région comme un roi et un dieu.",
-          "miniTexte": "Dans l'Inde de la fin du XIX<sup>e<:SUP> siècle, la quête de gloire de deux anciens soldats anglais qui rêvent de devenir les rois d'un nouvel empire. Inspiré d'une nouvelle de Rudyard Kipling, le récit de leur périple offre au duo d'acteurs Sean Connery/Michael Caine un numéro d'anthologie de flegme britannique, qui oscille constamment entre ironie et bravoure imperturbable, dans un classique du film d'aventures.",
+          "miniTexte": "Dans l'Inde de la fin du XIX<sup>e</sup> siècle, la quête de gloire de deux anciens soldats anglais qui rêvent de devenir les rois d'un nouvel empire. Inspiré d'une nouvelle de Rudyard Kipling, le récit de leur périple offre au duo d'acteurs Sean Connery / Michael Caine un numéro d'anthologie de flegme britannique, qui oscille constamment entre ironie et bravoure imperturbable, dans un classique du film d'aventures.",
           "status": 2,
           "copies": [
             {
@@ -11555,7 +11467,7 @@
           "art": "La",
           "titreVo": "Flambierte Frau",
           "artVo": "Die",
-          "realisateurs": "Robert Van Ackeren",
+          "realisateurs": "Robert van Ackeren",
           "annee": 1982,
           "duree": 106,
           "generique": "Gudrun Landgrebe, Mathieu Carrière, Hanns Zischler",
@@ -12088,7 +12000,7 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 29094,
+              "idCopie": 29397,
               "duree": 59,
               "format": "35 mm",
               "intertitres": "INT. ALL.",
@@ -12139,6 +12051,26 @@
       "items": [
         {
           "ordre": 1,
+          "idFilm": 92576,
+          "titre": "Hans Trutz au pays de Cocagne",
+          "titreVo": "Hans Trutz im Schlaraffenland",
+          "realisateurs": "Paul Wegener",
+          "annee": 1917,
+          "duree": 20,
+          "generique": "Paul Wegener, Ernst Lubitsch",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29400,
+              "duree": 20,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
           "idFilm": 128863,
           "titre": "Mirakel",
           "art": "Das",
@@ -15640,6 +15572,116 @@
         }
       ],
       "mention": "Séance présentée par Sylvie Pierre"
+    },
+    {
+      "idSeance": 186186,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32562,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-09T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40776,
+          "titre": "Fall Rosentopf",
+          "art": "Der",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1918,
+          "duree": 20,
+          "generique": "Ernst Lubitsch",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29399,
+              "duree": 20,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 40718,
+          "titre": "Yeux de la momie",
+          "art": "Les",
+          "titreVo": "Augen der Mumie Ma",
+          "artVo": "Die",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1918,
+          "duree": 58,
+          "miniTexte": "Les péripéties exotiques d'une jeune danseuse retenue prisonnière dans un tombeau égyptien. Le premier long métrage réalisé par Lubitsch révèle son sens du récit dramatique, tandis que Pola Negri et Emil Jannings accèdent à la célébrité.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29069,
+              "duree": 58,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "selected": true
+            },
+            {
+              "idCopie": 29390,
+              "duree": 58,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 14433
+        }
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
+    },
+    {
+      "idSeance": 188248,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32567,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-24T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 29755,
+          "titre": "Ragtime",
+          "realisateurs": "Miloš Forman",
+          "annee": 1981,
+          "duree": 155,
+          "generique": "James Cagney, Mary Steenburgen, Elizabeth McGovern",
+          "adaptation": "D'après le roman _Ragtime_ d'E. L. Doctorow.",
+          "commentaire": "_Ragtime_ est le septième film de Miloš Forman, une production conséquente de Dino de Laurentiis, sorti en 1981. C'est l'adaptation d'un roman d'E. L. Doctorow, lui-même adapté de la nouvelle de Heinrich von Kleist _Michael Koohlhas_. On retrouve de la nouvelle de Kleist l'idée que la justice s'accomplisse de manière absolue, que le combat qu'on mène pour elle détruise tout. Ici, celui d'un homme rangé, pianiste noir au relatif succès, contre l'injustice et les agents soumis d'un système qui la dirige, qui mettra en péril l'environnement sécurisant de sa cellule familiale et sociale, jusqu'à sa destruction et, par son engrenage implacable, jusqu'à la mort. C'est une image de l'Amérique que traduit Forman à travers cette histoire. On sent un cinéaste qui prend plaisir à mêler la grande histoire aux petites, dans cette fresque où les destins se lient et se croisent. Il oppose ainsi des destins divergents, ceux de puissants capitalistes hystériques (le personnage de Harry K. Thaw, milliardaire assassin), celui du révolté noir délirant (Walker Coalhouse), ceux de ses disciples terroristes que rejoint un jeune blanc anarchiste (Brad Dourif) et ceux d'immigrés d'Europe de l'Est qui survivent par l'audace (le personnage du réalisateur). On reconnaît un discours de Forman qui, en imposant une maîtrise formelle d'une efficacité étourdissante tout en y inscrivant des personnages sensibles, dépeint une Amérique complexe dont les héros ne sont pas ceux qui font l'Histoire, mais ceux qui savent assumer ce que leur destin bouleverse et qui font face. Un discours de « dissident », au service du cinéma.\n\nMatthieu Grimault",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 18011,
+              "duree": 155,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 756
+        }
+      ]
     }
   ]
 }
