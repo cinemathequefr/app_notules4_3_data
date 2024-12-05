@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-05T09:24:26.081Z",
+  "updatedAt": "2024-12-05T10:19:30.469Z",
   "data": [
     {
       "idSeance": 188170,
@@ -1042,11 +1042,13 @@
           "idFilm": 95801,
           "titre": "Une balle perdue",
           "titreVo": "Obaltan",
-          "realisateurs": "Hyeon-mok Yoo",
+          "realisateurs": "Yoo Hyeon-mok",
           "annee": 1960,
           "duree": 110,
+          "generique": "Choi Mu-ryong, Kim Jin-kyu, Moon Jeong-suk",
+          "adaptation": "D'après la nouvelle _Une balle perdue_ de Yi Beom-seon.",
           "miniTexte": "Le destin de deux frères et une sœur nord-coréens déplacés, installés dans un quartier pauvre de Séoul, qui tentent de survivre dans la société d'après-guerre. Influencé par le néoréalisme italien et l'expressionnisme allemand, le cinéaste décrit la face sombre d'une nation divisée, dans une remarquable adaptation du roman de Lee Beo-seon. D'abord interdit par le gouvernement en raison de son propos antisocial, _Une balle perdue_ est considéré comme l'un des meilleurs films coréens de tous les temps.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29175,
@@ -1121,11 +1123,12 @@
           "idFilm": 155068,
           "titre": "Une ville natale",
           "titreVo": "Maeumui gohyang",
-          "realisateurs": "Yong-Gyu Yoon",
+          "realisateurs": "Yoon Yong-gyu",
           "annee": 1949,
           "duree": 77,
+          "generique": "Byeon Ki-jong, Oh Heon-yong, Nam Seung-min",
           "miniTexte": "L'un des films coréens les plus importants réalisés entre l'occupation japonaise et la Guerre de Corée, _Une ville natale_ raconte la solitude d'un petit garçon élevé dans un temple bouddhiste, dans l'attente du retour de sa mère. Témoignage des préoccupations spirituelles de l'époque, dans un pays en quête d'identité et de réconciliation intérieure, l'œuvre miraculée d'un cinéaste qui choisira de rejoindre la Corée du Nord peu de temps après.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29179,
@@ -1268,9 +1271,9 @@
           "status": 0,
           "copies": [
             {
-              "idCopie": 29217,
+              "idCopie": 29403,
               "duree": 104,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO"
             }
           ]
@@ -1353,6 +1356,12 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 29401,
+              "duree": 104,
+              "format": "DCP",
+              "version": "VO"
             }
           ]
         }
@@ -1388,6 +1397,13 @@
               "idCopie": 29218,
               "duree": 98,
               "format": "35 mm",
+              "version": "VO",
+              "selected": true
+            },
+            {
+              "idCopie": 29402,
+              "duree": 98,
+              "format": "DCP",
               "version": "VO"
             }
           ]

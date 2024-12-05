@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-05T09:24:21.858Z",
+  "updatedAt": "2024-12-05T10:19:25.762Z",
   "data": [
     {
       "idSeance": 185394,
@@ -126,11 +126,9 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 8901,
+              "idCopie": 29405,
               "duree": 56,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "FRE"
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 4722
@@ -178,28 +176,15 @@
           "art": "Les",
           "realisateurs": "Louis Skorecki",
           "annee": 1988,
-          "duree": 74,
+          "duree": 75,
           "generique": "Nidam Abdi, Sébastien Clerger, Nathalie Coffre",
           "miniTexte": "« Tu vas vraiment voir ce film ? C'est nul, c'est des garçons et des filles qui parlent pendant une heure, sur n'importe quoi. » Dans le cadre strict de longs plans-séquences, de jeunes cinévores soliloquent sur les films qu'ils ont vus, ou qu'ils veulent voir. Mais dans un monde où, d'après l'auteur, le cinéma serait déjà mort depuis longtemps, ce dialogue semble vide de sens, loin de la cinéphilie des années 60. Apparitions hilarantes de Michel Cressole en critique désabusé par le septième art, et qui finit par uriner sur les murs du cinéma dont il sort excédé.",
           "status": 1,
           "copies": [
             {
-              "idCopie": 8900,
-              "duree": 74,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "FRE",
-              "selected": true
-            },
-            {
-              "idCopie": 28002,
-              "duree": 74,
-              "format": "35 mm"
-            },
-            {
-              "idCopie": 28003,
-              "duree": 74,
-              "format": "35 mm"
+              "idCopie": 29404,
+              "duree": 75,
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 4717
@@ -351,7 +336,7 @@
           "art": "La",
           "titreVo": "Stagecoach",
           "realisateurs": "John Ford",
-          "annee": 1938,
+          "annee": 1939,
           "duree": 97,
           "generique": "John Wayne, Andy Devine, John Carradine",
           "adaptation": "D'après la nouvelle _Stage to Lordsburg_ d'Ernest Haycox. ",
@@ -398,7 +383,7 @@
           "titreVo": "Westerner",
           "artVo": "The",
           "realisateurs": "William Wyler",
-          "annee": 1939,
+          "annee": 1940,
           "duree": 98,
           "generique": "Gary Cooper, Walter Brennan, Doris Davenport",
           "synopsis": "Cole Hardin est arrêté pour un vol de chevaux qu'il n'a pas commis. Au terme d'un procès expéditif, il est condamné à mort par le juge Roy Bean, mais échappe au moins temporairement à la pendaison.",
@@ -528,7 +513,7 @@
           "art": "La",
           "titreVo": "Red River",
           "realisateurs": "Howard Hawks",
-          "annee": 1946,
+          "annee": 1948,
           "duree": 133,
           "generique": "John Wayne, Montgomery Clift, Joanne Dru",
           "adaptation": "D'après le roman _The Chisholm Trail_ de Borden Chase.",
@@ -614,7 +599,7 @@
           "art": "Le",
           "titreVo": "High Noon",
           "realisateurs": "Fred Zinnemann",
-          "annee": 1951,
+          "annee": 1952,
           "duree": 85,
           "generique": "Gary Cooper, Grace Kelly, Lloyd Bridges",
           "adaptation": "D'après la nouvelle _The Tin Star_ de John W. Cunningham.",
@@ -701,7 +686,7 @@
           "art": "L'",
           "titreVo": "Shane",
           "realisateurs": "George Stevens",
-          "annee": 1951,
+          "annee": 1953,
           "duree": 118,
           "generique": "Alan Ladd, Jean Arthur, Van Heflin",
           "adaptation": "D'après le roman _Shane_ de Jack Schaefer.",
@@ -745,7 +730,7 @@
           "titreVo": "Naked Spur",
           "artVo": "The",
           "realisateurs": "Anthony Mann",
-          "annee": 1952,
+          "annee": 1953,
           "duree": 91,
           "generique": "James Stewart, Janet Leigh, Robert Ryan",
           "miniTexte": "Trois apprentis chasseurs de prime s'escriment à conduire à bon port leur prisonnier, manipulateur et cynique, pour toucher une prime. Un huis clos au cœur d'une nature élégiaque, immense et périlleuse. Et une quinte flush pour le duo Mann/Stewart, qui signe un cinquième chef-d'œuvre après les sensationnels _Winchester 73_, _La Porte du diable_, _Les Furies_ et _Les Affameurs_.",
@@ -828,7 +813,7 @@
           "art": "L'",
           "titreVo": "Man Without a Star",
           "realisateurs": "King Vidor",
-          "annee": 1954,
+          "annee": 1955,
           "generique": "Kirk Douglas, Jeanne Crain, Claire Trevor",
           "adaptation": "D'après le roman _L'Homme qui n'a pas d'étoile_ de Dee Linford.",
           "synopsis": "Dans une petite ville de l'Ouest, Demsey Rae est engagé dans le ranch appartenant à la séduisante Reed Bowman.",
@@ -950,7 +935,7 @@
           "idFilm": 33202,
           "titre": "Rio Bravo",
           "realisateurs": "Howard Hawks",
-          "annee": 1958,
+          "annee": 1959,
           "duree": 140,
           "generique": "John Wayne, Dean Martin, Angie Dickinson",
           "adaptation": "D'après la nouvelle _Rio Bravo_ de B. H. McCampbell.",
@@ -993,7 +978,7 @@
           "titreVo": "Law and Jake Wade",
           "artVo": "The",
           "realisateurs": "John Sturges",
-          "annee": 1957,
+          "annee": 1958,
           "duree": 86,
           "generique": "Robert Taylor, Richard Widmark, Patricia Owens",
           "adaptation": "D'après le roman _The Law and Jake Wade_ de Marvin H. Albert.",
@@ -1127,7 +1112,7 @@
           "titreVo": "Wild Bunch",
           "artVo": "The",
           "realisateurs": "Sam Peckinpah",
-          "annee": 1968,
+          "annee": 1969,
           "duree": 140,
           "generique": "William Holden, Ernest Borgnine, Robert Ryan, Edmond O'Brien, Warren Oates",
           "synopsis": "Au sud du Texas, une bande de hors la loi se prépare à commettre un hold-up et tombe finalement dans une embuscade. Elle est traquée jusqu'au Mexique par des chasseurs de primes.",
@@ -1218,7 +1203,7 @@
           "titre": "Deux hommes dans l'Ouest",
           "titreVo": "Wild Rovers",
           "realisateurs": "Blake Edwards",
-          "annee": 1970,
+          "annee": 1971,
           "duree": 133,
           "generique": "William Holden, Ryan O'Neal, Karl Malden",
           "synopsis": "En 1880, dans l'Ouest américain, deux cow-boys se rencontrent. Tous deux portés par le même désir de changer de vie, ils décident d'organiser ensemble le braquage d'une banque.",
@@ -11528,7 +11513,7 @@
           "titreVo": "Man Who Shot Liberty Valance",
           "artVo": "The",
           "realisateurs": "John Ford",
-          "annee": 1961,
+          "annee": 1962,
           "duree": 122,
           "generique": "James Stewart, John Wayne, Vera Miles",
           "adaptation": "D'après la nouvelle _The Man Who Shot Liberty Valance_ de Dorothy M. Johnson.",
@@ -13861,7 +13846,7 @@
             {
               "idCopie": 29208,
               "duree": 70,
-              "format": "DCP"
+              "format": "Numérique"
             }
           ]
         },
@@ -14191,7 +14176,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Emilie Cauquy"
     },
     {
       "idSeance": 188132,
@@ -14540,7 +14526,7 @@
           "generique": "Gene Kelly, Donald O'Connor, Debbie Reynolds, Jean Hagen",
           "ageMinimal": 10,
           "synopsis": "Les studios de Hollywood à l'aube du parlant : techniciens, réalisateurs et acteurs ont bien du mal à s'adapter aux nouvelles conditions de tournage.",
-          "synopsisJP": "Deux stars du muet tournent leur premier film parlant. Couleurs explosives, chorégraphies pétillantes, claquettes sous la pluie, et un trio d'acteurs qui enchaîne les numéros dans la bonne humeur : la plus grande comédie musicale de tous les temps, qui célèbre Hollywood et la magie du cinéma.",
+          "synopsisJP": "Deux stars du cinéma muet tournent leur premier film parlant. Couleurs explosives, chorégraphies pétillantes, claquettes sous la pluie, et un trio d'acteurs qui enchaîne les numéros dans la bonne humeur : la plus grande comédie musicale de tous les temps, qui célèbre Hollywood et la magie du cinéma.",
           "commentaire": "Dans les années 1920, le parolier Arthur Freed et le compositeur Nacio Herb Brown écrivent des chansons pour des revues de music-hall, dont _Singin' in the Rain_. En 1939, Freed intègre le département musical de la MGM. La Freed Unit produit notamment, dans les années 1940, les grandes comédies musicales de Vincente Minnelli. En 1950, la MGM achète le répertoire de chansons « Freed et Brown », à partir duquel Arthur Freed souhaite produire une comédie musicale. _Make 'Em Laugh_ et _Moses_ seront les seules chansons écrites spécialement pour le film. Au printemps, il fait venir de New York les scénaristes Aldoph Green et Betty Comden. Le tandem vient d'adapter pour l'écran leur spectacle _On the Town_, tourné l'année précédente par le duo Stanley Donen et Gene Kelly, qui rejoint la production après la fin du tournage d'_Un Américain à Paris_. L'équipe va s'inspirer de personnages réels, et recueillir des témoignages contemporains de l'avènement du parlant, concordant avec l'époque des chansons.\n\nLes répétitions débutent en avril 1951, et le tournage se déroule de juin à novembre. La MGM a recours à ses propres archives pour reconstituer le studio de la Monumental Pictures et les équipements de l'époque. Mille cinq cents costumes sont créés pour le tournage en Technicolor. La très jeune Debbie Reynolds incarne Kathy Selden, qui, dans le film, double la voix de la star Lina Lamont, interprétée par Jean Hagen. Ironie de cette mise en abyme, c'est en réalité la voix chantée de Debbie Reynolds qui a été doublée à cause de l'accent de la jeune actrice...\n\nMarion Langlois",
           "status": 2,
           "copies": [
