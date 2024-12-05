@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-05T10:19:25.762Z",
+  "updatedAt": "2024-12-05T13:59:08.903Z",
   "data": [
     {
       "idSeance": 185394,
@@ -3071,48 +3071,6 @@
       ]
     },
     {
-      "idSeance": 187266,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 972,
-          "idCategorie": 3671,
-          "titreCycle": "Wes Anderson",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31966,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-18T14:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 65554,
-          "titre": "Rushmore",
-          "realisateurs": "Wes Anderson",
-          "annee": 1998,
-          "duree": 89,
-          "generique": "Jason Schwartzman, Bill Murray, Olivia Williams",
-          "synopsis": "Max est étudiant à Rushmore. Il délaisse ses études au profit d'une multitude d'activités extra-scolaires.",
-          "miniTexte": "Dans la prestigieuse université de Rushmore, un élève surdoué délaisse ses études au profit d'une multitude d'activités extra-scolaires, à la recherche d'une nouvelle famille. Dès les premières minutes, le film se lance, et avec lui tout le cinéma de Wes Anderson dans un même mouvement. Un lumineux enchaînement de plans comme un manifeste esthétique, que le cinéaste s'emploiera ensuite à développer, à polir, dans les œuvres suivantes. Avec des cadres au cordeau, à la symétrie millimétrée. Une direction artistique rétro-pastel quasi maniaque. Une bande originale racée... Dans un ensemble hétéroclite de références lettrées et de bricolages dandys, Anderson vient de poser les bases de son art.",
-          "commentaire": "_Rushmore_ a déjà commencé depuis cinq bonnes minutes. C'est une entame honorable, de belle facture, mais rien ne déborde vraiment du traditionnel programme du film de campus. Puis déboule une courte séquence, deux minutes un peu folles, nouvelles. Deux minutes qui lancent le film, et le cinéma de Wes Anderson dans un même mouvement. Un lumineux enchaînement de plans comme un manifeste esthétique, que le cinéaste s'emploiera ensuite à développer, à polir, dans les films qui suivront. Avec des cadres au cordeau, à la symétrie millimétrée. Une direction artistique rétro-pastel quasi maniaque. Une bande originale racée : The Kinks, The Faces, The Who... En quinze plans léchés et emballants, Anderson vient de poser les bases de son art. Son précédent et premier film, _Bottle Rocket_, ne laissait rien présager de cette brusque éclosion. La comédie, sympathique, dévoilait un réel talent, mais plastiquement, le film ne tranchait pas. _Rushmore_ tranche. Il ne ressemble à rien d'autre qu'à ce que deviendra ensuite la patte Anderson, assemblage hétéroclite d'esthétique publicitaire, de dispositifs théâtraux, de bricolages dandys et de références lettrées : Stefan Zweig, Jacques-Yves Cousteau, Jules Verne, Hal Ashby, Yves Montand... S'il a parfois été reproché au cinéma de Wes Anderson son côté mignon, maison de poupées pop, ce qui étonne finalement devant _Rushmore_, c'est combien ces procédés de mise en scène voyants n'étouffent jamais l'émotion : derrière les artifices sourd une mélancolie retenue, une petite note triste tenue tout le long du film et qui, le dernier plan venu, vous laisse sur le flanc. Bill Murray, équilibriste de génie, y est dans la même seconde hilarant et déchirant. Il porte ce petit film fragile sur ses épaules, et trouve ici le rôle – et le cinéaste – qui feront basculer sa carrière et l'introniseront roi sur l'échiquier du cool. Ce n'est pas le moindre attrait de _Rushmore_, mont séduisant d'une œuvre en devenir.\n\nXavier Jamet",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29279,
-              "duree": 89,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 21344
-        }
-      ]
-    },
-    {
       "idSeance": 187983,
       "idProg": 334,
       "idCycleCategories": [
@@ -4141,7 +4099,7 @@
       ],
       "idEvenement": 31987,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-18T17:00:00",
+      "dateHeure": "2025-05-18T14:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -5231,6 +5189,10 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 29406,
+              "duree": 152
             }
           ],
           "idFilmBoxoffice": 1073
@@ -5296,6 +5258,10 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 29406,
+              "duree": 152
             }
           ],
           "idFilmBoxoffice": 1073
@@ -5856,7 +5822,6 @@
               "idCopie": 2693,
               "duree": 119,
               "format": "35 mm",
-              "version": "VO",
               "langCopie": "FRE"
             }
           ],
@@ -7937,88 +7902,6 @@
       "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
-      "idSeance": 188189,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32100,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-14T20:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 128868,
-          "titre": "Quand j'étais mort",
-          "titreVo": "Als ich tot war",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1915,
-          "duree": 38,
-          "generique": "Ernst Lubitsch",
-          "miniTexte": "Un dandy se fait passer pour mort et revient chez lui déguisé en domestique. Les débuts de Lubitsch et la plus ancienne de ses réalisations encore visibles, une comédie conjugale mordante, qui révèle tout son génie burlesque.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29327,
-              "duree": 38,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 27337
-        },
-        {
-          "ordre": 2,
-          "idFilm": 40745,
-          "titre": "Wenn vier dasselbe tun",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1917,
-          "duree": 42,
-          "miniTexte": "Sur le thème du sentiment amoureux, Lubitsch réalise et interprète un ballet pour quatre personnages, dont la cadence annonce ses futurs _musicals_.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29398,
-              "duree": 42,
-              "format": "35 mm",
-              "intertitres": "INT. ANG.",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 185387
-        },
-        {
-          "ordre": 3,
-          "idFilm": 40754,
-          "titre": "Roi du corsage",
-          "art": "Le",
-          "titreVo": "Blusenkönig",
-          "artVo": "Der",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1917,
-          "duree": 12,
-          "generique": "Ernst Lubitsch, Käthe Dorsch, Guido Herzfeld",
-          "miniTexte": "Fragment d'un film perdu, dans la série des comédies « boutiquières » qui ont fait la renommée de Lubitsch, et dans lesquelles il interprète un petit apprenti qui tente de s'élever socialement.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29066,
-              "duree": 12,
-              "format": "Numérique",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ]
-        }
-      ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
-    },
-    {
       "idSeance": 188081,
       "idProg": 334,
       "idCycleCategories": [
@@ -9469,7 +9352,7 @@
       ]
     },
     {
-      "idSeance": 188073,
+      "idSeance": 188249,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -9481,8 +9364,8 @@
       ],
       "idEvenement": 32142,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-15T17:00:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-03-14T18:30:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -9665,7 +9548,7 @@
       ]
     },
     {
-      "idSeance": 188194,
+      "idSeance": 188250,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -9677,8 +9560,8 @@
       ],
       "idEvenement": 32146,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-14T18:30:00",
-      "idSalle": "HL",
+      "dateHeure": "2025-03-15T17:00:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -13752,7 +13635,7 @@
             {
               "idCopie": 29209,
               "duree": 25,
-              "format": "DCP"
+              "format": "Numérique"
             }
           ]
         },
@@ -14940,121 +14823,6 @@
       ]
     },
     {
-      "idSeance": 185758,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32480,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-23T14:30:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 92582,
-          "titre": "Je ne voudrais pas être un homme",
-          "titreVo": "Ich möchte kein Mann sein",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1918,
-          "duree": 44,
-          "miniTexte": "Décidée à expérimenter la liberté masculine, une jeune femme se travestit et sort pour une nuit d'aventures. Un Lubitsch avant-gardiste et subversif qui explore les normes de genres avec malice.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29343,
-              "duree": 44,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 10400
-        },
-        {
-          "ordre": 2,
-          "idFilm": 70811,
-          "titre": "Ein fideles Gefängnis",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1917,
-          "duree": 54,
-          "generique": "Emil Jannings, Hanns Kräly",
-          "miniTexte": "D'après une opérette de Richard Strauss, le film dépeint avec humour les problèmes conjugaux d'un couple de la bourgeoisie berlinoise. Méprises et sous-entendus malicieux, modèles types de la première vague du maître.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29067,
-              "duree": 54,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 187839,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32480,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-28T17:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 92582,
-          "titre": "Je ne voudrais pas être un homme",
-          "titreVo": "Ich möchte kein Mann sein",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1918,
-          "duree": 44,
-          "miniTexte": "Décidée à expérimenter la liberté masculine, une jeune femme se travestit et sort pour une nuit d'aventures. Un Lubitsch avant-gardiste et subversif qui explore les normes de genres avec malice.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29343,
-              "duree": 44,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 10400
-        },
-        {
-          "ordre": 2,
-          "idFilm": 70811,
-          "titre": "Ein fideles Gefängnis",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1917,
-          "duree": 54,
-          "generique": "Emil Jannings, Hanns Kräly",
-          "miniTexte": "D'après une opérette de Richard Strauss, le film dépeint avec humour les problèmes conjugaux d'un couple de la bourgeoisie berlinoise. Méprises et sous-entendus malicieux, modèles types de la première vague du maître.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29067,
-              "duree": 54,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ]
-        }
-      ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
-    },
-    {
       "idSeance": 188068,
       "idProg": 334,
       "idCycleCategories": [
@@ -15497,6 +15265,114 @@
       "mention": "Séance suivie d'une discussion avec Hefse Guiro"
     },
     {
+      "idSeance": 188251,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3694,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32514,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-18T17:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155119,
+          "titre": "Merveilleuse histoire d'Henry Sugar",
+          "art": "La",
+          "titreVo": "Wonderful story of Henry Sugar",
+          "artVo": "The",
+          "realisateurs": "Wes Anderson",
+          "annee": 2023,
+          "duree": 40,
+          "generique": "Benedict Cumberbatch, Dev Patel",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29313,
+              "duree": 40,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 155120,
+          "titre": "Cygne",
+          "art": "Le",
+          "titreVo": "Swan",
+          "artVo": "The",
+          "realisateurs": "Wes Anderson",
+          "annee": 2023,
+          "duree": 17,
+          "generique": "Rupert Friend, Asa Jennings",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29314,
+              "duree": 17,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 155121,
+          "titre": "Preneur de rats",
+          "art": "Le",
+          "titreVo": "Rat catcher",
+          "artVo": "The",
+          "realisateurs": "Wes Anderson",
+          "annee": 2023,
+          "duree": 17,
+          "generique": "Richard Ayoade, Rupert Friend",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29315,
+              "duree": 17,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 155122,
+          "titre": "Venin",
+          "titreVo": "Poison",
+          "realisateurs": "Wes Anderson",
+          "annee": 2023,
+          "duree": 17,
+          "generique": "Dev Patel, Benedict Cumberbatch",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29316,
+              "duree": 17,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 188149,
       "idProg": 334,
       "idCycleCategories": [
@@ -15668,6 +15544,251 @@
           "idFilmBoxoffice": 756
         }
       ]
+    },
+    {
+      "idSeance": 185758,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32570,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-23T14:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40754,
+          "titre": "Roi du corsage",
+          "art": "Le",
+          "titreVo": "Blusenkönig",
+          "artVo": "Der",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1917,
+          "duree": 12,
+          "generique": "Ernst Lubitsch, Käthe Dorsch, Guido Herzfeld",
+          "miniTexte": "Fragment d'un film perdu, dans la série des comédies « boutiquières » qui ont fait la renommée de Lubitsch, et dans lesquelles il interprète un petit apprenti qui tente de s'élever socialement.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29066,
+              "duree": 12,
+              "format": "Numérique",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 70811,
+          "titre": "Ein fideles Gefängnis",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1917,
+          "duree": 54,
+          "generique": "Emil Jannings, Hanns Kräly",
+          "miniTexte": "D'après une opérette de Richard Strauss, le film dépeint avec humour les problèmes conjugaux d'un couple de la bourgeoisie berlinoise. Méprises et sous-entendus malicieux, modèles types de la première vague du maître.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29067,
+              "duree": 54,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 40745,
+          "titre": "Wenn vier dasselbe tun",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1917,
+          "duree": 42,
+          "miniTexte": "Sur le thème du sentiment amoureux, Lubitsch réalise et interprète un ballet pour quatre personnages, dont la cadence annonce ses futurs _musicals_.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29398,
+              "duree": 42,
+              "format": "35 mm",
+              "intertitres": "INT. ANG.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 185387
+        }
+      ]
+    },
+    {
+      "idSeance": 187839,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32570,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-28T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40754,
+          "titre": "Roi du corsage",
+          "art": "Le",
+          "titreVo": "Blusenkönig",
+          "artVo": "Der",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1917,
+          "duree": 12,
+          "generique": "Ernst Lubitsch, Käthe Dorsch, Guido Herzfeld",
+          "miniTexte": "Fragment d'un film perdu, dans la série des comédies « boutiquières » qui ont fait la renommée de Lubitsch, et dans lesquelles il interprète un petit apprenti qui tente de s'élever socialement.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29066,
+              "duree": 12,
+              "format": "Numérique",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 70811,
+          "titre": "Ein fideles Gefängnis",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1917,
+          "duree": 54,
+          "generique": "Emil Jannings, Hanns Kräly",
+          "miniTexte": "D'après une opérette de Richard Strauss, le film dépeint avec humour les problèmes conjugaux d'un couple de la bourgeoisie berlinoise. Méprises et sous-entendus malicieux, modèles types de la première vague du maître.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29067,
+              "duree": 54,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 40745,
+          "titre": "Wenn vier dasselbe tun",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1917,
+          "duree": 42,
+          "miniTexte": "Sur le thème du sentiment amoureux, Lubitsch réalise et interprète un ballet pour quatre personnages, dont la cadence annonce ses futurs _musicals_.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29398,
+              "duree": 42,
+              "format": "35 mm",
+              "intertitres": "INT. ANG.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 185387
+        }
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
+    },
+    {
+      "idSeance": 188189,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32570,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-14T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40754,
+          "titre": "Roi du corsage",
+          "art": "Le",
+          "titreVo": "Blusenkönig",
+          "artVo": "Der",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1917,
+          "duree": 12,
+          "generique": "Ernst Lubitsch, Käthe Dorsch, Guido Herzfeld",
+          "miniTexte": "Fragment d'un film perdu, dans la série des comédies « boutiquières » qui ont fait la renommée de Lubitsch, et dans lesquelles il interprète un petit apprenti qui tente de s'élever socialement.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29066,
+              "duree": 12,
+              "format": "Numérique",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 70811,
+          "titre": "Ein fideles Gefängnis",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1917,
+          "duree": 54,
+          "generique": "Emil Jannings, Hanns Kräly",
+          "miniTexte": "D'après une opérette de Richard Strauss, le film dépeint avec humour les problèmes conjugaux d'un couple de la bourgeoisie berlinoise. Méprises et sous-entendus malicieux, modèles types de la première vague du maître.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29067,
+              "duree": 54,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 40745,
+          "titre": "Wenn vier dasselbe tun",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1917,
+          "duree": 42,
+          "miniTexte": "Sur le thème du sentiment amoureux, Lubitsch réalise et interprète un ballet pour quatre personnages, dont la cadence annonce ses futurs _musicals_.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29398,
+              "duree": 42,
+              "format": "35 mm",
+              "intertitres": "INT. ANG.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 185387
+        }
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     }
   ]
 }
