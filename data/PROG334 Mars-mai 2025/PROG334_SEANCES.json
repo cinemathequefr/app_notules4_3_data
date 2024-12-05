@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-05T14:06:09.794Z",
+  "updatedAt": "2024-12-05T17:49:32.621Z",
   "data": [
     {
       "idSeance": 185394,
@@ -2742,7 +2742,7 @@
           "annee": 2007,
           "duree": 13,
           "generique": "Natalie Portman, Jason Schwartzman, Waris Ahluwalia",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29312,
@@ -2752,7 +2752,8 @@
               "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 130666
         },
         {
           "ordre": 2,
@@ -2812,7 +2813,7 @@
           "annee": 2007,
           "duree": 13,
           "generique": "Natalie Portman, Jason Schwartzman, Waris Ahluwalia",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29312,
@@ -2822,7 +2823,8 @@
               "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 130666
         },
         {
           "ordre": 2,
@@ -5180,19 +5182,17 @@
               "duree": 148,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "sousTitres": "STF",
               "selected": true
             },
             {
-              "idCopie": 11812,
-              "duree": 152,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 29406,
-              "duree": 152
+              "duree": 152,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 1073
@@ -5249,19 +5249,17 @@
               "duree": 148,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "sousTitres": "STF",
               "selected": true
             },
             {
-              "idCopie": 11812,
-              "duree": 152,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 29406,
-              "duree": 152
+              "duree": 152,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 1073
@@ -6047,7 +6045,7 @@
       ],
       "idEvenement": 32040,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-31T18:30:00",
+      "dateHeure": "2025-03-31T18:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6076,7 +6074,7 @@
       ]
     },
     {
-      "idSeance": 187809,
+      "idSeance": 188253,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -6088,7 +6086,7 @@
       ],
       "idEvenement": 32042,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-30T20:00:00",
+      "dateHeure": "2025-03-28T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6114,8 +6112,7 @@
           ],
           "idFilmBoxoffice": 58242
         }
-      ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
+      ]
     },
     {
       "idSeance": 188187,
@@ -6267,47 +6264,27 @@
       "items": [
         {
           "ordre": 1,
-          "idFilm": 33858,
-          "titre": "Abîme",
-          "art": "L'",
-          "titreVo": "Eternal Love",
+          "idFilm": 34540,
+          "titre": "Patriot",
+          "art": "The",
           "realisateurs": "Ernst Lubitsch",
-          "annee": 1929,
-          "duree": 73,
-          "generique": "John Barrymore, Camilla Horn, Victor Varconi",
-          "miniTexte": "Pendant les guerres napoléoniennes, dans les Alpes suisses, la passion contrariée d'un montagnard avec la fille du pasteur. Tourné en décors naturels dans les Rocheuses canadiennes, le dernier film muet de Lubitsch est une variation sur les amours impossibles, son thème de prédilection. Avec une tonalité plus sombre qu'à l'accoutumée, le cinéaste tire habilement parti des paysages enneigés pour créer une atmosphère de pur romantisme. Les vastes étendues blanches deviennent le théâtre d'intimité et de désespoir partagés par John Barrymore et Camilla Horn. Deux grands interprètes, suivis au plus près par une caméra aérienne, et de taille à transporter les émotions vers les plus hauts sommets.",
+          "annee": 1928,
+          "duree": 8,
+          "miniTexte": "Les derniers jours du tsar Paul (Emil Jannings), tyran dégénéré et à moitié fou. Fragments d'un film perdu, qui reçut le premier Oscar du meilleur scénario adapté, en 1929.",
           "status": 1,
           "copies": [
             {
-              "idCopie": 29077,
-              "duree": 73,
+              "idCopie": 29060,
+              "duree": 8,
               "format": "35 mm",
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 98856
-        }
-      ]
-    },
-    {
-      "idSeance": 186120,
-      "idProg": 334,
-      "idCycleCategories": [
+          "idFilmBoxoffice": 133239
+        },
         {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32049,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-05T17:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
+          "ordre": 2,
           "idFilm": 33858,
           "titre": "Abîme",
           "art": "L'",
@@ -6425,7 +6402,7 @@
       ],
       "idEvenement": 32053,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-02T18:30:00",
+      "dateHeure": "2025-04-02T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6450,8 +6427,7 @@
           ],
           "idFilmBoxoffice": 129859
         }
-      ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
+      ]
     },
     {
       "idSeance": 187838,
@@ -6643,8 +6619,7 @@
           ],
           "idFilmBoxoffice": 32356
         }
-      ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
+      ]
     },
     {
       "idSeance": 188193,
@@ -7147,7 +7122,7 @@
       ],
       "idEvenement": 32077,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-12T19:45:00",
+      "dateHeure": "2025-04-12T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7239,7 +7214,7 @@
       ],
       "idEvenement": 32079,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-09T16:00:00",
+      "dateHeure": "2025-04-09T17:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -7354,105 +7329,6 @@
       ]
     },
     {
-      "idSeance": 188085,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3675,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32085,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-19T20:15:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 40800,
-          "titre": "Meyer aus Berlin",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1918,
-          "duree": 51,
-          "miniTexte": "Les facéties d'un citadin berlinois qui part prendre l'air à la montagne. Avec le personnage de Meyer, archétype du comique juif allemand qu'il interprète lui-même, Lubitsch devient une figure très populaire du cinéma germanique.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29059,
-              "duree": 51,
-              "format": "35 mm",
-              "intertitres": "Autres",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 120299
-        },
-        {
-          "ordre": 2,
-          "idFilm": 40802,
-          "titre": "Poupée",
-          "art": "La",
-          "titreVo": "Puppe",
-          "artVo": "Die",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1919,
-          "duree": 51,
-          "generique": "Ernst Lubitsch, Ossi Oswalda",
-          "synopsis": "Le jeune Lancelot, prié de prendre femme alors qu'il n'en veut pas, décide de se retirer dans un monastère et de se marier avec une poupée pour donner la dot aux moines.",
-          "miniTexte": "Dans un décor de papier installé par ses soins, Lubitsch lance lui-même le film : pour échapper au mariage, un jeune héritier se cache dans un monastère, où des moines paillards le poussent à épouser une poupée mécanique. Sur un motif cher au cinéaste – une femme éveille le désir d'un homme qu'elle détourne de son chemin –, _La Poupée_ exploite brillamment les effets visuels comiques, dans un monde féerique aux accents expressionnistes. Ici, les pantins dansent et deviennent des sosies de chair, capables de faire fondre le cœur des plus misogynes.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 17005,
-              "duree": 51,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true,
-              "selected": true
-            },
-            {
-              "idCopie": 29070,
-              "duree": 68,
-              "format": "DCP",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            },
-            {
-              "idCopie": 29395,
-              "duree": 68,
-              "format": "DCP",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 6045
-        },
-        {
-          "ordre": 3,
-          "idFilm": 34540,
-          "titre": "Patriot",
-          "art": "The",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1928,
-          "duree": 8,
-          "miniTexte": "Les derniers jours du tsar Paul (Emil Jannings), tyran dégénéré et à moitié fou. Fragments d'un film perdu, qui reçut le premier Oscar du meilleur scénario adapté, en 1929.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29060,
-              "duree": 8,
-              "format": "35 mm",
-              "intertitres": "INT. ANG.",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 133239
-        }
-      ]
-    },
-    {
       "idSeance": 185769,
       "idProg": 334,
       "idCycleCategories": [
@@ -7491,7 +7367,7 @@
       ]
     },
     {
-      "idSeance": 188090,
+      "idSeance": 188254,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -7503,7 +7379,7 @@
       ],
       "idEvenement": 32089,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-02T20:30:00",
+      "dateHeure": "2025-04-05T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7898,8 +7774,7 @@
           ],
           "idFilmBoxoffice": 846
         }
-      ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
+      ]
     },
     {
       "idSeance": 188081,
@@ -8083,27 +7958,6 @@
       "items": [
         {
           "ordre": 1,
-          "idFilm": 73877,
-          "titre": "Roméo et Juliette dans la neige",
-          "titreVo": "Romeo und Julia im Schnee",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1920,
-          "duree": 48,
-          "miniTexte": "Pastiche de la pièce de Shakespeare, _Roméo et Juliette dans la neige_ fait partie de la série « montagnarde » de Lubitsch. Transformés en rustres bavarois, les Capulethofer et les Montekugerl s'affrontent à coup de batailles de boules de neige et de procès farfelus.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29062,
-              "duree": 48,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 75372
-        },
-        {
-          "ordre": 2,
           "idFilm": 44984,
           "titre": "Montmartre",
           "titreVo": "Flamme",
@@ -8123,6 +7977,27 @@
             }
           ],
           "idFilmBoxoffice": 18463
+        },
+        {
+          "ordre": 2,
+          "idFilm": 73877,
+          "titre": "Roméo et Juliette dans la neige",
+          "titreVo": "Romeo und Julia im Schnee",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1920,
+          "duree": 48,
+          "miniTexte": "Pastiche de la pièce de Shakespeare, _Roméo et Juliette dans la neige_ fait partie de la série « montagnarde » de Lubitsch. Transformés en rustres bavarois, les Capulethofer et les Montekugerl s'affrontent à coup de batailles de boules de neige et de procès farfelus.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29062,
+              "duree": 48,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 75372
         }
       ],
       "mention": "Accompagnement musical par Jean-François Zygel"
@@ -8806,7 +8681,7 @@
           "realisateurs": "Céline Ruivo",
           "annee": 2023,
           "duree": 60,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 28999,
@@ -12061,7 +11936,7 @@
           "realisateurs": "André Zwobada",
           "annee": 1941,
           "duree": 91,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 18380,
@@ -12098,7 +11973,7 @@
           "realisateurs": "Segundo de Chomón",
           "annee": 1908,
           "duree": 4,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29104,
@@ -12115,7 +11990,7 @@
           "realisateurs": "Richard Pottier",
           "annee": 1939,
           "duree": 106,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29105,
@@ -12152,7 +12027,7 @@
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
           "duree": 81,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29351,
@@ -13410,6 +13285,7 @@
               "duree": 96,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ],
@@ -14144,7 +14020,7 @@
           "adaptation": "D'après le roman _Charlie et la chocolaterie_ de Roald Dahl.",
           "ageMinimal": 8,
           "synopsis": "Les moyens de la famille de Charlie sont si limités que les occasions pour lui de manger du chocolat sont bien rares. Lorsqu'il découvre un ticket d'or dans une tablette, c'est un billet d'entrée inespéré pour l'usine de friandises du fantasque Willy Wonka.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 11202,
@@ -14153,7 +14029,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 52933
         }
       ]
     },
@@ -14180,13 +14057,14 @@
           "realisateurs": "Jakob Schuh, Jan Lachauer, Bin-Han To",
           "annee": 2016,
           "duree": 61,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29264,
               "duree": 61
             }
-          ]
+          ],
+          "idFilmBoxoffice": 256964
         }
       ]
     },
@@ -14213,13 +14091,14 @@
           "realisateurs": "Danny DeVito",
           "annee": 1996,
           "duree": 98,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29302,
               "duree": 98
             }
-          ]
+          ],
+          "idFilmBoxoffice": 15277
         }
       ]
     },
@@ -14248,7 +14127,7 @@
           "annee": 1995,
           "duree": 80,
           "synopsis": "A bord d'une pêche géante entraînée par une nuée de mouettes, James entreprend un voyage enchanteur au-dessus de l'Atlantique. L'équipage de cet étrange véhicule n'est pas moins surprenant : un criquet pince-sans-rire, un mille-pattes vantard, une coccinelle maternelle, une araignée élégante, un ver de terre mélancolique et une luciole légèrement « allumée »...",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 543,
@@ -14258,7 +14137,8 @@
               "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 11674
         }
       ]
     },
@@ -14293,7 +14173,7 @@
           "ageMinimal": 6,
           "synopsis": "Au début de la guerre de Sécession, Johnnie Gray est refusé dans l'armée sudiste. Lorsque sa fiancée Annabelle reste à bord d'une locomotive dérobée par les Nordistes, il se lance à la poursuite de la machine.",
           "synopsisJP": "Amoureux de sa fiancée autant que de sa locomotive, le pacifique Johnnie Gray se retrouve, bien malgré lui, enrôlé dans la guerre de Sécession. Courses-poursuites sur les rails et batailles célèbres entre Sudistes et Nordistes, vues par le réalisateur burlesque et génial interprète au visage impassible, Buster Keaton.",
-          "status": 2,
+          "status": 1,
           "copies": [
             {
               "idCopie": 6377,
@@ -14301,7 +14181,8 @@
               "format": "DCP",
               "intertitres": "INT. FR."
             }
-          ]
+          ],
+          "idFilmBoxoffice": 108016
         }
       ]
     },
@@ -14333,7 +14214,7 @@
           "generique": "Catherine Deneuve, Françoise Dorléac, Danielle Darrieux, Jacques Perrin, Gene Kelly",
           "ageMinimal": 8,
           "synopsis": "Deux sœurs jumelles qui enseignent l'une la danse, l'autre la musique, rencontrent l'une un peintre-poète qui fait son service militaire dans la marine, l'autre un marchand d'instuments de musique.",
-          "synopsisJP": "Delphine et Solange, sœurs jumelles pétillantes nées-sous-le-signe-des-Gémeaux, rêvent au grand amour. Couleurs éclatantes, casting de choix, morceaux légendaires de Michel Legrand illuminent la plus grande comédie musicale du cinéma français.",
+          "synopsisJP": "Delphine et Solange, sœurs jumelles exubérantes nées-sous-le-signe-des-Gémeaux, rêvent au grand amour. Couleurs éclatantes, casting de choix, morceaux légendaires de Michel Legrand illuminent la plus grande comédie musicale du cinéma français.",
           "status": 2,
           "copies": [
             {
@@ -14342,7 +14223,8 @@
               "format": "DCP",
               "langCopie": "FRE"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 479
         }
       ]
     },
@@ -14372,13 +14254,14 @@
           "duree": 80,
           "ageMinimal": 6,
           "synopsis": "La famille Souriskewitz embarque pour un monde sans chats, l'Amérique. Au cours de la traversée, Fievel est emporté par une tempête et échoue à New York. Pour pouvoir retrouver sa famille, il devra faire face aux dangers de ce nouveau pays, bien différent de ce qu'il avait imaginé.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29263,
               "duree": 80
             }
-          ]
+          ],
+          "idFilmBoxoffice": 427
         }
       ]
     },
@@ -14411,7 +14294,7 @@
           "synopsis": "Les studios de Hollywood à l'aube du parlant : techniciens, réalisateurs et acteurs ont bien du mal à s'adapter aux nouvelles conditions de tournage.",
           "synopsisJP": "Deux stars du cinéma muet tournent leur premier film parlant. Couleurs explosives, chorégraphies pétillantes, claquettes sous la pluie, et un trio d'acteurs qui enchaîne les numéros dans la bonne humeur : la plus grande comédie musicale de tous les temps, qui célèbre Hollywood et la magie du cinéma.",
           "commentaire": "Dans les années 1920, le parolier Arthur Freed et le compositeur Nacio Herb Brown écrivent des chansons pour des revues de music-hall, dont _Singin' in the Rain_. En 1939, Freed intègre le département musical de la MGM. La Freed Unit produit notamment, dans les années 1940, les grandes comédies musicales de Vincente Minnelli. En 1950, la MGM achète le répertoire de chansons « Freed et Brown », à partir duquel Arthur Freed souhaite produire une comédie musicale. _Make 'Em Laugh_ et _Moses_ seront les seules chansons écrites spécialement pour le film. Au printemps, il fait venir de New York les scénaristes Aldoph Green et Betty Comden. Le tandem vient d'adapter pour l'écran leur spectacle _On the Town_, tourné l'année précédente par le duo Stanley Donen et Gene Kelly, qui rejoint la production après la fin du tournage d'_Un Américain à Paris_. L'équipe va s'inspirer de personnages réels, et recueillir des témoignages contemporains de l'avènement du parlant, concordant avec l'époque des chansons.\n\nLes répétitions débutent en avril 1951, et le tournage se déroule de juin à novembre. La MGM a recours à ses propres archives pour reconstituer le studio de la Monumental Pictures et les équipements de l'époque. Mille cinq cents costumes sont créés pour le tournage en Technicolor. La très jeune Debbie Reynolds incarne Kathy Selden, qui, dans le film, double la voix de la star Lina Lamont, interprétée par Jean Hagen. Ironie de cette mise en abyme, c'est en réalité la voix chantée de Debbie Reynolds qui a été doublée à cause de l'accent de la jeune actrice...\n\nMarion Langlois",
-          "status": 2,
+          "status": 1,
           "copies": [
             {
               "idCopie": 13653,
@@ -14420,7 +14303,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 5120
         }
       ]
     },
@@ -14457,7 +14341,8 @@
               "format": "DCP",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 57417
         }
       ]
     },
@@ -14480,7 +14365,7 @@
         {
           "ordre": 1,
           "idFilm": 51579,
-          "titre": "Quatre cents coups",
+          "titre": "Quatre Cents Coups",
           "art": "Les",
           "realisateurs": "François Truffaut",
           "annee": 1959,
@@ -14489,7 +14374,7 @@
           "ageMinimal": 8,
           "synopsis": "Paris, place de Clichy, années 1950. Le turbulent Antoine Doinel sèche l'école pour traîner avec son camarade René dans les rues et les cinéma du quartier.",
           "commentaire": "« Où ai-je trouvé le nom d'Antoine Doinel ? J'ai pensé d'abord me rapprocher d'un nom qui me plaisait beaucoup à l'oreille, celui d'Étienne Loinod, collaborateur des _Cahiers du cinéma_ (en réalité le pseudonyme anagramme de Jacques Doniol-Valcroze). J'ai cru sincèrement inventer le nom d'Antoine Doinel jusqu'au jour où quelqu'un m'a fait remarquer que j'avais simplement emprunté celui de la secrétaire de Jean Renoir, Ginette Doinel ! C'est justement Jean Renoir qui m'a appris que l'acteur jouant un personnage est plus important que ce personnage, ou si l'on préfère, qu'il faut toujours sacrifier l'abstrait au concret. Rien d'étonnant donc si Antoine Doinel s'est, dès le premier jour de tournage des _Quatre cents coups_, éloigné de moi pour se rapprocher de Jean-Pierre Léaud. » (François Truffaut)",
-          "status": 2,
+          "status": 1,
           "copies": [
             {
               "idCopie": 5007,
@@ -14497,7 +14382,8 @@
               "format": "DCP",
               "langCopie": "FRE"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 62178
         }
       ]
     },
@@ -14569,7 +14455,8 @@
               "format": "DCP",
               "langCopie": "FRE"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 4569
         }
       ]
     },
@@ -14592,7 +14479,7 @@
         {
           "ordre": 1,
           "idFilm": 50401,
-          "titre": "Grande vadrouille",
+          "titre": "Grande Vadrouille",
           "art": "La",
           "realisateurs": "Gérard Oury",
           "annee": 1966,
@@ -14606,7 +14493,8 @@
               "duree": 122,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 4307
         }
       ]
     },
@@ -14635,7 +14523,7 @@
           "annee": 2001,
           "duree": 92,
           "ageMinimal": 4,
-          "status": 2,
+          "status": 1,
           "copies": [
             {
               "idCopie": 11712,
@@ -14644,7 +14532,8 @@
               "version": "VF",
               "langCopie": "FRE"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 26862
         }
       ]
     },
@@ -14674,7 +14563,7 @@
           "realisateurs": "Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman",
           "annee": 1960,
           "duree": 80,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29262,
@@ -14682,7 +14571,8 @@
               "format": "DCP",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 2530
         }
       ]
     },
@@ -14712,7 +14602,7 @@
           "realisateurs": "Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman",
           "annee": 1960,
           "duree": 80,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29262,
@@ -14720,7 +14610,8 @@
               "format": "DCP",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 2530
         }
       ]
     },
@@ -14915,7 +14806,8 @@
           "generique": "Charles Chaplin, Edna Purviance, Leo White, John Rand",
           "ageMinimal": 6,
           "synopsis": "Une soirée au cabaret avec Charlot dans le rôle du trouble-fête. Adapté du numéro que faisait Chaplin durant ses années de vaudeville, ce film est un torrent de rires et se termine en véritable pugilat pour les malheureux artistes présents sur scène.",
-          "status": 2
+          "status": 2,
+          "idFilmBoxoffice": 35564
         },
         {
           "ordre": 2,
@@ -14926,7 +14818,8 @@
           "realisateurs": "Charles Chaplin",
           "annee": 1916,
           "synopsis": "Êtes-vous sûrs de toujours reconnaître Charlot ? Même sans sa moustache, lorsqu'il se déguise en jeune fille ou quand il se fait passer pour un riche aristocrate ?",
-          "status": 0
+          "status": 1,
+          "idFilmBoxoffice": 2267
         },
         {
           "ordre": 3,
@@ -14938,7 +14831,8 @@
           "annee": 1917,
           "generique": "Charles Chaplin, Edna Purviance",
           "ageMinimal": 6,
-          "status": 2
+          "status": 2,
+          "idFilmBoxoffice": 50268
         }
       ]
     },
@@ -14967,7 +14861,8 @@
           "annee": 2014,
           "adaptation": "D'après le roman _When Marnie was there_ de Joan G. Robinson.",
           "ageMinimal": 7,
-          "status": 0
+          "status": 1,
+          "idFilmBoxoffice": 225897
         }
       ]
     },
@@ -15099,7 +14994,7 @@
           "generique": "Dominique Paturel, Claude Bertrand, Philippe Dumat",
           "ageMinimal": 4,
           "synopsis": "En l'absence du souverain Richard Cœur de Lion parti en croisades, le Prince Jean règne en tyran sur le royaume. Alors, comme les Gaulois menés par Astérix et Obélix, Robin des Bois et ses amis mènent la résistance en détroussant les convoyeurs d'impôts et en défendant les pauvres contre les injustices.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 12598,
@@ -15107,7 +15002,8 @@
               "format": "DCP",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 284
         }
       ]
     },
@@ -15291,7 +15187,7 @@
           "annee": 2023,
           "duree": 40,
           "generique": "Benedict Cumberbatch, Dev Patel",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29313,
@@ -15301,7 +15197,8 @@
               "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 227531
         },
         {
           "ordre": 2,
@@ -15314,7 +15211,7 @@
           "annee": 2023,
           "duree": 17,
           "generique": "Rupert Friend, Asa Jennings",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29314,
@@ -15324,7 +15221,8 @@
               "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 320023
         },
         {
           "ordre": 3,
@@ -15337,7 +15235,7 @@
           "annee": 2023,
           "duree": 17,
           "generique": "Richard Ayoade, Rupert Friend",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29315,
@@ -15347,7 +15245,8 @@
               "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 320024
         },
         {
           "ordre": 4,
@@ -15358,7 +15257,7 @@
           "annee": 2023,
           "duree": 17,
           "generique": "Dev Patel, Benedict Cumberbatch",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29316,
@@ -15368,7 +15267,8 @@
               "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 320026
         }
       ]
     },
@@ -15436,7 +15336,7 @@
       "mention": "Séance présentée par Sylvie Pierre"
     },
     {
-      "idSeance": 186186,
+      "idSeance": 188256,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -15448,7 +15348,7 @@
       ],
       "idEvenement": 32562,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-09T18:30:00",
+      "dateHeure": "2025-04-14T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -15586,26 +15486,6 @@
         },
         {
           "ordre": 2,
-          "idFilm": 70811,
-          "titre": "Ein fideles Gefängnis",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1917,
-          "duree": 54,
-          "generique": "Emil Jannings, Hanns Kräly",
-          "miniTexte": "D'après une opérette de Richard Strauss, le film dépeint avec humour les problèmes conjugaux d'un couple de la bourgeoisie berlinoise. Méprises et sous-entendus malicieux, modèles types de la première vague du maître.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29067,
-              "duree": 54,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ]
-        },
-        {
-          "ordre": 3,
           "idFilm": 40745,
           "titre": "Wenn vier dasselbe tun",
           "realisateurs": "Ernst Lubitsch",
@@ -15623,11 +15503,31 @@
             }
           ],
           "idFilmBoxoffice": 185387
+        },
+        {
+          "ordre": 3,
+          "idFilm": 70811,
+          "titre": "Ein fideles Gefängnis",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1917,
+          "duree": 54,
+          "generique": "Emil Jannings, Hanns Kräly",
+          "miniTexte": "D'après une opérette de Richard Strauss, le film dépeint avec humour les problèmes conjugaux d'un couple de la bourgeoisie berlinoise. Méprises et sous-entendus malicieux, modèles types de la première vague du maître.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29067,
+              "duree": 54,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ]
         }
       ]
     },
     {
-      "idSeance": 187839,
+      "idSeance": 188252,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -15637,79 +15537,54 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 32570,
+      "idEvenement": 32572,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-28T17:30:00",
+      "dateHeure": "2025-03-30T20:00:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 40754,
-          "titre": "Roi du corsage",
-          "art": "Le",
-          "titreVo": "Blusenkönig",
-          "artVo": "Der",
+          "idFilm": 128868,
+          "titre": "Quand j'étais mort",
+          "titreVo": "Als ich tot war",
           "realisateurs": "Ernst Lubitsch",
-          "annee": 1917,
-          "duree": 12,
-          "generique": "Ernst Lubitsch, Käthe Dorsch, Guido Herzfeld",
-          "miniTexte": "Fragment d'un film perdu, dans la série des comédies « boutiquières » qui ont fait la renommée de Lubitsch, et dans lesquelles il interprète un petit apprenti qui tente de s'élever socialement.",
+          "annee": 1915,
+          "duree": 38,
+          "generique": "Ernst Lubitsch",
+          "miniTexte": "Un dandy se fait passer pour mort et revient chez lui déguisé en domestique. Les débuts de Lubitsch et la plus ancienne de ses réalisations encore visibles, une comédie conjugale mordante, qui révèle tout son génie burlesque.",
           "status": 1,
           "copies": [
             {
-              "idCopie": 29066,
-              "duree": 12,
-              "format": "Numérique",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
+              "idCopie": 29327,
+              "duree": 38,
+              "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 27337
         },
         {
           "ordre": 2,
-          "idFilm": 70811,
-          "titre": "Ein fideles Gefängnis",
+          "idFilm": 92582,
+          "titre": "Je ne voudrais pas être un homme",
+          "titreVo": "Ich möchte kein Mann sein",
           "realisateurs": "Ernst Lubitsch",
-          "annee": 1917,
-          "duree": 54,
-          "generique": "Emil Jannings, Hanns Kräly",
-          "miniTexte": "D'après une opérette de Richard Strauss, le film dépeint avec humour les problèmes conjugaux d'un couple de la bourgeoisie berlinoise. Méprises et sous-entendus malicieux, modèles types de la première vague du maître.",
+          "annee": 1918,
+          "duree": 44,
+          "miniTexte": "Décidée à expérimenter la liberté masculine, une jeune femme se travestit et sort pour une nuit d'aventures. Un Lubitsch avant-gardiste et subversif qui explore les normes de genres avec malice.",
           "status": 1,
           "copies": [
             {
-              "idCopie": 29067,
-              "duree": 54,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ]
-        },
-        {
-          "ordre": 3,
-          "idFilm": 40745,
-          "titre": "Wenn vier dasselbe tun",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1917,
-          "duree": 42,
-          "miniTexte": "Sur le thème du sentiment amoureux, Lubitsch réalise et interprète un ballet pour quatre personnages, dont la cadence annonce ses futurs _musicals_.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29398,
-              "duree": 42,
-              "format": "35 mm",
-              "intertitres": "INT. ANG.",
-              "stDemande": true
+              "idCopie": 29343,
+              "duree": 44,
+              "format": "DCP"
             }
           ],
-          "idFilmBoxoffice": 185387
+          "idFilmBoxoffice": 10400
         }
-      ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
+      ]
     },
     {
-      "idSeance": 188189,
+      "idSeance": 188085,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -15719,76 +15594,72 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 32570,
+      "idEvenement": 32577,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-14T20:30:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-03-19T20:30:00",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 40754,
-          "titre": "Roi du corsage",
-          "art": "Le",
-          "titreVo": "Blusenkönig",
-          "artVo": "Der",
+          "idFilm": 40800,
+          "titre": "Meyer aus Berlin",
           "realisateurs": "Ernst Lubitsch",
-          "annee": 1917,
-          "duree": 12,
-          "generique": "Ernst Lubitsch, Käthe Dorsch, Guido Herzfeld",
-          "miniTexte": "Fragment d'un film perdu, dans la série des comédies « boutiquières » qui ont fait la renommée de Lubitsch, et dans lesquelles il interprète un petit apprenti qui tente de s'élever socialement.",
+          "annee": 1918,
+          "duree": 51,
+          "miniTexte": "Les facéties d'un citadin berlinois qui part prendre l'air à la montagne. Avec le personnage de Meyer, archétype du comique juif allemand qu'il interprète lui-même, Lubitsch devient une figure très populaire du cinéma germanique.",
           "status": 1,
           "copies": [
             {
-              "idCopie": 29066,
-              "duree": 12,
-              "format": "Numérique",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ]
-        },
-        {
-          "ordre": 2,
-          "idFilm": 70811,
-          "titre": "Ein fideles Gefängnis",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1917,
-          "duree": 54,
-          "generique": "Emil Jannings, Hanns Kräly",
-          "miniTexte": "D'après une opérette de Richard Strauss, le film dépeint avec humour les problèmes conjugaux d'un couple de la bourgeoisie berlinoise. Méprises et sous-entendus malicieux, modèles types de la première vague du maître.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29067,
-              "duree": 54,
+              "idCopie": 29059,
+              "duree": 51,
               "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ]
-        },
-        {
-          "ordre": 3,
-          "idFilm": 40745,
-          "titre": "Wenn vier dasselbe tun",
-          "realisateurs": "Ernst Lubitsch",
-          "annee": 1917,
-          "duree": 42,
-          "miniTexte": "Sur le thème du sentiment amoureux, Lubitsch réalise et interprète un ballet pour quatre personnages, dont la cadence annonce ses futurs _musicals_.",
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29398,
-              "duree": 42,
-              "format": "35 mm",
-              "intertitres": "INT. ANG.",
+              "intertitres": "Autres",
               "stDemande": true
             }
           ],
-          "idFilmBoxoffice": 185387
+          "idFilmBoxoffice": 120299
+        },
+        {
+          "ordre": 2,
+          "idFilm": 40802,
+          "titre": "Poupée",
+          "art": "La",
+          "titreVo": "Puppe",
+          "artVo": "Die",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1919,
+          "duree": 51,
+          "generique": "Ernst Lubitsch, Ossi Oswalda",
+          "synopsis": "Le jeune Lancelot, prié de prendre femme alors qu'il n'en veut pas, décide de se retirer dans un monastère et de se marier avec une poupée pour donner la dot aux moines.",
+          "miniTexte": "Dans un décor de papier installé par ses soins, Lubitsch lance lui-même le film : pour échapper au mariage, un jeune héritier se cache dans un monastère, où des moines paillards le poussent à épouser une poupée mécanique. Sur un motif cher au cinéaste – une femme éveille le désir d'un homme qu'elle détourne de son chemin –, _La Poupée_ exploite brillamment les effets visuels comiques, dans un monde féerique aux accents expressionnistes. Ici, les pantins dansent et deviennent des sosies de chair, capables de faire fondre le cœur des plus misogynes.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 17005,
+              "duree": 51,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "stDemande": true,
+              "selected": true
+            },
+            {
+              "idCopie": 29070,
+              "duree": 68,
+              "format": "DCP",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            },
+            {
+              "idCopie": 29395,
+              "duree": 68,
+              "format": "DCP",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 6045
         }
-      ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
+      ]
     }
   ]
 }
