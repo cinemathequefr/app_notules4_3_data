@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-06T11:11:18.150Z",
+  "updatedAt": "2024-12-06T13:47:39.889Z",
   "data": [
     {
       "idSeance": 185394,
@@ -1530,14 +1530,17 @@
           "titre": "Barbagia",
           "realisateurs": "Carlo Lizzani",
           "annee": 1969,
-          "duree": 97,
+          "duree": 101,
           "generique": "Terence Hill, Don Backy, Frank Wolff",
           "miniTexte": "Le destin de Graziano Mesina, figure du grand banditisme italien, et de son lieutenant, l'Espagnol Miguel Atienza. Lizzani signe un polar enlevé dans l'arrière-pays sarde, avec le même souci documentaire que dans _Bandits à Milan_. Terence Hill, ici dans sa veine sérieuse, est excellent en Robin des Bois impétueux. Une rareté, jamais sortie en France.",
           "status": 2,
           "copies": [
             {
               "idCopie": 28968,
-              "duree": 97
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -1618,7 +1621,10 @@
           "copies": [
             {
               "idCopie": 28956,
-              "duree": 81
+              "duree": 81,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -1657,7 +1663,8 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ITA",
-              "sousTitres": "Autres"
+              "sousTitres": "Autres",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 206174
@@ -1695,7 +1702,10 @@
           "copies": [
             {
               "idCopie": 28981,
-              "duree": 89
+              "duree": 89,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -1764,7 +1774,7 @@
           "artVo": "La",
           "realisateurs": "Carlo Lizzani",
           "annee": 1964,
-          "duree": 105,
+          "duree": 106,
           "generique": "Assia Noris, Beba Loncar, Raffaella Carrà",
           "adaptation": "D'après le roman _La Célestine_ de Fernando de Rojas.",
           "miniTexte": "Quinze ans après avoir disparu des écrans, le dernier tour de piste d'Assia Noris, l'une des grandes stars du cinéma des téléphones blancs, ces comédies italiennes légères et bourgeoises qui faisaient fureur dans les années 30. L'actrice sort ici de sa zone de confort, tête d'affiche d'une comédie grinçante et pessimiste sur l'arrivisme, l'argent et le déclin moral de l'Italie d'après-guerre.",
@@ -1772,7 +1782,10 @@
           "copies": [
             {
               "idCopie": 28960,
-              "duree": 105
+              "duree": 106,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
@@ -2165,7 +2178,9 @@
               "idCopie": 28954,
               "duree": 95,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "langCopie": "ITA",
+              "stDemande": true
             }
           ]
         }
@@ -5344,7 +5359,9 @@
           "copies": [
             {
               "idCopie": 28987,
-              "duree": 110
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 130665
@@ -5994,6 +6011,14 @@
               "duree": 112,
               "format": "35 mm",
               "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29419,
+              "duree": 112,
+              "format": "35 mm",
+              "version": "VO",
               "sousTitres": "STF"
             }
           ],
@@ -6033,6 +6058,14 @@
           "copies": [
             {
               "idCopie": 29085,
+              "duree": 112,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29419,
               "duree": 112,
               "format": "35 mm",
               "version": "VO",
@@ -6487,6 +6520,20 @@
               "sousTitres": "STF"
             },
             {
+              "idCopie": 29417,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 29418,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
               "idCopie": 15802,
               "duree": 100,
               "format": "DCP",
@@ -6539,6 +6586,20 @@
             },
             {
               "idCopie": 21130,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 29417,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 29418,
               "duree": 100,
               "format": "35 mm",
               "version": "VO",
@@ -7280,17 +7341,23 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 29276,
+              "idCopie": 29420,
               "duree": 60,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF",
+              "format": "35 mm",
+              "intertitres": "INT. FR.",
               "selected": true
             },
             {
               "idCopie": 25373,
               "duree": 70,
-              "format": "35 mm"
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            },
+            {
+              "idCopie": 29276,
+              "duree": 60,
+              "format": "DCP",
+              "intertitres": "INT. FR."
             }
           ],
           "idFilmBoxoffice": 34285
@@ -7366,11 +7433,10 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 29079,
+              "idCopie": 29422,
               "duree": 90,
-              "format": "35 mm",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 61408
@@ -8174,6 +8240,14 @@
           "miniTexte": "Film à sketches dans lequel un riche industriel décide de léguer un million de dollars à des inconnus trouvés au hasard dans l'annuaire. Lubitsch choisit l'excellent Charles Laughton pour incarner l'heureux élu dans un court gag inoubliable.",
           "status": 1,
           "copies": [
+            {
+              "idCopie": 29423,
+              "duree": 88,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
             {
               "idCopie": 29081,
               "duree": 88,
@@ -12502,7 +12576,8 @@
           "realisateurs": "Mike Leigh",
           "annee": 1971,
           "duree": 110,
-          "status": 0,
+          "miniTexte": "La vie taciturne d'une secrétaire, qui partage son temps entre une sœur handicapée mentale, une collègue de bureau perturbée et un petit ami mal à l'aise. Dialogues laconiques, moments de gêne, silences pesants, le premier long métrage de Mike Leigh, acclamé par la critique à sa sortie, est une étude captivante de l'isolement social, où chacun peine à exprimer ses émotions et à tisser des liens véritables. Un jalon du cinéma britannique, qui inaugure le style naturaliste du cinéaste, qu'il ne cessera de développer au cours de ses 50 ans de carrière. Léopard d'or à Locarno.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29189,
@@ -12545,7 +12620,8 @@
           "realisateurs": "Mike Leigh",
           "annee": 1971,
           "duree": 110,
-          "status": 0,
+          "miniTexte": "La vie taciturne d'une secrétaire, qui partage son temps entre une sœur handicapée mentale, une collègue de bureau perturbée et un petit ami mal à l'aise. Dialogues laconiques, moments de gêne, silences pesants, le premier long métrage de Mike Leigh, acclamé par la critique à sa sortie, est une étude captivante de l'isolement social, où chacun peine à exprimer ses émotions et à tisser des liens véritables. Un jalon du cinéma britannique, qui inaugure le style naturaliste du cinéaste, qu'il ne cessera de développer au cours de ses 50 ans de carrière. Léopard d'or à Locarno.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29189,
@@ -12588,6 +12664,7 @@
           "realisateurs": "Mike Leigh",
           "annee": 1983,
           "duree": 102,
+          "miniTexte": "Les débuts de Gary Oldman et Tim Roth dans un film réalisé pour Channel 4, l'histoire d'une famille de l'East End londonien, qui tente de rester à flot au début des années Thatcher. Le chômage et la crise sociale, vus à travers le regard implacable et souvent drôle de Mike Leigh.",
           "status": 1,
           "copies": [
             {
@@ -12624,7 +12701,8 @@
           "realisateurs": "Mike Leigh",
           "annee": 1988,
           "duree": 112,
-          "status": 0,
+          "miniTexte": "Les espoirs et les divergences d'une famille londonienne dans une société en pleine mutation. Une critique mordante sur les inégalités sociales, où couples précaires, bourgeois arrogants, marxiste désabusé et mère délaissée, forment une galerie de personnages aussi drôles que mélancoliques.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29228,
@@ -12661,7 +12739,8 @@
           "realisateurs": "Mike Leigh",
           "annee": 1988,
           "duree": 112,
-          "status": 0,
+          "miniTexte": "Les espoirs et les divergences d'une famille londonienne dans une société en pleine mutation. Une critique mordante sur les inégalités sociales, où couples précaires, bourgeois arrogants, marxiste désabusé et mère délaissée, forment une galerie de personnages aussi drôles que mélancoliques.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29228,
@@ -12698,7 +12777,8 @@
           "realisateurs": "Mike Leigh",
           "annee": 1990,
           "duree": 103,
-          "status": 0,
+          "miniTexte": "Premier succès international de Mike Leigh, la description tragi-comique d'une famille de la classe ouvrière du nord de Londres. Avec ses personnages hauts en couleur – parents et jumelles que tout oppose –, une comédie douce-amère, où les rêves les plus modestes prennent une dimension des plus profondes.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29190,
@@ -12744,6 +12824,7 @@
           "annee": 1993,
           "generique": "David Thewlis, Lesley Sharp, Katrin Cartlidge",
           "synopsis": "Johnny doit fuir Manchester après avoir violé une femme. Il se réfugie dans l'Est de Londres, chez son ancienne petite amie, et entame une longue errance dans les rues de la ville, pleine de sombres rencontres.",
+          "miniTexte": "Après les comédies de ses débuts (_High Hopes_, _Life is Sweet_), Mike Leigh opère un tournant sombre et signe un film grinçant, violent, à l'atmosphère blafarde. Avec les errances nocturnes d'un Ulysse, affreux, sale et méchant, _Naked_ plonge le spectateur dans la vision cauchemardesque d'une Angleterre exsangue après la décennie thatchérienne. Une époque où les rapports humains, aux deux extrémités du spectre social, ne sont plus que brutalité et indifférence. Son interprète, David Thewlis, reçoit le Prix d'interprétation à Cannes, et le cinéaste le Prix de la mise en scène.",
           "commentaire": "Après un premier film, _Bleak Moments_, en 1971, Mike Leigh passe une quinzaine d'années à réaliser des séries et des téléfilms avant de revenir au cinéma avec _High Hopes_ (1988) et _Life Is Sweet_ (1990), comédies dramatiques réalistes qui se concentrent sur une cellule familiale. _Naked_, comédie grinçante, violente, à l'esthétique réaliste trompeuse, opère un tournant sombre. Le tournage a pour cadre des lieux existants, mais Leigh et son équipe grisent les murs, éliminent les couleurs vives, et au moment du développement de la pellicule évitent le bain de blanchiment afin de donner plus de densité aux noirs. L'atmosphère blafarde qui en résulte fait basculer le film du côté de la métaphore. _Naked_ plonge le spectateur dans une vision cauchemardesque d'une Angleterre exsangue après la décennie thatchérienne, une époque où les rapports humains ne sont plus que brutalité. Loin des nobles personnages de la classe ouvrière de Ken Loach, Johnny, interprété par David Thewlis (récompensé à Cannes en 1993, tout comme Mike Leigh pour son scénario), est un Ulysse, affreux, sale et méchant, qui erre dans Londres. Son pendant, le glaçant Jeremy, à l'autre bout du spectre social, va encore plus loin dans l'abjection, sous le vernis du yuppie. Entre les deux, une série de personnages, des femmes victimes, souvent, mais résilientes et solidaires, et un gardien de nuit. Improvisé en partie, tourné sans autorisation dans les rues de la capitale anglaise, _Naked_ est aussi un film du langage, des accents, chargé d'une parole envahissante contre la frustration d'un monde toujours indifférent et froid.\n\nWafa Ghermani",
           "status": 2,
           "copies": [
@@ -12783,6 +12864,7 @@
           "annee": 1993,
           "generique": "David Thewlis, Lesley Sharp, Katrin Cartlidge",
           "synopsis": "Johnny doit fuir Manchester après avoir violé une femme. Il se réfugie dans l'Est de Londres, chez son ancienne petite amie, et entame une longue errance dans les rues de la ville, pleine de sombres rencontres.",
+          "miniTexte": "Après les comédies de ses débuts (_High Hopes_, _Life is Sweet_), Mike Leigh opère un tournant sombre et signe un film grinçant, violent, à l'atmosphère blafarde. Avec les errances nocturnes d'un Ulysse, affreux, sale et méchant, _Naked_ plonge le spectateur dans la vision cauchemardesque d'une Angleterre exsangue après la décennie thatchérienne. Une époque où les rapports humains, aux deux extrémités du spectre social, ne sont plus que brutalité et indifférence. Son interprète, David Thewlis, reçoit le Prix d'interprétation à Cannes, et le cinéaste le Prix de la mise en scène.",
           "commentaire": "Après un premier film, _Bleak Moments_, en 1971, Mike Leigh passe une quinzaine d'années à réaliser des séries et des téléfilms avant de revenir au cinéma avec _High Hopes_ (1988) et _Life Is Sweet_ (1990), comédies dramatiques réalistes qui se concentrent sur une cellule familiale. _Naked_, comédie grinçante, violente, à l'esthétique réaliste trompeuse, opère un tournant sombre. Le tournage a pour cadre des lieux existants, mais Leigh et son équipe grisent les murs, éliminent les couleurs vives, et au moment du développement de la pellicule évitent le bain de blanchiment afin de donner plus de densité aux noirs. L'atmosphère blafarde qui en résulte fait basculer le film du côté de la métaphore. _Naked_ plonge le spectateur dans une vision cauchemardesque d'une Angleterre exsangue après la décennie thatchérienne, une époque où les rapports humains ne sont plus que brutalité. Loin des nobles personnages de la classe ouvrière de Ken Loach, Johnny, interprété par David Thewlis (récompensé à Cannes en 1993, tout comme Mike Leigh pour son scénario), est un Ulysse, affreux, sale et méchant, qui erre dans Londres. Son pendant, le glaçant Jeremy, à l'autre bout du spectre social, va encore plus loin dans l'abjection, sous le vernis du yuppie. Entre les deux, une série de personnages, des femmes victimes, souvent, mais résilientes et solidaires, et un gardien de nuit. Improvisé en partie, tourné sans autorisation dans les rues de la capitale anglaise, _Naked_ est aussi un film du langage, des accents, chargé d'une parole envahissante contre la frustration d'un monde toujours indifférent et froid.\n\nWafa Ghermani",
           "status": 2,
           "copies": [
@@ -12901,6 +12983,7 @@
           "annee": 1996,
           "duree": 87,
           "generique": "Katrin Cartlidge, Lynda Steadman, Kate Byers",
+          "miniTexte": "Les retrouvailles de deux copines d'université, qui se remémorent leurs années de colocation et font le point sur ce qu'elles sont devenues. Tendre et lucide, le portrait revigorant d'une amitié de jeunesse, faite de joies et de névroses.",
           "status": 1,
           "copies": [
             {
@@ -12974,7 +13057,8 @@
           "realisateurs": "Mike Leigh",
           "annee": 2001,
           "duree": 128,
-          "status": 0,
+          "miniTexte": "L'existence désastreuse d'un chauffeur de taxi, de sa femme, caissière de supermarché, et de leurs enfants obèses. Un brin cruel, toujours dénué de pitié, Mike Leigh décrit l'Angleterre prolétaire, brutale et sombre, avec quelques touches de tendresse et d'humour.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29224,
@@ -13049,7 +13133,8 @@
           "realisateurs": "Mike Leigh",
           "annee": 2007,
           "duree": 118,
-          "status": 0,
+          "miniTexte": "La trentaine pétillante, Poppy est une institutrice ouvertement optimiste, qui livre bataille contre le défaitisme et les rancœurs. Philosophique, excentrique, un _feel-good movie_ sur les normes sociales et le rapport au bonheur.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29191,
@@ -13087,6 +13172,7 @@
           "annee": 2009,
           "duree": 129,
           "generique": "Jim Broadbent, Lesley Manville, Ruth Sheen",
+          "miniTexte": "Quatre saisons dans la vie d'un couple de sexagénaires, complices et bienveillants, _Another Year_ est une réflexion subtile sur la famille et l'amitié, l'amour et le réconfort. Existence agréable, le quotidien de Tom et Gerri passe d'une promenade au jardin à l'organisation d'un dîner entre amis, moments de bonheurs troublés par les visites impromptues d'un fils célibataire ou d'une collègue malheureuse. Légère, amusante, la comédie de Mike Leigh cède peu à peu à la tristesse, la gravité, pour dévoiler un drame poignant, qui exprime la solitude et le temps qui passe inexorablement.",
           "status": 1,
           "copies": [
             {
@@ -13139,7 +13225,8 @@
           "realisateurs": "Mike Leigh",
           "annee": 2013,
           "duree": 149,
-          "status": 0,
+          "miniTexte": "Des triomphes publics des années 1820 aux œuvres expérimentales de la fin de sa vie, un biopic du peintre William Turner, au sommet de son art, porté par l'interprétation grandiose de Timothy Spall.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29225,
@@ -13174,7 +13261,8 @@
           "titre": "Peterloo",
           "realisateurs": "Mike Leigh",
           "annee": 2018,
-          "status": 0,
+          "miniTexte": "De 1815 à 1819, quatre années de luttes populaires qui prirent fin avec le massacre de Peterloo à Manchester. Reconstitution historique grandiose et plastiquement superbe, le film célèbre la classe ouvrière dans l'un des épisodes politiques les plus sanglants de l'histoire britannique.",
+          "status": 1,
           "idFilmBoxoffice": 237203
         }
       ]
@@ -13261,7 +13349,8 @@
           "titreVo": "Mul-an-e-seo",
           "realisateurs": "Sang-soo Hong",
           "annee": 2023,
-          "status": 0,
+          "miniTexte": "Sur l'île de Jeju, trois jeunes cinéastes se mettent en quête d'une histoire à raconter. Hong Sang-soo transforme le flou en personnage à part entière, érigé comme métaphore de l'incertitude et de la mémoire, pour faire naître un nouveau langage de cinéma. Une œuvre radicale, véritable déambulation onirique.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29197,
@@ -13298,8 +13387,8 @@
           "annee": 1996,
           "duree": 96,
           "generique": "Woody Allen, Caroline Aaron, Kirstie Alley, Robin Williams, Demi Moore",
-          "synopsis": "Ecrivain à succès mais en panne d'inspiration, Harry se rend dans son ancienne université pour un hommage. Il y retrouve tous les gens avec qui il s'était brouillé.",
-          "status": 0,
+          "miniTexte": "Les tourments d'un écrivain en crise, envahi par ses névroses. Avec un humour noir décapant, Allen orchestre une auto-analyse, qui explore la recherche de sens au fil de situations cocasses et absurdes. Fidèle à ses thématiques fétiches, il signe surtout une satire du monde artistique, avec un casting survolté – dont Robin Williams, hilarant en acteur flou.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29196,
@@ -13337,7 +13426,8 @@
           "realisateurs": "Stan Brakhage",
           "annee": 1996,
           "duree": 4,
-          "status": 0,
+          "miniTexte": "Par le biais de techniques expérimentales comme le grattage direct sur pellicule, le cinéaste crée une exploration visuelle des effets de la chaleur, le temps d'une expérience sensorielle brute.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29200,
@@ -13356,7 +13446,8 @@
           "realisateurs": "Stan Brakhage",
           "annee": 1972,
           "duree": 3,
-          "status": 0,
+          "miniTexte": "Dans une atmosphère onirique et mystérieuse, Brakhage rend hommage au « dieu de la forêt » en plaçant du verre sur un chevalet entre sa caméra et les arbres. Une promenade contemplative, propice au dépaysement.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29202,
@@ -13373,8 +13464,8 @@
           "realisateurs": "Takashi Ito",
           "annee": 1982,
           "duree": 5,
-          "synopsis": "Femme foudre illuminant la nuit. (Y.G.)",
-          "status": 0,
+          "miniTexte": "Une femme se couvre et se découvre le visage avec ses mains dans un immeuble de bureaux vides. Takashi Itō compose une série de diapositives photographiques pour une quête imaginaire aux visions fantasmatiques.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 10397,
@@ -13391,7 +13482,8 @@
           "realisateurs": "Stan Brakhage",
           "annee": 1965,
           "duree": 7,
-          "status": 0,
+          "miniTexte": "Inspiré par une lettre du poète Robert Kelly, Brakhage filme la relation entre lumière, couleur et éléments naturels. Une confrontation lyrique et abstraite, arbitrée par le passage du temps.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29199,
@@ -13407,7 +13499,8 @@
           "titre": "Dizziness",
           "realisateurs": "Takashi Itô",
           "annee": 2001,
-          "status": 0
+          "miniTexte": "Deux jeunes filles voient leurs vies bousculées après avoir assisté à une tentative de suicide. Sur une bande-son troublante, images bicolores et saturées captent un ensemble de présences fantomatiques.",
+          "status": 1
         },
         {
           "ordre": 6,
@@ -13416,7 +13509,8 @@
           "realisateurs": "Stan Brakhage",
           "annee": 1958,
           "duree": 39,
-          "status": 0,
+          "miniTexte": "Six ans après ses débuts de cinéaste expérimental, Brakhage imagine un voyage mental, construit autour de flashs éprouvés par un homme avant son suicide. D'accélérations en ralentis, il additionne les jeux de couleurs et de contrastes dans l'un des films marquants du genre.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29198,
@@ -13453,7 +13547,8 @@
           "realisateurs": "Stan Brakhage",
           "annee": 1974,
           "duree": 70,
-          "status": 0,
+          "miniTexte": "Brakhage élabore une photographie accélérée de livres et de peintures, réalisée à travers un cendrier en verre, dans un épatant jeu de reflets et de textures influencé par Turner.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29201,
@@ -13579,7 +13674,7 @@
           "annee": 2020,
           "duree": 76,
           "generique": "Nathalie Richard",
-          "synopsis": "Retour sur des vidéos enregistrées par les armées américaine et française en Afghanistan, en Irak, au Pakistan... Le film détourne ces images du discours de propagande et montre où peut mener le désir de voir, lorsqu'il s'exerce sans limites.",
+          "miniTexte": "Grâce à des images filmées par caméra thermique lors d'opérations en Afghanistan, en Irak et au Pakistan, Eléonore Weber livre un point de vue unique sur les conflits contemporains à l'ère technologique. Une expérience visuelle et sonore intense, doublée d'une réflexion percutante sur la déshumanisation de la guerre.",
           "status": 2,
           "copies": [
             {
@@ -13880,7 +13975,7 @@
           "annee": 1942,
           "duree": 67,
           "generique": "Anna May Wong, Noel Madison, Leslie Denison",
-          "miniTexte": "1942. Une institutrice chinoise tente de démasquer le traître infiltré au sein d'un groupe de résistants, qui protège des Japonais une route stratégique entre la Chine et la Birmanie. Un film de guerre aux accents exotiques, course contre la montre tendue, dans laquelle Lewis filme champs de bataille et assauts aériens avec efficacité. Dans le cadre de l'effort de guerre, Anna May Wong fait don de son salaire pour United China Relief.",
+          "miniTexte": "1942. Une institutrice chinoise tente de démasquer le traître infiltré au sein d'un groupe de résistants, qui protège des Japonais une route stratégique entre la Chine et la Birmanie. Un film de guerre aux accents exotiques, course contre la montre tendue, dans laquelle Lewis filme champs de bataille et assauts aériens avec efficacité. Dans le cadre de l'effort de guerre, Anna May Wong fit don de son salaire pour United China Relief.",
           "status": 1,
           "copies": [
             {
@@ -14012,7 +14107,8 @@
           "titre": "Hard Truths",
           "realisateurs": "Mike Leigh",
           "annee": 2024,
-          "status": 0
+          "miniTexte": "Après deux films en costumes et six ans d'absence, Mike Leigh revient sur sa terre natale : une rue de la banlieue de Londres, où vivent Pansy et sa famille, prise dans la tourmente des colères incontrôlées de l'héroïne. Une étude du monde contemporain, post-pandémie, pour laquelle le cinéaste retrouve Marianne Jean-Baptiste, révélation de _Secrets et Mensonges_.",
+          "status": 1
         }
       ]
     },
@@ -14662,7 +14758,8 @@
           "realisateurs": "Mike Leigh",
           "annee": 1976,
           "synopsis": "C'est l'histoire comique d'une bataille épuisante entre un amoureux de la nature et un couple de bien-pensants qui cherchent à profiter de leurs vacances dans un camping qu'ils croient idyllique.",
-          "status": 0
+          "miniTexte": "Les vacances au camping d'un couple d'écologistes rigides, en quête de nature et de sérénité, tournent au fiasco à l'arrivée de campeurs indisciplinés. Une satire hilarante, écrite pour la BBC, qui se moque d'individus imbus d'eux-mêmes, bourrés de certitudes.",
+          "status": 1
         }
       ]
     },
@@ -14689,7 +14786,8 @@
           "realisateurs": "Mike Leigh",
           "annee": 1992,
           "duree": 25,
-          "synopsis": "Le 23e comte de Leete commence à partager ses pensées intimes sur son pays, son patrimoine et les institutions modernes en qui il voit l'ennemi. Mais peu à peu, le comte livre à la caméra des secrets de famille qui donnent une tout autre coloration à ce portrait.",
+          "synopsis": "Le 23<sup>e</sup> comte de Leete commence à partager ses pensées intimes sur son pays, son patrimoine et les institutions modernes en qui il voit l'ennemi. Mais peu à peu, le comte livre à la caméra des secrets de famille qui donnent une tout autre coloration à ce portrait.",
+          "miniTexte": "Un faux documentaire de la BBC suit un aristocrate excentrique (Jim Broadbent) dont le récit familial devient de plus en plus suspect au fil du tournage.",
           "status": 1,
           "copies": [
             {
@@ -14725,7 +14823,8 @@
           "realisateurs": "Mike Leigh",
           "annee": 2012,
           "duree": 35,
-          "status": 0,
+          "miniTexte": "Le regard amusé de Leigh sur le sport, via le quotidien frénétique d'un vendeur de voitures et de sa famille.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29267,
@@ -15722,7 +15821,8 @@
               "duree": 86,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 4421
         }
       ]
     }
