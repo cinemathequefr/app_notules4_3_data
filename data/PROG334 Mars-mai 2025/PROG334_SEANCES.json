@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-06T13:47:39.889Z",
+  "updatedAt": "2024-12-06T16:31:56.592Z",
   "data": [
     {
       "idSeance": 185394,
@@ -1462,7 +1462,10 @@
           "copies": [
             {
               "idCopie": 28967,
-              "duree": 108
+              "duree": 108,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -1622,7 +1625,7 @@
             {
               "idCopie": 28956,
               "duree": 81,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -1783,9 +1786,9 @@
             {
               "idCopie": 28960,
               "duree": 106,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ]
         }
@@ -1940,7 +1943,10 @@
           "copies": [
             {
               "idCopie": 28979,
-              "duree": 105
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -2063,7 +2069,10 @@
           "copies": [
             {
               "idCopie": 28970,
-              "duree": 105
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -2141,7 +2150,9 @@
               "idCopie": 28957,
               "duree": 97,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "langCopie": "ITA",
+              "stDemande": true
             }
           ]
         }
@@ -2271,7 +2282,10 @@
           "copies": [
             {
               "idCopie": 29256,
-              "duree": 99
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -2469,7 +2483,8 @@
               "idCopie": 28982,
               "duree": 106,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
@@ -5361,7 +5376,8 @@
               "idCopie": 28987,
               "duree": 110,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 130665
@@ -12899,12 +12915,13 @@
         {
           "ordre": 1,
           "idFilm": 58591,
-          "titre": "Secrets et mensonges",
+          "titre": "Secrets et Mensonges",
           "titreVo": "Secrets and Lies",
           "realisateurs": "Mike Leigh",
           "annee": 1995,
           "duree": 142,
           "generique": "Timothy Spall, Phyllis Logan, Brenda Blethyn",
+          "miniTexte": "Observateur hors pair des dynamiques familiales, Mike Leigh atteint un niveau rare de sentiments mêlés, avec la rencontre d'une jeune opticienne noire et de sa mère biologique, ouvrière blanche d'un quartier modeste de Londres. Douleur, joie, malaise. Une onde de choc dans une famille déjà fragilisée. Incarné par un ensemble d'acteurs de premier plan, rompus aux méthodes de répétition et d'improvisation du cinéaste, _Secrets et Mensonges_ est un condensé d'émotions et d'humour grinçant. Un drame intimiste sur les non-dits et la compassion, d'une authenticité désarmante, récompensé à Cannes par la Palme d'or.",
           "status": 1,
           "copies": [
             {
@@ -12938,12 +12955,13 @@
         {
           "ordre": 1,
           "idFilm": 58591,
-          "titre": "Secrets et mensonges",
+          "titre": "Secrets et Mensonges",
           "titreVo": "Secrets and Lies",
           "realisateurs": "Mike Leigh",
           "annee": 1995,
           "duree": 142,
           "generique": "Timothy Spall, Phyllis Logan, Brenda Blethyn",
+          "miniTexte": "Observateur hors pair des dynamiques familiales, Mike Leigh atteint un niveau rare de sentiments mêlés, avec la rencontre d'une jeune opticienne noire et de sa mère biologique, ouvrière blanche d'un quartier modeste de Londres. Douleur, joie, malaise. Une onde de choc dans une famille déjà fragilisée. Incarné par un ensemble d'acteurs de premier plan, rompus aux méthodes de répétition et d'improvisation du cinéaste, _Secrets et Mensonges_ est un condensé d'émotions et d'humour grinçant. Un drame intimiste sur les non-dits et la compassion, d'une authenticité désarmante, récompensé à Cannes par la Palme d'or.",
           "status": 1,
           "copies": [
             {
@@ -13020,6 +13038,7 @@
           "annee": 1998,
           "duree": 160,
           "generique": "Jim Broadbent, Allan Corduner, Timothy Spall",
+          "miniTexte": "Mike Leigh ranime l'univers coloré de Gilbert et Sullivan, célèbre duo musical de l'époque victorienne, à travers les coulisses de leur opéra-comique _The Mikado_. Mise en scène luxuriante, casting en or, maquillage et costumes somptueux, une fresque inattendue sur la création et les défis artistiques.",
           "status": 1,
           "copies": [
             {
@@ -13095,7 +13114,8 @@
           "realisateurs": "Mike Leigh",
           "annee": 2004,
           "duree": 125,
-          "status": 0,
+          "miniTexte": "Une plongée dans l'Angleterre des années 50, qui suit le destin d'une femme de ménage des quartiers riches, par ailleurs avorteuse clandestine, poussée par une bonté désintéressée. Dans la lignée des grands films réalistes du cinéaste, une œuvre politique, multiprimée, sur l'hypocrisie d'une société à deux vitesses.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29226,
@@ -14759,7 +14779,8 @@
           "annee": 1976,
           "synopsis": "C'est l'histoire comique d'une bataille épuisante entre un amoureux de la nature et un couple de bien-pensants qui cherchent à profiter de leurs vacances dans un camping qu'ils croient idyllique.",
           "miniTexte": "Les vacances au camping d'un couple d'écologistes rigides, en quête de nature et de sérénité, tournent au fiasco à l'arrivée de campeurs indisciplinés. Une satire hilarante, écrite pour la BBC, qui se moque d'individus imbus d'eux-mêmes, bourrés de certitudes.",
-          "status": 1
+          "status": 1,
+          "idFilmBoxoffice": 70230
         }
       ]
     },
@@ -14806,6 +14827,7 @@
           "realisateurs": "Mike Leigh",
           "annee": 1987,
           "duree": 17,
+          "miniTexte": "Des tranches de vie entre une coiffeuse volubile et un garçon qui ne communique qu'en faisant des blagues, dans une série de vignettes pleines d'esprit.",
           "status": 1,
           "copies": [
             {
@@ -15534,8 +15556,9 @@
           "duree": 155,
           "generique": "James Cagney, Mary Steenburgen, Elizabeth McGovern",
           "adaptation": "D'après le roman _Ragtime_ d'E. L. Doctorow.",
+          "miniTexte": "Pour le retour au cinéma de James Cagney, Forman adapte E. L. Doctorow dans une fresque aux destins liés, qui prend le pouls d'une Amérique érigée sur la misère. Avec une précision rageuse, il signe une radiographie brillante, modèle de construction romanesque, hantée par les tensions raciales et l'injustice sociale.",
           "commentaire": "_Ragtime_ est le septième film de Miloš Forman, une production conséquente de Dino de Laurentiis, sorti en 1981. C'est l'adaptation d'un roman d'E. L. Doctorow, lui-même adapté de la nouvelle de Heinrich von Kleist _Michael Koohlhas_. On retrouve de la nouvelle de Kleist l'idée que la justice s'accomplisse de manière absolue, que le combat qu'on mène pour elle détruise tout. Ici, celui d'un homme rangé, pianiste noir au relatif succès, contre l'injustice et les agents soumis d'un système qui la dirige, qui mettra en péril l'environnement sécurisant de sa cellule familiale et sociale, jusqu'à sa destruction et, par son engrenage implacable, jusqu'à la mort. C'est une image de l'Amérique que traduit Forman à travers cette histoire. On sent un cinéaste qui prend plaisir à mêler la grande histoire aux petites, dans cette fresque où les destins se lient et se croisent. Il oppose ainsi des destins divergents, ceux de puissants capitalistes hystériques (le personnage de Harry K. Thaw, milliardaire assassin), celui du révolté noir délirant (Walker Coalhouse), ceux de ses disciples terroristes que rejoint un jeune blanc anarchiste (Brad Dourif) et ceux d'immigrés d'Europe de l'Est qui survivent par l'audace (le personnage du réalisateur). On reconnaît un discours de Forman qui, en imposant une maîtrise formelle d'une efficacité étourdissante tout en y inscrivant des personnages sensibles, dépeint une Amérique complexe dont les héros ne sont pas ceux qui font l'Histoire, mais ceux qui savent assumer ce que leur destin bouleverse et qui font face. Un discours de « dissident », au service du cinéma.\n\nMatthieu Grimault",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 18011,
