@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-06T09:36:01.403Z",
+  "updatedAt": "2024-12-06T11:11:18.150Z",
   "data": [
     {
       "idSeance": 185394,
@@ -1500,7 +1500,9 @@
               "idCopie": 29181,
               "duree": 99,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "langCopie": "ITA",
+              "stDemande": true
             }
           ]
         }
@@ -1575,7 +1577,9 @@
               "idCopie": 28955,
               "duree": 101,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "langCopie": "ITA",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 33512
@@ -1885,7 +1889,9 @@
           "copies": [
             {
               "idCopie": 28971,
-              "duree": 101
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO"
             }
           ]
         }
@@ -5579,7 +5585,7 @@
           "annee": 1928,
           "duree": 97,
           "generique": "Anna May Wong, Heinrich George, Mary Kid",
-          "miniTexte": "Menacée par des voyous, Song est sauvée par un lanceur de couteaux, dont elle devient la cible sur scène, tandis qu'il cherche à reconquérir sa fiancée, une danseuse charismatique. Entourée d'un casting exclusivement allemand (dont Heinrich George, le contremaître de _Métropolis_), Anna May Wong émouvante, dans un triangle amoureux désenchanté. Sur un scénario écrit spécialement pour elle par Karl Vollmöller (_L'Ange bleu_), le film marque sa première collaboration européenne et la propulse au rang de star.",
+          "miniTexte": "Menacée par des voyous, Song est sauvée par un lanceur de couteaux, dont elle devient la cible sur scène, tandis qu'il cherche à reconquérir sa fiancée, une danseuse charismatique. Entourée d'un casting exclusivement allemand (dont Heinrich George, le contremaître de _Metropolis_), Anna May Wong émouvante, dans un triangle amoureux désenchanté. Sur un scénario écrit spécialement pour elle par Karl Vollmöller (_L'Ange bleu_), le film marque sa première collaboration européenne et la propulse au rang de star.",
           "status": 1,
           "copies": [
             {
@@ -15072,48 +15078,30 @@
       ],
       "idEvenement": 32506,
       "typeEvenement": 13,
-      "libelleEvenement": "JEUNE CINÉMA BRÉSILIEN (EN ASSOCIATION AVEC LE FESTIVAL REGARDS SATELLITES)",
       "dateHeure": "2025-04-07T19:00:00",
-      "idSalle": "JE",
-      "theorique": true,
-      "items": []
-    },
-    {
-      "idSeance": 186717,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 140,
-          "idCategorie": 3730,
-          "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "David Depesseville"
-        }
-      ],
-      "idEvenement": 32507,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-28T19:00:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 155115,
-          "titre": "Tremblements",
-          "art": "Les",
-          "realisateurs": "David Depesseville",
-          "annee": 2024,
-          "duree": 37,
-          "generique": "Bastien Bouillon, Marc Barbé",
+          "idFilm": 155148,
+          "titre": "Batguano",
+          "realisateurs": "Tavinho Teixeira",
+          "annee": 2014,
+          "duree": 74,
+          "generique": "Tavinho Teixeira, Everaldo Pontes",
+          "synopsis": "Dans un avenir sombre, le duo inséparable Batman et Robin vit dans une caravane isolée. Ce sont des repentis punk-rock qui se rendent compte que la planète Terre est devenue trop petite pour leur perfection, leur génie et leur puissance, et décident de trouver leur place dans des galaxies lointaines.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 29310,
-              "duree": 37,
-              "format": "DCP"
+              "idCopie": 29416,
+              "duree": 74,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
-      ],
-      "mention": "Séance suivie d'une discussion avec David Depesseville"
+      ]
     },
     {
       "idSeance": 186339,
@@ -15164,7 +15152,7 @@
       ],
       "idEvenement": 32512,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-05T20:30:00",
+      "dateHeure": "2025-05-05T19:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -15676,6 +15664,65 @@
             }
           ],
           "idFilmBoxoffice": 6045
+        }
+      ]
+    },
+    {
+      "idSeance": 188258,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3730,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "David Depesseville"
+        }
+      ],
+      "idEvenement": 32580,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-28T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155115,
+          "titre": "Tremblements",
+          "art": "Les",
+          "realisateurs": "David Depesseville",
+          "annee": 2024,
+          "duree": 37,
+          "generique": "Bastien Bouillon, Marc Barbé",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29310,
+              "duree": 37,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 46918,
+          "titre": "Pierre et Djemila",
+          "realisateurs": "Gérard Blain",
+          "annee": 1986,
+          "duree": 86,
+          "generique": "Jean-Pierre André, Nadja Reski, Abdelkader",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29409,
+              "duree": 86,
+              "format": "35 mm",
+              "selected": true
+            },
+            {
+              "idCopie": 29414,
+              "duree": 86,
+              "format": "35 mm"
+            }
+          ]
         }
       ]
     }
