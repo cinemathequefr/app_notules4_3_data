@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-09T10:22:37.778Z",
+  "updatedAt": "2024-12-09T14:58:21.020Z",
   "data": [
     {
       "idSeance": 185394,
@@ -111,7 +111,7 @@
       ],
       "idEvenement": 31785,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-19T20:00:00",
+      "dateHeure": "2025-04-19T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -122,8 +122,9 @@
           "realisateurs": "Louis Skorecki",
           "annee": 1988,
           "duree": 56,
+          "generique": "Harold Manning, Sébastien Clerger, Marie Nester",
           "miniTexte": "Deux ados devant la Cinémathèque de Chaillot. « Ça ressemble à rien cet endroit. Enfin si, on dirait un décor de _Brazil_, bien sinistre... J'aimerais pas voir un film là-dedans, moi, tout le monde y a une gueule d'enterrement. » Le second épisode des _Cinéphiles_, dans lequel de jeunes gens échangent sur les films qu'ils aiment, ou qu'ils détestent, sous l'œil toujours délicieusement cruel du cinéaste, vent debout contre la muséification du cinéma.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29405,
@@ -141,8 +142,9 @@
           "realisateurs": "Louis Skorecki",
           "annee": 2006,
           "duree": 32,
+          "generique": "Frédéric Beigbeder, Axelle Ropert, Julien Naveau",
           "miniTexte": "« De l'eau est passée sous les ponts. Le cinéma d'aujourd'hui, c'est la téléréalité. Vous n'êtes pas d'accord ? Je m'en fous... » Troisième round, plus resserré, des Cinéphiles. La cinéphilie comme discours, mais qui tournerait plus que jamais à vide : Frédéric Beigbeder fait rentrer dans le crâne d'un enfant de 5 ans quelques théories sur _Rio Bravo_, quand Axelle Ropert et son acolyte se balancent des noms de cinéastes sans plus d'arguments. Féroce, et vivifiant.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29211,
@@ -172,14 +174,14 @@
         {
           "ordre": 1,
           "idFilm": 51176,
-          "titre": "Cinéphiles : Le retour de Jean",
+          "titre": "Cinéphiles : Le Retour de Jean",
           "art": "Les",
           "realisateurs": "Louis Skorecki",
           "annee": 1988,
           "duree": 75,
           "generique": "Nidam Abdi, Sébastien Clerger, Nathalie Coffre",
           "miniTexte": "« Tu vas vraiment voir ce film ? C'est nul, c'est des garçons et des filles qui parlent pendant une heure, sur n'importe quoi. » Dans le cadre strict de longs plans-séquences, de jeunes cinévores soliloquent sur les films qu'ils ont vus, ou qu'ils veulent voir. Mais dans un monde où, d'après l'auteur, le cinéma serait déjà mort depuis longtemps, ce dialogue semble vide de sens, loin de la cinéphilie des années 60. Apparitions hilarantes de Michel Cressole en critique désabusé par le septième art, et qui finit par uriner sur les murs du cinéma dont il sort excédé.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29404,
@@ -189,7 +191,8 @@
           ],
           "idFilmBoxoffice": 4717
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec Louis Skorecki"
     },
     {
       "idSeance": 186410,
@@ -216,10 +219,11 @@
           "annee": 1974,
           "duree": 105,
           "generique": "Élisabeth Boland, Françoise Grimaldi, Jean-René Huleu",
+          "adaptation": "D'après la nouvelle _Eugénie de Franval_ du Marquis de Sade.",
           "synopsis": "Réflexion sur les rapports entre image et voix off au cinéma, rythmée par la lecture d'une nouvelle de Sade racontant l'amour incestueux d'un père pour sa fille.",
           "miniTexte": "La restitution minutieuse du roman de Sade, dit en voix off sur des images en noir et blanc. Un rapport rigoureux au texte qui rappelle les recherches de Straub et Huillet, jusqu'à ce qu'intervienne un véritable événement dans le plan, perturbant le dispositif distancié d'une restitution de l'ouvrage. Le cinéma et la littérature portés jusqu'à un très haut degré d'incandescence.",
           "commentaire": "Le roman sadien a toujours été un obstacle quasiment infranchissable pour le cinéma. Comment transformer en image et en son ce qui, finalement, ne peut se concevoir qu'écrit ? L'œuvre du divin marquis ne touche-t-elle pas aux extrémités mêmes de la littérature ? Plutôt que les adaptations culturellement légitimes, c'est sans doute dans les séries B d'un Jess Franco ou dans l'allégorie politique de Pasolini, _Salò_, que l'on peut entrevoir un passage possible entre deux formes d'expression antagoniques. Mais c'est aussi, et davantage encore, dans _Eugénie de Franval_. Tourné en 1974 par Louis Skorecki, le film est une adaptation réalisée avec la conscience d'une contradiction insoluble. Il restitue minutieusement le texte du roman dit en voix off sur des images en noir et blanc peuplées de silhouettes muettes, évoquant les personnages du récit et évoluant devant la caméra. Ce rapport minutieux au texte (rappelant en cela les recherches du couple de cinéastes Jean-Marie Straub et Danièle Huillet) trahit, certes, un désir de respect absolu de l'œuvre originaire saisie dans sa toute puissante singularité. C'est pourtant au moment où Skorecki lui-même, incarnant Valmont, effectue un geste produisant un véritable événement dans le plan, perturbant le dispositif à la fois distancié et discursif d'une restitution du roman de Sade, que quelque chose du cinéma affirme son autonomie. L'essence du médium, toute entière définie par sa capacité à enregistrer et à figer un évènement unique, prend soudain le dessus. Cinéma et littérature sont, dans _Eugénie de Franval_, deux moyens d'expression portés jusqu'à un très haut degré d'incandescence.\n\nJean-François Rauger",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 17760,
@@ -1125,14 +1129,6 @@
               "format": "DCP",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 28943,
-              "duree": 140,
-              "format": "35 mm",
-              "version": "VO",
               "sousTitres": "STF"
             }
           ],
@@ -1333,14 +1329,6 @@
           "copies": [
             {
               "idCopie": 28930,
-              "duree": 164,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 28931,
               "duree": 164,
               "format": "35 mm",
               "version": "VO",
@@ -8281,7 +8269,7 @@
           "idFilm": 33911,
           "titre": "Si j'avais un million",
           "titreVo": "If I Had a Million",
-          "realisateurs": "James Cruze, H. Bruce Humberstone, Ernst Lubitsch, [etc.]",
+          "realisateurs": "James Cruze, H. Bruce Humberstone, Ernst Lubitsch, Norman Z. McLeod, Stephen Roberts, William A. Seiter, Norman Taurog",
           "annee": 1932,
           "duree": 88,
           "generique": "Gary Cooper, Charles Laughton, George Raft",
@@ -12017,15 +12005,14 @@
         },
         {
           "ordre": 2,
-          "idFilm": 155054,
-          "titre": "Robert et Bertram ou les joyeux vagabonds",
-          "titreVo": "Robert und Bertram oder die lustigen vagabunden",
+          "idFilm": 92561,
+          "titre": "Robert et Bertram ou Les Joyeux vagabonds",
+          "titreVo": "Robert und Bertram",
           "realisateurs": "Max Mack",
           "annee": 1915,
           "duree": 60,
-          "generique": "Ferdinand Bonn, Eugen Burg, Ernst Lubitsch",
-          "miniTexte": "Les débuts de l'acteur Lubitsch dans une joyeuse farce provinciale.",
-          "status": 2,
+          "generique": "Ferdinand Bonn",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29095,
@@ -12858,12 +12845,18 @@
           "idCategorie": 3701,
           "titreCycle": "Mike Leigh",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 986,
+          "idCategorie": 3734,
+          "titreCycle": "Mike Leigh",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32354,
-      "typeEvenement": 13,
       "dateHeure": "2025-03-29T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -12886,6 +12879,13 @@
             }
           ],
           "idFilmBoxoffice": 8373
+        },
+        {
+          "idConf": 32517,
+          "titre": "MIKE LEIGH PAR MIKE LEIGH. UNE LEÇON DE CINÉMA.",
+          "typeConference": "Leçon de cinéma",
+          "duree": 60,
+          "ordre": 2
         }
       ]
     },
@@ -13126,7 +13126,7 @@
       ]
     },
     {
-      "idSeance": 188168,
+      "idSeance": 188259,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -13138,7 +13138,7 @@
       ],
       "idEvenement": 32359,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-29T19:00:00",
+      "dateHeure": "2025-03-30T17:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -13161,7 +13161,8 @@
           ],
           "idFilmBoxoffice": 57418
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec Mike Leigh"
     },
     {
       "idSeance": 187919,
@@ -13203,7 +13204,7 @@
       ]
     },
     {
-      "idSeance": 188169,
+      "idSeance": 188260,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -13215,7 +13216,7 @@
       ],
       "idEvenement": 32361,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-30T17:00:00",
+      "dateHeure": "2025-03-29T19:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -13401,10 +13402,11 @@
           "idFilm": 155076,
           "titre": "In Water",
           "titreVo": "Mul-an-e-seo",
-          "realisateurs": "Sang-soo Hong",
+          "realisateurs": "Hong Sang-soo",
           "annee": 2023,
+          "generique": "Shin Seok-ho, Ha Seong-guk",
           "miniTexte": "Sur l'île de Jeju, trois jeunes cinéastes se mettent en quête d'une histoire à raconter. Hong Sang-soo transforme le flou en personnage à part entière, érigé comme métaphore de l'incertitude et de la mémoire, pour faire naître un nouveau langage de cinéma. Une œuvre radicale, véritable déambulation onirique.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29197,
@@ -13442,7 +13444,7 @@
           "duree": 96,
           "generique": "Woody Allen, Caroline Aaron, Kirstie Alley, Robin Williams, Demi Moore",
           "miniTexte": "Les tourments d'un écrivain en crise, envahi par ses névroses. Avec un humour noir décapant, Allen orchestre une auto-analyse, qui explore la recherche de sens au fil de situations cocasses et absurdes. Fidèle à ses thématiques fétiches, il signe surtout une satire du monde artistique, avec un casting survolté – dont Robin Williams, hilarant en acteur flou.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29196,
@@ -13481,7 +13483,7 @@
           "annee": 1996,
           "duree": 4,
           "miniTexte": "Par le biais de techniques expérimentales comme le grattage direct sur pellicule, le cinéaste crée une exploration visuelle des effets de la chaleur, le temps d'une expérience sensorielle brute.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29200,
@@ -13501,7 +13503,7 @@
           "annee": 1972,
           "duree": 3,
           "miniTexte": "Dans une atmosphère onirique et mystérieuse, Brakhage rend hommage au « dieu de la forêt » en plaçant du verre sur un chevalet entre sa caméra et les arbres. Une promenade contemplative, propice au dépaysement.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29202,
@@ -13515,11 +13517,11 @@
           "ordre": 3,
           "idFilm": 132670,
           "titre": "Thunder",
-          "realisateurs": "Takashi Ito",
+          "realisateurs": "Takashi Itō",
           "annee": 1982,
           "duree": 5,
           "miniTexte": "Une femme se couvre et se découvre le visage avec ses mains dans un immeuble de bureaux vides. Takashi Itō compose une série de diapositives photographiques pour une quête imaginaire aux visions fantasmatiques.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 10397,
@@ -13537,7 +13539,7 @@
           "annee": 1965,
           "duree": 7,
           "miniTexte": "Inspiré par une lettre du poète Robert Kelly, Brakhage filme la relation entre lumière, couleur et éléments naturels. Une confrontation lyrique et abstraite, arbitrée par le passage du temps.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29199,
@@ -13551,10 +13553,10 @@
           "ordre": 5,
           "idFilm": 155082,
           "titre": "Dizziness",
-          "realisateurs": "Takashi Itô",
+          "realisateurs": "Takashi Itō",
           "annee": 2001,
           "miniTexte": "Deux jeunes filles voient leurs vies bousculées après avoir assisté à une tentative de suicide. Sur une bande-son troublante, images bicolores et saturées captent un ensemble de présences fantomatiques.",
-          "status": 1
+          "status": 2
         },
         {
           "ordre": 6,
@@ -13564,7 +13566,7 @@
           "annee": 1958,
           "duree": 39,
           "miniTexte": "Six ans après ses débuts de cinéaste expérimental, Brakhage imagine un voyage mental, construit autour de flashs éprouvés par un homme avant son suicide. D'accélérations en ralentis, il additionne les jeux de couleurs et de contrastes dans l'un des films marquants du genre.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29198,
@@ -13602,7 +13604,7 @@
           "annee": 1974,
           "duree": 70,
           "miniTexte": "Brakhage élabore une photographie accélérée de livres et de peintures, réalisée à travers un cendrier en verre, dans un épatant jeu de reflets et de textures influencé par Turner.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29201,
@@ -13639,8 +13641,9 @@
           "realisateurs": "Louis Skorecki",
           "annee": 1966,
           "duree": 20,
+          "generique": "Emmanuel Crimail, Laura Mathews de Saint Phalle",
           "miniTexte": "Le premier film de Skorecki, un essai amoureux « sous influence Godard (surtout Bande à part) », et où l'on peut entendre un solo inédit d'Archie Shepp, enregistré à New York en 65.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29206,
@@ -13657,8 +13660,9 @@
           "realisateurs": "Louis Skorecki",
           "annee": 1982,
           "duree": 41,
+          "generique": "Joseph Morder, Françoise Grimaldi, Pierre Brody, Thérèse Giraud",
           "miniTexte": "De drôles de « personnages » s'agitent dans un squatt irréaliste et coloré, sans jamais s'écouter, à croire qu'ils vivent chacun dans un espace différent. Adoré par Serge Daney, le film le plus personnel de Skorecki, et le premier dans lequel il apparaît, dans le rôle d'un rat/conteur.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29207,
@@ -13670,8 +13674,7 @@
         {
           "ordre": 3,
           "idFilm": 155087,
-          "titre": "Histoire sentimentale",
-          "art": "Une",
+          "titre": "Une histoire sentimentale",
           "realisateurs": "Louis Skorecki",
           "annee": 1984,
           "duree": 25,
@@ -13692,8 +13695,9 @@
           "realisateurs": "Louis Skorecki",
           "annee": 1988,
           "duree": 10,
+          "generique": "Hélène Louvart",
           "miniTexte": "Court métrage poétique, fait avec un reste de bobine sur le tournage du _Retour de Jean_.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29210,
@@ -13769,8 +13773,9 @@
           "realisateurs": "Louis Skorecki",
           "annee": 1984,
           "duree": 70,
+          "generique": "Xavier Villetard, Edouard Waintrop",
           "miniTexte": "« Quand on parle de cinéphilie, je crois qu'il faut expliquer, préciser, mettre les choses à plat : mettre soi-même les pieds dans le plat et y aller de sa personne, faute de quoi l'autre, le lecteur, risque de n'y rien comprendre. » Lecture à deux voix du célèbre article de Skorecki écrit en 1978 pour les _Cahiers du cinéma_.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29208,
@@ -13812,7 +13817,8 @@
           "realisateurs": "Louis Skorecki",
           "annee": 2007,
           "duree": 52,
-          "status": 0,
+          "generique": "Frédéric Beigbeder, Axelle Ropert",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29212,
@@ -13847,7 +13853,7 @@
           "annee": 2009,
           "duree": 78,
           "miniTexte": "Raphaël Girault met en scène le départ de Louis Skorecki de _Libération_ en 2007, après qu'Édouard de Rothschild est entré au capital du journal. Tantôt cocasse, tantôt malplaisant, le désormais ex-critique finit par bouleverser, incarnation d'un monde – la presse, la critique cinéma – en train de radicalement basculer.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29213,
@@ -13881,8 +13887,9 @@
           "realisateurs": "Louis Skorecki",
           "annee": 2013,
           "duree": 94,
+          "generique": "Louis Skorecki, Marie Anne Guerin, Vladimir Léon",
           "miniTexte": "Entouré de Marie Anne Guerin et Vladimir Léon, Skorecki lance sa boîte de production, un paradoxe pour « quelqu'un qui ne veut plus aller voir de films et qui part en courant dès qu'il est question d'argent ».",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29214,
@@ -13923,8 +13930,9 @@
           "realisateurs": "Louis Skorecki",
           "annee": 2015,
           "duree": 52,
+          "generique": "Rebecca Marder, Pascal Cervo, Françoise Widhoff",
           "miniTexte": "Une série de vignettes, décalées, incongrues, de conseils culinaires, de masques d'animaux et d'expressions yiddish pour raconter – ou ne surtout pas le faire, ou alors par la bande – ses origines juives. Longtemps resté invisible, le film est présenté dans une toute nouvelle restauration mise en œuvre par la Cinémathèque française.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29215,
@@ -15435,33 +15443,6 @@
       ]
     },
     {
-      "idSeance": 188149,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 986,
-          "idCategorie": 3734,
-          "titreCycle": "Mike Leigh",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 32517,
-      "typeEvenement": 14,
-      "dateHeure": "2025-03-29T16:30:00",
-      "typeConference": "Leçon de cinéma",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "idConf": 32517,
-          "titre": "MIKE LEIGH PAR MIKE LEIGH. UNE LEÇON DE CINÉMA.",
-          "typeConference": "Leçon de cinéma",
-          "duree": 60,
-          "ordre": 1
-        }
-      ]
-    },
-    {
       "idSeance": 185698,
       "idProg": 334,
       "idCycleCategories": [
@@ -15485,14 +15466,16 @@
           "realisateurs": "Sylvie Pierre, Georges Ulmann",
           "annee": 1989,
           "duree": 50,
-          "status": 0,
+          "miniTexte": "De la première rencontre avec le critique Louis Marcorelles à sa dernière entrevue aux _Cahiers du cinéma_, un portrait de Glauber Rocha, figure de proue du Cinema Novo, enrichi de témoignages de ses proches comme Juliet Berto ou Christiana Tullio Altan.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29350,
               "duree": 50,
               "format": "Vidéo"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 59031
         }
       ],
       "mention": "Séance présentée par Sylvie Pierre"
@@ -15673,13 +15656,17 @@
         {
           "ordre": 3,
           "idFilm": 70811,
-          "titre": "Ein fideles Gefängnis",
+          "titre": "Joyeuse prison",
+          "art": "La",
+          "titreVo": "fidele Gefängnis",
+          "artVo": "Das",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1917,
           "duree": 54,
-          "generique": "Emil Jannings, Hanns Kräly, Harry Liedtke",
-          "miniTexte": "D'après une opérette de Richard Strauss, le film dépeint avec humour les problèmes conjugaux d'un couple de la bourgeoisie berlinoise. Méprises et sous-entendus malicieux, modèles types de la première vague du maître.",
-          "status": 1,
+          "generique": "Emil Jannings, Harry Liedtke, Erich Schönfelder",
+          "adaptation": "D'après l'opérette _La Chauve-souris_ de Johann Strauss.",
+          "miniTexte": "D'après une opérette de Johann Strauss, le film dépeint avec humour les problèmes conjugaux d'un couple de la bourgeoisie berlinoise. Méprises et sous-entendus malicieux, modèles types de la première vague du maître.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29067,
