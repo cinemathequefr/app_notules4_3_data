@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-09T14:58:21.020Z",
+  "updatedAt": "2024-12-10T09:42:41.898Z",
   "data": [
     {
       "idSeance": 185394,
@@ -104,9 +104,9 @@
       "idCycleCategories": [
         {
           "idCycle": 955,
-          "idCategorie": 3652,
+          "idCategorie": 3748,
           "titreCycle": "Louis Skorecki",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Les Cinéphiles"
         }
       ],
       "idEvenement": 31785,
@@ -117,10 +117,10 @@
         {
           "ordre": 1,
           "idFilm": 125577,
-          "titre": "Cinéphiles : Éric a disparu",
+          "titre": "Cinéphiles 2 : Éric a disparu",
           "art": "Les",
           "realisateurs": "Louis Skorecki",
-          "annee": 1988,
+          "annee": 1989,
           "duree": 56,
           "generique": "Harold Manning, Sébastien Clerger, Marie Nester",
           "miniTexte": "Deux ados devant la Cinémathèque de Chaillot. « Ça ressemble à rien cet endroit. Enfin si, on dirait un décor de _Brazil_, bien sinistre... J'aimerais pas voir un film là-dedans, moi, tout le monde y a une gueule d'enterrement. » Le second épisode des _Cinéphiles_, dans lequel de jeunes gens échangent sur les films qu'ils aiment, ou qu'ils détestent, sous l'œil toujours délicieusement cruel du cinéaste, vent debout contre la muséification du cinéma.",
@@ -161,9 +161,9 @@
       "idCycleCategories": [
         {
           "idCycle": 955,
-          "idCategorie": 3652,
+          "idCategorie": 3748,
           "titreCycle": "Louis Skorecki",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Les Cinéphiles"
         }
       ],
       "idEvenement": 31786,
@@ -397,7 +397,7 @@
             {
               "idCopie": 13851,
               "duree": 98,
-              "format": "35 mm",
+              "format": "16 mm",
               "version": "VO",
               "langCopie": "ENG"
             }
@@ -9458,7 +9458,7 @@
         {
           "ordre": 1,
           "idFilm": 58013,
-          "titre": "Antônio das mortes",
+          "titre": "Antônio das Mortes",
           "titreVo": "Dragão da Maldade contra o Santo Guerreiro",
           "artVo": "O",
           "realisateurs": "Glauber Rocha",
@@ -9495,7 +9495,7 @@
           "idFilmBoxoffice": 92
         }
       ],
-      "mention": "Ouverture de la rétrospective. Séance présentée par Sylvie Pierre"
+      "mention": "Ouverture de la rétrospective. Séance présentée par Sylvie Pierre-Ulmann"
     },
     {
       "idSeance": 187936,
@@ -9516,7 +9516,7 @@
         {
           "ordre": 1,
           "idFilm": 58013,
-          "titre": "Antônio das mortes",
+          "titre": "Antônio das Mortes",
           "titreVo": "Dragão da Maldade contra o Santo Guerreiro",
           "artVo": "O",
           "realisateurs": "Glauber Rocha",
@@ -13799,9 +13799,9 @@
       "idCycleCategories": [
         {
           "idCycle": 955,
-          "idCategorie": 3652,
+          "idCategorie": 3748,
           "titreCycle": "Louis Skorecki",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Les Cinéphiles"
         }
       ],
       "idEvenement": 32425,
@@ -15196,40 +15196,6 @@
       ]
     },
     {
-      "idSeance": 187473,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 140,
-          "idCategorie": 3729,
-          "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "Yannick Muller"
-        }
-      ],
-      "idEvenement": 32505,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-26T19:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 155114,
-          "titre": "Malo fait du vélo",
-          "realisateurs": "Yannick Muller",
-          "annee": 2024,
-          "duree": 18,
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 29308,
-              "duree": 18,
-              "format": "DCP"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 186150,
       "idProg": 334,
       "idCycleCategories": [
@@ -15478,7 +15444,7 @@
           "idFilmBoxoffice": 59031
         }
       ],
-      "mention": "Séance présentée par Sylvie Pierre"
+      "mention": "Séance présentée par Sylvie Pierre-Ulmann"
     },
     {
       "idSeance": 188256,
@@ -15875,6 +15841,60 @@
             }
           ],
           "idFilmBoxoffice": 4421
+        }
+      ]
+    },
+    {
+      "idSeance": 187473,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3729,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Yannick Muller"
+        }
+      ],
+      "idEvenement": 32634,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-26T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155114,
+          "titre": "Malo fait du vélo",
+          "realisateurs": "Yannick Muller",
+          "annee": 2024,
+          "duree": 18,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29308,
+              "duree": 18,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 32630,
+          "titre": "Gilbert Grape",
+          "titreVo": "What's Eating Gilbert Grape",
+          "realisateurs": "Lasse Hallström",
+          "annee": 1993,
+          "duree": 118,
+          "generique": "Johnny Depp, Juliette Lewis",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29432,
+              "duree": 118,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     }
