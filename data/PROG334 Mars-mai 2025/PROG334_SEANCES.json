@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-10T09:42:41.898Z",
+  "updatedAt": "2024-12-10T11:31:11.094Z",
   "data": [
     {
       "idSeance": 185394,
@@ -6397,7 +6397,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Joël Grare"
     },
     {
       "idSeance": 187808,
@@ -13769,11 +13770,11 @@
         {
           "ordre": 1,
           "idFilm": 155086,
-          "titre": "CNC – Contre la Nouvelle Cinéphilie",
+          "titre": "C.N.C., Contre la Nouvelle Cinéphilie",
           "realisateurs": "Louis Skorecki",
           "annee": 1984,
           "duree": 70,
-          "generique": "Xavier Villetard, Edouard Waintrop",
+          "generique": "Xavier Villetard, Édouard Waintrop",
           "miniTexte": "« Quand on parle de cinéphilie, je crois qu'il faut expliquer, préciser, mettre les choses à plat : mettre soi-même les pieds dans le plat et y aller de sa personne, faute de quoi l'autre, le lecteur, risque de n'y rien comprendre. » Lecture à deux voix du célèbre article de Skorecki écrit en 1978 pour les _Cahiers du cinéma_.",
           "status": 2,
           "copies": [
@@ -13782,7 +13783,8 @@
               "duree": 70,
               "format": "Numérique"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 26448
         },
         {
           "idConf": 32431,
@@ -13818,7 +13820,8 @@
           "annee": 2007,
           "duree": 52,
           "generique": "Frédéric Beigbeder, Axelle Ropert",
-          "status": 1,
+          "miniTexte": "« Alors qu'est-ce que _Le Retour des cinéphiles_ ? Une suite ? Une version longue ? Une postface ? C'est tout ce que l'on souhaite : disons que c'est une version à la fois plus lente et surtout moins austère. » Louis Skorecki",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29212,
@@ -14273,14 +14276,7 @@
           "titre": "Matilda",
           "realisateurs": "Danny DeVito",
           "annee": 1996,
-          "duree": 98,
           "status": 1,
-          "copies": [
-            {
-              "idCopie": 29302,
-              "duree": 98
-            }
-          ],
           "idFilmBoxoffice": 15277
         }
       ]
@@ -14308,19 +14304,8 @@
           "titreVo": "James and the Giant Peach",
           "realisateurs": "Henry Selick",
           "annee": 1995,
-          "duree": 80,
           "synopsis": "A bord d'une pêche géante entraînée par une nuée de mouettes, James entreprend un voyage enchanteur au-dessus de l'Atlantique. L'équipage de cet étrange véhicule n'est pas moins surprenant : un criquet pince-sans-rire, un mille-pattes vantard, une coccinelle maternelle, une araignée élégante, un ver de terre mélancolique et une luciole légèrement « allumée »...",
           "status": 1,
-          "copies": [
-            {
-              "idCopie": 543,
-              "duree": 80,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF"
-            }
-          ],
           "idFilmBoxoffice": 11674
         }
       ]
