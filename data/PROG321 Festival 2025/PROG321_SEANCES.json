@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-09T14:58:36.571Z",
+  "updatedAt": "2024-12-10T14:11:28.714Z",
   "data": [
     {
       "idSeance": 188170,
@@ -427,7 +427,7 @@
       ],
       "idEvenement": 32287,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T16:30:00",
+      "dateHeure": "2025-03-06T15:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -924,7 +924,7 @@
       ],
       "idEvenement": 32315,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T19:30:00",
+      "dateHeure": "2025-03-06T18:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1897,6 +1897,45 @@
               "duree": 0,
               "format": "DCP",
               "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185190,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32576,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-06T20:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 68290,
+          "titre": "Tache de sang",
+          "art": "La",
+          "titreVo": "Scarlet Drop",
+          "artVo": "The",
+          "realisateurs": "Jack Ford",
+          "annee": 1918,
+          "duree": 50,
+          "generique": "Harry Carey, Molly Malone, Vester Pegg",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29407,
+              "duree": 50,
+              "format": "DCP",
+              "intertitres": "INT. FR."
             }
           ]
         }
