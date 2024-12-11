@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-11T09:20:47.181Z",
+  "updatedAt": "2024-12-11T13:57:13.570Z",
   "data": [
     {
       "idSeance": 185394,
@@ -5574,7 +5574,8 @@
               "duree": 76,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG"
+              "intertitres": "INT. ANG.",
+              "stDemande": true
             }
           ]
         }
@@ -6455,7 +6456,7 @@
       ],
       "idEvenement": 32053,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-02T20:00:00",
+      "dateHeure": "2025-04-02T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7728,7 +7729,7 @@
       ],
       "idEvenement": 32093,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-09T20:30:00",
+      "dateHeure": "2025-04-09T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -8425,10 +8426,11 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 2073,
+              "idCopie": 29435,
               "duree": 50,
-              "format": "35 mm",
-              "intertitres": "INT. ANG."
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 173893
@@ -11535,7 +11537,7 @@
       ],
       "idEvenement": 32247,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-05T21:15:00",
+      "dateHeure": "2025-04-05T19:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -11562,7 +11564,7 @@
       ]
     },
     {
-      "idSeance": 187933,
+      "idSeance": 188291,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -11574,8 +11576,8 @@
       ],
       "idEvenement": 32248,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-05T18:30:00",
-      "idSalle": "HL",
+      "dateHeure": "2025-04-09T20:15:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -13994,19 +13996,27 @@
           "titre": "Peter Pan",
           "realisateurs": "Herbert Brenon",
           "annee": 1924,
-          "duree": 102,
+          "duree": 105,
           "generique": "Betty Bronson, Ernest Torrence, Anna May Wong",
           "adaptation": "D'après la pièce _Peter Pan_ de J. M. Barrie",
           "miniTexte": "La première adaptation de la pièce de J. M. Barrie, fable pleine de charme sur le refus de grandir. Anna May Wong interprète Lily la Tigresse, fille du chef de la tribu indienne de Neverland. Idée de génie, Peter Pan est joué par une fille (lumineuse Betty Bronson), qui embrasse une autre fille, (innocente ?) transgression, osée, en 1924.",
           "status": 1,
           "copies": [
             {
+              "idCopie": 29437,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "intertitres": "INT. ANG.",
+              "stDemande": true,
+              "selected": true
+            },
+            {
               "idCopie": 29235,
               "duree": 102,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG",
-              "selected": true
+              "langCopie": "ENG"
             },
             {
               "idCopie": 29234,
@@ -14153,7 +14163,7 @@
       ],
       "idEvenement": 32451,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-04T19:15:00",
+      "dateHeure": "2025-05-04T19:45:00",
       "idSalle": "JE",
       "items": [
         {
@@ -14273,63 +14283,6 @@
             }
           ],
           "idFilmBoxoffice": 256964
-        }
-      ]
-    },
-    {
-      "idSeance": 186137,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 728,
-          "idCategorie": 3177,
-          "titreCycle": "Ma petite Cinémathèque",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32461,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-06T15:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 60872,
-          "titre": "Matilda",
-          "realisateurs": "Danny DeVito",
-          "annee": 1996,
-          "synopsisJP": "Élevée par des parents bêtes et méchants, Matilda, brillante petite fille, entre enfin à l'école et découvre son pouvoir de télékinésie. Entre suspense et comédie caustique, une adaptation fidèle de l'œuvre de Roald Dahl, qui esquisse en contrepoint une vraie satire sociale.",
-          "status": 2,
-          "idFilmBoxoffice": 15277
-        }
-      ]
-    },
-    {
-      "idSeance": 188107,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 728,
-          "idCategorie": 3177,
-          "titreCycle": "Ma petite Cinémathèque",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32462,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-09T15:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 61391,
-          "titre": "James et la pêche géante",
-          "titreVo": "James and the Giant Peach",
-          "realisateurs": "Henry Selick",
-          "annee": 1995,
-          "synopsisJP": "Plongée dans le merveilleux avec James, un orphelin maltraité par deux horribles tantes, qui reçoit un jour des langues de crocodile magiques. D'après le conte farfelu de Roald Dahl, un film sous influence burtonienne, mélange de prises de vues réelles et d'animation en volume.",
-          "status": 2,
-          "idFilmBoxoffice": 11674
         }
       ]
     },
@@ -14612,7 +14565,7 @@
       ]
     },
     {
-      "idSeance": 188197,
+      "idSeance": 188286,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -14624,7 +14577,7 @@
       ],
       "idEvenement": 32470,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-25T15:00:00",
+      "dateHeure": "2025-05-18T15:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -14654,7 +14607,7 @@
       ]
     },
     {
-      "idSeance": 188128,
+      "idSeance": 188287,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -14666,7 +14619,7 @@
       ],
       "idEvenement": 32471,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-14T15:00:00",
+      "dateHeure": "2025-05-25T15:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -15177,7 +15130,7 @@
       ]
     },
     {
-      "idSeance": 187271,
+      "idSeance": 188285,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -15189,7 +15142,7 @@
       ],
       "idEvenement": 32504,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-18T15:00:00",
+      "dateHeure": "2025-05-14T15:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -15917,6 +15870,73 @@
               "sousTitres": "STF"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188284,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32645,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-09T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49849,
+          "titre": "Zazie dans le métro",
+          "realisateurs": "Louis Malle",
+          "annee": 1960,
+          "duree": 89,
+          "generique": "Catherine Demongeot, Philippe Noiret, Carla Marlier, Annie Fratellini",
+          "adaptation": "D'après le roman _Zazie dans le métro_ de Raymond Queneau.",
+          "synopsis": "Pour sa première visite à Paris, Zazie rêve de prendre le métro. À cause d'une grève des transports, elle parcourt la capitale et y fait de multiples rencontres.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 25479,
+              "duree": 89,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188283,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 728,
+          "idCategorie": 3177,
+          "titreCycle": "Ma petite Cinémathèque",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32646,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-06T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36414,
+          "titre": "King Kong",
+          "realisateurs": "Merian C. Cooper, Ernest B. Schoedsack",
+          "annee": 1933,
+          "generique": "Fay Wray, Robert Armstrong, Bruce Cabot",
+          "synopsis": "Une équipe de cinéastes se rend en Malaisie avec la blonde vedette Ann Darow. Il s'agit d'atteindre Skull Island, une île où les indigènes vénèrent un animal monstrueux, King Kong. À peine arrivée, Ann est capturée par les autochtones qui l'offrent à leur dieu.",
+          "synopsisJP": "Un réalisateur tourne un film sur la mystérieuse Île du Crâne, quand son actrice, kidnappée par des indigènes, est offerte à un gorille monstrueux. Le chef-d'œuvre fantastique de l'année 1933, à l'imagerie ultra célèbre (le primate géant au sommet de l'Empire State Building), qui marquera durablement la culture populaire et donnera lieu à de nombreux remakes.",
+          "status": 2,
+          "idFilmBoxoffice": 727
         }
       ]
     }

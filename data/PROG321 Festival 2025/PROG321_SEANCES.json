@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-11T09:20:51.213Z",
+  "updatedAt": "2024-12-11T13:57:17.139Z",
   "data": [
     {
       "idSeance": 188170,
@@ -135,7 +135,7 @@
       ],
       "idEvenement": 31799,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T17:30:00",
+      "dateHeure": "2025-03-08T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -163,6 +163,50 @@
             }
           ],
           "idFilmBoxoffice": 5168
+        }
+      ]
+    },
+    {
+      "idSeance": 188288,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31800,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42451,
+          "titre": "Nuit",
+          "art": "La",
+          "titreVo": "Notte",
+          "artVo": "La",
+          "realisateurs": "Michelangelo Antonioni",
+          "annee": 1960,
+          "duree": 122,
+          "generique": "Marcello Mastroianni, Jeanne Moreau, Monica Vitti",
+          "synopsis": "Les dernières heures vécues ensemble d'un couple d'intellectuels bourgeois, lors d'une soirée mondaine.",
+          "miniTexte": "En filmant le vide, l'ennui, Antonioni met en scène la destruction annoncée d'un couple et file la métaphore d'un urbanisme hostile pour figurer la fragilité des sentiments. Avec Mastroianni, le cinéaste amorce l'érosion de l'idéal mâle italien, et fait de Jeanne Moreau une égérie de la résignation. Ours d'or à Berlin.",
+          "commentaire": "Antonioni met en scène la destruction annoncée d'un couple, file la métaphore d'un urbanisme hostile pour figurer la fragilité des sentiments, amorce avec Mastroianni l'érosion de l'idéal mâle italien, et fait de Jeanne Moreau une égérie de la résignation. Il filme le vide, l'ennui, et invente une nouvelle forme qui à elle seule fait vaciller l'édifice du néoréalisme, et lui vaudra l'Ours d'or à Berlin.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28878,
+              "duree": 122,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ITA"
+            }
+          ],
+          "idFilmBoxoffice": 675
         }
       ]
     },
@@ -343,7 +387,7 @@
       ],
       "idEvenement": 32231,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T15:00:00",
+      "dateHeure": "2025-03-06T17:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -427,7 +471,7 @@
       ],
       "idEvenement": 32287,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T15:00:00",
+      "dateHeure": "2025-03-06T17:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -590,7 +634,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 4019
         }
       ]
     },
@@ -607,7 +652,7 @@
       ],
       "idEvenement": 32290,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T20:00:00",
+      "dateHeure": "2025-03-08T17:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -642,7 +687,8 @@
               "format": "DCP",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 43225
         }
       ]
     },
@@ -831,7 +877,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Nicolas Giraud et Gabriel Cazes"
     },
     {
       "idSeance": 185298,
@@ -924,7 +971,7 @@
       ],
       "idEvenement": 32315,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T18:15:00",
+      "dateHeure": "2025-03-06T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -996,7 +1043,7 @@
       ],
       "idEvenement": 32321,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T18:30:00",
+      "dateHeure": "2025-03-05T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1076,7 +1123,7 @@
       ],
       "idEvenement": 32326,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T17:00:00",
+      "dateHeure": "2025-03-08T16:30:00",
       "idSalle": "JE",
       "items": [
         {
@@ -1260,7 +1307,7 @@
       ],
       "idEvenement": 32385,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T14:00:00",
+      "dateHeure": "2025-03-09T15:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1520,7 +1567,7 @@
       ],
       "idEvenement": 32432,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-07T20:00:00",
+      "dateHeure": "2025-03-07T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1559,7 +1606,7 @@
       ],
       "idEvenement": 32432,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-09T14:00:00",
+      "dateHeure": "2025-03-07T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1586,7 +1633,7 @@
       ]
     },
     {
-      "idSeance": 188233,
+      "idSeance": 188289,
       "idProg": 321,
       "idCycleCategories": [
         {
@@ -1598,8 +1645,8 @@
       ],
       "idEvenement": 32433,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T15:00:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-03-05T12:00:00",
+      "idSalle": "HO",
       "items": [
         {
           "ordre": 1,
@@ -1635,7 +1682,7 @@
       ],
       "idEvenement": 32492,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-07T19:30:00",
+      "dateHeure": "2025-03-08T14:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1678,7 +1725,7 @@
       ],
       "idEvenement": 32519,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T18:00:00",
+      "dateHeure": "2025-03-06T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1716,8 +1763,8 @@
       ],
       "idEvenement": 32520,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-09T16:30:00",
-      "idSalle": "HL",
+      "dateHeure": "2025-03-07T20:30:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -1915,7 +1962,7 @@
       ],
       "idEvenement": 32576,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T20:45:00",
+      "dateHeure": "2025-03-09T14:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1938,6 +1985,208 @@
               "intertitres": "INT. FR."
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188290,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 954,
+          "idCategorie": 3651,
+          "titreCycle": "Films muets géorgiens",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32584,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-08T19:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155146,
+          "titre": "Chemi Bebia",
+          "realisateurs": "Kote Mikaberidze",
+          "annee": 1929,
+          "duree": 61,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29412,
+              "duree": 61,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188227,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 982,
+          "idCategorie": 3689,
+          "titreCycle": "John McTiernan",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32641,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T12:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30210,
+          "titre": "John McCabe",
+          "titreVo": "McCabe & Mrs. Miller",
+          "realisateurs": "Robert Altman",
+          "annee": 1971,
+          "duree": 120,
+          "generique": "Warren Beatty, Julie Christie, René Auberjonois",
+          "adaptation": "D'après le roman _McCabe_ d'Edmund Naughton.",
+          "synopsis": "En 1902, John McCabe débarque dans une petite ville minière de l'Ouest américain, et s'associe avec Constance Miller, une prostituée, pour ouvrir une maison close. Leur réussite suscite bientôt l'attention de gros investisseurs.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 14596,
+              "duree": 120,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1345
+        }
+      ]
+    },
+    {
+      "idSeance": 188225,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 982,
+          "idCategorie": 3689,
+          "titreCycle": "John McTiernan",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32643,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T14:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43482,
+          "titre": "Luna",
+          "art": "La",
+          "realisateurs": "Bernardo Bertolucci",
+          "annee": 1978,
+          "duree": 140,
+          "generique": "Jill Clayburgh, Matthew Barry",
+          "synopsis": "Après la mort de son mari, la cantatrice américaine Caterina Silveri décide de retrouver ses racines et part s'installer en Italie avec Joe, son fils de 15 ans. Mais, accaparée par sa carrière, elle néglige l'éducation de celui-ci, qui ne tarde pas à sombrer dans la drogue.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 27631,
+              "duree": 140,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1584
+        }
+      ]
+    },
+    {
+      "idSeance": 188224,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 982,
+          "idCategorie": 3689,
+          "titreCycle": "John McTiernan",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32644,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T12:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34014,
+          "titre": "Dernier Rivage",
+          "art": "Le",
+          "titreVo": "On the Beach",
+          "realisateurs": "Stanley Kramer",
+          "annee": 1959,
+          "duree": 134,
+          "generique": "Gregory Peck, Anthony Perkins, Ava Gardner",
+          "adaptation": "D'après le roman _Le Dernier rivage_ de Nevil Shute.",
+          "miniTexte": "1964, une guerre atomique a anéanti une partie de l'humanité. En Australie, où un sous-marin vient d'accoster, les survivants tentent de trouver du réconfort, alors que le nuage radioactif progresse inexorablement vers eux. À quoi ressemblent les sentiments dans un monde que l'on sait condamné ? Dans l'un des premiers films à dénoncer la course au nucléaire, Kramer propose une vision intimiste de l'apocalypse, à travers les derniers mois d'une poignée d'êtres rongés par la peur, et finalement prêts à accepter leur sort.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28700,
+              "duree": 134,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 31437
+        }
+      ]
+    },
+    {
+      "idSeance": 185189,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 982,
+          "idCategorie": 3689,
+          "titreCycle": "John McTiernan",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32644,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-06T14:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34014,
+          "titre": "Dernier Rivage",
+          "art": "Le",
+          "titreVo": "On the Beach",
+          "realisateurs": "Stanley Kramer",
+          "annee": 1959,
+          "duree": 134,
+          "generique": "Gregory Peck, Anthony Perkins, Ava Gardner",
+          "adaptation": "D'après le roman _Le Dernier rivage_ de Nevil Shute.",
+          "miniTexte": "1964, une guerre atomique a anéanti une partie de l'humanité. En Australie, où un sous-marin vient d'accoster, les survivants tentent de trouver du réconfort, alors que le nuage radioactif progresse inexorablement vers eux. À quoi ressemblent les sentiments dans un monde que l'on sait condamné ? Dans l'un des premiers films à dénoncer la course au nucléaire, Kramer propose une vision intimiste de l'apocalypse, à travers les derniers mois d'une poignée d'êtres rongés par la peur, et finalement prêts à accepter leur sort.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28700,
+              "duree": 134,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 31437
         }
       ]
     }
