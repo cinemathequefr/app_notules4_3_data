@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-12T11:36:53.883Z",
+  "updatedAt": "2024-12-12T16:19:16.586Z",
   "data": [
     {
       "idSeance": 185115,
@@ -1536,6 +1536,26 @@
         },
         {
           "ordre": 5,
+          "idFilm": 153087,
+          "titre": "Faith Healer",
+          "art": "The",
+          "realisateurs": "David Cronenberg",
+          "annee": 1987,
+          "duree": 60,
+          "generique": "Louise Robey, John D. LeMay, Chris Wiggins",
+          "synopsis": "Deux jeunes antiquaires héritent de la boutique de leur oncle, qui avait conclu un pacte avec le diable.",
+          "miniTexte": "Un charlatan religieux découvre un gant mystérieux, qui guérit les patients mourants et transmet la maladie à d'autres personnes. L'un des meilleurs épisodes de _Friday The 13th: The Series_, sommet de _body horror_.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23985,
+              "duree": 60,
+              "version": "VO"
+            }
+          ]
+        },
+        {
+          "ordre": 6,
           "idFilm": 153089,
           "titre": "Letter from Michelangelo",
           "realisateurs": "David Cronenberg",
@@ -1552,7 +1572,7 @@
           ]
         },
         {
-          "ordre": 6,
+          "ordre": 7,
           "idFilm": 153093,
           "titre": "Death of David Cronenberg",
           "art": "The",
@@ -1570,7 +1590,7 @@
           ]
         },
         {
-          "ordre": 7,
+          "ordre": 8,
           "idFilm": 153094,
           "titre": "Nid",
           "art": "Le",
@@ -1593,7 +1613,7 @@
           ]
         },
         {
-          "ordre": 8,
+          "ordre": 9,
           "idFilm": 153090,
           "titre": "Jim Ritchie Sculptor",
           "realisateurs": "David Cronenberg",
@@ -1611,7 +1631,7 @@
           "idFilmBoxoffice": 27250
         },
         {
-          "ordre": 9,
+          "ordre": 10,
           "idFilm": 155085,
           "titre": "Four Unloved Women, Adrift on a Purposeless Sea, Experience the Ecstasy of Dissection",
           "realisateurs": "David Cronenberg",

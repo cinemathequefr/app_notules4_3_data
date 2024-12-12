@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-12T15:45:28.573Z",
+  "updatedAt": "2024-12-12T16:18:03.073Z",
   "data": [
     {
       "idSeance": 185394,
@@ -536,7 +536,8 @@
           ],
           "idFilmBoxoffice": 2730
         }
-      ]
+      ],
+      "mention": "Séance présentée par Jean-François Rauger"
     },
     {
       "idSeance": 186682,
@@ -4750,7 +4751,8 @@
           ],
           "idFilmBoxoffice": 10433
         }
-      ]
+      ],
+      "mention": "Séance présentée par Juliette Armantier"
     },
     {
       "idSeance": 188099,
@@ -5489,8 +5491,7 @@
               "idCopie": 28994,
               "duree": 67,
               "format": "35 mm",
-              "version": "Autres",
-              "langCopie": "ENG"
+              "intertitres": "Autres"
             }
           ]
         }
@@ -8284,7 +8285,7 @@
       ],
       "idEvenement": 32113,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-26T18:30:00",
+      "dateHeure": "2025-04-25T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -8311,8 +8312,7 @@
           ],
           "idFilmBoxoffice": 173893
         }
-      ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
+      ]
     },
     {
       "idSeance": 186716,
@@ -8637,7 +8637,7 @@
       ],
       "idEvenement": 32126,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-25T20:00:00",
+      "dateHeure": "2025-04-26T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -12449,6 +12449,41 @@
           "idTypeConf": 16,
           "titre": "Rencontre avec Robert Yeoman",
           "duree": 90
+        }
+      ]
+    },
+    {
+      "idSeance": 186524,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3700,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "[Avant-première]"
+        }
+      ],
+      "idEvenement": 32346,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-21T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155073,
+          "titre": "Bulle Ogier, portrait d'une étoile cachée",
+          "realisateurs": "Eugénie Grandval",
+          "annee": 2024,
+          "duree": 70,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29170,
+              "duree": 70,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ]
         }
       ]
     },
