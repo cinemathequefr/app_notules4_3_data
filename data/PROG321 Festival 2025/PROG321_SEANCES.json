@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-11T13:57:17.139Z",
+  "updatedAt": "2024-12-12T09:49:28.644Z",
   "data": [
     {
       "idSeance": 188170,
@@ -74,6 +74,42 @@
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188145,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 956,
+          "idCategorie": 3653,
+          "titreCycle": "Une certaine histoire du cinéma flamand",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31792,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-09T18:30:00",
+      "idSalle": "LE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155010,
+          "titre": "Deans",
+          "realisateurs": "Stijn Coninx",
+          "annee": 1992,
+          "duree": 138,
+          "generique": "Jan Decleir, Gérard Desarthe, Antje De Boeck",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28868,
+              "duree": 138,
+              "format": "DCP",
+              "version": "VO"
             }
           ]
         }
@@ -257,6 +293,44 @@
       "mention": "Accompagnement musical par Mocke, Emmanuelle Parrenin et Delphine Dora"
     },
     {
+      "idSeance": 188297,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31805,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T12:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41037,
+          "titre": "Pirosmani",
+          "titreNx": "ფიროსმანი",
+          "realisateurs": "Gueorgui Chenguelaia",
+          "annee": 1969,
+          "duree": 85,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28883,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 923
+        }
+      ]
+    },
+    {
       "idSeance": 188217,
       "idProg": 321,
       "idCycleCategories": [
@@ -436,7 +510,7 @@
       ],
       "idEvenement": 32232,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-07T18:00:00",
+      "dateHeure": "2025-03-08T19:00:00",
       "idSalle": "LE",
       "items": [
         {
@@ -922,6 +996,46 @@
       ]
     },
     {
+      "idSeance": 188296,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32313,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T12:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38035,
+          "titre": "Chacal",
+          "titreVo": "Day of the Jackal",
+          "artVo": "The",
+          "realisateurs": "Fred Zinnemann",
+          "annee": 1972,
+          "duree": 143,
+          "generique": "Edward Fox, Terence Alexander, Michel Auclair",
+          "adaptation": "D'après le roman _The Day of the Jackal_ de Frederick Forsyth.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29137,
+              "duree": 143,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 188215,
       "idProg": 321,
       "idCycleCategories": [
@@ -1111,6 +1225,47 @@
       ]
     },
     {
+      "idSeance": 188221,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 984,
+          "idCategorie": 3692,
+          "titreCycle": "Hommage au KOFA",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32325,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-07T18:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 98233,
+          "titre": "Festival",
+          "titreVo": "Chugje",
+          "realisateurs": "Im Kwon-taek",
+          "annee": 1996,
+          "duree": 108,
+          "generique": "Ahn Sung-ki, Oh Jung-hae, Nam Jung-hee",
+          "adaptation": "D'après le roman _Festival_ de Lee Chung-joon.",
+          "miniTexte": "Réflexion profonde sur la famille et ses tensions, Festival suit un romancier à succès, qui retourne dans sa ville natale pour assister aux funérailles de sa mère. À 60 ans, Im Kwon-taek porte un regard personnel et détaillé sur la vieillesse, la mort et les rituels du deuil, dans un drame presque documentaire, où l'onirisme d'un conte pour enfant vient souligner le poids et l'influence des ancêtres.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29172,
+              "duree": 108,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 36034
+        }
+      ]
+    },
+    {
       "idSeance": 188160,
       "idProg": 321,
       "idCycleCategories": [
@@ -1153,6 +1308,48 @@
       ]
     },
     {
+      "idSeance": 188292,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 984,
+          "idCategorie": 3692,
+          "titreCycle": "Hommage au KOFA",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32327,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-07T17:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155067,
+          "titre": "Widow",
+          "art": "The",
+          "titreVo": "Mimangin",
+          "titreNx": "미망인",
+          "realisateurs": "Park Nam-ok",
+          "annee": 1955,
+          "duree": 90,
+          "generique": "Lee Min-ja, Lee Seong-ju, Lee Tak-kyun",
+          "miniTexte": "À la mort de son mari, Shin accepte l'aide financière d'un ami, tout en résistant à ses avances. Premier long métrage réalisé par une femme en Corée du Sud, _The Widow_ dépeint la dure réalité des veuves de l'après-guerre. Sur un scénario écrit par son mari dramaturge, la cinéaste signe un mélodrame lucide sur la maternité et le mariage, une vision féminine du conflit intérieur entre l'amour maternel et les désirs charnels. Son seul et unique film, tourné avec très peu de moyens, son bébé porté sur le dos.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29174,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 219603
+        }
+      ]
+    },
+    {
       "idSeance": 188226,
       "idProg": 321,
       "idCycleCategories": [
@@ -1165,7 +1362,7 @@
       ],
       "idEvenement": 32328,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T19:00:00",
+      "dateHeure": "2025-03-06T20:00:00",
       "idSalle": "LE",
       "items": [
         {
@@ -1378,7 +1575,7 @@
       ],
       "idEvenement": 32387,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-09T16:30:00",
+      "dateHeure": "2025-03-07T18:00:00",
       "idSalle": "LE",
       "items": [
         {
@@ -1416,7 +1613,7 @@
       ],
       "idEvenement": 32388,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-09T14:00:00",
+      "dateHeure": "2025-03-07T15:00:00",
       "idSalle": "LE",
       "items": [
         {
@@ -1474,6 +1671,44 @@
             {
               "idCopie": 29319,
               "duree": 98,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188139,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 990,
+          "idCategorie": 3712,
+          "titreCycle": "Pedro Costa",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32390,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-08T19:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59770,
+          "titre": "Casa de lava",
+          "realisateurs": "Pedro Costa",
+          "annee": 1994,
+          "duree": 110,
+          "generique": "Isaach de Bankolé, Inês de Medeiros, Édith Scob",
+          "synopsis": "À Lisbonne, un ouvrier tombé de son échafaudage se retrouve dans le coma. Une infirmière se propose de le raccompagner chez lui, sur une île volcanique du Cap-Vert.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29317,
+              "duree": 110,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
@@ -1803,8 +2038,8 @@
       ],
       "idEvenement": 32523,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T15:00:00",
-      "idSalle": "LE",
+      "dateHeure": "2025-03-08T14:00:00",
+      "idSalle": "HO",
       "items": [
         {
           "ordre": 1,
@@ -1841,7 +2076,7 @@
       ],
       "idEvenement": 32526,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T19:00:00",
+      "dateHeure": "2025-03-09T14:00:00",
       "idSalle": "LE",
       "items": [
         {
@@ -1950,6 +2185,345 @@
       ]
     },
     {
+      "idSeance": 188302,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 992,
+          "idCategorie": 3738,
+          "titreCycle": "Werner Schroeter",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32533,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-08T17:00:00",
+      "idSalle": "LE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155123,
+          "titre": "Verona",
+          "realisateurs": "Werner Schroeter",
+          "annee": 1967,
+          "duree": 12,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29374,
+              "duree": 12,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 155127,
+          "titre": "Verner",
+          "realisateurs": "Werner Schroeter",
+          "annee": 1968,
+          "duree": 5,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29375,
+              "duree": 5
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 155129,
+          "titre": "Home Movie",
+          "realisateurs": "Werner Schroeter",
+          "annee": 1968,
+          "duree": 4,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29376,
+              "duree": 4,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 155128,
+          "titre": "Carla",
+          "realisateurs": "Werner Schroeter",
+          "annee": 1968,
+          "duree": 5,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29380,
+              "duree": 5,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 155130,
+          "titre": "Callas Walking Lucia",
+          "realisateurs": "Werner Schroeter",
+          "annee": 1968,
+          "duree": 3,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29378,
+              "duree": 3,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 6,
+          "idFilm": 153295,
+          "titre": "Portrait de Maria Callas",
+          "titreVo": "Maria Callas Porträt",
+          "realisateurs": "Werner Schroeter",
+          "annee": 1968,
+          "duree": 13,
+          "generique": "Maria Callas",
+          "synopsis": "Sur des airs de Verdi et de Bellini, chantés par la Callas elle-même, enchaînement de photographies de la cantatrice sur scène, chez elle, face à la foule ou prenant la pose pour une publicité.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 24128,
+              "duree": 13,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "GER",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 7,
+          "idFilm": 155131,
+          "titre": "Mona Lisa",
+          "realisateurs": "Werner Schroeter",
+          "annee": 1968,
+          "duree": 32,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29379,
+              "duree": 32,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "GER",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 8,
+          "idFilm": 155132,
+          "titre": "Maria Callas singt 1957 rezitativ und arie der Elvira aus Ernani 1844 von Giuseppe Verdi",
+          "realisateurs": "Werner Schroeter",
+          "annee": 1968,
+          "duree": 11,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29377,
+              "duree": 11,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "GER",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188303,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 992,
+          "idCategorie": 3740,
+          "titreCycle": "Werner Schroeter",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32539,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-09T16:00:00",
+      "idSalle": "LE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155136,
+          "titre": "Aggression",
+          "realisateurs": "Werner Schroeter",
+          "annee": 1968,
+          "duree": 22,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29365,
+              "duree": 22,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "GER",
+              "stDemande": true
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 95434,
+          "titre": "Neurasia",
+          "realisateurs": "Werner Schroeter",
+          "annee": 1969,
+          "duree": 37,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29367,
+              "duree": 37,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 155137,
+          "titre": "Argila",
+          "realisateurs": "Werner Schroeter",
+          "annee": 1969,
+          "duree": 33,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29366,
+              "duree": 33,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "GER",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188298,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32552,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T12:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155138,
+          "titre": "Tomorrow There Will Be Fine Weather",
+          "titreNx": "明日は日本晴れ",
+          "realisateurs": "Hiroshi Shimizu",
+          "annee": 1948,
+          "duree": 65,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29385,
+              "duree": 65,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "JPN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188299,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3744,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Lorenza Mazzetti"
+        }
+      ],
+      "idEvenement": 32555,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T12:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155140,
+          "titre": "The Country Doctor",
+          "realisateurs": "Lorenza Mazzetti",
+          "annee": 1953,
+          "duree": 11,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29387,
+              "duree": 11,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 155139,
+          "titre": "K",
+          "realisateurs": "Lorenza Mazzetti",
+          "annee": 1954,
+          "duree": 29,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29386,
+              "duree": 29,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 42833,
+          "titre": "Together",
+          "realisateurs": "Lorenza Mazzetti",
+          "annee": 1955,
+          "duree": 52,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29388,
+              "duree": 52,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 185190,
       "idProg": 321,
       "idCycleCategories": [
@@ -1983,6 +2557,114 @@
               "duree": 50,
               "format": "DCP",
               "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188295,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 954,
+          "idCategorie": 3651,
+          "titreCycle": "Films muets géorgiens",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32581,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-08T18:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155143,
+          "titre": "Janki Guirashi",
+          "realisateurs": "Alexandre Tsutsunava",
+          "annee": 1928,
+          "duree": 180,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29413,
+              "duree": 180,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188140,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 954,
+          "idCategorie": 3651,
+          "titreCycle": "Films muets géorgiens",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32582,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-08T12:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155144,
+          "titre": "Vin aris damnashave ?",
+          "realisateurs": "Alexandre Tsutsunava",
+          "annee": 1925,
+          "duree": 105,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29415,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188293,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 954,
+          "idCategorie": 3651,
+          "titreCycle": "Films muets géorgiens",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32583,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-08T14:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155145,
+          "titre": "Elisso",
+          "realisateurs": "Nikoloz Shengelaia ",
+          "annee": 1928,
+          "duree": 80,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29410,
+              "duree": 80,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -2025,14 +2707,129 @@
       ]
     },
     {
+      "idSeance": 188294,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 954,
+          "idCategorie": 3651,
+          "titreCycle": "Films muets géorgiens",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32585,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-08T14:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155147,
+          "titre": "Hors du chemin !",
+          "titreVo": "Khabarda",
+          "realisateurs": "Mikheil Chiaoureli",
+          "annee": 1931,
+          "duree": 65,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29411,
+              "duree": 65,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188300,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32593,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-07T20:30:00",
+      "idSalle": "LE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 97416,
+          "titre": "Barattage",
+          "art": "Le",
+          "titreVo": "Manthan",
+          "titreNx": "मंथन",
+          "realisateurs": "Shyam Benegal",
+          "annee": 1976,
+          "duree": 134,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29427,
+              "duree": 134,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 179697
+        }
+      ]
+    },
+    {
+      "idSeance": 188301,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32635,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T12:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30220,
+          "titre": "Buffalo Bill et les Indiens",
+          "titreVo": "Buffalo Bill and the Indians or Sitting Bull's History Lesson",
+          "realisateurs": "Robert Altman",
+          "annee": 1975,
+          "duree": 123,
+          "generique": "Paul Newman, Joel Grey, Kevin McCarthy",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 26990,
+              "duree": 123,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 188227,
       "idProg": 321,
       "idCycleCategories": [
         {
           "idCycle": 982,
-          "idCategorie": 3689,
+          "idCategorie": 3749,
           "titreCycle": "John McTiernan",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Carte blanche à John McTiernan"
         }
       ],
       "idEvenement": 32641,
@@ -2071,9 +2868,9 @@
       "idCycleCategories": [
         {
           "idCycle": 982,
-          "idCategorie": 3689,
+          "idCategorie": 3749,
           "titreCycle": "John McTiernan",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Carte blanche à John McTiernan"
         }
       ],
       "idEvenement": 32643,
@@ -2112,9 +2909,9 @@
       "idCycleCategories": [
         {
           "idCycle": 982,
-          "idCategorie": 3689,
+          "idCategorie": 3749,
           "titreCycle": "John McTiernan",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Carte blanche à John McTiernan"
         }
       ],
       "idEvenement": 32644,
@@ -2154,9 +2951,9 @@
       "idCycleCategories": [
         {
           "idCycle": 982,
-          "idCategorie": 3689,
+          "idCategorie": 3749,
           "titreCycle": "John McTiernan",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Carte blanche à John McTiernan"
         }
       ],
       "idEvenement": 32644,

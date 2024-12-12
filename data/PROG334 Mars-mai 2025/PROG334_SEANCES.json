@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-11T13:57:13.570Z",
+  "updatedAt": "2024-12-12T09:47:21.931Z",
   "data": [
     {
       "idSeance": 185394,
@@ -2642,49 +2642,6 @@
       ]
     },
     {
-      "idSeance": 187249,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 972,
-          "idCategorie": 3671,
-          "titreCycle": "Wes Anderson",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31959,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-17T18:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 77667,
-          "titre": "Famille Tenenbaum",
-          "art": "La",
-          "titreVo": "Royal Tenenbaums",
-          "artVo": "The",
-          "realisateurs": "Wes Anderson",
-          "annee": 2001,
-          "duree": 110,
-          "generique": "Gene Hackman, Anjelica Huston, Ben Stiller",
-          "synopsis": "Chez les Tenenbaum, les enfants ont toujours été des génies. Mais un jour, Etheline, leur mère, demande le divorce.",
-          "miniTexte": "Modèle de la famille dysfonctionnelle dans l'œuvre d'Anderson, les Tenenbaum, lignée de génies notoires, portent le poids de deux décennies d'échecs, de névroses et de rancœurs personnelles. Le retour inattendu du paternel (Gene Hackman au centre d'une distribution de luxe) provoque une série de confrontations au sein de la tribu décomposée. Avec l'art d'emballer les émotions dans de petits gestes et détails, qui constituent depuis sa marque de fabrique, Anderson signe un film dense, jubilatoire, dont les multiples visionnages ne ternissent jamais l'incroyable mélancolie qui s'en dégage.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 11317,
-              "duree": 110,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 29188
-        }
-      ]
-    },
-    {
       "idSeance": 188106,
       "idProg": 334,
       "idCycleCategories": [
@@ -3309,7 +3266,7 @@
       ],
       "idEvenement": 31970,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-25T19:15:00",
+      "dateHeure": "2025-05-25T19:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3491,7 +3448,7 @@
       ]
     },
     {
-      "idSeance": 188028,
+      "idSeance": 188307,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -3503,7 +3460,7 @@
       ],
       "idEvenement": 31975,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-25T17:00:00",
+      "dateHeure": "2025-05-17T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4396,7 +4353,7 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 188100,
+      "idSeance": 188306,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -4408,7 +4365,7 @@
       ],
       "idEvenement": 31991,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-12T20:45:00",
+      "dateHeure": "2025-05-15T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4621,7 +4578,7 @@
       ]
     },
     {
-      "idSeance": 188174,
+      "idSeance": 188308,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -4633,7 +4590,7 @@
       ],
       "idEvenement": 31996,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-17T20:15:00",
+      "dateHeure": "2025-05-25T17:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4745,7 +4702,7 @@
       ]
     },
     {
-      "idSeance": 188184,
+      "idSeance": 188304,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -4757,7 +4714,7 @@
       ],
       "idEvenement": 31998,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-09T18:00:00",
+      "dateHeure": "2025-05-12T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4793,8 +4750,7 @@
           ],
           "idFilmBoxoffice": 10433
         }
-      ],
-      "mention": "Séance présentée par Juliette Armantier"
+      ]
     },
     {
       "idSeance": 188099,
@@ -5191,7 +5147,7 @@
           "titre": "West Side Story",
           "realisateurs": "Robert Wise, Jerome Robbins",
           "annee": 1960,
-          "duree": 148,
+          "duree": 152,
           "generique": "Natalie Wood, Richard Beymer, George Chakiris, Rita Moreno",
           "adaptation": "D'après la comédie musicale _West Side Story_ de Leonard Bernstein, Stephen Sondheim et Arthur Laurents.",
           "ageMinimal": 10,
@@ -5202,8 +5158,8 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 16573,
-              "duree": 148,
+              "idCopie": 29406,
+              "duree": 152,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
@@ -5211,8 +5167,8 @@
               "selected": true
             },
             {
-              "idCopie": 29406,
-              "duree": 152,
+              "idCopie": 16573,
+              "duree": 148,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
@@ -5258,7 +5214,7 @@
           "titre": "West Side Story",
           "realisateurs": "Robert Wise, Jerome Robbins",
           "annee": 1960,
-          "duree": 148,
+          "duree": 152,
           "generique": "Natalie Wood, Richard Beymer, George Chakiris, Rita Moreno",
           "adaptation": "D'après la comédie musicale _West Side Story_ de Leonard Bernstein, Stephen Sondheim et Arthur Laurents.",
           "ageMinimal": 10,
@@ -5269,8 +5225,8 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 16573,
-              "duree": 148,
+              "idCopie": 29406,
+              "duree": 152,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
@@ -5278,8 +5234,8 @@
               "selected": true
             },
             {
-              "idCopie": 29406,
-              "duree": 152,
+              "idCopie": 16573,
+              "duree": 148,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
@@ -5373,7 +5329,7 @@
       ]
     },
     {
-      "idSeance": 188101,
+      "idSeance": 188305,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -5385,7 +5341,7 @@
       ],
       "idEvenement": 32009,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-15T18:00:00",
+      "dateHeure": "2025-05-09T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -5605,14 +5561,14 @@
           "titreVo": "Schmutziges Geld",
           "realisateurs": "Richard Eichberg",
           "annee": 1928,
-          "duree": 97,
+          "duree": 102,
           "generique": "Anna May Wong, Heinrich George, Mary Kid",
           "miniTexte": "Menacée par des voyous, Song est sauvée par un lanceur de couteaux, dont elle devient la cible sur scène, tandis qu'il cherche à reconquérir sa fiancée, une danseuse charismatique. Entourée d'un casting exclusivement allemand (dont Heinrich George, le contremaître de _Metropolis_), Anna May Wong émouvante, dans un triangle amoureux désenchanté. Sur un scénario écrit spécialement pour elle par Karl Vollmöller (_L'Ange bleu_), le film marque sa première collaboration européenne et la propulse au rang de star.",
           "status": 1,
           "copies": [
             {
               "idCopie": 28992,
-              "duree": 97,
+              "duree": 102,
               "format": "DCP",
               "version": "VO",
               "langCopie": "GER"
@@ -6874,15 +6830,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29335,
-              "duree": 76,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 4033
@@ -6921,33 +6869,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 16421,
-              "duree": 85,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 13374,
               "duree": 85,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 16459,
-              "duree": 84,
-              "format": "35 mm",
-              "version": "VO"
-            },
-            {
-              "idCopie": 29334,
-              "duree": 85,
-              "format": "DCP",
-              "version": "VO",
-              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 632
@@ -6986,33 +6912,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 16421,
-              "duree": 85,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 13374,
               "duree": 85,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 16459,
-              "duree": 84,
-              "format": "35 mm",
-              "version": "VO"
-            },
-            {
-              "idCopie": 29334,
-              "duree": 85,
-              "format": "DCP",
-              "version": "VO",
-              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 632
@@ -7642,21 +7546,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 3378,
+              "idCopie": 15569,
               "duree": 90,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 26416,
-              "duree": 90,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 1389
@@ -7695,21 +7589,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 3378,
+              "idCopie": 15569,
               "duree": 90,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 26416,
-              "duree": 90,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 1389
@@ -8283,14 +8167,6 @@
               "idCopie": 29423,
               "duree": 88,
               "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29081,
-              "duree": 88,
-              "format": "16 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -9482,17 +9358,17 @@
               "selected": true
             },
             {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
+            },
+            {
               "idCopie": 29040,
               "duree": 95,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 92
@@ -9540,17 +9416,17 @@
               "selected": true
             },
             {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
+            },
+            {
               "idCopie": 29040,
               "duree": 95,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 92
@@ -11500,7 +11376,7 @@
       ],
       "idEvenement": 32246,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-03T20:30:00",
+      "dateHeure": "2025-04-03T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -11522,7 +11398,8 @@
           ],
           "idFilmBoxoffice": 46113
         }
-      ]
+      ],
+      "mention": "Séance présentée par Darren Aronofsky"
     },
     {
       "idSeance": 187934,
@@ -11561,7 +11438,8 @@
           ],
           "idFilmBoxoffice": 241747
         }
-      ]
+      ],
+      "mention": "Séance présentée par Darren Aronofsky"
     },
     {
       "idSeance": 188291,
@@ -11647,7 +11525,8 @@
           ],
           "idFilmBoxoffice": 13351
         }
-      ]
+      ],
+      "mention": "Séance présentée par Darren Aronofsky"
     },
     {
       "idSeance": 187840,
@@ -11729,7 +11608,8 @@
           ],
           "idFilmBoxoffice": 86254
         }
-      ]
+      ],
+      "mention": "Séance présentée par Darren Aronofsky"
     },
     {
       "idSeance": 186132,
@@ -13407,7 +13287,7 @@
       ],
       "idEvenement": 32401,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-09T20:30:00",
+      "dateHeure": "2025-05-09T20:00:00",
       "idSalle": "HL",
       "typeSeance": 44,
       "items": [
@@ -13764,7 +13644,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Eléonore Weber"
     },
     {
       "idSeance": 187992,
@@ -14198,12 +14079,14 @@
         {
           "ordre": 1,
           "idFilm": 155106,
-          "titre": "Hard Truths",
+          "titre": "Deux sœurs",
+          "titreVo": "Hard Truths",
           "realisateurs": "Mike Leigh",
           "annee": 2024,
           "generique": "Marianne Jean-Baptiste, Michele Austin",
           "miniTexte": "Après deux films en costumes et six ans d'absence, Mike Leigh revient sur sa terre natale : une rue de la banlieue de Londres, où vivent Pansy et sa famille, prise dans la tourmente des colères incontrôlées de l'héroïne. Une étude du monde contemporain, post-pandémie, pour laquelle le cinéaste retrouve Marianne Jean-Baptiste, révélation de _Secrets et Mensonges_.",
-          "status": 2
+          "status": 2,
+          "idFilmBoxoffice": 316235
         }
       ],
       "mention": "Séance suivie d'une discussion avec Mike Leigh"
@@ -14274,6 +14157,7 @@
           "realisateurs": "Jakob Schuh, Jan Lachauer, Bin-Han To",
           "annee": 2016,
           "duree": 61,
+          "ageMinimal": 4,
           "synopsisJP": "Un réjouissant mélange de contes de fées, tout droit sorti de l'imaginaire extravagant de Roald Dahl, et qui fait se croiser Blanche-Neige, Cendrillon et le Petit Chaperon rouge, à la faveur de multiples histoires racontées par un loup.",
           "status": 2,
           "copies": [
@@ -14631,6 +14515,7 @@
           "annee": 1966,
           "duree": 122,
           "generique": "Louis de Funès, Bourvil, Marie Dubois, Terry-Thomas",
+          "ageMinimal": 6,
           "synopsis": "1942 : trois officiers d'un bombardier anglais abattu par les Allemands au-dessus de Paris occupée sautent en parachute et atterrissent en différents endroits de la capitale. Ils sont cachés par deux civils français, qui n'ont d'autre choix que de les mener en zone libre.",
           "synopsisJP": "« Comment ça \"merde alors\" ! But alors you are french ?! » Paris, 1942. Un peintre en bâtiment et un chef d'orchestre recueillent des parachutistes anglais qu'ils doivent conduire à travers la France occupée. Le duo impayable Bourvil/De Funès, dans l'un des plus grands succès du cinéma français.",
           "status": 2,
@@ -14711,6 +14596,7 @@
           "realisateurs": "Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman",
           "annee": 1960,
           "duree": 80,
+          "ageMinimal": 4,
           "synopsisJP": "Cruella d'Enfer, l'une des plus grandes méchantes de Disney, et ses rêves de fourrure, qui mettent en danger les nombreux chiots de Pongo et Perdita, deux somptueux dalmatiens. Kidnapping, ruses, poursuites rythment cette aventure sur la solidarité, vue à travers l'œil des animaux.",
           "status": 2,
           "copies": [
@@ -14751,6 +14637,7 @@
           "realisateurs": "Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman",
           "annee": 1960,
           "duree": 80,
+          "ageMinimal": 4,
           "synopsisJP": "Cruella d'Enfer, l'une des plus grandes méchantes de Disney, et ses rêves de fourrure, qui mettent en danger les nombreux chiots de Pongo et Perdita, deux somptueux dalmatiens. Kidnapping, ruses, poursuites rythment cette aventure sur la solidarité, vue à travers l'œil des animaux.",
           "status": 2,
           "copies": [
@@ -15046,6 +14933,14 @@
       "items": [
         {
           "ordre": 1,
+          "idFilm": 155151,
+          "titre": "Baby-foot Boulevard",
+          "realisateurs": "Paul Nouhet",
+          "annee": 2017,
+          "status": 0
+        },
+        {
+          "ordre": 2,
           "idFilm": 155112,
           "titre": "Méduses de Gouville",
           "art": "Les",
@@ -15062,7 +14957,7 @@
           ]
         },
         {
-          "ordre": 2,
+          "ordre": 3,
           "idFilm": 155111,
           "titre": "Camille sans contact",
           "realisateurs": "Paul Nouhet",
@@ -15078,7 +14973,7 @@
           ]
         },
         {
-          "ordre": 3,
+          "ordre": 4,
           "idFilm": 155110,
           "titre": "Salut les zins !",
           "realisateurs": "Paul Nouhet",
@@ -15898,7 +15793,9 @@
           "duree": 89,
           "generique": "Catherine Demongeot, Philippe Noiret, Carla Marlier, Annie Fratellini",
           "adaptation": "D'après le roman _Zazie dans le métro_ de Raymond Queneau.",
+          "ageMinimal": 6,
           "synopsis": "Pour sa première visite à Paris, Zazie rêve de prendre le métro. À cause d'une grève des transports, elle parcourt la capitale et y fait de multiples rencontres.",
+          "synopsisJP": "Entre deux trucages malins, le film tendre et drôle de Louis Malle suit l'espiègle Zazie, qui sème la zizanie dans la capitale. Une peinture burlesque d'après l'œuvre de Raymond Queneau, avec ses personnages pittoresques et son langage fleuri.",
           "status": 2,
           "copies": [
             {
@@ -15906,7 +15803,8 @@
               "duree": 89,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 704
         }
       ]
     },
@@ -15933,8 +15831,9 @@
           "realisateurs": "Merian C. Cooper, Ernest B. Schoedsack",
           "annee": 1933,
           "generique": "Fay Wray, Robert Armstrong, Bruce Cabot",
+          "ageMinimal": 10,
           "synopsis": "Une équipe de cinéastes se rend en Malaisie avec la blonde vedette Ann Darow. Il s'agit d'atteindre Skull Island, une île où les indigènes vénèrent un animal monstrueux, King Kong. À peine arrivée, Ann est capturée par les autochtones qui l'offrent à leur dieu.",
-          "synopsisJP": "Un réalisateur tourne un film sur la mystérieuse Île du Crâne, quand son actrice, kidnappée par des indigènes, est offerte à un gorille monstrueux. Le chef-d'œuvre fantastique de l'année 1933, à l'imagerie ultra célèbre (le primate géant au sommet de l'Empire State Building), qui marquera durablement la culture populaire et donnera lieu à de nombreux remakes.",
+          "synopsisJP": "Un réalisateur tourne un film sur la mystérieuse Île du Crâne, quand son actrice, kidnappée par des indigènes, est offerte à un gorille monstrueux. Le chef-d'œuvre fantastique à l'imagerie ultra célèbre (le primate géant au sommet de l'Empire State Building), qui marquera durablement la culture populaire et donnera lieu à de nombreux remakes.",
           "status": 2,
           "idFilmBoxoffice": 727
         }
