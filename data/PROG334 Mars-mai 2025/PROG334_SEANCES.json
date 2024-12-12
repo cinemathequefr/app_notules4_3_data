@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-12T09:47:21.931Z",
+  "updatedAt": "2024-12-12T11:36:46.528Z",
   "data": [
     {
       "idSeance": 185394,
@@ -7025,7 +7025,7 @@
         {
           "ordre": 1,
           "idFilm": 34625,
-          "titre": "To Be or Not To Be",
+          "titre": "To Be Or Not to Be",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1942,
           "duree": 99,
@@ -7073,7 +7073,7 @@
         {
           "ordre": 1,
           "idFilm": 34625,
-          "titre": "To Be or Not To Be",
+          "titre": "To Be Or Not to Be",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1942,
           "duree": 99,
@@ -11815,8 +11815,9 @@
           "realisateurs": "Paul Wegener",
           "annee": 1917,
           "duree": 20,
-          "generique": "Paul Wegener, Ernst Lubitsch",
-          "status": 0,
+          "generique": "Paul Wegener, Ernst Lubitsch, Lyda Salmonova",
+          "miniTexte": "Afin d'échapper à la misère, un paysan signe un pacte avec le diable, qui l'envoie au royaume de l'abondance et de la paresse. Avec ses cornes et ses expressions démoniaques, Lubitsch campe un Satan magnifique, aussi comique que horrifique.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29400,
@@ -11894,8 +11895,10 @@
           "realisateurs": "Max Mack",
           "annee": 1915,
           "duree": 60,
-          "generique": "Ferdinand Bonn",
-          "status": 1,
+          "generique": "Ferdinand Bonn, Ernst Lubitsch, Eugen Burg",
+          "adaptation": "D'après la pièce _Robert et Bertram_ de Gustav Räder.",
+          "miniTexte": "D'après une farce de Gustav Räder, les aventures de deux clochards facétieux dans une petite ville médiévale de Bavière, plusieurs fois adaptées au cinéma.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29095,
@@ -15140,33 +15143,6 @@
       "mention": "Avant-première. Séance suivie d'une discussion avec Jean-Baptiste Alazard"
     },
     {
-      "idSeance": 186906,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 140,
-          "idCategorie": 3733,
-          "titreCycle": "Aujourd'hui le cinéma",
-          "titreSousCycle": "Hefse Guiro"
-        }
-      ],
-      "idEvenement": 32512,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-05T19:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 155118,
-          "titre": "Par-delà les montagnes",
-          "realisateurs": "Hefse Guiro",
-          "annee": 2024,
-          "status": 0
-        }
-      ],
-      "mention": "Séance suivie d'une discussion avec Hefse Guiro"
-    },
-    {
       "idSeance": 188251,
       "idProg": 334,
       "idCycleCategories": [
@@ -15340,8 +15316,9 @@
           "realisateurs": "Ernst Lubitsch",
           "annee": 1918,
           "duree": 20,
-          "generique": "Ernst Lubitsch",
-          "status": 0,
+          "generique": "Ernst Lubitsch, Trude Hesterberg, Ferry Sikla",
+          "miniTexte": "Une comédie policière, pour laquelle Lubitsch reprend son rôle de Sally Meyer, dans l'enquête sur l'affaire Rosentopf, littéralement du « pot aux roses ».",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29399,
@@ -15838,6 +15815,65 @@
           "idFilmBoxoffice": 727
         }
       ]
+    },
+    {
+      "idSeance": 186906,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3733,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Hefse Guiro"
+        }
+      ],
+      "idEvenement": 32649,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-05T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155118,
+          "titre": "Par-delà les montagnes",
+          "realisateurs": "Hefse Guiro",
+          "annee": 2024,
+          "duree": 23,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29439,
+              "duree": 23,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 42688,
+          "titre": "Bataille d'Alger",
+          "art": "La",
+          "titreVo": "Battaglia di Algeri",
+          "artVo": "La",
+          "realisateurs": "Gillo Pontecorvo",
+          "annee": 1965,
+          "duree": 121,
+          "generique": "Brahim Hadjadj, Jean Martin, Yacef Saadi",
+          "synopsis": "La guerre de libération nationale algérienne à travers le parcours d'Ali la Pointe, ancien délinquant passé à l'activisme au service du FLN. Le contrôle de la casbah d'Alger est l'objet d'une lutte sanglante entre l'armée française et les militants nationaliste algériens.",
+          "commentaire": "Depuis sa réalisation, _La Bataille d'Alger_ a été souvent utilisé comme un film d'instruction et d'initiation à la guérilla ou la contre-guérilla urbaine.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 15775,
+              "duree": 121,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance suivie d'une discussion avec Hefse Guiro"
     }
   ]
 }
