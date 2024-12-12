@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-12T11:36:46.528Z",
+  "updatedAt": "2024-12-12T15:45:28.573Z",
   "data": [
     {
       "idSeance": 185394,
@@ -11072,37 +11072,14 @@
           "titreVo": "Merry Christmas Mr. Lawrence",
           "realisateurs": "Nagisa Ōshima",
           "annee": 1982,
-          "duree": 123,
+          "duree": 122,
           "generique": "Tom Conti, David Bowie, Takeshi Kitano, Ryūichi Sakamoto",
           "adaptation": "D'après le roman _The Seed and the Sower_ de Laurens Van der Post.",
           "miniTexte": "Les relations difficiles entre prisonniers et geôliers dans un camp à Java durant la Seconde Guerre mondiale. De scènes sensuelles en séquences de violence crue, Oshima filme le choc de deux mondes, la rencontre de la discipline militaire japonaise avec l'individualisme occidental. Une fable entêtante, qui offre une partition sur mesure à David Bowie.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 3979,
-              "duree": 123,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 4008,
-              "duree": 122,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 6266,
-              "duree": 122,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 23680,
               "duree": 122,
               "format": "DCP",
               "version": "VO",
@@ -12503,17 +12480,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29189,
-              "duree": 110,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 29258,
               "duree": 110,
-              "format": "DCP"
+              "format": "DCP",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 14282
@@ -12548,17 +12518,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29189,
-              "duree": 110,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 29258,
               "duree": 110,
-              "format": "DCP"
+              "format": "DCP",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 14282
@@ -14126,11 +14089,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 11202,
+              "idCopie": 29442,
               "duree": 116,
               "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
+              "version": "VF"
             }
           ],
           "idFilmBoxoffice": 52933
@@ -14160,7 +14122,7 @@
           "realisateurs": "Jakob Schuh, Jan Lachauer, Bin-Han To",
           "annee": 2016,
           "duree": 61,
-          "ageMinimal": 4,
+          "ageMinimal": 6,
           "synopsisJP": "Un réjouissant mélange de contes de fées, tout droit sorti de l'imaginaire extravagant de Roald Dahl, et qui fait se croiser Blanche-Neige, Cendrillon et le Petit Chaperon rouge, à la faveur de multiples histoires racontées par un loup.",
           "status": 2,
           "copies": [
@@ -14805,7 +14767,7 @@
       "idEvenement": 32496,
       "typeEvenement": 13,
       "libelleEvenement": "LILA LUMIÈRE VIVE LE PRINTEMPS",
-      "dateHeure": "2025-03-30T15:00:00",
+      "dateHeure": "2025-03-30T11:30:00",
       "idSalle": "GF",
       "theorique": true,
       "items": []
@@ -14911,7 +14873,7 @@
           "realisateurs": "Hiromasa Yonebayashi",
           "annee": 2014,
           "adaptation": "D'après le roman _When Marnie was there_ de Joan G. Robinson.",
-          "ageMinimal": 7,
+          "ageMinimal": 8,
           "synopsisJP": "Envoyée à la campagne pour soigner son asthme, une orpheline découvre une étrange demeure habitée par une autre fillette, Marnie. Une fable bouleversante sur l'enfance, la solitude, l'amour filial et les souvenirs de famille, qui explore l'imaginaire à travers une esthétique délicate.",
           "status": 2,
           "idFilmBoxoffice": 225897
