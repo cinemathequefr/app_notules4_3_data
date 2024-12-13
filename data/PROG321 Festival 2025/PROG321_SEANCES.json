@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-13T09:27:45.398Z",
+  "updatedAt": "2024-12-13T11:07:41.788Z",
   "data": [
     {
       "idSeance": 188170,
@@ -956,14 +956,15 @@
           "titre": "Happy Day",
           "realisateurs": "Pantelis Voulgaris",
           "annee": 1976,
-          "duree": 100,
+          "duree": 105,
           "status": 0,
           "copies": [
             {
               "idCopie": 29133,
-              "duree": 100,
+              "duree": 105,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -3158,6 +3159,80 @@
             }
           ],
           "idFilmBoxoffice": 31437
+        }
+      ]
+    },
+    {
+      "idSeance": 185156,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32650,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T19:30:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 70783,
+          "titre": "Socrate",
+          "art": "Le",
+          "realisateurs": "Robert Lapoujade",
+          "annee": 1967,
+          "duree": 90,
+          "generique": "Pierre Luzan, René-Jean Chauffard, Martine Brochard",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29443,
+              "duree": 90,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188313,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32651,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-07T12:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50161,
+          "titre": "Bande du Rex",
+          "art": "La",
+          "realisateurs": "108.13",
+          "annee": 1979,
+          "duree": 100,
+          "generique": "Charlotte Kid, Jacques Higelin, Nathalie Delon",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29444,
+              "duree": 100,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ]
         }
       ]
     }
