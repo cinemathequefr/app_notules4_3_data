@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-12T16:11:21.729Z",
+  "updatedAt": "2024-12-13T09:27:45.398Z",
   "data": [
     {
       "idSeance": 188170,
@@ -27,7 +27,8 @@
           "annee": 1955,
           "duree": 94,
           "generique": "Julien Schoenaerts, Gisèle Peeters",
-          "status": 0,
+          "miniTexte": "Dans la ville portuaire d'Anvers, l'errance d'un homme accablé de remords, après avoir assassiné sa femme adultère. En quête de rédemption, il trouve du réconfort auprès d'une orpheline et de deux femmes désabusées. Première grande œuvre de fiction tournée en Belgique, un drame urbain en noir et blanc, d'une force expressive singulière, qui rompt avec les codes du cinéma flamand alors en vigueur.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28873,
@@ -36,7 +37,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 298924
         }
       ]
     },
@@ -65,8 +67,8 @@
           "duree": 110,
           "generique": "Mathieu Carrière, Susan Hampshire, Orson Welles, Michel Bouquet, Jean-Pierre Cassel",
           "adaptation": "D'après le roman _Malpertuis_ de Jean Ray.",
-          "synopsis": "Malpertuis est un labyrinthe dans lequel des personnages de la mythologie grecque sont faits prisonniers par Cassave qui les maintient dans cette condition même après sa mort.",
-          "status": 0,
+          "miniTexte": "D'après le roman de Jean Ray, l'étrange réunion de famille au chevet de l'oncle Cassave (Orson Welles), propriétaire excentrique d'un mystérieux manoir. Baroque, fantastique et cauchemardesque, la demeure cache de lugubres secrets que dévoile peu à peu le héros, marin à la beauté diaphane (Mathieu Carrière). Une intrigue dédaléenne, au casting incroyable, qui convoque les dieux de la mythologie grecque, mêlés à une terrifiante affaire d'héritage.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28871,
@@ -75,7 +77,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 13071
         }
       ]
     },
@@ -98,12 +101,13 @@
         {
           "ordre": 1,
           "idFilm": 155010,
-          "titre": "Deans",
+          "titre": "Daens",
           "realisateurs": "Stijn Coninx",
           "annee": 1992,
           "duree": 138,
           "generique": "Jan Decleir, Gérard Desarthe, Antje De Boeck",
-          "status": 0,
+          "miniTexte": "Inspiré de la vie de l'abbé belge Adolf Daens qui œuvra pour améliorer les conditions de travail des ouvriers de la ville d'Alost, à la fin du XIX<sup>e</sup> siècle. Nommé pour l'Oscar du meilleur film en langue étrangère, _Daens_ met en lumière la lutte des classes, le travail des enfants et la misère, mais aussi l'influence de l'Église et l'hégémonie du Parti catholique dans une Belgique en pleine révolution industrielle.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 28868,
@@ -111,7 +115,8 @@
               "format": "DCP",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 7778
         }
       ]
     },
@@ -1608,7 +1613,9 @@
           "realisateurs": "Susan Seidelman",
           "annee": 1984,
           "duree": 104,
-          "status": 0,
+          "generique": "Rosanna Arquette, Anna Thomson, Madonna",
+          "miniTexte": "Une bourgeoise paumée, une petite annonce et un blouson stylé : point de départ d'une série de quiproquos rocambolesques, sur les traces de la fille la plus cool de New York. Pour son deuxième film, Susan Seidelman signe une comédie romantique dans l'esprit post-punk des années 80. Rebelle et glamour, un fleuron de la pop culture, incarné par le magnétisme de Madonna et la sensualité discrète de Rosanna, irrésistible.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29403,
@@ -1616,7 +1623,8 @@
               "format": "35 mm",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 28233
         }
       ]
     },
@@ -1643,7 +1651,9 @@
           "realisateurs": "Susan Seidelman",
           "annee": 1980,
           "duree": 89,
-          "status": 0,
+          "generique": "Richard Hell, Susan Berman",
+          "miniTexte": "Dès son premier long métrage, sélectionné à Cannes, Seidelman redéfinit l'image du personnage féminin, indocile et déterminée, qu'elle établit dans le New York mal famé des années 80. Comme une grande sœur de Susan dans le film suivant, l'égocentrique Wren, lunettes noires et bas résilles, cherche sa place dans les milieux underground de la ville, entre un musicien cynique et un gentil provincial. Une œuvre âpre, rugueuse, frénétique, à l'image de la BO signée The Feelies.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29278,
@@ -1651,7 +1661,8 @@
               "format": "DCP",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 181942
         }
       ]
     },
@@ -1674,13 +1685,16 @@
         {
           "ordre": 1,
           "idFilm": 36706,
-          "titre": "Diable",
+          "titre": "She-Devil, la diable",
           "art": "La",
           "titreVo": "She-Devil",
           "realisateurs": "Susan Seidelman",
           "annee": 1989,
           "duree": 104,
-          "status": 0,
+          "generique": "Meryl Streep, Roseanne Barr, Ed Begley Jr.",
+          "adaptation": "D'après le roman _The Life and Loves of a She-Devil_ de Fay Weldon.",
+          "miniTexte": "Meryl Streep, romancière à succès rose poudré, et Roseanne Barr, incarnation de la ménagère américaine des années 90, dans la vengeance d'une femme au foyer, trompée par son mari pour une plus belle qu'elle. Boudé à sa sortie, _She-Devil_ révèle son versant féministe au regard des années 2020 et de la _Barbie_ de Greta Gerwig. En avance sur son temps, une charge drôle et féroce contre les diktats de la perfection féminine.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29220,
@@ -1689,7 +1703,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 59073
         }
       ]
     },
@@ -1717,7 +1732,9 @@
           "realisateurs": "Susan Seidelman",
           "annee": 1987,
           "duree": 98,
-          "status": 0,
+          "generique": "John Malkovich, Ann Magnuson, Glenne Headly",
+          "miniTexte": "Une experte en communication, chargée d'humaniser un androïde, finit par tomber amoureuse du robot, plus sensible que son créateur misanthrope. Fidèle à ses héroïnes en quête d'émancipation, Seidelman transforme une _omcom high-tech en une satire décalée qui résonne comme une réflexion visionnaire sur l'amour à l'heure de l'intelligence artificielle et des luttes contre le patriarcat.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29218,
@@ -1727,7 +1744,8 @@
               "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 48188
         }
       ]
     },
@@ -2760,7 +2778,8 @@
           "ordre": 1,
           "idFilm": 155144,
           "titre": "Who Is the Guilty?",
-          "titreVo": "Vin aris damnashave ?",
+          "titreVo": "Vin aris damnashave?",
+          "titreNx": "ვინ არის დამნაშავე?",
           "realisateurs": "Alexandre Tsutsunava",
           "annee": 1925,
           "duree": 105,

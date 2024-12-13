@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-12T16:18:03.073Z",
+  "updatedAt": "2024-12-13T09:27:21.870Z",
   "data": [
     {
       "idSeance": 185394,
@@ -1173,7 +1173,8 @@
           ],
           "idFilmBoxoffice": 2021
         }
-      ]
+      ],
+      "mention": "Séance présentée par Jean-François Rauger"
     },
     {
       "idSeance": 186599,
@@ -1213,7 +1214,8 @@
           ],
           "idFilmBoxoffice": 5439
         }
-      ]
+      ],
+      "mention": "Séance présentée par Jean-François Rauger"
     },
     {
       "idSeance": 186184,
@@ -5530,7 +5532,6 @@
               "idCopie": 28993,
               "duree": 76,
               "format": "DCP",
-              "version": "VO",
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
@@ -5571,8 +5572,7 @@
               "idCopie": 28992,
               "duree": 102,
               "format": "DCP",
-              "version": "VO",
-              "langCopie": "GER"
+              "intertitres": "INT. ALL."
             }
           ],
           "idFilmBoxoffice": 129981
@@ -5612,8 +5612,7 @@
               "idCopie": 28995,
               "duree": 97,
               "format": "DCP",
-              "version": "VO",
-              "langCopie": "GER"
+              "intertitres": "INT. ALL."
             }
           ]
         }
@@ -7366,7 +7365,9 @@
             {
               "idCopie": 29422,
               "duree": 90,
+              "format": "16 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ],
@@ -8306,8 +8307,7 @@
               "idCopie": 29435,
               "duree": 50,
               "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "intertitres": "INT. FR."
             }
           ],
           "idFilmBoxoffice": 173893
@@ -15578,8 +15578,8 @@
             {
               "idCopie": 29059,
               "duree": 51,
-              "format": "35 mm",
-              "intertitres": "Autres",
+              "format": "DCP",
+              "intertitres": "INT. ALL.",
               "stDemande": true
             }
           ],
