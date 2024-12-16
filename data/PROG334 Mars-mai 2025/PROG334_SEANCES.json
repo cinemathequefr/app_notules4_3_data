@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-16T09:48:52.857Z",
+  "updatedAt": "2024-12-16T14:04:43.092Z",
   "data": [
     {
       "idSeance": 185394,
@@ -3373,7 +3373,7 @@
       ]
     },
     {
-      "idSeance": 188203,
+      "idSeance": 188327,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -3385,7 +3385,7 @@
       ],
       "idEvenement": 31973,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-23T20:00:00",
+      "dateHeure": "2025-05-16T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3767,7 +3767,7 @@
       ]
     },
     {
-      "idSeance": 187395,
+      "idSeance": 187207,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -3779,7 +3779,7 @@
       ],
       "idEvenement": 31980,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-23T18:00:00",
+      "dateHeure": "2025-05-16T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -11942,7 +11942,8 @@
           "realisateurs": "André Zwobada",
           "annee": 1941,
           "duree": 91,
-          "status": 1,
+          "generique": "Madeleine Sologne, Julien Carette, Robert Arnoux",
+          "status": 2,
           "copies": [
             {
               "idCopie": 18380,
@@ -11979,7 +11980,8 @@
           "realisateurs": "Segundo de Chomón",
           "annee": 1908,
           "duree": 4,
-          "status": 1,
+          "generique": "Julienne Mathieu",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29104,
@@ -12033,7 +12035,8 @@
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
           "duree": 81,
-          "status": 1,
+          "generique": "Romuald Joubé, Paul Guidé",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29351,
@@ -12050,7 +12053,8 @@
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
           "duree": 42,
-          "status": 0,
+          "generique": "Romuald Joubé",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29352,
@@ -12086,7 +12090,8 @@
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
           "duree": 38,
-          "status": 0,
+          "generique": "Romuald Joubé",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29353,
@@ -12103,7 +12108,8 @@
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
           "duree": 46,
-          "status": 0,
+          "generique": "Romuald Joubé",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29354,
@@ -12139,7 +12145,8 @@
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
           "duree": 48,
-          "status": 0,
+          "generique": "Romuald Joubé",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29356,
@@ -12156,7 +12163,8 @@
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
           "duree": 50,
-          "status": 0,
+          "generique": "Romuald Joubé",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29357,
@@ -12192,7 +12200,8 @@
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
           "duree": 44,
-          "status": 0,
+          "generique": "Romuald Joubé",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29358,
@@ -12209,7 +12218,8 @@
           "realisateurs": "Henri Fescourt",
           "annee": 1923,
           "duree": 55,
-          "status": 0,
+          "generique": "Romuald Joubé",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29359,
@@ -14028,7 +14038,7 @@
         {
           "ordre": 3,
           "idFilm": 155100,
-          "titre": "Hollywood – Episode 7: A Hollywood ending",
+          "titre": "Hollywood, épisode 7 : A Hollywood Ending",
           "realisateurs": "Jessica Yu",
           "annee": 2020,
           "duree": 51,
@@ -15031,7 +15041,7 @@
           "realisateurs": "Antonin Peretjatko",
           "annee": 2024,
           "duree": 62,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29307,
@@ -15142,11 +15152,11 @@
         {
           "ordre": 1,
           "idFilm": 155116,
-          "titre": "Festa major",
+          "titre": "Festa Major",
           "realisateurs": "Jean-Baptiste Alazard",
           "annee": 2024,
           "duree": 98,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29311,
@@ -15878,7 +15888,7 @@
           "realisateurs": "Gillo Pontecorvo",
           "annee": 1965,
           "duree": 121,
-          "generique": "Brahim Hadjadj, Jean Martin, Yacef Saadi",
+          "generique": "Jean Martin, Brahim Hadjadj, Yacef Saadi",
           "synopsis": "La guerre de libération nationale algérienne à travers le parcours d'Ali la Pointe, ancien délinquant passé à l'activisme au service du FLN. Le contrôle de la casbah d'Alger est l'objet d'une lutte sanglante entre l'armée française et les militants nationaliste algériens.",
           "commentaire": "Depuis sa réalisation, _La Bataille d'Alger_ a été souvent utilisé comme un film d'instruction et d'initiation à la guérilla ou la contre-guérilla urbaine.",
           "status": 2,
