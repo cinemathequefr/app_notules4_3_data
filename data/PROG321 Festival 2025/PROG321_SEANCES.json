@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-13T11:07:41.788Z",
+  "updatedAt": "2024-12-16T09:48:56.895Z",
   "data": [
     {
       "idSeance": 188170,
@@ -28,7 +28,7 @@
           "duree": 94,
           "generique": "Julien Schoenaerts, Gisèle Peeters",
           "miniTexte": "Dans la ville portuaire d'Anvers, l'errance d'un homme accablé de remords, après avoir assassiné sa femme adultère. En quête de rédemption, il trouve du réconfort auprès d'une orpheline et de deux femmes désabusées. Première grande œuvre de fiction tournée en Belgique, un drame urbain en noir et blanc, d'une force expressive singulière, qui rompt avec les codes du cinéma flamand alors en vigueur.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28873,
@@ -39,6 +39,69 @@
             }
           ],
           "idFilmBoxoffice": 298924
+        }
+      ]
+    },
+    {
+      "idSeance": 188321,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 956,
+          "idCategorie": 3653,
+          "titreCycle": "Une certaine histoire du cinéma flamand",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31790,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-07T14:00:00",
+      "idSalle": "LE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 78929,
+          "titre": "Harpya",
+          "realisateurs": "Raoul Servais",
+          "annee": 1979,
+          "duree": 9,
+          "generique": "Will Spoor, Fran Waller Zeper, Sjoert Schwibethus",
+          "miniTexte": "Raoul Servais développe sa propre technique (bien avant le numérique) pour combiner animation et prises de vues réelles, au profit d'un conte fantastique, devenu culte. L'histoire d'un homme qui sauve une harpie, créature mythologique, mi-femme mi-oiseau, laquelle se révèle être menaçante. Palme d'or du court métrage 1979.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28869,
+              "duree": 9,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 34588
+        },
+        {
+          "ordre": 2,
+          "idFilm": 45795,
+          "titre": "Homme au crâne rasé",
+          "art": "L'",
+          "titreVo": "Man die zijn haar kort liet knippen",
+          "artVo": "De",
+          "realisateurs": "André Delvaux",
+          "annee": 1965,
+          "duree": 98,
+          "generique": "Senne Rouffaer, Beata Tyszkiewicz, Hector Camerlynck",
+          "adaptation": "D'après le roman _L'Homme au crâne rasé_ de Johan Daisne.",
+          "miniTexte": "Un enseignant, tombé follement amoureux d'une de ses élèves, sombre peu à peu dans la folie. Le premier long métrage d'André Delvaux, et rien moins que le film fondateur du cinéma belge moderne. Une œuvre d'une grande modernité – adaptée d'un roman d'une figure européenne du réalisme magique, Johan Daisne –, ou la lente contamination du quotidien par le fantasme, puis le cauchemar, manière de _Shining_ ascétique.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28870,
+              "duree": 98,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "DUT",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 2192
         }
       ]
     },
@@ -55,8 +118,8 @@
       ],
       "idEvenement": 31791,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T20:30:00",
-      "idSalle": "JE",
+      "dateHeure": "2025-03-06T21:00:00",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -68,7 +131,7 @@
           "generique": "Mathieu Carrière, Susan Hampshire, Orson Welles, Michel Bouquet, Jean-Pierre Cassel",
           "adaptation": "D'après le roman _Malpertuis_ de Jean Ray.",
           "miniTexte": "D'après le roman de Jean Ray, l'étrange réunion de famille au chevet de l'oncle Cassave (Orson Welles), propriétaire excentrique d'un mystérieux manoir. Baroque, fantastique et cauchemardesque, la demeure cache de lugubres secrets que dévoile peu à peu le héros, marin à la beauté diaphane (Mathieu Carrière). Une intrigue dédaléenne, au casting incroyable, qui convoque les dieux de la mythologie grecque, mêlés à une terrifiante affaire d'héritage.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28871,
@@ -95,7 +158,7 @@
       ],
       "idEvenement": 31792,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-09T18:30:00",
+      "dateHeure": "2025-03-05T17:00:00",
       "idSalle": "LE",
       "items": [
         {
@@ -106,8 +169,9 @@
           "annee": 1992,
           "duree": 138,
           "generique": "Jan Decleir, Gérard Desarthe, Antje De Boeck",
+          "adaptation": "D'après le roman _Pieter Daens, ou comment au dix-neuvième siècle les travailleurs d'Alost se sont battus contre la pauvreté et l'injustice_ de Louis Paul Boon.",
           "miniTexte": "Inspiré de la vie de l'abbé belge Adolf Daens qui œuvra pour améliorer les conditions de travail des ouvriers de la ville d'Alost, à la fin du XIX<sup>e</sup> siècle. Nommé pour l'Oscar du meilleur film en langue étrangère, _Daens_ met en lumière la lutte des classes, le travail des enfants et la misère, mais aussi l'influence de l'Église et l'hégémonie du Parti catholique dans une Belgique en pleine révolution industrielle.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28868,
@@ -117,6 +181,105 @@
             }
           ],
           "idFilmBoxoffice": 7778
+        }
+      ]
+    },
+    {
+      "idSeance": 188322,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 956,
+          "idCategorie": 3653,
+          "titreCycle": "Une certaine histoire du cinéma flamand",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31793,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T12:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 114225,
+          "titre": "Une tragédie grecque",
+          "titreVo": "Een griekse tragedie",
+          "realisateurs": "Nicole Van Goethem",
+          "annee": 1985,
+          "duree": 7,
+          "generique": "Willem Thijssen, Chris Verbiest, Miguel Rejas",
+          "miniTexte": "Trois caryatides s'efforcent de soutenir les vestiges d'un temple grec. Petit bijou d'humour en cellulo, le premier film de l'artiste anversoise remporte de nombreux prix dont l'Oscar du meilleur court d'animation.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28874,
+              "duree": 7,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 197537
+        },
+        {
+          "ordre": 2,
+          "idFilm": 108229,
+          "titre": "Meisje",
+          "realisateurs": "Dorothée Van den Berghe",
+          "annee": 2002,
+          "duree": 94,
+          "generique": "Els Dottermans, Frieda Pittoors",
+          "miniTexte": "À travers le parcours de Muriel, jeune provinciale qui s'installe à Bruxelles, la cinéaste flamande entrecroise trois portraits de femmes à des périodes importantes de leur vie. Questionnements existentiels, tensions familiales, rapport au corps et à l'intimité, _Meisje_ parle du passage à la vie d'adulte et du sentiment d'abandon, des relations mère-fille et du désir de maternité, avec la plus grande acuité.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28872,
+              "duree": 94,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "DUT",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 47022
+        }
+      ]
+    },
+    {
+      "idSeance": 188320,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 956,
+          "idCategorie": 3653,
+          "titreCycle": "Une certaine histoire du cinéma flamand",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31795,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-07T21:30:00",
+      "idSalle": "LE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 91967,
+          "titre": "Any Way the Wind Blows",
+          "realisateurs": "Tom Barman",
+          "annee": 2003,
+          "duree": 122,
+          "generique": "Frank Vercruyssen, Diane de Belder, Eric Kloeck",
+          "miniTexte": "Huit personnages déphasés tentent de survivre à leur malaise existentiel et social. Intrigue fragmentée, bande-son éclectique, atmosphère flottante et insaisissable. Le leader du groupe dEUS orchestre un film choral, une chorégraphie tentaculaire, qui se déploie tout au long d'un vendredi d'été à Anvers, désinvolte et groovy.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28867,
+              "duree": 122,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 57003
         }
       ]
     },
@@ -310,7 +473,7 @@
       ],
       "idEvenement": 31805,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T12:00:00",
+      "dateHeure": "2025-03-08T14:00:00",
       "idSalle": "LE",
       "items": [
         {
@@ -388,7 +551,7 @@
       ],
       "idEvenement": 32227,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-09T19:30:00",
+      "dateHeure": "2025-03-09T19:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -701,6 +864,7 @@
       "typeEvenement": 13,
       "dateHeure": "2025-03-05T20:00:00",
       "idSalle": "HL",
+      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -743,7 +907,69 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 188319,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 982,
+          "idCategorie": 3689,
+          "titreCycle": "John McTiernan",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32288,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T20:00:00",
+      "idSalle": "LE",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33663,
+          "titre": "Last Action Hero",
+          "realisateurs": "John McTiernan",
+          "annee": 1992,
+          "duree": 131,
+          "generique": "Arnold Schwarzenegger, F. Murray Abraham, Art Carney",
+          "ageMinimal": 10,
+          "synopsis": "Le jeune Danny Madigan est un grand fan d'Arnold Schwarzenegger et de sa série des _Jack Slater_. Un jour, un projectionniste lui offre un ticket magique qui le transporte dans l'univers de la fiction.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 4939,
+              "duree": 131,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 4940,
+              "duree": 131,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 9919,
+              "duree": 131,
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 29282,
+              "duree": 131,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
     },
     {
       "idSeance": 185230,
@@ -947,7 +1173,7 @@
       ],
       "idEvenement": 32309,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T18:00:00",
+      "dateHeure": "2025-03-05T14:30:00",
       "idSalle": "JE",
       "items": [
         {
@@ -983,7 +1209,7 @@
       ],
       "idEvenement": 32310,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T14:30:00",
+      "dateHeure": "2025-03-08T14:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -1145,7 +1371,7 @@
       ],
       "idEvenement": 32314,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T14:30:00",
+      "dateHeure": "2025-03-07T14:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1218,7 +1444,7 @@
       ],
       "idEvenement": 32316,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-07T14:30:00",
+      "dateHeure": "2025-03-06T14:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1375,7 +1601,7 @@
       ],
       "idEvenement": 32326,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T16:30:00",
+      "dateHeure": "2025-03-08T16:15:00",
       "idSalle": "JE",
       "items": [
         {
@@ -1459,7 +1685,7 @@
       ],
       "idEvenement": 32328,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T20:00:00",
+      "dateHeure": "2025-03-06T14:00:00",
       "idSalle": "LE",
       "items": [
         {
@@ -1499,7 +1725,7 @@
       ],
       "idEvenement": 32366,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T18:00:00",
+      "dateHeure": "2025-03-06T19:00:00",
       "idSalle": "LE",
       "items": [
         {
@@ -1680,7 +1906,7 @@
       ],
       "idEvenement": 32387,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-07T18:00:00",
+      "dateHeure": "2025-03-07T19:00:00",
       "idSalle": "LE",
       "items": [
         {
@@ -1722,7 +1948,7 @@
       ],
       "idEvenement": 32388,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-07T15:00:00",
+      "dateHeure": "2025-03-07T16:30:00",
       "idSalle": "LE",
       "items": [
         {
@@ -1999,7 +2225,7 @@
       ],
       "idEvenement": 32432,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-07T20:00:00",
+      "dateHeure": "2025-03-07T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2063,6 +2289,161 @@
       ]
     },
     {
+      "idSeance": 188314,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 985,
+          "idCategorie": 3724,
+          "titreCycle": "Raretés des collections",
+          "titreSousCycle": "Films muets italiens"
+        }
+      ],
+      "idEvenement": 32449,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T12:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155104,
+          "titre": "Amalfi",
+          "realisateurs": "Inconnu Inconnu,",
+          "annee": 1924,
+          "duree": 3,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29255,
+              "duree": 3,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 155094,
+          "titre": "Bergamo",
+          "realisateurs": "Anonyme",
+          "annee": 1911,
+          "duree": 3,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29248,
+              "duree": 3,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 155103,
+          "titre": "Cœur de bonne",
+          "titreVo": "Silenzio del cuore",
+          "artVo": "Il",
+          "realisateurs": "Gian Orlando Vassalo",
+          "annee": 1914,
+          "duree": 13,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29254,
+              "duree": 13,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 155098,
+          "titre": "Fortuna Ciabattino",
+          "realisateurs": "Inconnu Inconnu,",
+          "annee": 1908,
+          "duree": 6,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29251,
+              "duree": 6,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 155095,
+          "titre": "Lys noir",
+          "art": "Le",
+          "titreVo": "Giglio nero",
+          "artVo": "Il",
+          "realisateurs": "Anonyme",
+          "annee": 1913,
+          "duree": 22,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29249,
+              "duree": 22,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 6,
+          "idFilm": 155101,
+          "titre": "Légende de Pierrette),",
+          "art": "La",
+          "titreVo": "Leggenda di Pierrette",
+          "artVo": "La",
+          "realisateurs": "Felice Metellio",
+          "annee": 1916,
+          "duree": 15,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29252,
+              "duree": 15,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 7,
+          "idFilm": 155096,
+          "titre": "Schneider et les lions",
+          "titreVo": "Schneider e i suoi leoni",
+          "realisateurs": "Giovanni Vitrotti",
+          "annee": 1910,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29250,
+              "duree": 0,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 8,
+          "idFilm": 155102,
+          "titre": "Sire di Vincigliata",
+          "art": "Il",
+          "realisateurs": "Alfredo Robert",
+          "annee": 1913,
+          "duree": 14,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29253,
+              "duree": 14,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 185231,
       "idProg": 321,
       "idCycleCategories": [
@@ -2118,7 +2499,7 @@
       ],
       "idEvenement": 32519,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T19:30:00",
+      "dateHeure": "2025-03-06T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2156,7 +2537,7 @@
       ],
       "idEvenement": 32520,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-07T20:30:00",
+      "dateHeure": "2025-03-07T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2355,7 +2736,7 @@
       ],
       "idEvenement": 32533,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T17:00:00",
+      "dateHeure": "2025-03-08T16:45:00",
       "idSalle": "LE",
       "items": [
         {
@@ -2512,7 +2893,7 @@
       ],
       "idEvenement": 32539,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-09T16:00:00",
+      "dateHeure": "2025-03-09T15:45:00",
       "idSalle": "LE",
       "items": [
         {
@@ -2585,7 +2966,7 @@
       ],
       "idEvenement": 32552,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T12:00:00",
+      "dateHeure": "2025-03-09T14:30:00",
       "idSalle": "JE",
       "items": [
         {
@@ -2622,8 +3003,8 @@
       ],
       "idEvenement": 32555,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T12:00:00",
-      "idSalle": "LE",
+      "dateHeure": "2025-03-05T17:00:00",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
@@ -2676,6 +3057,78 @@
               "format": "DCP",
               "version": "VO",
               "langCopie": "ENG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188315,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 985,
+          "idCategorie": 3704,
+          "titreCycle": "Raretés des collections",
+          "titreSousCycle": "Filmer la banlieue"
+        }
+      ],
+      "idEvenement": 32557,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T12:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49956,
+          "titre": "Aubervilliers",
+          "realisateurs": "Eli Lotar",
+          "annee": 1945,
+          "duree": 25,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29424,
+              "duree": 25,
+              "format": "35 mm",
+              "selected": true
+            },
+            {
+              "idCopie": 29438,
+              "duree": 25,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 155074,
+          "titre": "Autopolis",
+          "realisateurs": "Léon Poirier",
+          "annee": 1934,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29247,
+              "duree": 0,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 49391,
+          "titre": "Zone",
+          "art": "La",
+          "realisateurs": "Georges Lacombe",
+          "annee": 1929,
+          "duree": 30,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29245,
+              "duree": 30,
+              "format": "DCP"
             }
           ]
         }
@@ -2823,7 +3276,7 @@
           "annee": 1928,
           "duree": 80,
           "generique": "Kira Andronikashvili, Kokhta Karalashvili, Aleqsandre Imedashvili",
-          "miniTexte": "À travers l'histoire d'une jeune musulmane des montagnes, amoureuse d'un chrétien, _Elisso_ raconte l'expropriation illégale d'un village tchétchène par le régime tsariste en 1864. Tourné dans les villages du Caucase et sur les hauts plateaux de Géorgie, le film offre, entre autres paysages grandioses et personnages hauts en couleurs, l'une des plus belle scène de lezginka (danse des peuples caucasiens), saluée par Eisenstein.",
+          "miniTexte": "À travers l'histoire d'une jeune musulmane des montagnes, amoureuse d'un chrétien, _Elisso_ raconte l'expropriation illégale d'un village tchétchène par le régime tsariste en 1864. Tourné dans les villages du Caucase et sur les hauts plateaux de Géorgie, le film offre, entre autres paysages grandioses et personnages hauts en couleurs, l'une des plus belle scènes de lezginka (danse des peuples caucasiens), saluée par Eisenstein.",
           "status": 2,
           "copies": [
             {
@@ -2863,7 +3316,7 @@
           "annee": 1929,
           "duree": 61,
           "generique": "Aleqsandre Takaishvili, Bela Chernova, E. Ovanov",
-          "miniTexte": "Modèle d'excentricité du cinéma soviétique d'avant-garde, l'histoire est celle d'un employé licencié qui tente de récupérer son poste grâce à la recommandation d'une « grand-mère », un protecteur haut placé. Critique acerbe du système bureaucratique, le film est un déchaînement de techniques expérimentales (stop-motion, perspective, montage rapide), entre slapstick, constructivisme et futurisme. Interdit pendant près de 40 ans, il est depuis reconnu comme un chef-d'œuvre du cinéma muet géorgien.",
+          "miniTexte": "Modèle d'excentricité du cinéma soviétique d'avant-garde, l'histoire est celle d'un employé licencié qui tente de récupérer son poste grâce à la recommandation d'une « grand-mère », un protecteur haut placé. Critique acerbe du système bureaucratique, le film est un déchaînement de techniques expérimentales (stop motion, perspective, montage rapide), entre slapstick, constructivisme et futurisme. Interdit pendant près de 40 ans, il est depuis reconnu comme un chef-d'œuvre du cinéma muet géorgien.",
           "status": 2,
           "copies": [
             {
@@ -2931,8 +3384,8 @@
       ],
       "idEvenement": 32593,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-07T20:30:00",
-      "idSalle": "LE",
+      "dateHeure": "2025-03-05T19:30:00",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
@@ -3079,48 +3532,6 @@
       ]
     },
     {
-      "idSeance": 188224,
-      "idProg": 321,
-      "idCycleCategories": [
-        {
-          "idCycle": 982,
-          "idCategorie": 3749,
-          "titreCycle": "John McTiernan",
-          "titreSousCycle": "Carte blanche à John McTiernan"
-        }
-      ],
-      "idEvenement": 32644,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-05T12:00:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 34014,
-          "titre": "Dernier Rivage",
-          "art": "Le",
-          "titreVo": "On the Beach",
-          "realisateurs": "Stanley Kramer",
-          "annee": 1959,
-          "duree": 134,
-          "generique": "Gregory Peck, Anthony Perkins, Ava Gardner",
-          "adaptation": "D'après le roman _Le Dernier rivage_ de Nevil Shute.",
-          "miniTexte": "1964, une guerre atomique a anéanti une partie de l'humanité. En Australie, où un sous-marin vient d'accoster, les survivants tentent de trouver du réconfort, alors que le nuage radioactif progresse inexorablement vers eux. À quoi ressemblent les sentiments dans un monde que l'on sait condamné ? Dans l'un des premiers films à dénoncer la course au nucléaire, Kramer propose une vision intimiste de l'apocalypse, à travers les derniers mois d'une poignée d'êtres rongés par la peur, et finalement prêts à accepter leur sort.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28700,
-              "duree": 134,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 31437
-        }
-      ]
-    },
-    {
       "idSeance": 185189,
       "idProg": 321,
       "idCycleCategories": [
@@ -3159,6 +3570,77 @@
             }
           ],
           "idFilmBoxoffice": 31437
+        }
+      ]
+    },
+    {
+      "idSeance": 188318,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 985,
+          "idCategorie": 3693,
+          "titreCycle": "Raretés des collections",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32647,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-07T15:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 29498,
+          "titre": "D'une brousse à l'autre",
+          "realisateurs": "Jacques Kebadian",
+          "annee": 1997,
+          "duree": 104,
+          "synopsis": "« En mars 1996, lorsque les familles africaines « sans papiers » sont évacuées de l'église Saint Ambroise et regroupées au Gymnase Japy, Jacques Kebadian commence à filmer pour témoigner. Six mois durant, il suit ces exilés sur les lieux de leur lutte, et s'attache à l'un d'eux, le Malien Dodo Wagué, qu'il accompagne lors de son retour au pays. » _En présence de Jacques Kebadian_",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29440,
+              "duree": 104,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188316,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 985,
+          "idCategorie": 3693,
+          "titreCycle": "Raretés des collections",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32648,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T12:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41219,
+          "titre": "Nanouk l'esquimau",
+          "titreVo": "Nanook of the North",
+          "realisateurs": "Robert J. Flaherty",
+          "annee": 1922,
+          "duree": 51,
+          "synopsis": "Le quotidien d'une famille d'Inuits dans le Grand Nord canadien, filmé pour la première fois. Nanouk pêche et chasse pour se nourrir, il doit aussi se déplacer souvent et reconstruire son igloo.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29441,
+              "duree": 51,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },

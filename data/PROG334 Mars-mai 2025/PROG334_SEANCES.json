@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-13T11:07:38.917Z",
+  "updatedAt": "2024-12-16T09:48:52.857Z",
   "data": [
     {
       "idSeance": 185394,
@@ -83,7 +83,7 @@
           "duree": 100,
           "generique": "Tom Selleck, Cynthia Rhodes, Gene Simmons",
           "miniTexte": "Dans un futur proche où règne un trafic de puces électroniques, Tom Selleck, échappé de _Magnum_, traque sans relâche un _bad guy_ déséquilibré (Gene Simmons, bassiste de Kiss), créateur de machines flingueuses et d'arachnides mécaniques. Une chasse à l'homme en forme de délire robotique aux gadgets futuristes, à la fois drôles et terrifiants. _Planète hurlante_ entretient ce climat de défiance envers la technologie avec un _whodunit_ post-apocalyptique biberonné à _The Thing_ et _Terminator_, qui adapte Philip K. Dick sans fausse note et remet à l'honneur Peter Weller, délesté de son armure de RoboCop.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28799,
@@ -264,7 +264,7 @@
           "duree": 91,
           "generique": "Jan-Michael Vincent, George Peppard, Dominique Sanda",
           "adaptation": "D'après le roman _Damnation Alley_ de Roger Zelazny.",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29111,
@@ -302,8 +302,8 @@
           "annee": 1995,
           "duree": 107,
           "generique": "Peter Weller, Jennifer Rubin, Roy Dupuis",
-          "adaptation": "D'après la nouvelle _Second variety_ de Philip K. Dick.",
-          "status": 0,
+          "adaptation": "D'après la nouvelle _Nouveau Modèle_ de Philip K. Dick.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 27031,
@@ -4348,6 +4348,12 @@
               "duree": 72,
               "format": "16 mm",
               "version": "VO"
+            },
+            {
+              "idCopie": 29446,
+              "duree": 72,
+              "version": "VO",
+              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 945
@@ -4405,6 +4411,12 @@
               "duree": 72,
               "format": "16 mm",
               "version": "VO"
+            },
+            {
+              "idCopie": 29446,
+              "duree": 72,
+              "version": "VO",
+              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 945
@@ -5439,7 +5451,7 @@
           "duree": 82,
           "generique": "Marlene Dietrich, Clive Brook, Anna May Wong",
           "miniTexte": "Dans un train lancé à travers la Chine en pleine guerre civile, la sensuelle Shanghaï Lily joue de ses charmes pour sauver un ancien amant, otage du dangereux Chang. Devant la caméra de Sternberg, la muse Dietrich n'a jamais été aussi belle, sublimée par l'époustouflant noir et blanc de Lee Garmes (oscarisé pour sa photo), et Anna May Wong éblouit, dans son premier film parlant. Une mise en scène virtuose et raffinée, l'un des sommets des années 30, où la cruauté le dispute à la sensualité.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29039,
@@ -5487,7 +5499,7 @@
           "duree": 67,
           "generique": "Wesley Barry, Colleen Moore, Anna May Wong",
           "miniTexte": "À San Francisco, un jeune Irlandais survit en vendant des journaux. Gavroche débrouillard, il sauve la vie d'une femme condamnée par un trafiquant d'opium (dont l'épouse est interprétée par Anna May Wong). Conçue autour de l'enfant-star Wesley Barry, l'histoire oscille entre pathos et humour, mais n'échappe pas aux relents racistes, jusque dans la promotion du film qui évoque « une belle jeune fille chinoise de dix-huit étés dans une jolie tenue orientale ».",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28994,
@@ -5526,7 +5538,7 @@
           "generique": "Virginia Lee Corbin, Ray Hallor, Anna May Wong",
           "adaptation": "D'après la pièce _Driven from Home_ de Hal Reid.",
           "miniTexte": "L'avant-dernier film de James Young, prolifique réalisateur de mélos muets, voit une jeune fille chassée de chez elle par son père, qui désapprouve son idylle avec un homme pauvre. Anna May Wong joue un petit rôle dans la fumerie d'opium, dont le patron poursuit l'héroïne de ses assiduités.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28993,
@@ -5566,7 +5578,7 @@
           "duree": 102,
           "generique": "Anna May Wong, Heinrich George, Mary Kid",
           "miniTexte": "Menacée par des voyous, Song est sauvée par un lanceur de couteaux, dont elle devient la cible sur scène, tandis qu'il cherche à reconquérir sa fiancée, une danseuse charismatique. Entourée d'un casting exclusivement allemand (dont Heinrich George, le contremaître de _Metropolis_), Anna May Wong émouvante, dans un triangle amoureux désenchanté. Sur un scénario écrit spécialement pour elle par Karl Vollmöller (_L'Ange bleu_), le film marque sa première collaboration européenne et la propulse au rang de star.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28992,
@@ -5606,7 +5618,7 @@
           "duree": 97,
           "generique": "Anna May Wong, Tilla Garden, Fred Louis Lerch",
           "miniTexte": "Harcelée par un clown brutal et cupide, une danseuse trouve refuge chez un peintre dont elle tombe amoureuse. Fausses accusations, chantage, amours déçues sur fond de plans ingénieux, entre Paris et la Côte d'Azur. Le deuxième film allemand d'Anna May Wong, sublime en vamp innocente, et dont l'expressivité illumine chaque gros plan.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28995,
@@ -5645,7 +5657,7 @@
           "duree": 94,
           "generique": "Donal O'Brien, George Eastman, Daniel Greene",
           "synopsis": "Au Nouveau Mexique, le professeur Mosley poursuit sa lutte contre la pollution atmosphérique et veut empêcher de nouvelles constructions dans des quartiers saturés. Son adversaire, l'industriel Turner, n'hésite pas à employer un androïde tueur pour l'éliminer.",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 2243,
@@ -5685,7 +5697,7 @@
           "generique": "Michael Sopkiw, Valentine Monnier, George Eastman",
           "synopsis": "Après la troisième guerre thermonucléaire, dans New York transformé en camp de concentration, un aventurier est chargé de retrouver la dernière femme féconde encore en vie.",
           "miniTexte": "Enlevé et trépidant mélange d'horreur, de science-fiction et d'aventures, _2019, après la chute de New York_ est une fiction post-apocalyptique regorgeant de trouvailles diverses, absurdes et déjantées, où mutations fatales et ruines symbolisent le crépuscule du cinéma bis italien. Un melting-pot toujours d'actualité dans _Atomic Cyborg_, qui voit un homme-machine, adepte du kung-fu et sosie de Ken le Survivant, tenter de sauver une société en proie au chaos, à grands coups de bras de fer et de crânes défoncés à mains nues.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 12521,
@@ -5764,7 +5776,7 @@
           "generique": "Yul Brynner, Max von Sydow, Joanna Miles",
           "synopsis": "Dans le futur, en 2012, le monde a été dévasté. Quelques rares survivants se sont regroupés en bandes organisées à New York. Le chef de l'une d'entre elles fait appel à un mercenaire pour faire face aux attaques d'une autre bande.",
           "miniTexte": "Le succès du _Mad Max_ de George Miller a engendré la production d'un certain nombre d'imitations, souvent bon marché, des aventures du « guerrier de la route ». La preuve avec _New York ne répond plus_, où la mégapole est décimée par un cataclysme caniculaire, qui force les survivants à s'entretuer pour des vivres. Le temps d'un dernier tour de piste pour Yul Brynner, impeccablement taciturne en mercenaire à l'aube de ses adieux. _Stryker_ constitue, quant à lui, un exemple philippin de la relecture opportuniste et mercantile des films de Miller, avec la quête de l'eau comme enjeu crucial pour un aventurier solitaire et un groupe d'amazones.",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 13932,
@@ -5803,7 +5815,7 @@
           "generique": "Michel Serrault, Jacques Dutronc, Jean-Louis Trintignant",
           "adaptation": "D'après le roman _Malevil_ de Robert Merle.",
           "synopsis": "Réunis dans une cave, un groupe de villageois survit à une explosion nucléaire.",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 2693,
@@ -8301,7 +8313,7 @@
           "generique": "Anna May Wong, Kenneth Harlan, Beatrice Bentley",
           "synopsis": "Une jeune chinoise, Fleur de lotus, sauve Allan Carver de la noyade. Elle en tombe immédiatement amoureuse. Mais Carver doit retourner aux États-Unis, et ne peut se résoudre à emmener la jeune femme avec lui.",
           "miniTexte": "Inspiré de l'opéra de Puccini, _Madame Butterfly_ – transposé en Chine –, _Fleur de Lotus_, avec ses costumes et ses paysages d'une rare richesse visuelle, est la première production hollywoodienne à utiliser le Technicolor bichrome. Toute de grâce et de fragilité, Anna May Wong, dix-sept ans à peine, porte le film sur ses épaules, et est repérée par Douglas Fairbanks qui la fera engager sur _Le Voleur de Bagdad_ l'année suivante.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29435,
@@ -8341,7 +8353,7 @@
           "generique": "Lon Chaney, Louise Dresser, Renée Adorée",
           "adaptation": "D'après la pièce _Monsieur Wu_ de Maurice Vernon et Harold Owen.",
           "miniTexte": "Un patriarche chinois ne supporte pas que sa fille s'entiche d'un Anglais. Maquillage minutieux mais caricature qui frise le grotesque : Lon Chaney laisse libre court à sa passion pour le déguisement et interprète même deux rôles différents. Dans des décors splendides, Anna May Wong, qui incarne la servante de l'héroïne, éclipse celle-ci (jouée par une actrice blanche) par son charisme.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 2665,
@@ -8381,7 +8393,7 @@
           "duree": 108,
           "generique": "Gilda Gray, Anna May Wong, Jameson Thomas",
           "miniTexte": "Londres, quartier de Limehouse. La tragédie se noue en coulisses, à travers la relation triangulaire entre un directeur de night-club, sa maîtresse, et une modeste employée de cuisine. Dernier film muet d'Anna May Wong, où éclatent sa photogénie et sa sensualité, et qui égrène les prises de vue audacieuses, plans inversés, et caméra subjective, comme libérée. Tout entier porté par la star qui éclipse sa partenaire, comme un prolongement de leurs rôles, _Piccadilly_ égratigne allègrement le racisme ordinaire.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 14023,
@@ -8421,7 +8433,7 @@
           "annee": 1939,
           "generique": "Anna May Wong, J. Carrol Naish, Anthony Quinn",
           "miniTexte": "Partie à la recherche de son père, un général chinois accusé d'escroquerie, une chanteuse de cabaret affronte un gangster, installé à la tête d'un camp de travail. Dans des décors exotiques, Anna May Wong donne la réplique à Anthony Quinn et à un J. Carrol Naish grimé en métis. Un remake éloigné du _Fou des îles_ (1933), et le dernier film de la star sino-américaine pour la Paramount.",
-          "status": 1
+          "status": 2
         }
       ]
     },
@@ -8451,7 +8463,7 @@
           "annee": 1950,
           "generique": "Anna May Wong, Harold Huber, Mae Clarke",
           "miniTexte": "Seconde Guerre mondiale : une jeune Chinoise mène l'insurrection d'une bande de partisans pour protéger son pays de l'envahisseur japonais. Une série B maligne qui joue de la métaphore – chaque personnage représente un des pays belligérants –, et où Anna May Wong (qui de nouveau offre son cachet) flamboie dans un monologue final pour la défense des libertés.",
-          "status": 1
+          "status": 2
         }
       ]
     },
@@ -8481,7 +8493,7 @@
           "annee": 1939,
           "generique": "Akim Tamiroff, Anna May Wong, J. Carrol Naish",
           "miniTexte": "Une jeune Chinoise et son père, tous deux médecins, luttent contre un gangster qui se livre au racket dans leur quartier. Deux ans après _La Fille de Shanghai_, Anna May Wong retrouve ses partenaires Anthony Quinn et J. Carrol Naish, et poursuit son combat personnel, déterminée à donner à l'écran une image positive de la communauté asiatique.",
-          "status": 1
+          "status": 2
         }
       ]
     },
@@ -8510,7 +8522,7 @@
           "duree": 65,
           "generique": "Anna May Wong, Margaret Lindsay, Lola Lane",
           "miniTexte": "Après avoir prédit avec justesse la mort d'un homme, une astrologue assiste la police pour identifier le meurtrier. Accompagnée d'un singe capucin, Anna May Wong en diseuse de bonne aventure joue les Sherlock en jupons, dans une histoire policière abracadabrantesque. Une curiosité.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29182,
@@ -8550,7 +8562,7 @@
           "generique": "Akim Tamiroff, Anna May Wong, Gail Patrick",
           "adaptation": "D'après la pièce _On the Spot_ d'Edgar Wallace.",
           "miniTexte": "Figure influente auprès des notables locaux, un gangster mégalo séduit une mondaine pour s'élever socialement. Chantage, magouilles, trahisons : un mélo policier, d'après la pièce d'Edgar Wallace inspirée de la vie d'Al Capone. Somptueusement habillée par Edith Head, Anna May Wong reprend le rôle, déjà tenu sur les planches, de l'amie orientale, fidèle mais délaissée. Avec aussi Hedda Hopper, fameuse chroniqueuse du Tout-Hollywood.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29389,
@@ -8590,7 +8602,7 @@
           "annee": 1937,
           "generique": "Charles Bickford, Anna May Wong, Buster Crabbe",
           "miniTexte": "Une Sino-Américaine et un détective d'origine coréenne (Philip Ahn joue le premier agent asiatique du FBI au cinéma) s'associent pour démanteler un trafic de clandestins. _La Fille de Shanghai_ dénonce les stéréotypes racistes et bouscule l'ordre établi à Hollywood, c'est le film des premières fois : Anthony Quinn quasi débutant, Anna May Wong dans un rôle positif, mais surtout des personnages d'étrangers enfin tenus par des acteurs d'origine asiatique.",
-          "status": 1
+          "status": 2
         }
       ]
     },
@@ -8619,7 +8631,7 @@
           "annee": 1933,
           "generique": "Reginald Owen, Anna May Wong, June Clyde",
           "miniTexte": "Les membres d'une confrérie secrète sont éliminés les uns après les autres. L'occasion d'une enquête dans le Chinatown londonien pour Sherlock Holmes. Une adaptation libre et méconnue du premier roman dans lequel Conan Doyle donna vie à son célèbre détective.",
-          "status": 1,
+          "status": 2,
           "idFilmBoxoffice": 282786
         }
       ]
@@ -8653,7 +8665,7 @@
           "adaptation": "D'après la pièce _La Marchande de rêves_ de Daisy H. Andrews et John Colton.",
           "synopsis": "Une jeune femme tente de quitter un gang de trafiquants d'opium de Shanghai dont elle fait partie.",
           "miniTexte": "Shanghai. Une Américaine, complice d'un trafic d'opium, tombe amoureuse du policier infiltré chargé de la surveiller. L'avant-dernière collaboration entre Tod Browning et son actrice fétiche, Priscilla Dean, vaut pour son montage alterné, son final haletant, et surtout Anna May Wong, qui, malgré un rôle toujours proche du cliché, crève l'écran. Tandis que la liaison entre l'actrice et le cinéaste fait scandale : Browning est renvoyé de chez Universal.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 13191,
@@ -8692,7 +8704,7 @@
           "realisateurs": "Céline Ruivo",
           "annee": 2023,
           "duree": 60,
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 28999,
@@ -9349,6 +9361,12 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
+            },
+            {
               "idCopie": 6617,
               "duree": 95,
               "format": "35 mm",
@@ -9356,12 +9374,6 @@
               "langCopie": "POR",
               "sousTitres": "STF",
               "selected": true
-            },
-            {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
             },
             {
               "idCopie": 29040,
@@ -9407,6 +9419,12 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
+            },
+            {
               "idCopie": 6617,
               "duree": 95,
               "format": "35 mm",
@@ -9414,12 +9432,6 @@
               "langCopie": "POR",
               "sousTitres": "STF",
               "selected": true
-            },
-            {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
             },
             {
               "idCopie": 29040,
@@ -12240,9 +12252,10 @@
           "realisateurs": "Mikio Naruse",
           "annee": 1955,
           "generique": "Hideko Takamine, Masayuki Mori, Mariko Okada",
+          "adaptation": "D'après le roman _Nuages flottants_ de Fumiko Hayashi.",
           "synopsis": "Durant un voyage en Indochine pendant la Seconde Guerre mondiale, Yukiko fait la rencontre de Kengo, un homme marié. Celui-ci promet de divorcer à leur retour au Japon.",
           "miniTexte": "Yukiko dit à son éternel et vieillissant amant qui n'a jamais quitté sa femme pour elle : « Quand nous marchons ensemble, on a l'air d'un couple. » Dans les films de Mikio Naruse, quand un couple marche, il parle le plus souvent du couple et de la marche. Ils parlent de leur façon de marcher, de ce que c'est de marcher ensemble ou de comment les autres les perçoivent quand ils marchent à deux. Mais peut-on vraiment marcher ensemble ? — Patrick Chiha",
-          "status": 1,
+          "status": 2,
           "idFilmBoxoffice": 1930
         },
         {
@@ -12286,7 +12299,7 @@
           "realisateurs": "Manuela Serra",
           "annee": 1985,
           "miniTexte": "Dans un village du nord du Portugal, trois familles, une journée de travail. Le mouvement des choses, une suite de gestes, des éclats de lumières, la mise en scène du temps. Tout le monde est pris dans ses tâches quotidiennes. Rattachés au monde et aux autres, ils vivent dans le présent. Seule Isabel regarde ailleurs, peut-être vers l'avenir. Que voit-elle ? — Patrick Chiha",
-          "status": 1
+          "status": 2
         },
         {
           "ordre": 2,
@@ -12374,7 +12387,7 @@
           "adaptation": "D'après la nouvelle _Une partie de campagne_ de Guy de Maupassant.",
           "synopsis": "Été 1860, Monsieur Dufour, accompagné de sa famille, décide de passer une journée à la campagne.\n\n---\n\nÉté 1860. Monsieur Dufour, un commerçant parisien, ainsi que son épouse, sa belle-mère, sa jeune fille et son commis et futur gendre, passent une journée à la campagne et déjeunent à l'auberge du père Poulain. Deuxcanotiers en goguette entreprennent de séduirela mère et la fille...",
           "miniTexte": "Une journée en famille à la campagne, au bord du Loing. La relation entre une courtisane et son timide tailleur à Hong Kong. Toutes ces robes qu'on touche mais qui nous séparent de l'être aimé. Puis soudain, la pluie. Enfin un contact. Bouleversant, déchirant. Les gouttes pénètrent les surfaces. Et l'on entrevoit pour un instant le bonheur. — Patrick Chiha",
-          "status": 1,
+          "status": 2,
           "idFilmBoxoffice": 1315
         },
         {
@@ -12384,10 +12397,11 @@
           "art": "La",
           "titreVo": "Hand",
           "artVo": "The",
-          "realisateurs": "Kar-Wai Wong",
+          "realisateurs": "Wong Kar-wai",
           "annee": 2006,
+          "generique": "Gong Li, Chang Chen, Tien Feng",
           "miniTexte": "Une journée en famille à la campagne, au bord du Loing. La relation entre une courtisane et son timide tailleur à Hong Kong. Toutes ces robes qu'on touche mais qui nous séparent de l'être aimé. Puis soudain, la pluie. Enfin un contact. Bouleversant, déchirant. Les gouttes pénètrent les surfaces. Et l'on entrevoit pour un instant le bonheur. — Patrick Chiha",
-          "status": 1
+          "status": 2
         },
         {
           "ordre": 3,
@@ -12438,7 +12452,7 @@
       ],
       "idEvenement": 32343,
       "typeEvenement": 14,
-      "dateHeure": "2025-05-16T18:00:00",
+      "dateHeure": "2025-05-23T18:00:00",
       "typeConference": "Leçon de cinéma",
       "idSalle": "HL",
       "duree": 90,
@@ -12475,7 +12489,7 @@
           "realisateurs": "Eugénie Grandval",
           "annee": 2024,
           "duree": 70,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29170,
@@ -13880,9 +13894,9 @@
           "annee": 1924,
           "duree": 105,
           "generique": "Betty Bronson, Ernest Torrence, Anna May Wong",
-          "adaptation": "D'après la pièce _Peter Pan_ de J. M. Barrie",
+          "adaptation": "D'après la pièce _Peter Pan_ de J. M. Barrie.",
           "miniTexte": "La première adaptation de la pièce de J. M. Barrie, fable pleine de charme sur le refus de grandir. Anna May Wong interprète Lily la Tigresse, fille du chef de la tribu indienne de Neverland. Idée de génie, Peter Pan est joué par une fille (lumineuse Betty Bronson), qui embrasse une autre fille, (innocente ?) transgression, osée, en 1924.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29437,
@@ -13952,7 +13966,7 @@
           "duree": 67,
           "generique": "Anna May Wong, Noel Madison, Leslie Denison",
           "miniTexte": "1942. Une institutrice chinoise tente de démasquer le traître infiltré au sein d'un groupe de résistants, qui protège des Japonais une route stratégique entre la Chine et la Birmanie. Un film de guerre aux accents exotiques, course contre la montre tendue, dans laquelle Lewis filme champs de bataille et assauts aériens avec efficacité. Dans le cadre de l'effort de guerre, Anna May Wong fit don de son salaire pour United China Relief.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29193,
@@ -13985,7 +13999,7 @@
           "realisateurs": "Elaine Mae Woo",
           "annee": 2007,
           "duree": 49,
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29239,
@@ -14018,6 +14032,7 @@
           "realisateurs": "Jessica Yu",
           "annee": 2020,
           "duree": 51,
+          "generique": "David Corenswet, Darren Criss, Laura Harrier, Michelle Krusiec",
           "status": 1,
           "copies": [
             {
@@ -14057,7 +14072,7 @@
           "annee": 1934,
           "generique": "George Raft, Anna May Wong, Jean Parker",
           "miniTexte": "C'est la première fois que l'on entend le standard de jazz _Limehouse Blues_, symbole des Années 30 : dans les bas-fonds londoniens, à Limehouse, un night-club abrite des opérations de contrebande. Son propriétaire, un immigré chinois, s'éprend d'une jeune pickpocket blanche. George Raft joue un Eurasien déchiré entre deux cultures, Anna May Wong est digne et splendide, mais le drame couve. Car en 1934, à Hollywood, toute relation mixte est encore proscrite à l'écran.",
-          "status": 1
+          "status": 2
         }
       ]
     },
@@ -14554,6 +14569,7 @@
           "realisateurs": "Pete Docter, David Silverman, Lee Unkrich",
           "annee": 2001,
           "duree": 92,
+          "generique": "Jacques Frantz, Éric Métayer, Lola Krellenstein",
           "ageMinimal": 4,
           "synopsisJP": "À Monstropolis, où l'énergie est fournie par les cris d'enfants effrayés, deux monstres, Sulli et Bob, doivent raccompagner chez elle une petite fille égarée dans leur monde. Pour tordre le cou en riant aux peurs enfantines et apprendre à accepter les différences, une pépite signée Pixar, qui accumule prouesses techniques et répliques cultes.",
           "status": 2,
@@ -15093,7 +15109,7 @@
           "duree": 74,
           "generique": "Tavinho Teixeira, Everaldo Pontes",
           "synopsis": "Dans un avenir sombre, le duo inséparable Batman et Robin vit dans une caravane isolée. Ce sont des repentis punk-rock qui se rendent compte que la planète Terre est devenue trop petite pour leur perfection, leur génie et leur puissance, et décident de trouver leur place dans des galaxies lointaines.",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29416,
@@ -15657,7 +15673,7 @@
           "annee": 2024,
           "duree": 37,
           "generique": "Bastien Bouillon, Marc Barbé",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29310,
@@ -15674,7 +15690,7 @@
           "annee": 1986,
           "duree": 86,
           "generique": "Jean-Pierre André, Nadja Reski, Abdelkader",
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29409,
@@ -15715,7 +15731,8 @@
           "realisateurs": "Yannick Muller",
           "annee": 2024,
           "duree": 18,
-          "status": 0,
+          "generique": "Rosa-Victoire Boutterin, Eliott Margueron, Vincent Chalambert",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29308,
@@ -15732,8 +15749,9 @@
           "realisateurs": "Lasse Hallström",
           "annee": 1993,
           "duree": 118,
-          "generique": "Johnny Depp, Juliette Lewis",
-          "status": 0,
+          "generique": "Johnny Depp, Juliette Lewis, Leonardo DiCaprio",
+          "adaptation": "D'après le roman _What's eating Gilbert Grape_ de Peter Hedges.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29432,

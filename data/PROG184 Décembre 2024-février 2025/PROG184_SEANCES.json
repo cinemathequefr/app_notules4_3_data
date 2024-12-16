@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-13T09:27:49.513Z",
+  "updatedAt": "2024-12-16T09:49:01.289Z",
   "data": [
     {
       "idSeance": 185115,
@@ -2088,6 +2088,49 @@
         }
       ],
       "mention": "Séance présentée par Olena Honcharuk"
+    },
+    {
+      "idSeance": 188325,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 796,
+          "idCategorie": 3394,
+          "titreCycle": "Sergueï Paradjanov",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 30979,
+      "typeEvenement": 13,
+      "dateHeure": "2024-12-16T19:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 39828,
+          "titre": "Chevaux de feu",
+          "art": "Les",
+          "titreVo": "Teni zabytykh predkov",
+          "titreNx": "Тени забытых предков",
+          "realisateurs": "Sergueï Paradjanov",
+          "annee": 1965,
+          "duree": 97,
+          "generique": "Ivan Mikolaitchouk, Larissa Kadochnikova, Tatiana Bestaïeva",
+          "adaptation": "D'après l'œuvre _Les Ombres des ancêtres oubliés_ de Mykhaïlo Kotsioubynsky.",
+          "miniTexte": "Dans les Carpates orientales où vit le peuple houtsoul, l'histoire d'amour impossible entre Ivan et Marichka, originaires de deux familles rivales. Un _Roméo et Juliette_, riche en folklore et en symboles religieux, qui relie les thèmes de l'amour, de la mort et du deuil au règne végétal et aux croyances ancestrales. Souvenirs, rêves et visions s'entremêlent pour former un récit anticonformiste et novateur, transcendé par la caméra virevoltante de Paradjanov, qui puise son inspiration dans la palette des peintres ukrainiens. Ethnographiques, poétiques, métaphysiques, les douze chapitres des _Chevaux de feu_, d'une beauté vertigineuse, permettent au cinéaste d'accéder à la renommée internationale.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28174,
+              "duree": 97,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 802
+        }
+      ]
     },
     {
       "idSeance": 137206,
@@ -9474,7 +9517,7 @@
           "realisateurs": "Michael Cimino",
           "annee": 1979,
           "duree": 215,
-          "generique": "Kris Kristofferson, Christopher Walken, John Hurt, Isabelle Huppert",
+          "generique": "Kris Kristofferson, Christopher Walken, John Hurt, Isabelle Huppert, Jeff Bridges",
           "synopsis": "En 1890, dans le nouvel État du Wyoming, de gros propriétaires de bétail entrent en guerre contre des immigrants venus d'Europe centrale.",
           "miniTexte": "Sur la lancée du triomphe de _Voyage au bout de l'enfer_, Cimino entame son grand œuvre : ce qu'il rêve être le film définitif sur la conquête de l'Ouest, un western plus grand que tout, que ceux qui le précédent, que l'Histoire elle-même. Le tournage est épique, le bras de fer avec United Artist brutal, et le résultat démesuré. Les noces de l'intime et de l'immense, un film d'action et une oraison viscontienne, une chimère homérique qui laissera le studio et le cinéaste exsangues. Il faut enlever la triste étiquette de film maudit à _La Porte du paradis_, et le revoir dans toute sa splendeur, sur écran géant, dans son montage et ses couleurs d'origine.",
           "status": 2,
@@ -13651,9 +13694,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28686,
+              "idCopie": 29445,
               "duree": 13,
-              "format": "16 mm"
+              "format": "DCP",
+              "intertitres": "INT. ANG."
             }
           ],
           "idFilmBoxoffice": 9590
@@ -13744,13 +13788,13 @@
           "art": "The",
           "realisateurs": "Ted Parmelee",
           "annee": 1953,
-          "duree": 7,
+          "duree": 8,
           "adaptation": "D'après la nouvelle _Le Cœur révélateur_ d'Edgar Allan Poe.",
           "status": 2,
           "copies": [
             {
               "idCopie": 28683,
-              "duree": 7,
+              "duree": 8,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
@@ -16816,6 +16860,7 @@
           "realisateurs": "Joseph H. Lewis",
           "annee": 1954,
           "duree": 89,
+          "generique": "Cornel Wilde, Richard Conte, Brian Donlevy",
           "miniTexte": "Avec _Gun Crazy_, c'est l'un des deux monuments noirs de Joseph H. Lewis. L'histoire en est simple : le lieutenant Diamond a juré la perte du gangster Brown à la fois parce qu'il contrôle la ville et parce qu'il couche avec l'amour du policier, la pianiste Susan Lowell. Brown finira comme tous ses semblables, seul, au sol, et très mort. Fruit tardif, 1955, dans l'histoire du cinéma _hard-boiled_, _Association criminelle_ vaut à la fois pour la démonstration de force photographique de John Alton qui tord en maître l'ombre et la lumière, la folie d'un scénario où les scènes s'enchaînent comme des balles de cartouchière et la performance de Richard Conte en monstre gominé. Un monument. — François Angelier",
           "commentaire": "Sous ses airs de polar classique – un flic honnête cherche à passer les menottes à M. Brown, chef de gang impitoyable –, un film noir qui se distingue par la psychologie singulière de son _bad guy_, par ses coups de théâtre redoutables et une composition des images à couper le souffle. Véritables tableaux d'ombres et de lumières, photographiés par un maître du genre, John Alton.",
           "status": 2,
