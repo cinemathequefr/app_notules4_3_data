@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-16T09:48:56.895Z",
+  "updatedAt": "2024-12-17T08:55:24.721Z",
   "data": [
     {
       "idSeance": 188170,
@@ -473,7 +473,7 @@
       ],
       "idEvenement": 31805,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T14:00:00",
+      "dateHeure": "2025-03-09T20:30:00",
       "idSalle": "LE",
       "items": [
         {
@@ -767,7 +767,7 @@
       ],
       "idEvenement": 32232,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T19:00:00",
+      "dateHeure": "2025-03-08T16:45:00",
       "idSalle": "LE",
       "items": [
         {
@@ -2584,11 +2584,14 @@
           "ordre": 1,
           "idFilm": 38270,
           "titre": "Flocons d'or",
+          "art": "Les",
           "titreVo": "Goldflocken",
           "realisateurs": "Werner Schroeter",
           "annee": 1975,
           "duree": 143,
-          "status": 1,
+          "generique": "Magdalena Montezuma, Udo Kier, Bulle Ogier",
+          "miniTexte": "Dans _Les Flocons d'or_, Schroeter octroie à chaque histoire son propre style visuel et narratif pour une fresque sensuelle au réalisme poétique troublant. Construit comme un combat entre Eros et Thanatos, le film – qui restera son préféré – fait la part belle aux visages et aux corps lors d'un saisissant voyage en images. La dernière partie d'une œuvre en forme de trilogie sur la vie, l'amour et la mort.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 28881,
@@ -2625,7 +2628,8 @@
           "realisateurs": "Werner Schroeter",
           "annee": 1968,
           "duree": 5,
-          "status": 0,
+          "generique": "Ica Vilander",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29368,
@@ -2641,7 +2645,8 @@
           "realisateurs": "Werner Schroeter",
           "annee": 1968,
           "duree": 5,
-          "status": 0,
+          "generique": "Carla Aulaulu",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29369,
@@ -2659,7 +2664,8 @@
           "realisateurs": "Werner Schroeter",
           "annee": 1968,
           "duree": 2,
-          "status": 0,
+          "generique": "Magdalena Montezuma",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29370,
@@ -2676,7 +2682,8 @@
           "realisateurs": "Werner Schroeter",
           "annee": 1968,
           "duree": 37,
-          "status": 0,
+          "generique": "Rita Bauer, Knut Koch, Werner Schroeter",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29371,
@@ -2686,7 +2693,8 @@
               "langCopie": "GER",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmBoxoffice": 180329
         },
         {
           "ordre": 5,
@@ -2695,7 +2703,8 @@
           "realisateurs": "Werner Schroeter",
           "annee": 1968,
           "duree": 10,
-          "status": 0,
+          "generique": "Steven Adamczewski, Rita Bauer, Joachim Bauer",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29372,
@@ -2708,10 +2717,11 @@
         {
           "ordre": 6,
           "idFilm": 155135,
-          "titre": "Paula -« Je reviens »",
+          "titre": "Paula – « Je reviens »",
           "realisateurs": "Werner Schroeter",
           "annee": 1968,
-          "status": 0,
+          "generique": "Heidi Lorenzo, Rita Bauer, Suzanne Sheed",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29373,
@@ -2719,7 +2729,8 @@
               "format": "DCP",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 180330
         }
       ]
     },
@@ -2736,7 +2747,7 @@
       ],
       "idEvenement": 32533,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T16:45:00",
+      "dateHeure": "2025-03-08T14:30:00",
       "idSalle": "LE",
       "items": [
         {
@@ -2746,7 +2757,7 @@
           "realisateurs": "Werner Schroeter",
           "annee": 1967,
           "duree": 12,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29374,
@@ -2762,7 +2773,7 @@
           "realisateurs": "Werner Schroeter",
           "annee": 1968,
           "duree": 5,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29375,
@@ -2777,7 +2788,8 @@
           "realisateurs": "Werner Schroeter",
           "annee": 1968,
           "duree": 4,
-          "status": 0,
+          "generique": "Werner Schroeter, Daniel Schmid, Carla Aulaulu",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29376,
@@ -2793,7 +2805,8 @@
           "realisateurs": "Werner Schroeter",
           "annee": 1968,
           "duree": 5,
-          "status": 0,
+          "generique": "Carla Aulaulu, Rosa von Praunheim",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29380,
@@ -2809,7 +2822,7 @@
           "realisateurs": "Werner Schroeter",
           "annee": 1968,
           "duree": 3,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29378,
@@ -2847,7 +2860,7 @@
           "realisateurs": "Werner Schroeter",
           "annee": 1968,
           "duree": 32,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29379,
@@ -2866,7 +2879,7 @@
           "realisateurs": "Werner Schroeter",
           "annee": 1968,
           "duree": 11,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29377,
@@ -2903,7 +2916,8 @@
           "realisateurs": "Werner Schroeter",
           "annee": 1968,
           "duree": 22,
-          "status": 0,
+          "generique": "Heidi Lorenzo, Knut Koch",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29365,
@@ -2922,7 +2936,8 @@
           "realisateurs": "Werner Schroeter",
           "annee": 1969,
           "duree": 37,
-          "status": 0,
+          "generique": "Carla Aulaulu, Magdalena Montezuma, Rita Bauer",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29367,
@@ -2939,7 +2954,8 @@
           "realisateurs": "Werner Schroeter",
           "annee": 1969,
           "duree": 33,
-          "status": 0,
+          "generique": "Gisela Trowe, Magdalena Montezuma, Carla Aulaulu, Sigurd Salto",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29366,
@@ -3713,6 +3729,87 @@
               "duree": 100,
               "format": "DCP",
               "langCopie": "FRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 185232,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32655,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-08T20:45:00",
+      "idSalle": "LE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 113147,
+          "titre": "Narayana",
+          "realisateurs": "Léon Poirier",
+          "annee": 1920,
+          "duree": 67,
+          "generique": "Laurence Myrga, Edmond Van Daële, Marcelle Souty",
+          "adaptation": "D'après le roman _La Peau de chagrin_ d'Honoré de Balzac.",
+          "synopsis": "Un étudiant désœuvré se voit offrir une statuette orientale. Grâce à elle, Il pourra faire cinq vœux avant de mourir.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29434,
+              "duree": 67,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ],
+          "idFilmBoxoffice": 11571
+        }
+      ]
+    },
+    {
+      "idSeance": 188324,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32656,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-09T18:00:00",
+      "idSalle": "LE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43226,
+          "titre": "Fleuve de la mort",
+          "art": "Le",
+          "titreVo": "Río y la muerte",
+          "artVo": "El",
+          "realisateurs": "Luis Buñuel",
+          "annee": 1954,
+          "duree": 91,
+          "generique": "Columba Domínguez, Miguel Torruco, Joaquín Cordero",
+          "adaptation": "D'après le roman _Muro blanco sobre roca negra_ de Miguel Álvarez Acosta.",
+          "synopsis": "À Santa Viviana, les clans Anguiano et Menchaca se livrent une guerre sans répit.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29447,
+              "duree": 91,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
