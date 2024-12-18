@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-17T14:03:05.991Z",
+  "updatedAt": "2024-12-17T17:38:24.618Z",
   "data": [
     {
       "idSeance": 185394,
@@ -6710,20 +6710,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 26412,
-              "duree": 83,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 5373,
               "duree": 83,
               "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STF"
+              "sousTitres": "STF",
+              "selected": true
             },
             {
               "idCopie": 14777,
@@ -6775,20 +6767,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 26412,
-              "duree": 83,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 5373,
               "duree": 83,
               "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STF"
+              "sousTitres": "STF",
+              "selected": true
             },
             {
               "idCopie": 14777,
@@ -7153,15 +7137,7 @@
               "duree": 102,
               "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29080,
-              "duree": 88,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 13877
@@ -8706,7 +8682,7 @@
           "idFilm": 155039,
           "titre": "Cinégraphies, les femmes de la tempête",
           "realisateurs": "Céline Ruivo",
-          "annee": 2023,
+          "annee": 2024,
           "duree": 60,
           "status": 2,
           "copies": [
@@ -9365,12 +9341,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
-            },
-            {
               "idCopie": 6617,
               "duree": 95,
               "format": "35 mm",
@@ -9385,6 +9355,12 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 92
@@ -9423,12 +9399,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
-            },
-            {
               "idCopie": 6617,
               "duree": 95,
               "format": "35 mm",
@@ -9443,6 +9413,12 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 92
@@ -13327,13 +13303,17 @@
           "titreVo": "Mul-an-e-seo",
           "realisateurs": "Hong Sang-soo",
           "annee": 2023,
+          "duree": 61,
           "generique": "Shin Seok-ho, Ha Seong-guk",
           "miniTexte": "Sur l'île de Jeju, trois jeunes cinéastes se mettent en quête d'une histoire à raconter. Hong Sang-soo transforme le flou en personnage à part entière, érigé comme métaphore de l'incertitude et de la mémoire, pour faire naître un nouveau langage de cinéma. Une œuvre radicale, véritable déambulation onirique.",
           "status": 2,
           "copies": [
             {
               "idCopie": 29197,
-              "duree": 0
+              "duree": 61,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 312597

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-17T14:03:15.631Z",
+  "updatedAt": "2024-12-17T17:38:33.251Z",
   "data": [
     {
       "idSeance": 185115,
@@ -3474,8 +3474,7 @@
           ],
           "idFilmBoxoffice": 17555
         }
-      ],
-      "mention": "Séance présentée par Jean-François Rauger"
+      ]
     },
     {
       "idSeance": 137660,
@@ -11838,15 +11837,17 @@
           "titre": "Une affaire privée",
           "realisateurs": "Guillaume Nicloux",
           "annee": 2002,
-          "duree": 107,
+          "duree": 106,
           "generique": "Thierry Lhermitte, Marion Cotillard, Samuel Le Bihan, Aurore Clément",
           "miniTexte": "Quatre ans après son adaptation enlevée du _Poulpe_, Guillaume Nicloux revient au polar par sa face sombre : chargé d'enquêter sur la disparition d'une jeune femme, un détective privé dépressif plonge dans un Paris interlope, tout de non-dits et secrets glauques. Thierry Lhermitte à contre-emploi, dans le plus beau rôle de sa carrière, et une galerie de personnages formidables, filmés avec assurance par l'un des meilleurs représentants du film noir français contemporain.",
           "status": 2,
           "copies": [
             {
               "idCopie": 28605,
-              "duree": 107,
-              "format": "35 mm"
+              "duree": 106,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 35996
