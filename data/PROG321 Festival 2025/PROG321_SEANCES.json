@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-17T17:38:28.621Z",
+  "updatedAt": "2024-12-18T10:18:20.360Z",
   "data": [
     {
       "idSeance": 188170,
@@ -1735,7 +1735,7 @@
           "realisateurs": "Georges Franju",
           "annee": 1957,
           "duree": 20,
-          "synopsis": "Une visite minutieuse de la cathédrale Notre-Dame.",
+          "miniTexte": "Une visite minutieuse de la cathédrale, qui mêle histoire, architecture et contemplation.",
           "status": 2,
           "copies": [
             {
@@ -1743,7 +1743,8 @@
               "duree": 20,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 3649
         },
         {
           "ordre": 2,
@@ -1753,7 +1754,7 @@
           "annee": 1960,
           "duree": 22,
           "generique": "Marcel Duhamel, Catherine Prévert, Jacques Prévert",
-          "synopsis": "Jacques Prévert s'interroge : est-ce que Paris, c'était mieux avant ?",
+          "miniTexte": "Une vision poétique de la capitale, qui juxtapose les prises de vue de 1929 et de 1958. Jacques Prévert s'interroge : est-ce que Paris, c'était mieux avant ?",
           "status": 2,
           "copies": [
             {
@@ -1761,7 +1762,8 @@
               "duree": 22,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1653
         },
         {
           "ordre": 3,
@@ -1770,14 +1772,16 @@
           "realisateurs": "Jacques Baratier, Jean Valère",
           "annee": 1955,
           "duree": 30,
-          "status": 0,
+          "miniTexte": "De Pigalle aux Grands Boulevards, en passant par les Champs-Élysées, une déambulation au cœur de la nuit parisienne, jusqu'au petit matin.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29244,
               "duree": 30,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 4811
         }
       ]
     },
@@ -2308,10 +2312,10 @@
           "ordre": 1,
           "idFilm": 155104,
           "titre": "Amalfi",
-          "realisateurs": "Inconnu Inconnu,",
+          "realisateurs": "Anonyme",
           "annee": 1924,
           "duree": 3,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29255,
@@ -2327,7 +2331,7 @@
           "realisateurs": "Anonyme",
           "annee": 1911,
           "duree": 3,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29248,
@@ -2345,7 +2349,7 @@
           "realisateurs": "Gian Orlando Vassalo",
           "annee": 1914,
           "duree": 13,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29254,
@@ -2357,11 +2361,12 @@
         {
           "ordre": 4,
           "idFilm": 155098,
-          "titre": "Fortuna Ciabattino",
-          "realisateurs": "Inconnu Inconnu,",
+          "titre": "Giovanni Vitrotti",
+          "titreVo": "Fortuna Ciabattino !",
+          "realisateurs": "Anonyme",
           "annee": 1908,
           "duree": 6,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29251,
@@ -2380,7 +2385,7 @@
           "realisateurs": "Anonyme",
           "annee": 1913,
           "duree": 22,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29249,
@@ -2392,14 +2397,14 @@
         {
           "ordre": 6,
           "idFilm": 155101,
-          "titre": "Légende de Pierrette),",
+          "titre": "Légende de Pierrette",
           "art": "La",
           "titreVo": "Leggenda di Pierrette",
           "artVo": "La",
           "realisateurs": "Felice Metellio",
           "annee": 1916,
           "duree": 15,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29252,
@@ -2415,7 +2420,7 @@
           "titreVo": "Schneider e i suoi leoni",
           "realisateurs": "Giovanni Vitrotti",
           "annee": 1910,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29250,
@@ -2432,7 +2437,7 @@
           "realisateurs": "Alfredo Robert",
           "annee": 1913,
           "duree": 14,
-          "status": 0,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29253,
@@ -3098,10 +3103,11 @@
           "ordre": 1,
           "idFilm": 49956,
           "titre": "Aubervilliers",
-          "realisateurs": "Eli Lotar",
+          "realisateurs": "Éli Lotar",
           "annee": 1945,
           "duree": 25,
-          "status": 0,
+          "miniTexte": "Avec son canal industriel et ses baraquements délabrés, la vie misérable des Albertivillariens de l'après-guerre, sur les chansons et les commentaires de Jacques Prévert.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29424,
@@ -3114,7 +3120,8 @@
               "duree": 25,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 3503
         },
         {
           "ordre": 2,
@@ -3122,7 +3129,8 @@
           "titre": "Autopolis",
           "realisateurs": "Léon Poirier",
           "annee": 1934,
-          "status": 0,
+          "miniTexte": "Des cadences d'assemblage aux gestes précis des ouvriers, une plongée dans l'immensité tumultueuse des usines Citroën, qui rappelle les défis de l'industrie moderne, en dépit de la condition humaine.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29247,
@@ -3139,14 +3147,16 @@
           "realisateurs": "Georges Lacombe",
           "annee": 1929,
           "duree": 30,
-          "status": 0,
+          "miniTexte": "Premier film de Lacombe, d'inspiration naturaliste, un témoignage précieux sur le quotidien des familles de chiffonniers, installées entre Paris et sa banlieue.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29245,
               "duree": 30,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 3137
         }
       ]
     },
@@ -3617,14 +3627,16 @@
           "annee": 1997,
           "duree": 104,
           "synopsis": "« En mars 1996, lorsque les familles africaines « sans papiers » sont évacuées de l'église Saint Ambroise et regroupées au Gymnase Japy, Jacques Kebadian commence à filmer pour témoigner. Six mois durant, il suit ces exilés sur les lieux de leur lutte, et s'attache à l'un d'eux, le Malien Dodo Wagué, qu'il accompagne lors de son retour au pays. » _En présence de Jacques Kebadian_",
-          "status": 0,
+          "miniTexte": "Mars 1996, évacuation des familles africaines de l'église Saint-Ambroise à Paris. Six mois durant, Kebadian filme ces exilés dans les lieux de leur quarantaine et s'attache à l'un deux, le Malien Dodo Wagué. Échappant volontairement à la chronique événementielle, il propose une histoire plus humaine, plus universelle, dont l'enjeu est la reconnaissance de l'individu et le droit de vivre en harmonie avec son environnement social. Un témoignage essentiel.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29440,
               "duree": 104,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 17705
         }
       ]
     },
@@ -3653,6 +3665,7 @@
           "annee": 1922,
           "duree": 51,
           "synopsis": "Le quotidien d'une famille d'Inuits dans le Grand Nord canadien, filmé pour la première fois. Nanouk pêche et chasse pour se nourrir, il doit aussi se déplacer souvent et reconstruire son igloo.",
+          "miniTexte": "Le quotidien du chasseur inuit, dans une version remaniée par le réalisateur de films ethnographiques Joseph Mandement (également auteur des intertitres français). Véritable rareté, la copie de 1928 présentée ici a été conservée et projetée à la Cinémathèque par Henri Langlois, qui l'avait nommée « Bouton d'or » pour valoriser le teintage orange qui la caractérise.",
           "status": 2,
           "copies": [
             {
@@ -3660,7 +3673,8 @@
               "duree": 51,
               "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 27567
         }
       ]
     },
