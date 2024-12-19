@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-19T10:29:23.295Z",
+  "updatedAt": "2024-12-19T12:05:13.199Z",
   "data": [
     {
       "idSeance": 188170,
@@ -395,7 +395,7 @@
           "titreVo": "Notte",
           "artVo": "La",
           "realisateurs": "Michelangelo Antonioni",
-          "annee": 1960,
+          "annee": 1961,
           "duree": 122,
           "generique": "Marcello Mastroianni, Jeanne Moreau, Monica Vitti",
           "synopsis": "Les dernières heures vécues ensemble d'un couple d'intellectuels bourgeois, lors d'une soirée mondaine.",
@@ -2532,6 +2532,7 @@
           "idFilm": 114149,
           "titre": "Jardin d'été",
           "titreVo": "Natsu no niwa",
+          "titreNx": "夏の庭",
           "realisateurs": "Shinji Sōmai",
           "annee": 1994,
           "duree": 113,
@@ -2547,7 +2548,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 216682
         }
       ]
     },
@@ -2614,7 +2616,7 @@
           "art": "Les",
           "titreVo": "Goldflocken",
           "realisateurs": "Werner Schroeter",
-          "annee": 1975,
+          "annee": 1976,
           "duree": 143,
           "generique": "Magdalena Montezuma, Udo Kier, Bulle Ogier",
           "miniTexte": "Dans _Les Flocons d'or_, Schroeter octroie à chaque histoire son propre style visuel et narratif pour une fresque sensuelle au réalisme poétique troublant. Construit comme un combat entre Eros et Thanatos, le film – qui restera son préféré – fait la part belle aux visages et aux corps lors d'un saisissant voyage en images. La dernière partie d'une œuvre en forme de trilogie sur la vie, l'amour et la mort.",
@@ -2668,7 +2670,7 @@
         {
           "ordre": 2,
           "idFilm": 155124,
-          "titre": "Carla Salome",
+          "titre": "Carla Salomé",
           "realisateurs": "Werner Schroeter",
           "annee": 1968,
           "duree": 5,
@@ -2744,7 +2746,7 @@
         {
           "ordre": 6,
           "idFilm": 155135,
-          "titre": "Paula – « Je reviens »",
+          "titre": "Paula – \"Je reviens\"",
           "realisateurs": "Werner Schroeter",
           "annee": 1968,
           "generique": "Heidi Lorenzo, Rita Bauer, Suzanne Sheed",
@@ -2902,7 +2904,7 @@
         {
           "ordre": 8,
           "idFilm": 155132,
-          "titre": "Maria Callas singt 1957 rezitativ und arie der Elvira aus Ernani 1844 von Giuseppe Verdi",
+          "titre": "Maria Callas Singt 1957 Rezitativ und Arie der Elvira aus Ernani 1844 von Giuseppe Verdi",
           "realisateurs": "Werner Schroeter",
           "annee": 1968,
           "duree": 11,
@@ -3786,7 +3788,7 @@
       ]
     },
     {
-      "idSeance": 185156,
+      "idSeance": 185276,
       "idProg": 321,
       "idCycleCategories": [
         {
@@ -3798,8 +3800,8 @@
       ],
       "idEvenement": 32650,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T19:30:00",
-      "idSalle": "HO",
+      "dateHeure": "2025-03-06T16:00:00",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,

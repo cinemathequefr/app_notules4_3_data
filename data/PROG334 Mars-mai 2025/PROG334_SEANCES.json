@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-19T10:30:07.770Z",
+  "updatedAt": "2024-12-19T12:05:17.525Z",
   "data": [
     {
       "idSeance": 185394,
@@ -623,7 +623,8 @@
           ],
           "idFilmBoxoffice": 3370
         }
-      ]
+      ],
+      "mention": "Séance présentée par Clément Colliaux"
     },
     {
       "idSeance": 186305,
@@ -955,7 +956,8 @@
             {
               "idCopie": 23192,
               "duree": 140,
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 1274
@@ -1133,7 +1135,8 @@
           ],
           "idFilmBoxoffice": 1276
         }
-      ]
+      ],
+      "mention": "Séance présentée par Clément Colliaux"
     },
     {
       "idSeance": 187956,
@@ -1210,7 +1213,8 @@
               "idCopie": 7681,
               "duree": 133,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 5439
@@ -6723,13 +6727,6 @@
               "duree": 83,
               "format": "DCP",
               "version": "VO"
-            },
-            {
-              "idCopie": 29364,
-              "duree": 83,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 4
@@ -6780,13 +6777,6 @@
               "duree": 83,
               "format": "DCP",
               "version": "VO"
-            },
-            {
-              "idCopie": 29364,
-              "duree": 83,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 4
@@ -7317,7 +7307,7 @@
               "idCopie": 29076,
               "duree": 103,
               "format": "35 mm",
-              "version": "VO",
+              "intertitres": "INT. ANG.",
               "stDemande": true
             }
           ],
@@ -8023,13 +8013,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 11458,
-              "duree": 76,
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 11457,
               "duree": 76,
               "format": "35 mm"
@@ -8068,13 +8051,6 @@
           "miniTexte": "Remake musical de _Comédiennes_, ou les frivolités d'un couple marié, mis en danger par l'arrivée d'une amie de la femme. Porté par le duo Chevalier/MacDonald, un joyau de raffinement, où chaque geste, chaque sourire, ouvrent la porte à des ambiguïtés savoureuses.",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 11458,
-              "duree": 76,
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
             {
               "idCopie": 11457,
               "duree": 76,
@@ -8203,14 +8179,7 @@
               "duree": 94,
               "format": "DCP",
               "version": "VO",
-              "stDemande": true,
-              "selected": true
-            },
-            {
-              "idCopie": 28821,
-              "duree": 94,
-              "format": "35 mm",
-              "version": "VO"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 109038
@@ -8251,14 +8220,7 @@
               "duree": 94,
               "format": "DCP",
               "version": "VO",
-              "stDemande": true,
-              "selected": true
-            },
-            {
-              "idCopie": 28821,
-              "duree": 94,
-              "format": "35 mm",
-              "version": "VO"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 109038
