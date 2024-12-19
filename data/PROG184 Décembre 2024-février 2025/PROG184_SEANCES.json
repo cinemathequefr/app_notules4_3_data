@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-18T12:12:57.672Z",
+  "updatedAt": "2024-12-19T09:29:27.930Z",
   "data": [
     {
       "idSeance": 185115,
@@ -1507,7 +1507,6 @@
               "idCopie": 23986,
               "duree": 6,
               "format": "Numérique",
-              "version": "VO",
               "stDemande": true
             }
           ],
@@ -1568,7 +1567,8 @@
             {
               "idCopie": 23987,
               "duree": 6,
-              "format": "Numérique"
+              "format": "Numérique",
+              "stDemande": true
             }
           ]
         },
@@ -8485,6 +8485,7 @@
               "duree": 84,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ],
@@ -17770,6 +17771,43 @@
           "duree": 90
         }
       ]
+    },
+    {
+      "idSeance": 188342,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3698,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Avant-première Arte"
+        }
+      ],
+      "idEvenement": 32344,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-06T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 43,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155071,
+          "titre": "Vincent Lindon, cœur sanglant",
+          "realisateurs": "Thierry Demaizière, Alban Teurlai",
+          "annee": 2024,
+          "duree": 83,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29168,
+              "duree": 83,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ],
+      "mention": "Avant-première"
     },
     {
       "idSeance": 137030,
