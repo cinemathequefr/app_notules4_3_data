@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-19T12:05:17.525Z",
+  "updatedAt": "2024-12-19T15:46:21.961Z",
   "data": [
     {
       "idSeance": 185394,
@@ -5512,7 +5512,8 @@
               "idCopie": 28994,
               "duree": 67,
               "format": "35 mm",
-              "intertitres": "Autres"
+              "intertitres": "Autres",
+              "stDemande": true
             }
           ]
         }
@@ -5591,7 +5592,8 @@
               "idCopie": 28992,
               "duree": 102,
               "format": "DCP",
-              "intertitres": "INT. ALL."
+              "intertitres": "INT. ALL.",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 129981
@@ -15011,7 +15013,8 @@
           "titre": "Baby-foot Boulevard",
           "realisateurs": "Paul Nouhet",
           "annee": 2017,
-          "status": 0
+          "generique": "Dorothée Levesque, Paul Nouhet, Edouard Rérolle Torres",
+          "status": 2
         },
         {
           "ordre": 2,
@@ -15021,7 +15024,8 @@
           "realisateurs": "Paul Nouhet",
           "annee": 2018,
           "duree": 21,
-          "status": 0,
+          "generique": "Paul Nouhet, Dorothée Levesque, Victor Boyer",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29304,
@@ -15038,7 +15042,8 @@
           "realisateurs": "Paul Nouhet",
           "annee": 2020,
           "duree": 15,
-          "status": 0,
+          "generique": "Paul Nouhet, Edouard Rérolle Torres, Pierre Gandar May",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29305,
@@ -15055,7 +15060,8 @@
           "realisateurs": "Paul Nouhet",
           "annee": 2023,
           "duree": 46,
-          "status": 0,
+          "generique": "Paul Nouhet, Hugo Caillères, Yaël Garcia",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29306,
@@ -15917,7 +15923,8 @@
           "realisateurs": "Hefse Guiro",
           "annee": 2024,
           "duree": 23,
-          "status": 0,
+          "generique": "Birane Ba, Majd Mastoura, Marie Tirmont",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29439,

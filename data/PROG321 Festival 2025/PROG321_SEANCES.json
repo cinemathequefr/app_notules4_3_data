@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-19T12:05:13.199Z",
+  "updatedAt": "2024-12-19T15:42:22.614Z",
   "data": [
     {
       "idSeance": 188170,
@@ -340,7 +340,7 @@
       ],
       "idEvenement": 31799,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T20:30:00",
+      "dateHeure": "2025-03-07T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1125,7 +1125,8 @@
               "format": "DCP",
               "langCopie": "FRE"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 28583
         }
       ]
     },
@@ -1152,7 +1153,7 @@
           "realisateurs": "Camille de Casabianca",
           "annee": 1986,
           "duree": 95,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29132,
@@ -1160,7 +1161,8 @@
               "format": "DCP",
               "langCopie": "FRE"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 34698
         }
       ]
     },
@@ -1187,7 +1189,7 @@
           "realisateurs": "Pantelis Voulgaris",
           "annee": 1976,
           "duree": 105,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29133,
@@ -1196,7 +1198,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 180559
         }
       ]
     },
@@ -1226,7 +1229,7 @@
           "realisateurs": "Carlos Saura",
           "annee": 1959,
           "duree": 84,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29134,
@@ -1236,7 +1239,8 @@
               "langCopie": "SPA",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmBoxoffice": 3213
         }
       ]
     },
@@ -1276,7 +1280,8 @@
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmBoxoffice": 30499
         }
       ],
       "mention": "Accompagnement musical par Nicolas Giraud et Gabriel Cazes"
@@ -1300,7 +1305,7 @@
         {
           "ordre": 1,
           "idFilm": 30582,
-          "titre": "Tueurs de flics",
+          "titre": "Tueur de flics",
           "titreVo": "Onion Field",
           "artVo": "The",
           "realisateurs": "Harold Becker",
@@ -1319,7 +1324,8 @@
               "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 41956
         }
       ]
     },
@@ -1359,7 +1365,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 5910
         }
       ]
     },
@@ -1397,7 +1404,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1042
         }
       ]
     },
@@ -1439,7 +1447,8 @@
               "format": "DCP",
               "langCopie": "FRE"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 29044
         },
         {
           "idConf": 32664,
@@ -1482,7 +1491,8 @@
               "format": "DCP",
               "intertitres": "INT. FR."
             }
-          ]
+          ],
+          "idFilmBoxoffice": 34743
         }
       ]
     },
@@ -2196,47 +2206,6 @@
       ]
     },
     {
-      "idSeance": 188336,
-      "idProg": 321,
-      "idCycleCategories": [
-        {
-          "idCycle": 957,
-          "idCategorie": 3654,
-          "titreCycle": "Restaurations et incunables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32432,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-07T20:30:00",
-      "idSalle": "HL",
-      "idSeanceAssoc": 188338,
-      "typeAssoc": 117,
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 44903,
-          "titre": "Faust",
-          "titreVo": "Faust – Eine deutsche Volkssage",
-          "realisateurs": "Friedrich Wilhelm Murnau",
-          "annee": 1926,
-          "duree": 107,
-          "generique": "Gösta Ekman, Emil Jannings, Camilla Horn",
-          "adaptation": "D'après la pièce _Faust_ de Johann Wolfgang von Goethe.",
-          "synopsis": "Après avoir semé la peste, Méphisto propose un pacte à Faust.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29222,
-              "duree": 107,
-              "format": "DCP",
-              "intertitres": "INT. FR."
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 188341,
       "idProg": 321,
       "idCycleCategories": [
@@ -2249,7 +2218,7 @@
       ],
       "idEvenement": 32432,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-07T20:30:00",
+      "dateHeure": "2025-03-08T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2271,7 +2240,8 @@
               "format": "DCP",
               "intertitres": "INT. FR."
             }
-          ]
+          ],
+          "idFilmBoxoffice": 4594
         }
       ]
     },
@@ -2308,7 +2278,8 @@
               "format": "DCP",
               "langCopie": "FRE"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1536
         }
       ]
     },
@@ -2613,7 +2584,6 @@
           "ordre": 1,
           "idFilm": 38270,
           "titre": "Flocons d'or",
-          "art": "Les",
           "titreVo": "Goldflocken",
           "realisateurs": "Werner Schroeter",
           "annee": 1976,
@@ -2642,7 +2612,7 @@
           "idCycle": 992,
           "idCategorie": 3739,
           "titreCycle": "Werner Schroeter",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Les premiers films (1967-1969)"
         }
       ],
       "idEvenement": 32526,
@@ -2771,7 +2741,7 @@
           "idCycle": 992,
           "idCategorie": 3738,
           "titreCycle": "Werner Schroeter",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Les premiers films (1967-1969)"
         }
       ],
       "idEvenement": 32533,
@@ -2930,7 +2900,7 @@
           "idCycle": 992,
           "idCategorie": 3740,
           "titreCycle": "Werner Schroeter",
-          "titreSousCycle": "Les films"
+          "titreSousCycle": "Les premiers films (1967-1969)"
         }
       ],
       "idEvenement": 32539,
@@ -3255,8 +3225,6 @@
       "typeConference": "Conférence",
       "idSalle": "GF",
       "duree": 120,
-      "idSeanceAssoc": 188336,
-      "typeAssoc": 117,
       "items": [
         {
           "idConf": 32575,
@@ -3302,7 +3270,8 @@
               "format": "DCP",
               "intertitres": "INT. FR."
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1000016058
         }
       ]
     },
@@ -3487,7 +3456,7 @@
           "ordre": 1,
           "idFilm": 155147,
           "titre": "Hors du chemin !",
-          "titreVo": "Khabarda",
+          "titreVo": "Khabarda !",
           "titreNx": "ხაბარდა",
           "realisateurs": "Mikheil Chiaoureli",
           "annee": 1931,
@@ -3583,7 +3552,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 28161
         }
       ]
     },
@@ -3820,7 +3790,8 @@
               "format": "DCP",
               "langCopie": "FRE"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 14360
         }
       ]
     },
@@ -3857,7 +3828,8 @@
               "format": "DCP",
               "langCopie": "FRE"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 44454
         }
       ]
     },
@@ -3938,7 +3910,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 147575
         }
       ]
     }
