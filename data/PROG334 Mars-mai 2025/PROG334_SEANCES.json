@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-19T09:16:00.956Z",
+  "updatedAt": "2024-12-19T10:30:07.770Z",
   "data": [
     {
       "idSeance": 185394,
@@ -2277,7 +2277,8 @@
               "duree": 99,
               "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STF"
+              "langCopie": "ITA",
+              "stDemande": true
             }
           ]
         }
@@ -8609,9 +8610,20 @@
           "titreVo": "A Study in Scarlet",
           "realisateurs": "Edwin L. Marin",
           "annee": 1933,
+          "duree": 72,
           "generique": "Reginald Owen, Anna May Wong, June Clyde",
           "miniTexte": "Les membres d'une confrérie secrète sont éliminés les uns après les autres. L'occasion d'une enquête dans le Chinatown londonien pour Sherlock Holmes. Une adaptation libre et méconnue du premier roman dans lequel Conan Doyle donna vie à son célèbre détective.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29455,
+              "duree": 72,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
+            }
+          ],
           "idFilmBoxoffice": 282786
         }
       ]
@@ -14025,7 +14037,9 @@
           "realisateurs": "National Film & Sound Archive of Australia",
           "annee": 1939,
           "duree": 1,
-          "status": 1,
+          "generique": "Anna May Wong",
+          "miniTexte": "Images d'archives montrant la star du muet Anna May Wong lors d'une tournée en Australie.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29236,
@@ -14076,6 +14090,8 @@
           "realisateurs": "Elaine Mae Woo",
           "annee": 2007,
           "duree": 49,
+          "generique": "Anna May Wong",
+          "miniTexte": "Porté par la voix off de Nancy Kwan, un documentaire inédit, truffé de documents rares, qui revient sur le parcours d'Anna May Wong, première actrice d'origine asiatique à signer un contrat avec un grand studio.",
           "status": 2,
           "copies": [
             {
@@ -14091,7 +14107,9 @@
           "realisateurs": "ABC - American Broadcasting Company",
           "annee": 1957,
           "duree": 30,
-          "status": 1,
+          "generique": "Anna May Wong",
+          "miniTexte": "Images d'archives montrant Anna May Wong lors de son voyage en Chine, en 1936, pour lequel la comédienne prit la caméra.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29240,
@@ -14110,7 +14128,8 @@
           "annee": 2020,
           "duree": 51,
           "generique": "David Corenswet, Darren Criss, Laura Harrier, Michelle Krusiec",
-          "status": 1,
+          "miniTexte": "Épisode de la série _Hollywood_, qui met en scène un groupe de comédiens et cinéastes en herbe et ambitieux, dans le Hollywood d'après-guerre. Une uchronie, où le destin de l'actrice Anna May Wong prend une nouvelle direction.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29241,
