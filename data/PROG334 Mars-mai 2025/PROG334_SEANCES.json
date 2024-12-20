@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-19T15:46:21.961Z",
+  "updatedAt": "2024-12-20T08:55:20.107Z",
   "data": [
     {
       "idSeance": 185394,
@@ -6722,13 +6722,7 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 14777,
-              "duree": 83,
-              "format": "DCP",
-              "version": "VO"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 4
@@ -6772,13 +6766,7 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 14777,
-              "duree": 83,
-              "format": "DCP",
-              "version": "VO"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 4
@@ -7261,12 +7249,6 @@
               "duree": 70,
               "format": "35 mm",
               "intertitres": "INT. FR."
-            },
-            {
-              "idCopie": 29276,
-              "duree": 60,
-              "format": "DCP",
-              "intertitres": "INT. FR."
             }
           ],
           "idFilmBoxoffice": 34285
@@ -7360,7 +7342,7 @@
       ]
     },
     {
-      "idSeance": 188254,
+      "idSeance": 188346,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -7372,7 +7354,7 @@
       ],
       "idEvenement": 32089,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-05T17:30:00",
+      "dateHeure": "2025-03-13T20:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7397,8 +7379,7 @@
           ],
           "idFilmBoxoffice": 766
         }
-      ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
+      ]
     },
     {
       "idSeance": 187818,
@@ -7753,7 +7734,7 @@
       ]
     },
     {
-      "idSeance": 188081,
+      "idSeance": 188345,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -7765,7 +7746,7 @@
       ],
       "idEvenement": 32102,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-13T20:45:00",
+      "dateHeure": "2025-04-05T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -11686,7 +11667,7 @@
       ],
       "idEvenement": 32263,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-05T19:30:00",
+      "dateHeure": "2025-04-05T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -15678,7 +15659,7 @@
           "artVo": "Die",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1919,
-          "duree": 51,
+          "duree": 68,
           "generique": "Ernst Lubitsch, Ossi Oswalda",
           "adaptation": "D'après la nouvelle _Der Sandmann_ d'Ernst Theodor Amadeus Hoffmann.",
           "synopsis": "Le jeune Lancelot, prié de prendre femme alors qu'il n'en veut pas, décide de se retirer dans un monastère et de se marier avec une poupée pour donner la dot aux moines.",
@@ -15686,19 +15667,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 17005,
-              "duree": 51,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true,
-              "selected": true
-            },
-            {
               "idCopie": 29070,
               "duree": 68,
               "format": "DCP",
               "intertitres": "INT. ALL.",
-              "stDemande": true
+              "stDemande": true,
+              "selected": true
             },
             {
               "idCopie": 29395,

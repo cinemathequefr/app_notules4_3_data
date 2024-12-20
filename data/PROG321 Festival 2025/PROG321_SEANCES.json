@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-19T15:42:22.614Z",
+  "updatedAt": "2024-12-20T08:55:49.188Z",
   "data": [
     {
       "idSeance": 188170,
@@ -15,7 +15,7 @@
       "idEvenement": 31788,
       "typeEvenement": 13,
       "dateHeure": "2025-03-06T15:00:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -1715,7 +1715,7 @@
       "idEvenement": 32328,
       "typeEvenement": 13,
       "dateHeure": "2025-03-06T14:00:00",
-      "idSalle": "LE",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
@@ -2202,46 +2202,6 @@
               "format": "DCP"
             }
           ]
-        }
-      ]
-    },
-    {
-      "idSeance": 188341,
-      "idProg": 321,
-      "idCycleCategories": [
-        {
-          "idCycle": 957,
-          "idCategorie": 3654,
-          "titreCycle": "Restaurations et incunables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32432,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-08T20:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 44903,
-          "titre": "Faust",
-          "titreVo": "Faust – Eine deutsche Volkssage",
-          "realisateurs": "Friedrich Wilhelm Murnau",
-          "annee": 1926,
-          "duree": 107,
-          "generique": "Gösta Ekman, Emil Jannings, Camilla Horn",
-          "adaptation": "D'après la pièce _Faust_ de Johann Wolfgang von Goethe.",
-          "synopsis": "Après avoir semé la peste, Méphisto propose un pacte à Faust.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29222,
-              "duree": 107,
-              "format": "DCP",
-              "intertitres": "INT. FR."
-            }
-          ],
-          "idFilmBoxoffice": 4594
         }
       ]
     },
@@ -3341,7 +3301,7 @@
           "annee": 1925,
           "duree": 105,
           "generique": "Kote Mikaberidze, Tsetsilia Tsoutsounava, Nato Vachnadze",
-          "miniTexte": "D'après la pièce de Nino Nakachidze, le destin de Siko, un paysan cavalier, parti faire fortune en Amérique. Quand il rentre au pays, sa femme, séduite par un autre, est enceinte. Désespéré, il brûle leur maison et son épouse se suicide. Scènes de la vie quotidienne, fêtes de village, spectacles de cirque et courses de chevaux acrobatiques s'enchaînent à un rythme effréné. Des images à couper le souffle, sur fond de tragédie domestique, emmenée par une foule de personnages pittoresques, d'une richesse extraordinaire.",
+          "miniTexte": "D'après la pièce de Nino Nakachidze, le destin de Siko (joué par Kote Mikaberidze), un paysan cavalier, parti faire fortune en Amérique. Quand il rentre au pays, sa femme, séduite par un autre, est enceinte. Désespéré, il brûle leur maison et son épouse se suicide. Scènes de la vie quotidienne, fêtes de village, spectacles de cirque et courses de chevaux acrobatiques s'enchaînent à un rythme effréné. Des images à couper le souffle, sur fond de tragédie domestique, emmenée par une foule de personnages pittoresques, d'une richesse extraordinaire.",
           "status": 2,
           "copies": [
             {
@@ -3771,7 +3731,7 @@
       "idEvenement": 32650,
       "typeEvenement": 13,
       "dateHeure": "2025-03-06T16:00:00",
-      "idSalle": "LE",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
