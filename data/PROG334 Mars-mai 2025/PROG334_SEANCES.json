@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-20T13:08:06.263Z",
+  "updatedAt": "2024-12-21T08:25:05.946Z",
   "data": [
     {
       "idSeance": 185394,
@@ -1378,7 +1378,8 @@
               "duree": 89,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ITA"
+              "langCopie": "ITA",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 173183
@@ -2732,6 +2733,7 @@
           "annee": 2007,
           "duree": 13,
           "generique": "Natalie Portman, Jason Schwartzman, Waris Ahluwalia",
+          "miniTexte": "Préquel de _À bord du Darjeeling Limited_, un petit bonbon doux-amer, qui met en scène Jason Schwartzman et Natalie Portman dans une chambre d'hôtel parisien, où deux amants se retrouvent pour un dernier adieu.",
           "status": 1,
           "copies": [
             {
@@ -2803,6 +2805,7 @@
           "annee": 2007,
           "duree": 13,
           "generique": "Natalie Portman, Jason Schwartzman, Waris Ahluwalia",
+          "miniTexte": "Préquel de _À bord du Darjeeling Limited_, un petit bonbon doux-amer, qui met en scène Jason Schwartzman et Natalie Portman dans une chambre d'hôtel parisien, où deux amants se retrouvent pour un dernier adieu.",
           "status": 1,
           "copies": [
             {
@@ -9461,17 +9464,8 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29043,
+              "idCopie": 29457,
               "duree": 95,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29044,
-              "duree": 95,
-              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -9874,6 +9868,25 @@
           "miniTexte": "Avec un amour passionné du cinéma, Truffaut entremêle la vie et le jeu pour raconter la magie de la création, sans jamais occulter les tensions et les compromis. À base de clins d'œil et d'hommages discrets, il jette en coulisses un regard drôle et émouvant, qui brille autant par son esprit que par sa légèreté.",
           "status": 2,
           "copies": [
+            {
+              "idCopie": 13741,
+              "duree": 115,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "Autres",
+              "selected": true
+            },
+            {
+              "idCopie": 10065,
+              "duree": 115,
+              "format": "35 mm",
+              "version": "VF"
+            },
+            {
+              "idCopie": 10058,
+              "duree": 115,
+              "format": "35 mm"
+            },
             {
               "idCopie": 14526,
               "duree": 115,
@@ -15212,7 +15225,7 @@
           "idCycle": 972,
           "idCategorie": 3694,
           "titreCycle": "Wes Anderson",
-          "titreSousCycle": "Courts métrages"
+          "titreSousCycle": "Programme de courts métrages"
         }
       ],
       "idEvenement": 32514,
