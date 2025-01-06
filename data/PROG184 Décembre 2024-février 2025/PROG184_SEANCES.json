@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-20T13:08:14.383Z",
+  "updatedAt": "2025-01-06T09:38:06.941Z",
   "data": [
     {
       "idSeance": 185115,
@@ -302,7 +302,7 @@
       "idEvenement": 25724,
       "typeEvenement": 13,
       "dateHeure": "2025-01-27T18:30:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -1550,7 +1550,8 @@
               "idCopie": 23985,
               "duree": 60,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ]
         },
@@ -3329,12 +3330,20 @@
           "titreVo": "House of Usher",
           "realisateurs": "Roger Corman",
           "annee": 1960,
-          "duree": 80,
+          "duree": 79,
           "generique": "Vincent Price, Mark Damon, Myrna Fahey",
           "adaptation": "D'après la nouvelle _La Chute de la maison Usher_ d'Edgar Allan Poe.",
           "miniTexte": "La première des huit adaptations d'Edgar Allan Poe réalisées par Corman recrée fidèlement l'univers de l'auteur et installe une ambiance ténébreuse qui bascule de l'étrangeté à la terreur pure. Un train fantôme réjouissant, porté par le scénario de Richard Matheson et l'interprétation exaltée de Vincent Price.",
           "status": 2,
           "copies": [
+            {
+              "idCopie": 29460,
+              "duree": 79,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
             {
               "idCopie": 28415,
               "duree": 80,
@@ -6185,7 +6194,8 @@
               "duree": 165,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 7350
@@ -8342,7 +8352,7 @@
       "idEvenement": 31382,
       "typeEvenement": 13,
       "dateHeure": "2025-01-30T19:30:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -8564,7 +8574,7 @@
       "idEvenement": 31386,
       "typeEvenement": 13,
       "dateHeure": "2025-01-31T19:00:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -9672,7 +9682,7 @@
       "idEvenement": 31416,
       "typeEvenement": 13,
       "dateHeure": "2025-01-10T18:00:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -9801,7 +9811,7 @@
       "idEvenement": 31422,
       "typeEvenement": 13,
       "dateHeure": "2025-01-10T20:00:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -10264,7 +10274,7 @@
           "generique": "Louis Seigner, Michael Lonsdale, Jacques Perrin",
           "adaptation": "D'après l'ouvrage _L'Affaire de la Section Spéciale_ d'Hervé Villeré.",
           "synopsis": "Le 21 août 1941, un jeune militant communiste tue dans le métro un officier allemand. En représailles, les nazis menacent de fusiller cent otages.",
-          "miniTexte": "1941. Un jeune communiste – plus tard connu sous le nom de Colonel Fabien – abat un militaire allemand à Barbès. En représailles, les Allemands exigent du pouvoir pétainiste qu'il fasse exécuter six français, en instaurant des lois rétroactives. Costa-Gavras et Jorge Semprun reconstituent un épisode sinistre de la Collaboration, et font de l'Hôtel du Parc à Vichy le théâtre de toutes les compromissions avec l'Occupant. Un casting impressionnant, une musique inoubliable, pour un réquisitoire implacable.",
+          "miniTexte": "1941. Un jeune communiste – plus tard connu sous le nom de Colonel Fabien – abat un militaire allemand à Barbès. En représailles, les Allemands exigent du pouvoir pétainiste qu'il fasse exécuter six français, en instaurant des lois rétroactives. Costa-Gavras et Jorge Semprún reconstituent un épisode sinistre de la Collaboration, et font de l'Hôtel du Parc à Vichy le théâtre de toutes les compromissions avec l'Occupant. Un casting impressionnant, une musique inoubliable, pour un réquisitoire implacable.",
           "status": 2,
           "copies": [
             {
@@ -10304,7 +10314,7 @@
           "generique": "Louis Seigner, Michael Lonsdale, Jacques Perrin",
           "adaptation": "D'après l'ouvrage _L'Affaire de la Section Spéciale_ d'Hervé Villeré.",
           "synopsis": "Le 21 août 1941, un jeune militant communiste tue dans le métro un officier allemand. En représailles, les nazis menacent de fusiller cent otages.",
-          "miniTexte": "1941. Un jeune communiste – plus tard connu sous le nom de Colonel Fabien – abat un militaire allemand à Barbès. En représailles, les Allemands exigent du pouvoir pétainiste qu'il fasse exécuter six français, en instaurant des lois rétroactives. Costa-Gavras et Jorge Semprun reconstituent un épisode sinistre de la Collaboration, et font de l'Hôtel du Parc à Vichy le théâtre de toutes les compromissions avec l'Occupant. Un casting impressionnant, une musique inoubliable, pour un réquisitoire implacable.",
+          "miniTexte": "1941. Un jeune communiste – plus tard connu sous le nom de Colonel Fabien – abat un militaire allemand à Barbès. En représailles, les Allemands exigent du pouvoir pétainiste qu'il fasse exécuter six français, en instaurant des lois rétroactives. Costa-Gavras et Jorge Semprún reconstituent un épisode sinistre de la Collaboration, et font de l'Hôtel du Parc à Vichy le théâtre de toutes les compromissions avec l'Occupant. Un casting impressionnant, une musique inoubliable, pour un réquisitoire implacable.",
           "status": 2,
           "copies": [
             {
@@ -11614,10 +11624,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 10924,
+              "idCopie": 29505,
               "duree": 85,
-              "format": "DCP",
-              "langCopie": "FRE"
+              "format": "35 mm"
             }
           ],
           "idFilmBoxoffice": 1131
@@ -11654,7 +11663,7 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 8956,
+              "idCopie": 29506,
               "duree": 102,
               "format": "DCP"
             }
@@ -11879,7 +11888,7 @@
           "idFilm": 49979,
           "titre": "Humeur vagabonde",
           "art": "L'",
-          "realisateurs": "Edouard Luntz",
+          "realisateurs": "Édouard Luntz",
           "annee": 1972,
           "duree": 82,
           "generique": "Michel Bouquet, Jeanne Moreau, Éric Penet, Madeleine Renaud",
@@ -12350,6 +12359,12 @@
           "idCategorie": 3590,
           "titreCycle": "Gérardmer à Paris",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 661,
+          "idCategorie": 3590,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 31530,
@@ -12357,180 +12372,9 @@
       "libelleEvenement": "32E FESTIVAL GÉRARDMER",
       "dateHeure": "2025-02-05T20:00:00",
       "idSalle": "HL",
-      "typeSeance": 44,
+      "typeSeance": 43,
       "theorique": true,
-      "mention": "Ouverture de la rétrospective",
-      "items": []
-    },
-    {
-      "idSeance": 138776,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 661,
-          "idCategorie": 3590,
-          "titreCycle": "Gérardmer à Paris",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31530,
-      "typeEvenement": 13,
-      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
-      "dateHeure": "2025-02-06T18:00:00",
-      "idSalle": "HL",
-      "theorique": true,
-      "items": []
-    },
-    {
-      "idSeance": 138777,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 661,
-          "idCategorie": 3590,
-          "titreCycle": "Gérardmer à Paris",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31530,
-      "typeEvenement": 13,
-      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
-      "dateHeure": "2025-02-06T20:00:00",
-      "idSalle": "HL",
-      "theorique": true,
-      "items": []
-    },
-    {
-      "idSeance": 138816,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 661,
-          "idCategorie": 3590,
-          "titreCycle": "Gérardmer à Paris",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31530,
-      "typeEvenement": 13,
-      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
-      "dateHeure": "2025-02-07T18:00:00",
-      "idSalle": "HL",
-      "theorique": true,
-      "items": []
-    },
-    {
-      "idSeance": 138817,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 661,
-          "idCategorie": 3590,
-          "titreCycle": "Gérardmer à Paris",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31530,
-      "typeEvenement": 13,
-      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
-      "dateHeure": "2025-02-07T20:00:00",
-      "idSalle": "HL",
-      "theorique": true,
-      "items": []
-    },
-    {
-      "idSeance": 184875,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 661,
-          "idCategorie": 3590,
-          "titreCycle": "Gérardmer à Paris",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31530,
-      "typeEvenement": 13,
-      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
-      "dateHeure": "2025-02-08T15:00:00",
-      "idSalle": "GF",
-      "theorique": true,
-      "items": []
-    },
-    {
-      "idSeance": 138858,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 661,
-          "idCategorie": 3590,
-          "titreCycle": "Gérardmer à Paris",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31530,
-      "typeEvenement": 13,
-      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
-      "dateHeure": "2025-02-08T18:00:00",
-      "idSalle": "HL",
-      "theorique": true,
-      "items": []
-    },
-    {
-      "idSeance": 138859,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 661,
-          "idCategorie": 3590,
-          "titreCycle": "Gérardmer à Paris",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31530,
-      "typeEvenement": 13,
-      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
-      "dateHeure": "2025-02-08T20:00:00",
-      "idSalle": "HL",
-      "theorique": true,
-      "items": []
-    },
-    {
-      "idSeance": 138874,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 661,
-          "idCategorie": 3590,
-          "titreCycle": "Gérardmer à Paris",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31530,
-      "typeEvenement": 13,
-      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
-      "dateHeure": "2025-02-09T17:00:00",
-      "idSalle": "HL",
-      "theorique": true,
-      "items": []
-    },
-    {
-      "idSeance": 138876,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 661,
-          "idCategorie": 3590,
-          "titreCycle": "Gérardmer à Paris",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31530,
-      "typeEvenement": 13,
-      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
-      "dateHeure": "2025-02-09T19:00:00",
-      "idSalle": "HL",
-      "theorique": true,
+      "mention": "Avant-première",
       "items": []
     },
     {
@@ -14961,7 +14805,7 @@
       "idEvenement": 31641,
       "typeEvenement": 13,
       "dateHeure": "2025-01-23T18:00:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -16216,6 +16060,75 @@
         }
       ],
       "mention": "Séance suivie d'une discussion avec Alexis Diop, Tara Maurel et Valentin Noujaïm"
+    },
+    {
+      "idSeance": 188399,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 140,
+          "idCategorie": 3636,
+          "titreCycle": "Aujourd'hui le cinéma",
+          "titreSousCycle": "Repérages : trois jeunes cinéastes à découvrir"
+        }
+      ],
+      "idEvenement": 31711,
+      "typeEvenement": 13,
+      "dateHeure": "2025-01-13T19:00:00",
+      "idSalle": "LE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155006,
+          "titre": "Lou",
+          "realisateurs": "Tara Maurel",
+          "annee": 2024,
+          "duree": 15,
+          "generique": "Azaé Bertizzolo-Carlier, Élise Lhomeau, Elliott Pineau-Orcier",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28859,
+              "duree": 15,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 154911,
+          "titre": "Adieu Émile",
+          "realisateurs": "Alexis Diop",
+          "annee": 2024,
+          "duree": 25,
+          "generique": "Benjamin Sulpice, Arthur Beaudoire",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28351,
+              "duree": 25,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 155005,
+          "titre": "Oceania",
+          "realisateurs": "Valentin Noujaïm",
+          "annee": 2024,
+          "duree": 24,
+          "generique": "Adil Bettahrat, Darina Al Joundi",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28858,
+              "duree": 24,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 185127,
@@ -17872,6 +17785,368 @@
         }
       ],
       "mention": "Avant-première. Séance présentée par Cécile Cadoux"
+    },
+    {
+      "idSeance": 188361,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 2835,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32559,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-07T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155141,
+          "titre": "Grafted",
+          "realisateurs": "Sasha Rainbow",
+          "annee": 2024,
+          "duree": 95,
+          "generique": "Joyena Sun, Jess Hong, Eden Hart, Jared Turner, Sepi To'a",
+          "synopsis": "Wei, une jeune Chinoise brillante, mais souffrant d'un handicap physique, part étudier dans une prestigieuse université en Nouvelle-Zélande. Peinant à se faire des amis, elle poursuit les recherches de son père, un scientifique décédé, pour créer un sérum de beauté et devenir ainsi belle et populaire.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29391,
+              "duree": 95,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1000008942
+        }
+      ]
+    },
+    {
+      "idSeance": 188371,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 2835,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32560,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-08T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155142,
+          "titre": "Llanto",
+          "art": "El",
+          "realisateurs": "Pedro Martín-Calero",
+          "annee": 2024,
+          "duree": 107,
+          "generique": "Ester Expósito, Mathilde Ollivier, Malena Villa, Sonia Almarcha, Àlex Monner",
+          "synopsis": "Quelque chose hante Andrea, mais nul ne peut le voir à l'œil nu, pas même elle. Vingt ans auparavant, à 10 000 kilomètres de là, la même présence terrorisait Marie. Camila était la seule à pouvoir comprendre ce qui lui arrivait, mais personne ne les croyait. Face à cette menace oppressante, toutes trois entendent le même son écrasant : un cri.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29392,
+              "duree": 107,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "SPA",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 313568
+        }
+      ]
+    },
+    {
+      "idSeance": 188372,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 2835,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32665,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-09T19:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155152,
+          "titre": "Azrael",
+          "realisateurs": "E.L. Katz",
+          "annee": 2024,
+          "duree": 85,
+          "generique": "Samara Weaving, Vic Carmen Sonne, Nathan Stewart-Jarrett",
+          "synopsis": "Dans un monde où personne ne parle, Azrael doit être sacrifiée pour apaiser un mal ancien qui réside au cœur de la nature environnante. Échappée de sa captivité, la jeune femme ne reculera devant rien pour assurer sa survie.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29448,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 308669
+        }
+      ]
+    },
+    {
+      "idSeance": 188360,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 2835,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32666,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-06T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155153,
+          "titre": "Exhuma",
+          "titreVo": "Pamyo",
+          "realisateurs": "Jae-hyun Jang",
+          "annee": 2024,
+          "duree": 134,
+          "generique": "Kim Go-eun, Choi Min-sik, Lee Do-Hyun, Yoo Hae-jin",
+          "synopsis": "Deux jeunes chamans ont été engagés par une riche famille qui craint qu'un danger ne plane sur leur nouveau-né. Une sombre malédiction semble peser sur la famille. Les chamans font appel à un géomancien et à un croque-mort afin de retrouver la tombe de l'ancêtre à l'origine de ce mal.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29449,
+              "duree": 134,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "KOR",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 323032
+        }
+      ]
+    },
+    {
+      "idSeance": 188370,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 2835,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32667,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-08T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155154,
+          "titre": "Fièvre de l'argent",
+          "art": "La",
+          "titreVo": "Rich Flu",
+          "realisateurs": "Galder Gaztelu-Urrutia",
+          "annee": 2024,
+          "duree": 119,
+          "generique": "Mary Elizabeth Winstead, Rafe Spall, Lorraine Bracco, Timothy Spall, Jonah Hauer-King",
+          "synopsis": "Une étrange maladie décime les personnes les plus riches et les plus influentes de la planète. Le virus,qui semble d'abord n'affecter que les milliardaires, s'étend rapidement à des fortunes plus modestes, obligeant chacun à se débarrasser de sa moindre richesse et précipitant l'équilibre économique mondial dans le chaos.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29450,
+              "duree": 119,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 300663
+        }
+      ]
+    },
+    {
+      "idSeance": 188369,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 2835,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32668,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-06T20:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155155,
+          "titre": "Else",
+          "realisateurs": "Thibault Emin",
+          "annee": 2024,
+          "duree": 102,
+          "generique": "Matthieu Sampeur, Edith Proust, Lina Minamoto",
+          "synopsis": "Anx vient de rencontrer Cass quand l'épidémie éclate : partout, les gens fusionnent avec les choses. Cloîtré dans son appartement, le couple doit faire face à cette menace.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29451,
+              "duree": 102,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 280859
+        }
+      ]
+    },
+    {
+      "idSeance": 188362,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 2835,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32669,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-08T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155156,
+          "titre": "In a Violent Nature",
+          "realisateurs": "Chris Nash",
+          "annee": 2024,
+          "duree": 94,
+          "generique": "Ry Barrett, Andrea Pavlovic, Cameron Love, Reece Presley, Liam Leone",
+          "synopsis": "Après s'être fait dérober un précieux artefact, cadeau de sa mère, un tueur en série s'extirpe de sa tombe pour entamer une quête vengeresse. Il va traquer un groupe de jeunes qui se racontent son histoire.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29452,
+              "duree": 94,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 325170
+        }
+      ]
+    },
+    {
+      "idSeance": 188363,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 2835,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32670,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-09T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155157,
+          "titre": "Oddity",
+          "realisateurs": "Damian McCarthy",
+          "annee": 2024,
+          "duree": 98,
+          "generique": "Jonathan French, Carolyn Bracken, Steve Wall, Joe Rooney, Gwilym Lee",
+          "synopsis": "Une jeune femme aveugle, employée d'un magasin de curiosités, est convaincue qu'elle peut communiquer avec l'au-delà. Après le meurtre de sa sœur jumelle, elle cherche à démasquer l'assassin grâce à un inquiétant mannequin en bois, issu d'une collection d'objets maudits.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29453,
+              "duree": 98,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 326687
+        }
+      ]
+    },
+    {
+      "idSeance": 188366,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 2835,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32671,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-07T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155158,
+          "titre": "Rumours",
+          "realisateurs": "Guy Maddin, Evan Johnson, Galen Johnson",
+          "annee": 2024,
+          "duree": 104,
+          "generique": "Cate Blanchett, Alicia Vikander, Roy Dupuis, Denis Ménochet",
+          "synopsis": "Réunis dans un château en Allemagne pour leur sommet annuel, les dirigeants des pays du G7 s'installent en bordure d'un bois pour préparer leur déclaration. Soudain, le groupe constate que le personnel qui les entourait a disparu. Pour les retrouver, les sept politiciens s'enfoncent plus avant dans une forêt périlleuse et pleine de mystères.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29454,
+              "duree": 104,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 321107
+        }
+      ]
     }
   ]
 }

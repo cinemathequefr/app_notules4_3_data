@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-21T08:25:10.614Z",
+  "updatedAt": "2025-01-06T09:34:48.134Z",
   "data": [
     {
       "idSeance": 188170,
@@ -598,7 +598,7 @@
       "idEvenement": 32228,
       "typeEvenement": 13,
       "dateHeure": "2025-03-07T20:30:00",
-      "idSalle": "JE",
+      "idSalle": "HO",
       "items": [
         {
           "ordre": 1,
@@ -1064,31 +1064,17 @@
           "titre": "Predator",
           "realisateurs": "John McTiernan",
           "annee": 1986,
-          "duree": 106,
+          "duree": 107,
           "generique": "Arnold Schwarzenegger, Carl Weathers, Elpidia Carrillo",
           "miniTexte": "Dans une jungle d'Amérique centrale, une mission de sauvetage tourne à la confrontation avec une terrifiante créature extraterrestre. Thriller, horreur et science-fiction dans un _survival_ haletant, dont l'atmosphère paranoïaque va crescendo jusqu'au final, saisissant de brutalité. « S'il peut saigner, on peut le tuer ! » : le premier volet de la franchise, porté par Arnold Schwarzenegger et ses punchlines d'anthologie.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 4944,
-              "duree": 106,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 4945,
-              "duree": 107,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 29283,
               "duree": 107,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 43225
@@ -1108,7 +1094,7 @@
       ],
       "idEvenement": 32307,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T18:15:00",
+      "dateHeure": "2025-03-06T20:45:00",
       "idSalle": "JE",
       "items": [
         {
@@ -2144,7 +2130,7 @@
       ]
     },
     {
-      "idSeance": 188310,
+      "idSeance": 188397,
       "idProg": 321,
       "idCycleCategories": [
         {
@@ -2156,8 +2142,8 @@
       ],
       "idEvenement": 32392,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T12:00:00",
-      "idSalle": "HO",
+      "dateHeure": "2025-03-08T20:45:00",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -2197,7 +2183,7 @@
       ],
       "idEvenement": 32393,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T20:30:00",
+      "dateHeure": "2025-03-06T18:15:00",
       "idSalle": "JE",
       "items": [
         {
@@ -3135,7 +3121,7 @@
           "realisateurs": "Éli Lotar",
           "annee": 1945,
           "duree": 25,
-          "miniTexte": "Avec son canal industriel et ses baraquements délabrés, la vie misérable des Albertivillariens de l'après-guerre, sur les chansons et les commentaires de Jacques Prévert.",
+          "miniTexte": "Avec son canal industriel et ses baraquements délabrés, la très grande précarité des Albertivillariens de l'après-guerre, sur les chansons et les commentaires de Jacques Prévert.",
           "status": 2,
           "copies": [
             {
@@ -3500,47 +3486,6 @@
       ]
     },
     {
-      "idSeance": 188301,
-      "idProg": 321,
-      "idCycleCategories": [
-        {
-          "idCycle": 957,
-          "idCategorie": 3654,
-          "titreCycle": "Restaurations et incunables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32635,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-05T12:00:00",
-      "idSalle": "HO",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 30220,
-          "titre": "Buffalo Bill et les Indiens",
-          "titreVo": "Buffalo Bill and the Indians or Sitting Bull's History Lesson",
-          "realisateurs": "Robert Altman",
-          "annee": 1975,
-          "duree": 123,
-          "generique": "Paul Newman, Joel Grey, Kevin McCarthy",
-          "adaptation": "D'après la pièce _Indians_ de Arthur Kopit.",
-          "miniTexte": "Les aventures d'un grand spectacle emmené par Buffalo Bill,. À l'heure de la démystification d'un héros de légende, Altman entremêle réalité et fiction dans une description sarcastique de l'Amérique, où s'affrontent Paul Newman, hâbleur et sanguinaire, et Burt Lancaster. Ours d'or de la Berlinale 1976.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 26990,
-              "duree": 123,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 28161
-        }
-      ]
-    },
-    {
       "idSeance": 188227,
       "idProg": 321,
       "idCycleCategories": [
@@ -3830,8 +3775,8 @@
       ],
       "idEvenement": 32655,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T20:45:00",
-      "idSalle": "LE",
+      "dateHeure": "2025-03-07T20:30:00",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
@@ -3885,6 +3830,7 @@
           "generique": "Columba Domínguez, Miguel Torruco, Joaquín Cordero",
           "adaptation": "D'après le roman _Muro blanco sobre roca negra_ de Miguel Álvarez Acosta.",
           "synopsis": "À Santa Viviana, les clans Anguiano et Menchaca se livrent une guerre sans répit.",
+          "miniTexte": "Autour d'une vendetta ancestrale qui oppose deux familles d'un village reculé du Mexique, Buñuel confronte les traditions séculaires et les valeurs modernes de la ville, incarnées par un jeune médecin, qui se lie d'amitié avec un membre du clan rival. Une œuvre méconnue, où les obsessions du cinéaste pour la mort et ses rituels jaillissent du fond d'un fleuve à la portée mythologique.",
           "status": 2,
           "copies": [
             {
@@ -3896,6 +3842,44 @@
             }
           ],
           "idFilmBoxoffice": 147575
+        }
+      ]
+    },
+    {
+      "idSeance": 188398,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32672,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T12:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155159,
+          "titre": "Prisonnière n° 7",
+          "art": "La",
+          "titreVo": "Rabmadár",
+          "realisateurs": "Pál Sugár",
+          "annee": 1929,
+          "duree": 60,
+          "miniTexte": "Une jeune fille est envoyée en prison, après avoir accepté de voler pour son amant. Avec son cadre urbain, le film entrelace admirablement la manipulation, l'amour et le crime dans une succession de plans somptueux. Dramatique, rythmé, captivant, l'un des derniers muets hongrois, d'une étonnante modernité.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29456,
+              "duree": 60,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
         }
       ]
     }

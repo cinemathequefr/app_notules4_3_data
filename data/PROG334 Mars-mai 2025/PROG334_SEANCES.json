@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2024-12-21T08:25:05.946Z",
+  "updatedAt": "2025-01-06T09:33:33.697Z",
   "data": [
     {
       "idSeance": 185394,
@@ -2434,17 +2434,18 @@
           "titreVo": "Svegliati e uccidi",
           "realisateurs": "Carlo Lizzani",
           "annee": 1966,
-          "duree": 123,
+          "duree": 124,
           "generique": "Robert Hoffmann, Lisa Gastoni, Gian Maria Volonté",
           "miniTexte": "Un jeune homme fauché multiplie les casses pour offrir un vrai train de vie à la femme qu'il aime. Celle-ci, de peur qu'il finisse sous les balles de la police, se rapproche d'un inspecteur... Inspiré de la vie de Luciano Lutring, un gangster qui officia entre la France et l'Italie dans les années 60, un embryon de _poliziottesco_, qui participa à la popularité naissante du genre.",
           "status": 2,
           "copies": [
             {
               "idCopie": 28961,
-              "duree": 123,
+              "duree": 124,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ITA"
+              "langCopie": "ITA",
+              "stDemande": true
             }
           ]
         }
@@ -2860,6 +2861,48 @@
       "idEvenement": 31962,
       "typeEvenement": 13,
       "dateHeure": "2025-04-26T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 122457,
+          "titre": "Grand Budapest Hotel",
+          "art": "The",
+          "realisateurs": "Wes Anderson",
+          "annee": 2014,
+          "duree": 99,
+          "generique": "Ralph Fiennes, F. Murray Abraham, Mathieu Amalric",
+          "synopsis": "Un vieil écrivain se souvient de son entrevue avec le propriétaire du fameux hôtel Grand Budapest.",
+          "miniTexte": "Derrière les murs de l'opulent hôtel, le plus beau de la Mitteleuropa, se trouve un concentré du cinéma de Wes Anderson. Cadres ciselés et ornements symétriques. Splendeur surannée et humour pince-sans-rire. Une histoire de famille éclatée et des liens indéfectibles entre le concierge du palace et son jeune groom. Entraînés dans une affaire d'héritage, ils se retrouvent mêlés à un vol de tableau, tandis qu'autour d'eux, les bouleversements politiques de l'entre-deux-guerres dévastent le continent. Fresque haletante en rose et noir, _The Grand Budapest Hotel_ est un hymne à l'amitié et à la beauté d'une époque révolue, au casting étourdissant.",
+          "commentaire": "« En réalité, le gourmet, comme l'artiste, est l'une des créatures les plus malheureuses sur terre. Son mal vient de ce qu'il recherche constamment et trouve si peu : la perfection. » (Ludwig Bemelmans)\n\nOn nomme manie, en psychiatrie, un état d'excitation intellectuelle et physique avec exaltation de l'humeur et euphorie anormale. Ainsi, _The Grand Budapest Hotel_ est une comédie maniaque à saturation ébouriffante : casting en avalanche de stars funambules hollywoodiennes et européennes, récit à tiroirs façon matriochka (télescopage de trois époques différentes avec son jeu de trois formats d'image distincts), dialogues mitraillettes et mille idées formelles à la minute récompensées ici et là (décors, costumes et accessoires, séquences en stop motion et en silhouette), photographie tout en symétrie signée par le désormais attitré Robert D. Yeoman, sans oublier l'orchestre Ossipov et ses trente-cinq joueurs de balalaïkas, cors des alpes, orgue, cloches ou autre cymbalum (Oscar de la meilleure musique pour Randall Poster et Alexandre Desplat, déjà présent sur _Fantastic Mr. Fox_ et _Moonrise Kingdom_). Le film a été tourné principalement à Görlitz (zone interrogeant la frontière, entre Allemagne, Pologne et République tchèque), mais pour les nombreux plans larges du palace (inspiration mélangée du Palais Bristol, Grandhotel Pupp et du Gellért à Budapest), une maquette de trois mètres de haut a été réalisée, maison de poupée monumentale entièrement décorée à la main, objet de musée immédiat. Pour raconter les tribulations d'une Mitteleuropa qui court à sa perte, Wes Anderson s'est clairement inspiré des écrits de Stefan Zweig, de l'imaginaire de Ludwig Bemelmans et du cinéma d'Ernst Lubitsch. Un bel ensemble obsessionnel et joyeux, tiré à quatre épingles et parfaitement remonté comme un coucou sophistiqué de la Forêt-Noire perfectionné au Japon, qui donne vie à un drôle de mélange entre fougue (travelling en longue prise et effet domino, signatures du cinéaste) et mélancolie, à ce tropisme délicat pour le monde perdu en photochrome et résistance pudique à la nuit de l'humanité des années 1940.\n\nÉmilie Cauquy",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 11097,
+              "duree": 99,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 207825
+        }
+      ]
+    },
+    {
+      "idSeance": 188326,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31962,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-23T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3337,6 +3380,20 @@
           "copies": [
             {
               "idCopie": 29164,
+              "duree": 98,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29464,
+              "duree": 98,
+              "format": "35 mm",
+              "version": "VO"
+            },
+            {
+              "idCopie": 29476,
               "duree": 98
             }
           ],
@@ -3367,16 +3424,24 @@
           "titreVo": "Criminal Court",
           "realisateurs": "Robert Wise",
           "annee": 1946,
+          "duree": 63,
           "generique": "Tom Conway, Martha O'Driscoll, June Clayworth",
           "miniTexte": "Un avocat reconnu tue accidentellement un caïd de la pègre et doit se dénoncer pour blanchir sa fiancée. En 60 minutes chrono, Wise enchaîne les rebondissements dans une retorse affaire de meurtre, qui mise sur la concision et met en valeur le jeu percutant de Tom Conway.",
           "status": 2,
           "copies": [
             {
               "idCopie": 29150,
-              "duree": 0,
+              "duree": 63,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29477,
+              "duree": 63,
+              "format": "35 mm",
+              "version": "VO"
             }
           ]
         }
@@ -3598,13 +3663,6 @@
               "selected": true
             },
             {
-              "idCopie": 29152,
-              "duree": 92,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
               "idCopie": 29344,
               "duree": 92,
               "format": "DCP",
@@ -3658,13 +3716,6 @@
               "selected": true
             },
             {
-              "idCopie": 29152,
-              "duree": 92,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
               "idCopie": 29344,
               "duree": 92,
               "format": "DCP",
@@ -3699,6 +3750,7 @@
           "titreVo": "Blood on the Moon",
           "realisateurs": "Robert Wise",
           "annee": 1948,
+          "duree": 88,
           "generique": "Robert Mitchum, Barbara Bel Geddes, Robert Preston",
           "adaptation": "D'après le roman _Gunman's Chance_ de Luke Short.",
           "miniTexte": "Premier western du cinéaste, _Ciel rouge_ suit un cow-boy solitaire impliqué dans un conflit qui oppose des éleveurs et des fermiers. Dans l'après-guerre de Sécession, Wise sonde les tensions de la conquête des terres, soumise aux intérêts économiques et autres rivalités personnelles. Entre deux sensationnelles scènes de poursuites, il éclaire la nuit d'un ciel flamboyant, métaphore de la violence des échanges. En héros tiraillé par sa conscience, Robert Mitchum incarne cette dualité face à des personnages féminins (Barbara Bel Geddes, Phyllis Thaxter) parfaitement croqués.",
@@ -3706,7 +3758,15 @@
           "copies": [
             {
               "idCopie": 29151,
-              "duree": 0,
+              "duree": 88,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29482,
+              "duree": 88,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG"
@@ -3741,7 +3801,7 @@
           "artVo": "The",
           "realisateurs": "Robert Wise",
           "annee": 1966,
-          "duree": 155,
+          "duree": 181,
           "generique": "Steve McQueen, Richard Attenborough, Candice Bergen",
           "adaptation": "D'après le roman _The Sand Pebbles_ de Richard McKenna.",
           "synopsis": "En 1926, Jack Holeman est affecté sur un navire de guerre américain qui patrouille sur le fleuve Yang-Tsé. Il s'éprend de la jeune collaboratrice d'un missionnaire, tandis que la Chine sombre dans la guerre civile.",
@@ -3750,7 +3810,7 @@
           "copies": [
             {
               "idCopie": 3789,
-              "duree": 155,
+              "duree": 181,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
@@ -4066,15 +4126,19 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29289,
+              "idCopie": 29481,
               "duree": 113,
+              "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
+              "sousTitres": "Autres",
               "selected": true
             },
             {
-              "idCopie": 29290,
-              "duree": 113
+              "idCopie": 29289,
+              "duree": 113,
+              "version": "VO",
+              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 18465
@@ -4218,6 +4282,14 @@
               "duree": 0,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29461,
+              "duree": 0,
+              "format": "16 mm",
+              "version": "VO",
               "langCopie": "ENG"
             }
           ],
@@ -4347,17 +4419,11 @@
               "selected": true
             },
             {
-              "idCopie": 29285,
+              "idCopie": 29465,
               "duree": 72,
-              "format": "16 mm",
+              "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG"
-            },
-            {
-              "idCopie": 29284,
-              "duree": 72,
-              "format": "16 mm",
-              "version": "VO"
             },
             {
               "idCopie": 29446,
@@ -4410,17 +4476,11 @@
               "selected": true
             },
             {
-              "idCopie": 29285,
+              "idCopie": 29465,
               "duree": 72,
-              "format": "16 mm",
+              "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG"
-            },
-            {
-              "idCopie": 29284,
-              "duree": 72,
-              "format": "16 mm",
-              "version": "VO"
             },
             {
               "idCopie": 29446,
@@ -4771,6 +4831,10 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG"
+            },
+            {
+              "idCopie": 29463,
+              "duree": 112
             }
           ],
           "idFilmBoxoffice": 10433
@@ -4854,10 +4918,11 @@
               "selected": true
             },
             {
-              "idCopie": 29296,
+              "idCopie": 29462,
               "duree": 81,
-              "format": "16 mm",
-              "version": "VO"
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 108889
@@ -4887,15 +4952,17 @@
           "titreVo": "Somebody Up There Likes Me",
           "realisateurs": "Robert Wise",
           "annee": 1956,
+          "duree": 113,
           "generique": "Paul Newman, Pier Angeli, Everett Sloane",
           "miniTexte": "La vie mouvementée du boxeur champion du monde des poids moyens en 1947, Rocky Graziano. Appelé pour remplacer James Dean au pied levé, Paul Newman s'empare brillamment du rôle, portrait poignant d'un mauvais garçon aux encombrants démons intérieurs. Un film de boxe intense, qui inspirera Stallone pour _Rocky_.",
           "status": 2,
           "copies": [
             {
               "idCopie": 26746,
-              "duree": 0,
+              "duree": 113,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ],
@@ -4926,15 +4993,17 @@
           "titreVo": "Somebody Up There Likes Me",
           "realisateurs": "Robert Wise",
           "annee": 1956,
+          "duree": 113,
           "generique": "Paul Newman, Pier Angeli, Everett Sloane",
           "miniTexte": "La vie mouvementée du boxeur champion du monde des poids moyens en 1947, Rocky Graziano. Appelé pour remplacer James Dean au pied levé, Paul Newman s'empare brillamment du rôle, portrait poignant d'un mauvais garçon aux encombrants démons intérieurs. Un film de boxe intense, qui inspirera Stallone pour _Rocky_.",
           "status": 2,
           "copies": [
             {
               "idCopie": 26746,
-              "duree": 0,
+              "duree": 113,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ],
@@ -4970,11 +5039,25 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 29512,
+              "duree": 0,
+              "format": "70 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "Autres",
+              "selected": true
+            },
+            {
               "idCopie": 4515,
               "duree": 175,
               "format": "70 mm",
               "version": "VO",
               "langCopie": "ENG"
+            },
+            {
+              "idCopie": 29511,
+              "duree": 0,
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 79382
@@ -5051,6 +5134,12 @@
           "adaptation": "D'après le roman _The Most Dangerous Game_ de Richard Connell.",
           "miniTexte": "Quatorze ans après l'original, Wise adapte à nouveau _Les Chasses du comte Zaroff_ dans un thriller psychologique en forme de film d'aventures. Sur une île à la beauté sauvage, il tisse une palpitante odyssée de survie pour des naufragés victimes de la folie et de la vengeance.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29288,
+              "duree": 0
+            }
+          ],
           "idFilmBoxoffice": 32689
         }
       ]
@@ -5385,7 +5474,18 @@
           "copies": [
             {
               "idCopie": 29298,
-              "duree": 70
+              "duree": 70,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29510,
+              "duree": 70,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 11121
@@ -5423,7 +5523,18 @@
           "copies": [
             {
               "idCopie": 29298,
-              "duree": 70
+              "duree": 70,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29510,
+              "duree": 70,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 11121
@@ -5750,7 +5861,7 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 24791,
+              "idCopie": 29479,
               "duree": 85,
               "format": "35 mm",
               "version": "VF"
@@ -5946,7 +6057,7 @@
           "duree": 102,
           "generique": "Jean Arthur, Gary Cooper, George Bancroft, Maurice Chevalier, Jack Oakie, Fredric March",
           "synopsis": "Plusieurs épisodes de music hall mis en scène par 11 réalisateurs hollywoodiens.",
-          "miniTexte": "Mise en scène par onze cinéastes hollywoodiens, une revue de music-hall pré-code Hays, qui réunit les stars de la Paramount dans une succession de sketches spectaculaires en Technicolor.",
+          "miniTexte": "Mise en scène par onze cinéastes hollywoodiens, une revue de music-hall pré-code Hays, qui réunit les stars de la Paramount dans une succession de sketches spectaculaires, dont certains tournés en Technicolor.",
           "status": 2,
           "copies": [
             {
@@ -7078,7 +7189,7 @@
         },
         {
           "idConf": 32397,
-          "titre": "FILM + DIALOGUE AVEC CHARLOTTE GARSON",
+          "titre": "TO BE OR NOT TO BE + DIALOGUE AVEC CHARLOTTE GARSON",
           "typeConference": "Dialogue",
           "duree": 60,
           "ordre": 2
@@ -9310,17 +9421,17 @@
               "selected": true
             },
             {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
+            },
+            {
               "idCopie": 29040,
               "duree": 95,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 92
@@ -9368,17 +9479,17 @@
               "selected": true
             },
             {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
+            },
+            {
               "idCopie": 29040,
               "duree": 95,
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 92
@@ -9687,24 +9798,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29004,
-              "duree": 95,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "FRE",
-              "selected": true
-            },
-            {
               "idCopie": 29005,
               "duree": 95,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "FRE"
-            },
-            {
-              "idCopie": 29006,
-              "duree": 95,
-              "format": "35 mm"
             }
           ],
           "idFilmBoxoffice": 5001
@@ -9886,11 +9984,6 @@
               "idCopie": 10058,
               "duree": 115,
               "format": "35 mm"
-            },
-            {
-              "idCopie": 14526,
-              "duree": 115,
-              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 3709
@@ -10146,7 +10239,10 @@
             },
             {
               "idCopie": 785,
-              "duree": 0
+              "duree": 91,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 2756
@@ -10391,7 +10487,13 @@
             {
               "idCopie": 2190,
               "duree": 135,
-              "format": "35 mm"
+              "format": "35 mm",
+              "selected": true
+            },
+            {
+              "idCopie": 5367,
+              "duree": 135,
+              "format": "Numérique"
             }
           ],
           "idFilmBoxoffice": 3526
@@ -11333,7 +11435,10 @@
           "copies": [
             {
               "idCopie": 29034,
-              "duree": 96
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 46113
@@ -13970,7 +14075,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Adrien Leconte"
     },
     {
       "idSeance": 186892,
