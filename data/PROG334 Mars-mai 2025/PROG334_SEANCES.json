@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-06T14:10:37.988Z",
+  "updatedAt": "2025-01-07T09:08:13.305Z",
   "data": [
     {
       "idSeance": 185394,
@@ -97,145 +97,6 @@
           "idFilmBoxoffice": 75582
         }
       ]
-    },
-    {
-      "idSeance": 186498,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 955,
-          "idCategorie": 3748,
-          "titreCycle": "Louis Skorecki",
-          "titreSousCycle": "Les Cinéphiles"
-        }
-      ],
-      "idEvenement": 31785,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-19T20:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 125577,
-          "titre": "Cinéphiles 2 : Éric a disparu",
-          "art": "Les",
-          "realisateurs": "Louis Skorecki",
-          "annee": 1989,
-          "duree": 56,
-          "generique": "Harold Manning, Sébastien Clerger, Marie Nester",
-          "miniTexte": "Deux ados devant la Cinémathèque de Chaillot. « Ça ressemble à rien cet endroit. Enfin si, on dirait un décor de _Brazil_, bien sinistre... J'aimerais pas voir un film là-dedans, moi, tout le monde y a une gueule d'enterrement. » Le second épisode des _Cinéphiles_, dans lequel de jeunes gens échangent sur les films qu'ils aiment, ou qu'ils détestent, sous l'œil toujours délicieusement cruel du cinéaste, vent debout contre la muséification du cinéma.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29405,
-              "duree": 56,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 4722
-        },
-        {
-          "ordre": 2,
-          "idFilm": 103111,
-          "titre": "Cinéphiles 3 : Les Ruses de Frédéric",
-          "art": "Les",
-          "realisateurs": "Louis Skorecki",
-          "annee": 2006,
-          "duree": 32,
-          "generique": "Frédéric Beigbeder, Axelle Ropert, Julien Naveau",
-          "miniTexte": "« De l'eau est passée sous les ponts. Le cinéma d'aujourd'hui, c'est la téléréalité. Vous n'êtes pas d'accord ? Je m'en fous... » Troisième round, plus resserré, des Cinéphiles. La cinéphilie comme discours, mais qui tournerait plus que jamais à vide : Frédéric Beigbeder fait rentrer dans le crâne d'un enfant de 5 ans quelques théories sur _Rio Bravo_, quand Axelle Ropert et son acolyte se balancent des noms de cinéastes sans plus d'arguments. Féroce, et vivifiant.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29211,
-              "duree": 32,
-              "format": "DCP"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 187947,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 955,
-          "idCategorie": 3748,
-          "titreCycle": "Louis Skorecki",
-          "titreSousCycle": "Les Cinéphiles"
-        }
-      ],
-      "idEvenement": 31786,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-19T18:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 51176,
-          "titre": "Cinéphiles : Le Retour de Jean",
-          "art": "Les",
-          "realisateurs": "Louis Skorecki",
-          "annee": 1988,
-          "duree": 75,
-          "generique": "Nidam Abdi, Sébastien Clerger, Nathalie Coffre",
-          "miniTexte": "« Tu vas vraiment voir ce film ? C'est nul, c'est des garçons et des filles qui parlent pendant une heure, sur n'importe quoi. » Dans le cadre strict de longs plans-séquences, de jeunes cinévores soliloquent sur les films qu'ils ont vus, ou qu'ils veulent voir. Mais dans un monde où, d'après l'auteur, le cinéma serait déjà mort depuis longtemps, ce dialogue semble vide de sens, loin de la cinéphilie des années 60. Apparitions hilarantes de Michel Cressole en critique désabusé par le septième art, et qui finit par uriner sur les murs du cinéma dont il sort excédé.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29404,
-              "duree": 75,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 4717
-        }
-      ],
-      "mention": "Séance suivie d'une discussion avec Louis Skorecki"
-    },
-    {
-      "idSeance": 186410,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 955,
-          "idCategorie": 3652,
-          "titreCycle": "Louis Skorecki",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31787,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-17T20:00:00",
-      "idSalle": "HL",
-      "typeSeance": 44,
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 71650,
-          "titre": "Eugénie de Franval",
-          "realisateurs": "Louis Skorecki",
-          "annee": 1974,
-          "duree": 105,
-          "generique": "Élisabeth Boland, Françoise Grimaldi, Jean-René Huleu",
-          "adaptation": "D'après la nouvelle _Eugénie de Franval_ du Marquis de Sade.",
-          "synopsis": "Réflexion sur les rapports entre image et voix off au cinéma, rythmée par la lecture d'une nouvelle de Sade racontant l'amour incestueux d'un père pour sa fille.",
-          "miniTexte": "La restitution minutieuse du roman de Sade, dit en voix off sur des images en noir et blanc. Un rapport rigoureux au texte qui rappelle les recherches de Straub et Huillet, jusqu'à ce qu'intervienne un véritable événement dans le plan, perturbant le dispositif distancié d'une restitution de l'ouvrage. Le cinéma et la littérature portés jusqu'à un très haut degré d'incandescence.",
-          "commentaire": "Le roman sadien a toujours été un obstacle quasiment infranchissable pour le cinéma. Comment transformer en image et en son ce qui, finalement, ne peut se concevoir qu'écrit ? L'œuvre du divin marquis ne touche-t-elle pas aux extrémités mêmes de la littérature ? Plutôt que les adaptations culturellement légitimes, c'est sans doute dans les séries B d'un Jess Franco ou dans l'allégorie politique de Pasolini, _Salò_, que l'on peut entrevoir un passage possible entre deux formes d'expression antagoniques. Mais c'est aussi, et davantage encore, dans _Eugénie de Franval_. Tourné en 1974 par Louis Skorecki, le film est une adaptation réalisée avec la conscience d'une contradiction insoluble. Il restitue minutieusement le texte du roman dit en voix off sur des images en noir et blanc peuplées de silhouettes muettes, évoquant les personnages du récit et évoluant devant la caméra. Ce rapport minutieux au texte (rappelant en cela les recherches du couple de cinéastes Jean-Marie Straub et Danièle Huillet) trahit, certes, un désir de respect absolu de l'œuvre originaire saisie dans sa toute puissante singularité. C'est pourtant au moment où Skorecki lui-même, incarnant Valmont, effectue un geste produisant un véritable événement dans le plan, perturbant le dispositif à la fois distancié et discursif d'une restitution du roman de Sade, que quelque chose du cinéma affirme son autonomie. L'essence du médium, toute entière définie par sa capacité à enregistrer et à figer un évènement unique, prend soudain le dessus. Cinéma et littérature sont, dans _Eugénie de Franval_, deux moyens d'expression portés jusqu'à un très haut degré d'incandescence.\n\nJean-François Rauger",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 17760,
-              "duree": 105,
-              "format": "DCP",
-              "langCopie": "FRE"
-            }
-          ],
-          "idFilmBoxoffice": 26445
-        }
-      ],
-      "mention": "Ouverture de la rétrospective"
     },
     {
       "idSeance": 186075,
@@ -1263,6 +1124,46 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 188417,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 970,
+          "idCategorie": 3669,
+          "titreCycle": "Le western, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31884,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-21T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33835,
+          "titre": "Fureur apache",
+          "titreVo": "Ulzana's Raid",
+          "realisateurs": "Robert Aldrich",
+          "annee": 1972,
+          "duree": 103,
+          "generique": "Burt Lancaster, Bruce Davison, Jorge Luke",
+          "miniTexte": "Un chef apache en fuite est poursuivi par la cavalerie américaine. Comme en hommage à _La Prisonnière du désert_, Aldrich construit un film de traque violent et introspectif. Aux antipodes du western classique, son film est un astre noir, nihiliste et dépourvu de tout manichéisme, parfait complément du déjà génial _Bronco Apache_, qui réunissait déjà Aldrich et Lancaster 18 ans plus tôt.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29382,
+              "duree": 103,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 6682
+        }
+      ]
     },
     {
       "idSeance": 188177,
@@ -6617,6 +6518,13 @@
               "selected": true
             },
             {
+              "idCopie": 15802,
+              "duree": 100,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
               "idCopie": 21130,
               "duree": 100,
               "format": "35 mm",
@@ -6634,13 +6542,6 @@
               "idCopie": 29418,
               "duree": 100,
               "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 15802,
-              "duree": 100,
-              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -6689,6 +6590,13 @@
               "selected": true
             },
             {
+              "idCopie": 15802,
+              "duree": 100,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
               "idCopie": 21130,
               "duree": 100,
               "format": "35 mm",
@@ -6706,13 +6614,6 @@
               "idCopie": 29418,
               "duree": 100,
               "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 15802,
-              "duree": 100,
-              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -6933,6 +6834,50 @@
       ]
     },
     {
+      "idSeance": 188415,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3675,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32063,
+      "typeEvenement": 13,
+      "dateHeure": "2025-04-19T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33903,
+          "titre": "Homme que j'ai tué",
+          "art": "L'",
+          "titreVo": "Broken Lullaby",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1932,
+          "duree": 77,
+          "generique": "Lionel Barrymore, Nancy Carroll, Phillips Holmes, Louise Carter",
+          "adaptation": "D'après la pièce _L'Homme que j'ai tué_ de Maurice Rostand.",
+          "synopsis": "Rongé par la culpabilité, un jeune homme qui en a tué un autre à la guerre vient trouver la famille de sa victime un an après.",
+          "miniTexte": "Hanté par le remords, un jeune Français se rend dans la famille du soldat allemand qu'il a tué pendant la guerre. Inspiré de la pièce pacifiste de Maurice Rostand, Lubitsch explore la culpabilité et le pardon avec une grande délicatesse. L'unique mélodrame de sa période américaine.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 3211,
+              "duree": 77,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 4033
+        }
+      ]
+    },
+    {
       "idSeance": 187819,
       "idProg": 334,
       "idCycleCategories": [
@@ -7068,7 +7013,7 @@
       ]
     },
     {
-      "idSeance": 186409,
+      "idSeance": 188413,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -7080,8 +7025,8 @@
       ],
       "idEvenement": 32066,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-17T17:30:00",
-      "idSalle": "HL",
+      "dateHeure": "2025-04-19T16:00:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -7563,7 +7508,7 @@
       ]
     },
     {
-      "idSeance": 187929,
+      "idSeance": 188412,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -7575,7 +7520,7 @@
       ],
       "idEvenement": 32090,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-07T16:45:00",
+      "dateHeure": "2025-04-17T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -7656,7 +7601,7 @@
       ]
     },
     {
-      "idSeance": 186335,
+      "idSeance": 188414,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -7668,7 +7613,7 @@
       ],
       "idEvenement": 32091,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-14T18:00:00",
+      "dateHeure": "2025-04-17T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -7795,7 +7740,7 @@
       ],
       "idEvenement": 32094,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-07T14:30:00",
+      "dateHeure": "2025-04-07T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -8098,7 +8043,7 @@
       "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
-      "idSeance": 185693,
+      "idSeance": 188421,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -8110,7 +8055,7 @@
       ],
       "idEvenement": 32109,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-21T16:30:00",
+      "dateHeure": "2025-03-20T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -8176,7 +8121,7 @@
       ]
     },
     {
-      "idSeance": 185882,
+      "idSeance": 188422,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -8188,7 +8133,7 @@
       ],
       "idEvenement": 32110,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-28T16:00:00",
+      "dateHeure": "2025-03-20T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -8786,7 +8731,7 @@
       ]
     },
     {
-      "idSeance": 187886,
+      "idSeance": 188419,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -8798,7 +8743,7 @@
       ],
       "idEvenement": 32130,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-20T20:00:00",
+      "dateHeure": "2025-03-19T20:00:00",
       "idSalle": "HL",
       "typeSeance": 44,
       "items": [
@@ -9429,12 +9374,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
-            },
-            {
               "idCopie": 6617,
               "duree": 95,
               "format": "35 mm",
@@ -9449,6 +9388,12 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 92
@@ -9487,12 +9432,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
-            },
-            {
               "idCopie": 6617,
               "duree": 95,
               "format": "35 mm",
@@ -9507,6 +9446,12 @@
               "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
+            },
+            {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 92
@@ -10788,33 +10733,18 @@
           "titre": "Bronco Billy",
           "realisateurs": "Clint Eastwood",
           "annee": 1980,
-          "duree": 116,
+          "duree": 119,
           "generique": "Clint Eastwood, Sondra Locke, Geoffrey Lewis",
           "ageMinimal": 10,
           "miniTexte": "Un cow-boy solitaire, propriétaire d'un cirque itinérant en déroute, engage une épouse délaissée croisée sur sa route. La rencontre de deux univers dans une comédie poétique, qui balance entre le divertissement pur et un hommage nostalgique au Far West, véritable chant nostalgique à la gloire du vieux rêve américain.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 17879,
-              "duree": 116,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29106,
-              "duree": 119,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 17847,
               "duree": 119,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 386
@@ -10892,15 +10822,6 @@
           "commentaire": "« Henri Langlois est toujours vivant au fond de moi. C'est lui qui m'a incité avec passion à tourner des films en couleurs. J'ai tourné à titre d'essai _Dodes'kaden_. Après avoir fait _Dersou Ouzala_, j'ai enfin pu, dans _Kagemusha_, atteindre le stade où j'utilisai la couleur librement, à ma manière. » (Akira Kurosawa)",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 3647,
-              "duree": 179,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "JPN",
-              "sousTitres": "STF",
-              "selected": true
-            },
             {
               "idCopie": 11786,
               "duree": 179,
@@ -12334,12 +12255,13 @@
           "idFilm": 37935,
           "titre": "Nuages flottants",
           "titreVo": "Ukigumo",
+          "titreNx": "浮雲",
           "realisateurs": "Mikio Naruse",
           "annee": 1955,
           "generique": "Hideko Takamine, Masayuki Mori, Mariko Okada",
           "adaptation": "D'après le roman _Nuages flottants_ de Fumiko Hayashi.",
           "synopsis": "Durant un voyage en Indochine pendant la Seconde Guerre mondiale, Yukiko fait la rencontre de Kengo, un homme marié. Celui-ci promet de divorcer à leur retour au Japon.",
-          "miniTexte": "Yukiko dit à son éternel et vieillissant amant qui n'a jamais quitté sa femme pour elle : « Quand nous marchons ensemble, on a l'air d'un couple. » Dans les films de Mikio Naruse, quand un couple marche, il parle le plus souvent du couple et de la marche. Ils parlent de leur façon de marcher, de ce que c'est de marcher ensemble ou de comment les autres les perçoivent quand ils marchent à deux. Mais peut-on vraiment marcher ensemble ? — Patrick Chiha",
+          "miniTexte": "Yukiko dit à son éternel et vieillissant amant qui n'a jamais quitté sa femme pour elle : « Quand nous marchons ensemble, on a l'air d'un couple. » Dans les films de Mikio Naruse, quand un couple marche, il parle le plus souvent du couple et de la marche. Ils parlent de leur façon de marcher, de ce que c'est de marcher ensemble ou de comment les autres les perçoivent quand ils marchent à deux. Mais peut-on vraiment marcher ensemble ? — Patric Chiha",
           "status": 2,
           "idFilmBoxoffice": 1930
         },
@@ -12379,7 +12301,7 @@
           "idFilm": 155069,
           "titre": "Mouvement des choses",
           "art": "Le",
-          "titreVo": "Movimento das Coisas",
+          "titreVo": "Movimento das coisas",
           "artVo": "O",
           "realisateurs": "Manuela Serra",
           "annee": 1985,
@@ -12470,8 +12392,8 @@
           "annee": 1936,
           "generique": "Sylvia Bataille, Jane Marken, André Gabriello, Georges Darnoux",
           "adaptation": "D'après la nouvelle _Une partie de campagne_ de Guy de Maupassant.",
-          "synopsis": "Été 1860, Monsieur Dufour, accompagné de sa famille, décide de passer une journée à la campagne.\n\n---\n\nÉté 1860. Monsieur Dufour, un commerçant parisien, ainsi que son épouse, sa belle-mère, sa jeune fille et son commis et futur gendre, passent une journée à la campagne et déjeunent à l'auberge du père Poulain. Deuxcanotiers en goguette entreprennent de séduirela mère et la fille...",
-          "miniTexte": "Une journée en famille à la campagne, au bord du Loing. La relation entre une courtisane et son timide tailleur à Hong Kong. Toutes ces robes qu'on touche mais qui nous séparent de l'être aimé. Puis soudain, la pluie. Enfin un contact. Bouleversant, déchirant. Les gouttes pénètrent les surfaces. Et l'on entrevoit pour un instant le bonheur. — Patrick Chiha",
+          "synopsis": "Été 1860. Monsieur Dufour et sa famille passent une journée à la campagne.",
+          "miniTexte": "Une journée en famille à la campagne, au bord du Loing. La relation entre une courtisane et son timide tailleur à Hong Kong. Toutes ces robes qu'on touche mais qui nous séparent de l'être aimé. Puis soudain, la pluie. Enfin un contact. Bouleversant, déchirant. Les gouttes pénètrent les surfaces. Et l'on entrevoit pour un instant le bonheur. — Patric Chiha",
           "status": 2,
           "idFilmBoxoffice": 1315
         },
@@ -12485,7 +12407,7 @@
           "realisateurs": "Wong Kar-wai",
           "annee": 2006,
           "generique": "Gong Li, Chang Chen, Tien Feng",
-          "miniTexte": "Une journée en famille à la campagne, au bord du Loing. La relation entre une courtisane et son timide tailleur à Hong Kong. Toutes ces robes qu'on touche mais qui nous séparent de l'être aimé. Puis soudain, la pluie. Enfin un contact. Bouleversant, déchirant. Les gouttes pénètrent les surfaces. Et l'on entrevoit pour un instant le bonheur. — Patrick Chiha",
+          "miniTexte": "Une journée en famille à la campagne, au bord du Loing. La relation entre une courtisane et son timide tailleur à Hong Kong. Toutes ces robes qu'on touche mais qui nous séparent de l'être aimé. Puis soudain, la pluie. Enfin un contact. Bouleversant, déchirant. Les gouttes pénètrent les surfaces. Et l'on entrevoit pour un instant le bonheur. — Patric Chiha",
           "status": 2
         },
         {
@@ -12972,7 +12894,7 @@
       ],
       "idEvenement": 32355,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-28T18:00:00",
+      "dateHeure": "2025-03-28T19:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -13666,97 +13588,6 @@
       ]
     },
     {
-      "idSeance": 186526,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 955,
-          "idCategorie": 3720,
-          "titreCycle": "Louis Skorecki",
-          "titreSousCycle": "Courts métrages"
-        }
-      ],
-      "idEvenement": 32415,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-21T18:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 155083,
-          "titre": "Pieds dans les nuages (et la tête dans la lune)",
-          "art": "Les",
-          "realisateurs": "Louis Skorecki",
-          "annee": 1966,
-          "duree": 20,
-          "generique": "Emmanuel Crimail, Laura Mathews de Saint Phalle",
-          "miniTexte": "Le premier film de Skorecki, un essai amoureux « sous influence Godard (surtout _Bande à part_) », et où l'on peut entendre un solo inédit d'Archie Shepp, enregistré à New York en 65.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29206,
-              "duree": 20,
-              "format": "DCP"
-            }
-          ]
-        },
-        {
-          "ordre": 2,
-          "idFilm": 71649,
-          "titre": "Escalier de la haine",
-          "art": "L'",
-          "realisateurs": "Louis Skorecki",
-          "annee": 1982,
-          "duree": 41,
-          "generique": "Joseph Morder, Françoise Grimaldi, Pierre Brody, Thérèse Giraud",
-          "miniTexte": "De drôles de « personnages » s'agitent dans un squatt irréaliste et coloré, sans jamais s'écouter, à croire qu'ils vivent chacun dans un espace différent. Adoré par Serge Daney, le film le plus personnel de Skorecki, et le premier dans lequel il apparaît, dans le rôle d'un rat/conteur.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29207,
-              "duree": 41,
-              "format": "DCP"
-            }
-          ]
-        },
-        {
-          "ordre": 3,
-          "idFilm": 155087,
-          "titre": "Une histoire sentimentale",
-          "realisateurs": "Louis Skorecki",
-          "annee": 1984,
-          "duree": 25,
-          "miniTexte": "« Un film trop lent, trop complaisant, garrelo-straubien, dont le seul intérêt est d'avoir mis en scène quelques polaroïds de l'adolescent qui joue un petit rôle dans le très beau film de Stavros Tornes, _Danilo Treles_ (1986), un film dédié à l'Escalier de la haine parce que le héros y porte lui aussi un masque de rat. » Louis Skorecki",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29209,
-              "duree": 25,
-              "format": "Numérique"
-            }
-          ]
-        },
-        {
-          "ordre": 4,
-          "idFilm": 155088,
-          "titre": "LN 2/3",
-          "realisateurs": "Louis Skorecki",
-          "annee": 1988,
-          "duree": 10,
-          "generique": "Hélène Louvart",
-          "miniTexte": "Court métrage poétique, fait avec un reste de bobine sur le tournage du _Retour de Jean_.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29210,
-              "duree": 10,
-              "format": "DCP"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 188343,
       "idProg": 334,
       "idCycleCategories": [
@@ -13771,6 +13602,8 @@
       "typeEvenement": 13,
       "dateHeure": "2025-04-28T16:30:00",
       "idSalle": "JE",
+      "idSeanceAssoc": 188420,
+      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -13830,214 +13663,6 @@
         }
       ],
       "mention": "Séance présentée par Eléonore Weber"
-    },
-    {
-      "idSeance": 187992,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 955,
-          "idCategorie": 3652,
-          "titreCycle": "Louis Skorecki",
-          "titreSousCycle": "Les films"
-        },
-        {
-          "idCycle": 955,
-          "idCategorie": 3721,
-          "titreCycle": "Louis Skorecki",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 32421,
-      "dateHeure": "2025-04-20T17:30:00",
-      "idSalle": "GF",
-      "typeAssoc": 118,
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 155086,
-          "titre": "C.N.C., Contre la Nouvelle Cinéphilie",
-          "realisateurs": "Louis Skorecki",
-          "annee": 1984,
-          "duree": 70,
-          "generique": "Xavier Villetard, Édouard Waintrop",
-          "miniTexte": "« Quand on parle de cinéphilie, je crois qu'il faut expliquer, préciser, mettre les choses à plat : mettre soi-même les pieds dans le plat et y aller de sa personne, faute de quoi l'autre, le lecteur, risque de n'y rien comprendre. » Lecture à deux voix du célèbre article de Skorecki écrit en 1978 pour les _Cahiers du cinéma_.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29208,
-              "duree": 70,
-              "format": "Numérique"
-            }
-          ],
-          "idFilmBoxoffice": 26448
-        },
-        {
-          "idConf": 32431,
-          "titre": "DIALOGUE AVEC LOUIS SKORECKI",
-          "typeConference": "Conférence",
-          "duree": 60,
-          "ordre": 2
-        }
-      ]
-    },
-    {
-      "idSeance": 186516,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 955,
-          "idCategorie": 3748,
-          "titreCycle": "Louis Skorecki",
-          "titreSousCycle": "Les Cinéphiles"
-        }
-      ],
-      "idEvenement": 32425,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-20T20:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 155089,
-          "titre": "Retour des cinéphiles",
-          "art": "Le",
-          "realisateurs": "Louis Skorecki",
-          "annee": 2007,
-          "duree": 52,
-          "generique": "Frédéric Beigbeder, Axelle Ropert",
-          "miniTexte": "« Alors qu'est-ce que _Le Retour des cinéphiles_ ? Une suite ? Une version longue ? Une postface ? C'est tout ce que l'on souhaite : disons que c'est une version à la fois plus lente et surtout moins austère. » Louis Skorecki",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29212,
-              "duree": 52,
-              "format": "Numérique"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 186527,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 955,
-          "idCategorie": 3652,
-          "titreCycle": "Louis Skorecki",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32426,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-21T20:15:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 155090,
-          "titre": "Skorecki déménage",
-          "realisateurs": "Louis Skorecki",
-          "annee": 2009,
-          "duree": 78,
-          "miniTexte": "Raphaël Girault met en scène le départ de Louis Skorecki de _Libération_ en 2007, après qu'Édouard de Rothschild est entré au capital du journal. Tantôt cocasse, tantôt malplaisant, le désormais ex-critique finit par bouleverser, incarnation d'un monde – la presse, la critique cinéma – en train de radicalement basculer.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29213,
-              "duree": 78,
-              "format": "DCP"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 186564,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 955,
-          "idCategorie": 3652,
-          "titreCycle": "Louis Skorecki",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32427,
-      "typeEvenement": 13,
-      "dateHeure": "2025-04-23T18:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 155091,
-          "titre": "Skorecki devient producteur",
-          "realisateurs": "Louis Skorecki",
-          "annee": 2013,
-          "duree": 94,
-          "generique": "Louis Skorecki, Marie Anne Guerin, Vladimir Léon",
-          "miniTexte": "Entouré de Marie Anne Guerin et Vladimir Léon, Skorecki lance sa boîte de production, un paradoxe pour « quelqu'un qui ne veut plus aller voir de films et qui part en courant dès qu'il est question d'argent ».",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29214,
-              "duree": 94,
-              "format": "Numérique"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 186496,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 955,
-          "idCategorie": 3652,
-          "titreCycle": "Louis Skorecki",
-          "titreSousCycle": "Les films"
-        },
-        {
-          "idCycle": 955,
-          "idCategorie": 3721,
-          "titreCycle": "Louis Skorecki",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 32428,
-      "dateHeure": "2025-04-19T15:00:00",
-      "idSalle": "GF",
-      "typeAssoc": 118,
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 155092,
-          "titre": "Juif de Lascaux",
-          "art": "Le",
-          "realisateurs": "Louis Skorecki",
-          "annee": 2015,
-          "duree": 52,
-          "generique": "Rebecca Marder, Pascal Cervo, Françoise Widhoff",
-          "miniTexte": "Une série de vignettes, décalées, incongrues, de conseils culinaires, de masques d'animaux et d'expressions yiddish pour raconter – ou ne surtout pas le faire, ou alors par la bande – ses origines juives. Longtemps resté invisible, le film est présenté dans une toute nouvelle restauration mise en œuvre par la Cinémathèque française.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29215,
-              "duree": 52,
-              "format": "DCP"
-            }
-          ]
-        },
-        {
-          "idConf": 32430,
-          "titre": "DIALOGUE AVEC LOUIS SKORECKI",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
-        }
-      ]
     },
     {
       "idSeance": 188041,
@@ -14982,6 +14607,35 @@
       ]
     },
     {
+      "idSeance": 188420,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3719,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "[Collimateur]"
+        }
+      ],
+      "idEvenement": 32486,
+      "typeEvenement": 14,
+      "dateHeure": "2025-04-28T13:30:00",
+      "typeConference": "Conférence",
+      "idSalle": "JE",
+      "duree": 150,
+      "idSeanceAssoc": 188343,
+      "typeAssoc": 117,
+      "items": [
+        {
+          "idConf": 32486,
+          "titre": "PROGRAMME DE RECHERCHE « COLLIMATEUR » : SÉMINAIRE « ANALYSES D'ANALYSES »",
+          "typeConference": "Conférence",
+          "duree": 150,
+          "ordre": 1
+        }
+      ]
+    },
+    {
       "idSeance": 185948,
       "idProg": 334,
       "idCycleCategories": [
@@ -15097,13 +14751,23 @@
           "ordre": 1,
           "idFilm": 125654,
           "titre": "Souvenirs de Marnie",
-          "titreVo": "Omoide no Mânî",
+          "titreVo": "Omoide no Mānī",
+          "titreNx": "思い出のマーニー",
           "realisateurs": "Hiromasa Yonebayashi",
           "annee": 2014,
-          "adaptation": "D'après le roman _When Marnie was there_ de Joan G. Robinson.",
+          "duree": 103,
+          "adaptation": "D'après le roman _When Marnie Was There_ de Joan G. Robinson.",
           "ageMinimal": 8,
           "synopsisJP": "Envoyée à la campagne pour soigner son asthme, une orpheline découvre une étrange demeure habitée par une autre fillette, Marnie. Une fable bouleversante sur l'enfance, la solitude, l'amour filial et les souvenirs de famille, qui explore l'imaginaire à travers une esthétique délicate.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 14708,
+              "duree": 103,
+              "format": "DCP",
+              "version": "VF"
+            }
+          ],
           "idFilmBoxoffice": 225897
         }
       ]

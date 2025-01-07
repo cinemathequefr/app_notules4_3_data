@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-06T14:04:55.363Z",
+  "updatedAt": "2025-01-07T09:03:28.325Z",
   "data": [
     {
       "idSeance": 185115,
@@ -5438,21 +5438,13 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29381,
-              "duree": 106,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 29349,
               "duree": 106,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "Autres"
+              "sousTitres": "Autres",
+              "selected": true
             },
             {
               "idCopie": 28785,
@@ -6525,14 +6517,14 @@
           "titre": "Grand Prix",
           "realisateurs": "John Frankenheimer",
           "annee": 1966,
-          "duree": 170,
+          "duree": 176,
           "generique": "James Garner, Eva Marie Saint, Yves Montand",
           "miniTexte": "F1, saison 1966 : le duel entre Ferrari et Jordan, la vie d'une écurie, les rivalités entre pilotes, les femmes, l'ivresse de la course. Sur les circuits mythiques de Monaco, Spa ou Monza, les caméras embarquées filment à vitesse réelle, quand bruits de moteurs et split screens donnent de l'ampleur à la performance sportive. Un instantané d'une époque où la passion l'emportait encore sur la technologie.",
           "status": 2,
           "copies": [
             {
               "idCopie": 28782,
-              "duree": 170,
+              "duree": 176,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
@@ -12369,7 +12361,7 @@
       ],
       "idEvenement": 31530,
       "typeEvenement": 13,
-      "libelleEvenement": "32E FESTIVAL GÉRARDMER",
+      "libelleEvenement": "GRAND PRIX DU 32E FESTIVAL GÉRARDMER",
       "dateHeure": "2025-02-05T20:00:00",
       "idSalle": "HL",
       "typeSeance": 43,
