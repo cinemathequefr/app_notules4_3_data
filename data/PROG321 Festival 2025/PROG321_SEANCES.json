@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-06T09:34:48.134Z",
+  "updatedAt": "2025-01-06T14:04:49.486Z",
   "data": [
     {
       "idSeance": 188170,
@@ -487,6 +487,7 @@
           "realisateurs": "Gueorgui Chenguelaia",
           "annee": 1969,
           "duree": 85,
+          "generique": "Avtandil Varazi, Dodo Abashidze, Zurab Kapianidze",
           "miniTexte": "En pleine errance dans les rues de Tbilissi, le peintre géorgien Niko Pirosmanachvili échange ses créations contre un repas. Inspiré par le style naïf, Chengelaia privilégie la poésie à la biographie pour sonder la marginalisation d'un artiste au talent méconnu, confronté à une critique qui le méprise et une poignée de connaisseurs enthousiastes.",
           "status": 2,
           "copies": [
@@ -1143,6 +1144,7 @@
           "realisateurs": "Camille de Casabianca",
           "annee": 1986,
           "duree": 95,
+          "generique": "Yves Rénier, Christine Citti, Marco Bisson",
           "miniTexte": "Les déboires d'une jeune femme sentimentale abonnée aux hommes mariés. Sur des images de Raymond Depardon, Camille de Casabianca – coscénariste de _Thérèse_ avec son père, Alain Cavalier – signe un premier long métrage en forme de chronique aigre-douce, qui rivalise de spontanéité et de pudeur. Une tribulation cocasse et légère, habilement construite entre reportage et fiction.",
           "status": 2,
           "copies": [
@@ -1177,11 +1179,13 @@
           "ordre": 1,
           "idFilm": 135133,
           "titre": "Happy Day",
-          "realisateurs": "Pantelis Voulgaris",
+          "realisateurs": "Pantelís Voúlgaris",
           "annee": 1976,
           "duree": 105,
+          "generique": "Stathis Yalelis, Stavros Kalaroglou, Kostas Tzoumas",
+          "adaptation": "D'après le roman _La Peste_ d'Andréas Franghias.",
           "miniTexte": "Sur une île déserte, un camp de prisonniers subit interrogatoires, violences et châtiments. Multiprimé au Festival de Thessalonique en 1976, _Happy Day_ retrace le parcours chaotique des détenus politiques de la gauche durant la guerre civile grecque. À la fois surréaliste et innovant, il capte brillamment l'atmosphère pesante de ces geôles, qui évoquent l'univers allégorique d'Orwell.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29133,
@@ -1221,8 +1225,9 @@
           "realisateurs": "Carlos Saura",
           "annee": 1959,
           "duree": 84,
+          "generique": "Manuel Zarzo, Luis Marín, Juanjo Losada",
           "miniTexte": "Portrait d'un groupe de délinquants de la banlieue madrilène; ou l'impossible conquête du centre-ville par les plus démunis. Inspiré de la Nouvelle Vague française et du néoréalisme italien, le premier long métrage de Saura subit les coupes de la censure franquiste. Sa restauration propose aujourd'hui une nouvelle version, fidèle à l'œuvre originelle qui révolutionna le cinéma espagnol d'après-guerre.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29134,
@@ -2152,6 +2157,7 @@
           "realisateurs": "Jacques Bral",
           "annee": 1979,
           "duree": 110,
+          "generique": "Christine Boisson, Gérard Lanvin, André Dussollier",
           "status": 1,
           "copies": [
             {
@@ -2193,6 +2199,8 @@
           "realisateurs": "Jacques Bral",
           "annee": 1982,
           "duree": 97,
+          "generique": "Jean-François Balmer, Sandra Montaigu, Pierre Santini",
+          "adaptation": "D'après le roman _Morgue pleine_ de Jean-Patrick Manchette.",
           "status": 1,
           "copies": [
             {
@@ -2982,8 +2990,9 @@
           "realisateurs": "Hiroshi Shimizu",
           "annee": 1948,
           "duree": 65,
+          "generique": "Michitaro Mizushima, Sachiko Mitani, Wakako Kunitomo, Shin'ichi Himori",
           "miniTexte": "Sur une route de montagne, le trajet d'un groupe de passagers, dont le bus tombe en panne, devient le théâtre de retrouvailles inattendues, où s'entremêlent destins individuels et blessures collectives. Shimizu fait du traumatisme de la guerre une fable douce-amère, le tableau d'une société à reconstruire, dans un chef-d'œuvre retrouvé, perdu pendant 70 ans.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29385,
@@ -3046,8 +3055,9 @@
           "realisateurs": "Lorenza Mazzetti",
           "annee": 1953,
           "duree": 11,
+          "generique": "Victor Willing",
           "miniTexte": "Un médecin appelé au chevet d'un patient au mal incurable. Adaptation d'une nouvelle de Kafka, une perle surréaliste et cauchemardesque, qui refait surface après 70 ans de disparition.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29387,
@@ -3065,8 +3075,10 @@
           "realisateurs": "Lorenza Mazzetti",
           "annee": 1954,
           "duree": 29,
+          "generique": "Michael Andrews, Claude Rogers, Mary Rava",
+          "adaptation": "D'après le roman _La Métamorphose_ de Franz Kafka.",
           "miniTexte": "La terreur animale d'un homme qui, un matin, se réveille sans pouvoir quitter son lit. Un essai d'avant-garde, que Mazzetti tourne clandestinement pendant ses études à la Slade School of Art, comme un récit d'aliénation, inspiré de _La Métamorphose_ de Kafka.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29386,
@@ -3084,8 +3096,9 @@
           "realisateurs": "Lorenza Mazzetti",
           "annee": 1955,
           "duree": 52,
+          "generique": "Eduardo Paolozzi, Michael Andrews",
           "miniTexte": "Déambulation dans l'East End londonien, sur les pas de deux dockers sourds-muets. Considéré comme l'un des tout premiers films du Free Cinema, _Together_ reçoit la Mention spéciale du Film de recherche au Festival de Cannes.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29388,
@@ -3229,7 +3242,8 @@
           "annee": 1918,
           "duree": 50,
           "generique": "Harry Carey, Molly Malone, Vester Pegg",
-          "status": 1,
+          "miniTexte": "Un western inédit de John Ford, perdu pendant 106 ans avant d'être retrouvé au Chili. Pour l'un de ses premiers essais, le cinéaste filme la guerre de Sécession et les tourments d'un maraudeur en quête de rédemption, avec un sens de l'image déjà brillant et la collaboration marquante d'Harry Carey.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29407,
@@ -3470,8 +3484,9 @@
           "realisateurs": "Shyam Benegal",
           "annee": 1976,
           "duree": 134,
+          "generique": "Girish Karnad, Smita Patil, Naseeruddin Shah",
           "miniTexte": "Classique du cinéma indien, _Manthan_ raconte la lutte collective de villageois en faveur de leur émancipation économique, grâce à un vétérinaire idéaliste qui initie une coopérative laitière. Financé par 500 000 agriculteurs indiens, un exemple de cinéma engagé, largement célébré pour ses performances d'acteurs autant que pour son impact social sur le pays.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29427,
@@ -3710,7 +3725,8 @@
           "annee": 1967,
           "duree": 90,
           "generique": "Pierre Luzan, René-Jean Chauffard, Martine Brochard",
-          "status": 1,
+          "miniTexte": "Un policier se prend d'amitié pour un vagabond qu'il est chargé de surveiller. D'expérimentations plastiques en décalages visuels, Lapoujade signe une fable philosophique fourmillante d'inventions et de drôlerie, saluée par le Prix spécial du Jury à la Mostra de Venise 1968.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29443,
@@ -3870,6 +3886,7 @@
           "realisateurs": "Pál Sugár",
           "annee": 1929,
           "duree": 60,
+          "generique": "Lissy Arna, Hans Adalbert Schlettow, Charlotte Susa",
           "miniTexte": "Une jeune fille est envoyée en prison, après avoir accepté de voler pour son amant. Avec son cadre urbain, le film entrelace admirablement la manipulation, l'amour et le crime dans une succession de plans somptueux. Dramatique, rythmé, captivant, l'un des derniers muets hongrois, d'une étonnante modernité.",
           "status": 2,
           "copies": [

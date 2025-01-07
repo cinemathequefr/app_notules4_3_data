@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-06T09:33:33.697Z",
+  "updatedAt": "2025-01-06T14:10:37.988Z",
   "data": [
     {
       "idSeance": 185394,
@@ -1903,7 +1903,8 @@
               "idCopie": 28971,
               "duree": 101,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -3283,7 +3284,7 @@
         {
           "ordre": 1,
           "idFilm": 45584,
-          "titre": "Je veux vivre",
+          "titre": "Je veux vivre !",
           "titreVo": "I Want to Live!",
           "realisateurs": "Robert Wise",
           "annee": 1958,
@@ -5462,7 +5463,7 @@
         {
           "ordre": 1,
           "idFilm": 46127,
-          "titre": "Malédiction des hommes chats",
+          "titre": "Malédiction des hommes-chats",
           "art": "La",
           "titreVo": "Curse of the Cat People",
           "realisateurs": "Gunther V. Fritsch, Robert Wise",
@@ -5511,7 +5512,7 @@
         {
           "ordre": 1,
           "idFilm": 46127,
-          "titre": "Malédiction des hommes chats",
+          "titre": "Malédiction des hommes-chats",
           "art": "La",
           "titreVo": "Curse of the Cat People",
           "realisateurs": "Gunther V. Fritsch, Robert Wise",
@@ -7047,6 +7048,14 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 29513,
+              "duree": 84,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
               "idCopie": 29084,
               "duree": 84,
               "format": "35 mm",
@@ -7087,6 +7096,14 @@
           "miniTexte": "Le remake d'un film perdu de Lubitsch (_Kiss me Again_, 1925) qui voit un couple apparemment modèle, troublé par l'irruption d'un artiste excentrique. Une critique de mœurs bourgeoises, qui égrène les gags et les traits d'esprit avec brio.",
           "status": 2,
           "copies": [
+            {
+              "idCopie": 29513,
+              "duree": 84,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
             {
               "idCopie": 29084,
               "duree": 84,
@@ -9412,6 +9429,12 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
+            },
+            {
               "idCopie": 6617,
               "duree": 95,
               "format": "35 mm",
@@ -9419,12 +9442,6 @@
               "langCopie": "POR",
               "sousTitres": "STF",
               "selected": true
-            },
-            {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
             },
             {
               "idCopie": 29040,
@@ -9470,6 +9487,12 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 6438,
+              "duree": 95,
+              "format": "Numérique",
+              "version": "VO"
+            },
+            {
               "idCopie": 6617,
               "duree": 95,
               "format": "35 mm",
@@ -9477,12 +9500,6 @@
               "langCopie": "POR",
               "sousTitres": "STF",
               "selected": true
-            },
-            {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
             },
             {
               "idCopie": 29040,
@@ -11324,7 +11341,7 @@
           "titreVo": "Man Who Shot Liberty Valance",
           "artVo": "The",
           "realisateurs": "John Ford",
-          "annee": null,
+          "annee": 1962,
           "duree": 122,
           "generique": "James Stewart, John Wayne, Vera Miles",
           "adaptation": "D'après la nouvelle _The Man Who Shot Liberty Valance_ de Dorothy M. Johnson.",
