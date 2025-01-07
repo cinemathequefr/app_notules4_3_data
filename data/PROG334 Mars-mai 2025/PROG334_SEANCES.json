@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-07T14:11:13.535Z",
+  "updatedAt": "2025-01-07T15:28:09.840Z",
   "data": [
     {
       "idSeance": 185394,
@@ -3459,12 +3459,18 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 28288,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO",
+              "selected": true
+            },
+            {
               "idCopie": 2404,
               "duree": 96,
               "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
+              "sousTitres": "STF"
             },
             {
               "idCopie": 29161,
@@ -3472,12 +3478,6 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG"
-            },
-            {
-              "idCopie": 28288,
-              "duree": 96,
-              "format": "35 mm",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 12288
@@ -6503,6 +6503,13 @@
               "selected": true
             },
             {
+              "idCopie": 21130,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
               "idCopie": 29417,
               "duree": 100,
               "format": "35 mm",
@@ -6511,13 +6518,6 @@
             },
             {
               "idCopie": 29418,
-              "duree": 100,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 21130,
               "duree": 100,
               "format": "35 mm",
               "version": "VO",
@@ -6568,6 +6568,13 @@
               "selected": true
             },
             {
+              "idCopie": 21130,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
               "idCopie": 29417,
               "duree": 100,
               "format": "35 mm",
@@ -6576,13 +6583,6 @@
             },
             {
               "idCopie": 29418,
-              "duree": 100,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 21130,
               "duree": 100,
               "format": "35 mm",
               "version": "VO",
@@ -7977,7 +7977,7 @@
           "titreVo": "Romeo und Julia im Schnee",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1920,
-          "duree": 48,
+          "duree": 49,
           "generique": "Jakob Tiedtke, Marga Köhler, Lotte Neumann, Gustav von Wangenheim",
           "adaptation": "D'après la pièce _Roméo et Juliette_ de William Shakespeare.",
           "miniTexte": "Pastiche de la pièce de Shakespeare, _Roméo et Juliette dans la neige_ fait partie de la série « montagnarde » de Lubitsch. Transformés en rustres bavarois, les Capulethofer et les Montekugerl s'affrontent à coup de batailles de boules de neige et de procès farfelus.",
@@ -7985,7 +7985,7 @@
           "copies": [
             {
               "idCopie": 29062,
-              "duree": 48,
+              "duree": 49,
               "format": "35 mm",
               "intertitres": "INT. ALL.",
               "stDemande": true
@@ -12212,11 +12212,21 @@
           "titreNx": "浮雲",
           "realisateurs": "Mikio Naruse",
           "annee": 1955,
+          "duree": 123,
           "generique": "Hideko Takamine, Masayuki Mori, Mariko Okada",
           "adaptation": "D'après le roman _Nuages flottants_ de Fumiko Hayashi.",
           "synopsis": "Durant un voyage en Indochine pendant la Seconde Guerre mondiale, Yukiko fait la rencontre de Kengo, un homme marié. Celui-ci promet de divorcer à leur retour au Japon.",
           "miniTexte": "Yukiko dit à son éternel et vieillissant amant qui n'a jamais quitté sa femme pour elle : « Quand nous marchons ensemble, on a l'air d'un couple. » Dans les films de Mikio Naruse, quand un couple marche, il parle le plus souvent du couple et de la marche. Ils parlent de leur façon de marcher, de ce que c'est de marcher ensemble ou de comment les autres les perçoivent quand ils marchent à deux. Mais peut-on vraiment marcher ensemble ? — Patric Chiha",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 441,
+              "duree": 123,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 1930
         },
         {
@@ -12260,7 +12270,13 @@
           "realisateurs": "Manuela Serra",
           "annee": 1985,
           "miniTexte": "Dans un village du nord du Portugal, trois familles, une journée de travail. Le mouvement des choses, une suite de gestes, des éclats de lumières, la mise en scène du temps. Tout le monde est pris dans ses tâches quotidiennes. Rattachés au monde et aux autres, ils vivent dans le présent. Seule Isabel regarde ailleurs, peut-être vers l'avenir. Que voit-elle ? — Patrick Chiha",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29517,
+              "duree": 0
+            }
+          ]
         },
         {
           "ordre": 2,
@@ -12344,10 +12360,19 @@
           "titre": "Une partie de campagne",
           "realisateurs": "Jean Renoir",
           "annee": 1936,
+          "duree": 40,
           "generique": "Sylvia Bataille, Jane Marken, André Gabriello, Georges Darnoux",
           "adaptation": "D'après la nouvelle _Une partie de campagne_ de Guy de Maupassant.",
           "synopsis": "Été 1860. Monsieur Dufour et sa famille passent une journée à la campagne.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 10063,
+              "duree": 40,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            }
+          ],
           "idFilmBoxoffice": 1315
         },
         {
@@ -12359,9 +12384,19 @@
           "artVo": "The",
           "realisateurs": "Wong Kar-wai",
           "annee": 2006,
+          "duree": 56,
           "generique": "Gong Li, Chang Chen, Tien Feng",
           "miniTexte": "Une journée en famille à la campagne, au bord du Loing. La relation entre une courtisane et son timide tailleur à Hong Kong. Toutes ces robes qu'on touche mais qui nous séparent de l'être aimé. Puis soudain, la pluie. Enfin un contact. Bouleversant, déchirant. Les gouttes pénètrent les surfaces. Et l'on entrevoit pour un instant le bonheur. — Patric Chiha",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29516,
+              "duree": 56,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 319082
         },
         {
@@ -13652,22 +13687,7 @@
               "format": "35 mm",
               "version": "VO",
               "intertitres": "INT. ANG.",
-              "stDemande": true,
-              "selected": true
-            },
-            {
-              "idCopie": 29235,
-              "duree": 102,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
-              "idCopie": 29234,
-              "duree": 105,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
+              "stDemande": true
             }
           ]
         }

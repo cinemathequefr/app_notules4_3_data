@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-07T09:03:23.932Z",
+  "updatedAt": "2025-01-07T15:31:11.520Z",
   "data": [
     {
       "idSeance": 188170,
@@ -1410,18 +1410,12 @@
           "idCategorie": 3654,
           "titreCycle": "Restaurations et incunables",
           "titreSousCycle": "Les films"
-        },
-        {
-          "idCycle": 957,
-          "idCategorie": 3750,
-          "titreCycle": "Restaurations et incunables",
-          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32315,
+      "typeEvenement": 13,
       "dateHeure": "2025-03-06T20:00:00",
       "idSalle": "HL",
-      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -1442,13 +1436,6 @@
             }
           ],
           "idFilmBoxoffice": 29044
-        },
-        {
-          "idConf": 32664,
-          "titre": "DIALOGUE AVEC JACQUES AUDIARD",
-          "typeConference": "Dialogue",
-          "duree": 75,
-          "ordre": 2
         }
       ]
     },
@@ -2524,47 +2511,6 @@
       ]
     },
     {
-      "idSeance": 185192,
-      "idProg": 321,
-      "idCycleCategories": [
-        {
-          "idCycle": 957,
-          "idCategorie": 3654,
-          "titreCycle": "Restaurations et incunables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32520,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-07T20:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 58692,
-          "titre": "Chair pour Frankenstein",
-          "titreVo": "Carne per Frankenstein",
-          "realisateurs": "Paul Morrissey",
-          "annee": 1973,
-          "duree": 95,
-          "generique": "Joe Dallesandro, Monique Van Vooren, Udo Kier",
-          "synopsis": "Le Baron Frankenstein souhaite créer un couple de créatures pour les faire se reproduire et donner vie à une race parfaite.",
-          "miniTexte": "Produite par Andy Warhol, mais aussi par Carlo Ponti et Jean Yanne, une relecture trash du mythe de Frankenstein, qui voit le laboratoire du célèbre baron se remplir de cadavres, tandis que la baronne s'acoquine avec le nouveau valet. Sexy, sanglant, pervers : les actes les plus décalés s'enchaînent en 3D. Udo Kier aussi à l'aise avec une vésicule biliaire que Monique van Vooren avec l'aisselle de Joe Dallesandro.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29348,
-              "duree": 95,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 2049
-        }
-      ]
-    },
-    {
       "idSeance": 188220,
       "idProg": 321,
       "idCycleCategories": [
@@ -3219,14 +3165,12 @@
       ]
     },
     {
-      "idSeance": 188338,
+      "idSeance": 188438,
       "idProg": 321,
       "idCycleCategories": [
         {
           "idCycle": 762,
-          "idCategorie": 3310,
-          "titreCycle": "Conservatoire des techniques cinématographiques",
-          "titreSousCycle": "Rencontres et conférences"
+          "idCategorie": 3310
         }
       ],
       "idEvenement": 32575,
@@ -3234,13 +3178,13 @@
       "dateHeure": "2025-03-07T18:00:00",
       "typeConference": "Conférence",
       "idSalle": "GF",
-      "duree": 120,
+      "duree": 90,
       "items": [
         {
           "idConf": 32575,
           "titre": "LA « BIBLE » DU FAUST DE F. W. MURNAU. CONFÉRENCE DE LAURENT MANNONI",
           "typeConference": "Conférence",
-          "duree": 120,
+          "duree": 90,
           "ordre": 1
         }
       ]
@@ -3809,45 +3753,6 @@
       ]
     },
     {
-      "idSeance": 185232,
-      "idProg": 321,
-      "idCycleCategories": [
-        {
-          "idCycle": 957,
-          "idCategorie": 3654,
-          "titreCycle": "Restaurations et incunables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32655,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-07T20:30:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 113147,
-          "titre": "Narayana",
-          "realisateurs": "Léon Poirier",
-          "annee": 1920,
-          "duree": 67,
-          "generique": "Laurence Myrga, Edmond Van Daële, Marcelle Souty",
-          "adaptation": "D'après le roman _La Peau de chagrin_ d'Honoré de Balzac.",
-          "miniTexte": "Une statuette orientale permet à un étudiant sans-le-sou de faire cinq vœux avant de mourir. Poirier transpose _La Peau de chagrin_ de Balzac dans un envoûtant univers Art Déco, bercé par une imagerie onirique et une atmosphère mystérieuse. La modernisation fantastique d'un récit classique.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29434,
-              "duree": 67,
-              "format": "DCP",
-              "intertitres": "INT. FR."
-            }
-          ],
-          "idFilmBoxoffice": 11571
-        }
-      ]
-    },
-    {
       "idSeance": 188324,
       "idProg": 321,
       "idCycleCategories": [
@@ -3892,6 +3797,33 @@
       ]
     },
     {
+      "idSeance": 188337,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3750,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32664,
+      "typeEvenement": 14,
+      "dateHeure": "2025-03-06T22:00:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 75,
+      "items": [
+        {
+          "idConf": 32664,
+          "titre": "DIALOGUE AVEC JACQUES AUDIARD",
+          "typeConference": "Dialogue",
+          "duree": 75,
+          "ordre": 1
+        }
+      ]
+    },
+    {
       "idSeance": 188398,
       "idProg": 321,
       "idCycleCategories": [
@@ -3927,6 +3859,102 @@
               "intertitres": "INT. FR."
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188437,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 762,
+          "idCategorie": 3309
+        }
+      ],
+      "idEvenement": 32673,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-08T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44903,
+          "titre": "Faust",
+          "titreVo": "Faust – Eine deutsche Volkssage",
+          "realisateurs": "Friedrich Wilhelm Murnau",
+          "annee": 1926,
+          "duree": 107,
+          "generique": "Gösta Ekman, Emil Jannings, Camilla Horn",
+          "adaptation": "D'après la pièce _Faust_ de Johann Wolfgang von Goethe.",
+          "synopsis": "Après avoir semé la peste, Méphisto propose un pacte à Faust.",
+          "miniTexte": "Murnau transforme le héros de Goethe en personnage moderne dans un condensé de tous les mythes faustiens. Du romantisme wagnérien aux surprenantes échappées vers la comédie, il compose une lutte du jour et de la nuit pleine d'outrance. Une symphonie gothique éblouissante de beauté, dont les visions puissantes constituent la quintessence de l'expressionnisme.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29222,
+              "duree": 107,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ],
+          "idFilmBoxoffice": 4594
+        }
+      ]
+    },
+    {
+      "idSeance": 185232,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32703,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-07T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 53076,
+          "titre": "Esmeralda",
+          "art": "La",
+          "realisateurs": "Alice Guy",
+          "annee": 1906,
+          "duree": 12,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29515,
+              "duree": 12,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 113147,
+          "titre": "Narayana",
+          "realisateurs": "Léon Poirier",
+          "annee": 1920,
+          "duree": 67,
+          "generique": "Laurence Myrga, Edmond Van Daële, Marcelle Souty",
+          "adaptation": "D'après le roman _La Peau de chagrin_ d'Honoré de Balzac.",
+          "miniTexte": "Une statuette orientale permet à un étudiant sans-le-sou de faire cinq vœux avant de mourir. Poirier transpose _La Peau de chagrin_ de Balzac dans un envoûtant univers Art Déco, bercé par une imagerie onirique et une atmosphère mystérieuse. La modernisation fantastique d'un récit classique.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29434,
+              "duree": 67,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ],
+          "idFilmBoxoffice": 11571
         }
       ]
     }
