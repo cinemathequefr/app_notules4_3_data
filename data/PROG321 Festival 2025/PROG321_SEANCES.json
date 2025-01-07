@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-07T15:31:11.520Z",
+  "updatedAt": "2025-01-07T16:05:26.605Z",
   "data": [
     {
       "idSeance": 188170,
@@ -3165,31 +3165,6 @@
       ]
     },
     {
-      "idSeance": 188438,
-      "idProg": 321,
-      "idCycleCategories": [
-        {
-          "idCycle": 762,
-          "idCategorie": 3310
-        }
-      ],
-      "idEvenement": 32575,
-      "typeEvenement": 14,
-      "dateHeure": "2025-03-07T18:00:00",
-      "typeConference": "Conférence",
-      "idSalle": "GF",
-      "duree": 90,
-      "items": [
-        {
-          "idConf": 32575,
-          "titre": "LA « BIBLE » DU FAUST DE F. W. MURNAU. CONFÉRENCE DE LAURENT MANNONI",
-          "typeConference": "Conférence",
-          "duree": 90,
-          "ordre": 1
-        }
-      ]
-    },
-    {
       "idSeance": 185190,
       "idProg": 321,
       "idCycleCategories": [
@@ -3863,15 +3838,17 @@
       ]
     },
     {
-      "idSeance": 188437,
+      "idSeance": 188446,
       "idProg": 321,
       "idCycleCategories": [
         {
-          "idCycle": 762,
-          "idCategorie": 3309
+          "idCycle": 18,
+          "idCategorie": 3752,
+          "titreCycle": "Conservatoire des techniques cinématographiques",
+          "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 32673,
+      "idEvenement": 32701,
       "typeEvenement": 13,
       "dateHeure": "2025-03-08T20:30:00",
       "idSalle": "HL",
@@ -3883,21 +3860,39 @@
           "titreVo": "Faust – Eine deutsche Volkssage",
           "realisateurs": "Friedrich Wilhelm Murnau",
           "annee": 1926,
-          "duree": 107,
           "generique": "Gösta Ekman, Emil Jannings, Camilla Horn",
           "adaptation": "D'après la pièce _Faust_ de Johann Wolfgang von Goethe.",
           "synopsis": "Après avoir semé la peste, Méphisto propose un pacte à Faust.",
           "miniTexte": "Murnau transforme le héros de Goethe en personnage moderne dans un condensé de tous les mythes faustiens. Du romantisme wagnérien aux surprenantes échappées vers la comédie, il compose une lutte du jour et de la nuit pleine d'outrance. Une symphonie gothique éblouissante de beauté, dont les visions puissantes constituent la quintessence de l'expressionnisme.",
           "status": 2,
-          "copies": [
-            {
-              "idCopie": 29222,
-              "duree": 107,
-              "format": "DCP",
-              "intertitres": "INT. FR."
-            }
-          ],
           "idFilmBoxoffice": 4594
+        }
+      ]
+    },
+    {
+      "idSeance": 188447,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 18,
+          "idCategorie": 1856,
+          "titreCycle": "Conservatoire des techniques cinématographiques",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32702,
+      "typeEvenement": 14,
+      "dateHeure": "2025-03-07T18:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "GF",
+      "duree": 90,
+      "items": [
+        {
+          "idConf": 32702,
+          "titre": "LA « BIBLE » DU FAUST DE F. W. MURNAU. CONFÉRENCE DE LAURENT MANNONI",
+          "typeConference": "Conférence",
+          "duree": 90,
+          "ordre": 1
         }
       ]
     },
@@ -3933,7 +3928,8 @@
               "format": "DCP",
               "intertitres": "INT. FR."
             }
-          ]
+          ],
+          "idFilmBoxoffice": 215381
         },
         {
           "ordre": 2,
