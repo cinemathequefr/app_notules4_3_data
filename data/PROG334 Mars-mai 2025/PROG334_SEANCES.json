@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-07T09:08:13.305Z",
+  "updatedAt": "2025-01-07T14:11:13.535Z",
   "data": [
     {
       "idSeance": 185394,
@@ -5208,12 +5208,6 @@
       "idProg": 334,
       "idCycleCategories": [
         {
-          "idCycle": 525,
-          "idCategorie": 3696,
-          "titreCycle": "Ciné-club de Frédéric Bonnaud",
-          "titreSousCycle": "Les films"
-        },
-        {
           "idCycle": 973,
           "idCategorie": 3672,
           "titreCycle": "Robert Wise",
@@ -6222,20 +6216,12 @@
           "titreVo": "Madame du Barry",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1919,
-          "duree": 123,
+          "duree": 114,
           "generique": "Pola Negri, Emil Jannings, Reinhold Schünzel",
           "synopsis": "La vie romancée de Madame Du Barry, dernière favorite du roi Louis XV.\n\n---\n\n« Les grandes mises en scène de Lubitsch, l'actrice Pola Negri, sont les derniers soubresauts du cinéma allemand primitif. _La Dubarry_ de Lubitsch ouvre, aussitôt après la guerre, le marché mondial au cinéma allemand, beaucoup moins pour sa mise en scène que pour ce je ne sais quoi de trouble qui avait fait appeler le film _Passion_ aux États-Unis. »\n\n---\n\n« Projeté à New York sous le titre _Passion_, _La Dubarry_ fit sensation, de Pola Negri une star, de Lubitsch un génie cinématographique, et força le blocus qu'avaient essayé d'établir contre le film allemand les industries française, anglaise, italienne et américaine, inquiètes d'un concurrent éventuel. »",
           "miniTexte": "L'ascension sociale de Jeanne, apprentie modiste, qui devient la maîtresse de Louis XV, puis une victime de la Révolution. Projeté à New York sous le titre Passion, _La Du Barry_ fait sensation, de Pola Negri une star, et de Lubitsch un génie cinématographique.",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 3436,
-              "duree": 123,
-              "format": "35 mm",
-              "langCopie": "MIT",
-              "intertitres": "INT. FR.",
-              "selected": true
-            },
             {
               "idCopie": 29341,
               "duree": 114,
@@ -6247,7 +6233,7 @@
       ]
     },
     {
-      "idSeance": 188089,
+      "idSeance": 188439,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -6259,7 +6245,7 @@
       ],
       "idEvenement": 32048,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-13T18:30:00",
+      "dateHeure": "2025-04-05T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6395,7 +6381,7 @@
       "mention": "Accompagnement musical par Joël Grare et Edouard Ferlet"
     },
     {
-      "idSeance": 187808,
+      "idSeance": 188442,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -6407,7 +6393,7 @@
       ],
       "idEvenement": 32052,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-30T17:30:00",
+      "dateHeure": "2025-03-13T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6434,8 +6420,7 @@
           ],
           "idFilmBoxoffice": 9358
         }
-      ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
+      ]
     },
     {
       "idSeance": 185997,
@@ -6450,7 +6435,7 @@
       ],
       "idEvenement": 32053,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-02T20:30:00",
+      "dateHeure": "2025-04-02T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6518,20 +6503,6 @@
               "selected": true
             },
             {
-              "idCopie": 15802,
-              "duree": 100,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 21130,
-              "duree": 100,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 29417,
               "duree": 100,
               "format": "35 mm",
@@ -6540,6 +6511,13 @@
             },
             {
               "idCopie": 29418,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 21130,
               "duree": 100,
               "format": "35 mm",
               "version": "VO",
@@ -6590,20 +6568,6 @@
               "selected": true
             },
             {
-              "idCopie": 15802,
-              "duree": 100,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 21130,
-              "duree": 100,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 29417,
               "duree": 100,
               "format": "35 mm",
@@ -6612,6 +6576,13 @@
             },
             {
               "idCopie": 29418,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 21130,
               "duree": 100,
               "format": "35 mm",
               "version": "VO",
@@ -6997,15 +6968,7 @@
               "duree": 84,
               "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29084,
-              "duree": 84,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 1734
@@ -7046,15 +7009,7 @@
               "duree": 84,
               "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29084,
-              "duree": 84,
-              "format": "35 mm",
-              "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 1734
@@ -7405,11 +7360,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29422,
+              "idCopie": 29514,
               "duree": 90,
-              "format": "16 mm",
+              "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ],
@@ -7418,7 +7372,7 @@
       ]
     },
     {
-      "idSeance": 188346,
+      "idSeance": 188441,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -7430,7 +7384,7 @@
       ],
       "idEvenement": 32089,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-13T20:45:00",
+      "dateHeure": "2025-03-30T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -7810,7 +7764,7 @@
       ]
     },
     {
-      "idSeance": 188345,
+      "idSeance": 188440,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -7822,7 +7776,7 @@
       ],
       "idEvenement": 32102,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-05T19:30:00",
+      "dateHeure": "2025-04-02T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -9871,7 +9825,7 @@
       ],
       "idEvenement": 32156,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-13T16:30:00",
+      "dateHeure": "2025-03-13T17:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -12393,7 +12347,6 @@
           "generique": "Sylvia Bataille, Jane Marken, André Gabriello, Georges Darnoux",
           "adaptation": "D'après la nouvelle _Une partie de campagne_ de Guy de Maupassant.",
           "synopsis": "Été 1860. Monsieur Dufour et sa famille passent une journée à la campagne.",
-          "miniTexte": "Une journée en famille à la campagne, au bord du Loing. La relation entre une courtisane et son timide tailleur à Hong Kong. Toutes ces robes qu'on touche mais qui nous séparent de l'être aimé. Puis soudain, la pluie. Enfin un contact. Bouleversant, déchirant. Les gouttes pénètrent les surfaces. Et l'on entrevoit pour un instant le bonheur. — Patric Chiha",
           "status": 2,
           "idFilmBoxoffice": 1315
         },
@@ -12408,7 +12361,8 @@
           "annee": 2006,
           "generique": "Gong Li, Chang Chen, Tien Feng",
           "miniTexte": "Une journée en famille à la campagne, au bord du Loing. La relation entre une courtisane et son timide tailleur à Hong Kong. Toutes ces robes qu'on touche mais qui nous séparent de l'être aimé. Puis soudain, la pluie. Enfin un contact. Bouleversant, déchirant. Les gouttes pénètrent les surfaces. Et l'on entrevoit pour un instant le bonheur. — Patric Chiha",
-          "status": 2
+          "status": 2,
+          "idFilmBoxoffice": 319082
         },
         {
           "ordre": 3,
@@ -12520,7 +12474,7 @@
           "idCycle": 11,
           "idCategorie": 3700,
           "titreCycle": "Séances spéciales",
-          "titreSousCycle": "Avant-première"
+          "titreSousCycle": "Avant-première Bulle Ogier par Eugénie Grandval"
         }
       ],
       "idEvenement": 32346,
@@ -13595,7 +13549,7 @@
           "idCycle": 11,
           "idCategorie": 3719,
           "titreCycle": "Séances spéciales",
-          "titreSousCycle": "[Collimateur]"
+          "titreSousCycle": "Séance du programme de recherche Collimateur"
         }
       ],
       "idEvenement": 32419,
@@ -13610,7 +13564,7 @@
           "idFilm": 134435,
           "titre": "Derniers Parisiens",
           "art": "Les",
-          "realisateurs": "Hamé, Ekoué",
+          "realisateurs": "Hamé et Ekoué",
           "annee": 2015,
           "duree": 105,
           "generique": "Reda Kateb, Slimane Dazi, Mélanie Laurent",
@@ -14612,9 +14566,9 @@
       "idCycleCategories": [
         {
           "idCycle": 11,
-          "idCategorie": 3719,
+          "idCategorie": 2568,
           "titreCycle": "Séances spéciales",
-          "titreSousCycle": "[Collimateur]"
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32486,
@@ -15371,7 +15325,7 @@
       ],
       "idEvenement": 32572,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-30T20:00:00",
+      "dateHeure": "2025-03-30T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -15470,14 +15424,6 @@
           "miniTexte": "Dans un décor de papier installé par ses soins, Lubitsch lance lui-même le film : pour échapper au mariage, un jeune héritier se cache dans un monastère, où des moines paillards le poussent à épouser une poupée mécanique. Sur un motif cher au cinéaste – une femme éveille le désir d'un homme qu'elle détourne de son chemin –, _La Poupée_ exploite brillamment les effets visuels comiques, dans un monde féerique aux accents expressionnistes. Ici, les pantins dansent et deviennent des sosies de chair, capables de faire fondre le cœur des plus misogynes.",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 29070,
-              "duree": 68,
-              "format": "DCP",
-              "intertitres": "INT. ALL.",
-              "stDemande": true,
-              "selected": true
-            },
             {
               "idCopie": 29395,
               "duree": 68,
