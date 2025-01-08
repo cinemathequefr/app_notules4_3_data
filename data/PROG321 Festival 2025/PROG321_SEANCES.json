@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-07T16:05:26.605Z",
+  "updatedAt": "2025-01-08T10:10:32.375Z",
   "data": [
     {
       "idSeance": 188170,
@@ -15,7 +15,7 @@
       "idEvenement": 31788,
       "typeEvenement": 13,
       "dateHeure": "2025-03-06T14:00:00",
-      "idSalle": "LE",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -119,8 +119,8 @@
       ],
       "idEvenement": 31791,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T21:00:00",
-      "idSalle": "LE",
+      "dateHeure": "2025-03-07T20:00:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -409,7 +409,8 @@
               "duree": 122,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ITA"
+              "langCopie": "ITA",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 675
@@ -544,7 +545,7 @@
       ]
     },
     {
-      "idSeance": 188164,
+      "idSeance": 188450,
       "idProg": 321,
       "idCycleCategories": [
         {
@@ -556,8 +557,8 @@
       ],
       "idEvenement": 32227,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-09T19:00:00",
-      "idSalle": "JE",
+      "dateHeure": "2025-03-05T12:00:00",
+      "idSalle": "HO",
       "items": [
         {
           "ordre": 1,
@@ -600,6 +601,46 @@
       "typeEvenement": 13,
       "dateHeure": "2025-03-07T20:30:00",
       "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 114386,
+          "titre": "Miroirs brisés",
+          "titreVo": "Gebroken spiegels",
+          "realisateurs": "Marleen Gorris",
+          "annee": 1984,
+          "duree": 110,
+          "generique": "Lineke Rijxman, Henriëtte Tol, Edda Barends",
+          "miniTexte": "Une plongée sans concession dans la violence systémique infligée aux femmes. À travers deux intrigues parallèles – l'une dans un bordel d'Amsterdam, l'autre qui suit le calvaire d'une femme au foyer –, Marleen Gorris dénonce l'oppression masculine dans un thriller enragé, implacable, qui confirme qu'elle est l'une des cinéastes les plus audacieuses et les plus engagées de sa génération.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29028,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 11380
+        }
+      ]
+    },
+    {
+      "idSeance": 188449,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 980,
+          "idCategorie": 3683,
+          "titreCycle": "Marleen Gorris",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32228,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-09T19:00:00",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
@@ -722,7 +763,7 @@
       "idEvenement": 32231,
       "typeEvenement": 13,
       "dateHeure": "2025-03-06T17:00:00",
-      "idSalle": "HL",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -802,7 +843,7 @@
       "idEvenement": 32287,
       "typeEvenement": 13,
       "dateHeure": "2025-03-06T17:00:00",
-      "idSalle": "GF",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -1453,7 +1494,7 @@
       "idEvenement": 32316,
       "typeEvenement": 13,
       "dateHeure": "2025-03-06T14:30:00",
-      "idSalle": "GF",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -1920,7 +1961,7 @@
       ],
       "idEvenement": 32386,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T20:30:00",
+      "dateHeure": "2025-03-08T17:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2041,7 +2082,7 @@
       "idEvenement": 32389,
       "typeEvenement": 13,
       "dateHeure": "2025-03-09T14:30:00",
-      "idSalle": "GF",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
@@ -2123,7 +2164,7 @@
       ],
       "idEvenement": 32391,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T17:00:00",
+      "dateHeure": "2025-03-08T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2230,7 +2271,7 @@
       ]
     },
     {
-      "idSeance": 188289,
+      "idSeance": 188448,
       "idProg": 321,
       "idCycleCategories": [
         {
@@ -2242,8 +2283,8 @@
       ],
       "idEvenement": 32433,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T12:00:00",
-      "idSalle": "HO",
+      "dateHeure": "2025-03-06T21:00:00",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -2956,7 +2997,7 @@
       "idEvenement": 32552,
       "typeEvenement": 13,
       "dateHeure": "2025-03-09T14:30:00",
-      "idSalle": "JE",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -2975,7 +3016,8 @@
               "duree": 65,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "JPN"
+              "langCopie": "JPN",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -3040,7 +3082,8 @@
               "duree": 11,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ]
         },
@@ -3061,7 +3104,8 @@
               "duree": 29,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ]
         },
@@ -3081,7 +3125,8 @@
               "duree": 52,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ]
         }
@@ -3177,7 +3222,7 @@
       ],
       "idEvenement": 32576,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-09T13:30:00",
+      "dateHeure": "2025-03-09T13:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3822,14 +3867,14 @@
           "titreVo": "Rabmadár",
           "realisateurs": "Pál Sugár",
           "annee": 1929,
-          "duree": 60,
+          "duree": 122,
           "generique": "Lissy Arna, Hans Adalbert Schlettow, Charlotte Susa",
           "miniTexte": "Une jeune fille est envoyée en prison, après avoir accepté de voler pour son amant. Avec son cadre urbain, le film entrelace admirablement la manipulation, l'amour et le crime dans une succession de plans somptueux. Dramatique, rythmé, captivant, l'un des derniers muets hongrois, d'une étonnante modernité.",
           "status": 2,
           "copies": [
             {
               "idCopie": 29456,
-              "duree": 60,
+              "duree": 122,
               "format": "DCP",
               "intertitres": "INT. FR."
             }
