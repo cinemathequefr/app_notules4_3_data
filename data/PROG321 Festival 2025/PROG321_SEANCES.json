@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-08T13:42:15.578Z",
+  "updatedAt": "2025-01-08T15:56:49.005Z",
   "data": [
     {
       "idSeance": 188170,
@@ -3691,6 +3691,84 @@
       ]
     },
     {
+      "idSeance": 190345,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 987,
+          "idCategorie": 3709,
+          "titreCycle": "Susan Seidelman",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32653,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T12:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34795,
+          "titre": "Wanda",
+          "realisateurs": "Barbara Loden",
+          "annee": 1970,
+          "duree": 105,
+          "generique": "Barbara Loden, Michael Higgins, Dorothy Shupenes",
+          "synopsis": "Mariée et mère de deux enfants, Wanda mène une vie désœuvrée. Lorsqu'elle abandonne le foyer familial, une longue errance débute.",
+          "miniTexte": "Douze ans avant Wren dans _Smithereens_ de Seidelman, la dérive de Wanda qui cherche sa place, quitte tout, et, accompagnée par un homme rencontré au hasard, se retrouve embarquée dans un braquage fatal. Barbara Loden, devant et derrière la caméra, a voulu un « anti-_Bonnie and Clyde_ », tournant en 16 mm, en deux mois et avec un budget dérisoire. Un film à l'os, direct, un poignant portrait de femme.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 13326,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 2201
+        }
+      ]
+    },
+    {
+      "idSeance": 190344,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 987,
+          "idCategorie": 3709,
+          "titreCycle": "Susan Seidelman",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32654,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T12:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50952,
+          "titre": "Céline et Julie vont en bateau",
+          "realisateurs": "Jacques Rivette",
+          "annee": 1974,
+          "duree": 192,
+          "generique": "Juliet Berto, Dominique Labourier, Bulle Ogier",
+          "synopsis": "Une bibliothécaire et une prestidigitatrice inventent des jeux de rôles qui les projettent dans un monde parallèle.",
+          "miniTexte": "Principale inspiration de _Recherche Susan désespérément_, un _girls trip_ qui explore l'amitié féminine, la mémoire et le pouvoir de l'imagination. « Au cœur de ces deux films se trouve le principe libérateur selon lequel nous avons peut-être tous besoin de suivre un mystérieux lapin blanc dans le terrier, afin de découvrir le potentiel créatif et aventureux qui existe en chacun de nous. » (Susan Seidelman)",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 8946,
+              "duree": 192,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 1542
+        }
+      ]
+    },
+    {
       "idSeance": 188324,
       "idProg": 321,
       "idCycleCategories": [
@@ -3925,9 +4003,9 @@
       "idCycleCategories": [
         {
           "idCycle": 982,
-          "idCategorie": 3749,
+          "idCategorie": 3689,
           "titreCycle": "John McTiernan",
-          "titreSousCycle": "Carte blanche à John McTiernan"
+          "titreSousCycle": "Les films"
         }
       ],
       "idEvenement": 32707,
@@ -3947,7 +4025,7 @@
           "duree": 100,
           "generique": "Antonio Banderas, Diane Venora, Dennis Storhøi",
           "adaptation": "D'après le roman _Le Royaume de Rothgar_ de Michael Crichton.",
-          "miniTexte": "John McTiernan revisite le mythe de Beowulf : à travers le regard d'Ibn Faḍlān (Antonio Banderas, remarquable), il entrelace choc culturel, intrigues politiques et batailles épiques dans une nature sauvage, pour proposer une vision originale des Vikings. Sur une partition de Jerry Goldsmith, un hommage vibrant à la mythologie nordique.",
+          "miniTexte": "John McTiernan revisite le mythe de Beowulf : à travers le regard d'Ibn Fadlân (Antonio Banderas, remarquable), il entrelace choc culturel, intrigues politiques et batailles épiques dans une nature sauvage, pour proposer une vision originale des Vikings. Sur une partition de Jerry Goldsmith, un hommage vibrant à la mythologie nordique.",
           "status": 2,
           "copies": [
             {
