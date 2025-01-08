@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-08T12:00:17.605Z",
+  "updatedAt": "2025-01-08T13:42:15.578Z",
   "data": [
     {
       "idSeance": 188170,
@@ -812,7 +812,7 @@
           "titreVo": "Hunt for Red October",
           "artVo": "The",
           "realisateurs": "John McTiernan",
-          "annee": 1989,
+          "annee": 1990,
           "duree": 135,
           "generique": "Sean Connery, Alec Baldwin, Sam Neill, Scott Glenn",
           "adaptation": "D'après le roman _The Hunt for Red october_ de Tom Clancy.",
@@ -869,7 +869,7 @@
           "idFilm": 33663,
           "titre": "Last Action Hero",
           "realisateurs": "John McTiernan",
-          "annee": 1992,
+          "annee": 1993,
           "duree": 131,
           "generique": "Arnold Schwarzenegger, F. Murray Abraham, Art Carney",
           "ageMinimal": 10,
@@ -931,7 +931,7 @@
           "idFilm": 33663,
           "titre": "Last Action Hero",
           "realisateurs": "John McTiernan",
-          "annee": 1992,
+          "annee": 1993,
           "duree": 131,
           "generique": "Arnold Schwarzenegger, F. Murray Abraham, Art Carney",
           "ageMinimal": 10,
@@ -993,7 +993,7 @@
           "titre": "Piège de cristal",
           "titreVo": "Die Hard",
           "realisateurs": "John McTiernan",
-          "annee": 1987,
+          "annee": 1988,
           "duree": 132,
           "generique": "Bruce Willis, Alan Rickman, Bonnie Bedelia",
           "adaptation": "D'après le roman _Nothing Lasts Forever_ de Roderick Thorp.",
@@ -1056,7 +1056,7 @@
           "idFilm": 33562,
           "titre": "Predator",
           "realisateurs": "John McTiernan",
-          "annee": 1986,
+          "annee": 1987,
           "duree": 107,
           "generique": "Arnold Schwarzenegger, Carl Weathers, Elpidia Carrillo",
           "miniTexte": "Dans une jungle d'Amérique centrale, une mission de sauvetage tourne à la confrontation avec une terrifiante créature extraterrestre. Thriller, horreur et science-fiction dans un _survival_ haletant, dont l'atmosphère paranoïaque va crescendo jusqu'au final, saisissant de brutalité. « S'il peut saigner, on peut le tuer ! » : le premier volet de la franchise, porté par Arnold Schwarzenegger et ses punchlines d'anthologie.",
@@ -3883,7 +3883,9 @@
           "realisateurs": "Alice Guy",
           "annee": 1906,
           "duree": 12,
-          "status": 1,
+          "generique": "Denise Becker, Henry Vorins",
+          "miniTexte": "La toute première adaptation à l'écran du roman de Victor Hugo, _Notre-Dame de Paris_.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29515,
@@ -3936,16 +3938,17 @@
         {
           "ordre": 1,
           "idFilm": 64855,
-          "titre": "Treizième guerrier",
+          "titre": "13e guerrier",
           "art": "Le",
           "titreVo": "Thirteenth Warrior",
           "artVo": "The",
           "realisateurs": "John McTiernan",
-          "annee": 1998,
+          "annee": 1999,
           "duree": 100,
-          "generique": "Antonio Banderas, Diane Venora, Dennis Storhoi",
-          "synopsis": "En l'an 922, un Ambassadeur Arabe est exilé de sa terre natale et rencontre des guerriers Vikings. Peu à peu, il se rend compte qu'il était destiné à les rejoindre.\n\n---\n\nEn l'an 922, un ambassadeur arabe est exilé de sa terre natale et rencontre des guerriers vikings. Ceux-ci doivent faire face à des ennemis redoutables : des mangeurs d'hommes.",
-          "status": 0,
+          "generique": "Antonio Banderas, Diane Venora, Dennis Storhøi",
+          "adaptation": "D'après le roman _Le Royaume de Rothgar_ de Michael Crichton.",
+          "miniTexte": "John McTiernan revisite le mythe de Beowulf : à travers le regard d'Ibn Faḍlān (Antonio Banderas, remarquable), il entrelace choc culturel, intrigues politiques et batailles épiques dans une nature sauvage, pour proposer une vision originale des Vikings. Sur une partition de Jerry Goldsmith, un hommage vibrant à la mythologie nordique.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 4967,
@@ -3954,7 +3957,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 20357
         }
       ]
     },
