@@ -1,0 +1,4794 @@
+{
+  "updatedAt": "2025-01-09T15:25:41.886Z",
+  "data": [
+    {
+      "idSeance": 66439,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 541,
+          "idCategorie": 2432,
+          "titreCycle": "Gustav Deutsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23624,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T22:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 145133,
+          "titre": "Film ist. a Girl & a Gun",
+          "realisateurs": "Gustav Deutsch",
+          "annee": 2008,
+          "duree": 93,
+          "synopsis": "Narration vertigineuse des rapports entre les genres humains, qui s'appuie sur des fragments de textes grecs classiques et de films des débuts, et présentée comme un drame en cinq actes.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22106,
+              "duree": 93,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66618,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 540,
+          "idCategorie": 2431,
+          "titreCycle": "Hommage à la Deutsche Kinemathek",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23626,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-31T20:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40822,
+          "titre": "Nuit de la Saint-Sylvestre",
+          "art": "La",
+          "titreVo": "Sylvester",
+          "realisateurs": "Lupu Pick",
+          "annee": 1923,
+          "duree": 75,
+          "generique": "Eugen Klöpfer, Edith Posca, Frida Richard",
+          "synopsis": "Le soir de la Saint-Sylvestre, alors que toute la ville fête la nouvelle année, une tragédie familiale se déroule. Récit en temps réel, sans intertitres.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22083,
+              "duree": 75,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Rainer Rother"
+    },
+    {
+      "idSeance": 66178,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 540,
+          "idCategorie": 2431,
+          "titreCycle": "Hommage à la Deutsche Kinemathek",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23627,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-30T14:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 139726,
+          "titre": "Fluchtweh nach Marseille",
+          "realisateurs": "Gerhard Theuring",
+          "annee": 1977,
+          "duree": 210,
+          "synopsis": "Un voyage de Paris à Marseille, filmé en 1977, et entrecoupé d'images d'archives sur l'Occupation. Dans les villes, les villages, dans chaque paysage, le passé refait surface.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22081,
+              "duree": 210,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Martin Koerber"
+    },
+    {
+      "idSeance": 66681,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 540,
+          "idCategorie": 2431,
+          "titreCycle": "Hommage à la Deutsche Kinemathek",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23628,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T14:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 72669,
+          "titre": "Sanfte Lauf",
+          "art": "Der",
+          "realisateurs": "Haro Senft",
+          "annee": 1967,
+          "duree": 89,
+          "generique": "Bruno Ganz, Verena Buss, Wolfgang Büttner",
+          "synopsis": "Condamné par un tribunal pour s'être battu avec un néo-nazi, Bernhard abandonne ses études d'ingénieur et trouve un emploi dans une usine. Il tombe amoureux de Johanna, issue d'une famille conservatrice.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22084,
+              "duree": 89,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Julia Wallmüller"
+    },
+    {
+      "idSeance": 66682,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 540,
+          "idCategorie": 2431,
+          "titreCycle": "Hommage à la Deutsche Kinemathek",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23630,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-31T22:45:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40173,
+          "titre": "Kuhle Wampe",
+          "realisateurs": "Slatan Dudow",
+          "annee": 1932,
+          "duree": 71,
+          "generique": "Hertha Thiele, Ernst Busch, Martha Wolter",
+          "synopsis": "Une famille ouvrière berlinoise face à la Grande Dépression. Tandis que la génération des parents est accablée, la jeunesse trouve un semblant d'espoir dans le mouvement ouvrier.",
+          "commentaire": "_Kuhle Wampe_ sort à Berlin en mai 1932 après avoir essuyé de grandes difficultés avec la censure, et une vague de protestation contre son interdiction initiale – il était considéré par les autorités comme un danger pour la sécurité publique et l'État. Neuf mois plus tard, la dictature nazie interdit de nouveau le film, cette fois pour de bon. Dudow émigre à Paris et emporte avec lui une copie qui survit à la guerre, protégée par la Cinémathèque française, et qui, en 1955, parvient aux Archives cinématographiques de Berlin-Est. _Kuhle Wampe_ commence alors sa deuxième vie.\n\nCe film correspond à une étape importante du cinéma politique. Aujourd'hui, il offre un aperçu direct et fascinant des milieux de gauche sous la république de Weimar, un mouvement de masse persuadé de vivre une époque pré-révolutionnaire. Ces militants ignoraient alors que, quelques mois après le tournage, ils seraient menacés de mort par la terreur nazie. Ainsi, _Kuhle Wampe_ constitue également un mémento pour ces Allemands qui ont perdu la vie, bien avant que toute l'Europe ne subisse le joug de la « race des seigneurs ».\n\nMartin Koerber",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22080,
+              "duree": 71,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Martin Koerber"
+    },
+    {
+      "idSeance": 66316,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23632,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T13:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42411,
+          "titre": "Accattone",
+          "realisateurs": "Pier Paolo Pasolini",
+          "annee": 1961,
+          "dureeStd": 120,
+          "duree": 120,
+          "generique": "Franco Citti, Franca Pasut, Silvana Corsini",
+          "synopsis": "Un souteneur de la banlieue de Rome perd son gagne-pain quand sa protégée est mise en prison. Il fait alors la connaissance de l'innocente Stella.",
+          "commentaire": "_Accattone_, premier film de Pasolini, qu'il réalise à presque quarante ans, est le résultat de la lente maturation d'une expérience personnelle et d'une passion qui le tient depuis l'enfance, le cinéma. Fuyant le scandale, il s'est installé, démuni, dans la misérable banlieue de Rome, les _« borgate »_, où il vit de 1950 à 1954. Pasolini s'immerge pleinement dans ces quartiers où voisinent maisonnettes, taudis et terrains vagues. Il y rencontre Sergio Citti, son « dictionnaire ambulant », qui l'initie à la langue des voyous romains et sera le dialoguiste du film, et dont le frère Franco, inoubliable Accattone, deviendra l'un des acteurs fétiches. Les _« borgate »_ lui inspirent d'abord des articles, puis son roman _Ragazzi di vita_, censuré pour pornographie. Quant au cinéma, Pasolini s'y introduit pas à pas, de façon détournée, en écrivant des critiques et des scénarios (pour Bolognini notamment). Il signe également les commentaires de deux documentaires de Cecilia Mangini dont _Ignoti alla città_, inspiré de son propre livre. Avec son budget minimal, ses acteurs locaux, _Accattone_ porte en lui l'énergie et l'urgence d'une œuvre arrachée à l'adversité, après le désistement brutal de Federico Fellini. Film réduit à l'os et pourtant traversé de lyrisme, il dresse le portrait d'un quartier, d'un voyou aussi irritant que sympathique, aussi pitoyable que lumineux.\n\nWafa Ghermani",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 1806,
+              "duree": 120,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Hervé Joubert-Laurencin"
+    },
+    {
+      "idSeance": 66427,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23633,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-30T14:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 70613,
+          "titre": "Maddalena",
+          "realisateurs": "Jerzy Kawalerowicz",
+          "annee": 1970,
+          "duree": 116,
+          "generique": "Lisa Gastoni",
+          "synopsis": "Une jeune femme au passé trouble quitte son mari, qu'elle méprise, et s'éprend d'un jeune prêtre. Prisonnier de son statut, il résiste à ses avances, et plonge dans une profonde remise en cause spirituelle.",
+          "commentaire": "Remisé au purgatoire des films invisibles depuis cinquante ans, _Maddalena_ jouit paradoxalement d'une aura inouïe : quiconque s'est un jour intéressé à l'immense répertoire d'Ennio Morricone connaît – et rêve de voir – le drame de Jerzy Kawalerowicz. Singulier destin d'un film essentiellement fantasmé, à la renommée entretenue par sa seule bande originale, chef-d'œuvre définitif du maestro.\n\nSi _Chi mai_ (recyclé par Georges Lautner dans _Le Professionnel_) et _Come Maddalena_ constituent les sommets de la partition céleste de Morricone, c'est bien le morceau _Erotico mistico_ qui donne les clés du film de Kawalerowicz : sous ses faux airs de giallo (étonnant prologue fantastico-noir), _Maddalena_ est un drame métaphysique, traversé de longues considérations sur la foi et le désir.\n\nSingeant Antonioni, notamment dans une scène littorale qui évoque _L'Avventura_, le film, perméable à tous les genres de son temps, emprunte d'incessants chemins de traverse qui heureusement le relancent sans cesse. C'est un cauchemar pénitentiaire tout droit sorti des hallucinations de _Répulsion_ (Polanski, autre Polonais exilé). C'est une magnifique errance nocturne, et un accident d'Alfa Romeo vermillon pastichant _Le Mépris_. C'est une scène de masturbation _soft_, bercée par les chœurs de Morricone, parenthèse lascive et licencieuse. C'est aussi cet effrayant Doppelgänger fantomatique, apparition récurrente et inexpliquée, qui ajoute au mystère vénéneux d'un film enfin offert au monde.\n\nXavier Jamet",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22076,
+              "duree": 116,
+              "format": "Numérique",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Marzena Moskal"
+    },
+    {
+      "idSeance": 66217,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2604,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Hommage à Isabelle Weingarten"
+        }
+      ],
+      "idEvenement": 23634,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-31T14:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54513,
+          "titre": "Quatre nuits d'un rêveur",
+          "realisateurs": "Robert Bresson",
+          "annee": 1971,
+          "dureeStd": 87,
+          "duree": 87,
+          "generique": "Guillaume des Forêts, Isabelle Weingarten, Jean-Maurice Monnayer",
+          "synopsis": "Lasse d'attendre le retour de son amant, Marthe a voulu mourir et Jacques l'en a empêchée. Ils errent dans Paris et se racontent leurs vies : le jeune homme tombe amoureux à son tour.",
+          "miniTexte": "Rencontres nocturnes sur le Pont-Neuf à Paris. À travers le portrait de deux solitaires, tout en pudeur et en ellipses, Robert Bresson capte la pulsation et la douceur mélancolique de la ville. Adapté des _Nuits blanches_ de Dostoïevski, le film poursuit l'aventure bressonienne des « modèles », à force de mouvements et de gestes, pour esquisser la rêverie d'un promeneur et sa quête de l'amour insaisissable.",
+          "commentaire": "Une ville hantée par la jeunesse indolente. C'est Paris, dont Robert Bresson capte ici la pulsation traînante et la douceur mélancolique. Après _Une femme douce_ (1969), le réalisateur tourne à nouveau en couleurs et retrouve l'influence majeure de Dostoïevski. Il porte, pour la première fois, une attention particulière aux extérieurs, musiques, habits et illusions de ses contemporains. C'est pourquoi la palette chromatique exigée du chef opérateur Pierre Lhomme est vive, comme les aplats que Jacques (Guillaume des Forêts), jeune peintre silencieux, appose sur ses toiles. À peine sorti de l'enfance, celui-ci montre la circulation erratique du désir sans objet, le vague-à-l'âme qui surprend au printemps. Le hasard le fait rencontrer une jeune femme passionnée (Isabelle Weingarten) pour qui chaque attachement a valeur de sentence. À travers le portrait, tout en pudeur et en ellipses, de deux solitaires, le film poursuit l'aventure bressonienne des modèles ; refusant de parler d'acteurs, le réalisateur impose à chaque film une diction, un visage vaste comme un paysage (Jacques à travers la vitre), un corps qui se révèle sous nos yeux. Ainsi, dans une séquence inoubliable, la caméra suit les frémissements de la peau de Marthe au miroir. Elle se laisse aller au rythme sensuel d'une musique, portée par l'élan irisé de son propre désir. Elle surgit telle une pluie de printemps. Comment Jacques a-t-il pu y croire ? Simplement, comme la nuit veut croire au lendemain.\n\nGabriela Trujillo",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 15819,
+              "duree": 87,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 1251
+        }
+      ],
+      "mention": "Séance présentée par Dominique Païni"
+    },
+    {
+      "idSeance": 66261,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23635,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 74055,
+          "titre": "Traversée",
+          "art": "La",
+          "realisateurs": "Sébastien Lifshitz",
+          "annee": 2000,
+          "duree": 85,
+          "generique": "Stéphane Bouquet",
+          "synopsis": "Stéphane Bouquet n'a jamais connu son père, G.I. reparti en 1967 dans son pays, ignorant qu'il laissait derrière lui un bébé à naître. Trente-trois ans plus tard, il traverse l'océan pour le rechercher.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22079,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Sébastien Lifshitz"
+    },
+    {
+      "idSeance": 66320,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 540,
+          "idCategorie": 2431,
+          "titreCycle": "Hommage à la Deutsche Kinemathek",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23640,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T11:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 146863,
+          "titre": "Katzensteg",
+          "art": "Der",
+          "realisateurs": "Gerhard Lamprecht",
+          "annee": 1927,
+          "duree": 124,
+          "generique": "Lissy Arna, Jack Trevor, Andreas Behrens-Klausen",
+          "synopsis": "Le baron von Schranden, partisan de Napoléon, force sa femme de chambre à conduire les troupes françaises à travers Katzensteg, pour décimer un corps de volontaires prussiens.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22082,
+              "duree": 124,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Rainer Rother"
+    },
+    {
+      "idSeance": 66594,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 538,
+          "idCategorie": 2429,
+          "titreCycle": "André Antoine",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23654,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T16:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46444,
+          "titre": "Hirondelle et la mésange",
+          "art": "L'",
+          "realisateurs": "André Antoine",
+          "annee": 1920,
+          "duree": 78,
+          "generique": "Maguy Deliac, Jane Maylianes, Pierre Alcover",
+          "synopsis": "Deux péniches, L'Hirondelle et La Mésange, descendent d'Anvers vers la France. À bord, Pieter, sa femme et sa belle-sœur travaillent et vivent paisiblement, jusqu'à l'arrivée d'un nouveau pilote.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 25,
+              "duree": 78,
+              "format": "DCP",
+              "langCopie": "FRE",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Philippe Azoury"
+    },
+    {
+      "idSeance": 66606,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 538,
+          "idCategorie": 2429,
+          "titreCycle": "André Antoine",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23654,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T18:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46444,
+          "titre": "Hirondelle et la mésange",
+          "art": "L'",
+          "realisateurs": "André Antoine",
+          "annee": 1920,
+          "duree": 78,
+          "generique": "Maguy Deliac, Jane Maylianes, Pierre Alcover",
+          "synopsis": "Deux péniches, L'Hirondelle et La Mésange, descendent d'Anvers vers la France. À bord, Pieter, sa femme et sa belle-sœur travaillent et vivent paisiblement, jusqu'à l'arrivée d'un nouveau pilote.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 25,
+              "duree": 78,
+              "format": "DCP",
+              "langCopie": "FRE",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66600,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 538,
+          "idCategorie": 2429,
+          "titreCycle": "André Antoine",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23657,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-31T17:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46441,
+          "titre": "Arlésienne",
+          "art": "L'",
+          "realisateurs": "André Antoine",
+          "annee": 1922,
+          "duree": 102,
+          "generique": "Gabriel de Gavrone, Lucienne Bréval, Marthe Fabris",
+          "synopsis": "Frédéri, fou amoureux de l'Arlésienne, se heurte aux réticences de sa mère et accepte d'épouser Vivette. Sa rencontre inopinée avec Mitifio, l'amant de l'Arlésienne, réveille son amour.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22088,
+              "duree": 102,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Noémie Jean et Manon Billaut"
+    },
+    {
+      "idSeance": 66601,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 538,
+          "idCategorie": 2429,
+          "titreCycle": "André Antoine",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23657,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T14:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46441,
+          "titre": "Arlésienne",
+          "art": "L'",
+          "realisateurs": "André Antoine",
+          "annee": 1922,
+          "duree": 102,
+          "generique": "Gabriel de Gavrone, Lucienne Bréval, Marthe Fabris",
+          "synopsis": "Frédéri, fou amoureux de l'Arlésienne, se heurte aux réticences de sa mère et accepte d'épouser Vivette. Sa rencontre inopinée avec Mitifio, l'amant de l'Arlésienne, réveille son amour.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22088,
+              "duree": 102,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66592,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 538,
+          "idCategorie": 2429,
+          "titreCycle": "André Antoine",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23658,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-30T14:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46445,
+          "titre": "Mademoiselle de La Seiglière",
+          "realisateurs": "André Antoine",
+          "annee": 1920,
+          "duree": 88,
+          "generique": "Huguette Duflos, Félix Huguenet, Charles Granval, Romuald Joubé",
+          "synopsis": "1792\\. Le marquis de la Seiglière s'exile, laissant derrière lui un domaine qu'achète son ancien fermier, le vieux Stamply. Leur descendance héritera par la suite de ce conflit d'intérêts.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22094,
+              "duree": 88,
+              "format": "35 mm",
+              "langCopie": "MIT",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66593,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 538,
+          "idCategorie": 2429,
+          "titreCycle": "André Antoine",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23658,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T18:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46445,
+          "titre": "Mademoiselle de La Seiglière",
+          "realisateurs": "André Antoine",
+          "annee": 1920,
+          "duree": 88,
+          "generique": "Huguette Duflos, Félix Huguenet, Charles Granval, Romuald Joubé",
+          "synopsis": "1792\\. Le marquis de la Seiglière s'exile, laissant derrière lui un domaine qu'achète son ancien fermier, le vieux Stamply. Leur descendance héritera par la suite de ce conflit d'intérêts.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22094,
+              "duree": 88,
+              "format": "35 mm",
+              "langCopie": "MIT",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Noémie Jean et Mehdi Taïbi"
+    },
+    {
+      "idSeance": 66598,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 538,
+          "idCategorie": 2429,
+          "titreCycle": "André Antoine",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23659,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-31T14:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46446,
+          "titre": "Terre",
+          "art": "La",
+          "realisateurs": "André Antoine",
+          "annee": 1921,
+          "duree": 114,
+          "adaptation": "D'après le roman : _ La Terre _ d'Emile Zola.",
+          "synopsis": "Le père Fouan, vieux et désormais incapable de travailler, partage son bien entre ses enfants. Mais sa décision entraîne de graves dissensions qui les mènent jusqu'à une haine implacable.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23710,
+              "duree": 114,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Hervé Pichard et Arianna Turci"
+    },
+    {
+      "idSeance": 66599,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 538,
+          "idCategorie": 2429,
+          "titreCycle": "André Antoine",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23659,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T18:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46446,
+          "titre": "Terre",
+          "art": "La",
+          "realisateurs": "André Antoine",
+          "annee": 1921,
+          "duree": 114,
+          "adaptation": "D'après le roman : _ La Terre _ d'Emile Zola.",
+          "synopsis": "Le père Fouan, vieux et désormais incapable de travailler, partage son bien entre ses enfants. Mais sa décision entraîne de graves dissensions qui les mènent jusqu'à une haine implacable.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23710,
+              "duree": 114,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66602,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 538,
+          "idCategorie": 2429,
+          "titreCycle": "André Antoine",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23660,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T14:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46447,
+          "titre": "Travailleurs de la mer",
+          "art": "Les",
+          "realisateurs": "André Antoine",
+          "annee": 1917,
+          "duree": 92,
+          "generique": "Romuald Joubé, Armand Tallier, Marc Gérard",
+          "adaptation": "D'après le roman _Les Travailleurs de la mer_ de Victor Hugo.",
+          "synopsis": "Gilliatt, pêcheur solitaire et grand rêveur, accepte de prendre le large et d'affronter les pires dangers afin d'obtenir la main de Déruchette dont il est secrètement amoureux.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22090,
+              "duree": 92,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Noémie Jean et Manon Billaut"
+    },
+    {
+      "idSeance": 66603,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 538,
+          "idCategorie": 2429,
+          "titreCycle": "André Antoine",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23660,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T16:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46447,
+          "titre": "Travailleurs de la mer",
+          "art": "Les",
+          "realisateurs": "André Antoine",
+          "annee": 1917,
+          "duree": 92,
+          "generique": "Romuald Joubé, Armand Tallier, Marc Gérard",
+          "adaptation": "D'après le roman _Les Travailleurs de la mer_ de Victor Hugo.",
+          "synopsis": "Gilliatt, pêcheur solitaire et grand rêveur, accepte de prendre le large et d'affronter les pires dangers afin d'obtenir la main de Déruchette dont il est secrètement amoureux.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22090,
+              "duree": 92,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66853,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 538,
+          "idCategorie": 2429,
+          "titreCycle": "André Antoine",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23661,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-30T16:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46442,
+          "titre": "Coupable",
+          "art": "Le",
+          "realisateurs": "André Antoine",
+          "annee": 1917,
+          "duree": 91,
+          "generique": "Sylvie, Romuald Joubé, Jacques Grétillat",
+          "synopsis": "Un avocat au parcours exemplaire défend un jeune homme, accusé de meurtre. Lors de sa plaidoirie, à la grande surprise de tous, il annonce être le père de l'inculpé, abandonné avant sa naissance.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22089,
+              "duree": 91,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66301,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 538,
+          "idCategorie": 2429,
+          "titreCycle": "André Antoine",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23661,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-31T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46442,
+          "titre": "Coupable",
+          "art": "Le",
+          "realisateurs": "André Antoine",
+          "annee": 1917,
+          "duree": 91,
+          "generique": "Sylvie, Romuald Joubé, Jacques Grétillat",
+          "synopsis": "Un avocat au parcours exemplaire défend un jeune homme, accusé de meurtre. Lors de sa plaidoirie, à la grande surprise de tous, il annonce être le père de l'inculpé, abandonné avant sa naissance.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22089,
+              "duree": 91,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Noémie Jean, Manon Billaut et Hervé Pichard"
+    },
+    {
+      "idSeance": 66605,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 538,
+          "idCategorie": 2429,
+          "titreCycle": "André Antoine",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23661,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T14:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46442,
+          "titre": "Coupable",
+          "art": "Le",
+          "realisateurs": "André Antoine",
+          "annee": 1917,
+          "duree": 91,
+          "generique": "Sylvie, Romuald Joubé, Jacques Grétillat",
+          "synopsis": "Un avocat au parcours exemplaire défend un jeune homme, accusé de meurtre. Lors de sa plaidoirie, à la grande surprise de tous, il annonce être le père de l'inculpé, abandonné avant sa naissance.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22089,
+              "duree": 91,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Manon Billaut"
+    },
+    {
+      "idSeance": 66596,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 538,
+          "idCategorie": 2429,
+          "titreCycle": "André Antoine",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23663,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-30T18:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 146998,
+          "titre": "Israël",
+          "realisateurs": "André Antoine",
+          "annee": 1919,
+          "duree": 59,
+          "generique": "Vittoria Lepanto, Alberto Collo, Vittorio Rossi Pianelli, Alfonso Cassini",
+          "synopsis": "Thibault de Croucy mène campagne contre les Juifs, au sein du cercle de la rue Royale, avant d'apprendre qu'il est le fils de l'un d'eux : l'éminent banquier Gotlieb avait été l'amant de sa mère.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22093,
+              "duree": 59,
+              "format": "35 mm",
+              "intertitres": "Autres",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66597,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 538,
+          "idCategorie": 2429,
+          "titreCycle": "André Antoine",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23663,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T16:30:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 146998,
+          "titre": "Israël",
+          "realisateurs": "André Antoine",
+          "annee": 1919,
+          "duree": 59,
+          "generique": "Vittoria Lepanto, Alberto Collo, Vittorio Rossi Pianelli, Alfonso Cassini",
+          "synopsis": "Thibault de Croucy mène campagne contre les Juifs, au sein du cercle de la rue Royale, avant d'apprendre qu'il est le fils de l'un d'eux : l'éminent banquier Gotlieb avait été l'amant de sa mère.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22093,
+              "duree": 59,
+              "format": "35 mm",
+              "intertitres": "Autres",
+              "stDemande": true
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Manon Billaut et Chantal Meyer-Plantureux"
+    },
+    {
+      "idSeance": 66258,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 541,
+          "idCategorie": 2432,
+          "titreCycle": "Gustav Deutsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23668,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T17:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 147075,
+          "titre": "Film ist (1-6). Tableaufilm. Work in Progress",
+          "realisateurs": "Gustav Deutsch",
+          "annee": 1998,
+          "duree": 60,
+          "synopsis": "Montage en six chapitres de séquences puisées dans la production de films scientifiques conservés par les cinémathèques, pour cerner l'essence cinématographique dans ses manifestations les plus variées.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23295,
+              "duree": 60,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "GER",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66438,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 541,
+          "idCategorie": 2432,
+          "titreCycle": "Gustav Deutsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23669,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T16:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 147076,
+          "titre": "Film ist (7-12). Tableaufilm. Work in Progress",
+          "realisateurs": "Gustav Deutsch",
+          "annee": 2002,
+          "duree": 93,
+          "synopsis": "Exploration en six chapitres du spectacle cinématographique, à partir d'un montage de séquences puisées dans les fictions et documentaires de la période dite muette.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22105,
+              "duree": 93,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66582,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 541,
+          "idCategorie": 2432,
+          "titreCycle": "Gustav Deutsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23670,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-30T19:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 147077,
+          "titre": "Adria Urlaubsfilme 1954-68 (Die Schule des Sehens I)",
+          "realisateurs": "Gustav Deutsch",
+          "annee": 1989,
+          "duree": 35,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22109,
+              "duree": 35,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 147080,
+          "titre": "Notes and Sketches 1",
+          "realisateurs": "Gustav Deutsch",
+          "annee": 2016,
+          "duree": 23,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22110,
+              "duree": 23,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Michael Loebenstein"
+    },
+    {
+      "idSeance": 66583,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 541,
+          "idCategorie": 2432,
+          "titreCycle": "Gustav Deutsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23671,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-30T20:30:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 147078,
+          "titre": "Welt Spiegel Kino. Episode 1-3",
+          "realisateurs": "Gustav Deutsch",
+          "annee": 2005,
+          "duree": 93,
+          "synopsis": "Vienne, Surabaya, Porto : trois vues de villes à l'aube du XXe siècle. À partir d'images d'archives, Gustav Deutsch raconte la vie de figurants anonymes, créant une fresque à la douceur mélancolique.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22108,
+              "duree": 93,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Michael Loebenstein"
+    },
+    {
+      "idSeance": 66633,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 541,
+          "idCategorie": 2432,
+          "titreCycle": "Gustav Deutsch",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23672,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T11:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 147079,
+          "titre": "So leben wir – Botschaften an die Familie",
+          "realisateurs": "Gustav Deutsch",
+          "annee": 2017,
+          "duree": 107,
+          "synopsis": "Gustav Deutsch fait dialoguer un ensemble de films de famille qu'il a glanés dans de nombreux pays, et des images plus récentes qu'il a tournées en accompagnant un ami dans son voyage au Maroc.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22107,
+              "duree": 107,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66466,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 542,
+          "idCategorie": 2433,
+          "titreCycle": "Trésors de la Warner",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23675,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-30T16:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31527,
+          "titre": "Vaisseau fantôme",
+          "art": "Le",
+          "titreVo": "Sea Wolf",
+          "artVo": "The",
+          "realisateurs": "Michael Curtiz",
+          "annee": 1941,
+          "dureeStd": 100,
+          "duree": 100,
+          "generique": "Edward G. Robinson, Ida Lupino, John Garfield",
+          "adaptation": "D'après le roman _Le Loup des mers_ de Jack London.",
+          "synopsis": "1900. Au large de San Francisco, un pickpocket en fuite, une évadée de prison et un écrivain naufragé sont retenus à bord du Fantôme par le despotique Capitaine Wolf, qui terrorise son équipage.",
+          "commentaire": "Cinquième adaptation à l'écran du _Loup des mers_ de Jack London sur la dizaine produites depuis 1913, la version de l'ultra-prolifique Michael Curtiz demeure inoubliable. Hongrois débauché par la Warner et pilier du studio (de 1926 à 1954), le réalisateur de _Casablanca_ fait une parenthèse dans sa période Errol Flynn et manœuvre, avec un art consommé, un voyage en enfer à bord du _Fantôme_. De savants mouvements d'appareils entre cordages et cales humides dévoilent le sinistre navire qui concentre un équipage d'affreux damnés et perce l'épais brouillard, tandis que la tension monte. Dans un de ses plus illustres rôles de méchant, le légendaire Edward G. Robinson, délesté de ses guêtres de gangster, incarne le capitaine Wolf, tyran fou et cruel qui applique le vers de Milton : « Mieux vaut régner en enfer que servir au paradis », écho à l'offensive nazie. Éclatants dans de sublimes gros plans, Ida Lupino (la seule femme du casting) et John Garfield (en rebelle inventé de toutes pièces par le scénariste Robert Rossen) éclipsent le héros. Film d'aventure aux accents mélodramatiques, _Le Vaisseau fantôme navigue_ dans des eaux troubles, baignées de fantastique et nimbées de la noirceur ambiguë qui imprègne les productions hollywoodiennes d'alors, du script à la photo. Sol Polito, qui œuvre avec Curtiz depuis six ans à la lumière, et le réalisateur Byron Haskin, aux effets spéciaux, font des prodiges. Les images fascinantes, d'une splendeur visuelle inouïe, n'en finiront pas de nous hanter.\n\nBlandine Étienne",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22113,
+              "duree": 100,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Olivier Snanoudj"
+    },
+    {
+      "idSeance": 66578,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 542,
+          "idCategorie": 2433,
+          "titreCycle": "Trésors de la Warner",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23676,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-31T20:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34496,
+          "titre": "Portrait de Dorian Gray",
+          "art": "Le",
+          "titreVo": "Picture of Dorian Gray",
+          "artVo": "The",
+          "realisateurs": "Albert Lewin",
+          "annee": 1945,
+          "duree": 109,
+          "generique": "George Sanders, Angela Lansbury, Peter Lawford",
+          "adaptation": "D'après le roman _Le Portrait de Dorian Gray_ d'Oscar Wilde.",
+          "synopsis": "Londres, 1886. Le peintre Basil Hallward réalise le portrait d'un jeune et bel aristocrate, Dorian Gray, qui formule le vœu d'une éternelle jeunesse ; seul son portrait vieillira.",
+          "miniTexte": "Conscient de sa beauté, Dorian Gray formule le vœu d'une jeunesse éternelle, souhaitant que son portrait vieillisse à sa place. Lewin met en scène le roman d'Oscar Wilde à la manière d'un peintre, matérialisé par les jeux de lumières du chef opérateur oscarisé, Harry Stradling. Dans une formidable étude de la société victorienne, le cynisme et la corruption du héros se dévoilent peu à peu, à travers le tableau aux couleurs saisissantes, personnage fantastique à part entière.",
+          "commentaire": "Comment représenter le vieillissement et la corruption d'une âme ? Si Oscar Wilde les a dépeints dans son roman, Albert Lewin, lui, les traduit à l'écran. Lorsque son film sort, en 1945, il existe déjà sept adaptations cinématographiques du _Portrait de Dorian Gray_. Dès lors, comment re-présenter ce qui a déjà été mis en scène ? Lewin va travailler à la manière d'un peintre, et composer méticuleusement sa palette, la couleur pour le tableau, le noir et blanc pour les autres séquences. Le réalisateur fait si bien vivre le portrait qu'il devient un personnage fantastique à part entière. L'image se métamorphose à mesure que les flétrissures morales de Dorian Gray se révèlent. Tout, dans la somptueuse maison du dandy, suggère une dualité, troublants jeux d'ombres et de lumières – Harry Stradling sera oscarisé pour la photo) –, subtils reflets des miroirs, obsédant sol en damier noir et blanc. Dorian Gray lui-même est habité par ce conflit, tiraillé jour et nuit, tels docteur Jekyll et M. Hyde, entre le bien et le mal, dans une demeure, peuplée d'objets d'art, qui renferme son terrible et repoussant secret. Aux côtés du grand George Sanders et des toutes jeunes Angela Lansbury et Donna Reed, le débutant Hurd Hatfield a les traits et l'attrait d'un vampire, se nourrissant de la jeunesse de ses conquêtes. Son visage impassible, son cœur de marbre et son regard froid inquiètent. Il est un monstre d'insensibilité et pourtant, il séduit : le beau ne serait-il plus l'image du bien ?\n\nCapucine de Rochambeau",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22112,
+              "duree": 109,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 2508
+        }
+      ]
+    },
+    {
+      "idSeance": 66305,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 542,
+          "idCategorie": 2433,
+          "titreCycle": "Trésors de la Warner",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23677,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T16:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31418,
+          "titre": "Hantise",
+          "titreVo": "Gaslight",
+          "realisateurs": "George Cukor",
+          "annee": 1944,
+          "duree": 114,
+          "generique": "Ingrid Bergman, Charles Boyer, Joseph Cotten",
+          "adaptation": "D'après la pièce _Angel Street_ de Patrick Hamilton.",
+          "miniTexte": "Une demeure victorienne, le brouillard londonien : _Hantise/Gaslight_ est un thriller à l'esthétique noire, qui joue sur sa photographie, et l'interprétation angoissée d'Ingrid Bergman (oscarisée). La caméra scrute le mécanisme et les effets du _gaslighting_ – terme utilisé en psychologie pour décrire une forme de manipulation mentale –, et Cukor peaufine avec maestria un fascinant portrait de femme.",
+          "commentaire": "Cinq ans après une première version anglaise de _Gaslight_, Cukor adapte la pièce de l'auteur de _La Corde_. Confinée entre une demeure victorienne et le brouillard londonien, _Hantise_ est une œuvre à part dans la filmographie du cinéaste, réputé pour ses comédies et sa direction d'actrices : un classique du thriller victorien, à l'esthétique noire et aux accents hitchcockiens, servi par un casting royal. Ingrid Bergman, d'abord et surtout, future héroïne du maître du suspense, tourmentée par un mari prédateur avant _Les Enchaînés_ ; Charles Boyer, _French lover_ à contre-emploi, qui rappelle celui de _Soupçons_ ; et Joseph Cotten, l'oncle malfaisant de _L'Ombre d'un doute_, en détective de Scotland Yard. Un triangle digne des _Amants du Capricorne_, et l'occasion d'un fascinant portrait de femme manipulée par un conjoint qui veut la persuader de sa folie. Alchimie miraculeuse entre Joseph Ruttenberg, qui signe la photo, et Bergman, chevelure auréolée de halos, lumières vacillantes dans les yeux, et dont les frémissements d'angoisse communicatifs imprègnent la pellicule. La caméra scrute le mécanisme et les effets du _gaslighting_ – terme toujours utilisé en psychologie pour décrire cette forme de manipulation mentale, auquel le succès mérité du film n'est pas étranger. À noter parmi de savoureux personnages secondaires, Dame May Witty (_Une femme disparaît_) en voisine curieuse et Angela Lansbury, inquiétante domestique, dans un premier rôle lui aussi notable.\n\nBlandine Étienne",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22111,
+              "duree": 114,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 2748
+        }
+      ]
+    },
+    {
+      "idSeance": 66629,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23683,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T14:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48836,
+          "titre": "Tu m'appartiens",
+          "realisateurs": "Maurice Gleize",
+          "annee": 1928,
+          "duree": 105,
+          "generique": "Rudolf Klein-Rogge, Francesca Bertini",
+          "synopsis": "Un bagnard évadé devient, grâce à ses qualités, président d'une compagnie maritime. Vingt ans plus tard, son passé le rattrape sous les traits d'une belle aventurière.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22119,
+              "duree": 105,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Manuela Padoan. Accompagnement musical par Jacques Cambra"
+    },
+    {
+      "idSeance": 66706,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23686,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T13:45:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35284,
+          "titre": "Emprise du crime",
+          "art": "L'",
+          "titreVo": "Strange Love of Martha Ivers",
+          "artVo": "The",
+          "realisateurs": "Lewis Milestone",
+          "annee": 1945,
+          "duree": 116,
+          "generique": "Barbara Stanwyck, Van Heflin, Lizabeth Scott, Kirk Douglas",
+          "synopsis": "Le détective privé Sam Masterson retourne dans la ville de son enfance, Iverstown. Il y retrouve ses amis de jeunesse Martha Ivers et Walter O'Neil qui sont à présent mari et femme.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22120,
+              "duree": 116,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66580,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 546,
+          "idCategorie": 2654,
+          "titreCycle": "Béla Tarr",
+          "titreSousCycle": "Sátántangó"
+        }
+      ],
+      "idEvenement": 23696,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T15:45:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 76890,
+          "titre": "Satantango",
+          "realisateurs": "Béla Tarr",
+          "annee": 1994,
+          "duree": 137,
+          "generique": "Mihály Vig, Putyi Horváth, László feLugossy",
+          "adaptation": "D'après le roman _Sátántangó_ de László Krasznahorkai.",
+          "synopsis": "Au cœur de la plaine hongroise, les habitants d'une ferme collective vivent durement. Un jour revient l'un des leurs, présumé mort. Certains y voient l'arrivée d'un messie, d'autres celle de Satan.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22132,
+              "duree": 137,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Mathieu Lericq"
+    },
+    {
+      "idSeance": 66467,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 546,
+          "idCategorie": 2437,
+          "titreCycle": "Béla Tarr",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23700,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T16:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 114723,
+          "titre": "Cheval de Turin",
+          "art": "Le",
+          "titreVo": "Torinói ló",
+          "artVo": "A",
+          "realisateurs": "Béla Tarr, Ágnes Hranitzky",
+          "annee": 2011,
+          "dureeStd": 146,
+          "duree": 146,
+          "generique": "János Derzsi, Erika Bok, Mihály Kormos",
+          "miniTexte": "Le film s'ouvre sur un épisode de la vie de Nietzsche qui se jeta un jour, en larmes, au cou d'un cheval pour le protéger du fouet cruel de son cocher, avant de sombrer dans la folie. La superbe photographie de Fred Kelemen et la musique funèbre de Mihály Vig accompagnent la chronique des derniers jours d'un homme, de sa fille et de leur bête de somme, dans un monde hors du temps, balayé par le vent. Ultime œuvre de Béla Tarr, un récit de solitude, dont la beauté sépulcrale ensorcelle.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 16991,
+              "duree": 146,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 180388
+        }
+      ],
+      "mention": "Séance présentée par Pauline de Raymond"
+    },
+    {
+      "idSeance": 66259,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 546,
+          "idCategorie": 2437,
+          "titreCycle": "Béla Tarr",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23702,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-31T14:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 96250,
+          "titre": "Damnation",
+          "titreVo": "Kárhozat",
+          "realisateurs": "Béla Tarr",
+          "annee": 1987,
+          "duree": 116,
+          "generique": "Miklós B. Székely, Vali Kerekes, Hedi Temessy",
+          "synopsis": "Dans une ville industrielle désolée, Karrer tente de conquérir une chanteuse de cabaret dont le mari est au loin, et avec qui il a eu une brève liaison.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22154,
+              "duree": 116,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Béla Tarr"
+    },
+    {
+      "idSeance": 66302,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 546,
+          "idCategorie": 2437,
+          "titreCycle": "Béla Tarr",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 546,
+          "idCategorie": 2447,
+          "titreCycle": "Béla Tarr",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 23703,
+      "dateHeure": "2022-04-02T14:30:00",
+      "idSalle": "HL",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 77334,
+          "titre": "Harmonies Werckmeister",
+          "art": "Les",
+          "titreVo": "Werckmeister harmoniak",
+          "realisateurs": "Béla Tarr, Ágnes Hranitzky",
+          "annee": 2000,
+          "duree": 145,
+          "generique": "Lars Rudolph, Peter Fitz, Hanna Schygulla, Ferenc Kallai, János Derzsi",
+          "adaptation": "D'après le roman _La Mélancolie de la résistance_ de László Krasznahorkai.",
+          "synopsis": "János, jeune homme simple, assiste à l'escalade de la violence et du désordre dans sa petite ville de la plaine hongroise, où vient de débarquer un étrange cirque itinérant qui transporte une baleine.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23806,
+              "duree": 145,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "GER",
+              "sousTitres": "STF",
+              "stDemande": true,
+              "selected": true
+            },
+            {
+              "idCopie": 22211,
+              "duree": 145,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "idConf": 23832,
+          "titre": "MASTERCLASS BELA TARR",
+          "typeConference": "Leçon de cinéma",
+          "duree": 30,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 66559,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 546,
+          "idCategorie": 2437,
+          "titreCycle": "Béla Tarr",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23704,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-31T20:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 102033,
+          "titre": "Homme de Londres",
+          "art": "L'",
+          "titreVo": "Londoni férfi",
+          "artVo": "A",
+          "realisateurs": "Béla Tarr, Ágnes Hranitzky",
+          "annee": 2006,
+          "duree": 132,
+          "generique": "Miroslav Krobot, Tilda Swinton, Erika Bok",
+          "adaptation": "D'après le roman _L'Homme de Londres_ de Georges Simenon.",
+          "synopsis": "Maloin, veilleur portuaire, mène une vie simple, solitaire et sans but, aux confins de la mer infinie. Un jour, il est témoin d'un meurtre et sa vie bascule.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 5870,
+              "duree": 132,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Béla Tarr"
+    },
+    {
+      "idSeance": 66679,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 546,
+          "idCategorie": 2437,
+          "titreCycle": "Béla Tarr",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23708,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-30T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40545,
+          "titre": "Nid familial",
+          "titreVo": "Csaladi tuzfeszek",
+          "realisateurs": "Béla Tarr",
+          "annee": 1979,
+          "duree": 108,
+          "generique": "László Horváth, Gábor Kun, Lászlóné Horváth",
+          "synopsis": "En Hongrie, où les loyers sont trop élevés, une famille nombreuse habite dans un petit appartement. Les relations de couple se compliquent, les tensions s'accumulent, et chacun rêve d'espace.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22152,
+              "duree": 108,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Béla Tarr"
+    },
+    {
+      "idSeance": 66560,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 546,
+          "idCategorie": 2437,
+          "titreCycle": "Béla Tarr",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23709,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T18:30:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 118215,
+          "titre": "Outsider",
+          "art": "L'",
+          "titreVo": "Szabadgyalog",
+          "realisateurs": "Béla Tarr",
+          "annee": 1981,
+          "duree": 122,
+          "generique": "András Szabó, Jólan Fodór, Imre Donkó",
+          "synopsis": "Dans une ville industrielle de Hongrie, un jeune infirmier mélomane est renvoyé pour alcoolisme. Cet échec le mène dans des balades urbaines qui accompagnent sa descente aux enfers.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22153,
+              "duree": 122,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Mathieu Lericq"
+    },
+    {
+      "idSeance": 66260,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2605,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Hommage à Tonie Marshall"
+        }
+      ],
+      "idEvenement": 23776,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T16:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 63897,
+          "titre": "Vénus beauté (institut)",
+          "realisateurs": "Tonie Marshall",
+          "annee": 1998,
+          "duree": 105,
+          "generique": "Nathalie Baye, Bulle Ogier, Mathilde Seigner, Audrey Tautou",
+          "synopsis": "Angèle travaille au Vénus Beauté, institut parisien fréquenté par une clientèle en veine de confidences. À la fin de sa journée, elle sort draguer des inconnus dans les gares et les cafétérias.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22146,
+              "duree": 105,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Olivier Bomsel, Nathalie Baye et Frédéric Bonnaud"
+    },
+    {
+      "idSeance": 66575,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 544,
+          "idCategorie": 2435,
+          "titreCycle": "Raretés des collections de la Cinémathèque",
+          "titreSousCycle": "Chris Marker"
+        }
+      ],
+      "idEvenement": 23790,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-31T17:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 62504,
+          "titre": "On vous parle de Prague : Le Deuxième procès d'Artur London",
+          "realisateurs": "Chris Marker",
+          "annee": 1969,
+          "duree": 28,
+          "generique": "Yves Montand, Simone Signoret",
+          "synopsis": "Sur le tournage de _L'Aveu_, interviews d'Artur London, Jorge Semprún, Costa-Gavras, Yves Montand, Simone Signoret et des techniciens du film.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22198,
+              "duree": 28,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 147293,
+          "titre": "Rush : Voyage à Moscou",
+          "realisateurs": "Chris Marker",
+          "annee": 1990,
+          "duree": 109,
+          "synopsis": "Étonnant journal de voyage inédit tourné en vidéo Hi-8, à l'occasion d'une projection de _L'Aveu_ à Moscou en 1990, en compagnie de Costa-Gavras, Jorge Semprún et Yves Montand.",
+          "commentaire": "Le 29 juillet 2012 à Paris disparaissait Chris Marker. Dans une lettre adressée quelque temps auparavant à Costa-Gavras, il faisait part de son souhait que la Cinémathèque assure la conservation de ses archives professionnelles. Quelque 550 cartons inventoriés et une exposition plus tard, découverte de ce _Rush – Voyage à Moscou_, quasiment tourné-monté en 1990, aux côtés de Costa-Gavras, Jorge Semprún et Yves Montand. Ensemble, ils « retournent » montrer _L'Aveu_ en Russie, en pleine fin de perestroïka, en pleine « fin de l'homme rouge ». Armé de son caméscope, Marker filme et enregistre les commentaires, endosse le rôle de contemporain capital, selon cette méthode ethnographique unique qu'il a mise au point (le bout-à-bout des rushes en témoigne, comme cette scène insert d'un court échange avec Florence Malraux, également du voyage, ou cette autre scène hallucinante où Montand désigne les emplacements d'un dîner mythique avec Krouchtchev et Simone, en 56, dans une petite antichambre de l'Opéra).\n\nEt puis Marker part en solitaire à la rencontre des Russes, « les gens bien » – pour reprendre l'expression de Signoret dans _On vous parle de Prague_ –, fixant certains visages, scannant la foule, repérant des vendeurs à la sauvette de _Pravda_ non officielle, se rendant au cimetière sur la tombe de Vyssotski, s'attardant sur un chat, bien évidemment.\n\nÉmilie Cauquy",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22199,
+              "duree": 109,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Costa-Gavras"
+    },
+    {
+      "idSeance": 66576,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 544,
+          "idCategorie": 2441,
+          "titreCycle": "Raretés des collections de la Cinémathèque",
+          "titreSousCycle": "Qu'est-ce qu'il fait ? Il leur tire dessus"
+        }
+      ],
+      "idEvenement": 23794,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T18:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 147291,
+          "titre": "Ciné-tracts : Qu'est-ce qu'il fait ? Il leur tire dessus. Ils s'étaient révoltés",
+          "realisateurs": "Chris Marker",
+          "annee": 1968,
+          "duree": 20,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22197,
+              "duree": 20,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 142842,
+          "titre": "Around South Central",
+          "realisateurs": "Roger Andrieux",
+          "annee": 1970,
+          "duree": 25,
+          "generique": "Bobby Seale, Eldridge Cleaver",
+          "synopsis": "« Documentaire sur les Black Panthers de la côte Ouest. Répression meurtrière par le FBI et les forces de police. » (Roger Andrieux)",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22196,
+              "duree": 25,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "Autres"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 65807,
+          "titre": "Aussi loin que mon enfance",
+          "realisateurs": "Jean Eustache, Marilù Parolini",
+          "annee": 1970,
+          "duree": 25,
+          "generique": "Bulle Ogier",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22195,
+              "duree": 25,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Hervé Pichard, Viviane Aquili et Jean-François Dars"
+    },
+    {
+      "idSeance": 66684,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 544,
+          "idCategorie": 2442,
+          "titreCycle": "Raretés des collections de la Cinémathèque",
+          "titreSousCycle": "Sous le signe du vaudou"
+        }
+      ],
+      "idEvenement": 23796,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-30T21:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 147292,
+          "titre": "Sous le signe du vaudou",
+          "realisateurs": "Pascal Abikanlou",
+          "annee": 1974,
+          "duree": 95,
+          "synopsis": "Un jeune homme néglige les offrandes rituelles aux divinités vaudou et déclenche leur colère. Sa famille en subit les conséquences, et il part en ville chercher une solution pour conjurer le mauvais sort.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22194,
+              "duree": 95,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Adrien Guillot"
+    },
+    {
+      "idSeance": 66179,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 544,
+          "idCategorie": 2443,
+          "titreCycle": "Raretés des collections de la Cinémathèque",
+          "titreSousCycle": "Hommage à Jean Douchet"
+        }
+      ],
+      "idEvenement": 23797,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T14:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 60453,
+          "titre": "Servante aimante",
+          "art": "La",
+          "realisateurs": "Jean Douchet",
+          "annee": 1994,
+          "duree": 172,
+          "synopsis": "La dévouée Coraline est au service de Don Ottavio, qui a chassé de chez lui son fils Florindo. Aidée par leur voisin Pantalon, elle tente de déjouer les plans de la cupide épouse de son maître.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22193,
+              "duree": 172,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Cédric Anger"
+    },
+    {
+      "idSeance": 66626,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2655,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Spectacle Méliès"
+        }
+      ],
+      "idEvenement": 23800,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T16:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 102283,
+          "titre": "Éruption volcanique à la Martinique",
+          "realisateurs": "Georges Méliès",
+          "annee": 1902,
+          "duree": 2,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23702,
+              "duree": 2,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 52485,
+          "titre": "Manoir du diable",
+          "art": "Le",
+          "realisateurs": "Georges Méliès",
+          "annee": 1896,
+          "duree": 3,
+          "generique": "Jeanne d'Alcy, Georges Méliès",
+          "synopsis": "Texte à saisir",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22201,
+              "duree": 3,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 52375,
+          "titre": "Chaudron infernal",
+          "art": "Le",
+          "realisateurs": "Georges Méliès",
+          "annee": 1903,
+          "duree": 2,
+          "generique": "Georges Méliès, André Deed",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 22200,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 88029,
+          "titre": "Alchimiste Parafaragaramus ou La Cornue infernale",
+          "art": "L'",
+          "realisateurs": "Georges Méliès",
+          "annee": 1906,
+          "duree": 3,
+          "generique": "Georges Méliès",
+          "synopsis": "Transformations, apparitions et disparitions dans l'atelier d'un vieil alchimiste, assoupi entre ses deux assistants.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22202,
+              "duree": 3,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 52458,
+          "titre": "Diable au couvent",
+          "art": "Le",
+          "realisateurs": "Georges Méliès",
+          "annee": 1899,
+          "duree": 3,
+          "generique": "Georges Méliès",
+          "synopsis": "Texte à saisir",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22203,
+              "duree": 3,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 6,
+          "idFilm": 84599,
+          "titre": "Tentation de Saint-Antoine",
+          "realisateurs": "Georges Méliès",
+          "annee": 1898,
+          "duree": 1,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 3664,
+              "duree": 1,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        },
+        {
+          "ordre": 7,
+          "idFilm": 94151,
+          "titre": "Dislocation mystérieuse",
+          "realisateurs": "Georges Méliès",
+          "annee": 1901,
+          "duree": 2,
+          "generique": "André Deed",
+          "ageMinimal": 3,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22205,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ],
+          "idFilmBoxoffice": 46035
+        },
+        {
+          "ordre": 8,
+          "idFilm": 59642,
+          "titre": "Damnation du docteur Faust",
+          "realisateurs": "Georges Méliès",
+          "annee": 1904,
+          "duree": 2,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22226,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 9,
+          "idFilm": 84495,
+          "titre": "Cake-walk infernal",
+          "art": "Le",
+          "realisateurs": "Georges Méliès",
+          "annee": 1903,
+          "duree": 6,
+          "generique": "Georges Méliès",
+          "synopsis": "Texte à saisir",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22204,
+              "duree": 6,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 10,
+          "idFilm": 52505,
+          "titre": "Lune à un mètre ou Le Rêve de l'astronome",
+          "art": "La",
+          "realisateurs": "Georges Méliès",
+          "annee": 1898,
+          "duree": 3,
+          "ageMinimal": 3,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 13972,
+              "duree": 3,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 11,
+          "idFilm": 52462,
+          "titre": "Fée Carabosse ou Le Poignard fatal",
+          "art": "La",
+          "realisateurs": "Georges Méliès",
+          "annee": 1906,
+          "duree": 12,
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21845,
+              "duree": 12,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66683,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 544,
+          "idCategorie": 2444,
+          "titreCycle": "Raretés des collections de la Cinémathèque",
+          "titreSousCycle": "Courts métrages muets (restaurations récentes)"
+        }
+      ],
+      "idEvenement": 23808,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T14:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 147299,
+          "titre": "Moonshiner's Last Stand",
+          "art": "The",
+          "realisateurs": "Anonyme",
+          "annee": 1913,
+          "duree": 23,
+          "synopsis": "La famille Bander vend illégalement de l'alcool, dissimulé dans des noix de coco, à destination des Indiens d'une réserve. La rivalité amoureuse du shérif et du détective, sous le charme de la fille Bander, complique leur vie.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22216,
+              "duree": 23,
+              "format": "35 mm",
+              "langCopie": "MIT",
+              "intertitres": "INT. FR."
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 147298,
+          "titre": "Black Roderick the Poacher",
+          "realisateurs": "H.O. Martinek",
+          "annee": 1914,
+          "duree": 25,
+          "synopsis": "Dans la campagne écossaise, la confrontation du braconnier Black Roderick avec le garde-chasse.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22217,
+              "duree": 25,
+              "format": "35 mm",
+              "langCopie": "MIT",
+              "intertitres": "INT. FR."
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 134987,
+          "titre": "Grande croisière",
+          "art": "La",
+          "titreVo": "Come to Papa",
+          "realisateurs": "Charles Lamont",
+          "annee": 1928,
+          "duree": 23,
+          "synopsis": "Tirage d'après un positif muet diacétate noir et blanc.\n\n---\n\nLes tribulations d'un petit garçon, qui traverse l'Atlantique sur un paquebot afin de retrouver son père parti en Amérique, côtoyant riches voyageurs et migrants parqués dans la soute.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 11781,
+              "duree": 23,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 147300,
+          "titre": "Roping Her Romeo",
+          "realisateurs": "Hampton Del Ruth, Fred Fishback",
+          "annee": 1917,
+          "duree": 20,
+          "synopsis": "L'impétueuse Sheriff Nell's Tussle fait régner l'ordre, d'une main de fer, sur Triggerville. Mais son cœur balance entre Jack, le barman du saloon et Black Pete, un escroc notoire.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22218,
+              "duree": 20,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Clarisse Bronchti et Emmanuelle Berthault. Accompagnement musical par Jacques Cambra"
+    },
+    {
+      "idSeance": 66609,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 546,
+          "idCategorie": 2445,
+          "titreCycle": "Béla Tarr",
+          "titreSousCycle": "Carte blanche"
+        }
+      ],
+      "idEvenement": 23811,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-31T18:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40955,
+          "titre": "Sans-espoir",
+          "art": "Les",
+          "titreVo": "Szegenylegenyek",
+          "realisateurs": "Miklós Jancsó",
+          "annee": 1965,
+          "duree": 94,
+          "generique": "János Görbe, Tibor Molnár, András Kozák",
+          "synopsis": "En 1869, une poignée d'insurgés tente de relancer les soulèvements de 1848 contre l'Empire Austro-Hongrois. Après une défaite écrasante, les prisonniers sont enfermés dans un fortin où ils doivent attendre une mort certaine..",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 7367,
+              "duree": 94,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Béla Tarr"
+    },
+    {
+      "idSeance": 66581,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 546,
+          "idCategorie": 2445,
+          "titreCycle": "Béla Tarr",
+          "titreSousCycle": "Carte blanche"
+        }
+      ],
+      "idEvenement": 23812,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-31T16:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 122062,
+          "titre": "Crépuscule",
+          "titreVo": "Szürhület",
+          "realisateurs": "György Fehér",
+          "annee": 1990,
+          "duree": 105,
+          "synopsis": "Une écolière est retrouvée assassinée dans les bois. Un détective à la retraite tente de retrouver le meurtrier.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23819,
+              "duree": 105,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66562,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 546,
+          "idCategorie": 2445,
+          "titreCycle": "Béla Tarr",
+          "titreSousCycle": "Carte blanche"
+        }
+      ],
+      "idEvenement": 23813,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-31T14:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41234,
+          "titre": "American Torso ",
+          "titreVo": "Amerikai anzix",
+          "realisateurs": "Gábor Bódy",
+          "annee": 1976,
+          "duree": 94,
+          "generique": "Sándor Csutoros, György Cserhalmi, András Fekete",
+          "synopsis": "Le destin de trois vétérans hongrois émigrés au États-Unis pendant les derniers jours de la guerre de Sécession.",
+          "commentaire": "Un topographe d'origine hongroise engagé dans l'armée de l'Union pendant la guerre de Sécession forme bientôt un duo avec un acolyte, comme lui vétéran de la guerre d'indépendance magyare. À coups de digressions déroutantes, de bifurcations, on arpente avec lui, avec eux, l'histoire, en un voyage spatio-temporel entre deux points de l'espace et du temps : 1865 et 1975, les États-Unis et la Hongrie. Figure importante du fameux Béla Balázs Studio, Gábor Bódy a fait honneur à l'esprit du lieu avant d'être emporté par une mort énigmatique en 1985, à seulement 39 ans. _American Torso_, son premier long métrage, est un vaste et intense champ d'expérimentations tordant joyeusement le cou aux conventions cinématographiques, aussi bien en matière de narration que de forme, de mise en scène. Le tout se fait non pas avec un sérieux écrasant, mais plutôt une malice ludique, un alliage étonnant de perfectionnisme et de désinvolture. Gábor Bódy y multiplie les renvois aux origines de la photographie et du cinéma, comme s'il s'agissait de retrouver la dimension foraine des premiers temps du cinématographe. Cela se manifeste par le biais de la citation (par exemple, lors de la séquence du tripot, ce cowboy tout droit sorti du _Vol du grand rapide_ d'Edwin S. Porter...), mais aussi par un formalisme réflexif, notamment une façon de rendre visible, presque palpable, la matière même de l'image noir et blanc, qui manque régulièrement d'être ensevelie par un trop plein de lumière.\n\nArnaud Hée",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22223,
+              "duree": 94,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par György Ráduly"
+    },
+    {
+      "idSeance": 66426,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23818,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-30T21:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49371,
+          "titre": "Harem",
+          "realisateurs": "Arthur Joffé",
+          "annee": 1985,
+          "duree": 113,
+          "generique": "Nastassja Kinski, Ben Kingsley",
+          "synopsis": "Une jeune New-Yorkaise est enlevée par les sbires d'un puissant chef arabe, et se retrouve dans son harem. Mais le maître des lieux est un homme raffiné, qu'elle va apprendre à connaître et à apprécier.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22213,
+              "duree": 113,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Arthur Joffé"
+    },
+    {
+      "idSeance": 66630,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23822,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 147465,
+          "titre": "Apaches",
+          "art": "Les",
+          "titreVo": "Oi Apahides ton Athinon",
+          "artVo": "I",
+          "titreNx": "Οι απάχηδες των Αθηνών",
+          "realisateurs": "Dimitris Gaziadis",
+          "annee": 1930,
+          "duree": 80,
+          "generique": "Petros Epitropakis, Mery Sagianou-Katseli",
+          "synopsis": "Athènes, dans l'entre-deux-guerres : un triangle amoureux entre un jeune homme charmant, un élégant vendeur de fleurs, tous deux sans le sou, et la flamboyante héritière d'un couple de nouveaux riches.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22221,
+              "duree": 80,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Maria Komninos"
+    },
+    {
+      "idSeance": 66445,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23825,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 57769,
+          "titre": "Cadet d'eau douce",
+          "titreVo": "Steamboat Bill, Jr.",
+          "realisateurs": "Buster Keaton, Charles F. Riesner",
+          "annee": 1928,
+          "duree": 69,
+          "generique": "Buster Keaton, Ernest Torrence, Marion Byron",
+          "ageMinimal": 6,
+          "synopsis": "Sur le Mississippi, deux vieux mariniers se disputent : d'un côté, Bill et son vieux rafiot, de l'autre, King et son rutilant steamer. Quand Junior, le fils de Bill, revient au pays, il tombe immédiatement de Kitty, la fille de King.",
+          "synopsisJP": "Le génial Buster Keaton dans le rôle d'un marinier confronté à un cyclone et aux machines récalcitrantes, à bord d'un bateau vapeur sur le Mississippi. De la poésie et de la folie, et une des plus célèbres scènes du burlesque, qui voit Buster recevoir la façade d'une maison sur la tête.",
+          "miniTexte": "Le génial Buster Keaton dans le rôle d'un marinier confronté à un cyclone et aux machines récalcitrantes, à bord d'un bateau vapeur sur le Mississippi. De la poésie et de la folie, et une des plus célèbres scènes du burlesque, qui voit Buster recevoir la façade d'une maison sur la tête.",
+          "commentaire": "_Steamboat Bill, Jr._ est le dernier grand feu d'artifice du génial Buster Keaton, réalisé librement avant la « plus grande erreur de [sa] vie », selon ses dires : son entrée à la MGM, où il perdra toute indépendance et qui provoquera sa chute – divorce, alcoolisme, ruine, films produits à la va-vite... Ici, l'idiome burlesque keatonien triomphe : il est aux prises avec les éléments (un cyclone sur le Mississippi), la machine (des bateaux ivres), les barrières sociales, la conquête obstinée de l'amour. Les rapports (autobiographiques) sont tendus entre le père et son freluquet de fils. Le film joue beaucoup sur les apparences physiques : jamais Keaton n'a semblé aussi frêle et minuscule (et pourtant tellement solide !). Le regard magnifique de son visage émacié, rimbaldien, semble diffuser ses dernières ondes. La scène la plus incroyable, célébrissime, est celle où il reçoit la façade d'une maison sur la tête – il en réchappe par l'ouverture d'une fenêtre. Toujours flegmatique, Keaton frôle la mort en traversant debout cette structure de deux tonnes qui passe à 8 cm de lui. Le corps de Keaton, mystérieusement incassable semble-t-il, est constamment mis à l'épreuve dans l'eau, sous la pluie, entre deux bateaux, dans la boue, le vent. Il lutte contre d'énormes bourrasques (des moteurs d'avion ont été installés), homme aux semelles de vent arc-bouté, marchant quasiment à l'horizontale, essayant de remonter l'air comme un saumon dans la rivière ! Tout le film n'est que folie, grâce et poésie.\n\nLaurent Mannoni",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22215,
+              "duree": 69,
+              "format": "DCP",
+              "intertitres": "INT. ANG.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 1609
+        }
+      ]
+    },
+    {
+      "idSeance": 66443,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2603,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Luc Béraud"
+        },
+        {
+          "idCycle": 537,
+          "idCategorie": 2652,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 23827,
+      "dateHeure": "2022-03-31T19:30:00",
+      "idSalle": "JE",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 57095,
+          "titre": "Dites-lui que je l'aime",
+          "realisateurs": "Claude Miller",
+          "annee": 1977,
+          "duree": 107,
+          "generique": "Gérard Depardieu, Miou-Miou, Claude Piéplu",
+          "adaptation": "D'après le roman _ Ce mal étrange _ de Patricia Highsmith.",
+          "synopsis": "David Martinaud est fou amoureux de Lise, mais Juliette poursuit à son tour le farouche jeune homme. Un thriller amoureux à Chamonix, ou : Juliette aime David qui aime Lise qui ne l'aime pas.",
+          "miniTexte": "Derrière la légèreté du titre, une passion dévorante. D'un polar de Patricia Highsmith, Claude Miller a tiré – avec Luc Béraud – un scénario trempé dans l'acide, essorant l'intrigue pour « faire du désir amoureux le ressort d'un film à suspense ». Juliette aime David qui aime Lise qui ne l'aime pas... Depardieu, bestial et enfantin, Miou-Miou, déchirante, et la délicate Dominique Laffin composent cette équation insoluble, dont les gestes et les regards disent tout des ravages intérieurs. Dans une atmosphère qui lorgne du côté de Truffaut et cite directement Hitchcock, le cinéaste décortique avec une précision cruelle les mécanismes d'une névrose obsessionnelle, jusqu'à l'inévitable implosion finale.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22220,
+              "duree": 107,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idConf": 25572,
+          "titre": "RENCONTRE AVEC LUC BÉRAUD",
+          "typeConference": "Dialogue",
+          "duree": 60,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 66579,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23829,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T13:45:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47529,
+          "titre": "Maison du Maltais",
+          "art": "La",
+          "realisateurs": "Pierre Chenal",
+          "annee": 1938,
+          "duree": 99,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22227,
+              "duree": 99,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Christine Leteux"
+    },
+    {
+      "idSeance": 66890,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 549,
+          "idCategorie": 2449,
+          "titreCycle": "Séances Jeune public",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 23844,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T11:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 134653,
+          "titre": "Pile électrique de Léontine",
+          "art": "La",
+          "realisateurs": "Louis Z. Rollini",
+          "annee": 1910,
+          "duree": 6,
+          "synopsis": "Vous riez sans doute avec Charlot et Buster mais connaissez-vous Léontine, Rosalie et tous les autres personnages féminins comiques des débuts du cinéma français ? Jamais à cours de mauvais tours elles dévastent avec plaisir les appartements qu'elles traversent, électrisent les passants, s'envolent, font littéralement perdre la tête aux hommes, se mettent en grève ou ne suivent que leurs envies. Un programme pour découvrir leurs aventures dans un vent de liberté revigorant !",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22232,
+              "duree": 6,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 147737,
+          "titre": "Grève des nourrices",
+          "art": "La",
+          "realisateurs": "André Heuzé",
+          "annee": 1907,
+          "duree": 12,
+          "synopsis": "Vous riez sans doute avec Charlot et Buster mais connaissez-vous Léontine, Rosalie et tous les autres personnages féminins comiques des débuts du cinéma français ? Jamais à cours de mauvais tours elles dévastent avec plaisir les appartements qu'elles traversent, électrisent les passants, s'envolent, font littéralement perdre la tête aux hommes, se mettent en grève ou ne suivent que leurs envies. Un programme pour découvrir leurs aventures dans un vent de liberté revigorant !",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22233,
+              "duree": 12,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 78524,
+          "titre": "Une dame vraiment très bien",
+          "realisateurs": "Louis Feuillade",
+          "annee": 1908,
+          "duree": 4,
+          "synopsis": "Vous riez sans doute avec Charlot et Buster mais connaissez-vous Léontine, Rosalie et tous les autres personnages féminins comiques des débuts du cinéma français ? Jamais à cours de mauvais tours elles dévastent avec plaisir les appartements qu'elles traversent, électrisent les passants, s'envolent, font littéralement perdre la tête aux hommes, se mettent en grève ou ne suivent que leurs envies. Un programme pour découvrir leurs aventures dans un vent de liberté revigorant !",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22234,
+              "duree": 4,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 147736,
+          "titre": "Monsieur veut se marier",
+          "realisateurs": "Louis Feuillade",
+          "annee": 1910,
+          "duree": 8,
+          "synopsis": "Vous riez sans doute avec Charlot et Buster mais connaissez-vous Léontine, Rosalie et tous les autres personnages féminins comiques des débuts du cinéma français ? Jamais à cours de mauvais tours elles dévastent avec plaisir les appartements qu'elles traversent, électrisent les passants, s'envolent, font littéralement perdre la tête aux hommes, se mettent en grève ou ne suivent que leurs envies. Un programme pour découvrir leurs aventures dans un vent de liberté revigorant !",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22235,
+              "duree": 8,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 106017,
+          "titre": "Madame a des envies",
+          "realisateurs": "Alice Guy",
+          "annee": 1906,
+          "duree": 4,
+          "synopsis": "À travers les envies de la protagoniste se déploie une dimension subversive et politiquement incorrecte qui renvoie à la sexualité (la sucette) et à l'ivresse (l'absinthe).",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 22236,
+              "duree": 4,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 6,
+          "idFilm": 76002,
+          "titre": "Non ! Tu ne sortiras pas sans moi",
+          "realisateurs": "Jean Durand",
+          "annee": 1911,
+          "duree": 7,
+          "synopsis": "Vous riez sans doute avec Charlot et Buster mais connaissez-vous Léontine, Rosalie et tous les autres personnages féminins comiques des débuts du cinéma français ? Jamais à cours de mauvais tours elles dévastent avec plaisir les appartements qu'elles traversent, électrisent les passants, s'envolent, font littéralement perdre la tête aux hommes, se mettent en grève ou ne suivent que leurs envies. Un programme pour découvrir leurs aventures dans un vent de liberté revigorant !",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 8450,
+              "duree": 7,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        },
+        {
+          "ordre": 7,
+          "idFilm": 47023,
+          "titre": "Little Moritz enlève Rosalie",
+          "realisateurs": "Henri Gambart",
+          "annee": 1911,
+          "duree": 7,
+          "synopsis": "Vous riez sans doute avec Charlot et Buster mais connaissez-vous Léontine, Rosalie et tous les autres personnages féminins comiques des débuts du cinéma français ? Jamais à cours de mauvais tours elles dévastent avec plaisir les appartements qu'elles traversent, électrisent les passants, s'envolent, font littéralement perdre la tête aux hommes, se mettent en grève ou ne suivent que leurs envies. Un programme pour découvrir leurs aventures dans un vent de liberté revigorant !",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22237,
+              "duree": 7,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 8,
+          "idFilm": 106018,
+          "titre": "Une femme collante",
+          "realisateurs": "Alice Guy",
+          "annee": 1906,
+          "duree": 2,
+          "synopsis": "Vous riez sans doute avec Charlot et Buster mais connaissez-vous Léontine, Rosalie et tous les autres personnages féminins comiques des débuts du cinéma français ? Jamais à cours de mauvais tours elles dévastent avec plaisir les appartements qu'elles traversent, électrisent les passants, s'envolent, font littéralement perdre la tête aux hommes, se mettent en grève ou ne suivent que leurs envies. Un programme pour découvrir leurs aventures dans un vent de liberté revigorant !",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22238,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 9,
+          "idFilm": 134648,
+          "titre": "Léontine s'envole",
+          "realisateurs": "Roméo Bosetti",
+          "annee": 1911,
+          "duree": 6,
+          "synopsis": "Vous riez sans doute avec Charlot et Buster mais connaissez-vous Léontine, Rosalie et tous les autres personnages féminins comiques des débuts du cinéma français ? Jamais à cours de mauvais tours elles dévastent avec plaisir les appartements qu'elles traversent, électrisent les passants, s'envolent, font littéralement perdre la tête aux hommes, se mettent en grève ou ne suivent que leurs envies. Un programme pour découvrir leurs aventures dans un vent de liberté revigorant !",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22239,
+              "duree": 6,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Élodie Imbeau. Accompagnement musical par Ignacio Plaza"
+    },
+    {
+      "idSeance": 66917,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 604,
+          "idCategorie": 2589,
+          "titreCycle": "Yuzo Kawashima",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25112,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 91856,
+          "titre": "Bête élégante",
+          "art": "La",
+          "titreVo": "Shitoyakana kedamono",
+          "titreNx": "しとやかな獣",
+          "realisateurs": "Yuzo Kawashima",
+          "annee": 1962,
+          "duree": 96,
+          "generique": "Ayako Wakao, Yunosuke Itô, Hisano Yamaoka",
+          "synopsis": "Dans le Japon de l'après-guerre, les fourberies d'un couple et de ses enfants qui, pour jouir du bien-être du monde moderne, se livrent à des escroqueries en tout genre.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 23244,
+              "duree": 96,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Clément Rauger"
+    },
+    {
+      "idSeance": 66961,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 604,
+          "idCategorie": 2589,
+          "titreCycle": "Yuzo Kawashima",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25113,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T19:30:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 151641,
+          "titre": "Femmes naissent deux fois",
+          "art": "Les",
+          "titreVo": "Onna wa nido umareru",
+          "titreNx": "女は二度生れる",
+          "realisateurs": "Yuzo Kawashima",
+          "annee": 1961,
+          "duree": 99,
+          "generique": "Ayako Wakao, Jun Fujimaki",
+          "synopsis": "Koen, une geisha des bas quartiers, entretient des relations avec des hommes de tous âges. Un jour, Tsutsui, un client qui pourrait être son père, lui propose un amour exclusif.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 23243,
+              "duree": 99,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Clément Rauger"
+    },
+    {
+      "idSeance": 66960,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 604,
+          "idCategorie": 2589,
+          "titreCycle": "Yuzo Kawashima",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25114,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T18:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 151642,
+          "titre": "Temple des oies sauvages",
+          "art": "Le",
+          "titreVo": "Gan no tera",
+          "titreNx": "雁の寺",
+          "realisateurs": "Yuzo Kawashima",
+          "annee": 1962,
+          "duree": 97,
+          "generique": "Ayako Wakao, Masao Mishima, Isao Kimura",
+          "synopsis": "Juste avant de mourir, un artiste sérigraphe du temple Kohoan à Kyoto, livre la belle Satoko à Jikai, prêtre quelque peu lubrique, chef du temple Kikuchi. Jinen, l'apprenti bonze malmené par Jikai, observe silencieusement la situation.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 23245,
+              "duree": 97,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Clément Rauger"
+    },
+    {
+      "idSeance": 66303,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 610,
+          "idCategorie": 2596,
+          "titreCycle": "J-Horror, quatre visages de la peur",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25170,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T01:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 73943,
+          "titre": "Ring",
+          "titreVo": "Ringu",
+          "titreNx": "リング",
+          "realisateurs": "Hideo Nakata",
+          "annee": 1998,
+          "duree": 95,
+          "generique": "Nanako Matsushima, Miki Nakatani, Hiroyuki Sanada",
+          "adaptation": "D'après le roman _Ring_ de Kōji Suzuki.",
+          "synopsis": "Une jeune fille meurt mystérieusement après avoir regardé une cassette vidéo. Reiko, journaliste intriguée par l'affaire, réussit à mettre la main sur la cassette.",
+          "miniTexte": "Une vidéo maudite ne laisse que sept jours de vie à ses spectateurs. D'après une croyance populaire, Nakata s'approprie ce compte à rebours pour dynamiter les codes du genre et offrir une vision moderne du fantôme japonais. Mortifère au possible, baigné par une bande-son lancinante, _Ring_ déstabilise pour susciter un malaise durable, construit sur un crescendo pétrifiant.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23329,
+              "duree": 95,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "JPN",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 29346
+        }
+      ],
+      "mention": "Séance présentée par Jean-François Rauger"
+    },
+    {
+      "idSeance": 66319,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 610,
+          "idCategorie": 2596,
+          "titreCycle": "J-Horror, quatre visages de la peur",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25174,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T04:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 83346,
+          "titre": "Dark water",
+          "titreVo": "Honogurai mizu no soko kara",
+          "realisateurs": "Hideo Nakata",
+          "annee": 2001,
+          "duree": 101,
+          "generique": "Hitomi Kuroki, Rio Kanno, Mirei Oguchi",
+          "adaptation": "D'après la nouvelle du recueil _Dark Water_ de Kôji Suzuki.",
+          "synopsis": "Afin d'obtenir la garde de sa fille de 5 ans, Yoshimi s'installe dans la hâte dans un vieil appartement. Leur nouveau quotidien est troublé par une fuite d'eau au plafond et par la découverte d'un petit sac rouge appartenant à une fillette disparue.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23327,
+              "duree": 101,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "JPN",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66442,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 610,
+          "idCategorie": 2596,
+          "titreCycle": "J-Horror, quatre visages de la peur",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25175,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T22:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 77547,
+          "titre": "Audition",
+          "titreVo": "Ōdishon",
+          "titreNx": "オーディション",
+          "realisateurs": "Takashi Miike",
+          "annee": 1999,
+          "duree": 115,
+          "generique": "Ryo Ishibashi, Eihi Shiina, Jun Kunimura",
+          "adaptation": "D'après le roman-feuilleton _Audition_ de Ryū Murakami.",
+          "synopsis": "Un producteur de films, veuf, organise une fausse audition dans le but secret de trouver une nouvelle épouse. Il rencontre une jeune femme qui l'attire dans une horrible et sanglante spirale.",
+          "miniTexte": "Désireux de trouver une nouvelle épouse, un veuf organise de fausses auditions de jeunes femmes. Modèle de J-Horror, _Audition_ instille une tension étouffante à travers les dialogues, la photo qui passe du bleuté au rouge sombre, une utilisation appuyée du contrechamp et un montage ingénieux. Et glisse doucement de la romance sentimentale à la critique froide et acerbe de la domination masculine, à l'horreur pure. Un choc, ou plutôt, des chocs.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23324,
+              "duree": 115,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "JPN",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66622,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25177,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T22:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 58815,
+          "titre": "As Tears Go By",
+          "titreVo": "Wong gok ka moon",
+          "realisateurs": "Wong Kar-wai",
+          "annee": 1988,
+          "duree": 102,
+          "generique": "Andy Lau, Maggie Cheung",
+          "synopsis": "Un jeune photographe ne trouve plus l'inspiration depuis que sa fiancée l'a quitté. Sur les conseils d'un ami, il va parcourir la ville, les lieux emblématiques de sa relation passée pour voir les choses sous un nouvel angle.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 23264,
+              "duree": 102,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66625,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25178,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T21:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51762,
+          "titre": "Vérités et mensonges",
+          "realisateurs": "Orson Welles",
+          "annee": 1973,
+          "duree": 85,
+          "generique": "Orson Welles, Oja Kodar, Elmyr de Hory, Clifford Irving",
+          "synopsis": "Un essai en forme d'enquête sur l'illusion et le faux où sont convoqués Howard Hugues, Picasso, le faussaire Elmyr de Hory et Welles lui-même.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23265,
+              "duree": 85,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Frédéric Bonnaud"
+    },
+    {
+      "idSeance": 66220,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25179,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-31T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50877,
+          "titre": "Règle du jeu",
+          "art": "La",
+          "realisateurs": "Jean Renoir",
+          "annee": 1939,
+          "duree": 106,
+          "generique": "Marcel Dalio, Nora Gregor, Roland Toutain, Jean Renoir",
+          "synopsis": "Chassé-croisé amoureux lors d'une partie de chasse en Sologne.\n\n---\n\nChassé-croisé amoureux lors d'une partie de chasse en Sologne. Une « fantaisie dramatique », selon le mot de Jean Renoir. **Discussion d'Arnaud Desplechin et de Jean Douchet à l'issue de la projection**",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23266,
+              "duree": 106,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Frédéric Bonnaud"
+    },
+    {
+      "idSeance": 66627,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25179,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T20:30:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50877,
+          "titre": "Règle du jeu",
+          "art": "La",
+          "realisateurs": "Jean Renoir",
+          "annee": 1939,
+          "duree": 106,
+          "generique": "Marcel Dalio, Nora Gregor, Roland Toutain, Jean Renoir",
+          "synopsis": "Chassé-croisé amoureux lors d'une partie de chasse en Sologne.\n\n---\n\nChassé-croisé amoureux lors d'une partie de chasse en Sologne. Une « fantaisie dramatique », selon le mot de Jean Renoir. **Discussion d'Arnaud Desplechin et de Jean Douchet à l'issue de la projection**",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23266,
+              "duree": 106,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Jean-François Rauger"
+    },
+    {
+      "idSeance": 66760,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25179,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T16:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50877,
+          "titre": "Règle du jeu",
+          "art": "La",
+          "realisateurs": "Jean Renoir",
+          "annee": 1939,
+          "duree": 106,
+          "generique": "Marcel Dalio, Nora Gregor, Roland Toutain, Jean Renoir",
+          "synopsis": "Chassé-croisé amoureux lors d'une partie de chasse en Sologne.\n\n---\n\nChassé-croisé amoureux lors d'une partie de chasse en Sologne. Une « fantaisie dramatique », selon le mot de Jean Renoir. **Discussion d'Arnaud Desplechin et de Jean Douchet à l'issue de la projection**",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23266,
+              "duree": 106,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance suivie d'une discussion avec Arnaud Desplechin"
+    },
+    {
+      "idSeance": 66631,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25181,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-31T16:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47197,
+          "titre": "Un chien andalou",
+          "realisateurs": "Luis Buñuel",
+          "annee": 1928,
+          "duree": 17,
+          "generique": "Pierre Batcheff, Simone Mareuil, Salvador Dalí",
+          "synopsis": "Il était une nuit au son du tango argentin. Un homme aiguise son rasoir près du balcon avant de trancher l'œil grand ouvert d'une jeune fille impassible.",
+          "commentaire": "« Dalí et moi, en travaillant sur le scénario, nous pratiquions une sorte d'écriture automatique, nous étions surréalistes sans l'étiquette. » (Luis Buñuel)\n\nUne main d'homme aiguise un rasoir et vérifie son tranchant sur l'ongle du pouce. L'homme sort sur le balcon, regarde la pleine lune et trois nuages effilés. La même main écarquille l'œil d'une femme entre le pouce et l'index. La femme nous fixe avec un léger sourire. Un nuage passe devant la Lune ; en très gros plan, le rasoir coupe l'œil de la femme. Aujourd'hui encore, les spectateurs se détournent. Certains crient. Luis Buñuel a commencé comme ça. Le 6 juin 1929, _Un chien andalou_ est présenté à Paris, au Studio des Ursulines. Examen de passage réussi : le jeune Espagnol rejoint le mouvement surréaliste. Son camarade Dalí aussi. L'année d'avant, Georges Bataille a publié _Histoire de l'œil_. C'était dans l'air. Une femme signifie à un homme qu'elle ne veut plus de lui, à coups de raquette de tennis s'il le faut, c'est fini et bien fini. La raquette est celle de Jeanne Rucar, future madame Buñuel, et c'est l'intrigue d'_Un chien andalou_. Pour _L'Âge d'or_, c'est l'inverse : on ne cesse de séparer un couple qui ne pense qu'à copuler partout et tout le temps. La pulsion est créatrice de désordre, il convient de la réprimer. Comme Stroheim, qu'il admirait, Buñuel force le trait et accuse la bizarrerie fondamentale du comportement en société. Lui aussi examine de près la règle du jeu et imagine comment celle-ci pourrait soudain se dérégler. Cela ne tient qu'à un fil. Officiellement interdit jusqu'en 1981, après l'énorme scandale de sa sortie en 1930 et son interdiction immédiate, mais diffusé par Langlois et les ciné-clubs, le film n'a vraiment été restauré qu'en 1993 par le Centre Pompidou. Il attendait depuis une nouvelle restauration numérique, elle aussi issue du négatif original.\n\nFrédéric Bonnaud",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 1031,
+              "duree": 17,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 47140,
+          "titre": "Âge d'or",
+          "art": "L'",
+          "realisateurs": "Luis Buñuel",
+          "annee": 1930,
+          "duree": 63,
+          "generique": "Lya Lys, Gaston Modot, Max Ernst, Pierre Prévert",
+          "synopsis": "La force du désir éprouvé par un couple bouscule et renverse l'ordre social.",
+          "commentaire": "« Un film d'inspiration bolchevique, _L'Âge d'or_, attaquant la religion, la patrie et la famille, était projeté depuis plusieurs jours. Plusieurs commissaires de la Ligue des Patriotes [ont] sifflé ce film obscène. » (communiqué de la Ligue, 6 décembre 1930)",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 18864,
+              "duree": 63,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Frédéric Bonnaud"
+    },
+    {
+      "idSeance": 66623,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25182,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T14:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50223,
+          "titre": "Dragueurs",
+          "art": "Les",
+          "realisateurs": "Jean-Pierre Mocky",
+          "annee": 1959,
+          "duree": 78,
+          "generique": "Jacques Charrier, Charles Aznavour, Anouk Aimée",
+          "synopsis": "Preddy, décorateur assez peu argenté, part avec quelques camarades occuper, comme chaque samedi, sa soirée à « draguer », c'est-à-dire à faire la chasse aux femmes inoccupées et rapidement consentantes.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23267,
+              "duree": 78,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Eric Le Roy"
+    },
+    {
+      "idSeance": 66624,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25184,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T21:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42387,
+          "titre": "Main basse sur la ville",
+          "titreVo": "Mani sulla città",
+          "artVo": "Le",
+          "realisateurs": "Francesco Rosi",
+          "annee": 1963,
+          "duree": 110,
+          "generique": "Rod Steiger, Salvo Randone, Guido Alberti",
+          "synopsis": "Naples, début des années 1960. À l'approche des élections municipales, un chantier de démolition provoque l'effondrement meurtrier d'un immeuble mitoyen. Une commission d'enquête est alors constituée.",
+          "commentaire": "Lion d'or au Festival de Venise 1963, _Main basse sur la ville_ est une plongée captivante dans les rouages de la gestion d'une ville italienne. Rosi y dénonce la spéculation immobilière et les arrangements entre politiques locaux et promoteurs véreux. Le spectateur sera prévenu : « Les personnages et les faits racontés ici sont fictifs, alors que sont bien réels le climat social et le milieu qui les ont générés. » Ravagée par les bombardements, Naples connaît après la guerre un développement urbain sauvage de grande ampleur. Élus de gauche et du centre tentent de faire éclater la vérité sur les agissements illicites du pouvoir en place. En pleine campagne électorale, chacun défend sa cause et ses intérêts personnels. Mais autour du conseiller municipal Nottola, entrepreneur crapuleux, l'étau se resserre. Acteurs chevronnés ou non professionnels – le rôle de l'élu communiste De Vita est interprété par Carlo Fermariello, membre éminent du PCI – font preuve d'une justesse confondante. En homme d'affaires corrompu, Rod Steiger excelle, le visage imperturbable et qui se met à transpirer dans les moments de doute. Rosi filme ses personnages, sa ville natale ou les échanges houleux de la salle du Conseil avec une même exigence de vérité, proche du reportage. Il sait aussi bien capter la rage et la fébrilité de la vie politique que les détails du quotidien et l'atmosphère des quartiers pauvres, avec l'acuité d'un ethnographe et un sens du rythme digne des meilleurs thrillers.\n\nDelphine Simon-Marsaud",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23269,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66628,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25185,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T14:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47699,
+          "titre": "Au-delà des grilles",
+          "realisateurs": "René Clément",
+          "annee": 1948,
+          "duree": 95,
+          "generique": "Jean Gabin, Isa Miranda, Vera Talchi",
+          "synopsis": "Après avoir tué sa maîtresse, un homme s'enfuit à Gênes. Il y rencontre une femme divorcée vivant avec sa fille, qu'il cherchera à rendre heureuse, même s'il ne se fait pas d'illusions sur son propre sort.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23270,
+              "duree": 95,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Denitza Bantcheva"
+    },
+    {
+      "idSeance": 66686,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 602,
+          "idCategorie": 2587,
+          "titreCycle": "Carole Bouquet",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25220,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T19:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51915,
+          "titre": "Grosse fatigue",
+          "realisateurs": "Michel Blanc",
+          "annee": 1993,
+          "duree": 87,
+          "generique": "Michel Blanc, Carole Bouquet, Charlotte Gainsbourg",
+          "synopsis": "Acteur de cinéma apprécié et reconnu, Michel Blanc voit sa réputation se dégrader lorsqu'un sosie s'empare de son identité pour semer le trouble. Aidé de Carole Bouquet, il décide de mener l'enquête.",
+          "commentaire": "Dix ans après _Marche à l'ombre_, son premier essai, Michel Blanc repasse derrière la caméra avec _Grosse fatigue_, second long métrage personnel dans lequel il égratigne les conséquences d'une célébrité écrasante. Inspiré par les propres déboires de Gérard Jugnot face à un sosie ayant usurpé son identité, l'acteur-réalisateur imagine une comédie caustique, prix du scénario au Festival de Cannes en 1994, où il filme, entre humour noir et autodérision, les retrouvailles de la troupe du Splendid. Telle une fausse pièce de théâtre au regard acéré sur le cinéma français, _Grosse fatigue_ matérialise à l'écran les questionnements de son auteur, désireux de laisser s'exprimer sa réelle personnalité dans un film original. À travers son récit surréaliste de double malveillant, il assimile l'exposition médiatique à un cauchemar éveillé, capable de susciter une réflexion à peine dissimulée sur la dépression et la culpabilité. Dans cette volonté de mettre en scène une réalité afin de la détourner, Michel Blanc casse son éternelle image de joyeux luron pour mieux se moquer de lui-même. Avec des dialogues enlevés à la tonalité grinçante, il dissèque les difficultés du métier d'acteur et la duplicité qui en découle au cœur d'une partition où règne l'influence de Woody Allen. À ses côtés, Carole Bouquet fait ses premiers pas dans la comédie avec une glorieuse prestation qui s'éloigne de ses rôles dramatiques, grâce à un second degré aussi bienvenu que malicieux.\n\nCéline Bourdin",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 15963,
+              "duree": 87,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Michel Blanc"
+    },
+    {
+      "idSeance": 66685,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 602,
+          "idCategorie": 2587,
+          "titreCycle": "Carole Bouquet",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25222,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T19:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38331,
+          "titre": "Jour des idiots",
+          "art": "Le",
+          "titreVo": "Tag der Idioten",
+          "artVo": "Der",
+          "realisateurs": "Werner Schroeter",
+          "annee": 1981,
+          "duree": 110,
+          "generique": "Carole Bouquet, Ingrid Caven, Magdalena Montezuma",
+          "synopsis": "Une jeune femme se réfugie dans la folie pour prouver aux autres qu'elle existe. Internée dans un asile où les malades jouent en caricaturant leur propre folie, elle sombre dans le désespoir.",
+          "commentaire": "Scindé en deux parties, _Le Jour des idiots_ dévoile, dès ses premières minutes, la silhouette agitée d'une jeune femme éprise d'un homme indolent. En habile directeur d'actrices, Werner Schroeter orchestre plusieurs scènes qui permettent à Carole Bouquet d'incarner différents états du corps en crise. Dans une brasserie, l'actrice ingurgite nerveusement et à toute vitesse trois cafés, pour laisser la crème et le rouge de ses lèvres maquillées contaminer progressivement son visage. Avec sa longue chevelure et son regard myope, elle incarne le désespoir amoureux sans objet. Certes, un homme apparaît en contrechamp de son mal-être, mais celui-ci, par son inertie, fait d'elle un trou noir qui n'existe que pour lui-même. Avec ce film, Schroeter poursuit ses expérimentations warholiennes en transformant l'asile psychiatrique en empire du simulacre, où les patientes peuvent véritablement exprimer leurs talents d'actrices. La lumière artificielle violente et clignotante émanant des fenêtres de l'institution brouille les pistes temporelles, au point de donner à voir, dans le huis clos de la deuxième partie, une succession de saynètes à la gloire de ses héroïnes féminines : en plus de Carole Bouquet, le cinéaste retrouve Magdalena Montezuma et Ingrid Caven. Démultipliant les séquences avec miroirs, il laisse le grand cirque de la représentation se déployer par le biais de plans décadrés, du bruit permanent des femmes marmonnant, et de la musique, toujours prégnante dans ses films.\n\nSarah Ohana",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23476,
+              "duree": 110,
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66677,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 602,
+          "idCategorie": 2587,
+          "titreCycle": "Carole Bouquet",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 602,
+          "idCategorie": 2606,
+          "titreCycle": "Carole Bouquet",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 25223,
+      "dateHeure": "2022-04-03T14:30:00",
+      "idSalle": "HL",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51337,
+          "titre": "Double messieurs",
+          "realisateurs": "Jean-François Stévenin",
+          "annee": 1984,
+          "duree": 93,
+          "generique": "Carole Bouquet, Yves Afonso, Jean-François Stévenin",
+          "synopsis": "Deux copains d'enfance partent à la recherche de leur ancien souffre-douleur. Ils ne trouvent que sa femme et la kidnappent. Le trio s'embarque alors dans une étrange odyssée entre Grenoble et les Alpes.",
+          "commentaire": "Sept ans après _Passe montagne_, Stévenin prend de nouveau la tangente, tourne hors de tout circuit, des formules toutes faites, ignorant ce qui se fait ou non, avec Cassavetes et Monte Hellman comme figures tutélaires. Si _Passe montagne_ est son _Husbands_, alors _Double messieurs_ est son _Macadam à deux voies_. Soit au départ une nouvelle histoire de fugue, où deux dadais rêveurs partent sur le chemin de leur enfance. Mais avec Carole Bouquet, le programme se modifie. Exit le film de mecs, Stévenin jette le dernier tiers du scénario et décide que c'est elle qui va tirer l'histoire. Il a trouvé l'étincelle, le virage inattendu qui emporte son film encore ailleurs. Virage ou visage, la beauté glacée de la comédienne détonne dans le film et le force à se plier à sa présence. C'est elle qui pousse Stévenin à tourner des scènes qu'il n'a plus envie de faire ou qu'il évite. Lui a lâché prise, il se laisse porter par elle, et elle par le film, qui s'invente presque en direct. « Je suis désolé... », c'est tout ce qu'il arrive à sortir dans la magnifique scène de l'hôtel. On ne sait si c'est le personnage de François qui parle ou si c'est le cinéaste qui s'excuse auprès de son actrice bouleversée par cette mise en danger. Séquence magnifique, qui tient sur un fil, où l'on sent les deux acteurs à deux doigts de tomber, mais ils tiennent, avancent, s'accrochant l'un l'autre pour tenir la scène tout en haut, là où le cinéma classique ne peut grimper, là où la vie rejoint complètement sa mise en fiction cinématographique.\n\nOliver Bitoun",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 11128,
+              "duree": 93,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "idConf": 25297,
+          "titre": "DIALOGUE AVEC CAROLE BOUQUET",
+          "typeConference": "Dialogue",
+          "duree": 90,
+          "ordre": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 66678,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 602,
+          "idCategorie": 2587,
+          "titreCycle": "Carole Bouquet",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25224,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-30T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47184,
+          "titre": "Cet obscur objet du désir",
+          "realisateurs": "Luis Buñuel",
+          "annee": 1977,
+          "duree": 102,
+          "generique": "Fernando Rey, Carole Bouquet, Ángela Molina",
+          "adaptation": "D'après le roman _La Femme et le pantin_ de Pierre Louÿs.",
+          "synopsis": "Dans un train entre Séville et Madrid, Mathieu Fabert raconte à ses compagnons de voyage la passion déchirante qu'il a eue pour Conchita, une jeune femme qui n'a cessé de se dérober à lui.",
+          "commentaire": "Don Luis savait que ce serait son ultime mauvais coup, cinquante ans après _Un chien andalou_. Ça s'était mal passé et vite terminé avec Maria Schneider, dommage, mais il fallait sauver Silberman, pourquoi pas deux actrices pour le seul rôle de Conchita ? Un dernier pied-de-nez surréaliste, un truc que personne n'avait encore fait, la trouvaille d'un cinéaste de 76 ans. Bouquet/Molina, la très belle très froide et l'Espagnole, et le plaisir de diriger une dernière fois dans sa langue natale, avec un Fernando Rey qui en est à sa troisième déclinaison de Buñuel en pauvre vieux Don suborneur (après _Viridiana_ et _Tristana_, les deux grands films espagnols, les meilleurs, fatalement) et qui a tout compris depuis très longtemps, nul besoin d'explications. D'autant que tout est très clair, littéral, il suffit de regarder : une dernière fois, il s'agit de tout dire de soi qui s'éteint et du monde qui court à sa perte, avec une pudeur infinie, sur des images plus plates et évidentes que jamais. L'air de Paris, les passages de Benjamin, ceux où déambulaient Breton et Aragon quand ils étaient frères, l'odeur de la poudre, l'hôtel Ronceray, sur les Boulevards, qui n'a pas bougé et où les parents étaient descendus lors de leur voyage de noces, dans les derniers jours du XIX<sup>e</sup> siècle, et où dormira leur fils, pour sa première nuit parisienne, en 1925. En bas, le passage Jouffroy, une vitrine, le linge blanc et la tâche rouge, l'hymen déchiré et l'œuvre à repriser, indéfiniment, avec beaucoup de brodeuses et de couturières dans presque tous les films et un œil tranché comme coup d'éclat initial. Somme toute, Luis Buñuel est un cinéaste assez cohérent ; « obsessionnel », prétendent certains.\n\nFrédéric Bonnaud",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 13977,
+              "duree": 102,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Carole Bouquet"
+    },
+    {
+      "idSeance": 66680,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 602,
+          "idCategorie": 2587,
+          "titreCycle": "Carole Bouquet",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25224,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T20:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47184,
+          "titre": "Cet obscur objet du désir",
+          "realisateurs": "Luis Buñuel",
+          "annee": 1977,
+          "duree": 102,
+          "generique": "Fernando Rey, Carole Bouquet, Ángela Molina",
+          "adaptation": "D'après le roman _La Femme et le pantin_ de Pierre Louÿs.",
+          "synopsis": "Dans un train entre Séville et Madrid, Mathieu Fabert raconte à ses compagnons de voyage la passion déchirante qu'il a eue pour Conchita, une jeune femme qui n'a cessé de se dérober à lui.",
+          "commentaire": "Don Luis savait que ce serait son ultime mauvais coup, cinquante ans après _Un chien andalou_. Ça s'était mal passé et vite terminé avec Maria Schneider, dommage, mais il fallait sauver Silberman, pourquoi pas deux actrices pour le seul rôle de Conchita ? Un dernier pied-de-nez surréaliste, un truc que personne n'avait encore fait, la trouvaille d'un cinéaste de 76 ans. Bouquet/Molina, la très belle très froide et l'Espagnole, et le plaisir de diriger une dernière fois dans sa langue natale, avec un Fernando Rey qui en est à sa troisième déclinaison de Buñuel en pauvre vieux Don suborneur (après _Viridiana_ et _Tristana_, les deux grands films espagnols, les meilleurs, fatalement) et qui a tout compris depuis très longtemps, nul besoin d'explications. D'autant que tout est très clair, littéral, il suffit de regarder : une dernière fois, il s'agit de tout dire de soi qui s'éteint et du monde qui court à sa perte, avec une pudeur infinie, sur des images plus plates et évidentes que jamais. L'air de Paris, les passages de Benjamin, ceux où déambulaient Breton et Aragon quand ils étaient frères, l'odeur de la poudre, l'hôtel Ronceray, sur les Boulevards, qui n'a pas bougé et où les parents étaient descendus lors de leur voyage de noces, dans les derniers jours du XIX<sup>e</sup> siècle, et où dormira leur fils, pour sa première nuit parisienne, en 1925. En bas, le passage Jouffroy, une vitrine, le linge blanc et la tâche rouge, l'hymen déchiré et l'œuvre à repriser, indéfiniment, avec beaucoup de brodeuses et de couturières dans presque tous les films et un œil tranché comme coup d'éclat initial. Somme toute, Luis Buñuel est un cinéaste assez cohérent ; « obsessionnel », prétendent certains.\n\nFrédéric Bonnaud",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 13977,
+              "duree": 102,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 68760,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 602,
+          "idCategorie": 2587,
+          "titreCycle": "Carole Bouquet",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25225,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-31T17:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46208,
+          "titre": "Trop belle pour toi",
+          "realisateurs": "Bertrand Blier",
+          "annee": 1988,
+          "duree": 91,
+          "generique": "Gérard Depardieu, Carole Bouquet, Josiane Balasko",
+          "synopsis": "Bernard, chef d'entreprise, est marié à une très belle femme, Florence. Il tombe pourtant amoureux de Colette, sa secrétaire au physique très ordinaire, et cette relation va bouleverser sa vie.",
+          "commentaire": "Sur le papier, _Trop belle pour toi_ ne ressemble à rien de plus qu'une sempiternelle histoire d'adultère bourgeois où le cinéaste retrouve l'une de ses combinaisons favorites : le trio amoureux. Mais il inverse les règles du jeu en mettant en scène un homme qui, alors qu'il est marié à une femme sublime, jette son dévolu sur sa secrétaire en apparence plus quelconque, et il dynamite l'aspect conventionnel de son postulat, télescope les temporalités, mêle l'imaginaire et le réel, fait dialoguer le passé et le présent. Jouant sur une logique onirique fascinante, il procède par glissements, ellipses, coq-à-l'âne et points de raccord incongrus pour nous faire pénétrer dans un espace-temps incertain. En dépit de la complexité de son récit, de sa narration et de sa mise en scène, tout en jeux de miroir et faux-semblants, Blier parvient à lui conserver une certaine fluidité et à lui donner une dimension musicale. Guidé par la partition de Schubert, personnage à part entière, il offre un jeu savant de rimes, de reprises, de contrepoints et de variations autour des mêmes motifs et parvient à faire surgir l'inconscient, à saper le réalisme pour livrer une peinture acide et ironique des conventions bourgeoises à la manière de Buñuel. Si la beauté parfaite incarnée par l'impériale Carole Bouquet demeure l'objet de toutes les convoitises, elle peut aussi devenir un piège ambivalent et cruel. Car au-delà des normes, des institutions, il y a cet obscur objet du désir et du sentiment amoureux que Blier explore ici de manière vertigineuse.\n\nVincent Roussel",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23883,
+              "duree": 91,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Bertrand Blier"
+    },
+    {
+      "idSeance": 66692,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 602,
+          "idCategorie": 2587,
+          "titreCycle": "Carole Bouquet",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25225,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T20:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46208,
+          "titre": "Trop belle pour toi",
+          "realisateurs": "Bertrand Blier",
+          "annee": 1988,
+          "duree": 91,
+          "generique": "Gérard Depardieu, Carole Bouquet, Josiane Balasko",
+          "synopsis": "Bernard, chef d'entreprise, est marié à une très belle femme, Florence. Il tombe pourtant amoureux de Colette, sa secrétaire au physique très ordinaire, et cette relation va bouleverser sa vie.",
+          "commentaire": "Sur le papier, _Trop belle pour toi_ ne ressemble à rien de plus qu'une sempiternelle histoire d'adultère bourgeois où le cinéaste retrouve l'une de ses combinaisons favorites : le trio amoureux. Mais il inverse les règles du jeu en mettant en scène un homme qui, alors qu'il est marié à une femme sublime, jette son dévolu sur sa secrétaire en apparence plus quelconque, et il dynamite l'aspect conventionnel de son postulat, télescope les temporalités, mêle l'imaginaire et le réel, fait dialoguer le passé et le présent. Jouant sur une logique onirique fascinante, il procède par glissements, ellipses, coq-à-l'âne et points de raccord incongrus pour nous faire pénétrer dans un espace-temps incertain. En dépit de la complexité de son récit, de sa narration et de sa mise en scène, tout en jeux de miroir et faux-semblants, Blier parvient à lui conserver une certaine fluidité et à lui donner une dimension musicale. Guidé par la partition de Schubert, personnage à part entière, il offre un jeu savant de rimes, de reprises, de contrepoints et de variations autour des mêmes motifs et parvient à faire surgir l'inconscient, à saper le réalisme pour livrer une peinture acide et ironique des conventions bourgeoises à la manière de Buñuel. Si la beauté parfaite incarnée par l'impériale Carole Bouquet demeure l'objet de toutes les convoitises, elle peut aussi devenir un piège ambivalent et cruel. Car au-delà des normes, des institutions, il y a cet obscur objet du désir et du sentiment amoureux que Blier explore ici de manière vertigineuse.\n\nVincent Roussel",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23883,
+              "duree": 91,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66699,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25298,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T16:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 29517,
+          "titre": "Truman Show",
+          "art": "The",
+          "realisateurs": "Peter Weir",
+          "annee": 1998,
+          "duree": 103,
+          "generique": "Jim Carrey, Ed Harris, Laura Linney",
+          "synopsis": "Seahaven, petite ville américaine en bord de mer. Truman Burbank vit en vase clos une existence parfaite ou, plutôt, parfaitement réglée. Intrigué par quelques dysfonctionnements, il va peu à peu découvrir l'envers de son décor.",
+          "miniTexte": "Dans une petite ville « de rêve », un homme ordinaire vit une existence parfaitement réglée, jusqu'à ce qu'il découvre peu à peu l'envers du décor. Une critique de l'_American way of life_ de l'après-guerre, de la télésurveillance, de la télé-(ir)réalité, en même temps qu'une forme de documentaire sur le tournage d'un film de studio à Hollywood, par exemple avec Jim Carrey.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23380,
+              "duree": 103,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Bernard Benoliel"
+    },
+    {
+      "idSeance": 66705,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 602,
+          "idCategorie": 2587,
+          "titreCycle": "Carole Bouquet",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25305,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 96597,
+          "titre": "Travaux",
+          "realisateurs": "Brigitte Roüan",
+          "annee": 2004,
+          "duree": 95,
+          "synopsis": "Pour éloigner un soupirant trop envahissant, une avocate brillante et militante confie à un architecte et ses ouvriers colombiens la rénovation de son appartement parisien.",
+          "commentaire": "Dédiée « à tous ceux qui sont venus de loin pour nous enrichir », cette comédie énergique et politique de Brigitte Roüan repose sur un casting éclectique, qui réunit à l'écran des acteurs non professionnels interprétant les ouvriers sans-papiers, et les talentueux Carole Bouquet (Chantal, l'avocate), Jean-Pierre Castaldi (l'amant lourdaud), Martial Di Fonzo Bo (l'architecte), Aldo Maccione (le carreleur) et Hugh Grant, dont l'apparition anecdotique clôt le récit.\n\nLa cinéaste a déjà réalisé deux longs métrages (_Outremer_ en 1989, et _Post coitum animal triste_ en 1996) lorsqu'elle écrit et tourne _Travaux_, en 2004. Inspiré de sa propre expérience, de son goût pour la Colombie, de son combat pour les sans-papiers, son film est également ponctué de références artistiques. Aux contes d'abord, puisque Chantal incarne tantôt une Blanche-Neige entourée de ses sept ouvriers, tantôt une Mary Poppins dotée d'un réjouissant pouvoir de télékinésie. À la comédie musicale hollywoodienne aussi, avec les nombreuses scènes chantées et dansées, écrites par Stephen Warbeck, qui ajoutent au charme de cette œuvre engagée. Le film est tourné à Paris, dans une ancienne usine textile abritant le décor évolutif d'un appartement haussmannien transformé chaque jour, pour la conception duquel le décorateur Guy-Claude François s'est inspiré de l'architecte mexicain Luis Barragán.\nQuelques mois avant la présentation du film à Cannes, en 2005, le producteur Humbert Balsan s'est suicidé. _Travaux_ lui est dédié.\n\nMarion Langlois",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23474,
+              "duree": 95,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Brigitte Roüan"
+    },
+    {
+      "idSeance": 66862,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25396,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48235,
+          "titre": "Dérobade",
+          "art": "La",
+          "realisateurs": "Daniel Duval",
+          "annee": 1979,
+          "duree": 115,
+          "generique": "Miou-Miou, Daniel Duval, Maria Schneider, Niels Arestrup",
+          "synopsis": "Une jeune prostituée tente de se sortir de son milieu.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23463,
+              "duree": 115,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66860,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25398,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-31T17:15:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 53373,
+          "titre": "Remparts d'argile",
+          "realisateurs": "Jean-Louis Bertuccelli",
+          "annee": 1969,
+          "duree": 87,
+          "generique": "Leila Shenna",
+          "synopsis": "Un petit village aux portes du désert du Sahara. Un jour, des hommes travaillant dans une carrière, mécontents de leur salaire de misère, cessent le travail. Tandis que les femmes sacrifient un mouton pour les protéger, ils font silencieusement face aux soldats qui les menacent. La situation dure plusieurs jours, tout le village restant figé dans l'attente...",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23460,
+              "duree": 87,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Julie Bertucelli"
+    },
+    {
+      "idSeance": 66859,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25403,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-31T14:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55196,
+          "titre": "Ascension",
+          "art": "L'",
+          "titreVo": "Voskhojdenie",
+          "realisateurs": "Larissa Chepitko",
+          "annee": 1976,
+          "duree": 110,
+          "generique": "Boris Plotnikov, Vladimir Gostyukhin",
+          "synopsis": "Biélorussie, hiver 1942. L'armée allemande progresse sur le front russe. Un détachement de partisans de l'Armée rouge fuit, et deux hommes sont envoyés à la recherche de ravitaillement. Un long et périlleux périple dans la steppe commence, ils seront bientôt faits prisonniers.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23473,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 66863,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2656,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Courts métrages d'animation"
+        }
+      ],
+      "idEvenement": 25414,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T11:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 152006,
+          "titre": "Naturalista",
+          "art": "Il",
+          "realisateurs": "Giulia Barbera, Gianluca Lo Presti, Federico Parodi, [etc.]",
+          "annee": 2008,
+          "duree": 5,
+          "synopsis": "Sguardo ironico su un troppo ingenuo entusiasmo ecologista, non necessariamente condiviso dalla natura e dai suoi abitanti.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23711,
+              "duree": 5,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 152007,
+          "titre": "A Bicycle Trip",
+          "realisateurs": "Lorenzo Veracini, Nandini Nambiar, Marco Avoletta",
+          "annee": 2008,
+          "duree": 4,
+          "synopsis": "Laboratoires Sandoz, Bâle, 1938. Le jeu du hasard, un chat malicieux, un tube à essai renversé, et Albert Hoffman découvre ce qu'il ne cherchait pas : l'acide lysergique, plus connu sous le nom de LSD.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 23712,
+              "duree": 4,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 152008,
+          "titre": "Pasticcere",
+          "art": "Il",
+          "realisateurs": "Alberto Antinori, Adolfo di Molfetta, Giulia Landi, Eugenio Laviola",
+          "annee": 2010,
+          "dureeStd": 7,
+          "duree": 7,
+          "synopsis": "Un pâtissier frustré voit ses créations de haute cuisine englouties par des bouches voraces. Et soudain : le client idéal, qui promet un échange de plaisirs mutuels.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23713,
+              "duree": 7,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 4,
+          "idFilm": 152009,
+          "titre": "Arithmétique",
+          "realisateurs": "Dalila Rovazzani, Giovanni Munari",
+          "annee": 2010,
+          "duree": 4,
+          "synopsis": "À partir de _L'Enfant et les sortilèges_ de Maurice Ravel et Colette, ce film d'animation recrée la fascination diabolique du monde des chiffres.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 23714,
+              "duree": 4,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 5,
+          "idFilm": 121051,
+          "titre": "46 cm",
+          "realisateurs": "Teresa Bandini, Claudia Casapieri, Paolo De Murtas, [etc.]",
+          "annee": 2010,
+          "duree": 7,
+          "synopsis": "Vivre dans une bulle qui nous tient à distance des autres : avec près de dix ans d'avance, on dirait la préfiguration du monde de l'après-Covid.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 23715,
+              "duree": 7,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 6,
+          "idFilm": 121057,
+          "titre": "Nana Bobò",
+          "realisateurs": "Lucas Wild do Vale, Andrea Cristofaro, Francesco Nicolò Mereu, [etc.]",
+          "annee": 2011,
+          "duree": 4,
+          "synopsis": "Milioni di « turisti » – molti dei quali europei, viaggiano ogni anno nel Sud del mondo per fare sesso con i minori. Una ninna nanna di Dario Fo è dedicata all'infanzia violata.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23716,
+              "duree": 4,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 7,
+          "idFilm": 121055,
+          "titre": "Danza del piccolo ragno",
+          "art": "La",
+          "realisateurs": "Giacinto Compagnone, Aurora Febo, Lucia Rotelli, [etc.]",
+          "annee": 2011,
+          "duree": 6,
+          "synopsis": "Une ancienne légende du sud de l'Italie raconte que les femmes mordues par une araignée venimeuse pouvaient guérir grâce à un rituel de musique et de danse : la « tarentelle ».",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 23717,
+              "duree": 6,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 8,
+          "idFilm": 152010,
+          "titre": "Imperium vacui",
+          "realisateurs": "Linda Kelvink, Massimo Ottoni",
+          "annee": 2014,
+          "duree": 5,
+          "synopsis": "En stop motion, une allégorie du pouvoir, d'autant plus répressif et totalitaire qu'il est abstrait, dans un monde orwellien dystopique.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 23718,
+              "duree": 5,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 9,
+          "idFilm": 152011,
+          "titre": "Dove ti nascondi",
+          "realisateurs": "Victoria Musci, Nadia Abate, Francesco Forti",
+          "annee": 2013,
+          "duree": 6,
+          "synopsis": "Un « documentario d'animazione » che, sulle voci registrate in un jardin d'enfants, racconta le poetiche risposte alla domanda: come nascono i bambini.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23719,
+              "duree": 6,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ITA",
+              "sousTitres": "STA"
+            }
+          ]
+        },
+        {
+          "ordre": 10,
+          "idFilm": 152012,
+          "titre": "Age of Rust",
+          "art": "The",
+          "realisateurs": "Francesco Aber, Alessandro Mattei",
+          "annee": 2014,
+          "duree": 7,
+          "synopsis": "Une réinterprétation ironique du documentaire animalier télévisé. Cette fois, les animaux sauvages dont on observe les habitudes, les amours et la lutte pour la vie sont les terribles et mystérieux « excavators ».",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 23720,
+              "duree": 7,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ITA",
+              "sousTitres": "STF"
+            }
+          ]
+        },
+        {
+          "ordre": 11,
+          "idFilm": 152013,
+          "titre": "Office Kingdom",
+          "realisateurs": "Salvatore Centoducati, Eleonora Bertolucci, Giulio De Toma, [etc.]",
+          "annee": 2014,
+          "duree": 7,
+          "synopsis": "Lo scontro con la burocrazia quotidiana diventa una battaglia senza quartiere per la sopravvivenza in un universo « fantasy » popolato di mostri, trappole, violenza ed astuzia: l'ufficio pubblico.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23721,
+              "duree": 7,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ITA",
+              "sousTitres": "STA"
+            }
+          ]
+        },
+        {
+          "ordre": 12,
+          "idFilm": 152015,
+          "titre": "Cosmoetico",
+          "realisateurs": "Martina Scarpelli",
+          "annee": 2015,
+          "duree": 5,
+          "synopsis": "La recherche et la reconstruction de l'identité personnelle dans une relation risquée entre les limites de son propre corps et le cosmos infini.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 23722,
+              "duree": 5,
+              "version": "VO",
+              "langCopie": "ITA",
+              "sousTitres": "STA"
+            }
+          ]
+        },
+        {
+          "ordre": 13,
+          "idFilm": 138197,
+          "titre": "Merlot",
+          "realisateurs": "Marta Gennari, Guilia Martinelli",
+          "annee": 2016,
+          "duree": 6,
+          "synopsis": "Le vicende di una bottiglia di vino Merlot, perduta da una burbera vecchietta, si intrecciano con quelle di un merlo, nel bosco frequentato da un lupo, un cacciatore e cappuccetto rosso.\n\n---\n\nSept petites histoires racontées en dessin, en poème, sous forme de fable ou parfois sans parole nous entraînent dans autant d'univers différents, mais toujours en utilisant le principe de l'image par image pour donner vie aux personnages. Le programme de films sera suivi d'une rencontre où les réalisateurs dévoileront la façon dont ils ont fabriqué ces films. À partir de 6 ans",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 14530,
+              "duree": 6,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 14,
+          "idFilm": 152016,
+          "titre": "New Neighbours",
+          "realisateurs": "Andrea Mannino, Sara Burgio, Giacomo Rinaldi",
+          "annee": 2018,
+          "duree": 6,
+          "synopsis": "L'istinto a tirar su muri per proteggersi dagli altri viene sconfitto dallo scoprirsi uguali nella diversità Purtroppo, solo provvisoriamente, perché un « nuovo diverso » è già all'orizzonte...",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23723,
+              "duree": 6,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 15,
+          "idFilm": 152017,
+          "titre": "En rang par deux",
+          "realisateurs": "Elisabetta Bosco, Margherita Giusti, Viola Mancini",
+          "annee": 2020,
+          "duree": 7,
+          "synopsis": "Afif, tunisino, e il senegalese Aliou si incontrano a Roma raccontandosi le loro storie – in un intreccio tra documentario e animazione – con il piacere di fare musica insieme.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23724,
+              "duree": 7,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ITA",
+              "sousTitres": "STA"
+            }
+          ]
+        },
+        {
+          "ordre": 16,
+          "idFilm": 152018,
+          "titre": "Underwater Love",
+          "realisateurs": "Andrea Falzone, Cristina Fiore, Veronica Martiradonna",
+          "annee": 2021,
+          "duree": 6,
+          "synopsis": "Quante domande si pone una ragazzina che, per crescere, si misura anche con qualche mostro, si arrabbia diventando pungente come una vespa, scopre il sesso, piange, arrossisce, e alla fine svetta in tutta la nuova altezza conquistata.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23725,
+              "duree": 6,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STA"
+            }
+          ]
+        },
+        {
+          "ordre": 17,
+          "idFilm": 133204,
+          "titre": "Videogioco",
+          "realisateurs": "Donato Sansone",
+          "annee": 2009,
+          "duree": 1,
+          "synopsis": "Frenesia, sesso, ironia, metamorfosi quasi in una rivisitazione digitale del « Taumatropio » – gioco ottico dell'età vittoriana per creare l'illusione del movimento – da parte di uno dei più vivaci sperimentatori dell'animazione d'autore, finalista ai Cesars 2017.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23726,
+              "duree": 1,
+              "format": "DCP"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Sergio Toffetti"
+    },
+    {
+      "idSeance": 66919,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 610,
+          "idCategorie": 2596,
+          "titreCycle": "J-Horror, quatre visages de la peur",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25461,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T06:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 143713,
+          "titre": "Inunaki : Le Village oublié",
+          "titreVo": "Howling Village",
+          "realisateurs": "Takashi Shimizu",
+          "annee": 2019,
+          "duree": 104,
+          "generique": "Ayaka Miyoshi, Ryota Bando, Tsuyoshi Furukawa",
+          "synopsis": "Une psychiatre, Kanade Morita, possède un sixième sens qui la tourmente depuis l'enfance. Un jour, son frère Yuma et sa petite amie décident de jouer à se faire peur en visitant de nuit le village d'Inunaki, surnommé le « Village hurlant ».",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20671,
+              "duree": 104,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 67031,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25522,
+      "typeEvenement": 13,
+      "dateHeure": "2022-03-30T18:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49295,
+          "titre": "Dernier amant romantique",
+          "art": "Le",
+          "realisateurs": "Just Jaeckin",
+          "annee": 1977,
+          "duree": 99,
+          "generique": "Dayle Haddon, Gérard Tybalt, Fernando Rey",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23614,
+              "duree": 99,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Just Jaeckin"
+    },
+    {
+      "idSeance": 67032,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25558,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41068,
+          "titre": "Psychose",
+          "titreVo": "Psycho",
+          "realisateurs": "Alfred Hitchcock",
+          "annee": 1959,
+          "duree": 109,
+          "generique": "Anthony Perkins, Vera Miles, Janet Leigh",
+          "adaptation": "D'après le roman _Psychose_ de Robert Bloch.",
+          "synopsis": "Marion Crane disparaît mystérieusement alors qu'elle tentait de s'enfuir avec quarante mille dollars volés. Le dernier lieu où elle a été vue est un motel tenu par un certain Norman Bates.",
+          "miniTexte": "De la célébrissime scène de douche au final glaçant, dans un noir et blanc de fin du monde, au son des violons stridents de Bernard Herrmann, Hitch joue, littéralement, avec les nerfs des spectateurs. Le fils incestueux et psychopathe frappe au hasard, mais pas le maître du suspense, qui donne ici sa plus belle leçon de mise en scène. Un chef-d'œuvre subversif, pervers, brillant, indispensable. La naissance de l'horreur moderne.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 12307,
+              "duree": 109,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Jean-François Rauger"
+    },
+    {
+      "idSeance": 67050,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25559,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T14:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 114387,
+          "titre": "Leïla et les loups",
+          "titreVo": "Leila wa al-ziab",
+          "titreNx": "ليلى والذئاب",
+          "realisateurs": "Heiny Srour",
+          "annee": 1984,
+          "duree": 90,
+          "generique": "Nabila Zeitouni, Rafiq Ali Ahmad, Raja Nehme",
+          "synopsis": "Étudiante libanaise exilée à Londres, Leïla enquête sur le rôle des femmes palestiniennes et libanaises dans l'histoire. Son périple révèle alors le combat d'héroïnes exclues de la mémoire collective.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23613,
+              "duree": 90,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Heiny Srour et Béatrice de Pastre"
+    },
+    {
+      "idSeance": 67052,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2428,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 25566,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-03T16:30:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30514,
+          "titre": "Reds",
+          "realisateurs": "Warren Beatty",
+          "annee": 1979,
+          "duree": 200,
+          "generique": "Warren Beatty, Diane Keaton",
+          "synopsis": "L'histoire vraie de John Reed, un journaliste américain qui, après avoir été mêlé à des affaires politiques douteuses, part en Russie pendant la révolution d'octobre 1917.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23670,
+              "duree": 200,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Léo Soesanto"
+    },
+    {
+      "idSeance": 67066,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2649,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Hommage à Peter Bogdanovich"
+        }
+      ],
+      "idEvenement": 25567,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-01T14:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30577,
+          "titre": "Enfin l'amour",
+          "titreVo": "At Long Last Love",
+          "realisateurs": "Peter Bogdanovich",
+          "annee": 1975,
+          "dureeStd": 123,
+          "duree": 123,
+          "generique": "Burt Reynolds, Cybill Shepherd, Madeline Kahn, Duilio Del Prete",
+          "synopsis": "Un millionnaire tombe amoureux d'une chanteuse, une jeune femme rencontre un joueur italien : tous les quatre s'apprivoisent, se mettent en couple, puis se séparent et s'aiment enfin.",
+          "commentaire": "Existe-t-il une entreprise plus périlleuse qu'une comédie musicale sur des airs de Cole Porter au beau milieu des années 1970 ? L'Amérique ne s'en soucie guère, les temps penchent pour le réalisme débridé du Nouvel Hollywood dont Peter Bogdanovich est l'un des pionniers. Le cinéaste de _La Dernière séance_ n'en est pas moins amoureux d'un âge d'or dont il a tenu la chronique quand il était journaliste, et comme il a le vent en poupe, pourquoi ne pas se laisser porter ! _Enfin l'amour_ est un projet dingue, totalement anachronique, un hommage aux films chantés des années 1930, ceux d'Ernst Lubitsch en particulier, comme _Le Lieutenant souriant_ avec Maurice Chevalier. Peter Bogdanovich a écrit cette comédie romantique pour sa compagne Cybill Shepherd, qu'il jette dans les bras d'un joli cœur inattendu, Burt Reynolds, abonné au succès dans les films d'action virilistes. Le cinéaste prend tous les risques, poussant ses acteurs à chanter eux-mêmes, en prise directe, dans les costumes raffinés et les décors miroitants d'un New York des Années folles. Au gré des tourbillons d'une mise en scène et d'une chorégraphie stylisées, il veut s'amuser d'un genre en même temps qu'il lui déclare sa flamme. Ni le public, ni la critique ne le comprennent alors. _Enfin l'amour_ ne fait que passer sur les écrans et prendrait encore la poussière si un employé de la Fox, amateur de Cole Porter, ne s'était mis en tête d'en monter une nouvelle version sans demander l'avis de personne. Peter Bogdanovich l'a découverte par hasard, sur le petit écran, et s'est dit bouleversé par l'équilibre et le rythme que son film avait gagnés.\n\nLaurent Rigoulet",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23671,
+              "duree": 123,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 67047,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 546,
+          "idCategorie": 2654,
+          "titreCycle": "Béla Tarr",
+          "titreSousCycle": "Sátántangó"
+        }
+      ],
+      "idEvenement": 25569,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T18:30:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 76890,
+          "titre": "Satantango",
+          "realisateurs": "Béla Tarr",
+          "annee": 1994,
+          "duree": 125,
+          "generique": "Mihály Vig, Putyi Horváth, László feLugossy",
+          "adaptation": "D'après le roman _Sátántangó_ de László Krasznahorkai.",
+          "synopsis": "Au cœur de la plaine hongroise, les habitants d'une ferme collective vivent durement. Un jour revient l'un des leurs, présumé mort. Certains y voient l'arrivée d'un messie, d'autres celle de Satan.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23677,
+              "duree": 125,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 67048,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 546,
+          "idCategorie": 2654,
+          "titreCycle": "Béla Tarr",
+          "titreSousCycle": "Sátántangó"
+        }
+      ],
+      "idEvenement": 25570,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T20:45:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 76890,
+          "titre": "Satantango",
+          "realisateurs": "Béla Tarr",
+          "annee": 1994,
+          "duree": 177,
+          "generique": "Mihály Vig, Putyi Horváth, László feLugossy",
+          "adaptation": "D'après le roman _Sátántangó_ de László Krasznahorkai.",
+          "synopsis": "Au cœur de la plaine hongroise, les habitants d'une ferme collective vivent durement. Un jour revient l'un des leurs, présumé mort. Certains y voient l'arrivée d'un messie, d'autres celle de Satan.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23678,
+              "duree": 177,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 67049,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 537,
+          "idCategorie": 2651,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Hommage à Melvin Van Peebles"
+        }
+      ],
+      "idEvenement": 25571,
+      "typeEvenement": 13,
+      "dateHeure": "2022-04-02T22:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66198,
+          "titre": "Sweet Sweetback's Baadasssss Song",
+          "realisateurs": "Melvin Van Peebles",
+          "annee": 1971,
+          "duree": 97,
+          "generique": "Simon Chuckster, Melvin Van Peebles, Hubert Scales",
+          "synopsis": "Restauration inédite The Criterion Collection.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 23306,
+              "duree": 97,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Max Van Peebles"
+    },
+    {
+      "idSeance": 68751,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 621,
+          "idCategorie": 2664,
+          "titreCycle": "Journée d'étude",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 25612,
+      "typeEvenement": 14,
+      "dateHeure": "2022-03-30T09:45:00",
+      "typeConference": "Conférence",
+      "idSalle": "HL",
+      "duree": 15,
+      "items": [
+        {
+          "idConf": 25612,
+          "titre": "INTRODUCTIONS",
+          "typeConference": "Conférence",
+          "duree": 15,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 68752,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 621,
+          "idCategorie": 2664,
+          "titreCycle": "Journée d'étude",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 25613,
+      "typeEvenement": 14,
+      "dateHeure": "2022-03-30T10:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "HL",
+      "duree": 30,
+      "items": [
+        {
+          "idConf": 25613,
+          "titre": "1896-2022 : DES « LIVRES À FILMS » À L'ENCYCLOPÉDIE DES PELLICULES",
+          "typeConference": "Conférence",
+          "duree": 30,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 68753,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 621,
+          "idCategorie": 2664,
+          "titreCycle": "Journée d'étude",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 25614,
+      "typeEvenement": 14,
+      "dateHeure": "2022-03-30T10:30:00",
+      "typeConference": "Conférence",
+      "idSalle": "HL",
+      "duree": 30,
+      "items": [
+        {
+          "idConf": 25614,
+          "titre": "LA RESTAURATION DES TEINTAGES ET VIRAGES EN FILIÈRE ARGENTIQUE (LE DESMET COLOR)",
+          "typeConference": "Conférence",
+          "duree": 30,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 68754,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 621,
+          "idCategorie": 2664,
+          "titreCycle": "Journée d'étude",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 25615,
+      "typeEvenement": 14,
+      "dateHeure": "2022-03-30T11:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "HL",
+      "duree": 30,
+      "items": [
+        {
+          "idConf": 25615,
+          "titre": "ECRIRE SEPT HEURES DE MUSIQUE POUR LA RESTAURATION DU « NAPOLÉON » D'ABEL GANCE",
+          "typeConference": "Conférence",
+          "duree": 30,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 68755,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 621,
+          "idCategorie": 2664,
+          "titreCycle": "Journée d'étude",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 25616,
+      "typeEvenement": 14,
+      "dateHeure": "2022-03-30T11:30:00",
+      "typeConference": "Conférence",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 25616,
+          "titre": "LE PROCESSUS DE RESTAURATION DES FILMS D'ANDRÉ ANTOINE",
+          "typeConference": "Conférence",
+          "duree": 60,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 68756,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 621,
+          "idCategorie": 2664,
+          "titreCycle": "Journée d'étude",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 25617,
+      "typeEvenement": 14,
+      "dateHeure": "2022-03-30T14:30:00",
+      "typeConference": "Conférence",
+      "idSalle": "HL",
+      "duree": 30,
+      "items": [
+        {
+          "idConf": 25617,
+          "titre": "LA RESTAURATION DES FILMS MUETS DE MICHAEL CURTIZ (MIHALY KERTÉSZ)",
+          "typeConference": "Conférence",
+          "duree": 30,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 68757,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 621,
+          "idCategorie": 2664,
+          "titreCycle": "Journée d'étude",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 25618,
+      "typeEvenement": 14,
+      "dateHeure": "2022-03-30T15:00:00",
+      "typeConference": "Conférence",
+      "idSalle": "HL",
+      "duree": 15,
+      "items": [
+        {
+          "idConf": 25618,
+          "titre": "QUELS SOUTIENS AU CINÉMA MUET ? (BILAN DU PLAN DE NUMÉRISATION DU CNC)",
+          "typeConference": "Conférence",
+          "duree": 15,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 68758,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 621,
+          "idCategorie": 2664,
+          "titreCycle": "Journée d'étude",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 25619,
+      "typeEvenement": 14,
+      "dateHeure": "2022-03-30T15:15:00",
+      "typeConference": "Conférence",
+      "idSalle": "HL",
+      "duree": 60,
+      "items": [
+        {
+          "idConf": 25619,
+          "titre": "RESTAURER LES FILMS MUETS : QUELLES STRATÉGIES POUR LES DÉTENTEURS DE CATALOGUES ?",
+          "typeConference": "Conférence",
+          "duree": 60,
+          "ordre": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 68759,
+      "idProg": 116,
+      "idCycleCategories": [
+        {
+          "idCycle": 621,
+          "idCategorie": 2664,
+          "titreCycle": "Journée d'étude",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 25620,
+      "typeEvenement": 14,
+      "dateHeure": "2022-03-30T16:15:00",
+      "typeConference": "Conférence",
+      "idSalle": "HL",
+      "duree": 45,
+      "items": [
+        {
+          "idConf": 25620,
+          "titre": "COMMENT PORTER AUJOURD'HUI LE CINÉMA MUET JUSQU'AU « GRAND » PUBLIC ?",
+          "typeConference": "Conférence",
+          "duree": 45,
+          "ordre": 1
+        }
+      ]
+    }
+  ]
+}

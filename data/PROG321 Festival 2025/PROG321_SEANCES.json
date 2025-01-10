@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-08T15:56:49.005Z",
+  "updatedAt": "2025-01-09T09:36:09.623Z",
   "data": [
     {
       "idSeance": 188170,
@@ -3203,7 +3203,8 @@
               "idCopie": 29407,
               "duree": 50,
               "format": "DCP",
-              "intertitres": "INT. FR."
+              "intertitres": "INT. FR.",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 1000016058
@@ -3696,9 +3697,8 @@
       "idCycleCategories": [
         {
           "idCycle": 987,
-          "idCategorie": 3709,
-          "titreCycle": "Susan Seidelman",
-          "titreSousCycle": "Les films"
+          "idCategorie": 3753,
+          "titreCycle": "Susan Seidelman"
         }
       ],
       "idEvenement": 32653,
@@ -3736,9 +3736,8 @@
       "idCycleCategories": [
         {
           "idCycle": 987,
-          "idCategorie": 3709,
-          "titreCycle": "Susan Seidelman",
-          "titreSousCycle": "Les films"
+          "idCategorie": 3753,
+          "titreCycle": "Susan Seidelman"
         }
       ],
       "idEvenement": 32654,
@@ -3995,7 +3994,8 @@
           ],
           "idFilmBoxoffice": 11571
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jacques Cambra"
     },
     {
       "idSeance": 188452,
