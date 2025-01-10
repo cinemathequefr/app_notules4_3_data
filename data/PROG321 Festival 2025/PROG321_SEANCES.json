@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-10T09:14:30.674Z",
+  "updatedAt": "2025-01-10T14:42:39.909Z",
   "data": [
     {
       "idSeance": 188170,
@@ -127,7 +127,7 @@
           "idFilm": 37141,
           "titre": "Malpertuis",
           "realisateurs": "Harry Kümel",
-          "annee": 1971,
+          "annee": 1972,
           "duree": 110,
           "generique": "Mathieu Carrière, Susan Hampshire, Orson Welles, Michel Bouquet, Jean-Pierre Cassel",
           "adaptation": "D'après le roman _Malpertuis_ de Jean Ray.",
@@ -385,7 +385,7 @@
       ],
       "idEvenement": 31800,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T17:00:00",
+      "dateHeure": "2025-03-05T16:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -568,7 +568,7 @@
           "titreVo": "Stilte rond Christine M.",
           "artVo": "De",
           "realisateurs": "Marleen Gorris",
-          "annee": 1981,
+          "annee": 1982,
           "duree": 92,
           "generique": "Edda Barends, Nelly Frijda, Henriëtte Tol",
           "miniTexte": "Les débuts fracassants de la cinéaste néerlandaise, avec l'histoire de trois femmes ordinaires, qui assassinent le propriétaire d'une boutique de prêt-à-porter. Pendant le procès, la psychiatre cherche à comprendre leur geste et s'identifie peu à peu à elles. Un thriller féministe d'une froideur clinique, qui explore la rage silencieuse des femmes, alimentée par des années d'offenses et d'humiliations quotidiennes.",
@@ -1290,7 +1290,7 @@
       ],
       "idEvenement": 32312,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-09T17:00:00",
+      "dateHeure": "2025-03-09T16:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1375,7 +1375,7 @@
       ],
       "idEvenement": 32314,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T14:30:00",
+      "dateHeure": "2025-03-05T14:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1532,7 +1532,7 @@
       ],
       "idEvenement": 32324,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-09T20:30:00",
+      "dateHeure": "2025-03-09T20:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2178,7 +2178,8 @@
           "annee": 1980,
           "duree": 110,
           "generique": "Christine Boisson, Gérard Lanvin, André Dussollier",
-          "status": 1,
+          "miniTexte": "La chronique désenchantée de trois paumés : deux ex-soixante-huitards, chômeurs, qui croisent la solitude d'une chauffeuse de taxi, Titi marginale (la regrettée Christine Boisson). Entre Pigalle et le canal Saint-Martin, dans un Paris nocturne, poisseux, fantomatique, Bral traîne sa caméra comme ils traînent leur déprime, bercée par un jazz mélancolique. Un traité d'amertume doublé d'un humour désinvolte.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29204,
@@ -2221,7 +2222,8 @@
           "duree": 97,
           "generique": "Jean-François Balmer, Sandra Montaigu, Pierre Santini",
           "adaptation": "D'après le roman _Morgue pleine_ de Jean-Patrick Manchette.",
-          "status": 1,
+          "miniTexte": "Extirpé du roman de Jean-Patrick Manchette, le détective de Bral est un loup solitaire pathétique, impliqué dans une affaire criminelle. Plus que par l'intrigue en toile d'araignée, le film éblouit par son atmosphère blafarde et ses décors étiolés, par son utilisation de la voix off en guise de monologue intérieur. Œil tombant, mine cafardeuse, l'excellent Jean-François Balmer déroule le fil d'un récit qui se meut en histoire d'amour, où chacun révèle son incapacité à trouver sa place dans la société.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29322,
@@ -2947,6 +2949,33 @@
       ]
     },
     {
+      "idSeance": 190352,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 990,
+          "idCategorie": 3742,
+          "titreCycle": "Pedro Costa",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 32551,
+      "typeEvenement": 14,
+      "dateHeure": "2025-03-08T21:00:00",
+      "typeConference": "Dialogue",
+      "idSalle": "GF",
+      "duree": 90,
+      "items": [
+        {
+          "idConf": 32551,
+          "titre": "DIALOGUE AVEC PEDRO COSTA",
+          "typeConference": "Dialogue",
+          "duree": 90,
+          "ordre": 1
+        }
+      ]
+    },
+    {
       "idSeance": 188298,
       "idProg": 321,
       "idCycleCategories": [
@@ -3395,7 +3424,7 @@
           "ordre": 1,
           "idFilm": 155147,
           "titre": "Hors du chemin !",
-          "titreVo": "Khabarda !",
+          "titreVo": "Khabarda!",
           "titreNx": "ხაბარდა",
           "realisateurs": "Mikheil Chiaoureli",
           "annee": 1931,
