@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-09T09:36:09.623Z",
+  "updatedAt": "2025-01-10T09:14:30.674Z",
   "data": [
     {
       "idSeance": 188170,
@@ -803,7 +803,7 @@
       "idEvenement": 32287,
       "typeEvenement": 13,
       "dateHeure": "2025-03-06T17:00:00",
-      "idSalle": "HL",
+      "idSalle": "HO",
       "items": [
         {
           "ordre": 1,
@@ -1540,8 +1540,9 @@
           "idFilm": 95801,
           "titre": "Une balle perdue",
           "titreVo": "Obaltan",
+          "titreNx": "오발탄",
           "realisateurs": "Yoo Hyeon-mok",
-          "annee": 1960,
+          "annee": 1961,
           "duree": 110,
           "generique": "Choi Mu-ryong, Kim Jin-kyu, Moon Jeong-suk",
           "adaptation": "D'après la nouvelle _Une balle perdue_ de Yi Beom-seon.",
@@ -1579,6 +1580,7 @@
           "idFilm": 98233,
           "titre": "Festival",
           "titreVo": "Chugje",
+          "titreNx": "축제",
           "realisateurs": "Im Kwon-taek",
           "annee": 1996,
           "duree": 108,
@@ -1704,6 +1706,7 @@
           "idFilm": 155068,
           "titre": "Une ville natale",
           "titreVo": "Maeumui gohyang",
+          "titreNx": "마음의 고향",
           "realisateurs": "Yoon Yong-gyu",
           "annee": 1949,
           "duree": 77,
@@ -3698,7 +3701,8 @@
         {
           "idCycle": 987,
           "idCategorie": 3753,
-          "titreCycle": "Susan Seidelman"
+          "titreCycle": "Susan Seidelman",
+          "titreSousCycle": "Carte blanche à Susan Seidelman"
         }
       ],
       "idEvenement": 32653,
@@ -3737,7 +3741,8 @@
         {
           "idCycle": 987,
           "idCategorie": 3753,
-          "titreCycle": "Susan Seidelman"
+          "titreCycle": "Susan Seidelman",
+          "titreSousCycle": "Carte blanche à Susan Seidelman"
         }
       ],
       "idEvenement": 32654,
@@ -4079,6 +4084,47 @@
             }
           ],
           "idFilmBoxoffice": 337
+        }
+      ]
+    },
+    {
+      "idSeance": 190348,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32712,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-06T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40177,
+          "titre": "Lili Marleen",
+          "realisateurs": "Rainer Werner Fassbinder",
+          "annee": 1980,
+          "duree": 120,
+          "generique": "Hanna Schygulla, Giancarlo Giannini, Mel Ferrer",
+          "adaptation": "D'après le roman autobiographique _Der Himmel hat viele Farben_ de Lale Andersen.",
+          "synopsis": "L'histoire d'amour impossible entre l'interprète de la chanson « Lili Marleen », instrument de la propagande nazie, et un jeune musicien d'origine juive.",
+          "miniTexte": "Inspiré par la relation amoureuse entre la chanteuse allemande Lale Andersen et le compositeur suisse juif Rolf Liebermann, Fassbinder interroge la place de l'art durant la guerre dans un mélodrame tourmenté dont la mise en scène pastiche l'esthétique UFA. Une évocation brûlante du nazisme, doublée d'une réflexion sur la propagande et la manipulation politique.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29520,
+              "duree": 120,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1777
         }
       ]
     }
