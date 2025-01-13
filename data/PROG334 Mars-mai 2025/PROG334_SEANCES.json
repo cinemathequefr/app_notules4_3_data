@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-10T16:30:12.813Z",
+  "updatedAt": "2025-01-13T14:28:04.511Z",
   "data": [
     {
       "idSeance": 185394,
@@ -260,7 +260,8 @@
               "duree": 98,
               "format": "16 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 25301
@@ -566,6 +567,7 @@
             {
               "idCopie": 25534,
               "duree": 118,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -682,6 +684,7 @@
           "titreVo": "Man Without a Star",
           "realisateurs": "King Vidor",
           "annee": 1955,
+          "duree": 87,
           "generique": "Kirk Douglas, Jeanne Crain, Claire Trevor",
           "adaptation": "D'après le roman _L'Homme qui n'a pas d'étoile_ de Dee Linford.",
           "synopsis": "Dans une petite ville de l'Ouest, Demsey Rae est engagé dans le ranch appartenant à la séduisante Reed Bowman.",
@@ -690,7 +693,7 @@
           "copies": [
             {
               "idCopie": 20050,
-              "duree": 0,
+              "duree": 87,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
@@ -817,6 +820,7 @@
             {
               "idCopie": 23192,
               "duree": 140,
+              "format": "35 mm",
               "version": "VO",
               "stDemande": true
             }
@@ -860,7 +864,8 @@
           "copies": [
             {
               "idCopie": 22556,
-              "duree": 86
+              "duree": 86,
+              "format": "35 mm"
             }
           ],
           "idFilmBoxoffice": 39145
@@ -2045,7 +2050,7 @@
           "annee": 1961,
           "duree": 97,
           "generique": "Gérard Blain, Anna Maria Ferrero, Jean Sorel",
-          "miniTexte": "Le troisième film de Lizzani consacré à l'occupation allemande, qui raconte cette fois le ghetto de Rome, et le déchirement de familles juives menacées de rafles si elles ne rassemblent pas 50 kilos d'or en deux jours. Le cinéaste exhume à nouveau les heures sombres de son pays et, tournant le dos aux préceptes du néoréalisme, n'hésite pas à teinter son drame historique de touches mélodramatiques. Rivette en fit le reproche à Pontecorvo (_Kapò_) trois ans plus tôt, on fera ce même reproche à Spielberg trente ans plus tard (_La Liste de Schindler_). Mais derrière les artifices, assumés, du spectacle populaire, le film n'en reste pas moins déchirant.",
+          "miniTexte": "Le troisième film de Lizzani consacré à l'occupation allemande, qui raconte cette fois le ghetto de Rome, et le déchirement de familles juives menacées de rafles si elles ne rassemblent pas 50 kilos d'or en deux jours. Le cinéaste exhume à nouveau les heures sombres de son pays et, tournant le dos aux préceptes du néoréalisme, n'hésite pas à teinter son drame historique de touches mélodramatiques. Rivette en fit le reproche à Pontecorvo (_Kapò_) un an plus tôt, on fera ce même reproche à Spielberg trente ans plus tard (_La Liste de Schindler_). Mais derrière les artifices, assumés, du spectacle populaire, le film n'en reste pas moins déchirant.",
           "status": 2,
           "copies": [
             {
@@ -2956,8 +2961,10 @@
             {
               "idCopie": 28964,
               "duree": 107,
+              "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 269684
@@ -3973,7 +3980,7 @@
           "generique": "Julie Andrews, Christopher Plummer, Eleanor Parker",
           "adaptation": "D'après le roman _The Trapp Family_ de Maria von Trapp.",
           "synopsis": "En Autriche, peu de temps avant le déclenchement de la Seconde Guerre mondiale. Maria, une jeune femme pleine d'esprit, quitte le couvent pour devenir la gouvernante des sept enfants du Capitaine Von Trapp. Ce veuf autoritaire dirige la maison d'une main de fer et, dès son arrivée, Maria se heurte à l'hostilité des enfants.",
-          "miniTexte": "Dans la poésie des paysages autrichiens, une gouvernante dispense sa joie de vivre à un foyer endeuillé. Après le succès de _Mary Poppins_, Julie Andrews offre un nouveau festival de gaieté et de tendresse, dopé à une énergie communicative. Sur des standards de la comédie musicale, elle participe à un spectacle lumineux, qui enchaîne les numéros de bravoure comme autant de sucreries acidulées. Telle une célébration de l'amour et de la toute-puissance de la famille, Wise bâtit un univers enchanteur, favorable à un déferlement d'émotions et de couleurs, cinq fois récompensé aux Oscars.",
+          "miniTexte": "Dans la poésie des paysages autrichiens, une gouvernante dispense sa joie de vivre à un foyer endeuillé. Après le succès de _Mary Poppins_, Julie Andrews offre un nouveau festival de gaieté et de tendresse, à l'énergie communicative. Sur des standards de la comédie musicale, elle participe à un spectacle lumineux, qui enchaîne les numéros de bravoure comme autant de sucreries acidulées. Telle une célébration de l'amour et de la toute-puissance de la famille, Wise bâtit un univers enchanteur, favorable à un déferlement d'émotions et de couleurs, cinq fois récompensé aux Oscars.",
           "status": 2,
           "copies": [
             {
@@ -4552,7 +4559,7 @@
           "realisateurs": "Robert Wise",
           "annee": 1953,
           "generique": "Richard Burton, James Mason, Robert Newton",
-          "miniTexte": "Un hommage appuyé à l'héroïsme des troupes anglaises, engagées dans la défense de Tobrouk. Conditions de vie difficiles, combats acharnés, l'immersion est totale aux côtés de soldats justement loués pour leur bravoure et leur résilience. En militaire britannique téméraire, Richard Burton livre une performance remarquable, qui personnifie les conséquences psychologiques de la guerre.",
+          "miniTexte": "Un hommage appuyé à l'héroïsme des troupes anglaises, engagées dans la défense de Tobrouk. Conditions de vie difficiles, combats acharnés, l'immersion est totale aux côtés de soldats justement loués pour leur bravoure et leur résilience. En militaire britannique téméraire, Richard Burton livre une performance remarquable, incarnation des ravages psychologiques de la guerre.",
           "status": 2,
           "copies": [
             {
@@ -6370,15 +6377,18 @@
           "titreVo": "Lady Windermere's Fan",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1925,
-          "duree": 70,
+          "duree": 80,
           "generique": "Ronald Colman, Irene Rich, May McAvoy",
           "adaptation": "D'après la pièce _L'Éventail de Lady Windermere_ d'Oscar Wilde.",
           "miniTexte": "Comédie de mœurs dans la haute société londonienne, le film raconte les soupçons de Lady Windermere sur l'infidélité de son mari avec une femme de mauvaise réputation. Lubitsch troque l'esprit de la pièce d'Oscar Wilde contre son équivalent visuel : un geste, un sourire esquissé, un regard soutenu. Si secrets et mensonges se cachent derrière les portes closes, ils se révèlent astucieusement au travers d'un décor ou d'un objet perdu. Fondé sur l'ambiguïté des relations et sur les hypocrisies de la morale victorienne, _L'Éventail de Lady Windermere_ est un bijou de cruauté et d'amertume. Un incontournable du cinéma muet, longtemps resté inédit en France.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 29075,
-              "duree": 70
+              "idCopie": 29526,
+              "duree": 80,
+              "format": "35 mm",
+              "intertitres": "INT. ANG.",
+              "stDemande": true
             }
           ]
         }
@@ -9239,25 +9249,18 @@
           "titre": "Barravento",
           "realisateurs": "Glauber Rocha",
           "annee": 1962,
-          "duree": 76,
+          "duree": 80,
           "generique": "Antonio Pitanga, Luiza Maranhão, Lucy de Carvalho",
           "synopsis": "Au Brésil, un jeune homme retourne dans son village d'enfance. Il veut libérer les habitants de l'emprise de la religion Candomblé, facteur, selon lui, d'oppression politique et sociale.",
           "miniTexte": "Portrait d'une communauté de pêcheurs afro-brésiliens sous le joug d'un mysticisme tragique. Avec le retour d'un homme instruit qui tente d'éveiller la conscience politique de ses anciens compagnons, le premier long métrage du cinéaste livre une critique acerbe sur la résignation et le fatalisme engendrés par les croyances religieuses.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 2651,
-              "duree": 76,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29041,
+              "idCopie": 29525,
               "duree": 80,
-              "format": "35 mm",
-              "version": "VO"
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 2669
@@ -9376,26 +9379,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 6617,
+              "idCopie": 29524,
               "duree": 95,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
-              "langCopie": "POR",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29040,
-              "duree": 95,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 92
@@ -9434,26 +9422,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 6617,
+              "idCopie": 29524,
               "duree": 95,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
-              "langCopie": "POR",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29040,
-              "duree": 95,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 6438,
-              "duree": 95,
-              "format": "Numérique",
-              "version": "VO"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 92
@@ -9491,17 +9464,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29046,
-              "duree": 95,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ITA",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 29047,
-              "duree": 95
+              "duree": 95,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 37786
@@ -9609,26 +9576,18 @@
           "titre": "Claro",
           "realisateurs": "Glauber Rocha",
           "annee": 1975,
-          "duree": 107,
+          "duree": 110,
           "generique": "Juliet Berto, Tony Scott, Carmelo Bene",
           "synopsis": "Film improvisé mêlant acteurs professionnels et amateurs dans les rues de Rome.",
           "miniTexte": "À la fin de son exil européen, Rocha tourne dans les rues de Rome pour proposer une vision brésilienne de la capitale italienne. Un essai épique et politique, qui se veut, selon ses termes, « un témoignage de colonisé sur une terre de colonisation ».",
           "status": 2,
           "copies": [
             {
-              "idCopie": 3785,
-              "duree": 107,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "POR",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 29326,
               "duree": 110,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
@@ -9659,31 +9618,17 @@
           "artVo": "A",
           "realisateurs": "Glauber Rocha",
           "annee": 1980,
-          "duree": 150,
+          "duree": 160,
           "generique": "Maurício do Valle, Jece Valadão, Antonio Pitanga",
           "synopsis": "Une vision torrentielle et hallucinatoire de la destinée historique, culturelle et politique du Brésil.",
           "miniTexte": "Une vision torrentielle et hallucinatoire de la destinée historique, culturelle et politique du Brésil contemporain, inspirée d'un poème de Castro Alves. Quatre personnifications différentes du Christ – un Noir, un militaire, un Indien et un guérillero – sont les cavaliers de l'apocalypse des terres indigènes, en lutte contre la violence « civilisatrice » d'un puissant explorateur étranger sans scrupules. La pièce ultime d'une œuvre consacrée aux questions d'identité nationale, d'inégalités sociales et de religion.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 6644,
-              "duree": 150,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "POR",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 7002,
-              "duree": 160,
-              "format": "Numérique",
-              "version": "VO"
-            },
-            {
               "idCopie": 29324,
               "duree": 160,
-              "format": "DCP"
+              "format": "DCP",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 186413
@@ -10778,7 +10723,7 @@
           "annee": 1980,
           "duree": 133,
           "generique": "Dan Aykroyd, John Belushi, John Landis",
-          "miniTexte": "Comédie musicale emblématique des années 80, qui mêle humour déjanté, poursuites spectaculaires et performances musicales légendaires. Emmenée par le flegme en costume noir des frères Blues, l'histoire raconte leur mission divine : reformer le groupe pour sauver un orphelinat. Avec la réunion de stars comme Aretha Franklin, James Brown ou Ray Charles, une célébration de la musique soul et du rhythm'n' blues, à l'énergie contagieuse.",
+          "miniTexte": "Comédie musicale emblématique des années 80, qui mêle humour déjanté, poursuites spectaculaires et performances musicales légendaires. Portée par le flegme en costume noir des frères Blues, l'histoire raconte leur mission divine : reformer le groupe pour sauver un orphelinat. Avec la réunion de stars comme Aretha Franklin, James Brown ou Ray Charles, une célébration de la musique soul et du rhythm'n' blues, à l'énergie contagieuse.",
           "status": 2,
           "copies": [
             {
@@ -11491,7 +11436,7 @@
           "duree": 84,
           "generique": "Sean Gullette, Mark Margolis, Ben Shenkman",
           "synopsis": "Un mathématicien paranoïaque cherche le chiffre clé qui permettrait de percer les mystères de l'existence. Il est alors courtisé par une secte et une firme de Wall Street.",
-          "miniTexte": "L'obsession d'un mathématicien pour le nombre Pi le pousse à sa perte. Récompensé par le Prix de la mise en scène à Sundance, le premier long métrage d'Aronofsky confronte l'univers formel des chiffres à l'agitation du monde réel. De l'asocialité à la paranoïa, son héros personnifie l'angoissante arrivée du virtuel, vécue comme une intrusion. Un essai percutant, qui convoque Lynch, Lang et Murnau.",
+          "miniTexte": "L'obsession d'un mathématicien pour le nombre π le pousse à sa perte. Récompensé par le Prix de la mise en scène à Sundance, le premier long métrage d'Aronofsky confronte l'univers formel des chiffres à l'agitation du monde réel. De l'asocialité à la paranoïa, son héros incarne l'arrivée du virtuel, vécue comme une intrusion angoissante. Un essai percutant, qui convoque Lynch, Lang et Murnau.",
           "status": 2,
           "copies": [
             {
@@ -11659,16 +11604,16 @@
           "titre": "Amazonas, Amazonas",
           "realisateurs": "Glauber Rocha",
           "annee": 1965,
-          "duree": 15,
+          "duree": 18,
           "miniTexte": "Derrière le film de commande sur la beauté et les richesses de l'Amazonie, un pamphlet poétique, un cri de colère et d'espoir, qui expose les contradictions et les ravages de la modernité sur la terre des peuples autochtones.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 13178,
-              "duree": 15,
-              "format": "35 mm",
+              "idCopie": 29523,
+              "duree": 18,
+              "format": "DCP",
               "version": "VO",
-              "langCopie": "POR"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 32798
@@ -11735,16 +11680,16 @@
           "titre": "Amazonas, Amazonas",
           "realisateurs": "Glauber Rocha",
           "annee": 1965,
-          "duree": 15,
+          "duree": 18,
           "miniTexte": "Derrière le film de commande sur la beauté et les richesses de l'Amazonie, un pamphlet poétique, un cri de colère et d'espoir, qui expose les contradictions et les ravages de la modernité sur la terre des peuples autochtones.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 13178,
-              "duree": 15,
-              "format": "35 mm",
+              "idCopie": 29523,
+              "duree": 18,
+              "format": "DCP",
               "version": "VO",
-              "langCopie": "POR"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 32798
@@ -11966,6 +11911,7 @@
             {
               "idCopie": 29095,
               "duree": 60,
+              "format": "35 mm",
               "intertitres": "INT. ALL.",
               "stDemande": true
             }
@@ -13871,7 +13817,10 @@
           "copies": [
             {
               "idCopie": 29193,
-              "duree": 67
+              "duree": 67,
+              "format": "Numérique",
+              "version": "VO",
+              "langCopie": "ENG"
             }
           ]
         }
@@ -14475,7 +14424,6 @@
           "realisateurs": "Pete Docter, David Silverman, Lee Unkrich",
           "annee": 2001,
           "duree": 92,
-          "generique": "Jacques Frantz, Éric Métayer, Lola Krellenstein",
           "ageMinimal": 4,
           "synopsisJP": "À Monstropolis, où l'énergie est fournie par les cris d'enfants effrayés, deux monstres, Sulli et Bob, doivent raccompagner chez elle une petite fille égarée dans leur monde. Pour tordre le cou en riant aux peurs enfantines et apprendre à accepter les différences, une pépite signée Pixar, qui accumule prouesses techniques et répliques cultes.",
           "status": 2,
@@ -15232,7 +15180,7 @@
           "idCycle": 977,
           "idCategorie": 3736,
           "titreCycle": "Glauber Rocha",
-          "titreSousCycle": "Documentaires"
+          "titreSousCycle": "Documentaire"
         }
       ],
       "idEvenement": 32521,
@@ -15454,6 +15402,7 @@
             {
               "idCopie": 29521,
               "duree": 57,
+              "format": "DCP",
               "intertitres": "INT. ALL.",
               "stDemande": true
             }
@@ -15633,12 +15582,16 @@
               "idCopie": 29409,
               "duree": 86,
               "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STA",
               "selected": true
             },
             {
               "idCopie": 29414,
               "duree": 86,
-              "format": "35 mm"
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 4421

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-10T14:43:35.922Z",
+  "updatedAt": "2025-01-13T09:03:03.950Z",
   "data": [
     {
       "idSeance": 185115,
@@ -5718,13 +5718,6 @@
               "version": "VO",
               "langCopie": "ENG",
               "stDemande": true
-            },
-            {
-              "idCopie": 29223,
-              "duree": 106,
-              "format": "16 mm",
-              "version": "VO",
-              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 41123
@@ -5786,13 +5779,6 @@
               "version": "VO",
               "langCopie": "ENG",
               "stDemande": true
-            },
-            {
-              "idCopie": 29223,
-              "duree": 106,
-              "format": "16 mm",
-              "version": "VO",
-              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 41123
@@ -5827,6 +5813,15 @@
           "miniTexte": "Deux gangs se disputent le pouvoir dans la même ville, et font chacun appel à un tueur à gages pour anéantir les chefs rivaux. Un polar urbain qui lorgne vers le _comic book_ et la comédie, sur une BO signée Henry Mancini, et avec Richard Harris dans une prestation désopilante.",
           "status": 2,
           "copies": [
+            {
+              "idCopie": 28752,
+              "duree": 98,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
             {
               "idCopie": 28827,
               "duree": 98,
