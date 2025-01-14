@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-13T09:03:03.950Z",
+  "updatedAt": "2025-01-14T09:36:39.249Z",
   "data": [
     {
       "idSeance": 185115,
@@ -4569,6 +4569,16 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 28754,
+              "duree": 109,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "Autres",
+              "stDemande": true,
+              "selected": true
+            },
+            {
               "idCopie": 28813,
               "duree": 109,
               "format": "35 mm",
@@ -4612,6 +4622,16 @@
           "miniTexte": "Dans les paysages arides de l'Afghanistan, Omar Sharif pratique le bozcachi, sport national équestre d'une beauté intense. Amputé après une blessure, le cavalier cherche à se reconstruire, mû par la fierté et l'opposition au père. La découverte d'une culture fascinante et de ses traditions ancestrales, d'après le roman de Joseph Kessel.",
           "status": 2,
           "copies": [
+            {
+              "idCopie": 28754,
+              "duree": 109,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "Autres",
+              "stDemande": true,
+              "selected": true
+            },
             {
               "idCopie": 28813,
               "duree": 109,
@@ -4829,6 +4849,7 @@
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "Autres",
+              "stDemande": true,
               "selected": true
             },
             {
@@ -4838,13 +4859,6 @@
               "version": "VO",
               "langCopie": "ENG",
               "stDemande": true
-            },
-            {
-              "idCopie": 28839,
-              "duree": 80,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
             }
           ],
           "idFilmBoxoffice": 202092
@@ -5430,6 +5444,7 @@
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "Autres",
+              "stDemande": true,
               "selected": true
             },
             {
@@ -5709,7 +5724,8 @@
               "duree": 106,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             },
             {
               "idCopie": 28819,
@@ -5770,7 +5786,8 @@
               "duree": 106,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             },
             {
               "idCopie": 28819,
@@ -6746,7 +6763,7 @@
       "idEvenement": 31355,
       "typeEvenement": 13,
       "dateHeure": "2025-01-18T15:00:00",
-      "idSalle": "HL",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -8283,7 +8300,7 @@
       "idEvenement": 31382,
       "typeEvenement": 13,
       "dateHeure": "2025-01-18T17:15:00",
-      "idSalle": "HL",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -10135,18 +10152,12 @@
           "idCategorie": 3466,
           "titreCycle": "Éric Demarsan",
           "titreSousCycle": "Les films"
-        },
-        {
-          "idCycle": 812,
-          "idCategorie": 3624,
-          "titreCycle": "Éric Demarsan",
-          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31447,
+      "typeEvenement": 13,
       "dateHeure": "2025-01-18T14:30:00",
-      "idSalle": "GF",
-      "typeAssoc": 118,
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -10170,13 +10181,6 @@
             }
           ],
           "idFilmBoxoffice": 4248
-        },
-        {
-          "ordre": 2,
-          "idConf": 31648,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Éric Demarsan",
-          "duree": 90
         }
       ]
     },
@@ -15039,6 +15043,33 @@
         }
       ],
       "mention": "Séance présentée par Bernard Payen"
+    },
+    {
+      "idSeance": 184899,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 812,
+          "idCategorie": 3624,
+          "titreCycle": "Éric Demarsan",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 31648,
+      "typeEvenement": 14,
+      "dateHeure": "2025-01-18T17:00:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 90,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 31648,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Éric Demarsan",
+          "duree": 90
+        }
+      ]
     },
     {
       "idSeance": 137948,

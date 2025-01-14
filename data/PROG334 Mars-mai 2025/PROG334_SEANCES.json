@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-13T14:28:04.511Z",
+  "updatedAt": "2025-01-14T09:59:14.064Z",
   "data": [
     {
       "idSeance": 185394,
@@ -2151,11 +2151,11 @@
           "idFilmBoxoffice": 25732
         },
         {
+          "ordre": 2,
           "idConf": 32395,
-          "titre": "DIALOGUE AVEC JEAN-FRANÇOIS RAUGER",
-          "typeConference": "Dialogue",
-          "duree": 75,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Jean-François Rauger",
+          "duree": 75
         }
       ]
     },
@@ -2684,11 +2684,11 @@
           "idFilmBoxoffice": 115736
         },
         {
+          "ordre": 3,
           "idConf": 32399,
-          "titre": "DIALOGUE AVEC NICOLAS SAADA",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 3
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Nicolas Saada",
+          "duree": 60
         }
       ]
     },
@@ -2970,11 +2970,11 @@
           "idFilmBoxoffice": 269684
         },
         {
+          "ordre": 2,
           "idConf": 32398,
-          "titre": "DIALOGUE AVEC MATTHIEU ORLÉAN",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Matthieu Orléan",
+          "duree": 60
         }
       ]
     },
@@ -3051,15 +3051,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28976,
-              "duree": 118,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 29330,
               "duree": 118,
               "format": "35 mm",
@@ -3102,15 +3093,6 @@
           "miniTexte": "Génial Bill Murray dans le rôle de Steve Zissou, océanographe intrépide aux commandes du Belafonte, parti venger son partenaire dévoré par un requin-jaguar. Rythmée par le rock de Devo et les reprises de Bowie en brésilien, une épopée sous-marine déjantée, dédiée au commandant Cousteau.",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 28976,
-              "duree": 118,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
             {
               "idCopie": 29330,
               "duree": 118,
@@ -3168,11 +3150,11 @@
           "idFilmBoxoffice": 290497
         },
         {
+          "ordre": 2,
           "idConf": 32382,
-          "titre": "WES ANDERSON PAR WES ANDERSON, UNE LEÇON DE CINÉMA",
-          "typeConference": "Leçon de cinéma",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 15,
+          "titre": "Wes Anderson par Wes Anderson, une leçon de cinéma",
+          "duree": 60
         }
       ]
     },
@@ -3210,11 +3192,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "selected": true
-            },
-            {
-              "idCopie": 29293,
-              "duree": 120
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 20085
@@ -3255,7 +3233,8 @@
               "duree": 120,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 20074
@@ -3291,22 +3270,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29164,
-              "duree": 98,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "selected": true
-            },
-            {
               "idCopie": 29464,
               "duree": 98,
               "format": "35 mm",
-              "version": "VO"
-            },
-            {
-              "idCopie": 29476,
-              "duree": 98
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 32597
@@ -3347,13 +3315,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "selected": true
-            },
-            {
-              "idCopie": 29477,
-              "duree": 63,
-              "format": "35 mm",
-              "version": "VO"
+              "stDemande": true
             }
           ]
         }
@@ -3388,8 +3350,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29332,
-              "duree": 94
+              "idCopie": 29534,
+              "duree": 94,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 108895
@@ -3469,18 +3435,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28288,
-              "duree": 96,
-              "format": "35 mm",
-              "version": "VO",
-              "selected": true
-            },
-            {
               "idCopie": 2404,
               "duree": 96,
               "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STF"
+              "sousTitres": "STF",
+              "selected": true
             },
             {
               "idCopie": 29161,
@@ -3488,6 +3448,12 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG"
+            },
+            {
+              "idCopie": 28288,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 12288
@@ -3814,15 +3780,18 @@
           "artVo": "The",
           "realisateurs": "Robert Wise",
           "annee": 1952,
+          "duree": 91,
           "generique": "John Forsythe, Joan Camden, Harold J. Kennedy",
           "miniTexte": "Alors que des gangsters sont à ses trousses, un couple trouve refuge dans un commissariat et commence à raconter son histoire. Inspiré de faits réels et mâtiné de jazz, _La Ville captive_ s'impose comme un sombre portrait de la corruption, au scénario dense et complexe, qui mêle intrigues politiques, enquêtes journalistiques et tensions sociales.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 29292,
-              "duree": 0,
+              "idCopie": 29535,
+              "duree": 91,
+              "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 92923
@@ -3896,16 +3865,19 @@
           "titreVo": "Tribute to a Bad Man",
           "realisateurs": "Robert Wise",
           "annee": 1956,
+          "duree": 96,
           "generique": "James Cagney, Don Dubbins, Stephen McNally",
           "miniTexte": "Après avoir sauvé la vie d'un éleveur, un jeune homme découvre sa personnalité tyrannique. Avec un triangle amoureux aux protagonistes ambivalents, Wise imagine un western psychologique – le dernier de sa carrière – à l'habile réflexion sur la moralité, qui fait la part belle à l'immense James Cagney, puissant et déterminé.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 29165,
-              "duree": 0,
+              "idCopie": 29536,
+              "duree": 96,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "sousTitres": "Autres",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 48833
@@ -4154,11 +4126,11 @@
           "idFilmBoxoffice": 88402
         },
         {
+          "ordre": 2,
           "idConf": 32400,
-          "titre": "DIALOGUE AVEC SERGE CHAUVIN",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Serge Chauvin",
+          "duree": 60
         }
       ]
     },
@@ -4185,24 +4157,18 @@
           "titreVo": "Mystery in Mexico",
           "realisateurs": "Robert Wise",
           "annee": 1948,
+          "duree": 66,
           "generique": "William Lundigan, Jacqueline White, Ricardo Cortez",
           "miniTexte": "Un détective enquête sur la disparition mystérieuse d'un collègue. Dans les paysages exotiques du Mexique, Wise invente un film noir aux nombreux rebondissements, saupoudré d'une pointe de romance. Mensonges, trahisons et secrets s'y immiscent dans une ambiance suspicieuse, où la vérité semble plus fragile que jamais.",
           "status": 2,
           "copies": [
             {
               "idCopie": 29158,
-              "duree": 0,
+              "duree": 66,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "selected": true
-            },
-            {
-              "idCopie": 29461,
-              "duree": 0,
-              "format": "16 mm",
-              "version": "VO",
-              "langCopie": "ENG"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 108890
@@ -4558,16 +4524,18 @@
           "artVo": "The",
           "realisateurs": "Robert Wise",
           "annee": 1953,
+          "duree": 88,
           "generique": "Richard Burton, James Mason, Robert Newton",
           "miniTexte": "Un hommage appuyé à l'héroïsme des troupes anglaises, engagées dans la défense de Tobrouk. Conditions de vie difficiles, combats acharnés, l'immersion est totale aux côtés de soldats justement loués pour leur bravoure et leur résilience. En militaire britannique téméraire, Richard Burton livre une performance remarquable, incarnation des ravages psychologiques de la guerre.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 29153,
-              "duree": 0,
-              "format": "35 mm",
+              "idCopie": 29537,
+              "duree": 88,
+              "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 48645
@@ -4639,6 +4607,7 @@
           "artVo": "The",
           "realisateurs": "Robert Wise",
           "annee": 1945,
+          "duree": 79,
           "generique": "Boris Karloff, Béla Lugosi, Henry Daniell",
           "adaptation": "D'après la nouvelle _Le Voleur de cadavres_ de Robert Louis Stevenson.",
           "miniTexte": "Deux géants de l'épouvante, Boris Karloff et Béla Lugosi, s'associent pour une danse macabre inspirée des classiques du genre. Hôpitaux glauques, maisons sinistres et cimetières abandonnés sont au rendez-vous d'un récit angoissant à l'ambiance gothique, adapté de Stevenson et basé sur un trafic de cadavres ayant défrayé la chronique à Édimbourg.",
@@ -4646,10 +4615,11 @@
           "copies": [
             {
               "idCopie": 29156,
-              "duree": 0,
+              "duree": 79,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 18709
@@ -4681,6 +4651,7 @@
           "artVo": "The",
           "realisateurs": "Robert Wise",
           "annee": 1945,
+          "duree": 79,
           "generique": "Boris Karloff, Béla Lugosi, Henry Daniell",
           "adaptation": "D'après la nouvelle _Le Voleur de cadavres_ de Robert Louis Stevenson.",
           "miniTexte": "Deux géants de l'épouvante, Boris Karloff et Béla Lugosi, s'associent pour une danse macabre inspirée des classiques du genre. Hôpitaux glauques, maisons sinistres et cimetières abandonnés sont au rendez-vous d'un récit angoissant à l'ambiance gothique, adapté de Stevenson et basé sur un trafic de cadavres ayant défrayé la chronique à Édimbourg.",
@@ -4688,10 +4659,11 @@
           "copies": [
             {
               "idCopie": 29156,
-              "duree": 0,
+              "duree": 79,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 18709
@@ -4952,24 +4924,12 @@
           "copies": [
             {
               "idCopie": 29512,
-              "duree": 0,
+              "duree": 175,
               "format": "70 mm",
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "Autres",
-              "selected": true
-            },
-            {
-              "idCopie": 4515,
-              "duree": 175,
-              "format": "70 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
-              "idCopie": 29511,
-              "duree": 0,
-              "version": "VO"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 79382
@@ -5042,6 +5002,7 @@
           "titreVo": "A Game of Death",
           "realisateurs": "Robert Wise",
           "annee": 1945,
+          "duree": 72,
           "generique": "John Loder, Audrey Long, Edgar Barrier",
           "adaptation": "D'après le roman _The Most Dangerous Game_ de Richard Connell.",
           "miniTexte": "Quatorze ans après l'original, Wise adapte à nouveau _Les Chasses du comte Zaroff_ dans un thriller psychologique en forme de film d'aventures. Sur une île à la beauté sauvage, il tisse une palpitante odyssée de survie pour des naufragés victimes de la folie et de la vengeance.",
@@ -5049,7 +5010,11 @@
           "copies": [
             {
               "idCopie": 29288,
-              "duree": 0
+              "duree": 72,
+              "format": "Numérique",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 32689
@@ -5174,7 +5139,7 @@
           "titre": "West Side Story",
           "realisateurs": "Robert Wise, Jerome Robbins",
           "annee": 1961,
-          "duree": 152,
+          "duree": 148,
           "generique": "Natalie Wood, Richard Beymer, George Chakiris, Rita Moreno",
           "adaptation": "D'après la comédie musicale _West Side Story_ de Leonard Bernstein, Stephen Sondheim et Arthur Laurents.",
           "ageMinimal": 10,
@@ -5184,15 +5149,6 @@
           "commentaire": "L'original, après Broadway et avant Spielberg. Grande réussite spectaculaire d'un Hollywood qui refuse de baisser les bras devant la télévision, au risque de l'emphase et du monumental, le film sera couvert d'Oscars et reste un hit historique de la comédie musicale. Avec ses audaces (New York vue d'en haut et le début sans paroles, le générique final de Saul Bass), son trio magique de génies (Bernstein/Sondheim/Robbins) et ses duos sentimentaux un tantinet sirupeux. Mais Chakiris et Natalie Wood. — Frédéric Bonnaud",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 29406,
-              "duree": 152,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
             {
               "idCopie": 16573,
               "duree": 148,
@@ -5235,7 +5191,7 @@
           "titre": "West Side Story",
           "realisateurs": "Robert Wise, Jerome Robbins",
           "annee": 1961,
-          "duree": 152,
+          "duree": 148,
           "generique": "Natalie Wood, Richard Beymer, George Chakiris, Rita Moreno",
           "adaptation": "D'après la comédie musicale _West Side Story_ de Leonard Bernstein, Stephen Sondheim et Arthur Laurents.",
           "ageMinimal": 10,
@@ -5245,15 +5201,6 @@
           "commentaire": "L'original, après Broadway et avant Spielberg. Grande réussite spectaculaire d'un Hollywood qui refuse de baisser les bras devant la télévision, au risque de l'emphase et du monumental, le film sera couvert d'Oscars et reste un hit historique de la comédie musicale. Avec ses audaces (New York vue d'en haut et le début sans paroles, le générique final de Saul Bass), son trio magique de génies (Bernstein/Sondheim/Robbins) et ses duos sentimentaux un tantinet sirupeux. Mais Chakiris et Natalie Wood. — Frédéric Bonnaud",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 29406,
-              "duree": 152,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
             {
               "idCopie": 16573,
               "duree": 148,
@@ -5493,11 +5440,11 @@
           "idFilmBoxoffice": 2623
         },
         {
+          "ordre": 2,
           "idConf": 32394,
-          "titre": "DIALOGUE AVEC MARION POLIRSZTOK ET ANNE KERLAN",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Marion Polirsztok et  Anne Kerlan",
+          "duree": 60
         }
       ]
     },
@@ -5654,7 +5601,8 @@
               "idCopie": 28995,
               "duree": 97,
               "format": "DCP",
-              "intertitres": "INT. ALL."
+              "intertitres": "INT. ALL.",
+              "stDemande": true
             }
           ]
         }
@@ -6392,7 +6340,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 188442,
@@ -6419,17 +6368,16 @@
           "artVo": "Das",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1922,
-          "duree": 110,
+          "duree": 115,
           "generique": "Emil Jannings, Paul Wegener, Dagny Servaes",
           "miniTexte": "Autour d'une intrigue amoureuse dans l'Égypte antique, une satire du pouvoir aux décors spectaculaires. La dernière superproduction allemande de Lubitsch, qui lui ouvre un boulevard vers les studios hollywoodiens.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 29074,
-              "duree": 110,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
+              "idCopie": 29539,
+              "duree": 115,
+              "format": "DCP",
+              "intertitres": "INT. FR."
             }
           ],
           "idFilmBoxoffice": 9358
@@ -7162,11 +7110,11 @@
           "idFilmBoxoffice": 317
         },
         {
+          "ordre": 2,
           "idConf": 32397,
-          "titre": "TO BE OR NOT TO BE + DIALOGUE AVEC CHARLOTTE GARSON",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "To be or not To be + Dialogue avec Charlotte Garson",
+          "duree": 60
         }
       ]
     },
@@ -8021,8 +7969,8 @@
             {
               "idCopie": 29061,
               "duree": 41,
-              "format": "Numérique",
-              "intertitres": "INT. ANG.",
+              "format": "DCP",
+              "intertitres": "INT. ALL.",
               "stDemande": true
             }
           ],
@@ -8412,7 +8360,8 @@
               "idCopie": 14023,
               "duree": 108,
               "format": "DCP",
-              "intertitres": "INT. ANG."
+              "intertitres": "INT. ANG.",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 27999
@@ -8444,9 +8393,20 @@
           "titreVo": "Island of Lost Men",
           "realisateurs": "Kurt Neumann",
           "annee": 1939,
+          "duree": 64,
           "generique": "Anna May Wong, J. Carrol Naish, Anthony Quinn",
           "miniTexte": "Partie à la recherche de son père, un général chinois accusé d'escroquerie, une chanteuse de cabaret affronte un gangster, installé à la tête d'un camp de travail. Dans des décors exotiques, Anna May Wong donne la réplique à Anthony Quinn et à un J. Carrol Naish grimé en métis. Un remake éloigné du _Fou des îles_ (1933), et le dernier film de la star sino-américaine pour la Paramount.",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29532,
+              "duree": 64,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
+            }
+          ]
         }
       ]
     },
@@ -8474,9 +8434,20 @@
           "titreVo": "Lady from Chungking",
           "realisateurs": "William Nigh",
           "annee": 1942,
+          "duree": 66,
           "generique": "Anna May Wong, Harold Huber, Mae Clarke",
           "miniTexte": "Seconde Guerre mondiale : une jeune Chinoise mène l'insurrection d'une bande de partisans pour protéger son pays de l'envahisseur japonais. Une série B maligne qui joue de la métaphore – chaque personnage représente un des pays belligérants –, et où Anna May Wong (qui offre son cachet) flamboie dans un monologue final pour la défense des libertés.",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29522,
+              "duree": 66,
+              "format": "Numérique",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
+            }
+          ]
         }
       ]
     },
@@ -8504,9 +8475,19 @@
           "titreVo": "King of Chinatown",
           "realisateurs": "Nick Grinde",
           "annee": 1939,
+          "duree": 60,
           "generique": "Akim Tamiroff, Anna May Wong, J. Carrol Naish",
           "miniTexte": "Une jeune Chinoise et son père, tous deux médecins, luttent contre un gangster qui se livre au racket dans leur quartier. Deux ans après _La Fille de Shanghai_, Anna May Wong retrouve ses partenaires Anthony Quinn et J. Carrol Naish, et poursuit son combat personnel, déterminée à donner à l'écran une image positive de la communauté asiatique.",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29527,
+              "duree": 60,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
+            }
+          ]
         }
       ]
     },
@@ -8583,7 +8564,8 @@
               "duree": 70,
               "format": "16 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 95835
@@ -8614,9 +8596,20 @@
           "titreVo": "Daughter of Shanghai",
           "realisateurs": "Robert Florey",
           "annee": 1937,
+          "duree": 61,
           "generique": "Charles Bickford, Anna May Wong, Buster Crabbe",
           "miniTexte": "Une Sino-Américaine et un détective d'origine coréenne (Philip Ahn joue le premier agent asiatique du FBI au cinéma) s'associent pour démanteler un trafic de clandestins. _La Fille de Shanghai_ dénonce les stéréotypes racistes et bouscule l'ordre établi à Hollywood, c'est le film des premières fois : Anthony Quinn quasi débutant, Anna May Wong dans un rôle positif, mais surtout des personnages d'étrangers enfin tenus par des acteurs d'origine asiatique.",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29531,
+              "duree": 61,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
+            }
+          ]
         }
       ]
     },
@@ -8696,7 +8689,8 @@
               "idCopie": 13191,
               "duree": 70,
               "format": "DCP",
-              "intertitres": "INT. ANG."
+              "intertitres": "INT. ANG.",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 26140
@@ -8889,11 +8883,11 @@
           "idFilmBoxoffice": 1237
         },
         {
+          "ordre": 2,
           "idConf": 32379,
-          "titre": "DIALOGUE AVEC MURIELLE JOUDET",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Murielle Joudet",
+          "duree": 60
         }
       ]
     },
@@ -9508,6 +9502,7 @@
             {
               "idCopie": 29457,
               "duree": 95,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -10937,6 +10932,7 @@
           "titreVo": "Storie di ordinaria follia",
           "realisateurs": "Marco Ferreri",
           "annee": 1981,
+          "duree": 101,
           "generique": "Ornella Muti, Ben Gazzara, Susan Tyrrell",
           "adaptation": "D'après le recueil de nouvelles _Contes de la folie ordinaire_ de Charles Bukowski.",
           "synopsis": "Charles Serking, poète anarchiste et ivrogne, vit dans un quartier sordide de Los Angeles. Il rencontre Cass, mi-ange, mi-démon, qui se prostitue dans les quartiers chics.",
@@ -10945,15 +10941,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 21787,
-              "duree": 0,
+              "idCopie": 21788,
+              "duree": 101,
               "format": "35 mm",
-              "version": "VF",
-              "selected": true
-            },
-            {
-              "idCopie": 21826,
-              "duree": 0
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 80717
@@ -11158,6 +11150,7 @@
             {
               "idCopie": 29014,
               "duree": 106,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF",
               "selected": true
@@ -11165,6 +11158,7 @@
             {
               "idCopie": 29015,
               "duree": 106,
+              "format": "35 mm",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -11282,11 +11276,11 @@
           "idFilmBoxoffice": 125828
         },
         {
+          "ordre": 2,
           "idConf": 32396,
-          "titre": "DARREN ARONOFSKY PAR DARREN ARONOFSKY",
-          "typeConference": "Leçon de cinéma",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 15,
+          "titre": "Darren Aronofsky par Darren Aronofsky ",
+          "duree": 60
         }
       ]
     },
@@ -11969,7 +11963,7 @@
               "idCopie": 18380,
               "duree": 91,
               "format": "35 mm",
-              "version": "VF"
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 1359
@@ -12026,7 +12020,7 @@
               "idCopie": 29105,
               "duree": 106,
               "format": "35 mm",
-              "version": "VF"
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 11237
@@ -12532,7 +12526,7 @@
         {
           "ordre": 1,
           "idConf": 32343,
-          "idTypeConf": 16,
+          "idTypeConf": 15,
           "titre": "Rencontre avec Robert Yeoman",
           "duree": 90
         }
@@ -12881,6 +12875,7 @@
           "titre": "Naked",
           "realisateurs": "Mike Leigh",
           "annee": 1993,
+          "duree": 126,
           "generique": "David Thewlis, Lesley Sharp, Katrin Cartlidge",
           "synopsis": "Johnny doit fuir Manchester après avoir violé une femme. Il se réfugie dans l'Est de Londres, chez son ancienne petite amie, et entame une longue errance dans les rues de la ville, pleine de sombres rencontres.",
           "miniTexte": "Après les comédies de ses débuts (_High Hopes_, _Life is Sweet_), Mike Leigh opère un tournant sombre et signe un film grinçant, violent, à l'atmosphère blafarde. Avec les errances nocturnes d'un Ulysse, affreux, sale et méchant, _Naked_ plonge le spectateur dans la vision cauchemardesque d'une Angleterre exsangue après la décennie thatchérienne. Une époque où les rapports humains, aux deux extrémités du spectre social, ne sont plus que brutalité et indifférence. Son interprète, David Thewlis, reçoit le Prix d'interprétation à Cannes, et le cinéaste le Prix de la mise en scène.",
@@ -12889,7 +12884,7 @@
           "copies": [
             {
               "idCopie": 29192,
-              "duree": 0,
+              "duree": 126,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
@@ -12898,11 +12893,11 @@
           "idFilmBoxoffice": 8373
         },
         {
+          "ordre": 2,
           "idConf": 32517,
-          "titre": "MIKE LEIGH PAR MIKE LEIGH. UNE LEÇON DE CINÉMA.",
-          "typeConference": "Leçon de cinéma",
-          "duree": 60,
-          "ordre": 2
+          "idTypeConf": 15,
+          "titre": "Mike Leigh par Mike Leigh. Une leçon de cinéma.",
+          "duree": 60
         }
       ]
     },
@@ -12928,6 +12923,7 @@
           "titre": "Naked",
           "realisateurs": "Mike Leigh",
           "annee": 1993,
+          "duree": 126,
           "generique": "David Thewlis, Lesley Sharp, Katrin Cartlidge",
           "synopsis": "Johnny doit fuir Manchester après avoir violé une femme. Il se réfugie dans l'Est de Londres, chez son ancienne petite amie, et entame une longue errance dans les rues de la ville, pleine de sombres rencontres.",
           "miniTexte": "Après les comédies de ses débuts (_High Hopes_, _Life is Sweet_), Mike Leigh opère un tournant sombre et signe un film grinçant, violent, à l'atmosphère blafarde. Avec les errances nocturnes d'un Ulysse, affreux, sale et méchant, _Naked_ plonge le spectateur dans la vision cauchemardesque d'une Angleterre exsangue après la décennie thatchérienne. Une époque où les rapports humains, aux deux extrémités du spectre social, ne sont plus que brutalité et indifférence. Son interprète, David Thewlis, reçoit le Prix d'interprétation à Cannes, et le cinéaste le Prix de la mise en scène.",
@@ -12936,7 +12932,7 @@
           "copies": [
             {
               "idCopie": 29192,
-              "duree": 0,
+              "duree": 126,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
@@ -13307,6 +13303,7 @@
             {
               "idCopie": 29225,
               "duree": 149,
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -13365,11 +13362,11 @@
       "typeAssoc": 117,
       "items": [
         {
+          "ordre": 1,
           "idConf": 32380,
-          "titre": "« QUI ÊTES-VOUS GLAUBER ROCHA ? » PAR GABRIELA TRUJILLO",
-          "typeConference": "Conférence",
-          "duree": 90,
-          "ordre": 1
+          "idTypeConf": 55,
+          "titre": "« Qui êtes-vous Glauber Rocha ? » par Gabriela Trujillo",
+          "duree": 90
         }
       ]
     },
@@ -13394,11 +13391,11 @@
       "typeAssoc": 117,
       "items": [
         {
+          "ordre": 1,
           "idConf": 32381,
-          "titre": "LUBITSCH AU TRAVAIL (À HOLLYWOOD)",
-          "typeConference": "Conférence",
-          "duree": 90,
-          "ordre": 1
+          "idTypeConf": 55,
+          "titre": "Lubitsch au travail (à Hollywood)",
+          "duree": 90
         }
       ]
     },
@@ -13792,17 +13789,9 @@
           "titre": "Anna May Wong in Australia",
           "realisateurs": "National Film & Sound Archive of Australia",
           "annee": 1939,
-          "duree": 1,
           "generique": "Anna May Wong",
           "miniTexte": "Images d'archives montrant la star du muet Anna May Wong lors d'une tournée en Australie.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29236,
-              "duree": 1,
-              "format": "Numérique"
-            }
-          ]
+          "status": 2
         },
         {
           "ordre": 2,
@@ -13820,7 +13809,8 @@
               "duree": 67,
               "format": "Numérique",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ]
         }
@@ -13855,7 +13845,11 @@
           "copies": [
             {
               "idCopie": 29239,
-              "duree": 49
+              "duree": 49,
+              "format": "Numérique",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ]
         },
@@ -13875,27 +13869,28 @@
               "duree": 30,
               "format": "16 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ]
         },
         {
           "ordre": 3,
-          "idFilm": 155100,
-          "titre": "Hollywood, épisode 7 : A Hollywood Ending",
-          "realisateurs": "Jessica Yu",
-          "annee": 2020,
-          "duree": 51,
-          "generique": "David Corenswet, Darren Criss, Laura Harrier, Michelle Krusiec",
-          "miniTexte": "Épisode de la série _Hollywood_, qui met en scène un groupe de comédiens et cinéastes en herbe et ambitieux, dans le Hollywood d'après-guerre. Une uchronie, où le destin de l'actrice Anna May Wong prend une nouvelle direction.",
-          "status": 2,
+          "idFilm": 155164,
+          "titre": "Babylon",
+          "realisateurs": "Damien Chazelle",
+          "annee": 2022,
+          "duree": 189,
+          "generique": "Margot Robbie, Jean Smart",
+          "status": 0,
           "copies": [
             {
-              "idCopie": 29241,
-              "duree": 51,
+              "idCopie": 29528,
+              "duree": 189,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -13925,9 +13920,20 @@
           "titreVo": "Limehouse Blues",
           "realisateurs": "Alexander Hall",
           "annee": 1934,
+          "duree": 63,
           "generique": "George Raft, Anna May Wong, Jean Parker",
           "miniTexte": "C'est la première fois que l'on entend le standard de jazz _Limehouse Blues_, symbole des Années 30 : dans les bas-fonds londoniens, à Limehouse, un night-club abrite des opérations de contrebande. Son propriétaire, un immigré chinois, s'éprend d'une jeune pickpocket blanche. George Raft joue un Eurasien déchiré entre deux cultures, Anna May Wong est digne et splendide, mais le drame couve. Car en 1934, à Hollywood, toute relation mixte est encore proscrite à l'écran.",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29530,
+              "duree": 63,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
+            }
+          ]
         }
       ]
     },
@@ -14650,11 +14656,11 @@
       "typeAssoc": 117,
       "items": [
         {
+          "ordre": 1,
           "idConf": 32483,
-          "titre": "CINÉGRAPHIES, LES FEMMES DE LA TEMPÊTE : L'ARCHIVE OPOPONAX",
-          "typeConference": "Conférence",
-          "duree": 120,
-          "ordre": 1
+          "idTypeConf": 55,
+          "titre": "Cinégraphies, les femmes de la tempête : l’archive opoponax",
+          "duree": 120
         }
       ]
     },
@@ -14679,11 +14685,11 @@
       "typeAssoc": 117,
       "items": [
         {
+          "ordre": 1,
           "idConf": 32486,
-          "titre": "PROGRAMME DE RECHERCHE « COLLIMATEUR » : SÉMINAIRE « ANALYSES D'ANALYSES »",
-          "typeConference": "Conférence",
-          "duree": 150,
-          "ordre": 1
+          "idTypeConf": 55,
+          "titre": "Programme de recherche \"Collimateur\"  : séminaire « Analyses d’analyses » ",
+          "duree": 150
         }
       ]
     },
@@ -15356,7 +15362,7 @@
             {
               "idCopie": 29066,
               "duree": 12,
-              "format": "Numérique",
+              "format": "DCP",
               "intertitres": "INT. ALL.",
               "stDemande": true
             }
