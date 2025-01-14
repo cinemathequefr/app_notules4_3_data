@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-14T09:59:14.064Z",
+  "updatedAt": "2025-01-14T10:51:55.490Z",
   "data": [
     {
       "idSeance": 185394,
@@ -3396,7 +3396,8 @@
               "duree": 118,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 5547
@@ -3488,11 +3489,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29155,
+              "idCopie": 29541,
               "duree": 89,
-              "format": "16 mm",
+              "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 20072
@@ -3635,19 +3637,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29151,
-              "duree": 88,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "selected": true
-            },
-            {
               "idCopie": 29482,
               "duree": 88,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 1091
@@ -3748,7 +3743,8 @@
               "duree": 85,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 108893
@@ -3834,7 +3830,8 @@
               "duree": 92,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 20075
@@ -10133,19 +10130,19 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 785,
+              "duree": 91,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
               "idCopie": 832,
               "duree": 91,
               "format": "16 mm",
               "version": "VO",
               "langCopie": "GER",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 785,
-              "duree": 91,
-              "format": "35 mm",
-              "version": "VO",
               "sousTitres": "STF"
             }
           ],
@@ -11847,67 +11844,6 @@
               "duree": 69,
               "format": "35 mm",
               "intertitres": "INT. FR."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 185743,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 975,
-          "idCategorie": 3686,
-          "titreCycle": "Ernst Lubitsch",
-          "titreSousCycle": "Lubitsch acteur"
-        }
-      ],
-      "idEvenement": 32266,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-22T15:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 155052,
-          "titre": "Doktor Satansohn",
-          "realisateurs": "Edmund Edel",
-          "annee": 1916,
-          "duree": 44,
-          "generique": "Hans Felix, Yo Larte, Marga Köhler",
-          "miniTexte": "Fantasmagorie aux accents faustiens, qui voit le propriétaire d'un institut de beauté, un certain Dr. Satansohn, réaliser le rêve d'une femme qui aspire à la jeunesse éternelle. Sous condition qu'elle n'embrasse plus aucun homme.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29096,
-              "duree": 44,
-              "format": "Numérique",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 186240
-        },
-        {
-          "ordre": 2,
-          "idFilm": 92561,
-          "titre": "Robert et Bertram ou Les Joyeux Vagabonds",
-          "titreVo": "Robert und Bertram",
-          "realisateurs": "Max Mack",
-          "annee": 1915,
-          "duree": 60,
-          "generique": "Ferdinand Bonn, Ernst Lubitsch, Eugen Burg",
-          "adaptation": "D'après la pièce _Robert et Bertram_ de Gustav Räder.",
-          "miniTexte": "D'après une farce de Gustav Räder, les aventures de deux clochards facétieux dans une petite ville médiévale de Bavière, plusieurs fois adaptées au cinéma.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29095,
-              "duree": 60,
-              "format": "35 mm",
-              "intertitres": "INT. ALL.",
-              "stDemande": true
             }
           ]
         }
@@ -15792,6 +15728,45 @@
         }
       ],
       "mention": "Séance suivie d'une discussion avec Hefse Guiro"
+    },
+    {
+      "idSeance": 185743,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 975,
+          "idCategorie": 3686,
+          "titreCycle": "Ernst Lubitsch",
+          "titreSousCycle": "Lubitsch acteur"
+        }
+      ],
+      "idEvenement": 32718,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-22T15:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155052,
+          "titre": "Doktor Satansohn",
+          "realisateurs": "Edmund Edel",
+          "annee": 1916,
+          "duree": 44,
+          "generique": "Hans Felix, Yo Larte, Marga Köhler",
+          "miniTexte": "Fantasmagorie aux accents faustiens, qui voit le propriétaire d'un institut de beauté, un certain Dr. Satansohn, réaliser le rêve d'une femme qui aspire à la jeunesse éternelle. Sous condition qu'elle n'embrasse plus aucun homme.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29096,
+              "duree": 44,
+              "format": "Numérique",
+              "intertitres": "INT. ALL.",
+              "stDemande": true
+            }
+          ],
+          "idFilmBoxoffice": 186240
+        }
+      ]
     }
   ]
 }

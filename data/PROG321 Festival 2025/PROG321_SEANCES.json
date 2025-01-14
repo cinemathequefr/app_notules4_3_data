@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-13T14:43:35.158Z",
+  "updatedAt": "2025-01-14T10:52:20.972Z",
   "data": [
     {
       "idSeance": 188170,
@@ -2948,11 +2948,11 @@
       "duree": 60,
       "items": [
         {
+          "ordre": 1,
           "idConf": 32550,
-          "titre": "DIALOGUE AVEC JOHN MCTIERNAN",
-          "typeConference": "Dialogue",
-          "duree": 60,
-          "ordre": 1
+          "idTypeConf": 16,
+          "titre": "Dialogue avec John McTiernan",
+          "duree": 60
         }
       ]
     },
@@ -2975,11 +2975,11 @@
       "duree": 90,
       "items": [
         {
+          "ordre": 1,
           "idConf": 32551,
-          "titre": "DIALOGUE AVEC PEDRO COSTA",
-          "typeConference": "Dialogue",
-          "duree": 90,
-          "ordre": 1
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Pedro Costa",
+          "duree": 90
         }
       ]
     },
@@ -3042,11 +3042,11 @@
       "duree": 75,
       "items": [
         {
+          "ordre": 1,
           "idConf": 32553,
-          "titre": "DIALOGUE AVEC SUSAN SEIDELMAN",
-          "typeConference": "Dialogue",
-          "duree": 75,
-          "ordre": 1
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Susan Seidelman",
+          "duree": 75
         }
       ]
     },
@@ -3249,7 +3249,8 @@
           ],
           "idFilmBoxoffice": 1000016058
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Edouard Ferlet et Joël Grare"
     },
     {
       "idSeance": 188295,
@@ -3873,11 +3874,11 @@
       "duree": 75,
       "items": [
         {
+          "ordre": 1,
           "idConf": 32664,
-          "titre": "DIALOGUE AVEC JACQUES AUDIARD",
-          "typeConference": "Dialogue",
-          "duree": 75,
-          "ordre": 1
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Jacques Audiard",
+          "duree": 75
         }
       ]
     },
@@ -3971,11 +3972,11 @@
       "duree": 90,
       "items": [
         {
+          "ordre": 1,
           "idConf": 32702,
-          "titre": "LA « BIBLE » DU FAUST DE F. W. MURNAU. CONFÉRENCE DE LAURENT MANNONI",
-          "typeConference": "Conférence",
-          "duree": 90,
-          "ordre": 1
+          "idTypeConf": 55,
+          "titre": "La « Bible » du Faust de F. W. Murnau. Conférence de Laurent Mannoni",
+          "duree": 90
         }
       ]
     },
