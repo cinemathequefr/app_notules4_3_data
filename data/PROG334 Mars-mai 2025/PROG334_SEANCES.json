@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-14T10:51:55.490Z",
+  "updatedAt": "2025-01-14T11:13:39.186Z",
   "data": [
     {
       "idSeance": 185394,
@@ -14,11 +14,44 @@
       ],
       "idEvenement": 31209,
       "typeEvenement": 13,
-      "libelleEvenement": "ÇAĞLA ZENCIRCI & GUILLAUME GIOVANETTI (AVEC LA VILLA ALBERTINE)",
       "dateHeure": "2025-03-10T19:00:00",
       "idSalle": "JE",
-      "theorique": true,
-      "items": []
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155166,
+          "titre": "Ata",
+          "realisateurs": "Guillaume Giovanetti, Cagla Zencirci",
+          "annee": 2007,
+          "duree": 26,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29543,
+              "duree": 26,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 155167,
+          "titre": "Nikkah",
+          "realisateurs": "Mukkadas Mijit, Bastien Ehouzan",
+          "annee": 2022,
+          "duree": 55,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29544,
+              "duree": 55,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 188166,
@@ -3826,7 +3859,7 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29162,
+              "idCopie": 29545,
               "duree": 92,
               "format": "35 mm",
               "version": "VO",
@@ -3912,6 +3945,7 @@
             {
               "idCopie": 29331,
               "duree": 100,
+              "format": "Numérique",
               "version": "VO",
               "langCopie": "ENG"
             }
@@ -10358,7 +10392,7 @@
       ]
     },
     {
-      "idSeance": 187976,
+      "idSeance": 190362,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -11026,47 +11060,6 @@
             }
           ],
           "idFilmBoxoffice": 204
-        }
-      ]
-    },
-    {
-      "idSeance": 188042,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 978,
-          "idCategorie": 3680,
-          "titreCycle": "Histoire permanente du cinéma",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32193,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-10T15:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 41099,
-          "titre": "Travail au noir",
-          "titreVo": "Moonlighting",
-          "realisateurs": "Jerzy Skolimowski",
-          "annee": 1982,
-          "duree": 97,
-          "generique": "Jeremy Irons, Eugene Lipinski, Jiří Stanislav",
-          "miniTexte": "À travers le portrait de trois ouvriers polonais et de leur contremaître venus travailler au noir à Londres, Skolimowski livre une réflexion subtile et complexe, amusée et douloureuse, sur le monde brutal de l'Occident, en même temps qu'il dénonce la situation politique en Pologne au début des années 80.",
-          "commentaire": "Jerzy Skolimowski réalise _Travail au noir_ en réaction à la grave crise qui éclate dans son pays en décembre 1981. Le Parti communiste au pouvoir a instauré la loi martiale face à la montée du tout jeune syndicat Solidarność. Le cinéaste vit alors en exil à Londres. Il réunit chez lui quatre scénaristes qui doivent composer un récit à partir de ses indications. Il cherche un acteur pour le rôle principal, celui du contremaître Nowak. Il contacte Jeremy Irons. Le film devra se faire en quelques semaines car Irons est enthousiaste mais doit tourner un mois plus tard pour une autre production. Après une scène d'exposition à l'aéroport de Londres, _Travail au noir_ se déploie dans un espace réduit, un quartier résidentiel de la ville. Trois ouvriers polonais et leur contremaître se trouvent coincés entre une maison à rénover, le supermarché voisin et quelques commerces du quartier. Dans ce petit périmètre, Skolimowski se livre à une réflexion subtile et complexe, amusée et douloureuse, sur le monde contemporain. Nowak et ses ouvriers sont coupés de leurs épouses ou familles, mais aussi du drame que traverse la Pologne. L'événement n'apparaît à Nowak que par les images froides de téléviseurs en vitrine. Il parle à une photographie de sa femme et l'imagine jusqu'à l'obsession dans les bras de son patron. Mais la petite troupe venue de l'Est fait aussi la découverte brutale de l'Occident : ses cadences de travail infernales (les accidents de chantier et les manipulations de Nowak), son individualisme radical (la mesquinerie des voisins londoniens), la prégnance de la surveillance et l'insécurité qu'elle engendre (les scènes récurrentes de vol à la supérette), une société où les individus se font tous concurrence.\n\nPauline de Raymond",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29126,
-              "duree": 97,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 321
         }
       ]
     },
@@ -13391,7 +13384,7 @@
       ],
       "idEvenement": 32403,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-10T20:00:00",
+      "dateHeure": "2025-05-10T20:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -13560,7 +13553,7 @@
       ],
       "idEvenement": 32411,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-10T17:30:00",
+      "dateHeure": "2025-05-10T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -13702,136 +13695,6 @@
         }
       ],
       "mention": "Accompagnement musical par Adrien Leconte et Guillaume Ménard"
-    },
-    {
-      "idSeance": 186892,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 974,
-          "idCategorie": 3673,
-          "titreCycle": "Anna May Wong",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32441,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-04T15:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 155097,
-          "titre": "Anna May Wong in Australia",
-          "realisateurs": "National Film & Sound Archive of Australia",
-          "annee": 1939,
-          "generique": "Anna May Wong",
-          "miniTexte": "Images d'archives montrant la star du muet Anna May Wong lors d'une tournée en Australie.",
-          "status": 2
-        },
-        {
-          "ordre": 2,
-          "idFilm": 82319,
-          "titre": "Bombs Over Burma",
-          "realisateurs": "Joseph H. Lewis",
-          "annee": 1942,
-          "duree": 67,
-          "generique": "Anna May Wong, Noel Madison, Leslie Denison",
-          "miniTexte": "1942. Une institutrice chinoise tente de démasquer le traître infiltré au sein d'un groupe de résistants, qui protège des Japonais une route stratégique entre la Chine et la Birmanie. Un film de guerre aux accents exotiques, course contre la montre tendue, dans laquelle Lewis filme champs de bataille et assauts aériens avec efficacité. Dans le cadre de l'effort de guerre, Anna May Wong fit don de son salaire pour United China Relief.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29193,
-              "duree": 67,
-              "format": "Numérique",
-              "version": "VO",
-              "langCopie": "ENG",
-              "stDemande": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 186944,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 974,
-          "idCategorie": 3722,
-          "titreCycle": "Anna May Wong",
-          "titreSousCycle": "Autour d'Anna May Wong"
-        }
-      ],
-      "idEvenement": 32444,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-07T19:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 155099,
-          "titre": "Anna May Wong, Frosted Yellow Willows: Her Life, Times and Legend",
-          "realisateurs": "Elaine Mae Woo",
-          "annee": 2007,
-          "duree": 49,
-          "generique": "Anna May Wong",
-          "miniTexte": "Porté par la voix off de Nancy Kwan, un documentaire inédit, truffé de documents rares, qui revient sur le parcours d'Anna May Wong, première actrice d'origine asiatique à signer un contrat avec un grand studio.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29239,
-              "duree": 49,
-              "format": "Numérique",
-              "version": "VO",
-              "langCopie": "ENG",
-              "stDemande": true
-            }
-          ]
-        },
-        {
-          "ordre": 2,
-          "idFilm": 155105,
-          "titre": "Bold Journey: Native Land",
-          "realisateurs": "ABC - American Broadcasting Company",
-          "annee": 1957,
-          "duree": 30,
-          "generique": "Anna May Wong",
-          "miniTexte": "Images d'archives montrant Anna May Wong lors de son voyage en Chine, en 1936, pour lequel la comédienne prit la caméra.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29240,
-              "duree": 30,
-              "format": "16 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "stDemande": true
-            }
-          ]
-        },
-        {
-          "ordre": 3,
-          "idFilm": 155164,
-          "titre": "Babylon",
-          "realisateurs": "Damien Chazelle",
-          "annee": 2022,
-          "duree": 189,
-          "generique": "Margot Robbie, Jean Smart",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 29528,
-              "duree": 189,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF"
-            }
-          ]
-        }
-      ],
-      "mention": "Séance présentée par Emilie Cauquy"
     },
     {
       "idSeance": 188132,
@@ -15765,6 +15628,84 @@
             }
           ],
           "idFilmBoxoffice": 186240
+        }
+      ]
+    },
+    {
+      "idSeance": 186944,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3722,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Autour d'Anna May Wong"
+        }
+      ],
+      "idEvenement": 32721,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-07T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155099,
+          "titre": "Anna May Wong, Frosted Yellow Willows: Her Life, Times and Legend",
+          "realisateurs": "Elaine Mae Woo",
+          "annee": 2007,
+          "generique": "Anna May Wong",
+          "miniTexte": "Porté par la voix off de Nancy Kwan, un documentaire inédit, truffé de documents rares, qui revient sur le parcours d'Anna May Wong, première actrice d'origine asiatique à signer un contrat avec un grand studio.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29239,
+              "duree": 0,
+              "format": "Numérique",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Emilie Cauquy"
+    },
+    {
+      "idSeance": 190364,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32725,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-04T15:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 82319,
+          "titre": "Bombs Over Burma",
+          "realisateurs": "Joseph H. Lewis",
+          "annee": 1942,
+          "duree": 67,
+          "generique": "Anna May Wong, Noel Madison, Leslie Denison",
+          "miniTexte": "1942. Une institutrice chinoise tente de démasquer le traître infiltré au sein d'un groupe de résistants, qui protège des Japonais une route stratégique entre la Chine et la Birmanie. Un film de guerre aux accents exotiques, course contre la montre tendue, dans laquelle Lewis filme champs de bataille et assauts aériens avec efficacité. Dans le cadre de l'effort de guerre, Anna May Wong fit don de son salaire pour United China Relief.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29193,
+              "duree": 67,
+              "format": "Numérique",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
+            }
+          ]
         }
       ]
     }
