@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-14T11:13:39.186Z",
+  "updatedAt": "2025-01-14T12:08:29.445Z",
   "data": [
     {
       "idSeance": 185394,
@@ -21,17 +21,20 @@
           "ordre": 1,
           "idFilm": 155166,
           "titre": "Ata",
-          "realisateurs": "Guillaume Giovanetti, Cagla Zencirci",
-          "annee": 2007,
+          "realisateurs": "Çağla Zencirci, Guillaume Giovanetti",
+          "annee": 2008,
+          "dureeStd": 26,
           "duree": 26,
-          "status": 0,
+          "generique": "Ceyda Bakbasa, Ahatjan Ali",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29543,
               "duree": 26,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 134578
         },
         {
           "ordre": 2,
@@ -39,8 +42,10 @@
           "titre": "Nikkah",
           "realisateurs": "Mukkadas Mijit, Bastien Ehouzan",
           "annee": 2022,
+          "dureeStd": 55,
           "duree": 55,
-          "status": 0,
+          "generique": "Guzalnur Uchqun",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29544,
@@ -49,7 +54,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 326481
         }
       ]
     },
@@ -833,7 +839,7 @@
       ],
       "idEvenement": 31877,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-11T20:00:00",
+      "dateHeure": "2025-04-11T20:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3947,7 +3953,8 @@
               "duree": 100,
               "format": "Numérique",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 28032
@@ -4047,13 +4054,7 @@
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "Autres",
-              "selected": true
-            },
-            {
-              "idCopie": 29289,
-              "duree": 113,
-              "version": "VO",
-              "langCopie": "ENG"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 18465
@@ -4095,14 +4096,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "selected": true
-            },
-            {
-              "idCopie": 29299,
-              "duree": 101,
-              "format": "16 mm",
-              "version": "VO",
-              "langCopie": "ENG"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 48653
@@ -4240,7 +4234,8 @@
               "duree": 92,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 1060
@@ -4281,7 +4276,8 @@
               "duree": 92,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 1060
@@ -4320,25 +4316,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29287,
+              "idCopie": 29446,
               "duree": 72,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "selected": true
-            },
-            {
-              "idCopie": 29465,
-              "duree": 72,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
-              "idCopie": 29446,
-              "duree": 72,
-              "version": "VO",
-              "langCopie": "ENG"
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 945
@@ -4377,25 +4360,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29287,
+              "idCopie": 29446,
               "duree": 72,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "selected": true
-            },
-            {
-              "idCopie": 29465,
-              "duree": 72,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
-              "idCopie": 29446,
-              "duree": 72,
-              "version": "VO",
-              "langCopie": "ENG"
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 945
@@ -4439,11 +4409,7 @@
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "Autres",
-              "selected": true
-            },
-            {
-              "idCopie": 29333,
-              "duree": 135
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 54553
@@ -4523,7 +4489,8 @@
               "duree": 69,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 59778
@@ -4788,9 +4755,10 @@
             {
               "idCopie": 29294,
               "duree": 98,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 108894
@@ -4825,19 +4793,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29295,
-              "duree": 81,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "selected": true
-            },
-            {
               "idCopie": 29462,
               "duree": 81,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 108889
@@ -5023,7 +4984,7 @@
       ],
       "idEvenement": 32004,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-04T20:45:00",
+      "dateHeure": "2025-05-04T20:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -5087,7 +5048,8 @@
               "duree": 104,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 43257
@@ -5129,7 +5091,8 @@
               "duree": 104,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 43257
@@ -5363,14 +5326,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "selected": true
-            },
-            {
-              "idCopie": 29510,
-              "duree": 70,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 11121
@@ -5412,14 +5368,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "selected": true
-            },
-            {
-              "idCopie": 29510,
-              "duree": 70,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 11121
@@ -8442,47 +8391,6 @@
       ]
     },
     {
-      "idSeance": 187996,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 974,
-          "idCategorie": 3673,
-          "titreCycle": "Anna May Wong",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32117,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-04T17:30:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 59132,
-          "titre": "Dame de Tchoung-King",
-          "art": "La",
-          "titreVo": "Lady from Chungking",
-          "realisateurs": "William Nigh",
-          "annee": 1942,
-          "duree": 66,
-          "generique": "Anna May Wong, Harold Huber, Mae Clarke",
-          "miniTexte": "Seconde Guerre mondiale : une jeune Chinoise mène l'insurrection d'une bande de partisans pour protéger son pays de l'envahisseur japonais. Une série B maligne qui joue de la métaphore – chaque personnage représente un des pays belligérants –, et où Anna May Wong (qui offre son cachet) flamboie dans un monologue final pour la défense des libertés.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29522,
-              "duree": 66,
-              "format": "Numérique",
-              "version": "VO",
-              "langCopie": "ENG",
-              "stDemande": true
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 187995,
       "idProg": 334,
       "idCycleCategories": [
@@ -9429,7 +9337,7 @@
       ],
       "idEvenement": 32145,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-16T20:30:00",
+      "dateHeure": "2025-03-16T20:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -9632,7 +9540,7 @@
       ],
       "idEvenement": 32151,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-16T17:30:00",
+      "dateHeure": "2025-03-16T17:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -10164,19 +10072,19 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 785,
-              "duree": 91,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 832,
               "duree": 91,
               "format": "16 mm",
               "version": "VO",
               "langCopie": "GER",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 785,
+              "duree": 91,
+              "format": "35 mm",
+              "version": "VO",
               "sousTitres": "STF"
             }
           ],
@@ -13680,7 +13588,7 @@
           "duree": 105,
           "generique": "Betty Bronson, Ernest Torrence, Anna May Wong",
           "adaptation": "D'après la pièce _Peter Pan_ de J. M. Barrie.",
-          "miniTexte": "La première adaptation de la pièce de J. M. Barrie, fable pleine de charme sur le refus de grandir. Anna May Wong interprète Lily la Tigresse, fille du chef de la tribu indienne de Neverland. Idée de génie, Peter Pan est joué par une fille (lumineuse Betty Bronson), qui embrasse une autre fille, (innocente ?) transgression, osée, en 1924.",
+          "miniTexte": "La première adaptation de la pièce de J. M. Barrie, fable pleine de charme sur le refus de grandir. Anna May Wong interprète Lily la Tigresse, fille du chef de la tribu indienne de Neverland. Idée de génie, Peter Pan est joué par une fille (lumineuse Betty Bronson), qui embrasse une autre fille, transgression osée en 1924.",
           "status": 2,
           "copies": [
             {
@@ -15591,6 +15499,45 @@
         }
       ],
       "mention": "Séance suivie d'une discussion avec Hefse Guiro"
+    },
+    {
+      "idSeance": 190365,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3673,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32714,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-04T17:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155165,
+          "titre": "Hai-Tang",
+          "realisateurs": "Richard Eichberg",
+          "annee": 1930,
+          "duree": 78,
+          "generique": "Anna May Wong, Marcel Vibert, Robert Ancelin",
+          "miniTexte": "Dans la Russie tsariste, deux hommes tombent amoureux d'une jeune Chinoise. Le premier film parlant d'Anna May Wong, et une forme d'exploit puisque – coproduction oblige – l'actrice tourna chaque scène dans trois langues différentes (français, allemand et anglais).",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29533,
+              "duree": 78,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 185743,
