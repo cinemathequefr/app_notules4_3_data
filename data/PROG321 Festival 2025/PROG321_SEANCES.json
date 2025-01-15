@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-14T10:52:20.972Z",
+  "updatedAt": "2025-01-15T09:36:14.257Z",
   "data": [
     {
       "idSeance": 188170,
@@ -1061,7 +1061,7 @@
           "annee": 1987,
           "duree": 107,
           "generique": "Arnold Schwarzenegger, Carl Weathers, Elpidia Carrillo",
-          "miniTexte": "Dans une jungle d'Amérique centrale, une mission de sauvetage tourne à la confrontation avec une terrifiante créature extraterrestre. Thriller, horreur et science-fiction dans un _survival_ haletant, dont l'atmosphère paranoïaque va crescendo jusqu'au final, saisissant de brutalité. « S'il peut saigner, on peut le tuer ! » : le premier volet de la franchise, porté par Arnold Schwarzenegger et ses punchlines d'anthologie.",
+          "miniTexte": "Dans une jungle d'Amérique centrale, une mission de sauvetage tourne à la confrontation avec une terrifiante créature extraterrestre. Thriller, horreur et science-fiction dans un _survival_ haletant, dont l'atmosphère paranoïaque va _crescendo_ jusqu'au final, saisissant de brutalité. « S'il peut saigner, on peut le tuer ! » : le premier volet de la franchise, porté par Arnold Schwarzenegger et ses punchlines d'anthologie.",
           "status": 2,
           "copies": [
             {
@@ -1414,12 +1414,18 @@
           "idCategorie": 3654,
           "titreCycle": "Restaurations et incunables",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 957,
+          "idCategorie": 3750,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32315,
-      "typeEvenement": 13,
       "dateHeure": "2025-03-06T20:00:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -1440,6 +1446,13 @@
             }
           ],
           "idFilmBoxoffice": 29044
+        },
+        {
+          "ordre": 2,
+          "idConf": 32664,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Jacques Audiard",
+          "duree": 75
         }
       ]
     },
@@ -1885,12 +1898,18 @@
           "idCategorie": 3709,
           "titreCycle": "Susan Seidelman",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 987,
+          "idCategorie": 3743,
+          "titreCycle": "Susan Seidelman",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32385,
-      "typeEvenement": 13,
       "dateHeure": "2025-03-09T15:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -1912,6 +1931,13 @@
             }
           ],
           "idFilmBoxoffice": 28233
+        },
+        {
+          "ordre": 2,
+          "idConf": 32553,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Susan Seidelman",
+          "duree": 75
         }
       ]
     },
@@ -1939,7 +1965,7 @@
           "annee": 1982,
           "duree": 89,
           "generique": "Richard Hell, Susan Berman",
-          "miniTexte": "Dès son premier long métrage, sélectionné à Cannes, Seidelman redéfinit l'image du personnage féminin, indocile et déterminée, qu'elle établit dans le New York mal famé des années 80. Comme une grande sœur de Susan dans le film suivant, l'égocentrique Wren, lunettes noires et bas résilles, cherche sa place dans les milieux underground de la ville, entre un musicien cynique et un gentil provincial. Une œuvre âpre, rugueuse, frénétique, à l'image de la BO signée The Feelies.",
+          "miniTexte": "Dès son premier long métrage, sélectionné à Cannes, Seidelman redéfinit l'image du personnage féminin, indocile et déterminée, qu'elle établit dans le New York mal famé des années 80. Comme une grande sœur de Susan dans le film suivant, l'égocentrique Wren, lunettes noires et bas résilles, cherche sa place dans les milieux _underground_ de la ville, entre un musicien cynique et un gentil provincial. Une œuvre âpre, rugueuse, frénétique, à l'image de la BO signée The Feelies.",
           "status": 2,
           "copies": [
             {
@@ -2021,7 +2047,7 @@
           "annee": 1987,
           "duree": 98,
           "generique": "John Malkovich, Ann Magnuson, Glenne Headly",
-          "miniTexte": "Une experte en communication, chargée d'humaniser un androïde, finit par tomber amoureuse du robot, plus sensible que son créateur misanthrope. Fidèle à ses héroïnes en quête d'émancipation, Seidelman transforme une _omcom high-tech en une satire décalée qui résonne comme une réflexion visionnaire sur l'amour à l'heure de l'intelligence artificielle et des luttes contre le patriarcat.",
+          "miniTexte": "Une experte en communication, chargée d'humaniser un androïde, finit par tomber amoureuse du robot, plus sensible que son créateur misanthrope. Fidèle à ses héroïnes en quête d'émancipation, Seidelman transforme une _romcom high-tech_ en une satire décalée, qui résonne comme une réflexion visionnaire sur l'amour à l'heure de l'intelligence artificielle et des luttes contre le patriarcat.",
           "status": 2,
           "copies": [
             {
@@ -2131,12 +2157,18 @@
           "idCategorie": 3712,
           "titreCycle": "Pedro Costa",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 990,
+          "idCategorie": 3742,
+          "titreCycle": "Pedro Costa",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32391,
-      "typeEvenement": 13,
       "dateHeure": "2025-03-08T19:30:00",
       "idSalle": "GF",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -2159,6 +2191,13 @@
             }
           ],
           "idFilmBoxoffice": 8150
+        },
+        {
+          "ordre": 2,
+          "idConf": 32551,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Pedro Costa",
+          "duree": 90
         }
       ]
     },
@@ -2447,12 +2486,18 @@
           "idCategorie": 3689,
           "titreCycle": "John McTiernan",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 982,
+          "idCategorie": 3741,
+          "titreCycle": "John McTiernan",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32492,
-      "typeEvenement": 13,
       "dateHeure": "2025-03-08T14:00:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -2478,6 +2523,13 @@
             }
           ],
           "idFilmBoxoffice": 20498
+        },
+        {
+          "ordre": 2,
+          "idConf": 32550,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec John McTiernan",
+          "duree": 75
         }
       ]
     },
@@ -2930,60 +2982,6 @@
       ]
     },
     {
-      "idSeance": 188339,
-      "idProg": 321,
-      "idCycleCategories": [
-        {
-          "idCycle": 982,
-          "idCategorie": 3741,
-          "titreCycle": "John McTiernan",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 32550,
-      "typeEvenement": 14,
-      "dateHeure": "2025-03-08T16:00:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 60,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 32550,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec John McTiernan",
-          "duree": 60
-        }
-      ]
-    },
-    {
-      "idSeance": 190352,
-      "idProg": 321,
-      "idCycleCategories": [
-        {
-          "idCycle": 990,
-          "idCategorie": 3742,
-          "titreCycle": "Pedro Costa",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 32551,
-      "typeEvenement": 14,
-      "dateHeure": "2025-03-08T21:00:00",
-      "typeConference": "Dialogue",
-      "idSalle": "GF",
-      "duree": 90,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 32551,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Pedro Costa",
-          "duree": 90
-        }
-      ]
-    },
-    {
       "idSeance": 188298,
       "idProg": 321,
       "idCycleCategories": [
@@ -3020,33 +3018,6 @@
               "sousTitres": "STF"
             }
           ]
-        }
-      ]
-    },
-    {
-      "idSeance": 188340,
-      "idProg": 321,
-      "idCycleCategories": [
-        {
-          "idCycle": 987,
-          "idCategorie": 3743,
-          "titreCycle": "Susan Seidelman",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 32553,
-      "typeEvenement": 14,
-      "dateHeure": "2025-03-09T17:30:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 75,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 32553,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Susan Seidelman",
-          "duree": 75
         }
       ]
     },
@@ -3852,33 +3823,6 @@
             }
           ],
           "idFilmBoxoffice": 147575
-        }
-      ]
-    },
-    {
-      "idSeance": 188337,
-      "idProg": 321,
-      "idCycleCategories": [
-        {
-          "idCycle": 957,
-          "idCategorie": 3750,
-          "titreCycle": "Restaurations et incunables",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 32664,
-      "typeEvenement": 14,
-      "dateHeure": "2025-03-06T22:00:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 75,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 32664,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Jacques Audiard",
-          "duree": 75
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-14T09:36:39.249Z",
+  "updatedAt": "2025-01-15T09:36:42.043Z",
   "data": [
     {
       "idSeance": 185115,
@@ -10152,12 +10152,18 @@
           "idCategorie": 3466,
           "titreCycle": "Éric Demarsan",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 812,
+          "idCategorie": 3624,
+          "titreCycle": "Éric Demarsan",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31447,
-      "typeEvenement": 13,
       "dateHeure": "2025-01-18T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -10181,6 +10187,13 @@
             }
           ],
           "idFilmBoxoffice": 4248
+        },
+        {
+          "ordre": 2,
+          "idConf": 31648,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Éric Demarsan",
+          "duree": 105
         }
       ]
     },
@@ -15043,33 +15056,6 @@
         }
       ],
       "mention": "Séance présentée par Bernard Payen"
-    },
-    {
-      "idSeance": 184899,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 812,
-          "idCategorie": 3624,
-          "titreCycle": "Éric Demarsan",
-          "titreSousCycle": "Rencontres et conférences"
-        }
-      ],
-      "idEvenement": 31648,
-      "typeEvenement": 14,
-      "dateHeure": "2025-01-18T17:00:00",
-      "typeConference": "Dialogue",
-      "idSalle": "HL",
-      "duree": 90,
-      "items": [
-        {
-          "ordre": 1,
-          "idConf": 31648,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Éric Demarsan",
-          "duree": 90
-        }
-      ]
     },
     {
       "idSeance": 137948,

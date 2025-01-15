@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-14T15:36:06.155Z",
+  "updatedAt": "2025-01-15T10:43:45.358Z",
   "data": [
     {
       "idSeance": 185394,
@@ -15635,8 +15635,47 @@
             }
           ]
         }
+      ]
+    },
+    {
+      "idSeance": 186902,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 974,
+          "idCategorie": 3722,
+          "titreCycle": "Anna May Wong",
+          "titreSousCycle": "Autour d'Anna May Wong"
+        }
       ],
-      "mention": "Séance présentée par Emilie Cauquy"
+      "idEvenement": 32722,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-05T16:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155164,
+          "titre": "Babylon",
+          "realisateurs": "Damien Chazelle",
+          "annee": 2022,
+          "duree": 189,
+          "generique": "Margot Robbie, Jean Smart, Brad Pitt, Li Jun Li",
+          "miniTexte": "À travers le destin tragique de stars fictives du muet, parmi lesquelles on reconnaît aisément Clara Bow, Erich von Stroheim, Dorothy Arzner ou Anna May Wong, Damien Chazelle plonge dans les remugles du Hollywood des premiers temps, et signe un film monstre, frénétique, dont les géniales outrances évoquent plus les fables décadentes de Kenneth Anger (_Hollywood Babylone_) que les ouvrages d'histoire du cinéma.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29528,
+              "duree": 189,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 275675
+        }
+      ]
     },
     {
       "idSeance": 190364,
