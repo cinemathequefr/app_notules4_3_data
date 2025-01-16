@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-15T10:43:45.358Z",
+  "updatedAt": "2025-01-15T11:09:30.850Z",
   "data": [
     {
       "idSeance": 185394,
@@ -14976,18 +14976,18 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 29069,
+              "duree": 58,
+              "format": "35 mm",
+              "intertitres": "INT. ALL.",
+              "selected": true
+            },
+            {
               "idCopie": 29390,
               "duree": 58,
               "format": "35 mm",
               "intertitres": "INT. ALL.",
-              "stDemande": true,
-              "selected": true
-            },
-            {
-              "idCopie": 29069,
-              "duree": 58,
-              "format": "35 mm",
-              "intertitres": "INT. ALL."
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 14433
@@ -15563,6 +15563,7 @@
           "realisateurs": "Ernst Lubitsch",
           "annee": 1916,
           "duree": 26,
+          "generique": "Harry Liedtke, Max Gülstorff, Ossi Oswalda, Ernst Lubitsch",
           "miniTexte": "Les fiançailles d'un lieutenant, perturbées par les plaisanteries de ses camarades. Le dernier film de Lubitsch acteur, avant qu'il ne passe à la réalisation.",
           "status": 2,
           "copies": [
@@ -15593,44 +15594,6 @@
               "duree": 60,
               "format": "35 mm",
               "intertitres": "INT. ALL.",
-              "stDemande": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 186944,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 974,
-          "idCategorie": 3722,
-          "titreCycle": "Anna May Wong",
-          "titreSousCycle": "Autour d'Anna May Wong"
-        }
-      ],
-      "idEvenement": 32721,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-07T19:00:00",
-      "idSalle": "JE",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 155099,
-          "titre": "Anna May Wong, Frosted Yellow Willows: Her Life, Times and Legend",
-          "realisateurs": "Elaine Mae Woo",
-          "annee": 2007,
-          "generique": "Anna May Wong",
-          "miniTexte": "Porté par la voix off de Nancy Kwan, un documentaire inédit, truffé de documents rares, qui revient sur le parcours d'Anna May Wong, première actrice d'origine asiatique à signer un contrat avec un grand studio.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29239,
-              "duree": 0,
-              "format": "Numérique",
-              "version": "VO",
-              "langCopie": "ENG",
               "stDemande": true
             }
           ]
