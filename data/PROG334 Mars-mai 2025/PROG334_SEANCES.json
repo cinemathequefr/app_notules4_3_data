@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-15T11:09:30.850Z",
+  "updatedAt": "2025-01-16T14:40:33.639Z",
   "data": [
     {
       "idSeance": 185394,
@@ -723,7 +723,7 @@
           "titreVo": "Man Without a Star",
           "realisateurs": "King Vidor",
           "annee": 1955,
-          "duree": 87,
+          "duree": 89,
           "generique": "Kirk Douglas, Jeanne Crain, Claire Trevor",
           "adaptation": "D'après le roman _L'Homme qui n'a pas d'étoile_ de Dee Linford.",
           "synopsis": "Dans une petite ville de l'Ouest, Demsey Rae est engagé dans le ranch appartenant à la séduisante Reed Bowman.",
@@ -732,7 +732,7 @@
           "copies": [
             {
               "idCopie": 20050,
-              "duree": 87,
+              "duree": 89,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
@@ -1119,6 +1119,7 @@
               "duree": 133,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "stDemande": true
             }
           ],
@@ -2593,7 +2594,7 @@
             {
               "idCopie": 11317,
               "duree": 110,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -3084,15 +3085,15 @@
           "artVo": "The",
           "realisateurs": "Wes Anderson",
           "annee": 2004,
-          "duree": 118,
+          "duree": 119,
           "generique": "Bill Murray, Owen Wilson, Anjelica Huston",
           "miniTexte": "Génial Bill Murray dans le rôle de Steve Zissou, océanographe intrépide aux commandes du Belafonte, parti venger son partenaire dévoré par un requin-jaguar. Rythmée par le rock de Devo et les reprises de Bowie en brésilien, une épopée sous-marine déjantée, dédiée au commandant Cousteau.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 29330,
-              "duree": 118,
-              "format": "35 mm",
+              "idCopie": 28976,
+              "duree": 119,
+              "format": "DCP",
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
@@ -3127,15 +3128,15 @@
           "artVo": "The",
           "realisateurs": "Wes Anderson",
           "annee": 2004,
-          "duree": 118,
+          "duree": 119,
           "generique": "Bill Murray, Owen Wilson, Anjelica Huston",
           "miniTexte": "Génial Bill Murray dans le rôle de Steve Zissou, océanographe intrépide aux commandes du Belafonte, parti venger son partenaire dévoré par un requin-jaguar. Rythmée par le rock de Devo et les reprises de Bowie en brésilien, une épopée sous-marine déjantée, dédiée au commandant Cousteau.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 29330,
-              "duree": 118,
-              "format": "35 mm",
+              "idCopie": 28976,
+              "duree": 119,
+              "format": "DCP",
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
@@ -3647,7 +3648,7 @@
       ]
     },
     {
-      "idSeance": 188183,
+      "idSeance": 190378,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -3951,10 +3952,11 @@
             {
               "idCopie": 29331,
               "duree": 100,
-              "format": "Numérique",
+              "format": "DCP",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF"
+              "sousTitres": "STF",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 28032
@@ -6040,7 +6042,7 @@
             {
               "idCopie": 4538,
               "duree": 124,
-              "format": "35 mm",
+              "format": "DCP",
               "langCopie": "GER",
               "intertitres": "INT. FR."
             }
@@ -6282,7 +6284,7 @@
       ]
     },
     {
-      "idSeance": 190350,
+      "idSeance": 190382,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -6294,7 +6296,7 @@
       ],
       "idEvenement": 32050,
       "typeEvenement": 13,
-      "dateHeure": "2025-04-20T17:59:00",
+      "dateHeure": "2025-03-30T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6324,7 +6326,7 @@
       "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
-      "idSeance": 188442,
+      "idSeance": 190381,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -6336,7 +6338,7 @@
       ],
       "idEvenement": 32052,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-30T19:30:00",
+      "dateHeure": "2025-04-20T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6362,8 +6364,7 @@
           ],
           "idFilmBoxoffice": 9358
         }
-      ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
+      ]
     },
     {
       "idSeance": 185997,
@@ -6430,7 +6431,7 @@
           "titreVo": "Cluny Brown",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1946,
-          "duree": 99,
+          "duree": 100,
           "generique": "Jennifer Jones, Charles Boyer, Peter Lawford",
           "adaptation": "D'après le roman _Cluny Brown_ de Margery Sharp.",
           "synopsis": "La jeune et pétulante Cluny Brown remplace son oncle plombier pour une intervention chez Hilary Ames. Elle y fait la connaissance d'un séduisant réfugié tchèque, pique-assiette et philosophe.",
@@ -6438,29 +6439,7 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 21129,
-              "duree": 99,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 21130,
-              "duree": 100,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 29417,
-              "duree": 100,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 29418,
               "duree": 100,
               "format": "35 mm",
               "version": "VO",
@@ -6495,7 +6474,7 @@
           "titreVo": "Cluny Brown",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1946,
-          "duree": 99,
+          "duree": 100,
           "generique": "Jennifer Jones, Charles Boyer, Peter Lawford",
           "adaptation": "D'après le roman _Cluny Brown_ de Margery Sharp.",
           "synopsis": "La jeune et pétulante Cluny Brown remplace son oncle plombier pour une intervention chez Hilary Ames. Elle y fait la connaissance d'un séduisant réfugié tchèque, pique-assiette et philosophe.",
@@ -6503,29 +6482,7 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 21129,
-              "duree": 99,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 21130,
-              "duree": 100,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 29417,
-              "duree": 100,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 29418,
               "duree": 100,
               "format": "35 mm",
               "version": "VO",
@@ -6650,7 +6607,8 @@
             {
               "idCopie": 29342,
               "duree": 104,
-              "format": "DCP"
+              "format": "DCP",
+              "intertitres": "INT. FR."
             }
           ],
           "idFilmBoxoffice": 32356
@@ -7175,7 +7133,7 @@
             {
               "idCopie": 29083,
               "duree": 98,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -7216,7 +7174,7 @@
             {
               "idCopie": 29083,
               "duree": 98,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -7256,13 +7214,6 @@
             {
               "idCopie": 29420,
               "duree": 60,
-              "format": "35 mm",
-              "intertitres": "INT. FR.",
-              "selected": true
-            },
-            {
-              "idCopie": 25373,
-              "duree": 70,
               "format": "35 mm",
               "intertitres": "INT. FR."
             }
@@ -7431,15 +7382,6 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 16490,
-              "duree": 110,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ],
@@ -7479,15 +7421,6 @@
               "idCopie": 13394,
               "duree": 110,
               "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 16490,
-              "duree": 110,
-              "format": "DCP",
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "STF"
@@ -7742,7 +7675,8 @@
             {
               "idCopie": 29328,
               "duree": 58,
-              "format": "DCP"
+              "format": "DCP",
+              "intertitres": "INT. FR."
             }
           ],
           "idFilmBoxoffice": 846
@@ -8014,7 +7948,9 @@
             {
               "idCopie": 11457,
               "duree": 76,
-              "format": "35 mm"
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 719
@@ -8053,7 +7989,9 @@
             {
               "idCopie": 11457,
               "duree": 76,
-              "format": "35 mm"
+              "format": "35 mm",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 719
@@ -9243,7 +9181,8 @@
           ],
           "idFilmBoxoffice": 91057
         }
-      ]
+      ],
+      "mention": "Séance présentée par Payen Bernard"
     },
     {
       "idSeance": 190357,
@@ -10969,6 +10908,47 @@
             }
           ],
           "idFilmBoxoffice": 204
+        }
+      ]
+    },
+    {
+      "idSeance": 190377,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32193,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-10T15:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 41099,
+          "titre": "Travail au noir",
+          "titreVo": "Moonlighting",
+          "realisateurs": "Jerzy Skolimowski",
+          "annee": 1982,
+          "duree": 97,
+          "generique": "Jeremy Irons, Eugene Lipinski, Jiří Stanislav",
+          "miniTexte": "À travers le portrait de trois ouvriers polonais et de leur contremaître venus travailler au noir à Londres, Skolimowski livre une réflexion subtile et complexe, amusée et douloureuse, sur le monde brutal de l'Occident, en même temps qu'il dénonce la situation politique en Pologne au début des années 80.",
+          "commentaire": "Jerzy Skolimowski réalise _Travail au noir_ en réaction à la grave crise qui éclate dans son pays en décembre 1981. Le Parti communiste au pouvoir a instauré la loi martiale face à la montée du tout jeune syndicat Solidarność. Le cinéaste vit alors en exil à Londres. Il réunit chez lui quatre scénaristes qui doivent composer un récit à partir de ses indications. Il cherche un acteur pour le rôle principal, celui du contremaître Nowak. Il contacte Jeremy Irons. Le film devra se faire en quelques semaines car Irons est enthousiaste mais doit tourner un mois plus tard pour une autre production. Après une scène d'exposition à l'aéroport de Londres, _Travail au noir_ se déploie dans un espace réduit, un quartier résidentiel de la ville. Trois ouvriers polonais et leur contremaître se trouvent coincés entre une maison à rénover, le supermarché voisin et quelques commerces du quartier. Dans ce petit périmètre, Skolimowski se livre à une réflexion subtile et complexe, amusée et douloureuse, sur le monde contemporain. Nowak et ses ouvriers sont coupés de leurs épouses ou familles, mais aussi du drame que traverse la Pologne. L'événement n'apparaît à Nowak que par les images froides de téléviseurs en vitrine. Il parle à une photographie de sa femme et l'imagine jusqu'à l'obsession dans les bras de son patron. Mais la petite troupe venue de l'Est fait aussi la découverte brutale de l'Occident : ses cadences de travail infernales (les accidents de chantier et les manipulations de Nowak), son individualisme radical (la mesquinerie des voisins londoniens), la prégnance de la surveillance et l'insécurité qu'elle engendre (les scènes récurrentes de vol à la supérette), une société où les individus se font tous concurrence.\n\nPauline de Raymond",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29126,
+              "duree": 97,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 321
         }
       ]
     },
@@ -13596,7 +13576,6 @@
               "idCopie": 29437,
               "duree": 105,
               "format": "35 mm",
-              "version": "VO",
               "intertitres": "INT. ANG.",
               "stDemande": true
             }
@@ -13747,7 +13726,9 @@
           "copies": [
             {
               "idCopie": 29264,
-              "duree": 61
+              "duree": 61,
+              "format": "DCP",
+              "version": "VF"
             }
           ],
           "idFilmBoxoffice": 256964
@@ -13871,7 +13852,9 @@
           "copies": [
             {
               "idCopie": 29263,
-              "duree": 80
+              "duree": 80,
+              "format": "DCP",
+              "version": "VF"
             }
           ],
           "idFilmBoxoffice": 427
@@ -15155,7 +15138,8 @@
             {
               "idCopie": 29327,
               "duree": 38,
-              "format": "DCP"
+              "format": "DCP",
+              "intertitres": "INT. FR."
             }
           ],
           "idFilmBoxoffice": 27337
@@ -15175,7 +15159,8 @@
             {
               "idCopie": 29343,
               "duree": 44,
-              "format": "DCP"
+              "format": "DCP",
+              "intertitres": "INT. FR."
             }
           ],
           "idFilmBoxoffice": 10400
@@ -15304,7 +15289,6 @@
               "idCopie": 29414,
               "duree": 86,
               "format": "35 mm",
-              "version": "VO",
               "langCopie": "FRE"
             }
           ],
