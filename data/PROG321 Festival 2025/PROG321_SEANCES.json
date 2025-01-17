@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-16T13:11:15.495Z",
+  "updatedAt": "2025-01-17T09:45:04.250Z",
   "data": [
     {
       "idSeance": 188170,
@@ -56,7 +56,7 @@
       ],
       "idEvenement": 31790,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-07T14:00:00",
+      "dateHeure": "2025-03-07T17:00:00",
       "idSalle": "HO",
       "items": [
         {
@@ -1181,6 +1181,45 @@
       ]
     },
     {
+      "idSeance": 190383,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32307,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-09T17:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 79113,
+          "titre": "Chatte à deux têtes",
+          "art": "La",
+          "realisateurs": "Jacques Nolot",
+          "annee": 2001,
+          "duree": 87,
+          "generique": "Vittoria Scognamiglio, Jacques Nolot, Sébastien Viala, Fouad Zeraoui",
+          "miniTexte": "Dans un cinéma porno de Pigalle, Nolot filme à huis clos la naissance d'un triangle amoureux. De la fascination au trouble, il capte la frustration sexuelle, la solitude et l'hypocrisie d'un milieu étrange, où des hommes en pleine misère affective poursuivent leur quête de jouissance.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29131,
+              "duree": 87,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 28583
+        }
+      ]
+    },
+    {
       "idSeance": 188234,
       "idProg": 321,
       "idCycleCategories": [
@@ -1533,8 +1572,8 @@
       ],
       "idEvenement": 32316,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T14:00:00",
-      "idSalle": "LE",
+      "dateHeure": "2025-03-06T15:00:00",
+      "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
@@ -3077,10 +3116,9 @@
             {
               "idCopie": 29385,
               "duree": 65,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VO",
-              "langCopie": "JPN",
-              "sousTitres": "STF"
+              "langCopie": "JPN"
             }
           ]
         }
@@ -3421,8 +3459,8 @@
       ],
       "idEvenement": 32584,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-07T15:00:00",
-      "idSalle": "JE",
+      "dateHeure": "2025-03-06T14:00:00",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -3546,7 +3584,7 @@
       ],
       "idEvenement": 32641,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T12:00:00",
+      "dateHeure": "2025-03-05T19:00:00",
       "idSalle": "HO",
       "items": [
         {
@@ -3783,7 +3821,7 @@
       ],
       "idEvenement": 32653,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T12:00:00",
+      "dateHeure": "2025-03-09T19:00:00",
       "idSalle": "HO",
       "items": [
         {
@@ -3823,7 +3861,7 @@
       ],
       "idEvenement": 32654,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T12:00:00",
+      "dateHeure": "2025-03-08T14:00:00",
       "idSalle": "HO",
       "items": [
         {

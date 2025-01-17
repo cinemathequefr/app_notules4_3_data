@@ -1,0 +1,111 @@
+{
+  "updatedAt": "2025-01-17T09:45:00.449Z",
+  "data": [
+    {
+      "idSeance": 188762,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 3754,
+          "titreCycle": "Fenêtre sur les collections",
+          "titreSousCycle": "Yukio Mishima"
+        }
+      ],
+      "idEvenement": 32736,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-06T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155170,
+          "titre": "Soldats japonais",
+          "realisateurs": "Inconnu Inconnu,",
+          "annee": 1905,
+          "duree": 2,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29548,
+              "duree": 2,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 155171,
+          "titre": "Entretien avec Yukio Mishima",
+          "realisateurs": "Jean-Claude Courdy",
+          "annee": 1966,
+          "duree": 11,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29549,
+              "duree": 11,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 83250,
+          "titre": "Rites d'amour et de mort",
+          "titreVo": "Yukoku",
+          "realisateurs": "Yukio Mishima",
+          "annee": 1965,
+          "duree": 28,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29550,
+              "duree": 28,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188761,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 3754,
+          "titreCycle": "Fenêtre sur les collections",
+          "titreSousCycle": "Yukio Mishima"
+        }
+      ],
+      "idEvenement": 32739,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-06T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36473,
+          "titre": "Mishima",
+          "realisateurs": "Paul Schrader",
+          "annee": 1984,
+          "duree": 119,
+          "generique": "Ken Ogata, Kenji Sawada, Yasosuke Bando",
+          "synopsis": "Le récit fictionnel en quatre chapitres de la vie du grand écrivain japonais Yukio Mishima.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29547,
+              "duree": 119,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

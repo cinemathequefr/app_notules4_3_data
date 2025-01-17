@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-16T14:40:33.639Z",
+  "updatedAt": "2025-01-17T09:44:55.430Z",
   "data": [
     {
       "idSeance": 185394,
@@ -57,7 +57,8 @@
           ],
           "idFilmBoxoffice": 326481
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec Cagla Zencirci et Guillaume Giovanetti"
     },
     {
       "idSeance": 188166,
@@ -94,7 +95,8 @@
           ],
           "idFilmBoxoffice": 284851
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec Juliana Rojas"
     },
     {
       "idSeance": 186263,
@@ -2050,7 +2052,7 @@
           "annee": 1953,
           "duree": 92,
           "generique": "Massimo Girotti, Giulietta Masina, Marina Berti, Michel Jourdan",
-          "miniTexte": "Un chômeur est injustement accusé du meurtre d'une jeune femme. Alors qu'un témoignage l'accable, un avocat accepte de prendre sa défense. En plein courant néoréaliste, un film de procès qui milite pour l'égalité de traitement face à la justice, quelle que soit sa condition sociale. Épatante Giulietta Masina, ici dans un second rôle, mais qui irradie déjà à l'écran.",
+          "miniTexte": "Un chômeur est injustement accusé du meurtre d'une jeune femme. Alors qu'un témoignage l'accable, un avocat accepte de prendre sa défense. En plein courant néoréaliste, un film de procès qui milite pour l'égalité de traitement face à la justice, quelle que soit sa condition sociale. Giulietta Masina, ici dans un second rôle, irradie déjà à l'écran.",
           "status": 2,
           "copies": [
             {
@@ -2631,7 +2633,7 @@
           "titre": "Fantastic Mr. Fox",
           "realisateurs": "Wes Anderson",
           "annee": 2009,
-          "duree": 88,
+          "duree": 87,
           "generique": "George Clooney, Meryl Streep, Bill Murray",
           "adaptation": "D'après le roman _Fantastique Maître Renard_ de Roald Dahl.",
           "ageMinimal": 6,
@@ -2641,12 +2643,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 7527,
-              "duree": 88,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF"
+              "idCopie": 9461,
+              "duree": 87,
+              "format": "35 mm",
+              "version": "VF",
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 114976
@@ -3476,25 +3477,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 2404,
-              "duree": 96,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29161,
-              "duree": 96,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
               "idCopie": 28288,
               "duree": 96,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 12288
@@ -3579,15 +3566,7 @@
               "duree": 92,
               "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29344,
-              "duree": 92,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ENG"
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 3463
@@ -3632,15 +3611,7 @@
               "duree": 92,
               "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29344,
-              "duree": 92,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ENG"
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 3463
@@ -3727,22 +3698,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 3775,
-              "duree": 184,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 11793,
-              "duree": 155,
-              "format": "DCP",
-              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 3926
@@ -4000,21 +3956,7 @@
               "duree": 174,
               "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 4511,
-              "duree": 174,
-              "format": "70 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
-              "idCopie": 16572,
-              "duree": 174,
-              "format": "35 mm",
-              "version": "VO"
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 238
@@ -4147,7 +4089,8 @@
               "idCopie": 25475,
               "duree": 115,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 88402
@@ -4451,7 +4394,10 @@
             {
               "idCopie": 29337,
               "duree": 93,
-              "format": "35 mm"
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 46536
@@ -4575,7 +4521,8 @@
               "idCopie": 29291,
               "duree": 92,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 108891
@@ -4706,19 +4653,7 @@
               "duree": 112,
               "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 27605,
-              "duree": 112,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG"
-            },
-            {
-              "idCopie": 29463,
-              "duree": 112
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 10433
@@ -4919,7 +4854,7 @@
             {
               "idCopie": 29512,
               "duree": 175,
-              "format": "70 mm",
+              "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
               "sousTitres": "Autres",
@@ -5005,7 +4940,7 @@
             {
               "idCopie": 29288,
               "duree": 72,
-              "format": "Numérique",
+              "format": "DCP",
               "version": "VO",
               "langCopie": "ENG",
               "stDemande": true
@@ -5407,7 +5342,7 @@
           "annee": 1932,
           "duree": 82,
           "generique": "Marlene Dietrich, Clive Brook, Anna May Wong",
-          "miniTexte": "Dans un train lancé à travers la Chine en pleine guerre civile, la sensuelle Shanghaï Lily joue de ses charmes pour sauver un ancien amant, otage du dangereux Chang. Devant la caméra de Sternberg, la muse Dietrich n'a jamais été aussi belle, sublimée par l'époustouflant noir et blanc de Lee Garmes (oscarisé pour sa photo), et Anna May Wong éblouit, dans son premier film parlant. Une mise en scène virtuose et raffinée, l'un des sommets des années 30, où la cruauté le dispute à la sensualité.",
+          "miniTexte": "Dans un train lancé à travers la Chine en pleine guerre civile, la sensuelle Shanghaï Lily joue de ses charmes pour sauver un ancien amant, otage du dangereux Chang. Devant la caméra de Sternberg, la muse Dietrich n'a jamais été aussi belle, sublimée par l'époustouflant noir et blanc de Lee Garmes (oscarisé pour sa photo), et Anna May Wong éblouit. Une mise en scène virtuose et raffinée, l'un des sommets des années 30, où la cruauté le dispute à la sensualité.",
           "status": 2,
           "copies": [
             {
@@ -8740,20 +8675,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 11640,
+              "idCopie": 29552,
               "duree": 105,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 11808,
-              "duree": 105,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ],
@@ -8801,7 +8726,8 @@
               "idCopie": 29051,
               "duree": 91,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 1238
@@ -8880,13 +8806,6 @@
               "idCopie": 29119,
               "duree": 83,
               "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29121,
-              "duree": 83,
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -9092,7 +9011,8 @@
               "idCopie": 29118,
               "duree": 97,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 140179
@@ -9502,6 +9422,7 @@
               "idCopie": 29324,
               "duree": 160,
               "format": "DCP",
+              "version": "VO",
               "stDemande": true
             }
           ],
@@ -9542,7 +9463,7 @@
             {
               "idCopie": 202,
               "duree": 105,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "langCopie": "ITA",
               "sousTitres": "STF"
@@ -9584,7 +9505,6 @@
               "idCopie": 29005,
               "duree": 95,
               "format": "35 mm",
-              "version": "VO",
               "langCopie": "FRE"
             }
           ],
@@ -9751,20 +9671,6 @@
           "copies": [
             {
               "idCopie": 13741,
-              "duree": 115,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "Autres",
-              "selected": true
-            },
-            {
-              "idCopie": 10065,
-              "duree": 115,
-              "format": "35 mm",
-              "version": "VF"
-            },
-            {
-              "idCopie": 10058,
               "duree": 115,
               "format": "35 mm"
             }
@@ -10768,20 +10674,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 22775,
-              "duree": 0,
-              "format": "35 mm",
-              "version": "VO",
               "sousTitres": "STF"
-            },
-            {
-              "idCopie": 29123,
-              "duree": 115,
-              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 30
@@ -11092,10 +10985,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29383,
+              "idCopie": 3854,
               "duree": 122,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "sousTitres": "STF"
             }
           ],
@@ -11482,7 +11376,7 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29523,
+              "idCopie": 29551,
               "duree": 18,
               "format": "DCP",
               "version": "VO",
@@ -11498,33 +11392,18 @@
           "titreVo": "Terra em transe",
           "realisateurs": "Glauber Rocha",
           "annee": 1967,
-          "duree": 107,
+          "duree": 115,
           "generique": "Jardel Filho, Paulo Autran, José Lewgoy",
           "synopsis": "À Eldorado, un homme agonisant évoque son passé politique.",
           "miniTexte": "Une plongée vertigineuse dans les méandres de la politique brésilienne des années 60. Avec l'histoire d'un poète pris dans les dilemmes d'une élection fictive, Rocha dresse un portrait saisissant de la corruption et de l'aliénation politique. Léopard d'or au Festival de Locarno.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 4414,
-              "duree": 107,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "POR",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29042,
-              "duree": 115,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 29325,
               "duree": 115,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 2672
@@ -11558,7 +11437,7 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29523,
+              "idCopie": 29551,
               "duree": 18,
               "format": "DCP",
               "version": "VO",
@@ -11574,33 +11453,18 @@
           "titreVo": "Terra em transe",
           "realisateurs": "Glauber Rocha",
           "annee": 1967,
-          "duree": 107,
+          "duree": 115,
           "generique": "Jardel Filho, Paulo Autran, José Lewgoy",
           "synopsis": "À Eldorado, un homme agonisant évoque son passé politique.",
           "miniTexte": "Une plongée vertigineuse dans les méandres de la politique brésilienne des années 60. Avec l'histoire d'un poète pris dans les dilemmes d'une élection fictive, Rocha dresse un portrait saisissant de la corruption et de l'aliénation politique. Léopard d'or au Festival de Locarno.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 4414,
-              "duree": 107,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "POR",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29042,
-              "duree": 115,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 29325,
               "duree": 115,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 2672
@@ -12154,7 +12018,7 @@
           "realisateurs": "Manuela Serra",
           "annee": 1985,
           "duree": 88,
-          "miniTexte": "Dans un village du nord du Portugal, trois familles, une journée de travail. Le mouvement des choses, une suite de gestes, des éclats de lumières, la mise en scène du temps. Tout le monde est pris dans ses tâches quotidiennes. Rattachés au monde et aux autres, ils vivent dans le présent. Seule Isabel regarde ailleurs, peut-être vers l'avenir. Que voit-elle ? — Patrick Chiha",
+          "miniTexte": "Dans un village du nord du Portugal, trois familles, une journée de travail. Le mouvement des choses, une suite de gestes, des éclats de lumières, la mise en scène du temps. Tout le monde est pris dans ses tâches quotidiennes. Rattachés au monde et aux autres, ils vivent dans le présent. Seule Isabel regarde ailleurs, peut-être vers l'avenir. Que voit-elle ? — Patric Chiha",
           "status": 2,
           "copies": [
             {
@@ -13065,24 +12929,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29187,
-              "duree": 129,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29188,
-              "duree": 129,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 29227,
               "duree": 129,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -14008,9 +13857,19 @@
           "titreNx": "パンダ・コパンダ",
           "realisateurs": "Isao Takahata",
           "annee": 1973,
+          "duree": 81,
           "ageMinimal": 3,
           "synopsisJP": "Une merveille de poésie signée à quatre mains par les empereurs de l'animation japonaise, et l'un de leurs premiers travaux : la fusion de deux courts métrages, qui racontent les aventures d'une fillette et d'un bébé panda. Un incontournable.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 9926,
+              "duree": 81,
+              "format": "35 mm",
+              "version": "VF",
+              "langCopie": "JPN"
+            }
+          ],
           "idFilmBoxoffice": 140987
         }
       ]
@@ -14281,7 +14140,8 @@
               "idCopie": 29265,
               "duree": 25,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ]
         },
@@ -14301,7 +14161,8 @@
               "idCopie": 29266,
               "duree": 17,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ]
         },
@@ -14320,7 +14181,8 @@
               "idCopie": 29267,
               "duree": 35,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
@@ -14445,7 +14307,7 @@
           "titreVo": "A Night in the Show",
           "realisateurs": "Charles Chaplin",
           "annee": 1915,
-          "generique": "Charles Chaplin, Edna Purviance, Leo White, John Rand",
+          "generique": "Charles Chaplin, Edna Purviance",
           "ageMinimal": 6,
           "synopsis": "Une soirée au cabaret avec Charlot dans le rôle du trouble-fête. Adapté du numéro que faisait Chaplin durant ses années de vaudeville, ce film est un torrent de rires et se termine en véritable pugilat pour les malheureux artistes présents sur scène.",
           "synopsisJP": "Trois courts métrages avec Charlot : rendez-vous au cabaret (où Chaplin interprète deux spectateurs radicalement opposés), puis dans une soirée mondaine au cours de laquelle il se fait passer pour un noble, et enfin dans une station thermale, où il tente de se défaire de son alcoolisme.",
@@ -14460,6 +14322,7 @@
           "artVo": "The",
           "realisateurs": "Charles Chaplin",
           "annee": 1916,
+          "generique": "Charles Chaplin",
           "ageMinimal": 6,
           "synopsis": "Êtes-vous sûrs de toujours reconnaître Charlot ? Même sans sa moustache, lorsqu'il se déguise en jeune fille ou quand il se fait passer pour un riche aristocrate ?",
           "status": 2,
@@ -14600,7 +14463,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec Paul Nouhet"
     },
     {
       "idSeance": 185961,
@@ -14635,7 +14499,8 @@
           ],
           "idFilmBoxoffice": 1000006201
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec Antonin Peretjatko"
     },
     {
       "idSeance": 188285,
@@ -15294,7 +15159,8 @@
           ],
           "idFilmBoxoffice": 4421
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec David Depesseville"
     },
     {
       "idSeance": 187473,
@@ -15351,7 +15217,8 @@
           ],
           "idFilmBoxoffice": 9835
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec Yannick Muller"
     },
     {
       "idSeance": 188284,
@@ -15415,11 +15282,21 @@
           "titre": "King Kong",
           "realisateurs": "Merian C. Cooper, Ernest B. Schoedsack",
           "annee": 1933,
+          "duree": 100,
           "generique": "Fay Wray, Robert Armstrong, Bruce Cabot",
           "ageMinimal": 10,
           "synopsis": "Une équipe de cinéastes se rend en Malaisie avec la blonde vedette Ann Darow. Il s'agit d'atteindre Skull Island, une île où les indigènes vénèrent un animal monstrueux, King Kong. À peine arrivée, Ann est capturée par les autochtones qui l'offrent à leur dieu.",
           "synopsisJP": "Un réalisateur tourne un film sur la mystérieuse Île du Crâne, quand son actrice, kidnappée par des indigènes, est offerte à un gorille monstrueux. Le chef-d'œuvre fantastique à l'imagerie ultra célèbre (le primate géant au sommet de l'Empire State Building), qui marquera durablement la culture populaire et donnera lieu à de nombreux remakes.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29436,
+              "duree": 100,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
           "idFilmBoxoffice": 727
         }
       ]
@@ -15622,7 +15499,8 @@
           ],
           "idFilmBoxoffice": 275675
         }
-      ]
+      ],
+      "mention": "Séance présentée par Émilie Cauquy"
     },
     {
       "idSeance": 190364,
