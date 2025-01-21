@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-20T15:27:53.515Z",
+  "updatedAt": "2025-01-21T10:09:35.777Z",
   "data": [
     {
       "idSeance": 188170,
@@ -1392,7 +1392,7 @@
           "idFilmBoxoffice": 30499
         }
       ],
-      "mention": "Accompagnement musical par Nicolas Giraud et Gabriel Cazes"
+      "mention": "Séance présentée par Xavier Jamet. Accompagnement musical par Nicolas Giraud et Gabriel Cazes"
     },
     {
       "idSeance": 185298,
@@ -1407,7 +1407,7 @@
       ],
       "idEvenement": 32312,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-09T16:15:00",
+      "dateHeure": "2025-03-09T17:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1664,7 +1664,7 @@
       ],
       "idEvenement": 32324,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-09T20:00:00",
+      "dateHeure": "2025-03-09T14:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2439,7 +2439,8 @@
           ],
           "idFilmBoxoffice": 1536
         }
-      ]
+      ],
+      "mention": "Séance présentée par Alain Doutey"
     },
     {
       "idSeance": 188314,
@@ -2569,11 +2570,12 @@
           "titreVo": "Schneider e i suoi leoni",
           "realisateurs": "Giovanni Vitrotti",
           "annee": 1910,
+          "duree": 2,
           "status": 2,
           "copies": [
             {
               "idCopie": 29250,
-              "duree": 0,
+              "duree": 2,
               "format": "DCP"
             }
           ]
@@ -2712,6 +2714,46 @@
       "typeEvenement": 13,
       "dateHeure": "2025-03-08T14:00:00",
       "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38270,
+          "titre": "Flocons d'or",
+          "titreVo": "Goldflocken",
+          "realisateurs": "Werner Schroeter",
+          "annee": 1976,
+          "duree": 143,
+          "generique": "Magdalena Montezuma, Udo Kier, Bulle Ogier",
+          "miniTexte": "Dans _Flocons d'or_, Schroeter octroie à chaque histoire son propre style visuel et narratif pour une fresque sensuelle au réalisme poétique troublant. Construit comme un combat entre Eros et Thanatos, le film – qui restera son préféré – fait la part belle aux visages et aux corps lors d'un saisissant voyage en images. La dernière partie d'une œuvre en forme de trilogie sur la vie, l'amour et la mort.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28881,
+              "duree": 143,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 48515
+        }
+      ]
+    },
+    {
+      "idSeance": 190396,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 992,
+          "idCategorie": 3737,
+          "titreCycle": "Werner Schroeter",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32523,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-09T21:00:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -3097,45 +3139,6 @@
               "version": "VO",
               "langCopie": "GER",
               "stDemande": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "idSeance": 188298,
-      "idProg": 321,
-      "idCycleCategories": [
-        {
-          "idCycle": 957,
-          "idCategorie": 3654,
-          "titreCycle": "Restaurations et incunables",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32552,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-09T14:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 155138,
-          "titre": "Tomorrow There Will Be Fine Weather",
-          "titreNx": "明日は日本晴れ",
-          "realisateurs": "Hiroshi Shimizu",
-          "annee": 1948,
-          "duree": 65,
-          "generique": "Michitaro Mizushima, Sachiko Mitani, Wakako Kunitomo, Shin'ichi Himori",
-          "miniTexte": "Sur une route de montagne, le trajet d'un groupe de passagers, dont le bus tombe en panne, devient le théâtre de retrouvailles inattendues, où s'entremêlent destins individuels et blessures collectives. Shimizu fait du traumatisme de la guerre une fable douce-amère, le tableau d'une société à reconstruire, dans un chef-d'œuvre retrouvé, perdu pendant 70 ans.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29385,
-              "duree": 65,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "JPN"
             }
           ]
         }

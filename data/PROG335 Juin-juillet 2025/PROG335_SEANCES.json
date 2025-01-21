@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-17T09:45:00.449Z",
+  "updatedAt": "2025-01-20T17:22:00.951Z",
   "data": [
     {
       "idSeance": 188762,
@@ -35,6 +35,24 @@
         },
         {
           "ordre": 2,
+          "idFilm": 127501,
+          "titre": "Printemps au Japon",
+          "art": "Le",
+          "realisateurs": "Anonyme",
+          "annee": 1915,
+          "duree": 4,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 7680,
+              "duree": 4,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
+        },
+        {
+          "ordre": 3,
           "idFilm": 155171,
           "titre": "Entretien avec Yukio Mishima",
           "realisateurs": "Jean-Claude Courdy",
@@ -50,7 +68,7 @@
           ]
         },
         {
-          "ordre": 3,
+          "ordre": 4,
           "idFilm": 83250,
           "titre": "Rites d'amour et de mort",
           "titreVo": "Yukoku",
