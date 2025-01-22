@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-20T15:12:29.748Z",
+  "updatedAt": "2025-01-21T16:56:22.513Z",
   "data": [
     {
       "idSeance": 185394,
@@ -6245,8 +6245,7 @@
               "idCopie": 29526,
               "duree": 80,
               "format": "35 mm",
-              "intertitres": "INT. ANG.",
-              "stDemande": true
+              "intertitres": "INT. FR."
             }
           ]
         }
@@ -11205,12 +11204,7 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29145,
-              "duree": 84
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 13351
@@ -14293,11 +14287,20 @@
           "titreVo": "A Night in the Show",
           "realisateurs": "Charles Chaplin",
           "annee": 1915,
+          "duree": 23,
           "generique": "Charles Chaplin, Edna Purviance",
           "ageMinimal": 6,
           "synopsis": "Une soirée au cabaret avec Charlot dans le rôle du trouble-fête. Adapté du numéro que faisait Chaplin durant ses années de vaudeville, ce film est un torrent de rires et se termine en véritable pugilat pour les malheureux artistes présents sur scène.",
           "synopsisJP": "Trois courts métrages avec Charlot : rendez-vous au cabaret (où Chaplin interprète deux spectateurs radicalement opposés), puis dans une soirée mondaine au cours de laquelle il se fait passer pour un noble, et enfin dans une station thermale, où il tente de se défaire de son alcoolisme.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 3693,
+              "duree": 23,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ],
           "idFilmBoxoffice": 35564
         },
         {
@@ -14308,10 +14311,18 @@
           "artVo": "The",
           "realisateurs": "Charles Chaplin",
           "annee": 1916,
+          "duree": 34,
           "generique": "Charles Chaplin",
           "ageMinimal": 6,
           "synopsis": "Êtes-vous sûrs de toujours reconnaître Charlot ? Même sans sa moustache, lorsqu'il se déguise en jeune fille ou quand il se fait passer pour un riche aristocrate ?",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 9270,
+              "duree": 34,
+              "format": "35 mm"
+            }
+          ],
           "idFilmBoxoffice": 2267
         },
         {
@@ -14322,9 +14333,18 @@
           "artVo": "The",
           "realisateurs": "Charles Chaplin",
           "annee": 1917,
+          "duree": 24,
           "generique": "Charles Chaplin, Edna Purviance",
           "ageMinimal": 6,
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 3699,
+              "duree": 24,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ],
           "idFilmBoxoffice": 50268
         }
       ]

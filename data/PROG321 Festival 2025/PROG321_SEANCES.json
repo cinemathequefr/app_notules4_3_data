@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-21T10:09:35.777Z",
+  "updatedAt": "2025-01-22T10:44:13.973Z",
   "data": [
     {
       "idSeance": 188170,
@@ -180,7 +180,8 @@
               "idCopie": 28868,
               "duree": 138,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 7778
@@ -421,7 +422,8 @@
           ],
           "idFilmBoxoffice": 675
         }
-      ]
+      ],
+      "mention": "Séance présentée par Frédéric Bonnaud"
     },
     {
       "idSeance": 185294,
@@ -1643,6 +1645,7 @@
               "idCopie": 29171,
               "duree": 141,
               "format": "DCP",
+              "version": "VO",
               "stDemande": true
             }
           ],
@@ -1685,6 +1688,7 @@
               "idCopie": 29175,
               "duree": 110,
               "format": "DCP",
+              "version": "VO",
               "stDemande": true
             }
           ],
@@ -1770,6 +1774,7 @@
               "idCopie": 29173,
               "duree": 121,
               "format": "DCP",
+              "version": "VO",
               "stDemande": true
             }
           ],
@@ -1972,7 +1977,8 @@
           ],
           "idFilmBoxoffice": 126318
         }
-      ]
+      ],
+      "mention": "Séance présentée par Guillaume Robillard"
     },
     {
       "idSeance": 188147,
@@ -2003,11 +2009,13 @@
           "copies": [
             {
               "idCopie": 29320,
-              "duree": 80
+              "duree": 80,
+              "format": "DCP"
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par Caroline Ducey"
     },
     {
       "idSeance": 185291,
@@ -2047,7 +2055,8 @@
               "idCopie": 29403,
               "duree": 104,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 28233
@@ -2092,7 +2101,8 @@
               "idCopie": 29278,
               "duree": 89,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 181942
@@ -2349,12 +2359,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29204,
-              "duree": 110,
-              "format": "35 mm",
-              "selected": true
-            },
-            {
               "idCopie": 29323,
               "duree": 110,
               "format": "DCP"
@@ -2597,7 +2601,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 185231,
@@ -2668,7 +2673,7 @@
       ],
       "idEvenement": 32519,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T20:00:00",
+      "dateHeure": "2025-03-06T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2723,7 +2728,7 @@
           "realisateurs": "Werner Schroeter",
           "annee": 1976,
           "duree": 143,
-          "generique": "Magdalena Montezuma, Udo Kier, Bulle Ogier",
+          "generique": "Magdalena Montezuma, Udo Kier, Bulle Ogier, Andréa Ferréol",
           "miniTexte": "Dans _Flocons d'or_, Schroeter octroie à chaque histoire son propre style visuel et narratif pour une fresque sensuelle au réalisme poétique troublant. Construit comme un combat entre Eros et Thanatos, le film – qui restera son préféré – fait la part belle aux visages et aux corps lors d'un saisissant voyage en images. La dernière partie d'une œuvre en forme de trilogie sur la vie, l'amour et la mort.",
           "status": 2,
           "copies": [
@@ -2763,7 +2768,7 @@
           "realisateurs": "Werner Schroeter",
           "annee": 1976,
           "duree": 143,
-          "generique": "Magdalena Montezuma, Udo Kier, Bulle Ogier",
+          "generique": "Magdalena Montezuma, Udo Kier, Bulle Ogier, Andréa Ferréol",
           "miniTexte": "Dans _Flocons d'or_, Schroeter octroie à chaque histoire son propre style visuel et narratif pour une fresque sensuelle au réalisme poétique troublant. Construit comme un combat entre Eros et Thanatos, le film – qui restera son préféré – fait la part belle aux visages et aux corps lors d'un saisissant voyage en images. La dernière partie d'une œuvre en forme de trilogie sur la vie, l'amour et la mort.",
           "status": 2,
           "copies": [
@@ -2825,9 +2830,7 @@
             {
               "idCopie": 29369,
               "duree": 5,
-              "format": "DCP",
-              "version": "VO",
-              "stDemande": true
+              "format": "DCP"
             }
           ]
         },
@@ -2883,8 +2886,7 @@
             {
               "idCopie": 29372,
               "duree": 10,
-              "format": "DCP",
-              "version": "VO"
+              "format": "DCP"
             }
           ]
         },
@@ -2900,8 +2902,7 @@
             {
               "idCopie": 29373,
               "duree": 0,
-              "format": "DCP",
-              "version": "VO"
+              "format": "DCP"
             }
           ],
           "idFilmBoxoffice": 180330
@@ -3117,8 +3118,7 @@
             {
               "idCopie": 29367,
               "duree": 37,
-              "format": "DCP",
-              "version": "VO"
+              "format": "DCP"
             }
           ]
         },
@@ -3257,6 +3257,8 @@
               "idCopie": 29424,
               "duree": 25,
               "format": "35 mm",
+              "version": "VO",
+              "langCopie": "FRE",
               "selected": true
             },
             {
@@ -3302,7 +3304,8 @@
           ],
           "idFilmBoxoffice": 3137
         }
-      ]
+      ],
+      "mention": "Séance présentée par Elsa Charbit. Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 185190,
@@ -3345,7 +3348,7 @@
           "idFilmBoxoffice": 1000016058
         }
       ],
-      "mention": "Accompagnement musical par Edouard Ferlet et Joël Grare"
+      "mention": "Séance présentée par Jean-François Rauger. Accompagnement musical par Edouard Ferlet et Joël Grare"
     },
     {
       "idSeance": 188295,
@@ -3380,12 +3383,12 @@
               "idCopie": 29413,
               "duree": 180,
               "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "intertitres": "INT. FR."
             }
           ]
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 188140,
@@ -3420,12 +3423,12 @@
               "idCopie": 29415,
               "duree": 105,
               "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "intertitres": "INT. FR."
             }
           ]
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 188293,
@@ -3459,13 +3462,13 @@
               "idCopie": 29410,
               "duree": 80,
               "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "intertitres": "INT. FR."
             }
           ],
           "idFilmBoxoffice": 56335
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 188290,
@@ -3500,8 +3503,7 @@
               "idCopie": 29412,
               "duree": 61,
               "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "intertitres": "INT. FR."
             }
           ],
           "idFilmBoxoffice": 4221
@@ -3542,13 +3544,13 @@
               "idCopie": 29411,
               "duree": 65,
               "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "intertitres": "INT. FR."
             }
           ],
           "idFilmBoxoffice": 144819
         }
-      ]
+      ],
+      "mention": "Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 188300,
@@ -3590,7 +3592,8 @@
           ],
           "idFilmBoxoffice": 179697
         }
-      ]
+      ],
+      "mention": "Séance présentée par Shivendra Singh Dungarpur"
     },
     {
       "idSeance": 188227,
@@ -3950,7 +3953,8 @@
           ],
           "idFilmBoxoffice": 147575
         }
-      ]
+      ],
+      "mention": "Séance présentée par Frédéric Bonnaud"
     },
     {
       "idSeance": 190379,
@@ -3989,10 +3993,11 @@
             }
           ]
         }
-      ]
+      ],
+      "mention": "Séance présentée par György Ráduly"
     },
     {
-      "idSeance": 188446,
+      "idSeance": 190400,
       "idProg": 321,
       "idCycleCategories": [
         {
@@ -4014,17 +4019,27 @@
           "titreVo": "Faust – Eine deutsche Volkssage",
           "realisateurs": "Friedrich Wilhelm Murnau",
           "annee": 1926,
+          "duree": 107,
           "generique": "Gösta Ekman, Emil Jannings, Camilla Horn",
           "adaptation": "D'après la pièce _Faust_ de Johann Wolfgang von Goethe.",
           "synopsis": "Après avoir semé la peste, Méphisto propose un pacte à Faust.",
           "miniTexte": "Murnau transforme le héros de Goethe en personnage moderne dans un condensé de tous les mythes faustiens. Du romantisme wagnérien aux surprenantes échappées vers la comédie, il compose une lutte du jour et de la nuit pleine d'outrance. Une symphonie gothique éblouissante de beauté, dont les visions puissantes constituent la quintessence de l'expressionnisme.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29222,
+              "duree": 107,
+              "format": "DCP",
+              "intertitres": "INT. FR."
+            }
+          ],
           "idFilmBoxoffice": 4594
         }
-      ]
+      ],
+      "mention": "Séance présentée par Laurent Mannoni. Accompagnement musical par Jean-François Zygel"
     },
     {
-      "idSeance": 188447,
+      "idSeance": 190399,
       "idProg": 321,
       "idCycleCategories": [
         {
@@ -4039,14 +4054,14 @@
       "dateHeure": "2025-03-07T18:00:00",
       "typeConference": "Conférence",
       "idSalle": "GF",
-      "duree": 90,
+      "duree": 120,
       "items": [
         {
           "ordre": 1,
           "idConf": 32702,
           "idTypeConf": 55,
           "titre": "La « Bible » du Faust de F. W. Murnau. Conférence de Laurent Mannoni",
-          "duree": 90
+          "duree": 120
         }
       ]
     },
@@ -4235,7 +4250,8 @@
           ],
           "idFilmBoxoffice": 1777
         }
-      ]
+      ],
+      "mention": "Séance présentée par Hanna Schygulla"
     }
   ]
 }
