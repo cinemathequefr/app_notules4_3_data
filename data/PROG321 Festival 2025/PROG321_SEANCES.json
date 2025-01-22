@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-22T10:44:13.973Z",
+  "updatedAt": "2025-01-22T15:10:21.425Z",
   "data": [
     {
       "idSeance": 188170,
@@ -887,31 +887,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 4939,
-              "duree": 131,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 4940,
-              "duree": 131,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 9919,
-              "duree": 131,
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 29282,
               "duree": 131,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 8204
@@ -949,31 +929,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 4939,
-              "duree": 131,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 4940,
-              "duree": 131,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 9919,
-              "duree": 131,
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 29282,
               "duree": 131,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 8204
@@ -1111,6 +1071,71 @@
       "mention": "Séance présentée par John McTiernan"
     },
     {
+      "idSeance": 190404,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 982,
+          "idCategorie": 3689,
+          "titreCycle": "John McTiernan",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32289,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-08T21:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33665,
+          "titre": "Piège de cristal",
+          "titreVo": "Die Hard",
+          "realisateurs": "John McTiernan",
+          "annee": 1988,
+          "duree": 132,
+          "generique": "Bruce Willis, Alan Rickman, Bonnie Bedelia",
+          "adaptation": "D'après le roman _Nothing Lasts Forever_ de Roderick Thorp.",
+          "miniTexte": "« _Now I have a machine gun. Ho-Ho-Ho_ »... Un tournant dans l'histoire du cinéma d'action. _Piège de cristal_ confirme la virtuosité de John McTiernan, et son sens inné de la mise en scène, d'une limpidité et d'une évidence qui rappellent la maestria d'un Hawks. Huis clos, suspense, violence, comédie, le film est un cocktail imparable, qui impose définitivement Bruce Willis au sommet du box-office, et révèle Alan Rickman, figure du théâtre anglais, génial en criminel allemand dans son premier rôle au cinéma.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 5352,
+              "duree": 132,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 4941,
+              "duree": 132,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 4942,
+              "duree": 132,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 4943,
+              "duree": 132,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 4019
+        }
+      ],
+      "mention": "Séance suivie d'une discussion avec Antoine Desrues et Laura Koeppel"
+    },
+    {
       "idSeance": 185275,
       "idProg": 321,
       "idCycleCategories": [
@@ -1227,7 +1252,8 @@
           ],
           "idFilmBoxoffice": 28583
         }
-      ]
+      ],
+      "mention": "Séance présentée par Jacques Nolot et Yann Gonzalez"
     },
     {
       "idSeance": 188234,
@@ -1939,7 +1965,8 @@
           ],
           "idFilmBoxoffice": 4811
         }
-      ]
+      ],
+      "mention": "Séance présentée par Ellen Schafer et Noémie Jean"
     },
     {
       "idSeance": 185273,
@@ -2015,7 +2042,7 @@
           ]
         }
       ],
-      "mention": "Séance présentée par Caroline Ducey"
+      "mention": "Séance présentée par Caroline Ducey et Luc Saint-Eloy"
     },
     {
       "idSeance": 185291,
@@ -2444,7 +2471,7 @@
           "idFilmBoxoffice": 1536
         }
       ],
-      "mention": "Séance présentée par Alain Doutey"
+      "mention": "Séance présentée par Alain Doutey et Danièle Thompson"
     },
     {
       "idSeance": 188314,
@@ -2602,7 +2629,7 @@
           ]
         }
       ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
+      "mention": "Séance présentée par Béatrice de Pastre. Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 185231,
@@ -2703,46 +2730,6 @@
         }
       ],
       "mention": "Séance présentée par Pierre Eugène"
-    },
-    {
-      "idSeance": 188220,
-      "idProg": 321,
-      "idCycleCategories": [
-        {
-          "idCycle": 992,
-          "idCategorie": 3737,
-          "titreCycle": "Werner Schroeter",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32523,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-08T14:00:00",
-      "idSalle": "HO",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 38270,
-          "titre": "Flocons d'or",
-          "titreVo": "Goldflocken",
-          "realisateurs": "Werner Schroeter",
-          "annee": 1976,
-          "duree": 143,
-          "generique": "Magdalena Montezuma, Udo Kier, Bulle Ogier, Andréa Ferréol",
-          "miniTexte": "Dans _Flocons d'or_, Schroeter octroie à chaque histoire son propre style visuel et narratif pour une fresque sensuelle au réalisme poétique troublant. Construit comme un combat entre Eros et Thanatos, le film – qui restera son préféré – fait la part belle aux visages et aux corps lors d'un saisissant voyage en images. La dernière partie d'une œuvre en forme de trilogie sur la vie, l'amour et la mort.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28881,
-              "duree": 143,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 48515
-        }
-      ]
     },
     {
       "idSeance": 190396,
@@ -3305,7 +3292,7 @@
           "idFilmBoxoffice": 3137
         }
       ],
-      "mention": "Séance présentée par Elsa Charbit. Accompagnement musical par Jean-François Zygel"
+      "mention": "Séance présentée par Elsa Charbit et Hervé Pichard. Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 185190,
@@ -3621,7 +3608,7 @@
           "duree": 120,
           "generique": "Warren Beatty, Julie Christie, René Auberjonois",
           "adaptation": "D'après le roman _McCabe_ d'Edmund Naughton.",
-          "miniTexte": "1902, dans l'Ouest américain. Un joueur de poker débarque dans une petite ville minière en plein essor, et s'associe avec une prostituée locale pour monter une maison close. Tout juste sorti du succès de M.A.S.H., Altman adapte le premier roman d'Edmund Naughton, un western dont il se plaît à déconstruire tous les mythes de l'héroïsme, puisant de la mélancolie dans les chansons de Leonard Cohen.",
+          "miniTexte": "1902, dans l'Ouest américain. Un joueur de poker débarque dans une petite ville minière en plein essor, et s'associe avec une prostituée locale pour monter une maison close. Tout juste sorti du succès de _M.A.S.H._, Altman adapte le premier roman d'Edmund Naughton, un western dont il se plaît à déconstruire tous les mythes de l'héroïsme, puisant de la mélancolie dans les chansons de Leonard Cohen.",
           "status": 2,
           "copies": [
             {
@@ -3716,44 +3703,6 @@
         }
       ],
       "mention": "Séance présentée par Jacques Kebadian"
-    },
-    {
-      "idSeance": 188316,
-      "idProg": 321,
-      "idCycleCategories": [
-        {
-          "idCycle": 985,
-          "idCategorie": 3693,
-          "titreCycle": "Raretés des collections",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32648,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-05T12:00:00",
-      "idSalle": "HO",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 41219,
-          "titre": "Nanouk l'esquimau",
-          "titreVo": "Nanook of the North",
-          "realisateurs": "Robert J. Flaherty",
-          "annee": 1922,
-          "duree": 51,
-          "synopsis": "Le quotidien d'une famille d'Inuits dans le Grand Nord canadien, filmé pour la première fois. Nanouk pêche et chasse pour se nourrir, il doit aussi se déplacer souvent et reconstruire son igloo.",
-          "miniTexte": "Le quotidien du chasseur inuit, dans une version remaniée par le réalisateur de films ethnographiques Joseph Mandement (également auteur des intertitres français). Véritable rareté, la copie de 1928 présentée ici a été conservée et projetée à la Cinémathèque par Henri Langlois, qui l'avait nommée « Bouton d'or » pour valoriser le teintage orange qui la caractérise.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29441,
-              "duree": 51,
-              "format": "DCP"
-            }
-          ],
-          "idFilmBoxoffice": 27567
-        }
-      ]
     },
     {
       "idSeance": 185276,
@@ -4252,6 +4201,47 @@
         }
       ],
       "mention": "Séance présentée par Hanna Schygulla"
+    },
+    {
+      "idSeance": 190403,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32712,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-06T21:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40177,
+          "titre": "Lili Marleen",
+          "realisateurs": "Rainer Werner Fassbinder",
+          "annee": 1980,
+          "duree": 120,
+          "generique": "Hanna Schygulla, Giancarlo Giannini, Mel Ferrer",
+          "adaptation": "D'après le roman autobiographique _Der Himmel hat viele Farben_ de Lale Andersen.",
+          "synopsis": "L'histoire d'amour impossible entre l'interprète de la chanson « Lili Marleen », instrument de la propagande nazie, et un jeune musicien d'origine juive.",
+          "miniTexte": "Inspiré par la relation amoureuse entre la chanteuse allemande Lale Andersen et le compositeur suisse juif Rolf Liebermann, Fassbinder interroge la place de l'art durant la guerre dans un mélodrame tourmenté, dont la mise en scène pastiche l'esthétique UFA. Une évocation brûlante du nazisme, doublée d'une réflexion sur la propagande et la manipulation politique.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29520,
+              "duree": 120,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 1777
+        }
+      ]
     }
   ]
 }
