@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-22T15:12:00.038Z",
+  "updatedAt": "2025-01-23T09:51:41.358Z",
   "data": [
     {
       "idSeance": 185115,
@@ -1652,6 +1652,25 @@
             }
           ],
           "idFilmBoxoffice": 1000014538
+        },
+        {
+          "ordre": 11,
+          "idFilm": 155173,
+          "titre": "At the Suicide of the Last Jew in the World in the Last Cinema in the World",
+          "realisateurs": "David Cronenberg",
+          "annee": 2007,
+          "dureeStd": 4,
+          "duree": 4,
+          "miniTexte": "David Cronenberg interprète le personnage principal de ce court métrage où il aborde pour la première fois son identité juive.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29565,
+              "duree": 4,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
         }
       ]
     },
@@ -11692,7 +11711,7 @@
             {
               "idCopie": 28612,
               "duree": 95,
-              "format": "35 mm"
+              "format": "Numérique"
             }
           ],
           "idFilmBoxoffice": 36929
@@ -13884,8 +13903,8 @@
               "idCopie": 28700,
               "duree": 134,
               "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
+              "version": "VF",
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 31437

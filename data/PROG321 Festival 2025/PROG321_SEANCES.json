@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-22T15:10:21.425Z",
+  "updatedAt": "2025-01-23T09:51:35.901Z",
   "data": [
     {
       "idSeance": 188170,
@@ -331,7 +331,8 @@
           ],
           "idFilmBoxoffice": 1719
         }
-      ]
+      ],
+      "mention": "Séance présentée par Bernard Benoliel"
     },
     {
       "idSeance": 185292,
@@ -510,7 +511,8 @@
           ],
           "idFilmBoxoffice": 923
         }
-      ]
+      ],
+      "mention": "Séance présentée par Giorgi Kakabadze"
     },
     {
       "idSeance": 188217,
@@ -550,7 +552,8 @@
           ],
           "idFilmBoxoffice": 18187
         }
-      ]
+      ],
+      "mention": "Séance présentée par Marco Bellocchio"
     },
     {
       "idSeance": 188450,
@@ -565,7 +568,7 @@
       ],
       "idEvenement": 32227,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T12:00:00",
+      "dateHeure": "2025-03-08T16:15:00",
       "idSalle": "HO",
       "items": [
         {
@@ -647,7 +650,7 @@
       ],
       "idEvenement": 32229,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T12:00:00",
+      "dateHeure": "2025-03-08T18:15:00",
       "idSalle": "HO",
       "items": [
         {
@@ -687,7 +690,7 @@
       ],
       "idEvenement": 32230,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T12:00:00",
+      "dateHeure": "2025-03-07T15:30:00",
       "idSalle": "HO",
       "items": [
         {
@@ -812,7 +815,7 @@
       ],
       "idEvenement": 32287,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-06T17:00:00",
+      "dateHeure": "2025-03-06T17:45:00",
       "idSalle": "HO",
       "items": [
         {
@@ -855,7 +858,8 @@
           ],
           "idFilmBoxoffice": 5947
         }
-      ]
+      ],
+      "mention": "Séance suivie d'une discussion avec John McTiernan"
     },
     {
       "idSeance": 185154,
@@ -942,70 +946,6 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
-      "idSeance": 190380,
-      "idProg": 321,
-      "idCycleCategories": [
-        {
-          "idCycle": 982,
-          "idCategorie": 3689,
-          "titreCycle": "John McTiernan",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32289,
-      "typeEvenement": 13,
-      "dateHeure": "2025-03-05T12:00:00",
-      "idSalle": "HO",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 33665,
-          "titre": "Piège de cristal",
-          "titreVo": "Die Hard",
-          "realisateurs": "John McTiernan",
-          "annee": 1988,
-          "duree": 132,
-          "generique": "Bruce Willis, Alan Rickman, Bonnie Bedelia",
-          "adaptation": "D'après le roman _Nothing Lasts Forever_ de Roderick Thorp.",
-          "miniTexte": "« _Now I have a machine gun. Ho-Ho-Ho_ »... Un tournant dans l'histoire du cinéma d'action. _Piège de cristal_ confirme la virtuosité de John McTiernan, et son sens inné de la mise en scène, d'une limpidité et d'une évidence qui rappellent la maestria d'un Hawks. Huis clos, suspense, violence, comédie, le film est un cocktail imparable, qui impose définitivement Bruce Willis au sommet du box-office, et révèle Alan Rickman, figure du théâtre anglais, génial en criminel allemand dans son premier rôle au cinéma.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 5352,
-              "duree": 132,
-              "format": "DCP",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 4941,
-              "duree": 132,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 4942,
-              "duree": 132,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 4943,
-              "duree": 132,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 4019
-        }
-      ]
-    },
-    {
       "idSeance": 185230,
       "idProg": 321,
       "idCycleCategories": [
@@ -1069,6 +1009,70 @@
         }
       ],
       "mention": "Séance présentée par John McTiernan"
+    },
+    {
+      "idSeance": 190380,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 982,
+          "idCategorie": 3689,
+          "titreCycle": "John McTiernan",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32289,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-08T20:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33665,
+          "titre": "Piège de cristal",
+          "titreVo": "Die Hard",
+          "realisateurs": "John McTiernan",
+          "annee": 1988,
+          "duree": 132,
+          "generique": "Bruce Willis, Alan Rickman, Bonnie Bedelia",
+          "adaptation": "D'après le roman _Nothing Lasts Forever_ de Roderick Thorp.",
+          "miniTexte": "« _Now I have a machine gun. Ho-Ho-Ho_ »... Un tournant dans l'histoire du cinéma d'action. _Piège de cristal_ confirme la virtuosité de John McTiernan, et son sens inné de la mise en scène, d'une limpidité et d'une évidence qui rappellent la maestria d'un Hawks. Huis clos, suspense, violence, comédie, le film est un cocktail imparable, qui impose définitivement Bruce Willis au sommet du box-office, et révèle Alan Rickman, figure du théâtre anglais, génial en criminel allemand dans son premier rôle au cinéma.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 5352,
+              "duree": 132,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 4941,
+              "duree": 132,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 4942,
+              "duree": 132,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 4943,
+              "duree": 132,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 4019
+        }
+      ]
     },
     {
       "idSeance": 190404,
@@ -1174,6 +1178,45 @@
         }
       ],
       "mention": "Séance présentée par John McTiernan"
+    },
+    {
+      "idSeance": 194476,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 982,
+          "idCategorie": 3689,
+          "titreCycle": "John McTiernan",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32290,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-09T20:00:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33562,
+          "titre": "Predator",
+          "realisateurs": "John McTiernan",
+          "annee": 1987,
+          "duree": 107,
+          "generique": "Arnold Schwarzenegger, Carl Weathers, Elpidia Carrillo",
+          "miniTexte": "Dans une jungle d'Amérique centrale, une mission de sauvetage tourne à la confrontation avec une terrifiante créature extraterrestre. Thriller, horreur et science-fiction dans un _survival_ haletant, dont l'atmosphère paranoïaque va _crescendo_ jusqu'au final, saisissant de brutalité. « S'il peut saigner, on peut le tuer ! » : le premier volet de la franchise, porté par Arnold Schwarzenegger et ses punchlines d'anthologie.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29283,
+              "duree": 107,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 43225
+        }
+      ]
     },
     {
       "idSeance": 188161,
@@ -1478,7 +1521,7 @@
       ],
       "idEvenement": 32313,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T12:00:00",
+      "dateHeure": "2025-03-09T15:30:00",
       "idSalle": "HO",
       "items": [
         {
@@ -1545,7 +1588,8 @@
           ],
           "idFilmBoxoffice": 1042
         }
-      ]
+      ],
+      "mention": "Séance présentée par Armelle Chatelier et Souria Adèle"
     },
     {
       "idSeance": 185191,
@@ -1595,6 +1639,44 @@
           "idTypeConf": 16,
           "titre": "Dialogue avec Jacques Audiard",
           "duree": 75
+        }
+      ]
+    },
+    {
+      "idSeance": 194475,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 957,
+          "idCategorie": 3654,
+          "titreCycle": "Restaurations et incunables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32315,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-08T15:30:00",
+      "idSalle": "HO",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 75413,
+          "titre": "Sur mes lèvres",
+          "realisateurs": "Jacques Audiard",
+          "annee": 2001,
+          "duree": 115,
+          "generique": "Vincent Cassel, Emmanuelle Devos, Olivier Gourmet",
+          "miniTexte": "Une secrétaire malentendante voit sa vie bouleversée par un ancien délinquant. Scénario à l'os, cadrages serrés et étude de caractère forment un thriller hors normes, sans cesse troublant, qui met en valeur deux interprètes magnifiquement assortis. Avec trois Césars à la clé, dont celui de la meilleure actrice pour Emmanuelle Devos.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29139,
+              "duree": 115,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 29044
         }
       ]
     },
@@ -1735,7 +1817,7 @@
       ],
       "idEvenement": 32325,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-07T18:00:00",
+      "dateHeure": "2025-03-06T18:00:00",
       "idSalle": "HO",
       "items": [
         {
@@ -1822,7 +1904,7 @@
       ],
       "idEvenement": 32327,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-07T17:00:00",
+      "dateHeure": "2025-03-07T18:00:00",
       "idSalle": "HO",
       "items": [
         {
@@ -2005,7 +2087,7 @@
           "idFilmBoxoffice": 126318
         }
       ],
-      "mention": "Séance présentée par Guillaume Robillard"
+      "mention": "Séance présentée par Guillaume Robillard et Luc Saint-Eloy"
     },
     {
       "idSeance": 188147,
@@ -2278,7 +2360,7 @@
       ],
       "idEvenement": 32390,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T19:00:00",
+      "dateHeure": "2025-03-07T20:15:00",
       "idSalle": "HO",
       "items": [
         {
@@ -2303,7 +2385,8 @@
           ],
           "idFilmBoxoffice": 10230
         }
-      ]
+      ],
+      "mention": "Séance présentée par Pedro Costa"
     },
     {
       "idSeance": 188142,
@@ -2629,7 +2712,7 @@
           ]
         }
       ],
-      "mention": "Séance présentée par Béatrice de Pastre. Accompagnement musical par Jean-François Zygel"
+      "mention": "Séance présentée par Béatrice de Pastre, Mehdi Taïbi et Hervé Pichard. Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 185231,
@@ -3227,7 +3310,7 @@
       ],
       "idEvenement": 32557,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T12:00:00",
+      "dateHeure": "2025-03-05T18:00:00",
       "idSalle": "HO",
       "items": [
         {
@@ -3595,7 +3678,7 @@
       ],
       "idEvenement": 32641,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T19:00:00",
+      "dateHeure": "2025-03-07T20:00:00",
       "idSalle": "HO",
       "items": [
         {
@@ -3657,8 +3740,8 @@
               "idCopie": 28700,
               "duree": 134,
               "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
+              "version": "VF",
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 31437
@@ -3741,7 +3824,8 @@
           ],
           "idFilmBoxoffice": 14360
         }
-      ]
+      ],
+      "mention": "Séance présentée par Jean-Baptiste Garnero"
     },
     {
       "idSeance": 188313,
@@ -3756,7 +3840,7 @@
       ],
       "idEvenement": 32651,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-07T12:00:00",
+      "dateHeure": "2025-03-05T13:45:00",
       "idSalle": "HO",
       "items": [
         {
@@ -3795,7 +3879,7 @@
       ],
       "idEvenement": 32653,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-09T19:00:00",
+      "dateHeure": "2025-03-08T14:00:00",
       "idSalle": "HO",
       "items": [
         {
@@ -3820,7 +3904,8 @@
           ],
           "idFilmBoxoffice": 2201
         }
-      ]
+      ],
+      "mention": "Séance présentée par Susan Seidelman"
     },
     {
       "idSeance": 190344,
@@ -3835,7 +3920,7 @@
       ],
       "idEvenement": 32654,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T14:00:00",
+      "dateHeure": "2025-03-09T18:00:00",
       "idSalle": "HO",
       "items": [
         {
@@ -4131,7 +4216,7 @@
       ],
       "idEvenement": 32709,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T12:00:00",
+      "dateHeure": "2025-03-06T21:00:00",
       "idSalle": "HO",
       "items": [
         {
@@ -4158,7 +4243,8 @@
           ],
           "idFilmBoxoffice": 337
         }
-      ]
+      ],
+      "mention": "Séance présentée par John McTiernan"
     },
     {
       "idSeance": 190348,
