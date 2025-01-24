@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-23T09:51:41.358Z",
+  "updatedAt": "2025-01-24T14:05:01.794Z",
   "data": [
     {
       "idSeance": 185115,
@@ -1121,7 +1121,8 @@
           ],
           "idFilmBoxoffice": 132376
         }
-      ]
+      ],
+      "mention": "Séance présentée par Viggo Mortensen"
     },
     {
       "idSeance": 138674,
@@ -1668,7 +1669,8 @@
               "idCopie": 29565,
               "duree": 4,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ]
         }
@@ -8215,6 +8217,14 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 29581,
+              "duree": 126,
+              "format": "Numérique",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
               "idCopie": 28622,
               "duree": 126,
               "format": "16 mm",
@@ -13380,9 +13390,17 @@
           "titre": "Une guitare à la mer",
           "realisateurs": "Sophie Roze",
           "annee": 2024,
+          "duree": 56,
           "ageMinimal": 4,
           "synopsisJP": "Un programme de trois courts métrages, qui réunit une fouine avide de liberté, un garçonnet aventureux et une famille de rongeurs. Ou trois fables pleines de tendresse sur le bonheur d'être ensemble.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29582,
+              "duree": 56,
+              "format": "DCP"
+            }
+          ],
           "idFilmBoxoffice": 1000004599
         }
       ]
@@ -15266,6 +15284,7 @@
           "idConf": 31656,
           "idTypeConf": 55,
           "titre": "Qui êtes-vous... John Frankenheimer ?",
+          "sousTitre": "Conférence de Jean-Baptiste Thoret",
           "duree": 105
         }
       ]
@@ -15347,6 +15366,7 @@
           "idConf": 31667,
           "idTypeConf": 55,
           "titre": "Quand l'historienne fustige la cinéaste, et réciproquement",
+          "sousTitre": "Conférence d'Ania Szczepanska",
           "duree": 120
         }
       ]

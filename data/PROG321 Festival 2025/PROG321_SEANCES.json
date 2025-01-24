@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-23T10:54:25.351Z",
+  "updatedAt": "2025-01-24T14:03:58.863Z",
   "data": [
     {
       "idSeance": 188170,
@@ -41,7 +41,7 @@
           "idFilmBoxoffice": 298924
         }
       ],
-      "mention": "Séance suivie d'une discussion avec Wouter Hessels"
+      "mention": "Séance présentée par Matthias Schoenaerts et suivie d'une discussion avec Wouter Hessels"
     },
     {
       "idSeance": 188321,
@@ -171,7 +171,7 @@
           "realisateurs": "Stijn Coninx",
           "annee": 1992,
           "duree": 138,
-          "generique": "Jan Decleir, Gérard Desarthe, Antje De Boeck",
+          "generique": "Jan Decleir, Gérard Desarthe, Antje de Boeck",
           "adaptation": "D'après le roman _Pieter Daens, ou comment au dix-neuvième siècle les travailleurs d'Alost se sont battus contre la pauvreté et l'injustice_ de Louis Paul Boon.",
           "miniTexte": "Inspiré de la vie de l'abbé belge Adolf Daens qui œuvra pour améliorer les conditions de travail des ouvriers de la ville d'Alost, à la fin du XIX<sup>e</sup> siècle. Nommé pour l'Oscar du meilleur film en langue étrangère, _Daens_ met en lumière la lutte des classes, le travail des enfants et la misère, mais aussi l'influence de l'Église et l'hégémonie du Parti catholique dans une Belgique en pleine révolution industrielle.",
           "status": 2,
@@ -210,7 +210,7 @@
           "idFilm": 114225,
           "titre": "Une tragédie grecque",
           "titreVo": "Een griekse tragedie",
-          "realisateurs": "Nicole Van Goethem",
+          "realisateurs": "Nicole van Goethem",
           "annee": 1985,
           "duree": 7,
           "generique": "Willem Thijssen, Chris Verbiest, Miguel Rejas",
@@ -229,7 +229,7 @@
           "ordre": 2,
           "idFilm": 108229,
           "titre": "Meisje",
-          "realisateurs": "Dorothée Van den Berghe",
+          "realisateurs": "Dorothée van den Berghe",
           "annee": 2002,
           "duree": 94,
           "generique": "Els Dottermans, Frieda Pittoors",
@@ -288,7 +288,7 @@
           "idFilmBoxoffice": 57003
         }
       ],
-      "mention": "Séance présentée par Wouter Hessels"
+      "mention": "Séance présentée par Wouter Hessels et Matthias Schoenaerts"
     },
     {
       "idSeance": 188214,
@@ -794,7 +794,8 @@
               "idCopie": 29303,
               "duree": 184,
               "format": "DCP",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 327296
@@ -828,7 +829,7 @@
           "annee": 1990,
           "duree": 135,
           "generique": "Sean Connery, Alec Baldwin, Sam Neill, Scott Glenn",
-          "adaptation": "D'après le roman _The Hunt for Red october_ de Tom Clancy.",
+          "adaptation": "D'après le roman _The Hunt for Red October_ de Tom Clancy.",
           "miniTexte": "Première adaptation des aventures de Jack Ryan à l'écran, d'après le personnage créé par Tom Clancy. McTiernan plonge dans la guerre froide avec un thriller d'espionnage palpitant, sur fond de course-poursuite en haute mer. Aux côtés de Sam Neill, Sean Connery apporte complexité et nuance à son personnage dans un brillant jeu de stratégie et de manipulation. L'un des fleurons des films de sous-marin.",
           "status": 2,
           "copies": [
@@ -1137,7 +1138,7 @@
           "idFilmBoxoffice": 4019
         }
       ],
-      "mention": "Séance suivie d'une discussion avec Antoine Desrues et Laura Koeppel"
+      "mention": "Séance suivie d'une discussion avec Antoine Desrues"
     },
     {
       "idSeance": 185275,
@@ -1317,7 +1318,7 @@
         {
           "ordre": 1,
           "idFilm": 47353,
-          "titre": "Pékin central",
+          "titre": "Pékin Central",
           "realisateurs": "Camille de Casabianca",
           "annee": 1986,
           "duree": 95,
@@ -1409,12 +1410,11 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29134,
+              "idCopie": 29580,
               "duree": 84,
               "format": "DCP",
               "version": "VO",
-              "langCopie": "SPA",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 3213
@@ -1638,6 +1638,7 @@
           "idConf": 32664,
           "idTypeConf": 16,
           "titre": "Dialogue avec Jacques Audiard",
+          "texte": "« Lors du tournage de _Sur mes lèvres_, par exemple, des choses se sont passées qui ont modifié mon rapport au travail. Les propositions d'Emmanuelle Devos et de Vincent Cassel m'ont fait réaliser que le film racontait autre chose que ce que j'avais imaginé, que c'était purement et simplement une histoire d'amour. » (Jacques Audiard)",
           "duree": 75
         }
       ]
@@ -1802,7 +1803,8 @@
           ],
           "idFilmBoxoffice": 8726
         }
-      ]
+      ],
+      "mention": "Séance présentée par Jean-François Rauger"
     },
     {
       "idSeance": 188221,
@@ -2087,7 +2089,7 @@
           "idFilmBoxoffice": 126318
         }
       ],
-      "mention": "Séance présentée par Guillaume Robillard et Luc Saint-Eloy"
+      "mention": "Séance présentée par Guillaume Robillard et Luc Saint-Éloy"
     },
     {
       "idSeance": 188147,
@@ -2124,7 +2126,7 @@
           ]
         }
       ],
-      "mention": "Séance présentée par Caroline Ducey et Luc Saint-Eloy"
+      "mention": "Séance présentée par Caroline Ducey et Luc Saint-Éloy"
     },
     {
       "idSeance": 185291,
@@ -2175,6 +2177,7 @@
           "idConf": 32553,
           "idTypeConf": 16,
           "titre": "Dialogue avec Susan Seidelman",
+          "texte": "« Madonna a avoué partager beaucoup de points communs avec le personnage de Susan. Toutes deux utilisent leurs talents de persuasion pour amener amis et amants à faire ce qu'elles veulent. Toutes deux sont de charmantes arnaqueuses, capables de vous manipuler sans que vous ne vous en rendiez compte. Il y a là un art de la séduction, et Madonna le maîtrise à la perfection. C'est une séductrice qui fait en sorte que toutes les personnes avec qui elle flirte se sentent un peu plus sexy. Hommes et femmes. C'est son don. » (Susan Seidelman)",
           "duree": 75
         }
       ]
@@ -2437,6 +2440,7 @@
           "idConf": 32551,
           "idTypeConf": 16,
           "titre": "Dialogue avec Pedro Costa",
+          "texte": "« J'ai commencé à y passer des journées, à traîner, boire, parler. Ça m'a beaucoup plu, ces choses que je devinais chez ces capverdiens [à Fontainhas], quelque chose de très concret et en même temps de très mystérieux : une espèce de tristesse, qui n'était pas loin, sûrement, de la mienne... Je me suis dit : peut-être qu'il y a quelque chose à faire ici, puisque j'y trouve un accord avec ma sensibilité et qu'en plus plastiquement, ça me plaît beaucoup. Mais davantage que les couleurs, les espaces et les sons, il y avait la force un peu désespérée de ce groupe de gens très en marge, très perdus, très misérables et très invisibles. » (Pedro Costa)",
           "duree": 90
         }
       ]
@@ -2476,7 +2480,8 @@
           ],
           "idFilmBoxoffice": 191
         }
-      ]
+      ],
+      "mention": "Séance présentée par Léa Boissel Bral"
     },
     {
       "idSeance": 185193,
@@ -2514,7 +2519,8 @@
           ],
           "idFilmBoxoffice": 4352
         }
-      ]
+      ],
+      "mention": "Séance présentée par Léa Boissel Bral et Pierre Santini"
     },
     {
       "idSeance": 188448,
@@ -2569,7 +2575,7 @@
       ],
       "idEvenement": 32449,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-05T12:00:00",
+      "dateHeure": "2025-03-08T18:00:00",
       "idSalle": "HO",
       "items": [
         {
@@ -2766,6 +2772,7 @@
           "idConf": 32550,
           "idTypeConf": 16,
           "titre": "Dialogue avec John McTiernan",
+          "texte": "« Le film de Norman Jewison était un _caper movie_ (film de hold-up) et il est devenu le modèle d'un grand nombre d'affreuses copies qui ont fleuri par la suite. Ce film était vraiment en phase avec son époque. _Bonnie and Clyde_ est sorti à la même période, et c'était la même chose : dans les deux cas, on suivait des asociaux qui se transformaient en voleurs. C'était une notion très commune en 1968. Or, notre version de _Thomas Crown_ est une histoire d'amour. Sur certains points, elle est d'ailleurs un peu plus rétro que l'original. Mon film se rapproche plus d'un vieux Cary Grant, d'une _love story_ à l'ancienne, comme _La Main au collet_. Bref, parce que le premier _Thomas Crown_ avait une fonction précise à son époque et qu'il reflétait un état d'esprit alors courant, je n'ai pas essayé de l'imiter. J'ai plutôt tenté de modifier l'histoire pour être en accord avec mon époque. » (John McTiernan)",
           "duree": 75
         }
       ]
@@ -3418,7 +3425,7 @@
           "idFilmBoxoffice": 1000016058
         }
       ],
-      "mention": "Séance présentée par Jean-François Rauger. Accompagnement musical par Edouard Ferlet et Joël Grare"
+      "mention": "Séance présentée par Jean-François Rauger. Accompagnement musical par Joël Grare et Édouard Ferlet"
     },
     {
       "idSeance": 188295,
@@ -3433,7 +3440,7 @@
       ],
       "idEvenement": 32581,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T18:00:00",
+      "dateHeure": "2025-03-09T16:30:00",
       "idSalle": "HO",
       "items": [
         {
@@ -3458,7 +3465,7 @@
           ]
         }
       ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
+      "mention": "Séance présentée par Giorgi Kakabadze. Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 188140,
@@ -3473,7 +3480,7 @@
       ],
       "idEvenement": 32582,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T12:00:00",
+      "dateHeure": "2025-03-08T14:00:00",
       "idSalle": "HO",
       "items": [
         {
@@ -3498,7 +3505,7 @@
           ]
         }
       ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
+      "mention": "Séance présentée par Manana Suradze. Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 188293,
@@ -3513,7 +3520,7 @@
       ],
       "idEvenement": 32583,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T14:00:00",
+      "dateHeure": "2025-03-09T14:00:00",
       "idSalle": "HO",
       "items": [
         {
@@ -3538,7 +3545,7 @@
           "idFilmBoxoffice": 56335
         }
       ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
+      "mention": "Séance présentée par Manana Suradze. Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 188290,
@@ -3594,7 +3601,7 @@
       ],
       "idEvenement": 32585,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-08T14:00:00",
+      "dateHeure": "2025-03-08T16:30:00",
       "idSalle": "HO",
       "items": [
         {
@@ -3620,7 +3627,7 @@
           "idFilmBoxoffice": 144819
         }
       ],
-      "mention": "Accompagnement musical par Jean-François Zygel"
+      "mention": "Séance présentée par Sofia Babluani. Accompagnement musical par Jean-François Zygel"
     },
     {
       "idSeance": 188300,
@@ -3976,6 +3983,7 @@
           "adaptation": "D'après le roman _Muro blanco sobre roca negra_ de Miguel Álvarez Acosta.",
           "synopsis": "À Santa Viviana, les clans Anguiano et Menchaca se livrent une guerre sans répit.",
           "miniTexte": "Autour d'une vendetta ancestrale qui oppose deux familles d'un village reculé du Mexique, Buñuel confronte les traditions séculaires et les valeurs modernes de la ville, incarnées par un jeune médecin, qui se lie d'amitié avec un membre du clan rival. Une œuvre méconnue, où les obsessions du cinéaste pour la mort et ses rituels jaillissent du fond d'un fleuve à la portée mythologique.",
+          "commentaire": "Film de commande de la période mexicaine du cinéaste, _Le Fleuve de la mort_ raconte comment la patience d'un médecin de campagne peut venir à bout de la rivalité sanglante opposant deux familles dans un petit village reculé du Mexique. Pour Buñuel, un simple film sur « la mort à la mexicaine », comme il l'appelle. « Cette mort facile... Vous savez quand un homme meurt, les gens sont là qui fument et boivent des petits verres d'alcool. » On y reconnaît cependant la patte du cinéaste, sa façon de croquer les personnages – un curé qui sort un revolver – ou la reconstitution minutieuse d'un cortège funèbre, qui font d'_El Río y la muerte_ un document passionnant sur la société mexicaine, là où « la vie est très peu de chose et où la mort ne compte pas ».",
           "status": 2,
           "copies": [
             {
@@ -4059,6 +4067,7 @@
           "adaptation": "D'après la pièce _Faust_ de Johann Wolfgang von Goethe.",
           "synopsis": "Après avoir semé la peste, Méphisto propose un pacte à Faust.",
           "miniTexte": "Murnau transforme le héros de Goethe en personnage moderne dans un condensé de tous les mythes faustiens. Du romantisme wagnérien aux surprenantes échappées vers la comédie, il compose une lutte du jour et de la nuit pleine d'outrance. Une symphonie gothique éblouissante de beauté, dont les visions puissantes constituent la quintessence de l'expressionnisme.",
+          "commentaire": "_Faust_ est le dernier succès public de F. W. Murnau en Allemagne. Il le réalise pour la UFA avant de partir pour les États-Unis tourner _L'Aurore_, et bénéficie d'un budget illimité. Pour adapter la pièce de Goethe, et créer en studio la plastique tour à tour subtile et puissante de son drame métaphysique, Murnau puise dans de nombreuses références picturales, allemandes, italiennes ou flamandes, qu'il fait siennes. Le film est peuplé de reflets, de lueurs, de fumées et de clairs-obscurs. Sur le tournage, le cinéaste se soucie d'obtenir les ombres imaginées sur papier dans les esquisses de décors. Il déclare à Carl Hoffmann, son opérateur, en découvrant le premier décor éclairé : « Cela est trop clair. Il faut que tout s'assombrisse. » Des écrans sont créés sur mesure afin d'obtenir les ombres recherchées. La lumière devient un élément essentiel de la mise en scène. Murnau bâtit un espace souvent écrasé (intérieurs, rues sans ciel) qui traduit l'impossibilité de l'idylle innocente de Faust et Gretchen. Les personnages peinent à évoluer dans ce décor et paraissent englués dans leurs vies comme dans un cauchemar.\n\nPauline de Raymond",
           "status": 2,
           "copies": [
             {
@@ -4095,7 +4104,9 @@
           "ordre": 1,
           "idConf": 32702,
           "idTypeConf": 55,
-          "titre": "La « Bible » du Faust de F. W. Murnau. Conférence de Laurent Mannoni",
+          "titre": "La « Bible » du Faust de F. W. Murnau",
+          "sousTitre": "Conférence de Laurent Mannoni",
+          "texte": "Un document unique permet aujourd'hui de mieux connaître le tournage du _Faust_ de Friedrich Wilhelm Murnau (Allemagne, UFA, 1926) : la « Bible », énorme volume, à la fois accessoire imposant du film et recueil de photos et de dessins rassemblés par Robert Herlth. Une Bible qui sera offerte au cinéaste à la fin du tournage. Cette pièce magistrale, redécouverte après un long sommeil et récemment restaurée, sera présentée pour la première fois et commentée, illustrations à l'appui. Pour son _Faust_, l'un des chefs-d'œuvre de l'art cinématographique, F. W. Murnau s'était entouré d'artistes extraordinaires : les décorateurs Walter Röhrig et Robert Herlth, le chef opérateur Carl Hoffmann. Le tournage s'est déroulé aux Studios Tempelhof à Berlin, avec les acteurs Emil Jannings, Camilla Horn, Gösta Ekman... Traversé de visions romantiques et expressionnistes, imprégné par Goethe et la peinture de Rembrandt, le film est riche en « effets spéciaux » d'une audace incroyable. — Laurent Mannoni",
           "duree": 120
         }
       ]
@@ -4202,7 +4213,8 @@
           ],
           "idFilmBoxoffice": 20357
         }
-      ]
+      ],
+      "mention": "Séance présentée par John McTiernan"
     },
     {
       "idSeance": 188453,
@@ -4231,7 +4243,7 @@
           "generique": "Marcello Mastroianni, Claudia Cardinale, Anouk Aimée",
           "synopsis": "Le cinéaste Guido Anselmi, en cure dans une station thermale, éprouve la crise du créateur. Alors qu'il cherche l'inspiration pour son prochain film, il se trouve happé par ses souvenirs et ses fantasmes.",
           "miniTexte": "En cure dans une station thermale, un cinéaste en mal d'inspiration se trouve happé par ses souvenirs et ses fantasmes. Les angoisses existentielles de Guido/Mastroianni, double notoire de Fellini, dans l'un de ses plus beaux films, au final indissociable de la ritournelle de Nino Rota.",
-          "commentaire": "« Au moment du tournage de _8½_, il m'arriva une chose que je redoutais depuis longtemps. Je fus victime d'un blocage, comme les écrivains en ont parfois devant leur page blanche. » Le blocage de Fellini devint le sujet même du film. Les angoisses d'un cinéaste en mal d'inspiration et en mal de vivre tout court. Guido/Mastroianni, double notoire arborant tous les attributs felliniens (manteau noir, écharpe et Borsalino), se laisse porter par le souffle du vent à travers les fantasmes et les rêves du passé, jusqu'à la farandole finale, d'une beauté infinie, indissociable du thème légendaire de la fanfare de Nino Rota.\n\nEt Fellini devint définitivement Fellini... Trois ans après le triomphe de _La dolce vita_ (succès commercial et critique, Grand Prix à Cannes), le maestro se libère d'une certaine pesanteur psychologique et largue les amarres, au propre comme au figuré, pour filmer ses fantasmes, complètement désinhibé et fouet en main. Autour de Marcello Mastroianni en double idéalisé, il réunit le plus brillant casting féminin de l'histoire du cinéma italien : Anouk Aimée, Claudia Cardinale, Sandra Milo, Barbara Steele. — F. B.",
+          "commentaire": "« Au moment du tournage de _8½_, il m'arriva une chose que je redoutais depuis longtemps. Je fus victime d'un blocage, comme les écrivains en ont parfois devant leur page blanche. » Le blocage de Fellini devint le sujet même du film. Les angoisses d'un cinéaste en mal d'inspiration et en mal de vivre tout court. Guido/Mastroianni, double notoire arborant tous les attributs felliniens (manteau noir, écharpe et Borsalino), se laisse porter par le souffle du vent à travers les fantasmes et les rêves du passé, jusqu'à la farandole finale, d'une beauté infinie, indissociable du thème légendaire de la fanfare de Nino Rota.\n\nEt Fellini devint définitivement Fellini... Trois ans après le triomphe de _La dolce vita_ (succès commercial et critique, Grand Prix à Cannes), le maestro se libère d'une certaine pesanteur psychologique et largue les amarres, au propre comme au figuré, pour filmer ses fantasmes, complètement désinhibé et fouet en main. Autour de Marcello Mastroianni en double idéalisé, il réunit le plus brillant casting féminin de l'histoire du cinéma italien : Anouk Aimée, Claudia Cardinale, Sandra Milo, Barbara Steele. — Frédéric Bonnaud",
           "status": 2,
           "copies": [
             {
