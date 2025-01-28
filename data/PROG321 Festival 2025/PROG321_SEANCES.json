@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-27T08:47:02.049Z",
+  "updatedAt": "2025-01-28T12:45:49.227Z",
   "data": [
     {
       "idSeance": 188170,
@@ -635,7 +635,8 @@
           ],
           "idFilmBoxoffice": 11380
         }
-      ]
+      ],
+      "mention": "Séance présentée par Justine Lévêque"
     },
     {
       "idSeance": 188311,
@@ -1601,18 +1602,12 @@
           "idCategorie": 3654,
           "titreCycle": "Restaurations et incunables",
           "titreSousCycle": "Les films"
-        },
-        {
-          "idCycle": 957,
-          "idCategorie": 3750,
-          "titreCycle": "Restaurations et incunables",
-          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32315,
-      "dateHeure": "2025-03-06T20:00:00",
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-06T20:30:00",
       "idSalle": "HL",
-      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -1633,14 +1628,6 @@
             }
           ],
           "idFilmBoxoffice": 29044
-        },
-        {
-          "ordre": 2,
-          "idConf": 32664,
-          "idTypeConf": 16,
-          "titre": "Dialogue avec Jacques Audiard",
-          "texte": "« Lors du tournage de _Sur mes lèvres_, par exemple, des choses se sont passées qui ont modifié mon rapport au travail. Les propositions d'Emmanuelle Devos et de Vincent Cassel m'ont fait réaliser que le film racontait autre chose que ce que j'avais imaginé, que c'était purement et simplement une histoire d'amour. » (Jacques Audiard)",
-          "duree": 75
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-27T14:28:34.115Z",
+  "updatedAt": "2025-01-28T12:45:44.958Z",
   "data": [
     {
       "idSeance": 185115,
@@ -1326,114 +1326,6 @@
             }
           ],
           "idFilmBoxoffice": 9450
-        }
-      ]
-    },
-    {
-      "idSeance": 138694,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 624,
-          "idCategorie": 2685,
-          "titreCycle": "David Cronenberg",
-          "titreSousCycle": "Courts métrages"
-        }
-      ],
-      "idEvenement": 25759,
-      "typeEvenement": 13,
-      "dateHeure": "2025-02-02T19:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 130504,
-          "titre": "Secret Weapons",
-          "realisateurs": "David Cronenberg",
-          "annee": 1972,
-          "duree": 22,
-          "generique": "Barbara O'Kelly, Norman Snider, Vernon Chapman",
-          "miniTexte": "Tourné pour _Program X_ (série d'anthologie de Radio-Canada), un thriller cérébral sur la guerre civile dans la lignée de _Stereo_ et _Crimes of the Future_, les premiers essais de Cronenberg.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 23934,
-              "duree": 22,
-              "format": "Numérique",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 27395
-        },
-        {
-          "ordre": 2,
-          "idFilm": 130505,
-          "titre": "Victim",
-          "art": "The",
-          "realisateurs": "David Cronenberg",
-          "annee": 1976,
-          "dureeStd": 27,
-          "duree": 30,
-          "generique": "Jonathan Welsh, Janet Wright",
-          "miniTexte": "La relation étrange entre une femme et son admirateur secret. Cronenberg met en scène un pertinent jeu du chat et de la souris pour l'un de ses quatre projets de séries télévisées.",
-          "commentaire": "Épisode de la série télévisée canadienne _Peep Show_.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 23933,
-              "duree": 30,
-              "version": "VO",
-              "stDemande": true
-            }
-          ]
-        },
-        {
-          "ordre": 3,
-          "idFilm": 130506,
-          "titre": "Lie Chair",
-          "art": "The",
-          "realisateurs": "David Cronenberg",
-          "annee": 1976,
-          "dureeStd": 27,
-          "duree": 30,
-          "generique": "Richard Monette, Susan Hogan, Amelia Hall",
-          "miniTexte": "Abandonné dans une maison isolée, un couple tombe sous le joug de son inquiétant propriétaire. De l'épouvante façon pièce de théâtre, avec maison hantée et bestiaire gothique.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 23905,
-              "duree": 30,
-              "format": "Numérique",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 45394
-        },
-        {
-          "ordre": 4,
-          "idFilm": 130507,
-          "titre": "Italian Machine",
-          "art": "The",
-          "realisateurs": "David Cronenberg",
-          "annee": 1976,
-          "dureeStd": 27,
-          "duree": 30,
-          "generique": "Gary McKeehan, Frank Moore, Hardee T. Lineham",
-          "miniTexte": "Des passionnés de moto cherchent à s'emparer du bolide d'un richissime homme d'affaires. Une pièce télévisée, réalisée pour la série canadienne _Teleplay_, où Cronenberg explore l'un de ses thèmes fétiches, l'obsession de la technologie.",
-          "commentaire": "« Petit chef d'œuvre méconnu, ce film est un conte moral dont le protagoniste est une moto Ducati \"de rêve\". Une réflexion pleine de hardiesse sur l'œuvre d'art contemporaine, dont on retrouve des échos dans les derniers scénarios de Cronenberg. » (Serge Grünberg)",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 23935,
-              "duree": 30,
-              "format": "Numérique",
-              "version": "VO",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 27393
         }
       ]
     },
@@ -7500,7 +7392,7 @@
       "idEvenement": 31367,
       "typeEvenement": 13,
       "dateHeure": "2025-02-01T16:00:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -7706,6 +7598,46 @@
       "idEvenement": 31370,
       "typeEvenement": 13,
       "dateHeure": "2025-01-25T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35835,
+          "titre": "Laura",
+          "realisateurs": "Otto Preminger",
+          "annee": 1944,
+          "duree": 88,
+          "generique": "Gene Tierney, Dana Andrews, Clifton Webb",
+          "adaptation": "D'après le roman _Laura_ de Vera Caspary.",
+          "miniTexte": "« _I shall never forget the week-end Laura died_ ». Le lieutenant McPherson enquête sur l'assassinat d'une jeune femme, et tombe sous le charme de la défunte, après avoir contemplé son portrait. Tiré d'un roman de Vera Caspary, spécialiste des peintures féminines et autrice de scénarios à succès, _Laura_ est un modèle de sobriété, de précision, servi par une mise en scène fluide. Et puis surtout, il y a Gene Tierney, fragile, belle, étrange. Preminger joue à distordre les repères temporels pour installer autour d'elle une atmosphère envoûtante, entre ombre et lumière : « Ce qui m'intéressait, c'était de révéler avec cette histoire l'impossibilité de cerner une femme et le mystère qui s'attache à elle. » Le leitmotiv musical lancinant marque les apparitions de l'héroïne, et les obsessions de McPherson ; bien davantage qu'un drame policier classique, _Laura_ est une élégante tragédie de la jalousie. La quintessence du film noir.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28471,
+              "duree": 88,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 393
+        }
+      ]
+    },
+    {
+      "idSeance": 194492,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 416,
+          "idCategorie": 1847,
+          "titreCycle": "Otto Preminger",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31370,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-02T19:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -13501,7 +13433,7 @@
       "idEvenement": 31578,
       "typeEvenement": 13,
       "dateHeure": "2025-02-14T18:30:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -13601,7 +13533,7 @@
       "idEvenement": 31583,
       "typeEvenement": 13,
       "dateHeure": "2025-02-14T21:00:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,
@@ -17082,7 +17014,7 @@
       "idEvenement": 31761,
       "typeEvenement": 13,
       "dateHeure": "2025-02-01T19:00:00",
-      "idSalle": "JE",
+      "idSalle": "LE",
       "items": [
         {
           "ordre": 1,

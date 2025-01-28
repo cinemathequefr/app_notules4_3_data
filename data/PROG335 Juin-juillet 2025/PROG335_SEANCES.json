@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2025-01-20T17:22:00.951Z",
+  "updatedAt": "2025-01-28T12:49:07.886Z",
   "data": [
     {
-      "idSeance": 188762,
+      "idSeance": 189516,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -14,7 +14,7 @@
       ],
       "idEvenement": 32736,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-06T19:00:00",
+      "dateHeure": "2025-07-04T19:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "idSeance": 188761,
+      "idSeance": 189517,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -99,7 +99,7 @@
       ],
       "idEvenement": 32739,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-06T20:30:00",
+      "dateHeure": "2025-07-04T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -122,6 +122,86 @@
               "sousTitres": "STF"
             }
           ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194490,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 3411,
+          "titreCycle": "Fenêtre sur les collections",
+          "titreSousCycle": "Louis Delluc, de la critique à la réalisation"
+        }
+      ],
+      "idEvenement": 32749,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-06T12:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155172,
+          "titre": "Essais d'acteurs : Eve Francis",
+          "realisateurs": "Alberto Cavalcanti, Jacques de Baroncelli",
+          "annee": 1926,
+          "duree": 4,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29554,
+              "duree": 4,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 48024,
+          "titre": "Femme de nulle part",
+          "art": "La",
+          "realisateurs": "Louis Delluc",
+          "annee": 1921,
+          "duree": 68,
+          "generique": "Ève Francis, Roger Karl, Gine Avril",
+          "synopsis": "Alors qu'elle s'apprête à quitter le domicile conjugal avec son amant, une jeune femme rencontre une femme de cinquante ans qui revient, trente ans après, dans la maison qu'elle avait quittée pour les mêmes motifs.\n\n---\n\nPrès de Gênes, une jeune femme s'apprête à quitter mari et enfant pour suivre son amant. Une femme âgée, lasse et meurtrie, arrive dans cette propriété qu'elle a jadis occupée.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28631,
+              "duree": 68,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194491,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 143,
+          "idCategorie": 3411,
+          "titreCycle": "Fenêtre sur les collections",
+          "titreSousCycle": "Louis Delluc, de la critique à la réalisation"
+        }
+      ],
+      "idEvenement": 32751,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-06T12:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49515,
+          "titre": "El Dorado",
+          "realisateurs": "Marcel L'Herbier",
+          "annee": 1921,
+          "status": 0
         }
       ]
     }
