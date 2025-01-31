@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-28T16:42:23.766Z",
+  "updatedAt": "2025-01-31T09:12:23.225Z",
   "data": [
     {
       "idSeance": 185394,
@@ -6573,7 +6573,7 @@
           "titreVo": "Trouble in Paradise",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1932,
-          "duree": 83,
+          "duree": 82,
           "generique": "Miriam Hopkins, Kay Francis, Herbert Marshall",
           "adaptation": "D'après la pièce _The Honest Finder_ de László Aladár.",
           "synopsis": "Gaston Monescu et Lily forment un couple d'escrocs très habiles. Le vol d'un sac permet à Gaston de s'introduire chez la belle Mariette Colet, dont il tombe amoureux. Mais Lily va remettre les choses au point.",
@@ -6583,9 +6583,10 @@
           "copies": [
             {
               "idCopie": 5373,
-              "duree": 83,
+              "duree": 82,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "sousTitres": "STF",
               "stDemande": true
             }
@@ -6617,7 +6618,7 @@
           "titreVo": "Trouble in Paradise",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1932,
-          "duree": 83,
+          "duree": 82,
           "generique": "Miriam Hopkins, Kay Francis, Herbert Marshall",
           "adaptation": "D'après la pièce _The Honest Finder_ de László Aladár.",
           "synopsis": "Gaston Monescu et Lily forment un couple d'escrocs très habiles. Le vol d'un sac permet à Gaston de s'introduire chez la belle Mariette Colet, dont il tombe amoureux. Mais Lily va remettre les choses au point.",
@@ -6627,9 +6628,10 @@
           "copies": [
             {
               "idCopie": 5373,
-              "duree": 83,
+              "duree": 82,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "sousTitres": "STF",
               "stDemande": true
             }
@@ -9135,7 +9137,9 @@
             {
               "idCopie": 29048,
               "duree": 86,
-              "format": "16 mm"
+              "format": "16 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -15550,6 +15554,25 @@
           "idFilmBoxoffice": 2349
         }
       ]
+    },
+    {
+      "idSeance": 186223,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3763,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Prix Serge Daney"
+        }
+      ],
+      "idEvenement": 32903,
+      "typeEvenement": 13,
+      "libelleEvenement": "PRIX SERGE DANEY 2025",
+      "dateHeure": "2025-04-10T18:00:00",
+      "idSalle": "JE",
+      "theorique": true,
+      "items": []
     }
   ]
 }
