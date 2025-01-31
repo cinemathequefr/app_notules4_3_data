@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-31T09:16:15.669Z",
+  "updatedAt": "2025-01-31T15:14:41.200Z",
   "data": [
     {
       "idSeance": 185394,
@@ -12842,7 +12842,7 @@
             {
               "idCopie": 29226,
               "duree": 125,
-              "format": "35 mm",
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -14051,10 +14051,20 @@
           "titre": "Nuts in May",
           "realisateurs": "Mike Leigh",
           "annee": 1976,
+          "duree": 84,
           "generique": "Alison Steadman, Roger Sloman, Anthony O'Donnell",
           "synopsis": "C'est l'histoire comique d'une bataille épuisante entre un amoureux de la nature et un couple de bien-pensants qui cherchent à profiter de leurs vacances dans un camping qu'ils croient idyllique.",
           "miniTexte": "Les vacances au camping d'un couple d'écologistes rigides, en quête de nature et de sérénité, tournent au fiasco à l'arrivée de campeurs indisciplinés. Une satire hilarante, écrite pour la BBC, qui se moque d'individus imbus d'eux-mêmes, bourrés de certitudes.",
           "status": 2,
+          "copies": [
+            {
+              "idCopie": 29603,
+              "duree": 84,
+              "format": "Numérique",
+              "version": "VO",
+              "stDemande": true
+            }
+          ],
           "idFilmBoxoffice": 70230
         }
       ]
@@ -15225,9 +15235,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 25479,
+              "idCopie": 2776,
               "duree": 89,
-              "format": "DCP"
+              "format": "DCP",
+              "langCopie": "FRE"
             }
           ],
           "idFilmBoxoffice": 704

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-31T09:22:06.675Z",
+  "updatedAt": "2025-01-31T15:16:22.058Z",
   "data": [
     {
       "idSeance": 185115,
@@ -5208,6 +5208,8 @@
             {
               "idCopie": 29362,
               "duree": 239,
+              "format": "DCP",
+              "version": "VO",
               "stDemande": true
             }
           ],
@@ -13131,19 +13133,10 @@
           "titreNx": "おおかみこどもの雨と雪",
           "realisateurs": "Mamoru Hosoda",
           "annee": 2011,
-          "duree": 117,
           "ageMinimal": 10,
           "synopsis": "Le père de Yuki et Ame était un homme-loup. À sa mort, leur mère doit élever seule et à l'abri des regards ses deux enfants, mi humains, mi louveteaux. La famille s'installe à la campagne où Yuki et Ame grandissent en liberté et apprennent à mieux connaître la nature, les saisons, la neige et les tempêtes.",
           "synopsisJP": "Dans un village proche d'une forêt, une mère élève seule ses deux enfants, dont le père est un homme-loup. Hosuda réalise une chronique familiale qui parle d'amour, d'éducation, de métissage et de respect de la nature. Délicat et bouleversant, un beau film d'animation adapté par la suite en manga.",
           "status": 2,
-          "copies": [
-            {
-              "idCopie": 28690,
-              "duree": 117,
-              "format": "DCP",
-              "version": "VF"
-            }
-          ],
           "idFilmBoxoffice": 206736
         }
       ]
@@ -13326,11 +13319,81 @@
       ],
       "idEvenement": 31571,
       "typeEvenement": 13,
-      "libelleEvenement": "LILA LUMIÈRE : A L'AVENTURE !",
       "dateHeure": "2025-02-05T15:00:00",
       "idSalle": "GF",
-      "theorique": true,
-      "items": []
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155182,
+          "titre": "Kayak",
+          "realisateurs": "Antoine Rossi,  Auguste Lefort, Flore Dechorgnat, [etc.]",
+          "annee": 2021,
+          "duree": 6,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29599,
+              "duree": 6,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 155183,
+          "titre": "Aventures romantiques et extraordinaires de Mr Foudamour – La Lune promise",
+          "art": "Les",
+          "realisateurs": "Marc Boyer, Christian Pfohl",
+          "annee": 1993,
+          "duree": 5,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29600,
+              "duree": 5,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 57070,
+          "titre": "Alice au pays des merveilles",
+          "titreVo": "Alice in Wonderland",
+          "realisateurs": "Clyde Geronimi, Hamilton Luske, Wilfred Jackson",
+          "annee": 1951,
+          "duree": 5,
+          "adaptation": "D'après le conte _Alice au pays des merveilles_ de Lewis Carroll.",
+          "ageMinimal": 6,
+          "synopsis": "Alors qu'elle étudie ses leçons, Alice est intriguée par un étrange lapin blanc, qu'elle décide de suivre. Elle accède ainsi au pays des merveilles, peuplé de personnages fantaisistes. Elle y fait toutes sortes de rencontres et va devoir retrouver son chemin pour rentrer chez elle.",
+          "synopsisJP": "D'après l'œuvre de Lewis Carroll, Walt Disney orchestre une plongée dans l'absurde à travers les rêves de la jeune Alice. Où l'on croise un lapin pressé, un chat délirant, un chapelier fou et une Reine de cœur tranchante, créatures inoubliables d'un monde imaginaire coloré, drôle et surréaliste.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29601,
+              "duree": 5
+            }
+          ],
+          "idFilmBoxoffice": 27098
+        },
+        {
+          "ordre": 4,
+          "idFilm": 155184,
+          "titre": "Filante",
+          "realisateurs": "Marion Jamault",
+          "annee": 2024,
+          "duree": 9,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29602,
+              "duree": 9,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 138878,
@@ -13345,11 +13408,81 @@
       ],
       "idEvenement": 31571,
       "typeEvenement": 13,
-      "libelleEvenement": "LILA LUMIÈRE : A L'AVENTURE !",
       "dateHeure": "2025-02-09T15:00:00",
       "idSalle": "GF",
-      "theorique": true,
-      "items": []
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155182,
+          "titre": "Kayak",
+          "realisateurs": "Antoine Rossi,  Auguste Lefort, Flore Dechorgnat, [etc.]",
+          "annee": 2021,
+          "duree": 6,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29599,
+              "duree": 6,
+              "format": "DCP"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 155183,
+          "titre": "Aventures romantiques et extraordinaires de Mr Foudamour – La Lune promise",
+          "art": "Les",
+          "realisateurs": "Marc Boyer, Christian Pfohl",
+          "annee": 1993,
+          "duree": 5,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29600,
+              "duree": 5,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            }
+          ]
+        },
+        {
+          "ordre": 3,
+          "idFilm": 57070,
+          "titre": "Alice au pays des merveilles",
+          "titreVo": "Alice in Wonderland",
+          "realisateurs": "Clyde Geronimi, Hamilton Luske, Wilfred Jackson",
+          "annee": 1951,
+          "duree": 5,
+          "adaptation": "D'après le conte _Alice au pays des merveilles_ de Lewis Carroll.",
+          "ageMinimal": 6,
+          "synopsis": "Alors qu'elle étudie ses leçons, Alice est intriguée par un étrange lapin blanc, qu'elle décide de suivre. Elle accède ainsi au pays des merveilles, peuplé de personnages fantaisistes. Elle y fait toutes sortes de rencontres et va devoir retrouver son chemin pour rentrer chez elle.",
+          "synopsisJP": "D'après l'œuvre de Lewis Carroll, Walt Disney orchestre une plongée dans l'absurde à travers les rêves de la jeune Alice. Où l'on croise un lapin pressé, un chat délirant, un chapelier fou et une Reine de cœur tranchante, créatures inoubliables d'un monde imaginaire coloré, drôle et surréaliste.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29601,
+              "duree": 5
+            }
+          ],
+          "idFilmBoxoffice": 27098
+        },
+        {
+          "ordre": 4,
+          "idFilm": 155184,
+          "titre": "Filante",
+          "realisateurs": "Marion Jamault",
+          "annee": 2024,
+          "duree": 9,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29602,
+              "duree": 9,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 138692,
