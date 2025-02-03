@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-31T15:16:22.058Z",
+  "updatedAt": "2025-02-03T09:10:09.856Z",
   "data": [
     {
       "idSeance": 185115,
@@ -12276,33 +12276,6 @@
       ]
     },
     {
-      "idSeance": 138738,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 661,
-          "idCategorie": 3590,
-          "titreCycle": "Gérardmer à Paris",
-          "titreSousCycle": "Séance d'ouverture"
-        },
-        {
-          "idCycle": 661,
-          "idCategorie": 3590,
-          "titreCycle": "Gérardmer à Paris",
-          "titreSousCycle": "Séance d'ouverture"
-        }
-      ],
-      "idEvenement": 31530,
-      "typeEvenement": 13,
-      "libelleEvenement": "GRAND PRIX DU 32E FESTIVAL GÉRARDMER",
-      "dateHeure": "2025-02-05T20:00:00",
-      "idSalle": "HL",
-      "typeSeance": 43,
-      "theorique": true,
-      "mention": "Avant-première",
-      "items": []
-    },
-    {
       "idSeance": 145273,
       "idProg": 184,
       "idCycleCategories": [
@@ -18097,6 +18070,46 @@
             }
           ],
           "idFilmBoxoffice": 280859
+        }
+      ]
+    },
+    {
+      "idSeance": 194552,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 661,
+          "idCategorie": 2835,
+          "titreCycle": "Gérardmer à Paris",
+          "titreSousCycle": "Films de la compétition"
+        }
+      ],
+      "idEvenement": 32669,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-05T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155156,
+          "titre": "In a Violent Nature",
+          "realisateurs": "Chris Nash",
+          "annee": 2024,
+          "duree": 94,
+          "generique": "Ry Barrett, Andrea Pavlovic, Cameron Love, Reece Presley, Liam Leone",
+          "miniTexte": "Après s'être fait dérober un précieux artefact, cadeau de sa mère, un tueur en série s'extirpe de sa tombe pour entamer une quête vengeresse. Il va traquer un groupe de jeunes qui se racontent son histoire.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29452,
+              "duree": 94,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 325170
         }
       ]
     },
