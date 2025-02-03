@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-03T10:55:40.000Z",
+  "updatedAt": "2025-02-03T11:56:26.245Z",
   "data": [
     {
       "idSeance": 185115,
@@ -4713,48 +4713,6 @@
       ]
     },
     {
-      "idSeance": 185086,
-      "idProg": 184,
-      "idCycleCategories": [
-        {
-          "idCycle": 807,
-          "idCategorie": 3452,
-          "titreCycle": "John Frankenheimer",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31311,
-      "typeEvenement": 13,
-      "dateHeure": "2025-02-05T18:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 68011,
-          "titre": "Extraordinary Seaman",
-          "art": "The",
-          "realisateurs": "John Frankenheimer",
-          "annee": 1969,
-          "duree": 80,
-          "generique": "David Niven, Faye Dunaway, Alan Alda",
-          "miniTexte": "Frankenheimer se lance dans la comédie avec l'histoire d'un capitaine de vaisseau, mort noyé et condamné à errer sur les mers pour racheter ses échecs militaires. Le cinéaste jugeait son film peu abouti, mais il n'en reste pas moins une curiosité, avec le toujours grand David Niven et Faye Dunaway, alors au sommet à Hollywood.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 29360,
-              "duree": 80,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "Autres",
-              "stDemande": true
-            }
-          ],
-          "idFilmBoxoffice": 202092
-        }
-      ]
-    },
-    {
       "idSeance": 185093,
       "idProg": 184,
       "idCycleCategories": [
@@ -5214,6 +5172,48 @@
             }
           ],
           "idFilmBoxoffice": 34441
+        }
+      ]
+    },
+    {
+      "idSeance": 194553,
+      "idProg": 184,
+      "idCycleCategories": [
+        {
+          "idCycle": 807,
+          "idCategorie": 3452,
+          "titreCycle": "John Frankenheimer",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31320,
+      "typeEvenement": 13,
+      "dateHeure": "2025-02-05T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32413,
+          "titre": "Impossible Objet",
+          "art": "L'",
+          "realisateurs": "John Frankenheimer",
+          "annee": 1973,
+          "duree": 119,
+          "generique": "Alan Bates, Dominique Sanda, Michel Auclair",
+          "adaptation": "D'après le roman _Impossible objet_ de Nicholas Mosley.",
+          "miniTexte": "Avec comme point de départ le coup de foudre entre un écrivain anglais et une Française, tous deux mariés et parents, une étude sur l'instabilité des sentiments. Leur histoire d'amour, qui navigue dans les limites troubles du rêve et de la réalité, a la classe _British_ d'Alan Bates, et la grâce éthérée de Dominique Sanda.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28753,
+              "duree": 119,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 43590
         }
       ]
     },
