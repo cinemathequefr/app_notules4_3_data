@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-03T10:53:00.218Z",
+  "updatedAt": "2025-02-04T14:27:18.200Z",
   "data": [
     {
       "idSeance": 185394,
@@ -6676,6 +6676,7 @@
               "duree": 76,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "stDemande": true
             }
           ],
@@ -6719,6 +6720,7 @@
               "duree": 76,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "stDemande": true
             }
           ],
@@ -7886,6 +7888,7 @@
               "duree": 76,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "stDemande": true
             }
           ],
@@ -7927,6 +7930,7 @@
               "duree": 76,
               "format": "35 mm",
               "version": "VO",
+              "langCopie": "ENG",
               "stDemande": true
             }
           ],
@@ -12542,19 +12546,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29190,
-              "duree": 103,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 29260,
+              "idCopie": 29606,
               "duree": 103,
               "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 6999

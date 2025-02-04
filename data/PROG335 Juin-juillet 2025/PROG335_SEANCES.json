@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-01-28T16:42:19.789Z",
+  "updatedAt": "2025-02-04T14:26:37.505Z",
   "data": [
     {
       "idSeance": 189516,
@@ -143,7 +143,7 @@
       ],
       "idEvenement": 32749,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-06T12:00:00",
+      "dateHeure": "2025-06-06T18:30:00",
       "idSalle": "JE",
       "items": [
         {
@@ -169,15 +169,15 @@
           "art": "La",
           "realisateurs": "Louis Delluc",
           "annee": 1921,
-          "duree": 68,
+          "duree": 67,
           "generique": "Ève Francis, Roger Karl, Gine Avril",
           "synopsis": "Alors qu'elle s'apprête à quitter le domicile conjugal avec son amant, une jeune femme rencontre une femme de cinquante ans qui revient, trente ans après, dans la maison qu'elle avait quittée pour les mêmes motifs.\n\n---\n\nPrès de Gênes, une jeune femme s'apprête à quitter mari et enfant pour suivre son amant. Une femme âgée, lasse et meurtrie, arrive dans cette propriété qu'elle a jadis occupée.",
           "status": 0,
           "copies": [
             {
-              "idCopie": 28631,
-              "duree": 68,
-              "format": "35 mm",
+              "idCopie": 8355,
+              "duree": 67,
+              "format": "DCP",
               "intertitres": "INT. FR."
             }
           ]
@@ -198,7 +198,7 @@
       ],
       "idEvenement": 32751,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-06T12:00:00",
+      "dateHeure": "2025-06-06T20:30:00",
       "idSalle": "JE",
       "items": [
         {
@@ -207,7 +207,16 @@
           "titre": "El Dorado",
           "realisateurs": "Marcel L'Herbier",
           "annee": 1921,
-          "status": 0
+          "duree": 88,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29631,
+              "duree": 88,
+              "format": "35 mm",
+              "intertitres": "INT. FR."
+            }
+          ]
         }
       ],
       "mention": "Séance présentée par Marién Gomez"
