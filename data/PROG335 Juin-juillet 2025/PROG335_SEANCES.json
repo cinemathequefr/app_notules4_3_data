@@ -1,6 +1,203 @@
 {
-  "updatedAt": "2025-02-05T10:39:58.719Z",
+  "updatedAt": "2025-02-05T16:09:39.304Z",
   "data": [
+    {
+      "idSeance": 194577,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3647,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "USA Eighties"
+        }
+      ],
+      "idEvenement": 31723,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-20T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 33015,
+          "titre": "Passagers de l'angoisse",
+          "art": "Les",
+          "titreVo": "Stranded",
+          "realisateurs": "Tex Fuller",
+          "annee": 1987,
+          "duree": 80,
+          "generique": "Ione Skye, Maureen O'Sullivan, Joe Morton",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28792,
+              "duree": 80,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ],
+          "idFilmBoxoffice": 320257
+        }
+      ]
+    },
+    {
+      "idSeance": 188949,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31728,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-13T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42416,
+          "titre": "Mystère",
+          "realisateurs": "Carlo Vanzina",
+          "annee": 1983,
+          "duree": 84,
+          "generique": "Carole Bouquet, Phil Coccioletti, Duilio Del Prete",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 28798,
+              "duree": 84,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ],
+          "idFilmBoxoffice": 110289
+        }
+      ]
+    },
+    {
+      "idSeance": 194576,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31853,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-20T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 30274,
+          "titre": "Future Cop",
+          "titreVo": "Trancers",
+          "realisateurs": "Charles Band",
+          "annee": 1984,
+          "duree": 77,
+          "generique": "Tim Thomerson, Helen Hunt, Telma Hopkins",
+          "miniTexte": "Double dose d'apocalypse chez le prolifique Charles Band, où se rencontrent flics, criminels et créatures bizarres. L'univers punk _eighties_ est porté à son paroxysme dans _Future Cop_, pêle-mêle de _gunfights_ et de poursuites au cœur d'un Los Angeles dévasté, qui lorgne copieusement sur _Blade Runner_. L'occasion pour Helen Hunt de décrocher son premier grand rôle à l'écran. Explosions de voitures et motos volantes prennent la suite dans _Metalstorm_, mélange hybride entre _Mad Max_ et _Les Aventuriers de l'arche perdue_, qui laisse à Jeffrey Byron un boulevard de cabotinage à sillonner.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28907,
+              "duree": 77,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 199597
+        }
+      ]
+    },
+    {
+      "idSeance": 189437,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32605,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-02T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45643,
+          "titre": "Danse macabre",
+          "titreVo": "Danza macabra",
+          "realisateurs": "Anthony Dawson",
+          "annee": 1964,
+          "duree": 89,
+          "generique": "Barbara Steele, Georges Rivière, Margrete Robsahm, Montgomery Glenn",
+          "adaptation": "D'après le roman _Danse macabre_ d'Edgar Allan Poe.",
+          "synopsis": "Un jeune journaliste relève le pari de passer la nuit dans un château hanté. Il perd rapidement pied car, devant ses yeux horrifiés, se rejouent des meurtres passés, dont celui du précédent couple à avoir relevé le même défi.",
+          "commentaire": "Dans le sillage des productions anglaises de la Hammer, l'Italie connaît, au début des années 1960, un engouement pour l'horreur gothique, genre qui ne revêt pas encore les couleurs sanglantes du _giallo_ et dans lequel _Danse macabre_ tient une place prépondérante. Tournée en moins de deux semaines dans les décors encore frais du _Religieux de Monza_ – que vient de réaliser Sergio Corbucci –, la série B d'Antonio Margheriti produit un véritable plaisir esthétique, à la faveur d'une photographie envoûtante, explicitement inspirée par l'atmosphère fantastique des contes d'Edgar Poe. Explorant les recoins du château de Lord Blackwood, éclairé d'une chandelle vacillante, Alan Foster regrette bientôt d'avoir accepté un pari aussi funèbre, dont l'unique prétexte sert à donner corps aux histoires extraordinaires qui imprègnent les lieux. Le long des corridors aux ombres flottantes, le danger peut surgir à chaque instant, dans le reflet d'un miroir ou derrière la porte d'une chambre chargée de secrets. Pris au vieux piège de la maison hantée, coincé entre la vie et la mort d'un espace-temps poétiquement indéterminé, voici que l'intrépide mortel tombe amoureux d'une revenante. Barbara Steele, diva du genre à l'étrange beauté – révélée dans _Le Masque du démon_ de Mario Bava –, apporte à cette _Danse macabre_ son lot de suggestions érotiques et saphiques, lors d'une ingénieuse représentation, qu'une horde de fantômes et de vampires se plaisent à rejouer indéfiniment.\r\n\r\nDelphine Simon-Marsaud",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29428,
+              "duree": 89,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 189560,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32610,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-05T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59031,
+          "titre": "Et le vent apporta la violence",
+          "titreVo": "E Dio disse a Caino",
+          "realisateurs": "Anthony Dawson",
+          "annee": 1970,
+          "duree": 99,
+          "generique": "Klaus Kinski, Peter Carsten, Lee Burton",
+          "synopsis": "Injustement condamné au bagne, un ancien forçat revient dans sa ville châtier ceux qui l'ont piégé.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29429,
+              "duree": 99,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
     {
       "idSeance": 189516,
       "idProg": 335,
