@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-04T14:26:37.505Z",
+  "updatedAt": "2025-02-05T10:39:58.719Z",
   "data": [
     {
       "idSeance": 189516,
@@ -220,6 +220,44 @@
         }
       ],
       "mention": "Séance présentée par Marién Gomez"
+    },
+    {
+      "idSeance": 189626,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1001,
+          "idCategorie": 3767,
+          "titreCycle": "Edward Yang",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32915,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-09T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 71030,
+          "titre": "Mahjong",
+          "titreNx": "麻將",
+          "realisateurs": "Edward Yang",
+          "annee": 1996,
+          "duree": 121,
+          "generique": "Virginie Ledoyen, Yue-Lin Ko, Tsung sheng Tang",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29622,
+              "duree": 121
+            }
+          ],
+          "idFilmBoxoffice": 32713
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
     }
   ]
 }
