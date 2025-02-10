@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-06T09:55:33.649Z",
+  "updatedAt": "2025-02-10T12:32:30.251Z",
   "data": [
     {
       "idSeance": 188170,
@@ -2457,7 +2457,7 @@
           "annee": 1980,
           "duree": 110,
           "generique": "Christine Boisson, Gérard Lanvin, André Dussollier",
-          "miniTexte": "La chronique désenchantée de trois paumés : deux ex-soixante-huitards, chômeurs, qui croisent la solitude d'une chauffeuse de taxi, Titi marginale (la regrettée Christine Boisson). Entre Pigalle et le canal Saint-Martin, dans un Paris nocturne, poisseux, fantomatique, Bral traîne sa caméra comme ils traînent leur déprime, bercée par un jazz mélancolique. Un traité d'amertume doublé d'un humour désinvolte.",
+          "miniTexte": "La chronique désenchantée de trois paumés : deux ex-soixante-huitards, chômeurs, qui croisent la solitude d'une chauffeuse de taxi, Titi marginale (la regrettée Christine Boisson). Entre Pigalle et le canal Saint-Martin, dans un Paris nocturne, poisseux, fantomatique, Bral traîne sa caméra comme ils traînent leur déprime, bercée par un jazz mélancolique. Un traité d'amertume doublée d'un humour désinvolte.",
           "status": 2,
           "copies": [
             {
@@ -2619,8 +2619,7 @@
         {
           "ordre": 4,
           "idFilm": 155098,
-          "titre": "Giovanni Vitrotti",
-          "titreVo": "Fortuna Ciabattino !",
+          "titre": "Fortuna Ciabattino!",
           "realisateurs": "Anonyme",
           "annee": 1908,
           "duree": 6,
@@ -3721,6 +3720,7 @@
           "duree": 134,
           "generique": "Gregory Peck, Anthony Perkins, Ava Gardner",
           "adaptation": "D'après le roman _Le Dernier rivage_ de Nevil Shute.",
+          "synopsis": "Après la guerre atomique, les derniers survivants sont l'équipage d'un sous-marin américain et des habitants de l'Australie que n'ont pas encore atteints les nuages radioactifs.",
           "miniTexte": "1964. Une guerre atomique a anéanti une partie de l'humanité. En Australie, les survivants tentent de trouver du réconfort, alors que le nuage radioactif progresse inexorablement vers eux. Dans l'un des premiers films à dénoncer la course au nucléaire, Kramer propose une vision intimiste de l'apocalypse, à travers les derniers mois d'une poignée d'êtres rongés par la peur, et prêts à accepter leur sort.",
           "status": 2,
           "copies": [
@@ -4320,6 +4320,32 @@
             }
           ],
           "idFilmBoxoffice": 1777
+        }
+      ]
+    },
+    {
+      "idSeance": 194581,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 994,
+          "idCategorie": 3751,
+          "titreCycle": "Journée d'étude 130 ans de salles de cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32997,
+      "typeEvenement": 13,
+      "dateHeure": "2025-03-05T09:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 52656,
+          "titre": "Entrée du cinématographe = Londres, Angleterre",
+          "realisateurs": "Opérateurs Lumière",
+          "annee": 1896,
+          "status": 0
         }
       ]
     }

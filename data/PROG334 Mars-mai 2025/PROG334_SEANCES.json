@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-06T15:30:40.956Z",
+  "updatedAt": "2025-02-10T12:28:14.436Z",
   "data": [
     {
       "idSeance": 185394,
@@ -1815,35 +1815,6 @@
       ]
     },
     {
-      "idSeance": 188015,
-      "idProg": 334,
-      "idCycleCategories": [
-        {
-          "idCycle": 753,
-          "idCategorie": 3248,
-          "titreCycle": "Carlo Lizzani",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31942,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-15T18:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 54870,
-          "titre": "Jo le fou",
-          "titreVo": "Crazy Joe",
-          "realisateurs": "Carlo Lizzani",
-          "annee": 1973,
-          "generique": "Peter Boyle, Fred Williamson, Charles Cioffi",
-          "miniTexte": "Deux ans après le triomphe du _Parrain_, Dino De Laurentiis et Carlo Lizzani investissent New York pour un film de mafia qui lorgne davantage du côté du _poliziottesco_ que vers les fresques opératiques de Francis Ford Coppola. Tiré d'articles signés du reporter Nicholas Cage, le polar s'inspire de la vie de Joseph « Crazy Joe » Gallo, et réunit la fine fleur du cinéma de quartier américain des années 70.",
-          "status": 2
-        }
-      ]
-    },
-    {
       "idSeance": 188018,
       "idProg": 334,
       "idCycleCategories": [
@@ -2279,7 +2250,7 @@
       ],
       "idEvenement": 31952,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-15T20:45:00",
+      "dateHeure": "2025-05-15T21:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2318,6 +2289,49 @@
       "idEvenement": 31953,
       "typeEvenement": 13,
       "dateHeure": "2025-05-08T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43401,
+          "titre": "Procès de Vérone",
+          "art": "Le",
+          "titreVo": "Processo di Verona",
+          "artVo": "Il",
+          "realisateurs": "Carlo Lizzani",
+          "annee": 1963,
+          "duree": 118,
+          "generique": "Silvana Mangano, Françoise Prévost, Frank Wolff",
+          "synopsis": "Rome, été 1943. La destitution de Mussolini est votée mais celui-ci est rapidement libéré. Il fait arrêter ses opposants, dont son propre gendre et son épouse. Leur procès se déroule à Vérone.",
+          "miniTexte": "L'agonie du fascisme italien, ses intrigues de palais et ses purges – ici la condamnation à mort du gendre de Mussolini, avec l'assentiment de ce dernier. On sait que la comtesse Edda Ciano, la propre fille du Duce, voulut faire interdire le film, qui reste aujourd'hui encore un impressionnant tableau des drames intimes qui se jouèrent durant l'éphémère République de Salò.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 6004,
+              "duree": 118,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 39508
+        }
+      ]
+    },
+    {
+      "idSeance": 194580,
+      "idProg": 334,
+      "idCycleCategories": [
+        {
+          "idCycle": 753,
+          "idCategorie": 3248,
+          "titreCycle": "Carlo Lizzani",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31953,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-15T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4553,6 +4567,14 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29645,
+              "duree": 79,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
               "stDemande": true
             }
           ],
@@ -4593,6 +4615,14 @@
           "copies": [
             {
               "idCopie": 29156,
+              "duree": 79,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29645,
               "duree": 79,
               "format": "35 mm",
               "version": "VO",
@@ -5864,14 +5894,6 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29085,
-              "duree": 112,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
               "idCopie": 29419,
               "duree": 112,
               "format": "35 mm",
@@ -5913,14 +5935,6 @@
           "miniTexte": "Un vieux Casanova trépasse et se présente aux portes de l'Enfer, certain de mériter sa destination finale. Mots d'esprit et luxe velouté, un classique indémodable, aux couleurs de la haute société new-yorkaise du XIX<sup>e</sup> siècle finissant.",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 29085,
-              "duree": 112,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF",
-              "selected": true
-            },
             {
               "idCopie": 29419,
               "duree": 112,
@@ -7009,18 +7023,17 @@
           "artVo": "The",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1931,
-          "duree": 102,
+          "duree": 88,
           "generique": "Maurice Chevalier, Claudette Colbert, Miriam Hopkins, Charles Ruggles",
           "adaptation": "D'après l'opérette _Ein Walzertraum_ de Leopold Jacobson et Felix Dörmann.",
           "miniTexte": "Une romance musicale triangulaire, fondée sur l'insinuation et les quiproquos. À partir d'un fâcheux clin d'œil, la mécanique bien huilée de Lubitsch se met en marche dans une Vienne d'opérette, royaume de l'inconstance et du bon mot.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 29338,
-              "duree": 102,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
+              "idCopie": 29080,
+              "duree": 88,
+              "format": "35 mm",
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 13877
