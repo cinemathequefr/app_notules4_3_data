@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-10T12:32:30.251Z",
+  "updatedAt": "2025-02-11T07:25:49.979Z",
   "data": [
     {
       "idSeance": 188170,
@@ -835,26 +835,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 5044,
-              "duree": 135,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 5168,
-              "duree": 135,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF"
-            },
-            {
               "idCopie": 29281,
               "duree": 135,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VO"
             }
           ],
@@ -982,28 +965,6 @@
               "format": "DCP",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 4941,
-              "duree": 132,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 4942,
-              "duree": 132,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 4943,
-              "duree": 132,
-              "format": "35 mm",
-              "version": "VO",
               "sousTitres": "STF"
             }
           ],
@@ -1047,28 +1008,6 @@
               "format": "DCP",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 4941,
-              "duree": 132,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 4942,
-              "duree": 132,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 4943,
-              "duree": 132,
-              "format": "35 mm",
-              "version": "VO",
               "sousTitres": "STF"
             }
           ],
@@ -1111,28 +1050,6 @@
               "format": "DCP",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "STF",
-              "selected": true
-            },
-            {
-              "idCopie": 4941,
-              "duree": 132,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 4942,
-              "duree": 132,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            },
-            {
-              "idCopie": 4943,
-              "duree": 132,
-              "format": "35 mm",
-              "version": "VO",
               "sousTitres": "STF"
             }
           ],
@@ -4342,10 +4259,10 @@
         {
           "ordre": 1,
           "idFilm": 52656,
-          "titre": "Entrée du cinématographe = Londres, Angleterre",
+          "titre": "Entrée du cinématographe (Londres, Angleterre)",
           "realisateurs": "Opérateurs Lumière",
           "annee": 1896,
-          "status": 0
+          "status": 1
         }
       ]
     }
