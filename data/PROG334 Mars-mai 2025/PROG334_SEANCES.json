@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-11T07:25:42.249Z",
+  "updatedAt": "2025-02-12T09:32:30.845Z",
   "data": [
     {
       "idSeance": 185394,
@@ -4918,7 +4918,15 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
-              "sousTitres": "Autres"
+              "sousTitres": "Autres",
+              "selected": true
+            },
+            {
+              "idCopie": 29668,
+              "duree": 137,
+              "format": "DCP",
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 13022
@@ -8014,11 +8022,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29591,
+              "idCopie": 29669,
               "duree": 88,
-              "format": "16 mm",
-              "version": "VO",
-              "sousTitres": "STF"
+              "format": "Numérique"
             }
           ],
           "idFilmBoxoffice": 2429

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-11T07:25:38.302Z",
+  "updatedAt": "2025-02-12T09:26:43.358Z",
   "data": [
     {
       "idSeance": 194577,
@@ -62,13 +62,13 @@
           "titre": "Mystère",
           "realisateurs": "Carlo Vanzina",
           "annee": 1983,
-          "duree": 84,
+          "duree": 88,
           "generique": "Carole Bouquet, Phil Coccioletti, Duilio Del Prete",
           "status": 1,
           "copies": [
             {
               "idCopie": 28798,
-              "duree": 84,
+              "duree": 88,
               "format": "35 mm",
               "version": "VF"
             }
@@ -114,6 +114,46 @@
             }
           ],
           "idFilmBoxoffice": 199597
+        }
+      ]
+    },
+    {
+      "idSeance": 189562,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32600,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-05T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 58732,
+          "titre": "Chevauchée terrible",
+          "art": "La",
+          "titreVo": "Parola di un fuorilegge è legge",
+          "artVo": "La",
+          "realisateurs": "Anthony Dawson",
+          "annee": 1975,
+          "duree": 102,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29468,
+              "duree": 102,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -193,6 +233,85 @@
               "duree": 99,
               "format": "DCP",
               "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189475,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32628,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-03T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42318,
+          "titre": "Sorcière sanglante",
+          "art": "La",
+          "titreVo": "Lunghi capelli della Morte",
+          "artVo": "I",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1964,
+          "duree": 98,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29430,
+              "duree": 98,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189474,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32630,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-03T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 79636,
+          "titre": "Vierge de Nuremberg",
+          "art": "La",
+          "titreVo": "Vergine di Norimberga",
+          "artVo": "La",
+          "realisateurs": "Anthony Dawson",
+          "annee": 1963,
+          "duree": 83,
+          "generique": "Rossana Podesta, Christopher Lee, Georges Rivière, Lucile Saint-Simon",
+          "adaptation": "D'après le roman _La Vierge de Nuremberg_ de Frank Bogart.",
+          "synopsis": "Deux jeunes mariés s'installent dans un manoir en Allemagne. Très vite, la jeune femme trouve l'atmosphère oppressante dans ce château qui recèle une ancienne salle de torture.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 3467,
+              "duree": 83,
+              "format": "35 mm",
+              "version": "VF"
             }
           ]
         }
@@ -419,6 +538,131 @@
       "mention": "Séance présentée par Marién Gomez"
     },
     {
+      "idSeance": 189285,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32765,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-26T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 60168,
+          "titre": "Ghost in the Shell",
+          "titreVo": "Kokaku kidotai",
+          "realisateurs": "Mamoru Oshii",
+          "annee": 1995,
+          "duree": 83,
+          "adaptation": "D'après le manga _Ghost in the Shell_ de Masamune Shirow.",
+          "synopsis": "En 2029, une femme cyborg et son acolyte traquent pour la cyberpolice un mystérieux pirate de l'informatique.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 11062,
+              "duree": 83,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "JPN",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189286,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32766,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-26T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 91457,
+          "titre": "Ghost in the Shell 2 : Innocence",
+          "titreVo": "Inosensu",
+          "realisateurs": "Mamoru Oshii",
+          "annee": 2003,
+          "duree": 99,
+          "adaptation": "D'après le manga _Ghost in the Shell_ de Masamune Shirow.",
+          "synopsis": "Japon, 2032. Hanté par le souvenir du Major Motoko, l'inspecteur cyborg Batou enquête avec son partenaire humain Togusa sur une série de meurtres perpétrés par des gynoïdes, des androïdes à l'apparence féminine, destinés aux plaisirs sexuels.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 18843,
+              "duree": 99,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189248,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32768,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-25T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 65008,
+          "titre": "Perfect blue",
+          "realisateurs": "Satoshi Kon",
+          "annee": 1997,
+          "duree": 81,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29569,
+              "duree": 81,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29615,
+              "duree": 81,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
       "idSeance": 189626,
       "idProg": 335,
       "idCycleCategories": [
@@ -458,6 +702,331 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 189704,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1001,
+          "idCategorie": 3767,
+          "titreCycle": "Edward Yang",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32916,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-11T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59723,
+          "titre": "Confusion chez Confucius",
+          "titreVo": "Duli shidai",
+          "titreNx": "獨立時代",
+          "realisateurs": "Edward Yang",
+          "annee": 1994,
+          "duree": 132,
+          "generique": "Xianqi Chen, Shujun Ni, Weiming Wang",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29620,
+              "duree": 132,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 129841
+        }
+      ]
+    },
+    {
+      "idSeance": 189663,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1001,
+          "idCategorie": 3767,
+          "titreCycle": "Edward Yang",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32917,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-10T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 75632,
+          "titre": "Taipei story",
+          "titreVo": "Qing mei zhu ma",
+          "titreNx": "青梅竹馬",
+          "realisateurs": "Edward Yang",
+          "annee": 1985,
+          "duree": 115,
+          "generique": "Hsiao-Hsien Hou, Chin Tsai, Teh-nan Lai",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 13046,
+              "duree": 115,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 13602
+        }
+      ]
+    },
+    {
+      "idSeance": 189763,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1001,
+          "idCategorie": 3767,
+          "titreCycle": "Edward Yang",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32918,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-13T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 112476,
+          "titre": "Ce jour-là sur la plage",
+          "titreVo": "Hai tan de yi tian",
+          "titreNx": "海灘的一天",
+          "realisateurs": "Edward Yang",
+          "annee": 1983,
+          "duree": 167,
+          "generique": "Sylvia Chang, Terry Hu, David Mao",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29621,
+              "duree": 167,
+              "format": "16 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 844
+        }
+      ]
+    },
+    {
+      "idSeance": 189703,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1001,
+          "idCategorie": 3767,
+          "titreCycle": "Edward Yang",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32919,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-11T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44460,
+          "titre": "A Brighter Summer Day",
+          "titreVo": "Gu ling jie shao nian sha ren shi jian",
+          "titreNx": "牯嶺街少年殺人事件",
+          "realisateurs": "Edward Yang",
+          "annee": 1991,
+          "duree": 237,
+          "generique": "Zhen Zhang, Guozhu Chang, Ju-an Wang",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29619,
+              "duree": 237,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 7331
+        }
+      ]
+    },
+    {
+      "idSeance": 189746,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1001,
+          "idCategorie": 3767,
+          "titreCycle": "Edward Yang",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32920,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-12T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 68653,
+          "titre": "Yi Yi",
+          "titreNx": "一一",
+          "realisateurs": "Edward Yang",
+          "annee": 2000,
+          "generique": "Nianzhen Wu, Issey Ogata, Elaine Jin",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 22717,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 22719,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 25300
+        }
+      ]
+    },
+    {
+      "idSeance": 189664,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1001,
+          "idCategorie": 3767,
+          "titreCycle": "Edward Yang",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32921,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-10T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 112477,
+          "titre": "Terrorizers",
+          "titreVo": "Kong bu fen zi",
+          "titreNx": "恐怖分子",
+          "realisateurs": "Edward Yang",
+          "annee": 1986,
+          "duree": 109,
+          "generique": "Cora Miao, An Wang, Li-chun Li",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29623,
+              "duree": 109,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 141092
+        }
+      ]
+    },
+    {
+      "idSeance": 189747,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1001,
+          "idCategorie": 3767,
+          "titreCycle": "Edward Yang",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32922,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-12T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 125886,
+          "titre": "In our time",
+          "titreVo": "Guangyin de gushi",
+          "titreNx": "光陰的故事",
+          "realisateurs": "Tao Te-chen, Edward Yang, Ko I-chen, Yi Chang",
+          "annee": 1982,
+          "duree": 106,
+          "generique": "Shi Anni, Zhang Yingzhen, Wang Qiguang",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29618,
+              "duree": 106,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 231223
+        }
+      ]
+    },
+    {
+      "idSeance": 189764,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1001,
+          "idCategorie": 3778,
+          "titreCycle": "Edward Yang",
+          "titreSousCycle": "Autour d'Edward Yang"
+        }
+      ],
+      "idEvenement": 33002,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-13T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44453,
+          "titre": "Un été chez grand-père",
+          "titreVo": "Tung-tung te chia-ch'i",
+          "realisateurs": "Hsiao-Hsien Hou",
+          "annee": 1984,
+          "duree": 100,
+          "generique": "Chi-Kuang Wang, Shu-tien Li, Chun Ku, Mei Fang",
+          "synopsis": "Leur mère étant à l'hôpital, deux enfants quittent Taipei et vont passer quelques semaines chez leur grand-père à la campagne. Un été lumineux, gorgé de soleil et de rires. En apparence seulement, car le monde des adultes se révèle aux enfants, tandis que celui de l'enfance insouciante s'éloigne peu à peu.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29649,
+              "duree": 100,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
