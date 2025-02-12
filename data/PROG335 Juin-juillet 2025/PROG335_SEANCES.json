@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-12T09:26:43.358Z",
+  "updatedAt": "2025-02-12T13:23:30.083Z",
   "data": [
     {
       "idSeance": 194577,
@@ -1009,13 +1009,15 @@
           "ordre": 1,
           "idFilm": 44453,
           "titre": "Un été chez grand-père",
-          "titreVo": "Tung-tung te chia-ch'i",
-          "realisateurs": "Hsiao-Hsien Hou",
+          "titreVo": "Dongdong de jiaqi",
+          "titreNx": "冬冬的假期",
+          "realisateurs": "Hou Hsiao-hsien",
           "annee": 1984,
+          "dureeStd": 93,
           "duree": 100,
           "generique": "Chi-Kuang Wang, Shu-tien Li, Chun Ku, Mei Fang",
           "synopsis": "Leur mère étant à l'hôpital, deux enfants quittent Taipei et vont passer quelques semaines chez leur grand-père à la campagne. Un été lumineux, gorgé de soleil et de rires. En apparence seulement, car le monde des adultes se révèle aux enfants, tandis que celui de l'enfance insouciante s'éloigne peu à peu.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29649,
@@ -1024,7 +1026,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 4310
         }
       ]
     }
