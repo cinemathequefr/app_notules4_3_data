@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-13T16:26:57.306Z",
+  "updatedAt": "2025-02-13T16:31:41.990Z",
   "data": [
     {
       "idSeance": 194577,
@@ -14,7 +14,7 @@
       ],
       "idEvenement": 31723,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-20T21:30:00",
+      "dateHeure": "2025-06-20T21:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -90,7 +90,7 @@
       ],
       "idEvenement": 31853,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-20T19:30:00",
+      "dateHeure": "2025-06-20T19:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -834,6 +834,144 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 189435,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32826,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-02T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43314,
+          "titre": "Cité des femmes",
+          "art": "La",
+          "titreVo": "Citta delle donne",
+          "artVo": "La",
+          "realisateurs": "Federico Fellini",
+          "annee": 1979,
+          "duree": 137,
+          "generique": "Marcello Mastroianni, Ettore Manni, Bernice Stegers",
+          "synopsis": "Lors d'un voyage en train, Snaporaz rêve qu'il désire une femme. Perdu dans un monde onirique, il se trouve pris au piège d'un congrès féministe où les femmes agissent de façon tribale.\n\n---\n\nUn vieux séducteur descend d'un train en pleine campagne pour suivre une belle voyageuse. Il se retrouve au cœur d'un congrès féministe.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 421,
+              "duree": 137,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194619,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32833,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-27T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 57439,
+          "titre": "Des gens comme les autres",
+          "titreVo": "Ordinary People",
+          "realisateurs": "Robert Redford",
+          "annee": 1979,
+          "generique": "Donald Sutherland, Mary Tyler Moore, Judd Hirsch",
+          "adaptation": "D'après le roman _Ordinary People_ de Judith Guest.",
+          "synopsis": "Calvin et Beth Jarrett forment en apparence un couple modèle d'américains. Mais la réalité est tout autre: leur fils aîné Buck s'est noyé en faisant du dériveur avec son jeune frère Conrad.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 189400,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32835,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-30T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35671,
+          "titre": "Fame",
+          "realisateurs": "Alan Parker",
+          "annee": 1979,
+          "generique": "Irene Cara, Lee Curreri, Eddie Barth",
+          "synopsis": "Dans la prestigieuse école d'art du spectacle de New York, tous les élèves sont motivés par leur ambition de devenir célèbres. Mais, à l'issu de la formation, rares sont ceux qui atteindront la célébrité.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 189022,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32836,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-16T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42406,
+          "titre": "Affreux, sales et méchants",
+          "titreVo": "Brutti, sporchi, cattivi",
+          "realisateurs": "Ettore Scola",
+          "annee": 1976,
+          "dureeStd": 111,
+          "duree": 111,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29597,
+              "duree": 111,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 45
+        }
+      ]
+    },
+    {
       "idSeance": 188833,
       "idProg": 335,
       "idCycleCategories": [
@@ -858,6 +996,65 @@
           "annee": 1976,
           "adaptation": "D'après le roman _La Dentellière_ de Pascal Lainé.",
           "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 189211,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32839,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-23T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38036,
+          "titre": "Julia",
+          "realisateurs": "Fred Zinnemann",
+          "annee": 1976,
+          "generique": "Vanessa Redgrave, Jane Fonda, Jason Robards",
+          "synopsis": "Lillian Hellman part en Europe sur les traces de son amie Julia, militante antinazie qui a disparu, peu de temps avant la Seconde Guerre Mondiale.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 189246,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32840,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-25T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31676,
+          "titre": "Épreuve de force",
+          "art": "L'",
+          "titreVo": "Gauntlet",
+          "artVo": "The",
+          "realisateurs": "Clint Eastwood",
+          "annee": 1977,
+          "generique": "Clint Eastwood, Sondra Locke, Pat Hingle",
+          "synopsis": "Le policier Ben Shockley est chargé de convoyer un suspect de Las Vegas à Phoenix. Il s'apercoit qu'il s'agit en réalité d'une femme que l'on cherche à supprimer à tout prix.",
+          "status": 2
         }
       ]
     },
@@ -980,6 +1177,35 @@
       ]
     },
     {
+      "idSeance": 194616,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32845,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-19T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 57059,
+          "titre": "Roulette chinoise",
+          "titreVo": "Chinesisches Roulette",
+          "realisateurs": "Rainer Werner Fassbinder",
+          "annee": 1976,
+          "generique": "Margit Carstensen, Anna Karina, Ulli Lommel",
+          "synopsis": "Un homme et son épouse se retrouvent avec leurs amants respectifs dans une maison de campagne...",
+          "status": 0
+        }
+      ]
+    },
+    {
       "idSeance": 194613,
       "idProg": 335,
       "idCycleCategories": [
@@ -1009,6 +1235,66 @@
       ]
     },
     {
+      "idSeance": 194615,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32847,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-12T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 53305,
+          "titre": "Son nom de Venise dans Calcutta désert",
+          "realisateurs": "Marguerite Duras",
+          "annee": 1976,
+          "generique": "Delphine Seyrig, Nicole Hiss, Sylvie Nuytten",
+          "synopsis": "Reprenant la bande-son de son film _India Song_, Marguerite Duras y greffe des images nouvelles proposant une longue réflexion visuelle sur la mort.",
+          "miniTexte": "Un faux remake d'_India Song_, qui reprend les lieux et la musique du film original pour questionner la mémoire et le passage du temps. Dans les ruines du palais Rothschild, les acteurs ont disparu et sont désormais remplacés par des visions fantomatiques, des voix entrecoupées de mélodies d'époque. De panoramiques en travellings, Duras travaille sur le ressassement, la grâce contenue dans les images qui subsistent, et privilégie la remise à nu par l'épure. Un voyage hypnotisant sur la manière dont les mots résistent et continuent à vivre.",
+          "commentaire": "« Le référent ne serait donc plus que la mémoire de la matière filmique. Une mémoire volatile, sans fond, qui ne serait portée que par une impulsion d'écriture dont les intensités se consumeraient, sans reste. Évocation charriant sans fin ses retombées matérielles. » (Jean-Pierre Oudart)",
+          "status": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 189057,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32848,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-18T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54394,
+          "titre": "Une chante, l'autre pas",
+          "art": "L'",
+          "realisateurs": "Agnès Varda",
+          "annee": 1976,
+          "generique": "Thérèse Liotard, Valérie Mairesse, Ali Raffi",
+          "synopsis": "À Paris, en 1962, Pauline est une jeune femme de 17 ans, qui chante dans une chorale et caresse secrètement l'espoir de devenir chanteuse yéyé. Suzanne, sa meilleure amie, enceinte pour la troisième fois, se désespère de la mort brutale de son petit ami.",
+          "miniTexte": "Chronique des luttes pour le droit à l'avortement, _L'une chante, l'autre pas_ est le long métrage de Varda le plus ouvertement engagé en faveur de la liberté des femmes à disposer de leur corps. Détournant la forme de la comédie musicale, il met en scène l'émancipation de deux amies très différentes mais toujours solidaires.",
+          "status": 2
+        }
+      ]
+    },
+    {
       "idSeance": 194611,
       "idProg": 335,
       "idCycleCategories": [
@@ -1030,6 +1316,62 @@
           "titre": "Femmes au soleil",
           "realisateurs": "Liliane Dreyfus",
           "annee": 1973,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 194618,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32850,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-26T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42615,
+          "titre": "Eugenio",
+          "titreVo": "Voltati Eugenio",
+          "realisateurs": "Luigi Comencini",
+          "annee": 1979,
+          "generique": "Francesco Bonelli, Saverio Marconi, Bernard Blier, Dalila Di Lazzaro",
+          "synopsis": "A l'occasion de la fugue de leur fils de dix ans, un couple séparé revit son passé et ses échecs.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 194617,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32851,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-20T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38902,
+          "titre": "Grand soir",
+          "art": "Le",
+          "realisateurs": "Francis Reusser",
+          "annee": 1976,
           "status": 0
         }
       ]
