@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-12T13:24:27.464Z",
+  "updatedAt": "2025-02-13T09:28:07.029Z",
   "data": [
     {
       "idSeance": 188170,
@@ -3634,7 +3634,6 @@
           "titreVo": "On the Beach",
           "realisateurs": "Stanley Kramer",
           "annee": 1959,
-          "duree": 134,
           "generique": "Gregory Peck, Anthony Perkins, Ava Gardner",
           "adaptation": "D'après le roman _Le Dernier rivage_ de Nevil Shute.",
           "synopsis": "Après la guerre atomique, les derniers survivants sont l'équipage d'un sous-marin américain et des habitants de l'Australie que n'ont pas encore atteints les nuages radioactifs.",
@@ -3642,11 +3641,10 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 28700,
-              "duree": 134,
+              "idCopie": 29670,
+              "duree": 0,
               "format": "35 mm",
-              "version": "VF",
-              "langCopie": "FRE"
+              "version": "VO"
             }
           ],
           "idFilmBoxoffice": 31437
@@ -4263,6 +4261,62 @@
           "realisateurs": "Opérateurs Lumière",
           "annee": 1896,
           "status": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 194605,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 994,
+          "idCategorie": 3779,
+          "titreCycle": "Journée d'étude 130 ans de salles de cinéma",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 33003,
+      "typeEvenement": 14,
+      "dateHeure": "2025-03-05T09:30:00",
+      "typeConference": "Conférence",
+      "idSalle": "HL",
+      "duree": 210,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 33003,
+          "idTypeConf": 55,
+          "titre": "130 ans de salles de cinéma",
+          "sousTitre": "Journée d'étude, matin",
+          "duree": 210
+        }
+      ]
+    },
+    {
+      "idSeance": 194606,
+      "idProg": 321,
+      "idCycleCategories": [
+        {
+          "idCycle": 994,
+          "idCategorie": 3779,
+          "titreCycle": "Journée d'étude 130 ans de salles de cinéma",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 33004,
+      "typeEvenement": 14,
+      "dateHeure": "2025-03-05T14:30:00",
+      "typeConference": "Conférence",
+      "idSalle": "HL",
+      "duree": 210,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 33004,
+          "idTypeConf": 55,
+          "titre": "130 ans de salles de cinéma",
+          "sousTitre": "Journée d'étude, après-midi",
+          "duree": 210
         }
       ]
     }
