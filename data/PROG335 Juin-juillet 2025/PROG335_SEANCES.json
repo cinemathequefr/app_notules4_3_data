@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-13T16:32:23.650Z",
+  "updatedAt": "2025-02-14T12:02:53.223Z",
   "data": [
     {
       "idSeance": 194577,
@@ -834,6 +834,392 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 194628,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32807,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-31T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38463,
+          "titre": "Element of Crime",
+          "titreVo": "Forbrydelsens element",
+          "realisateurs": "Lars von Trier",
+          "annee": 1983,
+          "duree": 104,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29596,
+              "duree": 104,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194629,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32808,
+      "typeEvenement": 13,
+      "dateHeure": "2025-08-01T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55062,
+          "titre": "Hôtel New Hampshire",
+          "art": "L'",
+          "titreVo": "Hotel New Hampshire",
+          "artVo": "The",
+          "realisateurs": "Tony Richardson",
+          "annee": 1983,
+          "adaptation": "D'après le roman _The Hotel New Hampshire_ de John Irving.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 190191,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32809,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-30T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 54585,
+          "titre": "Liberté la nuit",
+          "realisateurs": "Philippe Garrel",
+          "annee": 1983,
+          "generique": "Maurice Garrel, Emmanuelle Riva, Christine Boisson",
+          "synopsis": "À Paris, la femme d'un sympathisant du FLN est assassinée en pleine rue par des membres de l'OAS.",
+          "commentaire": "« Précarité de la prise unique, filmage intuitif d'événements sur les visages, contemplation amoureuse des corps : on retrouve ce qui fait de Garrel un des plus grands filmeurs de ce temps ». (Alain Philippon)",
+          "status": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 189967,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32811,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-21T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36120,
+          "titre": "Marjorie",
+          "titreVo": "Cross Creek",
+          "realisateurs": "Martin Ritt",
+          "annee": 1982,
+          "adaptation": "D'après le roman _Cross Creek_ de Marjorie Kinnan Rawlings.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 190156,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32812,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-28T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 57266,
+          "titre": "Nostalghia",
+          "realisateurs": "Andreï Tarkovski",
+          "annee": 1982,
+          "generique": "Oleg Yankovski, Domiziana Giordano, Erland Josephson",
+          "synopsis": "Gortchakov veut écrire un livre sur un compositeur russe du XVIIIe siècle qui vécut en Italie et ne retourna dans son pays que pour y mourir. Il quitte Rome pour aller admirer une fresque de Piero della Francesca, en compagnie d'une interprète.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 194627,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32817,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-25T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50959,
+          "titre": "Belle captive",
+          "art": "La",
+          "realisateurs": "Alain Robbe-Grillet",
+          "annee": 1982,
+          "duree": 90,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29598,
+              "duree": 90,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194625,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32818,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-18T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 46876,
+          "titre": "Cap Canaille",
+          "realisateurs": "Juliet Berto, Jean-Henri Roger",
+          "annee": 1982,
+          "generique": "Juliet Berto, Richard Bohringer, Jean-Claude Brialy",
+          "synopsis": "Les années 80, à Marseille. Un magnat de l'immobilier fait incendier une colline. Celle-ci appartient à une jeune femme dont le père, qui trempait dans le trafic de drogues, s'est récemment fait assassiner. Deux journalistes décident d'enquêter sur cette affaire.",
+          "status": 1,
+          "idFilmBoxoffice": 6345
+        }
+      ]
+    },
+    {
+      "idSeance": 194624,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32819,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-17T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 52760,
+          "titre": "Danton",
+          "realisateurs": "Andrzej Wajda",
+          "annee": 1982,
+          "generique": "Gérard Depardieu, Wojciech Pszoniak, Patrice Chéreau",
+          "adaptation": "D'après la pièce _L'Affaire Danton_ de Stanislawa Przybyszewska.",
+          "synopsis": "Été 1793 : le Comité de salut public, à l'instigation de Robespierre, instaure la Terreur. La famine réapparaît, entraînant la révolte, et les têtes tombent. Danton, regagnant Paris, s'oppose à Robespierre.",
+          "status": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 194626,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32820,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-24T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48236,
+          "titre": "Effraction",
+          "realisateurs": "Daniel Duval",
+          "annee": 1982,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 189813,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32821,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-16T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47532,
+          "titre": "Homme blessé",
+          "art": "L'",
+          "realisateurs": "Patrice Chéreau, Jean-François Pierrard",
+          "annee": 1982,
+          "generique": "Jean-Hugues Anglade, Vittorio Mezzogiorno, Roland Bertin",
+          "synopsis": "Henri, un jeune homme ordinaire, croise par hasard dans une gare parisienne Jean, un homme plus âgé impliqué dans le milieu de la prostitution. Ressentant de la passion pour cet homme plus âgé, Henri tente de se prostituer pour gagner son amour.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 189778,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32822,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-14T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42483,
+          "titre": "Identification d'une femme",
+          "titreVo": "Identificazione di una donna",
+          "realisateurs": "Michelangelo Antonioni",
+          "annee": 1981,
+          "generique": "Tomás Milián, Daniela Silverio, Christine Boisson",
+          "synopsis": "Lors de sa liaison avec deux femmes successives, un cinéaste poursuit l'objet de son désir des rues de Rome aux canaux de Venise.",
+          "miniTexte": "Entre Rome et Venise, un metteur en scène en mal d'inspiration noue une liaison avec une aristocrate, puis avec une jeune comédienne. Antonioni dresse un tableau clinique de l'Italie du début des années 80 avec ce film d'amour contemporain, raffiné, dans lequel le travail sur le son et la beauté des compositions sont servis par un montage rapide – qu'il effectue lui-même. C'est en peintre qu'il traduit ses interrogations sur l'existence, la société et le désir, et ses personnages se dissimulent et se dévoilent tour à tour dans l'opacité du brouillard, qui personnifie comme souvent leurs conflits intérieurs. Identification d'un cinéaste, qui trouve ici une forme d'aboutissement de son expérience et de son art cinématographique.",
+          "status": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 194623,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32824,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-11T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47801,
+          "titre": "Ombre rouge",
+          "art": "L'",
+          "realisateurs": "Jean-Louis Comolli",
+          "annee": 1981,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 190002,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32825,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-23T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 50895,
+          "titre": "Vie est un roman",
+          "art": "La",
+          "realisateurs": "Alain Resnais",
+          "annee": 1982,
+          "generique": "Vittorio Gassman, Ruggero Raimondi, Fanny Ardant",
+          "synopsis": "Au lendemain de la Première Guerre mondiale, le comte Forbek présente à ses amis la maquette d'un château dont il veut faire le temple du bonheur.",
+          "status": 2
+        }
+      ]
+    },
+    {
       "idSeance": 189435,
       "idProg": 335,
       "idCycleCategories": [
@@ -897,6 +1283,129 @@
           "realisateurs": "Paul Vecchiali",
           "annee": 1980,
           "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 189589,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32828,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-07T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 48911,
+          "titre": "Court circuits",
+          "realisateurs": "Patrick Grandperret",
+          "annee": 1980,
+          "duree": 92,
+          "generique": "Gérald Garnier, Dominique Bonnaud, Christian Boucher",
+          "synopsis": "Ancien champion de compétitions motocyclistes, Gerard a perdu l'usage de son bras droit à la suite d'un accident. Depuis, il s'est reconverti dans l'entraînement sportif de jeunes coureurs. Mais comme il ne parvient pas à rentabiliser son affaire, il en arrive à monter un casse...",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 8925,
+              "duree": 92,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189624,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32829,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-09T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 29804,
+          "titre": "Homme de fer",
+          "art": "L'",
+          "titreVo": "Czlowiek z zelaza",
+          "realisateurs": "Andrzej Wajda",
+          "annee": 1980,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 194622,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32830,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-10T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51553,
+          "titre": "Dernier métro",
+          "art": "Le",
+          "realisateurs": "François Truffaut",
+          "annee": 1980,
+          "generique": "Catherine Deneuve, Gérard Depardieu, Jean Poiret",
+          "synopsis": "En 1942, dans le milieu théâtral parisien, Marion Steiner, comédienne a repris la direction du théâtre Montmartre que son mari, Juif allemand, a dû abandonner.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 194621,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32832,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-04T16:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51832,
+          "titre": "Possession",
+          "realisateurs": "Andrzej Żuławski",
+          "annee": 1981,
+          "generique": "Isabelle Adjani, Sam Neill, Margit Carstensen",
+          "synopsis": "De retour d'un long voyage, Marc retrouve à Berlin sa femme Anna et son fils, Bob. Prise de crises violentes, Anna disparaît. Marc engage un détective qui découvre bientôt qu'elle s'est réfugiée dans une étrange demeure où semble se cacher une créature surgie des ténèbres.",
+          "miniTexte": "Tourbillon d'émotions et de visions dérangeantes, _Possession_ sonde l'implosion d'un couple à grands coups de disputes houleuses et de mutilations physiques. Derrière une expérience sensorielle intense, une sombre histoire de désespoir et d'amour fou au climat de paranoïa suffocant et à la mise en scène viscérale. Le cauchemar onirique de Żuławski, magistralement incarné par Isabelle Adjani, prix d'interprétation féminine à Cannes et César de la meilleure actrice.",
+          "status": 2,
+          "idFilmBoxoffice": 274
         }
       ]
     },
@@ -1726,6 +2235,953 @@
             }
           ],
           "idFilmBoxoffice": 231223
+        }
+      ]
+    },
+    {
+      "idSeance": 188950,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32946,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-13T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44242,
+          "titre": "Baiser macabre",
+          "titreVo": "Macabro",
+          "realisateurs": "Lamberto Bava",
+          "annee": 1980,
+          "duree": 89,
+          "generique": "Bernice Stegers, Stanko Molnar, Veronica Zinny",
+          "synopsis": "Après avoir perdu simultanément son fils, tué par sa propre fille, et son amant dans un accident, Jane Baker, traumatisée, est internée en hôpital psychiatrique. Elle en sort, un an plus tard, toujours perturbée. C'est alors que sa fille la recontacte.",
+          "commentaire": "L'influence de Mario Bava est évidente dans ce premier film réalisé seul par son fils Lamberto.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 18466,
+              "duree": 89,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188684,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32950,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-04T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66082,
+          "titre": "Her Code of Honor",
+          "realisateurs": "John M. Stahl",
+          "annee": 1919,
+          "duree": 80,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29644,
+              "duree": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194634,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32951,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-06T18:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66088,
+          "titre": "Sowing the Wind",
+          "realisateurs": "John M. Stahl",
+          "annee": 1921,
+          "duree": 85,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29653,
+              "duree": 85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194632,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32952,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-01T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66090,
+          "titre": "Suspicious Wives",
+          "realisateurs": "John M. Stahl",
+          "annee": 1921,
+          "duree": 92,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29652,
+              "duree": 92,
+              "format": "35 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188646,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32953,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-02T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66086,
+          "titre": "One Clear Call",
+          "realisateurs": "John M. Stahl",
+          "annee": 1922,
+          "duree": 80,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29654,
+              "duree": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188834,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32954,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-09T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66092,
+          "titre": "Why Men Leave Home",
+          "realisateurs": "John M. Stahl",
+          "annee": 1924,
+          "duree": 80,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29655,
+              "duree": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188629,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32955,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-01T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66084,
+          "titre": "Husbands and Lovers",
+          "realisateurs": "John M. Stahl",
+          "annee": 1924,
+          "duree": 80,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29656,
+              "duree": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188835,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32958,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-09T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66085,
+          "titre": "Memory Lane",
+          "realisateurs": "John M. Stahl",
+          "annee": 1926,
+          "duree": 87,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29657,
+              "duree": 87
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188825,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32961,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-08T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66080,
+          "titre": "A Lady Surrenders",
+          "realisateurs": "John M. Stahl",
+          "annee": 1930,
+          "duree": 95,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29659,
+              "duree": 95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188631,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32964,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-01T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35744,
+          "titre": "Histoire d'un amour",
+          "titreVo": "Back Street",
+          "realisateurs": "John M. Stahl",
+          "annee": 1932,
+          "duree": 86,
+          "generique": "Irene Dunne, John Boles, June Clyde",
+          "synopsis": "Ray Schmidt est vendeuse dans une boutique à Cincinnati. Kurt Shendler, ami d'enfance, lui demande sa main mais Ray a rencontré Walter Saxel, un jeune commis-voyageur dont elle tombe éperdument amoureuse. Un quiproquo les sépare. Ils se retrouvent cinq ans après: Walter est marié et père de deux enfants. Première adaptation du roman de Fannie Hurst.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 93,
+              "duree": 86,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 94,
+              "duree": 86,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194638,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32964,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-15T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35744,
+          "titre": "Histoire d'un amour",
+          "titreVo": "Back Street",
+          "realisateurs": "John M. Stahl",
+          "annee": 1932,
+          "duree": 86,
+          "generique": "Irene Dunne, John Boles, June Clyde",
+          "synopsis": "Ray Schmidt est vendeuse dans une boutique à Cincinnati. Kurt Shendler, ami d'enfance, lui demande sa main mais Ray a rencontré Walter Saxel, un jeune commis-voyageur dont elle tombe éperdument amoureuse. Un quiproquo les sépare. Ils se retrouvent cinq ans après: Walter est marié et père de deux enfants. Première adaptation du roman de Fannie Hurst.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 93,
+              "duree": 86,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 94,
+              "duree": 86,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188869,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32965,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-11T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35940,
+          "titre": "Une nuit seulement",
+          "titreVo": "Only Yesterday",
+          "realisateurs": "John M. Stahl",
+          "annee": 1933,
+          "duree": 105,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29661,
+              "duree": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188529,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32966,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-29T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35871,
+          "titre": "Images de la vie",
+          "titreVo": "Imitation of Life",
+          "realisateurs": "John M. Stahl",
+          "annee": 1934,
+          "duree": 110,
+          "generique": "Warren William, Louise Beavers, Claudette Colbert",
+          "synopsis": "« Bea » Pullman est veuve et élève sa fille, Jessie. Elle rencontre Delilah, une femme noire, et l'engage comme gouvernante. Delilah s'installe avec sa petite fille Peola et, rapidement, elles font comme partie de la famille. Bea décide d'ouvrir un stand de crêpes à Atlantic City grâce à la délicieuse recette de la gouvernante et devient riche. Dix ans passent.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 98,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188568,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32967,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-30T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35942,
+          "titre": "Secret magnifique",
+          "art": "Le",
+          "titreVo": "Magnificent Obsession",
+          "realisateurs": "John M. Stahl",
+          "annee": 1935,
+          "duree": 112,
+          "adaptation": "D'après le roman _Magnificent obsession_ de Lloyd C. Douglas.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29662,
+              "duree": 112
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188991,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32967,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-14T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35942,
+          "titre": "Secret magnifique",
+          "art": "Le",
+          "titreVo": "Magnificent Obsession",
+          "realisateurs": "John M. Stahl",
+          "annee": 1935,
+          "duree": 112,
+          "adaptation": "D'après le roman _Magnificent obsession_ de Lloyd C. Douglas.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29662,
+              "duree": 112
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188870,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32968,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-11T21:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35944,
+          "titre": "Vie privée d'un tribun",
+          "art": "La",
+          "titreVo": "Parnell",
+          "realisateurs": "John M. Stahl",
+          "annee": 1937,
+          "duree": 115,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29663,
+              "duree": 115
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194630,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32969,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-31T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35915,
+          "titre": "Lettre d'introduction",
+          "titreVo": "Letter of Introduction",
+          "realisateurs": "John M. Stahl",
+          "annee": 1938,
+          "duree": 104,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29664,
+              "duree": 104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188569,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32970,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-30T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36973,
+          "titre": "Veillée d'amour",
+          "titreVo": "When Tomorrow Comes",
+          "realisateurs": "John M. Stahl",
+          "annee": 1939,
+          "duree": 90,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29665,
+              "duree": 90,
+              "format": "16 mm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194631,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32976,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-31T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66087,
+          "titre": "Péché mortel",
+          "titreVo": "Leave Her to Heaven",
+          "realisateurs": "John M. Stahl",
+          "annee": 1945,
+          "duree": 110,
+          "generique": "Gene Tierney, Cornel Wilde, Jeanne Crain, Vincent Price",
+          "adaptation": "D'après le roman _Leave Her to Heaven_ de Ben Ames Williams.",
+          "synopsis": "Un homme rentre chez lui après plusieurs années d'emprisonnement. Il se remémore les circonstances qui ont fait de lui un criminel : son mariage avec Ellen et sa jalousie obsessionnelle.",
+          "miniTexte": "Dans l'un de ses derniers longs métrages, John M. Stahl offre un personnage retors de femme maladivement jalouse à Gene Tierney, nommée pour la seule fois à l'Oscar de la meilleure actrice. Adoré par la comédienne, _Péché mortel_ tient autant du mélodrame que du film noir avec des protagonistes habilement dessinés et une esthétique renversante, au diapason d'un jeu de rôles virulent.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 11743,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 394
+        }
+      ]
+    },
+    {
+      "idSeance": 188992,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3776,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Remakes des films de John Stahl"
+        }
+      ],
+      "idEvenement": 32983,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-14T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35924,
+          "titre": "Secret magnifique",
+          "art": "Le",
+          "titreVo": "Magnificent Obsession",
+          "realisateurs": "Douglas Sirk",
+          "annee": 1954,
+          "duree": 108,
+          "generique": "Jane Wyman, Rock Hudson, Agnes Moorehead, Barbara Rush",
+          "adaptation": "D'après le roman _Magnificent Obsession_ de Lloyd C. Douglas.",
+          "synopsis": "Un play-boy, responsable involontaire de la mort accidentelle d'un médecin célèbre et de la cécité de son épouse, tombe amoureux de celle-ci et cherche à se racheter.",
+          "commentaire": "La partition romantique de Frank Skinner emprunte à Chopin, la star Jane Wyman fait retomber un peu de sa gloire sur Rock Hudson. Le scénario, taillé dans l'étoffe des tragédies classiques, en adopte l'emphase et les élans outrés – il est question de traiter avec la mort. Les grands motifs sirkiens sont là, rédemption, don de soi, l'ironie du sort qui entremêle l'amour et l'impossible. Et à l'écran, une succession de couleurs, d'émotions pures. Sur les teintes flamboyantes du Technicolor, le chef opérateur Russell Metty a posé un voile de douceur. Un mélo élégant, splendide et déchirant... _Magnificent_.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 23683,
+              "duree": 108,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194640,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3776,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Remakes des films de John Stahl"
+        }
+      ],
+      "idEvenement": 32986,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-15T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 37224,
+          "titre": "Back Street",
+          "realisateurs": "Robert Stevenson",
+          "annee": 1941,
+          "duree": 89,
+          "generique": "Charles Boyer, Margaret Sullavan, Richard Carlson",
+          "adaptation": "D'après le roman _Back Street_ de Fannie Hurst.",
+          "synopsis": "Ray Smith habite à Cincinnati. Très courtisée, elle succombe aux avances d'un jeune banquier, Walter Saxel. Un contretemps les empêchant de s'unir, ils se retrouvent par hasard cinq ans plus tard. Walter est marié et père de deux enfants. Deuxième adaptation du roman de Fannie Hurst.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 12,
+              "duree": 89,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194639,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3776,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Remakes des films de John Stahl"
+        }
+      ],
+      "idEvenement": 32987,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-15T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35109,
+          "titre": "Histoire d'un amour",
+          "titreVo": "Back Street",
+          "realisateurs": "David Miller",
+          "annee": 1960,
+          "duree": 107,
+          "generique": "Susan Hayward, Vera Miles, John Gavin",
+          "adaptation": "D'après le roman _Back Street_ de Fannie Hurst.",
+          "synopsis": "Paul Saxon, riche héritier d'une chaîne de magasins, rencontre Rae Smith à son retour de guerre. Attendant un avion pour New York, ils passent une journée ensemble et tombent mutuellement amoureux.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 767,
+              "duree": 107,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188805,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32989,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-07T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155188,
+          "titre": "Lincoln Cycle",
+          "art": "The",
+          "realisateurs": "John M. Stahl",
+          "annee": 1917,
+          "duree": 215,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29639,
+              "duree": 215
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188683,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32990,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-04T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155189,
+          "titre": "Woman Under Oath",
+          "art": "The",
+          "realisateurs": "John M. Stahl",
+          "annee": 1919,
+          "duree": 61,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29640,
+              "duree": 61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188824,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32991,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-08T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155190,
+          "titre": "Son enfant",
+          "titreVo": "Child Thou Gavest Me",
+          "artVo": "The",
+          "realisateurs": "John M. Stahl",
+          "annee": 1921,
+          "duree": 88,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29641,
+              "duree": 88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188645,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32992,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-02T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155191,
+          "titre": "Song of Life",
+          "art": "The",
+          "realisateurs": "John M. Stahl",
+          "annee": 1922,
+          "duree": 87,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29642,
+              "duree": 87
+            }
+          ]
         }
       ]
     },
