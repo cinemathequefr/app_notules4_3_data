@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-14T12:02:53.223Z",
+  "updatedAt": "2025-02-17T11:51:11.812Z",
   "data": [
     {
       "idSeance": 194577,
@@ -288,7 +288,41 @@
       ]
     },
     {
-      "idSeance": 189562,
+      "idSeance": 194671,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32595,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-05T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 111333,
+          "titre": "Avec Django la mort est là",
+          "titreVo": "Joko invoca Dio... e muori",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1968,
+          "duree": 90,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29585,
+              "duree": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189561,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -300,7 +334,7 @@
       ],
       "idEvenement": 32600,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-05T18:30:00",
+      "dateHeure": "2025-07-05T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -371,6 +405,44 @@
       "mention": "Ouverture de la rétrospective"
     },
     {
+      "idSeance": 189581,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32606,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-06T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43630,
+          "titre": "Derniers jours d'un empire",
+          "art": "Les",
+          "titreVo": "Crollo di Roma",
+          "artVo": "Il",
+          "realisateurs": "Anthony Dawson",
+          "annee": 1963,
+          "duree": 88,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29508,
+              "duree": 88,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 189560,
       "idProg": 335,
       "idCycleCategories": [
@@ -404,6 +476,45 @@
               "format": "DCP",
               "version": "VO",
               "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189580,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32625,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-06T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 84781,
+          "titre": "Planète des hommes perdus",
+          "art": "La",
+          "titreVo": "Pianeta degli uomini spenti",
+          "artVo": "Il",
+          "realisateurs": "Anthony Dawson",
+          "annee": 1961,
+          "duree": 102,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29488,
+              "duree": 102,
+              "format": "16 mm",
+              "version": "VA",
+              "langCopie": "ENG"
             }
           ]
         }
@@ -709,6 +820,74 @@
       "mention": "Séance présentée par Marién Gomez"
     },
     {
+      "idSeance": 189325,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32760,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-27T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155174,
+          "titre": "Akira",
+          "titreVo": "アキラ",
+          "realisateurs": "Katsuhiro Ōtomo",
+          "annee": 1988,
+          "duree": 124,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29566,
+              "duree": 124
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189402,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32763,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-30T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 114131,
+          "titre": "Cleopatra",
+          "titreVo": "Kureopatora",
+          "realisateurs": "Osamu Tezuka, Eiichi Yamamoto",
+          "annee": 1970,
+          "duree": 112,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29568,
+              "duree": 112
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 189285,
       "idProg": 335,
       "idCycleCategories": [
@@ -832,6 +1011,282 @@
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 189326,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32769,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-27T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 65575,
+          "titre": "Jin-Roh, la brigade des loups",
+          "titreVo": "Jin-Rou",
+          "titreNx": "人狼",
+          "realisateurs": "Hiroyuki Okiura",
+          "annee": 1998,
+          "duree": 102,
+          "adaptation": "D'après la série de mangas _Kerberos Panzer Cop_ de Mamoru Oshii.",
+          "synopsis": "Dans un Tokyo des années 1950 auparavant occupé par l'Allemagne nazie, le gouvernement met en place une brigade spéciale pour contrer de violentes émeutes. Un des soldats de cette unité d'élite assiste au suicide d'une jeune kamikaze.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 21729,
+              "duree": 102,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29616,
+              "duree": 102,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189368,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32773,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-28T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 100772,
+          "titre": "Paprika",
+          "realisateurs": "Satoshi Kon",
+          "annee": 2005,
+          "duree": 91,
+          "adaptation": "D'après le roman _Paprika_ de Yasutaka Tsutsui.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 20563,
+              "duree": 91,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "JPN",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189369,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32776,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-28T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155176,
+          "titre": "Œuf de l'ange",
+          "art": "L'",
+          "titreVo": "Angel's Egg",
+          "realisateurs": "Mamoru Oshii",
+          "annee": 1985,
+          "duree": 71,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29573,
+              "duree": 71,
+              "langCopie": "JPN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189367,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32778,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-28T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 88722,
+          "titre": "Millennium Actress",
+          "titreVo": "Sennen joyu",
+          "realisateurs": "Satoshi Kon",
+          "annee": 2001,
+          "duree": 88,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29575,
+              "duree": 88,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189401,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32779,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-30T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155177,
+          "titre": "Mille et Une Nuits",
+          "art": "Les",
+          "titreVo": "Senya Ichiya monogatari",
+          "realisateurs": "Eiichi Yamamoto",
+          "annee": 1969,
+          "duree": 128,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29576,
+              "duree": 128
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189387,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32781,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-29T19:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45328,
+          "titre": "Serpent blanc",
+          "art": "Le",
+          "titreVo": "Hakuja den",
+          "titreNx": "白蛇伝",
+          "realisateurs": "Taiji Yabushita, Kazuhiko Okabe",
+          "annee": 1958,
+          "duree": 79,
+          "ageMinimal": 6,
+          "synopsis": "Un petit garçon se lie d'amitié avec un serpent blanc aux pouvoirs magiques, mais ses parents le forcent à s'en séparer. Quelques années plus tard, le serpent réapparaît sous les traits d'une belle jeune fille.",
+          "synopsisJP": "Le premier long métrage d'animation japonais en couleurs, réalisé sur celluloïd, produit par la Toei des futurs talents Miyazaki ou Takahata. D'après une légende chinoise, l'histoire d'amour entre un jeune homme et un serpent transformé en ravissante princesse est une perle rare, qui met en scène avec délicatesse la lutte entre le bien et le mal.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 10497,
+              "duree": 79,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189386,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32783,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-29T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 77554,
+          "titre": "Voyage de Chihiro",
+          "art": "Le",
+          "titreVo": "Sen to Chihiro no kamikakushi",
+          "titreNx": "千と千尋の神隠し",
+          "realisateurs": "Hayao Miyazaki",
+          "annee": 2001,
+          "duree": 124,
+          "synopsis": "Chihiro et ses parents franchissent sans l'avoir voulu une frontière imaginaire. Propulsés dans un monde de fantômes, de sorciers et d'esclaves, ils vont devoir affronter la sorcière Yubaba pour revenir de l'autre côté.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 14720,
+              "duree": 124,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 194628,
@@ -2444,39 +2899,6 @@
       ]
     },
     {
-      "idSeance": 188629,
-      "idProg": 335,
-      "idCycleCategories": [
-        {
-          "idCycle": 1004,
-          "idCategorie": 3775,
-          "titreCycle": "John Stahl",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32955,
-      "typeEvenement": 13,
-      "dateHeure": "2025-06-01T14:30:00",
-      "idSalle": "HL",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 66084,
-          "titre": "Husbands and Lovers",
-          "realisateurs": "John M. Stahl",
-          "annee": 1924,
-          "duree": 80,
-          "status": 1,
-          "copies": [
-            {
-              "idCopie": 29656,
-              "duree": 80
-            }
-          ]
-        }
-      ]
-    },
-    {
       "idSeance": 188835,
       "idProg": 335,
       "idCycleCategories": [
@@ -2584,6 +3006,12 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG"
+            },
+            {
+              "idCopie": 29674,
+              "duree": 93,
+              "format": "DCP",
+              "version": "VO"
             }
           ]
         }
@@ -2631,6 +3059,12 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG"
+            },
+            {
+              "idCopie": 29674,
+              "duree": 93,
+              "format": "DCP",
+              "version": "VO"
             }
           ]
         }
@@ -2662,6 +3096,13 @@
           "duree": 105,
           "status": 1,
           "copies": [
+            {
+              "idCopie": 29675,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "selected": true
+            },
             {
               "idCopie": 29661,
               "duree": 105
@@ -2703,14 +3144,21 @@
               "duree": 110,
               "format": "35 mm",
               "version": "VO",
-              "langCopie": "ENG"
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29676,
+              "duree": 111,
+              "format": "DCP",
+              "version": "VO"
             }
           ]
         }
       ]
     },
     {
-      "idSeance": 188568,
+      "idSeance": 194658,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -2722,7 +3170,7 @@
       ],
       "idEvenement": 32967,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-30T18:00:00",
+      "dateHeure": "2025-05-31T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2737,6 +3185,13 @@
           "adaptation": "D'après le roman _Magnificent obsession_ de Lloyd C. Douglas.",
           "status": 1,
           "copies": [
+            {
+              "idCopie": 29677,
+              "duree": 112,
+              "format": "DCP",
+              "version": "VO",
+              "selected": true
+            },
             {
               "idCopie": 29662,
               "duree": 112
@@ -2773,6 +3228,13 @@
           "adaptation": "D'après le roman _Magnificent obsession_ de Lloyd C. Douglas.",
           "status": 1,
           "copies": [
+            {
+              "idCopie": 29677,
+              "duree": 112,
+              "format": "DCP",
+              "version": "VO",
+              "selected": true
+            },
             {
               "idCopie": 29662,
               "duree": 112
@@ -2817,7 +3279,7 @@
       ]
     },
     {
-      "idSeance": 194630,
+      "idSeance": 188907,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -2829,7 +3291,7 @@
       ],
       "idEvenement": 32969,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-31T18:00:00",
+      "dateHeure": "2025-06-12T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2851,7 +3313,7 @@
       ]
     },
     {
-      "idSeance": 188569,
+      "idSeance": 194659,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -2863,7 +3325,7 @@
       ],
       "idEvenement": 32970,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-30T20:30:00",
+      "dateHeure": "2025-05-31T20:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2877,6 +3339,13 @@
           "status": 1,
           "copies": [
             {
+              "idCopie": 29678,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "selected": true
+            },
+            {
               "idCopie": 29665,
               "duree": 90,
               "format": "16 mm"
@@ -2886,7 +3355,111 @@
       ]
     },
     {
-      "idSeance": 194631,
+      "idSeance": 188908,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32971,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-12T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 97155,
+          "titre": "Our Wife",
+          "realisateurs": "John M. Stahl",
+          "annee": 1941,
+          "status": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 188947,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32973,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-13T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66083,
+          "titre": "Holy Matrimony",
+          "realisateurs": "John M. Stahl",
+          "annee": 1943,
+          "duree": 87,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29648,
+              "duree": 87,
+              "format": "35 mm",
+              "version": "VO",
+              "selected": true
+            },
+            {
+              "idCopie": 29680,
+              "duree": 87,
+              "format": "35 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188948,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32974,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-13T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 73652,
+          "titre": "Eve of St. Mark",
+          "art": "The",
+          "realisateurs": "John M. Stahl",
+          "annee": 1944,
+          "duree": 96,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29650,
+              "duree": 96,
+              "format": "16 mm",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194660,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -2898,7 +3471,7 @@
       ],
       "idEvenement": 32976,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-31T20:15:00",
+      "dateHeure": "2025-06-01T14:30:00",
       "idSalle": "HL",
       "items": [
         {
