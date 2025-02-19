@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-17T11:51:11.812Z",
+  "updatedAt": "2025-02-19T10:05:07.122Z",
   "data": [
     {
       "idSeance": 194577,
@@ -114,6 +114,258 @@
             }
           ],
           "idFilmBoxoffice": 199597
+        }
+      ]
+    },
+    {
+      "idSeance": 189745,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31959,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-12T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 77667,
+          "titre": "Famille Tenenbaum",
+          "art": "La",
+          "titreVo": "Royal Tenenbaums",
+          "artVo": "The",
+          "realisateurs": "Wes Anderson",
+          "annee": 2001,
+          "duree": 110,
+          "generique": "Gene Hackman, Anjelica Huston, Ben Stiller",
+          "synopsis": "Chez les Tenenbaum, les enfants ont toujours été des génies. Mais un jour, Etheline, leur mère, demande le divorce.",
+          "miniTexte": "Modèle de la famille dysfonctionnelle dans l'œuvre d'Anderson, les Tenenbaum, lignée de génies notoires, portent le poids de deux décennies d'échecs, de névroses et de rancœurs personnelles. Le retour inattendu du paternel (Gene Hackman au centre d'une distribution de luxe) provoque une série de confrontations au sein de la tribu décomposée. Avec l'art d'emballer les émotions dans de petits gestes et détails, qui constituent depuis sa marque de fabrique, Anderson signe un film dense, jubilatoire, dont les multiples visionnages ne ternissent jamais l'incroyable mélancolie qui s'en dégage.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 11317,
+              "duree": 110,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 29188
+        }
+      ]
+    },
+    {
+      "idSeance": 188989,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31960,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-14T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 110552,
+          "titre": "Fantastic Mr. Fox",
+          "realisateurs": "Wes Anderson",
+          "annee": 2009,
+          "duree": 87,
+          "generique": "George Clooney, Meryl Streep, Bill Murray",
+          "adaptation": "D'après le roman _Fantastique Maître Renard_ de Roald Dahl.",
+          "ageMinimal": 6,
+          "synopsisJP": "Un renard voleur de poules doit affronter trois redoutables fermiers. D'après Roald Dahl, un film d'aventures aux nuances automnales, aux accents écologiques, en animation image par image de marionnettes, et qui aborde en douceur les thèmes de la famille et de la transmission chers à Wes Anderson.",
+          "miniTexte": "Pour ses premiers pas dans le cinéma d'animation, Wes Anderson choisit un livre de son enfance, _Fantastique Maître Renard_ de Roald Dahl. Avec Noah Baumbach au scénario et Mark Gustafson aux marionnettes, les aventures d'un renard voleur de poules deviennent une nouvelle variation sur la filiation et l'affranchissement de l'héritage familial, drapée dans un décor automnal au style visuel immédiatement reconnaissable : maquettes, cadres, travelling latéraux. Un terrain de jeu idéal pour une fantaisie en _stop motion_, qui parle aussi d'écologie, de justice et de solidarité avec humour et une infinie tendresse.",
+          "commentaire": "_Fantastic Mr. Fox_ de Roald Dahl est le premier roman que Wes Anderson a lu dans son enfance. Lorsque Revolution Studios en acquiert les droits en 2004, Anderson est tout de suite associé au projet, d'abord avec Henry Selick (qui a déjà travaillé avec lui comme directeur de l'animation sur _La Vie aquatique_), puis avec Mark Gustafson et Noah Baumbach, ce dernier cosignant le scénario avec le réalisateur. Anderson commence par s'installer pendant plusieurs semaines dans la propriété anglaise où Dahl a écrit la plupart de ses romans, et s'inspire largement de cet environnement rural pour mettre au point la direction artistique du film. Sorti fin 2009 aux États-Unis, _Fantastic Mr. Fox_ est en partie éclipsé par le triomphe de la production Pixar _Là-haut_. Formellement, les deux films sont aussi éloignés que possible : Anderson refuse l'esthétique numérique pour privilégier l'animation image par image de marionnettes fabriquées et animées à la main (armatures en acier, fourrure et vêtements), évoluant dans cent cinquante décors entièrement manufacturés, dans une gamme chromatique très douce (magnifiques couleurs automnales). La surprise initiale de voir Wes Anderson s'aventurer sur le terrain du cinéma d'animation est vite occultée par une reconnaissance immédiate de son style visuel : élégance et précision de la composition des cadres, frontalité des plans balayés par des travellings latéraux, douceur de ton mêlée de brutales accélérations de rythme. Si _Fantastic Mr. Fox_ met en scène des renards, blaireaux et autres opossums, son grand sujet est aussi celui des films de fiction en prises de vue réelles du cinéaste (_La Famille Tenenbaum_, _La Vie aquatique_, _À bord du Darjeeling Limited_...) : la famille, les questions de filiation, de transmission, d'affranchissement du cadre ou de l'héritage familial. Le tout enveloppé dans un film d'aventures enlevé, porteur d'un message écologique et humaniste. Il en résulte un équilibre subtil entre fantaisie visuelle et réalisme des sentiments, entre péripéties trépidantes et drame existentiel poignant.\n\nCaroline Maleville",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 9461,
+              "duree": 87,
+              "format": "35 mm",
+              "version": "VF",
+              "langCopie": "FRE"
+            }
+          ],
+          "idFilmBoxoffice": 114976
+        }
+      ]
+    },
+    {
+      "idSeance": 189556,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31963,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-05T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 138742,
+          "titre": "Île aux chiens",
+          "art": "L'",
+          "titreVo": "Isle of Dogs",
+          "realisateurs": "Wes Anderson",
+          "annee": 2018,
+          "duree": 101,
+          "generique": "Bryan Cranston, Edward Norton, Koyu Rankin",
+          "miniTexte": "Après _Fantastic Mr Fox_, le cinéaste revient à l'animation avec l'histoire d'une mystérieuse épidémie de grippe canine, située dans un Japon dystopique. À travers la quête du jeune Atari pour sauver son chien adoré, Anderson réalise une astucieuse fable cynophile, dont le style se fond à merveille dans la culture japonaise.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28974,
+              "duree": 101,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 241680
+        }
+      ]
+    },
+    {
+      "idSeance": 189385,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31964,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-29T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 116174,
+          "titre": "Moonrise Kingdom",
+          "realisateurs": "Wes Anderson",
+          "annee": 2012,
+          "duree": 94,
+          "generique": "Bruce Willis, Edward Norton, Jared Gilman, Kara Hayward",
+          "ageMinimal": 10,
+          "synopsis": "Sam et Suzy, douze ans, tombent amoureux et planifient en secret leur fugue vers le fin fond de la forêt. Tandis que toute la communauté de l'île part à leur recherche, une tempête se rapproche dangereusement des côtes.",
+          "miniTexte": "Été 1965, la fugue de deux enfants amoureux sur une île au large de la Nouvelle-Angleterre. Dans l'agitation qui s'ensuit pour les retrouver, le film déploie toute une galerie de personnages bigarrés, dans un jeu de piste joyeusement rétro, qui fait voler en éclat le monde bien ordonné des adultes.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 14518,
+              "duree": 94,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 187864
+        }
+      ]
+    },
+    {
+      "idSeance": 190127,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31965,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-26T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 150681,
+          "titre": "French Dispatch",
+          "art": "The",
+          "realisateurs": "Wes Anderson",
+          "annee": 2021,
+          "duree": 107,
+          "generique": "Benicio Del Toro, Adrien Brody, Tilda Swinton, Léa Seydoux, Mathieu Amalric",
+          "miniTexte": "Quatre histoires tirées d'un pseudo magazine américain prennent vie dans une ville française imaginaire du XX<sup>e</sup> siècle. Parmi la fine fleur de la bande Anderson, Léa Seydoux et Mathieu Amalric partagent la une du _French Dispatch_ dans une célébration nostalgique du journalisme et un hommage au cinéma français.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 28964,
+              "duree": 107,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 269684
+        }
+      ]
+    },
+    {
+      "idSeance": 188611,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 972,
+          "idCategorie": 3671,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 31966,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-31T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 65554,
+          "titre": "Rushmore",
+          "realisateurs": "Wes Anderson",
+          "annee": 1998,
+          "duree": 89,
+          "generique": "Jason Schwartzman, Bill Murray, Olivia Williams",
+          "synopsis": "Max est étudiant à Rushmore. Il délaisse ses études au profit d'une multitude d'activités extra-scolaires.",
+          "miniTexte": "Dans la prestigieuse université de Rushmore, un élève surdoué délaisse ses études au profit d'une multitude d'activités extra-scolaires, à la recherche d'une nouvelle famille. Dès les premières minutes, le film se lance, et avec lui tout le cinéma de Wes Anderson dans un même mouvement. Un lumineux enchaînement de plans comme un manifeste esthétique, que le cinéaste s'emploiera ensuite à développer, à polir, dans les œuvres suivantes. Avec des cadres au cordeau, à la symétrie millimétrée. Une direction artistique rétro-pastel quasi maniaque. Une bande originale racée... Dans un ensemble hétéroclite de références lettrées et de bricolages dandys, Anderson vient de poser les bases de son art.",
+          "commentaire": "_Rushmore_ a déjà commencé depuis cinq bonnes minutes. C'est une entame honorable, de belle facture, mais rien ne déborde vraiment du traditionnel programme du film de campus. Puis déboule une courte séquence, deux minutes un peu folles, nouvelles. Deux minutes qui lancent le film, et le cinéma de Wes Anderson dans un même mouvement. Un lumineux enchaînement de plans comme un manifeste esthétique, que le cinéaste s'emploiera ensuite à développer, à polir, dans les films qui suivront. Avec des cadres au cordeau, à la symétrie millimétrée. Une direction artistique rétro-pastel quasi maniaque. Une bande originale racée : The Kinks, The Faces, The Who... En quinze plans léchés et emballants, Anderson vient de poser les bases de son art. Son précédent et premier film, _Bottle Rocket_, ne laissait rien présager de cette brusque éclosion. La comédie, sympathique, dévoilait un réel talent, mais plastiquement, le film ne tranchait pas. _Rushmore_ tranche. Il ne ressemble à rien d'autre qu'à ce que deviendra ensuite la patte Anderson, assemblage hétéroclite d'esthétique publicitaire, de dispositifs théâtraux, de bricolages dandys et de références lettrées : Stefan Zweig, Jacques-Yves Cousteau, Jules Verne, Hal Ashby, Yves Montand... S'il a parfois été reproché au cinéma de Wes Anderson son côté mignon, maison de poupées pop, ce qui étonne finalement devant _Rushmore_, c'est combien ces procédés de mise en scène voyants n'étouffent jamais l'émotion : derrière les artifices sourd une mélancolie retenue, une petite note triste tenue tout le long du film et qui, le dernier plan venu, vous laisse sur le flanc. Bill Murray, équilibriste de génie, y est dans la même seconde hilarant et déchirant. Il porte ce petit film fragile sur ses épaules, et trouve ici le rôle – et le cinéaste – qui feront basculer sa carrière et l'introniseront roi sur l'échiquier du cool. Ce n'est pas le moindre attrait de _Rushmore_, mont séduisant d'une œuvre en devenir.\n\nXavier Jamet",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29279,
+              "duree": 89,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 21344
         }
       ]
     },
@@ -288,6 +540,48 @@
       ]
     },
     {
+      "idSeance": 189817,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32594,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-16T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 83460,
+          "titre": "Flèche d'or",
+          "art": "La",
+          "titreVo": "Arciere delle mille e una notte",
+          "artVo": "L'",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1962,
+          "duree": 91,
+          "generique": "Tab Hunter, Rossana Podestà, Umberto Melnati",
+          "miniTexte": "Trois prétendants s'affrontent lors d'un tournoi pour gagner le cœur de la princesse Djamila. Premier véritable succès de Margheriti, _La Flèche d'or_ s'inscrit dans la tradition des _Mille et Une Nuits_, fort d'envoûtantes séquences de danse et d'une folle bataille de tapis volants, qui donnera envie à Kubrick de lui confier la supervision des effets spéciaux de _2001, l'odyssée de l'espace_.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29504,
+              "duree": 91,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "stDemande": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 194671,
       "idProg": 335,
       "idCycleCategories": [
@@ -306,18 +600,65 @@
         {
           "ordre": 1,
           "idFilm": 111333,
-          "titre": "Avec Django la mort est là",
+          "titre": "Avec Django, la mort est là",
           "titreVo": "Joko invoca Dio... e muori",
           "realisateurs": "Antonio Margheriti",
           "annee": 1968,
           "duree": 90,
-          "status": 0,
+          "generique": "Richard Harrison, Špela Rozin, Paolo Gozlino, Claudio Camaso",
+          "miniTexte": "Après avoir vu périr tous les membres de sa bande, Django se met en quête de vengeance. Sur un canevas classique, le cinéaste dynamite le _revenge movie_ dans un western spaghetti nappé de fantastique aux impressionnantes fulgurances de mise en scène (l'assaut nocturne, le final). Avec un duel haletant entre Richard Harrison, inspiré par Eastwood, et Claudio Camaso.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29585,
-              "duree": 90
+              "duree": 90,
+              "format": "DCP"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 61189
+        }
+      ]
+    },
+    {
+      "idSeance": 189749,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32599,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-12T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43626,
+          "titre": "Brute, le colt et le karaté",
+          "art": "La",
+          "titreVo": "Là dove non batte il sole",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1974,
+          "duree": 100,
+          "generique": "Lee Van Cleef, Lo Lieh, Patty Shepard",
+          "synopsis": "Un spécialiste des arts martiaux se joint à un as de la gâchette pour mettre la main sur un trésor convoité par de nombreux bandits.",
+          "miniTexte": "Premier western soja, _La Brute, le colt et le karaté_ suit les aventures absurdes d'un duo explosif – Lo Lieh, acteur incontournable de la Shaw Brothers, et Lee Van Cleef, figure du western – engagé dans un jeu de piste sous tension. De running gags cartoonesques en péripéties abracadabrantes, Margheriti enfonce tous les clous de la parodie pour un spectacle débridé et réjouissant.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 10211,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VA",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 49548
         }
       ]
     },
@@ -342,12 +683,14 @@
           "idFilm": 58732,
           "titre": "Chevauchée terrible",
           "art": "La",
-          "titreVo": "Parola di un fuorilegge è legge",
+          "titreVo": "Parola di un fuorilegge... è legge",
           "artVo": "La",
-          "realisateurs": "Anthony Dawson",
+          "realisateurs": "Antonio Margheriti",
           "annee": 1975,
           "duree": 102,
-          "status": 0,
+          "generique": "Jim Brown, Lee Van Cleef, Catherine Spaak, Fred Williamson",
+          "miniTexte": "Dans la petite ville de Sonora, des hommes avides d'argent tentent de faire main basse sur un important butin. Construit comme un _buddy movie_ sous influence de _Butch Cassidy et le Kid_, _La Chevauchée terrible_ fait se rencontrer western spaghetti et blaxploitation. Une alliance piquante aux personnages hétéroclites.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29468,
@@ -357,7 +700,8 @@
               "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 179018
         }
       ]
     },
@@ -383,13 +727,14 @@
           "idFilm": 45643,
           "titre": "Danse macabre",
           "titreVo": "Danza macabra",
-          "realisateurs": "Anthony Dawson",
+          "realisateurs": "Antonio Margheriti",
           "annee": 1964,
           "duree": 89,
           "generique": "Barbara Steele, Georges Rivière, Margrete Robsahm, Montgomery Glenn",
           "adaptation": "D'après le roman _Danse macabre_ d'Edgar Allan Poe.",
           "synopsis": "Un jeune journaliste relève le pari de passer la nuit dans un château hanté. Il perd rapidement pied car, devant ses yeux horrifiés, se rejouent des meurtres passés, dont celui du précédent couple à avoir relevé le même défi.",
-          "commentaire": "Dans le sillage des productions anglaises de la Hammer, l'Italie connaît, au début des années 1960, un engouement pour l'horreur gothique, genre qui ne revêt pas encore les couleurs sanglantes du _giallo_ et dans lequel _Danse macabre_ tient une place prépondérante. Tournée en moins de deux semaines dans les décors encore frais du _Religieux de Monza_ – que vient de réaliser Sergio Corbucci –, la série B d'Antonio Margheriti produit un véritable plaisir esthétique, à la faveur d'une photographie envoûtante, explicitement inspirée par l'atmosphère fantastique des contes d'Edgar Poe. Explorant les recoins du château de Lord Blackwood, éclairé d'une chandelle vacillante, Alan Foster regrette bientôt d'avoir accepté un pari aussi funèbre, dont l'unique prétexte sert à donner corps aux histoires extraordinaires qui imprègnent les lieux. Le long des corridors aux ombres flottantes, le danger peut surgir à chaque instant, dans le reflet d'un miroir ou derrière la porte d'une chambre chargée de secrets. Pris au vieux piège de la maison hantée, coincé entre la vie et la mort d'un espace-temps poétiquement indéterminé, voici que l'intrépide mortel tombe amoureux d'une revenante. Barbara Steele, diva du genre à l'étrange beauté – révélée dans _Le Masque du démon_ de Mario Bava –, apporte à cette _Danse macabre_ son lot de suggestions érotiques et saphiques, lors d'une ingénieuse représentation, qu'une horde de fantômes et de vampires se plaisent à rejouer indéfiniment.\r\n\r\nDelphine Simon-Marsaud",
+          "miniTexte": "Dans le sillage des productions anglaises de la Hammer, _Danse macabre_ produit un véritable plaisir esthétique, à la faveur d'une photographie envoûtante, explicitement inspirée par l'atmosphère fantastique des contes d'Edgar Poe. Barbara Steele, diva du genre à l'étrange beauté – révélée dans _Le Masque du démon_ de Mario Bava –, apporte à cette _Danse macabre_ son lot de suggestions érotiques et saphiques, lors d'une ingénieuse représentation, qu'une horde de fantômes et de vampires se plaisent à rejouer indéfiniment.",
+          "commentaire": "Dans le sillage des productions anglaises de la Hammer, l'Italie connaît, au début des années 1960, un engouement pour l'horreur gothique, genre qui ne revêt pas encore les couleurs sanglantes du _giallo_ et dans lequel _Danse macabre_ tient une place prépondérante. Tournée en moins de deux semaines dans les décors encore frais du _Religieux de Monza_ – que vient de réaliser Sergio Corbucci –, la série B d'Antonio Margheriti produit un véritable plaisir esthétique, à la faveur d'une photographie envoûtante, explicitement inspirée par l'atmosphère fantastique des contes d'Edgar Poe. Explorant les recoins du château de Lord Blackwood, éclairé d'une chandelle vacillante, Alan Foster regrette bientôt d'avoir accepté un pari aussi funèbre, dont l'unique prétexte sert à donner corps aux histoires extraordinaires qui imprègnent les lieux. Le long des corridors aux ombres flottantes, le danger peut surgir à chaque instant, dans le reflet d'un miroir ou derrière la porte d'une chambre chargée de secrets. Pris au vieux piège de la maison hantée, coincé entre la vie et la mort d'un espace-temps poétiquement indéterminé, voici que l'intrépide mortel tombe amoureux d'une revenante. Barbara Steele, diva du genre à l'étrange beauté – révélée dans _Le Masque du démon_ de Mario Bava –, apporte à cette _Danse macabre_ son lot de suggestions érotiques et saphiques, lors d'une ingénieuse représentation, qu'une horde de fantômes et de vampires se plaisent à rejouer indéfiniment.\n\nDelphine Simon-Marsaud",
           "status": 2,
           "copies": [
             {
@@ -399,10 +744,54 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 7542
         }
       ],
       "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 189818,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32605,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-16T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45643,
+          "titre": "Danse macabre",
+          "titreVo": "Danza macabra",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1964,
+          "duree": 89,
+          "generique": "Barbara Steele, Georges Rivière, Margrete Robsahm, Montgomery Glenn",
+          "adaptation": "D'après le roman _Danse macabre_ d'Edgar Allan Poe.",
+          "synopsis": "Un jeune journaliste relève le pari de passer la nuit dans un château hanté. Il perd rapidement pied car, devant ses yeux horrifiés, se rejouent des meurtres passés, dont celui du précédent couple à avoir relevé le même défi.",
+          "miniTexte": "Dans le sillage des productions anglaises de la Hammer, _Danse macabre_ produit un véritable plaisir esthétique, à la faveur d'une photographie envoûtante, explicitement inspirée par l'atmosphère fantastique des contes d'Edgar Poe. Barbara Steele, diva du genre à l'étrange beauté – révélée dans _Le Masque du démon_ de Mario Bava –, apporte à cette _Danse macabre_ son lot de suggestions érotiques et saphiques, lors d'une ingénieuse représentation, qu'une horde de fantômes et de vampires se plaisent à rejouer indéfiniment.",
+          "commentaire": "Dans le sillage des productions anglaises de la Hammer, l'Italie connaît, au début des années 1960, un engouement pour l'horreur gothique, genre qui ne revêt pas encore les couleurs sanglantes du _giallo_ et dans lequel _Danse macabre_ tient une place prépondérante. Tournée en moins de deux semaines dans les décors encore frais du _Religieux de Monza_ – que vient de réaliser Sergio Corbucci –, la série B d'Antonio Margheriti produit un véritable plaisir esthétique, à la faveur d'une photographie envoûtante, explicitement inspirée par l'atmosphère fantastique des contes d'Edgar Poe. Explorant les recoins du château de Lord Blackwood, éclairé d'une chandelle vacillante, Alan Foster regrette bientôt d'avoir accepté un pari aussi funèbre, dont l'unique prétexte sert à donner corps aux histoires extraordinaires qui imprègnent les lieux. Le long des corridors aux ombres flottantes, le danger peut surgir à chaque instant, dans le reflet d'un miroir ou derrière la porte d'une chambre chargée de secrets. Pris au vieux piège de la maison hantée, coincé entre la vie et la mort d'un espace-temps poétiquement indéterminé, voici que l'intrépide mortel tombe amoureux d'une revenante. Barbara Steele, diva du genre à l'étrange beauté – révélée dans _Le Masque du démon_ de Mario Bava –, apporte à cette _Danse macabre_ son lot de suggestions érotiques et saphiques, lors d'une ingénieuse représentation, qu'une horde de fantômes et de vampires se plaisent à rejouer indéfiniment.\n\nDelphine Simon-Marsaud",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29428,
+              "duree": 89,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 7542
+        }
+      ]
     },
     {
       "idSeance": 189581,
@@ -427,10 +816,12 @@
           "art": "Les",
           "titreVo": "Crollo di Roma",
           "artVo": "Il",
-          "realisateurs": "Anthony Dawson",
+          "realisateurs": "Antonio Margheriti",
           "annee": 1963,
           "duree": 88,
-          "status": 0,
+          "generique": "Carl Möhner, Loredana Nusciak, Ida Galli",
+          "miniTexte": "Pour son quatrième long métrage, Margheriti signe un péplum d'envergure, où un centurion cherche à venger les victimes de l'empire. Batailles rangées, affrontements de gladiateurs et embuscades parsèment un film aux nombreux morceaux de bravoure, soutenu par des effets spéciaux inventifs et l'interprétation habitée de Carl Möhner.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29508,
@@ -438,7 +829,49 @@
               "format": "35 mm",
               "version": "VF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 61744
+        }
+      ]
+    },
+    {
+      "idSeance": 189706,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32607,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-11T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59399,
+          "titre": "Diablesses",
+          "art": "Les",
+          "titreVo": "Morte negli occhi del gatto",
+          "artVo": "La",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1972,
+          "duree": 90,
+          "generique": "Jane Birkin, Hiram Keller, Françoise Christophe",
+          "miniTexte": "Margheriti célèbre les derniers feux du gothique à l'italienne avec un giallo, qui mêle malédictions ancestrales et meurtrier au rasoir. Tout en décadrages, contre-plongées et caméra mouvante, sa mise en scène accompagne le couple Birkin/Gainsbourg au cœur d'une atmosphère horrifique et macabre que n'aurait pas reniée Edgar Allan Poe ou même Agatha Christie.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29470,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ],
+          "idFilmBoxoffice": 135638
         }
       ]
     },
@@ -463,12 +896,13 @@
           "idFilm": 59031,
           "titre": "Et le vent apporta la violence",
           "titreVo": "E Dio disse a Caino",
-          "realisateurs": "Anthony Dawson",
+          "realisateurs": "Antonio Margheriti",
           "annee": 1970,
           "duree": 99,
           "generique": "Klaus Kinski, Peter Carsten, Lee Burton",
           "synopsis": "Injustement condamné au bagne, un ancien forçat revient dans sa ville châtier ceux qui l'ont piégé.",
-          "status": 0,
+          "miniTexte": "Dans une imagerie de pré-apocalypse, Margheriti invente un western sans cowboy, ni chevauchées, transformé en huis clos suffocant et cathartique. Inspirée par les textes bibliques, la vengeance d'un homme épris de justice – Klaus Kinski, dans l'un de ses rares rôles de héros – relit le genre sous l'angle de l'épouvante, de la tragédie et d'une esthétique baroque éblouissante. Sur la partition de Carlo Savina plane l'ombre de _La Tempête_, d'_Opération peur_ ou encore de _La Dame de Shanghaï_ dans une traque haletante, qui érige le vent en ennemi redoutable lors d'un final sidérant.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29429,
@@ -477,7 +911,145 @@
               "version": "VO",
               "stDemande": true
             }
-          ]
+          ],
+          "idFilmBoxoffice": 8091
+        }
+      ]
+    },
+    {
+      "idSeance": 189751,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32614,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-12T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 128092,
+          "titre": "Héros d'apocalypse",
+          "titreVo": "Ultimo cacciatore",
+          "artVo": "L'",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1980,
+          "duree": 96,
+          "generique": "David Warbeck, Tisa Farrow, Tony King",
+          "miniTexte": "Un capitaine est envoyé dans la jungle vietnamienne pour accomplir une mission spéciale. La même année que _Pulsions cannibales_, Margheriti replonge dans l'horreur de la guerre pour mieux en dénoncer l'absurdité. Dans la lignée d'_Apocalypse Now_ et de _Voyage au bout de l'enfer_, explosions, pièges mortels et corps déchiquetés composent une odyssée spectaculaire à l'éprouvant parfum de tragédie, capable de ménager humour noir et moments de cruauté à la limite du supportable.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29501,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 114641
+        }
+      ]
+    },
+    {
+      "idSeance": 189769,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32621,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-13T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 40118,
+          "titre": "Nom de code : Oies sauvages",
+          "titreVo": "Geheimcode : Wildgänse",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1984,
+          "duree": 101,
+          "generique": "Lewis Collins, Lee Van Cleef, Ernest Borgnine, Klaus Kinski",
+          "synopsis": "Au cœur du triangle d'or, en Asie du Sud, un commando de mercenaires est chargé de combattre un cartel de la drogue.",
+          "miniTexte": "Une bande de mercenaires est engagée pour détruire un champ de drogue en Asie. Sur fond de mission secrète empruntée aux _Oies sauvages_ d'Andrew V. McLaglen, une série B d'aventures qui tourne au jeu de massacre, portée par un ébouriffant casting de gueules cassées (Lee Van Cleef, Ernest Borgnine, Klaus Kinski).",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29586,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 141235
+        }
+      ]
+    },
+    {
+      "idSeance": 189750,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32623,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-12T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42320,
+          "titre": "Ombre d'un tueur",
+          "art": "L'",
+          "titreVo": "Con la rabbia agli occhi",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1975,
+          "duree": 98,
+          "generique": "Yul Brynner, Massimo Ranieri, Barbara Bouchet, Martin Balsam",
+          "miniTexte": "Un tueur à gages retraité accepte un ultime contrat : abattre l'assassin de son frère. Dans les rues ternes de Naples, Yul Brynner – dont c'est le dernier long métrage – promène sa silhouette magnétique en pleine guerre des gangs. Chef d'orchestre de troublants règlements de comptes, Margheriti lui offre un tour de piste final pour observer, en creux, la naissance de la violence.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29682,
+              "duree": 98,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ITA",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29490,
+              "duree": 98,
+              "format": "35 mm",
+              "version": "VF"
+            },
+            {
+              "idCopie": 29637,
+              "duree": 98,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ],
+          "idFilmBoxoffice": 188620
         }
       ]
     },
@@ -504,10 +1076,12 @@
           "art": "La",
           "titreVo": "Pianeta degli uomini spenti",
           "artVo": "Il",
-          "realisateurs": "Anthony Dawson",
+          "realisateurs": "Antonio Margheriti",
           "annee": 1961,
           "duree": 102,
-          "status": 0,
+          "generique": "Claude Rains, Bill Carter, Umberto Orsini",
+          "miniTexte": "Pour son deuxième film, Margheriti poursuit son épopée spatiale avec le récit d'une invasion extraterrestre, tourné dans des décors siciliens naturels. Sur un scénario ambitieux signé Ennio De Concini (_Le Masque du démon_), il fait le choix d'une première partie introspective et philosophique à la brillante étude de caractères avant de plonger – littéralement – au cœur d'un astéroïde et de ses paysages lunaires. Avec Claude Rains en professeur dérangé et misanthrope, dans l'un de ses derniers rôles au cinéma.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29488,
@@ -516,7 +1090,8 @@
               "version": "VA",
               "langCopie": "ENG"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 222626
         }
       ]
     },
@@ -546,15 +1121,17 @@
           "realisateurs": "Antonio Margheriti",
           "annee": 1964,
           "duree": 98,
-          "status": 0,
+          "generique": "Barbara Steele, George Ardisson, Halina Zalewska",
+          "miniTexte": "Dans l'Italie du XV<sup>e</sup> siècle, une femme condamnée à tort au bûcher revient d'outre-tombe pour se venger. Après _Danse macabre_ et _La Vierge de Nuremberg_, Margheriti conclut brillamment sa trilogie gothique, faite de chasse aux sorcières et de complots shakespeariens. Un conte fascinant, à la superbe photographie, emmené par l'icône du fantastique italien, Barbara Steele.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29430,
               "duree": 98,
-              "format": "DCP",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 14564
         }
       ]
     },
@@ -581,19 +1158,223 @@
           "art": "La",
           "titreVo": "Vergine di Norimberga",
           "artVo": "La",
-          "realisateurs": "Anthony Dawson",
+          "realisateurs": "Antonio Margheriti",
           "annee": 1963,
           "duree": 83,
-          "generique": "Rossana Podesta, Christopher Lee, Georges Rivière, Lucile Saint-Simon",
+          "generique": "Rossana Podestà, Georges Rivière, Christopher Lee, Lucile Saint-Simon",
           "adaptation": "D'après le roman _La Vierge de Nuremberg_ de Frank Bogart.",
           "synopsis": "Deux jeunes mariés s'installent dans un manoir en Allemagne. Très vite, la jeune femme trouve l'atmosphère oppressante dans ce château qui recèle une ancienne salle de torture.",
-          "status": 0,
+          "miniTexte": "Durant sa première nuit au château familial, un couple découvre le cadavre d'une femme, prisonnière d'une Vierge de Nuremberg. Alors que l'orage gronde et que les portes claquent, Margheriti prend un malin plaisir à multiplier inventions cruelles et tortures machiavéliques le temps d'un petit théâtre gothique et macabre.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 3467,
               "duree": 83,
               "format": "35 mm",
               "version": "VF"
+            }
+          ],
+          "idFilmBoxoffice": 39210
+        }
+      ]
+    },
+    {
+      "idSeance": 189779,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32633,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-14T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155149,
+          "titre": "Vainqueur de l'espace",
+          "art": "Le",
+          "titreVo": "Space Men",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1960,
+          "duree": 73,
+          "generique": "Rik Van Nutter, Gabriella Farinon, Archie Savage",
+          "miniTexte": "En reportage dans une station spatiale, un journaliste est témoin d'une catastrophe. Aux débuts de la science-fiction italienne, Margheriti crée des images inédites pour l'époque grâce à ses ingénieuses maquettes de vaisseaux, planètes et autres missiles. Un essai débordant de créativité et d'imagination.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29507,
+              "duree": 73,
+              "format": "16 mm",
+              "version": "VA"
+            }
+          ],
+          "idFilmBoxoffice": 49545
+        }
+      ]
+    },
+    {
+      "idSeance": 189628,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32690,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-09T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155160,
+          "titre": "Joe l'implacable",
+          "titreVo": "Joe l'implacabile",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1967,
+          "duree": 98,
+          "generique": "Rik Van Nutter, Halina Zalewska, Renato Baldini",
+          "miniTexte": "Les aventures de Dynamite Joe, un agent chargé d'assurer la sécurité des transports d'or. Révélé dans _Opération Tonnerre_, Rik Van Nutter campe le héros fan d'explosifs, embarqué dans un rodéo de péripéties rocambolesques. Le premier western de Margheriti, largement influencé par James Bond et _Les Mystères de l'Ouest_.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29494,
+              "duree": 98,
+              "format": "35 mm",
+              "version": "VF",
+              "selected": true
+            },
+            {
+              "idCopie": 29493,
+              "duree": 98,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 220706
+        }
+      ]
+    },
+    {
+      "idSeance": 189705,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32692,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-11T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55712,
+          "titre": "Fantômes de Hurlevent",
+          "art": "Les",
+          "titreVo": "Nella stretta morsa del ragno",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1971,
+          "duree": 105,
+          "generique": "Anthony Franciosa, Michèle Mercier, Klaus Kinski, Peter Carsten",
+          "synopsis": "Un jeune journaliste venu interviewer Edgar Poe accepte un pari selon lequel il doit passer une nuit dans une maison hantée dont personne n'est jamais revenu.",
+          "miniTexte": "Remake en couleur de _Danse macabre_. Margheriti conserve le même scénario, mais change d'acteurs (le duo Klaus Kinski/Michèle Mercier) dans un film de commande élégant, qui pousse tous les curseurs de l'épouvante gothique. Longs couloirs effrayants et apparitions fantomatiques font descendre progressivement le thermomètre de l'effroi jusqu'à un épilogue saisissant.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 3468,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ITA",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 120623
+        }
+      ]
+    },
+    {
+      "idSeance": 189770,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32693,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-13T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 88134,
+          "titre": "Kommando Leopard",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1985,
+          "duree": 104,
+          "generique": "Lewis Collins, Klaus Kinski, Cristina Donadio",
+          "miniTexte": "En Amérique du Sud, un groupe de rebelles se révolte contre un dictateur. Dans un cocktail d'explosions et de fusillades, le cinéaste invente une fausse suite à _Nom de code : Oies sauvages_ pour un film d'exploitation pur jus, qui enchaîne les scènes d'action démesurées. L'un des derniers longs métrages de Klaus Kinski.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29503,
+              "duree": 104,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 111604
+        }
+      ]
+    },
+    {
+      "idSeance": 189629,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32732,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-09T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 90522,
+          "titre": "Io ti amo",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1968,
+          "duree": 96,
+          "generique": "Dalida, Alberto Lupo, Špela Rozin",
+          "miniTexte": "De Douglas Sirk à Bollywood, Margheriti tente le pari du _musicarello_ – une variante italienne de la comédie musicale – pour une parenthèse inédite dans sa carrière. Les chansons de Dalida, émouvante en héroïne romanesque face à Alberto Lupo, rythment la passion tragique d'un peintre et d'une hôtesse de l'air, perdus au cœur de pittoresques décors italiens.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29560,
+              "duree": 96
             }
           ]
         }
@@ -784,7 +1565,7 @@
       "mention": "Séance présentée par Marién Gómez"
     },
     {
-      "idSeance": 194491,
+      "idSeance": 194685,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -794,30 +1575,48 @@
           "titreSousCycle": "Louis Delluc, de la critique à la réalisation"
         }
       ],
-      "idEvenement": 32751,
+      "idEvenement": 32749,
       "typeEvenement": 13,
       "dateHeure": "2025-06-06T20:30:00",
       "idSalle": "JE",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 49515,
-          "titre": "El Dorado",
-          "realisateurs": "Marcel L'Herbier",
-          "annee": 1921,
-          "duree": 88,
+          "idFilm": 155172,
+          "titre": "Essais d'acteurs : Eve Francis",
+          "realisateurs": "Alberto Cavalcanti, Jacques de Baroncelli",
+          "annee": 1926,
+          "duree": 4,
           "status": 0,
           "copies": [
             {
-              "idCopie": 29631,
-              "duree": 88,
-              "format": "35 mm",
+              "idCopie": 29554,
+              "duree": 4,
+              "format": "35 mm"
+            }
+          ]
+        },
+        {
+          "ordre": 2,
+          "idFilm": 48024,
+          "titre": "Femme de nulle part",
+          "art": "La",
+          "realisateurs": "Louis Delluc",
+          "annee": 1921,
+          "duree": 67,
+          "generique": "Ève Francis, Roger Karl, Gine Avril",
+          "synopsis": "Alors qu'elle s'apprête à quitter le domicile conjugal avec son amant, une jeune femme rencontre une femme de cinquante ans qui revient, trente ans après, dans la maison qu'elle avait quittée pour les mêmes motifs.\n\n---\n\nPrès de Gênes, une jeune femme s'apprête à quitter mari et enfant pour suivre son amant. Une femme âgée, lasse et meurtrie, arrive dans cette propriété qu'elle a jadis occupée.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 8355,
+              "duree": 67,
+              "format": "DCP",
               "intertitres": "INT. FR."
             }
           ]
         }
-      ],
-      "mention": "Séance présentée par Marién Gomez"
+      ]
     },
     {
       "idSeance": 189325,
@@ -843,11 +1642,87 @@
           "realisateurs": "Katsuhiro Ōtomo",
           "annee": 1988,
           "duree": 124,
+          "adaptation": "D'après le manga _Akira_ de Katsuhiro Ōtomo.",
           "status": 1,
           "copies": [
             {
               "idCopie": 29566,
               "duree": 124
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189514,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32761,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-04T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 61838,
+          "titre": "Belladonna des tristesses",
+          "titreVo": "Kanashimi no Beradonna",
+          "titreNx": "哀しみのベラドンナ",
+          "realisateurs": "Eiichi Yamamoto",
+          "annee": 1973,
+          "duree": 93,
+          "adaptation": "D'après l'ouvrage _La Sorcière_ de Jules Michelet.",
+          "synopsis": "Jeanne, dans l'espoir d'obtenir vengeance, pactise avec le Diable après avoir été violée par le seigneur de son village. « Influencés par l'Art nouveau, les plans évoquent Alfons Mucha, Aubrey Beardsley, Gustav Klimt, Egon Schiele. La conclusion du film, marquée par l'idéologie d'une époque hyper-libertaire, rappelle l'apport des femmes dans la Révolution française. » (Jean-Marie Lanlo)",
+          "commentaire": "_Belladonna des tristesses_ d'Eiichi Yamamoto, adaptation de _La Sorcière_ de Michelet, est une aventure graphique alors inédite dans le cinéma d'animation japonais, empruntant à l'Art nouveau, à Gustav Klimt et Aubrey Beardsley mais aussi au _Yellow Submarine_ de George Dunning. Ce véritable opéra-rock à la folle imagination s'inscrit dans la culture underground de l'époque, proche autant du baroque de Shuji Terayama que du cinéma pink de Koji Wakamatsu, qu'il rejoint par sa virulence révolutionnaire. Comme chez l'auteur de _La Vierge violente_, les tortures dont est l'objet la sorcière ne servent pas une apologie de la soumission féminine mais au contraire de sa libération. Inoubliable est ainsi la jouissance éperdue de la sorcière, engloutie dans l'ombre gigantesque du prince des ténèbres (auquel le mythique Tatsuya Nakadai prête sa voix) qui se dilate et se contracte autour de son corps blanc. Avec sa cohorte de femmes brûlées, torturées ou crucifiées de peur que leur puissance ne renverse la domination masculine, _Belladonna_ respecte à la lettre le caractère visionnaire et féministe du livre de Michelet.\r\n\r\nStéphane du Mesnildot",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 8313,
+              "duree": 93,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189515,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32762,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-04T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155175,
+          "titre": "Blue Giant",
+          "realisateurs": "Yuzuru Tachikawa",
+          "annee": 2023,
+          "duree": 120,
+          "adaptation": "D'après le manga _Blue Giant_ de Shin'ichi Ishizuka.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29567,
+              "duree": 120
             }
           ]
         }
@@ -877,11 +1752,52 @@
           "realisateurs": "Osamu Tezuka, Eiichi Yamamoto",
           "annee": 1970,
           "duree": 112,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29568,
               "duree": 112
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194692,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32764,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-14T15:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 59503,
+          "titre": "Porco Rosso",
+          "titreVo": "Kurenai no buta",
+          "titreNx": "紅の豚",
+          "realisateurs": "Hayao Miyazaki",
+          "annee": 1992,
+          "duree": 94,
+          "ageMinimal": 10,
+          "synopsis": "Durant l'entre-deux-guerres, quelque part en Italie, le pilote Marco, aventurier solitaire, vit dans le repaire qu'il a établi sur une île déserte de l'Adriatique. À bord de son splendide hydravion rouge, il vient en aide aux personnes en difficulté.",
+          "synopsisJP": "Tout le savoir-faire des studios Ghibli, dans le dernier film du maître Miyazaki entièrement dessiné à la main, et témoin de sa passion pour l'aviation. Une fable délicate sur l'héroïsme, ou quand les aventures d'un pilote à tête de cochon servent un réquisitoire subtil contre la guerre.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 26250,
+              "duree": 94,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -967,6 +1883,48 @@
       ]
     },
     {
+      "idSeance": 189574,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32767,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-06T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 60011,
+          "titre": "Tombeau des lucioles",
+          "art": "Le",
+          "titreVo": "Hotaru no haka",
+          "realisateurs": "Isao Takahata",
+          "annee": 1989,
+          "duree": 88,
+          "adaptation": "D'après la nouvelle _La Tombe des lucioles_ d'Akiyuki Nosaka.",
+          "ageMinimal": 12,
+          "synopsis": "Deux enfants, Seita et sa petite sœur Setsuko, sont emportés par les désastres de la guerre. Devenus orphelins, ils tenteront de survivre, tant bien que mal. _Un film d'animation bouleversant qui permet d'être à la fois très proche de la vie quotidienne des enfants et de laisser une place à de très beaux moments magiques._",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 14664,
+              "duree": 88,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "JPN",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 189248,
       "idProg": 335,
       "idCycleCategories": [
@@ -986,11 +1944,12 @@
         {
           "ordre": 1,
           "idFilm": 65008,
-          "titre": "Perfect blue",
+          "titre": "Perfect Blue",
           "realisateurs": "Satoshi Kon",
           "annee": 1997,
           "duree": 81,
-          "status": 0,
+          "adaptation": "D'après le roman _Perfect Blue : Métamorphose d'une idole_ de Yoshikazu Takeuchi.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 29569,
@@ -1061,6 +2020,116 @@
       ]
     },
     {
+      "idSeance": 189558,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32770,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-05T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 86978,
+          "titre": "Cowboy Bebop, le film",
+          "titreVo": "Cowboy Bebop : Tengoku no tobira",
+          "realisateurs": "Shin'ichirō Watanabe, Yoshiyuki Takei",
+          "annee": 2001,
+          "duree": 115,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 25818,
+              "duree": 115,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189777,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32771,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-14T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 88721,
+          "titre": "Tokyo Godfathers",
+          "titreVo": "Tōkyō Goddofāzāsu",
+          "realisateurs": "Satoshi Kon, Shogo Furuya",
+          "annee": 2003,
+          "duree": 92,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29570,
+              "duree": 92,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194691,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32772,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-14T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 93133,
+          "titre": "Steamboy",
+          "realisateurs": "Katsuhiro Ōtomo",
+          "annee": 2003,
+          "duree": 125,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29571,
+              "duree": 125,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 189368,
       "idProg": 335,
       "idCycleCategories": [
@@ -1084,7 +2153,7 @@
           "annee": 2005,
           "duree": 91,
           "adaptation": "D'après le roman _Paprika_ de Yasutaka Tsutsui.",
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 20563,
@@ -1092,6 +2161,84 @@
               "format": "35 mm",
               "version": "VO",
               "langCopie": "JPN",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189575,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32774,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-06T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 133698,
+          "titre": "Your Name",
+          "titreVo": "Kimi no na wa",
+          "realisateurs": "Makoto Shinkai",
+          "annee": 2015,
+          "duree": 106,
+          "adaptation": "D'après le roman _Your Name_ de Makoto Shinkai.",
+          "ageMinimal": 9,
+          "synopsis": "Mitsuha est une jeune fille vivant à la montagne, dans un milieu traditionnel qu'elle voudrait quitter. Taki est un lycéen de Tokyo, jonglant entre son travail et ses amis. La nuit, chacun est projeté dans le corps et la vie de l'autre...",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 17158,
+              "duree": 106,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "JPN",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189591,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32775,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-07T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 121746,
+          "titre": "5 centimètres par seconde",
+          "titreVo": "Byosoku 5 centimeters",
+          "realisateurs": "Makoto Shinkai",
+          "annee": 2007,
+          "duree": 63,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29572,
+              "duree": 63,
+              "format": "DCP",
+              "version": "VO",
               "sousTitres": "STF"
             }
           ]
@@ -1123,12 +2270,48 @@
           "realisateurs": "Mamoru Oshii",
           "annee": 1985,
           "duree": 71,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29573,
               "duree": 71,
               "langCopie": "JPN"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Juliette Armantier"
+    },
+    {
+      "idSeance": 194690,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32777,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-07T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 141521,
+          "titre": "Liz et l'oiseau bleu",
+          "titreVo": "Rizu to aoi tori",
+          "realisateurs": "Naoko Yamada",
+          "annee": 2018,
+          "duree": 90,
+          "adaptation": "D'après le roman _Sound! Euphonium_ de Ayano Takeda.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29574,
+              "duree": 90
             }
           ]
         }
@@ -1154,11 +2337,11 @@
           "ordre": 1,
           "idFilm": 88722,
           "titre": "Millennium Actress",
-          "titreVo": "Sennen joyu",
+          "titreVo": "Sennen joyū",
           "realisateurs": "Satoshi Kon",
           "annee": 2001,
           "duree": 88,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29575,
@@ -1196,11 +2379,48 @@
           "realisateurs": "Eiichi Yamamoto",
           "annee": 1969,
           "duree": 128,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29576,
               "duree": 128
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189852,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32780,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-17T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 79292,
+          "titre": "Metropolis",
+          "realisateurs": "Rintarō",
+          "annee": 2001,
+          "duree": 107,
+          "adaptation": "D'après le manga _Metropolis_ d'Osamu Tezuka.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29577,
+              "duree": 107,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -1219,7 +2439,7 @@
       ],
       "idEvenement": 32781,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-29T19:30:00",
+      "dateHeure": "2025-06-29T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1234,13 +2454,54 @@
           "duree": 79,
           "ageMinimal": 6,
           "synopsis": "Un petit garçon se lie d'amitié avec un serpent blanc aux pouvoirs magiques, mais ses parents le forcent à s'en séparer. Quelques années plus tard, le serpent réapparaît sous les traits d'une belle jeune fille.",
-          "synopsisJP": "Le premier long métrage d'animation japonais en couleurs, réalisé sur celluloïd, produit par la Toei des futurs talents Miyazaki ou Takahata. D'après une légende chinoise, l'histoire d'amour entre un jeune homme et un serpent transformé en ravissante princesse est une perle rare, qui met en scène avec délicatesse la lutte entre le bien et le mal.",
+          "synopsisJP": "Le premier long métrage d'animation japonais en couleurs, réalisé sur celluloïd, produit par la Toei des futurs talents Miyazaki ou Takahata. D'après une légende chinoise, l'histoire d'amour entre un jeune homme et un serpent transformé en ravissante princesse est une perle rare, qui met en scène avec délicatesse la lutte entre le Bien et le Mal.",
           "status": 2,
           "copies": [
             {
               "idCopie": 10497,
               "duree": 79,
               "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189557,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32782,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-05T17:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 123614,
+          "titre": "Conte de la princesse Kaguya",
+          "art": "Le",
+          "titreVo": "Kaguyahime no monogatari",
+          "realisateurs": "Isao Takahata",
+          "annee": 2013,
+          "duree": 137,
+          "adaptation": "D'après le conte japonais _Kaguya-hime_.",
+          "ageMinimal": 8,
+          "synopsis": "Elle pousse drôlement vite cette petite fille trouvée dans une pousse de bambou! C'est un secret mais en fait, elle est tombée de la Lune ! _Adaptation d'un conte japonais du X__ème_ _siècle, le dernier film de Takahata est porté par une délicate palette de couleurs pastel et accompagné par l'orchestration du musicien, complice de toujours des studios Ghibli, Joe Hisaishi._",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 13400,
+              "duree": 137,
+              "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
             }
@@ -1261,7 +2522,7 @@
       ],
       "idEvenement": 32783,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-29T17:00:00",
+      "dateHeure": "2025-06-29T17:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1289,34 +2550,37 @@
       ]
     },
     {
-      "idSeance": 194628,
+      "idSeance": 189576,
       "idProg": 335,
       "idCycleCategories": [
         {
-          "idCycle": 978,
-          "idCategorie": 3680,
-          "titreCycle": "Histoire permanente du cinéma",
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 32807,
+      "idEvenement": 32784,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-31T16:00:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-07-06T19:15:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 38463,
-          "titre": "Element of Crime",
-          "titreVo": "Forbrydelsens element",
-          "realisateurs": "Lars von Trier",
-          "annee": 1983,
-          "duree": 104,
-          "status": 0,
+          "idFilm": 99992,
+          "titre": "Nausicaä de la vallée du vent",
+          "titreVo": "Kaze no tani no Naushika",
+          "realisateurs": "Hayao Miyazaki",
+          "annee": 1984,
+          "duree": 117,
+          "adaptation": "D'après le manga _Nausicaä de la vallée du vent_ d'Hayao Miyazaki.",
+          "ageMinimal": 10,
+          "synopsis": "La Terre a été ravagée par la folie des hommes et seule une poignée d'humains a survécu. Mais ils sont toujours menacés par une forêt toxique qui ne cesse de grandir. Cette poignée de survivants attend l'arrivée de la Princesse Nausicaä, capable de communiquer avec tous les êtres vivants. _Une fable écologique où tout l'espoir du monde repose sur un très beau personnage de jeune femme._",
+          "status": 1,
           "copies": [
             {
-              "idCopie": 29596,
-              "duree": 104,
+              "idCopie": 29578,
+              "duree": 117,
               "format": "DCP",
               "version": "VO",
               "sousTitres": "STF"
@@ -1326,37 +2590,88 @@
       ]
     },
     {
-      "idSeance": 194629,
+      "idSeance": 189780,
       "idProg": 335,
       "idCycleCategories": [
         {
-          "idCycle": 978,
-          "idCategorie": 3680,
-          "titreCycle": "Histoire permanente du cinéma",
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 32808,
+      "idEvenement": 32797,
       "typeEvenement": 13,
-      "dateHeure": "2025-08-01T16:00:00",
+      "dateHeure": "2025-07-14T20:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 55062,
-          "titre": "Hôtel New Hampshire",
-          "art": "L'",
-          "titreVo": "Hotel New Hampshire",
-          "artVo": "The",
-          "realisateurs": "Tony Richardson",
-          "annee": 1983,
-          "adaptation": "D'après le roman _The Hotel New Hampshire_ de John Irving.",
-          "status": 0
+          "idFilm": 87325,
+          "titre": "Pulsions cannibales",
+          "titreVo": "Apocalypse domani",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1980,
+          "duree": 92,
+          "generique": "John Saxon, Elizabeth Turner, Giovanni Lombardo Radice",
+          "miniTexte": "Des vétérans du Vietnam rentrent au pays, contaminés par un virus qui les transforme en monstres cannibales. À grands renforts d'effets spéciaux sanguinolents et de séquences craspecs, Margheriti imagine un _Apocalypse Now_ gore, qui oscille de l'invasion zombie à la réflexion sur le trauma post-guerre. Une descente aux enfers vertigineuse et nihiliste.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29474,
+              "duree": 92,
+              "format": "DCP",
+              "version": "VA",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 49550
         }
       ]
     },
     {
-      "idSeance": 190191,
+      "idSeance": 194684,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32798,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-13T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 56630,
+          "titre": "Yor, le chasseur du futur",
+          "titreVo": "Mondo di Yor",
+          "artVo": "Il",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1982,
+          "duree": 88,
+          "generique": "Reb Brown, Corinne Cléry, John Steiner",
+          "adaptation": "D'après le roman graphique _Henga el cazador_ de Juan Zanotto et Ray Collins.",
+          "miniTexte": "Comme un _mashup_ loufoque de _La Guerre du feu_, _Conan_ et _Star Wars_, Margheriti additionne costumes délirants, humanoïdes poilus et musique disco pour une aventure galactique, qui cumule les trucages techniques et les faux raccords improbables. Une curiosité, classée parmi les 100 films les plus mauvais et les plus drôles de l'histoire du cinéma.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 10093,
+              "duree": 88,
+              "format": "35 mm",
+              "version": "VF"
+            }
+          ],
+          "idFilmBoxoffice": 12438
+        }
+      ]
+    },
+    {
+      "idSeance": 194706,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -1366,21 +2681,33 @@
           "titreSousCycle": "Les films"
         }
       ],
-      "idEvenement": 32809,
+      "idEvenement": 32800,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-30T16:00:00",
+      "dateHeure": "2025-07-04T16:30:00",
       "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
-          "idFilm": 54585,
-          "titre": "Liberté la nuit",
-          "realisateurs": "Philippe Garrel",
-          "annee": 1983,
-          "generique": "Maurice Garrel, Emmanuelle Riva, Christine Boisson",
-          "synopsis": "À Paris, la femme d'un sympathisant du FLN est assassinée en pleine rue par des membres de l'OAS.",
-          "commentaire": "« Précarité de la prise unique, filmage intuitif d'événements sur les visages, contemplation amoureuse des corps : on retrouve ce qui fait de Garrel un des plus grands filmeurs de ce temps ». (Alain Philippon)",
-          "status": 2
+          "idFilm": 33530,
+          "titre": "Agnès de Dieu",
+          "titreVo": "Agnes of God",
+          "realisateurs": "Norman Jewison",
+          "annee": 1984,
+          "duree": 98,
+          "generique": "Jane Fonda, Anne Bancroft, Meg Tilly",
+          "adaptation": "D'après la pièce _Agnès de Dieu_ de John Pielmeier.",
+          "synopsis": "La psychiatre Martha Livingston vient en aide à Sœur Agnès, accusée d'avoir tué son nouveau-né. Elle va se heurter à Mère Myriam Ruth qui dirige le couvent.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 15902,
+              "duree": 98,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -1408,34 +2735,6 @@
           "realisateurs": "Martin Ritt",
           "annee": 1982,
           "adaptation": "D'après le roman _Cross Creek_ de Marjorie Kinnan Rawlings.",
-          "status": 0
-        }
-      ]
-    },
-    {
-      "idSeance": 190156,
-      "idProg": 335,
-      "idCycleCategories": [
-        {
-          "idCycle": 978,
-          "idCategorie": 3680,
-          "titreCycle": "Histoire permanente du cinéma",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32812,
-      "typeEvenement": 13,
-      "dateHeure": "2025-07-28T16:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 57266,
-          "titre": "Nostalghia",
-          "realisateurs": "Andreï Tarkovski",
-          "annee": 1982,
-          "generique": "Oleg Yankovski, Domiziana Giordano, Erland Josephson",
-          "synopsis": "Gortchakov veut écrire un livre sur un compositeur russe du XVIIIe siècle qui vécut en Italie et ne retourna dans son pays que pour y mourir. Il quitte Rome pour aller admirer une fresque de Piero della Francesca, en compagnie d'une interprète.",
           "status": 0
         }
       ]
@@ -1835,36 +3134,6 @@
       ]
     },
     {
-      "idSeance": 194621,
-      "idProg": 335,
-      "idCycleCategories": [
-        {
-          "idCycle": 978,
-          "idCategorie": 3680,
-          "titreCycle": "Histoire permanente du cinéma",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32832,
-      "typeEvenement": 13,
-      "dateHeure": "2025-07-04T16:30:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 51832,
-          "titre": "Possession",
-          "realisateurs": "Andrzej Żuławski",
-          "annee": 1981,
-          "generique": "Isabelle Adjani, Sam Neill, Margit Carstensen",
-          "synopsis": "De retour d'un long voyage, Marc retrouve à Berlin sa femme Anna et son fils, Bob. Prise de crises violentes, Anna disparaît. Marc engage un détective qui découvre bientôt qu'elle s'est réfugiée dans une étrange demeure où semble se cacher une créature surgie des ténèbres.",
-          "miniTexte": "Tourbillon d'émotions et de visions dérangeantes, _Possession_ sonde l'implosion d'un couple à grands coups de disputes houleuses et de mutilations physiques. Derrière une expérience sensorielle intense, une sombre histoire de désespoir et d'amour fou au climat de paranoïa suffocant et à la mise en scène viscérale. Le cauchemar onirique de Żuławski, magistralement incarné par Isabelle Adjani, prix d'interprétation féminine à Cannes et César de la meilleure actrice.",
-          "status": 2,
-          "idFilmBoxoffice": 274
-        }
-      ]
-    },
-    {
       "idSeance": 194619,
       "idProg": 335,
       "idCycleCategories": [
@@ -1935,7 +3204,7 @@
       ],
       "idEvenement": 32836,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-16T16:00:00",
+      "dateHeure": "2025-06-16T15:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2367,7 +3636,440 @@
       ]
     },
     {
-      "idSeance": 189626,
+      "idSeance": 194682,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 998,
+          "idCategorie": 3761,
+          "titreCycle": "Michel Gondry",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32855,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-19T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 75120,
+          "titre": "Human Nature",
+          "realisateurs": "Michel Gondry",
+          "annee": 2000,
+          "duree": 96,
+          "generique": "Tim Robbins, Patricia Arquette, Rhys Ifans",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29607,
+              "duree": 96,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29609,
+              "duree": 96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194683,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 998,
+          "idCategorie": 3761,
+          "titreCycle": "Michel Gondry",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32856,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-19T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 91738,
+          "titre": "Eternal Sunshine of the Spotless Mind",
+          "realisateurs": "Michel Gondry",
+          "annee": 2003,
+          "duree": 108,
+          "generique": "Jim Carrey, Kate Winslet, Tom Wilkinson",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29608,
+              "duree": 108,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189213,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 998,
+          "idCategorie": 3761,
+          "titreCycle": "Michel Gondry",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32857,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-23T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 100006,
+          "titre": "Block Party",
+          "titreVo": "Dave Chappelle's Block Party",
+          "realisateurs": "Michel Gondry",
+          "annee": 2005,
+          "duree": 100,
+          "generique": "Dave Chappelle, Kayne West, Mos Def, The Fugees",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29610,
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189136,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 998,
+          "idCategorie": 3761,
+          "titreCycle": "Michel Gondry",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32858,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-20T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 99664,
+          "titre": "Science des rêves",
+          "art": "La",
+          "realisateurs": "Michel Gondry",
+          "annee": 2005,
+          "duree": 105,
+          "generique": "Gael García Bernal, Charlotte Gainsbourg, Alain Chabat",
+          "synopsis": "Venant tout juste d'arriver en France, Stéphane s'ennuie dans son métier fastidieux. Il va se réfugier dans un monde fait de rêves et tomber amoureux de sa voisine Stéphanie.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29611,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "selected": true
+            },
+            {
+              "idCopie": 15972,
+              "duree": 105,
+              "format": "35 mm"
+            },
+            {
+              "idCopie": 29612,
+              "duree": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189137,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 998,
+          "idCategorie": 3761,
+          "titreCycle": "Michel Gondry",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32859,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-20T20:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 103844,
+          "titre": "Soyez sympas, rembobinez",
+          "titreVo": "Be Kind Rewind",
+          "realisateurs": "Michel Gondry",
+          "annee": 2006,
+          "duree": 102,
+          "generique": "Jack Black, Mos Def, Danny Glover",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29613,
+              "duree": 102,
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29614,
+              "duree": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189180,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 998,
+          "idCategorie": 3761,
+          "titreCycle": "Michel Gondry",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32862,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-21T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 108315,
+          "titre": "Épine dans le cœur",
+          "art": "L'",
+          "realisateurs": "Michel Gondry",
+          "annee": 2008,
+          "duree": 86,
+          "generique": "Suzette Gondry, Jean-Yves Gondry",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29624,
+              "duree": 86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189181,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 998,
+          "idCategorie": 3761,
+          "titreCycle": "Michel Gondry",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32863,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-21T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 112547,
+          "titre": "Green Hornet",
+          "art": "The",
+          "realisateurs": "Michel Gondry",
+          "annee": 2010,
+          "generique": "Seth Rogen, Jay Chou, Cameron Diaz, Christoph Waltz",
+          "adaptation": "D'après la série radiophonique _Le Frelon Vert_ de George W. Trendle.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 12921,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 12922,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189197,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 998,
+          "idCategorie": 3761,
+          "titreCycle": "Michel Gondry",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32864,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-22T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 116558,
+          "titre": "We and the I",
+          "art": "The",
+          "realisateurs": "Michel Gondry",
+          "annee": 2011,
+          "duree": 103,
+          "generique": "Michael Brodie, Teresa Lynn, Raymond Delgado",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29625,
+              "duree": 103,
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189198,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 998,
+          "idCategorie": 3761,
+          "titreCycle": "Michel Gondry",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32865,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-22T20:45:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 119164,
+          "titre": "Écume des jours",
+          "art": "L'",
+          "realisateurs": "Michel Gondry",
+          "annee": 2012,
+          "duree": 94,
+          "generique": "Romain Duris, Audrey Tautou, Gad Elmaleh",
+          "adaptation": "D'après le roman _L'Écume des jours_ de Boris Vian.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29626,
+              "duree": 94,
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189212,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 998,
+          "idCategorie": 3761,
+          "titreCycle": "Michel Gondry",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32866,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-23T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 123096,
+          "titre": "Conversation animée avec Noam Chomsky",
+          "realisateurs": "Michel Gondry",
+          "annee": 2013,
+          "duree": 85,
+          "generique": "Noam Chomsky, Michel Gondry",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29627,
+              "duree": 85
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189196,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 998,
+          "idCategorie": 3761,
+          "titreCycle": "Michel Gondry",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32867,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-22T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 127330,
+          "titre": "Microbe et Gasoil",
+          "realisateurs": "Michel Gondry",
+          "annee": 2014,
+          "duree": 103,
+          "generique": "Ange Dargent, Théophile Baquet, Audrey Tautou",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29628,
+              "duree": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194686,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -2381,7 +4083,6 @@
       "typeEvenement": 13,
       "dateHeure": "2025-07-09T20:00:00",
       "idSalle": "HL",
-      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -2391,8 +4092,9 @@
           "realisateurs": "Edward Yang",
           "annee": 1996,
           "duree": 121,
-          "generique": "Virginie Ledoyen, Yue-Lin Ko, Tsung sheng Tang",
-          "status": 1,
+          "generique": "Virginie Ledoyen, Ko Yue-Lin, Tsung Sheng Tang",
+          "miniTexte": "Un groupe de jeunes Taïwanais, déterminé à escroquer des étrangers, s'en prend à une femme d'affaires chinoise et une touriste française. Entre film noir et comédie, une réflexion acérée sur les contradictions d'une société en pleine mutation, où local et mondialisation, tradition et modernité s'entrechoquent.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 29622,
@@ -2404,11 +4106,10 @@
           ],
           "idFilmBoxoffice": 32713
         }
-      ],
-      "mention": "Ouverture de la rétrospective"
+      ]
     },
     {
-      "idSeance": 189704,
+      "idSeance": 194687,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -2420,7 +4121,7 @@
       ],
       "idEvenement": 32916,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-11T21:00:00",
+      "dateHeure": "2025-07-12T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2432,7 +4133,8 @@
           "realisateurs": "Edward Yang",
           "annee": 1994,
           "duree": 132,
-          "generique": "Xianqi Chen, Shujun Ni, Weiming Wang",
+          "generique": "Chen Shiang-chyi, Ni Shujun, Wang Weiming",
+          "miniTexte": "Critique mordante du miracle économique taïwanais, _Confusion chez Confucius_ brosse le portrait d'une jeune génération – entrepreneurs, artistes, intellectuels – qui se heurte aux valeurs morales dans une société obsédée par l'argent et le statut social.",
           "status": 1,
           "copies": [
             {
@@ -2460,20 +4162,21 @@
       ],
       "idEvenement": 32917,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-10T19:00:00",
+      "dateHeure": "2025-07-10T18:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
           "idFilm": 75632,
-          "titre": "Taipei story",
+          "titre": "Taipei Story",
           "titreVo": "Qing mei zhu ma",
           "titreNx": "青梅竹馬",
           "realisateurs": "Edward Yang",
           "annee": 1985,
           "duree": 115,
-          "generique": "Hsiao-Hsien Hou, Chin Tsai, Teh-nan Lai",
-          "status": 1,
+          "generique": "Hou Hsiao-Hsien, Tsai Chin, Lai Teh-nan",
+          "miniTexte": "Au cœur de la capitale, les errances et les conflits d'un couple deviennent une méditation poétique et politique sur la société taïwanaise, à l'heure de basculer dans la modernité mondialisée. Yang confie à Hou Hsiao-hsien le rôle d'une ancienne star de baseball désœuvrée, incarnation d'une génération en perte de repère.",
+          "status": 2,
           "copies": [
             {
               "idCopie": 13046,
@@ -2513,14 +4216,15 @@
           "annee": 1983,
           "duree": 167,
           "generique": "Sylvia Chang, Terry Hu, David Mao",
-          "status": 1,
+          "miniTexte": "À travers les retrouvailles de deux amies, Yang explore les thèmes de la mémoire et du bonheur éphémère. Construite autour de sauts temporels, l'œuvre pose les bases de la Nouvelle Vague taïwanaise, filmée par un chef-opérateur débutant : Christopher Doyle, sept ans avant sa collaboration avec Wong Kar-wai.",
+          "status": 2,
           "copies": [
             {
-              "idCopie": 29621,
+              "idCopie": 29683,
               "duree": 167,
-              "format": "16 mm",
+              "format": "35 mm",
               "version": "VO",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 844
@@ -2552,7 +4256,8 @@
           "realisateurs": "Edward Yang",
           "annee": 1991,
           "duree": 237,
-          "generique": "Zhen Zhang, Guozhu Chang, Ju-an Wang",
+          "generique": "Chang Chen, Zhang Guozhu, Wang Ju-an",
+          "miniTexte": "Avec son titre emprunté aux paroles d'une chanson d'Elvis Presley, _A Brighter Summer Day_ est une chronique bouleversante de la jeunesse du cinéaste dans le Taïwan des années 60 (Formose). Marquée par les tensions entre populations locales et immigrés du continent, l'influence grandissante de la culture américaine, et la violence des gangs d'adolescents, une œuvre monumentale d'une portée universelle, et l'un des films les plus importants du cinéma asiatique moderne.",
           "status": 1,
           "copies": [
             {
@@ -2568,7 +4273,7 @@
       ]
     },
     {
-      "idSeance": 189746,
+      "idSeance": 189853,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -2580,7 +4285,7 @@
       ],
       "idEvenement": 32920,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-12T17:00:00",
+      "dateHeure": "2025-07-17T20:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2590,7 +4295,8 @@
           "titreNx": "一一",
           "realisateurs": "Edward Yang",
           "annee": 2000,
-          "generique": "Nianzhen Wu, Issey Ogata, Elaine Jin",
+          "generique": "Wu Nianzhen, Issey Ogata, Elaine Jin",
+          "miniTexte": "Monument discret du siècle naissant, primé à Cannes pour sa mise en scène, _Yi Yi_ (littéralement « un par un » ou « l'un après l'autre ») suit une famille de la classe moyenne, prise dans la frénésie urbaine de Taipei. Observateur appliqué, Edward Yang, qui commence son récit par un mariage et le clôt par des funérailles, porte un regard sensible sur les regrets et les espoirs de trois générations, tandis que chacune, à sa manière, traverse une crise existentielle. D'une composition rigoureuse, géométrique, un tableau saisissant sur les relations humaines, une épopée familiale, ample et chaleureuse, aux résonances universelles.",
           "status": 1,
           "copies": [
             {
@@ -2626,7 +4332,7 @@
       ],
       "idEvenement": 32921,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-10T21:00:00",
+      "dateHeure": "2025-07-10T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2638,7 +4344,8 @@
           "realisateurs": "Edward Yang",
           "annee": 1986,
           "duree": 109,
-          "generique": "Cora Miao, An Wang, Li-chun Li",
+          "generique": "Cora Miao, Wang An, Li-chun Li",
+          "miniTexte": "Une délinquante, une romancière en crise, un photographe désabusé... Sous l'influence du cinéma d'Antonioni, plusieurs récits s'entrecroisent sur fond de thriller métaphysique. Témoin d'une urbanisation déshumanisée, Yang capte la froideur et le vide existentiel de Taipei, dans une critique de la déconnexion sociale d'un monde émietté. Léopard d'argent à Locarno, la vision d'un cinéaste révolté, à l'inventivité sidérante.",
           "status": 1,
           "copies": [
             {
@@ -2654,7 +4361,7 @@
       ]
     },
     {
-      "idSeance": 189747,
+      "idSeance": 194688,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -2666,19 +4373,20 @@
       ],
       "idEvenement": 32922,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-12T19:00:00",
+      "dateHeure": "2025-07-13T20:15:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
           "idFilm": 125886,
-          "titre": "In our time",
+          "titre": "In Our Time",
           "titreVo": "Guangyin de gushi",
           "titreNx": "光陰的故事",
-          "realisateurs": "Tao Te-chen, Edward Yang, Ko I-chen, Yi Chang",
+          "realisateurs": "Tao Te-Chen, Edward Yang, Ko I-Chen, Chang Yi",
           "annee": 1982,
           "duree": 106,
           "generique": "Shi Anni, Zhang Yingzhen, Wang Qiguang",
+          "miniTexte": "En rupture avec le cinéma commercial de l'époque, les prémices du Nouveau cinéma taïwanais, dans un film à sketches qui décrit différentes périodes de la vie à Taïwan, de l'enfance à l'âge adulte. Edward Yang signe le segment _Expectations_ sur l'adolescence, sa toute première réalisation.",
           "status": 1,
           "copies": [
             {
@@ -2690,6 +4398,76 @@
             }
           ],
           "idFilmBoxoffice": 231223
+        }
+      ]
+    },
+    {
+      "idSeance": 188572,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32944,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-30T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 51666,
+          "titre": "Un assassin qui passe",
+          "realisateurs": "Michel Vianey",
+          "annee": 1980,
+          "duree": 105,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29635,
+              "duree": 105,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 188571,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32945,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-30T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47977,
+          "titre": "Adieu blaireau",
+          "realisateurs": "Bob Decout",
+          "annee": 1984,
+          "duree": 88,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29636,
+              "duree": 88,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            }
+          ]
         }
       ]
     },
@@ -2755,13 +4533,15 @@
           "realisateurs": "John M. Stahl",
           "annee": 1919,
           "duree": 80,
+          "miniTexte": "La relation naissante d'un couple aux liens familiaux obscurs. La première réalisation signée par Stahl annonce un thème central de l'œuvre à venir, énoncé en ouverture du film : « Lorsque l'appel du cœur est entendu, tout le reste est oublié. »",
           "status": 1,
           "copies": [
             {
               "idCopie": 29644,
               "duree": 80
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22245
         }
       ]
     },
@@ -2778,7 +4558,7 @@
       ],
       "idEvenement": 32951,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-06T18:15:00",
+      "dateHeure": "2025-06-07T18:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2788,13 +4568,15 @@
           "realisateurs": "John M. Stahl",
           "annee": 1921,
           "duree": 85,
+          "miniTexte": "La réputation d'une comédienne mise à mal, lorsqu'elle découvre l'identité de sa mère, une demi-mondaine notoire. Produit par Louis B. Mayer, le film met en scène l'actrice et productrice Anita Stewart dans une intrigue extravagante, qui multiplie les climax dramatiques.",
           "status": 1,
           "copies": [
             {
               "idCopie": 29653,
               "duree": 85
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22246
         }
       ]
     },
@@ -2821,6 +4603,7 @@
           "realisateurs": "John M. Stahl",
           "annee": 1921,
           "duree": 92,
+          "miniTexte": "Une série de coïncidences et de malentendus met à l'épreuve un jeune couple de mariés fortunés. Une affaire improbable, astucieusement menée par Stahl, grâce à un jeu de montage alterné, enrichi de légendes tout aussi élaborées.",
           "status": 1,
           "copies": [
             {
@@ -2828,7 +4611,8 @@
               "duree": 92,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22248
         }
       ]
     },
@@ -2855,13 +4639,15 @@
           "realisateurs": "John M. Stahl",
           "annee": 1922,
           "duree": 80,
+          "miniTexte": "Des cavaliers du Ku Klux Klan à la poursuite d'un paria qui trouve refuge auprès d'un ami médecin. Un drame de l'Alabama rural, auquel se mêlent un chagrin d'amour et une femme disparue. Un Stahl précoce, nimbé de mystère.",
           "status": 1,
           "copies": [
             {
               "idCopie": 29654,
               "duree": 80
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22249
         }
       ]
     },
@@ -2888,13 +4674,50 @@
           "realisateurs": "John M. Stahl",
           "annee": 1924,
           "duree": 80,
+          "miniTexte": "Une comédie de remariage qui confirme le goût du cinéaste pour les rapports conjugaux. Un titre explicite pour l'histoire d'un homme qui délaisse son épouse et refait sa vie avec sa secrétaire. Mais comme souvent chez Stahl, dans sa période muette, le couple original se reforme pour un dénouement heureux.",
           "status": 1,
           "copies": [
             {
               "idCopie": 29655,
               "duree": 80
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22250
+        }
+      ]
+    },
+    {
+      "idSeance": 194689,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32955,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-07T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66084,
+          "titre": "Husbands and Lovers",
+          "realisateurs": "John M. Stahl",
+          "annee": 1924,
+          "duree": 80,
+          "miniTexte": "Lasse de son quotidien, une épouse dévouée décide de s'offrir un relooking, ce qui n'a d'autres conséquences que d'attirer l'ami lubrique du couple. Un drame conjugal, mâtiné d'humour, sur l'un des sujets favoris de Stahl, le mariage et ses mécontentements. Avec le fidèle Lewis Stone, incarnation de l'égoïsme masculin.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29656,
+              "duree": 80
+            }
+          ],
+          "idFilmBoxoffice": 22251
         }
       ]
     },
@@ -2921,11 +4744,47 @@
           "realisateurs": "John M. Stahl",
           "annee": 1926,
           "duree": 87,
+          "miniTexte": "Le jour de son mariage, Mary s'aperçoit qu'elle est encore amoureuse d'un ancien soupirant, lequel se retrouve par hasard être le chauffeur prévu pour la lune de miel. Évocation tendrement satirique de la vie dans une petite ville de province, un joyau méconnu, considéré comme l'un des meilleurs films muets de Stahl.",
           "status": 1,
           "copies": [
             {
               "idCopie": 29657,
               "duree": 87
+            }
+          ],
+          "idFilmBoxoffice": 22252
+        }
+      ]
+    },
+    {
+      "idSeance": 188715,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32960,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-05T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35937,
+          "titre": "In Old Kentucky",
+          "realisateurs": "John M. Stahl",
+          "annee": 1927,
+          "duree": 78,
+          "miniTexte": "Après la guerre, l'histoire d'une famille d'éleveurs de chevaux ruinée sur fond d'intrigue amoureuse. Dernière œuvre muette de Stahl, _In Old Kentucky_ (d'après la pièce populaire plusieurs fois adaptée à l'écran) est aussi l'un des premiers films de l'acteur afro-américain Stepin Fetchit.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29658,
+              "duree": 78
             }
           ]
         }
@@ -2954,13 +4813,90 @@
           "realisateurs": "John M. Stahl",
           "annee": 1930,
           "duree": 95,
+          "miniTexte": "Les débuts du parlant pour Stahl sur une histoire de remariage qui questionne le bonheur des relations conjugales. Mise en scène sophistiquée aux multiples rebondissements, et un succès à sa sortie en 1930, dont il ne reste qu'une rare copie à la Library of Congress.",
           "status": 1,
           "copies": [
             {
               "idCopie": 29659,
               "duree": 95
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22254
+        }
+      ]
+    },
+    {
+      "idSeance": 189251,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32962,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-25T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 71270,
+          "titre": "Dix petits pieds",
+          "titreVo": "Seed",
+          "realisateurs": "John M. Stahl",
+          "annee": 1931,
+          "duree": 96,
+          "generique": "Bette Davis, John Boles, Genevieve Tobin, Loïs Wilson",
+          "adaptation": "D'après le roman _Seed : A novel of birth control_ de Charles G. Norris.",
+          "synopsis": "Bart, employé dans la prestigieuse maison d'édition Bliss, mise tous ses espoirs dans le roman qu'il écrit. Lorsqu'une de ses anciennes amies, Mildred, l'aide à publier son roman, il quitte femme et enfants pour vivre avec elle.",
+          "miniTexte": "Avant _Histoire d'un amour_ et _Une nuit seulement_, _Dix petits pieds_ constitue le premier film d'une série sur l'adultère, où John Boles campe un écrivain prometteur, dont les ambitions littéraires se heurtent à ses responsabilités familiales. Époux et père de cinq enfants, il voit sa vie bouleversée par le retour d'un ancien amour, une agente littéraire, qui nourrit certaines intentions à son égard. Avec ses personnages tendrement esquissés et ses instants d'émotion saisissants, le style Stahl à son meilleur.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 1843,
+              "duree": 96
+            }
+          ],
+          "idFilmBoxoffice": 217180
+        }
+      ]
+    },
+    {
+      "idSeance": 189202,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32963,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-22T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66089,
+          "titre": "Strictly Dishonorable",
+          "realisateurs": "John M. Stahl",
+          "annee": 1931,
+          "duree": 91,
+          "adaptation": "D'après la pièce _Strictly dishonorable_ de Preston Sturges.",
+          "miniTexte": "L'adaptation pré-code Hays d'une pièce à succès de Broadway, écrite par Preston Sturges. Ponctuée d'allusions sexuelles joyeusement débridées, la rencontre dans un speakeasy italien de New York entre un chanteur d'opéra volage et une fille du Sud, fiancée à un rustre.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29660,
+              "duree": 91
+            }
+          ],
+          "idFilmBoxoffice": 22255
         }
       ]
     },
@@ -2990,6 +4926,7 @@
           "duree": 86,
           "generique": "Irene Dunne, John Boles, June Clyde",
           "synopsis": "Ray Schmidt est vendeuse dans une boutique à Cincinnati. Kurt Shendler, ami d'enfance, lui demande sa main mais Ray a rencontré Walter Saxel, un jeune commis-voyageur dont elle tombe éperdument amoureuse. Un quiproquo les sépare. Ils se retrouvent cinq ans après: Walter est marié et père de deux enfants. Première adaptation du roman de Fannie Hurst.",
+          "miniTexte": "Première des trois versions cinématographiques du roman de Fannie Hurst, une évocation du désir et du sacrifice, à travers le destin tragique d'une femme follement éprise d'un homme marié, et qui accepte, toute sa vie durant, de vivre dans l'ombre d'une relation secrète. Incarnation de l'élégance des années 30, Irene Dunne livre une performance poignante, dans un sommet du mélodrame hollywoodien, longtemps éclipsé par le remake de Robert Stevenson.",
           "status": 1,
           "copies": [
             {
@@ -3013,7 +4950,8 @@
               "format": "DCP",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22256
         }
       ]
     },
@@ -3043,6 +4981,7 @@
           "duree": 86,
           "generique": "Irene Dunne, John Boles, June Clyde",
           "synopsis": "Ray Schmidt est vendeuse dans une boutique à Cincinnati. Kurt Shendler, ami d'enfance, lui demande sa main mais Ray a rencontré Walter Saxel, un jeune commis-voyageur dont elle tombe éperdument amoureuse. Un quiproquo les sépare. Ils se retrouvent cinq ans après: Walter est marié et père de deux enfants. Première adaptation du roman de Fannie Hurst.",
+          "miniTexte": "Première des trois versions cinématographiques du roman de Fannie Hurst, une évocation du désir et du sacrifice, à travers le destin tragique d'une femme follement éprise d'un homme marié, et qui accepte, toute sa vie durant, de vivre dans l'ombre d'une relation secrète. Incarnation de l'élégance des années 30, Irene Dunne livre une performance poignante, dans un sommet du mélodrame hollywoodien, longtemps éclipsé par le remake de Robert Stevenson.",
           "status": 1,
           "copies": [
             {
@@ -3066,7 +5005,8 @@
               "format": "DCP",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22256
         }
       ]
     },
@@ -3083,7 +5023,7 @@
       ],
       "idEvenement": 32965,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-11T19:00:00",
+      "dateHeure": "2025-06-11T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3094,6 +5034,7 @@
           "realisateurs": "John M. Stahl",
           "annee": 1933,
           "duree": 105,
+          "miniTexte": "Découverte à Broadway, Margaret Sullavan rejoint les studios Universal pour son premier tournage. Une adaptation de _Lettre d'une inconnue_ de Stefan Zweig, quinze ans avant le classique de Max Ophuls, où un homme, sur le point de se suicider, trouve la lettre d'une femme qu'il a autrefois aimée. Une version magnifique et méconnue, transposée dans l'Amérique de la crise de 1929.",
           "status": 1,
           "copies": [
             {
@@ -3107,7 +5048,8 @@
               "idCopie": 29661,
               "duree": 105
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22257
         }
       ]
     },
@@ -3136,7 +5078,7 @@
           "annee": 1934,
           "duree": 110,
           "generique": "Warren William, Louise Beavers, Claudette Colbert",
-          "synopsis": "« Bea » Pullman est veuve et élève sa fille, Jessie. Elle rencontre Delilah, une femme noire, et l'engage comme gouvernante. Delilah s'installe avec sa petite fille Peola et, rapidement, elles font comme partie de la famille. Bea décide d'ouvrir un stand de crêpes à Atlantic City grâce à la délicieuse recette de la gouvernante et devient riche. Dix ans passent.",
+          "miniTexte": "Une veuve et sa fillette accueillent chez elles une servante noire et sa fille à la peau claire. Les deux femmes créent une entreprise prospère, mais sont bientôt confrontées à des difficultés familiales. D'après le roman de Fanny Hurst, un mélodrame audacieux pour les années 30, qui aborde la question du racisme, de l'identité et des relations mère-fille avec une grande subtilité, moins connu mais tout aussi admirable que le remake de Douglas Sirk.",
           "status": 1,
           "copies": [
             {
@@ -3153,7 +5095,55 @@
               "format": "DCP",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22367
+        }
+      ]
+    },
+    {
+      "idSeance": 194705,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32966,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-28T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35871,
+          "titre": "Images de la vie",
+          "titreVo": "Imitation of Life",
+          "realisateurs": "John M. Stahl",
+          "annee": 1934,
+          "duree": 110,
+          "generique": "Warren William, Louise Beavers, Claudette Colbert",
+          "miniTexte": "Une veuve et sa fillette accueillent chez elles une servante noire et sa fille à la peau claire. Les deux femmes créent une entreprise prospère, mais sont bientôt confrontées à des difficultés familiales. D'après le roman de Fanny Hurst, un mélodrame audacieux pour les années 30, qui aborde la question du racisme, de l'identité et des relations mère-fille avec une grande subtilité, moins connu mais tout aussi admirable que le remake de Douglas Sirk.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 98,
+              "duree": 110,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
+              "idCopie": 29676,
+              "duree": 111,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 22367
         }
       ]
     },
@@ -3183,6 +5173,7 @@
           "annee": 1935,
           "duree": 112,
           "adaptation": "D'après le roman _Magnificent obsession_ de Lloyd C. Douglas.",
+          "miniTexte": "Après avoir causé involontairement la mort d'un médecin, un playboy millionnaire cherche à racheter sa faute en aidant la veuve de ce dernier. Mais le sort s'acharne sur eux. À partir d'un scénario invraisemblable, Stahl orchestre une quête de rédemption émouvante, sublimée par la finesse de sa mise en scène. Un classique du genre, qui tire sa force du jeu tout en retenue de ses interprètes. Premier succès du jeune Robert Taylor.",
           "status": 1,
           "copies": [
             {
@@ -3196,7 +5187,8 @@
               "idCopie": 29662,
               "duree": 112
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22368
         }
       ]
     },
@@ -3213,7 +5205,7 @@
       ],
       "idEvenement": 32967,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-14T18:00:00",
+      "dateHeure": "2025-06-14T17:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3226,6 +5218,7 @@
           "annee": 1935,
           "duree": 112,
           "adaptation": "D'après le roman _Magnificent obsession_ de Lloyd C. Douglas.",
+          "miniTexte": "Après avoir causé involontairement la mort d'un médecin, un playboy millionnaire cherche à racheter sa faute en aidant la veuve de ce dernier. Mais le sort s'acharne sur eux. À partir d'un scénario invraisemblable, Stahl orchestre une quête de rédemption émouvante, sublimée par la finesse de sa mise en scène. Un classique du genre, qui tire sa force du jeu tout en retenue de ses interprètes. Premier succès du jeune Robert Taylor.",
           "status": 1,
           "copies": [
             {
@@ -3239,7 +5232,8 @@
               "idCopie": 29662,
               "duree": 112
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22368
         }
       ]
     },
@@ -3256,7 +5250,7 @@
       ],
       "idEvenement": 32968,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-11T21:00:00",
+      "dateHeure": "2025-06-11T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3268,13 +5262,15 @@
           "realisateurs": "John M. Stahl",
           "annee": 1937,
           "duree": 115,
+          "miniTexte": "La vie de Charles Stewart Parnell, homme politique et figure de proue du nationalisme irlandais dans les années 1880, dont la carrière fut entachée par le scandale de sa liaison avec une femme mariée.",
           "status": 1,
           "copies": [
             {
               "idCopie": 29663,
               "duree": 115
             }
-          ]
+          ],
+          "idFilmBoxoffice": 6077
         }
       ]
     },
@@ -3302,13 +5298,15 @@
           "realisateurs": "John M. Stahl",
           "annee": 1938,
           "duree": 104,
+          "miniTexte": "À New York, un comédien vieillissant retrouve sa fille, une aspirante actrice qu'il prend sous son aile, sans dévoiler leur lien de parenté. Derrière l'intrigue familiale, une exploration des coulisses du Broadway des années 30, marquée par la performance du ventriloque Edgar Bergen et de son célèbre pantin en smoking, Charlie McCarthy.",
           "status": 1,
           "copies": [
             {
               "idCopie": 29664,
               "duree": 104
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22370
         }
       ]
     },
@@ -3325,7 +5323,7 @@
       ],
       "idEvenement": 32970,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-31T20:15:00",
+      "dateHeure": "2025-05-31T20:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3336,6 +5334,7 @@
           "realisateurs": "John M. Stahl",
           "annee": 1939,
           "duree": 90,
+          "miniTexte": "À New York, un pianiste renommé tombe amoureux d'une serveuse engagée dans les luttes sociales de son restaurant. Vingt ans avant la version européenne de Sirk, Stahl dirige un couple d'interprètes au summum du romantisme (Irene Dunne et Charles Boyer tournent _Elle et Lui_ de Leo McCarey la même année). Leur face-à-face dans la séquence de l'ouragan offre des instants de grâce inoubliables, une parenthèse temporelle où les obstacles à leur amour semblent momentanément s'effacer.",
           "status": 1,
           "copies": [
             {
@@ -3350,7 +5349,52 @@
               "duree": 90,
               "format": "16 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22371
+        }
+      ]
+    },
+    {
+      "idSeance": 194704,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32970,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-21T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36973,
+          "titre": "Veillée d'amour",
+          "titreVo": "When Tomorrow Comes",
+          "realisateurs": "John M. Stahl",
+          "annee": 1939,
+          "duree": 90,
+          "miniTexte": "À New York, un pianiste renommé tombe amoureux d'une serveuse engagée dans les luttes sociales de son restaurant. Vingt ans avant la version européenne de Sirk, Stahl dirige un couple d'interprètes au summum du romantisme (Irene Dunne et Charles Boyer tournent _Elle et Lui_ de Leo McCarey la même année). Leur face-à-face dans la séquence de l'ouragan offre des instants de grâce inoubliables, une parenthèse temporelle où les obstacles à leur amour semblent momentanément s'effacer.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29678,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "selected": true
+            },
+            {
+              "idCopie": 29665,
+              "duree": 90,
+              "format": "16 mm"
+            }
+          ],
+          "idFilmBoxoffice": 22371
         }
       ]
     },
@@ -3376,7 +5420,47 @@
           "titre": "Our Wife",
           "realisateurs": "John M. Stahl",
           "annee": 1941,
+          "miniTexte": "Le dilemme sentimental d'un compositeur divorcé : choisir entre une fiancée inspirante et une ex-femme manipulatrice, bien décidée à le reconquérir depuis son récent succès. Une romance triangulaire, où toutes les ruses sont permises, qui trouve le bon équilibre entre mélo et comédie satirique.",
           "status": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 189250,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32972,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-25T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35914,
+          "titre": "Aventure en Libye",
+          "titreVo": "Immortal Sergeant",
+          "artVo": "The",
+          "realisateurs": "John M. Stahl",
+          "annee": 1943,
+          "duree": 86,
+          "miniTexte": "Un caporal canadien se retrouve à la tête d'une patrouille pendant la campagne d'Afrique du Nord, tandis que les souvenirs d'un triangle amoureux l'assaillent. Tourné en plein conflit mondial, un film de guerre hors-norme, où scènes dans le désert et flashbacks sentimentaux se répondent avec finesse.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29651,
+              "duree": 86,
+              "format": "16 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 22709
         }
       ]
     },
@@ -3403,6 +5487,7 @@
           "realisateurs": "John M. Stahl",
           "annee": 1943,
           "duree": 87,
+          "miniTexte": "Après des années d'exil, un illustre peintre anglais revient sous l'identité de son valet décédé. Une situation qui va entraîner tout un tas de complications. Scénario malin et ton pince-sans-rire, une comédie pleine d'esprit sur les vicissitudes de la célébrité.",
           "status": 1,
           "copies": [
             {
@@ -3418,7 +5503,8 @@
               "format": "35 mm",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22374
         }
       ]
     },
@@ -3446,6 +5532,7 @@
           "realisateurs": "John M. Stahl",
           "annee": 1944,
           "duree": 96,
+          "miniTexte": "D'après la pièce de Maxwell Anderson (l'un des dramaturges américains les plus adaptés), les souffrances et les dilemmes d'un groupe de soldats, depuis l'entraînement avant Pearl Harbor jusqu'à la débâcle finale face aux Japonais et à la malaria. Parmi eux, un jeune fermier résiste en entretenant un lien télépathique avec sa mère et sa fiancée.",
           "status": 1,
           "copies": [
             {
@@ -3454,7 +5541,55 @@
               "format": "16 mm",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22376
+        }
+      ]
+    },
+    {
+      "idSeance": 194697,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32975,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-16T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35926,
+          "titre": "Clés du royaume",
+          "art": "Les",
+          "titreVo": "Keys of the Kingdom",
+          "artVo": "The",
+          "realisateurs": "John M. Stahl",
+          "annee": 1944,
+          "duree": 137,
+          "adaptation": "D'après le roman _The Keys of the Kingdom_ d'A.J. Cronin.",
+          "miniTexte": "Sur un scénario de Joseph L. Mankiewicz, le parcours mouvementé d'un missionnaire peu conventionnel, de son Écosse natale à la Chine, où il affrontera la révolution, la peste et la misère. Premier rôle majeur pour Gregory Peck dans un tableau tout en nuances de la foi et de la tolérance religieuse.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29681,
+              "duree": 137,
+              "format": "DCP",
+              "version": "VO",
+              "selected": true
+            },
+            {
+              "idCopie": 29666,
+              "duree": 137,
+              "format": "35 mm"
+            }
+          ],
+          "idFilmBoxoffice": 22377
         }
       ]
     },
@@ -3485,7 +5620,8 @@
           "generique": "Gene Tierney, Cornel Wilde, Jeanne Crain, Vincent Price",
           "adaptation": "D'après le roman _Leave Her to Heaven_ de Ben Ames Williams.",
           "synopsis": "Un homme rentre chez lui après plusieurs années d'emprisonnement. Il se remémore les circonstances qui ont fait de lui un criminel : son mariage avec Ellen et sa jalousie obsessionnelle.",
-          "miniTexte": "Dans l'un de ses derniers longs métrages, John M. Stahl offre un personnage retors de femme maladivement jalouse à Gene Tierney, nommée pour la seule fois à l'Oscar de la meilleure actrice. Adoré par la comédienne, _Péché mortel_ tient autant du mélodrame que du film noir avec des protagonistes habilement dessinés et une esthétique renversante, au diapason d'un jeu de rôles virulent.",
+          "miniTexte": "L'amour obsessionnel d'Ellen Berent pour son mari, et sa détermination maladive à préserver l'exclusivité de leur bonheur conjugal. Dans l'un de ses derniers longs métrages, John M. Stahl offre un personnage retors de femme maladivement jalouse à Gene Tierney, nommée pour la seule fois à l'Oscar de la meilleure actrice. Adoré par la comédienne, _Péché mortel_ tient autant du mélodrame que du film noir avec des protagonistes habilement dessinés et une esthétique renversante, au diapason d'un jeu de rôles virulent.",
+          "commentaire": "Dans l'un de ses derniers longs métrages, John M. Stahl offre un personnage retors de femme maladivement jalouse à Gene Tierney, nommée pour la seule fois à l'Oscar de la meilleure actrice. Adoré par la comédienne, _Péché mortel_ tient autant du mélodrame que du film noir avec des protagonistes habilement dessinés et une esthétique renversante, au diapason d'un jeu de rôles virulent.",
           "status": 2,
           "copies": [
             {
@@ -3497,6 +5633,207 @@
             }
           ],
           "idFilmBoxoffice": 394
+        }
+      ]
+    },
+    {
+      "idSeance": 194698,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32978,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-16T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35929,
+          "titre": "Fière créole",
+          "art": "La",
+          "titreVo": "Foxes of Harrow",
+          "artVo": "The",
+          "realisateurs": "John M. Stahl",
+          "annee": 1947,
+          "duree": 123,
+          "miniTexte": "Adaptation d'un roman-fleuve à succès, l'ascension et la chute d'un immigrant irlandais, qui achète sa place dans la haute société créole de La Nouvelle- Orléans, au cœur d'un Sud esclavagiste, à la veille de la Guerre de Sécession. Succession de scènes somptueuses (bal masqué, jardins opulents), le film vaut autant pour sa reconstitution historique (dans la veine d'_Autant en emporte le vent_) que pour son intrigue à rebondissements, où les personnages ambigus naviguent entre ambition, cynisme et préjugés.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29646,
+              "duree": 123,
+              "format": "16 mm",
+              "version": "VO",
+              "selected": true
+            },
+            {
+              "idCopie": 29647,
+              "duree": 123,
+              "format": "16 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 22381
+        }
+      ]
+    },
+    {
+      "idSeance": 189392,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32978,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-29T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35929,
+          "titre": "Fière créole",
+          "art": "La",
+          "titreVo": "Foxes of Harrow",
+          "artVo": "The",
+          "realisateurs": "John M. Stahl",
+          "annee": 1947,
+          "duree": 123,
+          "miniTexte": "Adaptation d'un roman-fleuve à succès, l'ascension et la chute d'un immigrant irlandais, qui achète sa place dans la haute société créole de La Nouvelle- Orléans, au cœur d'un Sud esclavagiste, à la veille de la Guerre de Sécession. Succession de scènes somptueuses (bal masqué, jardins opulents), le film vaut autant pour sa reconstitution historique (dans la veine d'_Autant en emporte le vent_) que pour son intrigue à rebondissements, où les personnages ambigus naviguent entre ambition, cynisme et préjugés.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29646,
+              "duree": 123,
+              "format": "16 mm",
+              "version": "VO",
+              "selected": true
+            },
+            {
+              "idCopie": 29647,
+              "duree": 123,
+              "format": "16 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 22381
+        }
+      ]
+    },
+    {
+      "idSeance": 189203,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32979,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-22T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66091,
+          "titre": "Ville empoisonnée",
+          "art": "La",
+          "titreVo": "Walls of Jericho",
+          "artVo": "The",
+          "realisateurs": "John M. Stahl",
+          "annee": 1948,
+          "duree": 107,
+          "generique": "Cornel Wilde, Linda Darnell, Kirk Douglas, Anne Baxter",
+          "adaptation": "D'après le roman _The Walls of Jericho_ de Paul I. Wellman.",
+          "miniTexte": "Jericho, Kansas, 1910. La vie du docteur Connors, candidat aux élections locales, est troublée par les avances de la femme de son meilleur ami. Un récit à fils multiples, reliés par l'amour, la jalousie et la manipulation, jusqu'à la scène finale du tribunal, emmenée par le personnage d'Anne Baxter, femme de loi en avance sur son temps.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 9743,
+              "duree": 107,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 22383
+        }
+      ]
+    },
+    {
+      "idSeance": 189391,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32980,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-29T17:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 68455,
+          "titre": "Oh, You Beautiful Doll",
+          "realisateurs": "John M. Stahl",
+          "annee": 1949,
+          "miniTexte": "Des chansons et du Technicolor pour évoquer la vie romancée de Fred Fisher, nom de plume d'un compositeur fauché, qui, avec l'aide de sa fille, transforme ses airs d'opéra en mélodies populaires. Une comédie musicale à la mode 1900 et le dernier film de Stahl, quelques mois avant sa mort.",
+          "status": 1
+        }
+      ]
+    },
+    {
+      "idSeance": 189371,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32981,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-28T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66081,
+          "titre": "Father Was a Fullback",
+          "realisateurs": "John M. Stahl",
+          "annee": 1949,
+          "duree": 84,
+          "miniTexte": "Les déconvenues d'un entraîneur de football universitaire, dépassé par les défaites de son équipe autant que par les problèmes de ses deux filles. Interprétée par Fred MacMurray, une toute jeune Natalie Wood (11 ans) et Maureen O'Hara dans le rôle de la mère, une comédie familiale, aussi légère qu'imprévisible.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29667,
+              "duree": 84,
+              "format": "16 mm",
+              "version": "VO"
+            }
+          ],
+          "idFilmBoxoffice": 22450
         }
       ]
     },
@@ -3513,7 +5850,7 @@
       ],
       "idEvenement": 32983,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-14T20:30:00",
+      "dateHeure": "2025-06-14T19:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3528,6 +5865,7 @@
           "generique": "Jane Wyman, Rock Hudson, Agnes Moorehead, Barbara Rush",
           "adaptation": "D'après le roman _Magnificent Obsession_ de Lloyd C. Douglas.",
           "synopsis": "Un play-boy, responsable involontaire de la mort accidentelle d'un médecin célèbre et de la cécité de son épouse, tombe amoureux de celle-ci et cherche à se racheter.",
+          "miniTexte": "Les grands motifs sirkiens sont là, rédemption, don de soi, l'ironie du sort qui entremêle l'amour et l'impossible. À l'écran, une succession de couleurs, d'émotions pures. Sur les teintes flamboyantes du Technicolor, le chef opérateur Russell Metty a posé un voile de douceur, dans un mélo élégant, splendide et déchirant.",
           "commentaire": "La partition romantique de Frank Skinner emprunte à Chopin, la star Jane Wyman fait retomber un peu de sa gloire sur Rock Hudson. Le scénario, taillé dans l'étoffe des tragédies classiques, en adopte l'emphase et les élans outrés – il est question de traiter avec la mort. Les grands motifs sirkiens sont là, rédemption, don de soi, l'ironie du sort qui entremêle l'amour et l'impossible. Et à l'écran, une succession de couleurs, d'émotions pures. Sur les teintes flamboyantes du Technicolor, le chef opérateur Russell Metty a posé un voile de douceur. Un mélo élégant, splendide et déchirant... _Magnificent_.",
           "status": 2,
           "copies": [
@@ -3538,7 +5876,84 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 10360
+        }
+      ]
+    },
+    {
+      "idSeance": 194702,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3776,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Remakes des films de John Stahl"
+        }
+      ],
+      "idEvenement": 32984,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-21T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35743,
+          "titre": "Amants de Salzbourg",
+          "art": "Les",
+          "titreVo": "Interlude",
+          "realisateurs": "Douglas Sirk",
+          "annee": 1957,
+          "generique": "June Allyson, Rossano Brazzi, Marianne Cook, Françoise Rosay",
+          "adaptation": "D'après la nouvelle _A Modern Cinderella_ de James M. Cain.",
+          "synopsis": "Une jeune Américaine rencontre à Munich un chef d'orchestre célèbre, dont elle devient la maîtresse. Mais elle découvre qu'il est marié. Elle est par ailleurs courtisée par un jeune médecin venu des États-Unis.",
+          "miniTexte": "Une variation de _Veillée d'amour_ de Stahl, qui voit la rencontre à Munich d'une jeune Américaine et d'un chef d'orchestre marié. Sirk choisit de transposer le récit entre l'Autriche et la Bavière, un décor en Technicolor drainant avec lui tout un pan du romantisme allemand, au service d'une histoire d'amour impossible, qui oppose avec finesse la culture américaine à celle du vieux continent.",
+          "commentaire": "Tourné entre l'Autriche et la Bavière, un film qui draine avec lui tout un pan du romantisme allemand. Sirk utilise avec brio les reflets, pour fondre un personnage dans le décor ou bien pour symboliser une quête d'identité, et oppose avec finesse la culture américaine à celle du vieux continent.",
+          "status": 2,
+          "idFilmBoxoffice": 22713
+        }
+      ]
+    },
+    {
+      "idSeance": 189373,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3776,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Remakes des films de John Stahl"
+        }
+      ],
+      "idEvenement": 32985,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-28T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 45261,
+          "titre": "Mirage de la vie",
+          "titreVo": "Imitation of Life",
+          "realisateurs": "Douglas Sirk",
+          "annee": 1959,
+          "duree": 124,
+          "generique": "Lana Turner, John Gavin, Juanita Moore, Sandra Dee",
+          "synopsis": "Lora Meredith, veuve, élève seule sa fille Susie, et peine à devenir actrice. Elle rencontre Annie Johnson, une Noire dont la fille, Sarah Jane, a le teint pâle. Lora engage Annie comme gouvernante, tandis qu'elle tente de percer à Broadway.",
+          "miniTexte": "L'un des derniers grands rôles de Lana Turner. Une parabole sur la vie américaine et les questions raciales. Le titre contient à lui seul toute l'essence du cinéma de Douglas Sirk, et ce _Mirage de la vie_ s'achève sur de grandioses funérailles ; ce sont aussi celles d'un genre qui amorce son déclin. L'acmé du mélodrame, l'adieu de Sirk à l'Amérique et au cinéma. Inoubliable.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 328,
+              "duree": 124,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 14287
         }
       ]
     },
@@ -3567,7 +5982,7 @@
           "duree": 89,
           "generique": "Charles Boyer, Margaret Sullavan, Richard Carlson",
           "adaptation": "D'après le roman _Back Street_ de Fannie Hurst.",
-          "synopsis": "Ray Smith habite à Cincinnati. Très courtisée, elle succombe aux avances d'un jeune banquier, Walter Saxel. Un contretemps les empêchant de s'unir, ils se retrouvent par hasard cinq ans plus tard. Walter est marié et père de deux enfants. Deuxième adaptation du roman de Fannie Hurst.",
+          "miniTexte": "Le sacrifice d'une femme qui accepte de vivre dans l'ombre d'un homme marié. Si le remake du film de Stahl modifie quelque peu le scénario, il prend surtout des libertés au dépens du réalisme social d'origine. De condition modeste, presque misérable, l'héroïne devient chez Stevenson une victime luxueuse, épanouie, d'un glamour exalté par le style romanesque énergique.",
           "status": 1,
           "copies": [
             {
@@ -3577,7 +5992,8 @@
               "version": "VO",
               "langCopie": "ENG"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22567
         }
       ]
     },
@@ -3607,8 +6023,8 @@
           "duree": 107,
           "generique": "Susan Hayward, Vera Miles, John Gavin",
           "adaptation": "D'après le roman _Back Street_ de Fannie Hurst.",
-          "synopsis": "Paul Saxon, riche héritier d'une chaîne de magasins, rencontre Rae Smith à son retour de guerre. Attendant un avion pour New York, ils passent une journée ensemble et tombent mutuellement amoureux.",
-          "status": 0,
+          "miniTexte": "Remake en couleurs du film de Stahl, transposé dans les années d'après-guerre. Dans l'histoire d'un amour impossible entre un ancien Marine (John Gavin) et une créatrice de mode (Susan Hayward), Miller fait de son héros un être malheureux et tourmenté, marié à une épouse alcoolique, rôle que Vera Miles, au sommet de sa carrière, habite magistralement.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 767,
@@ -3617,7 +6033,43 @@
               "version": "VO",
               "langCopie": "ENG"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 89537
+        }
+      ]
+    },
+    {
+      "idSeance": 194703,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3776,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Remakes des films de John Stahl"
+        }
+      ],
+      "idEvenement": 32988,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-21T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 68731,
+          "titre": "Interlude",
+          "realisateurs": "Kevin Billington",
+          "annee": 1967,
+          "duree": 106,
+          "miniTexte": "Dans le Londres des années 60, la liaison extra-conjugale entre un chef d'orchestre et une journaliste. D'après _Veillée d'amour_ de Stahl, déjà revisité par Sirk en 1957 (_Les Amants de Salzbourg_), un tendre mélo britannique porté par de fameux interprètes (Oskar Werner, Donald Sutherland, John Cleese) et la musique enchanteresse de Georges Delerue.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29643,
+              "duree": 106
+            }
+          ],
+          "idFilmBoxoffice": 22568
         }
       ]
     },
@@ -3634,7 +6086,7 @@
       ],
       "idEvenement": 32989,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-07T17:00:00",
+      "dateHeure": "2025-06-06T17:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3645,6 +6097,7 @@
           "realisateurs": "John M. Stahl",
           "annee": 1917,
           "duree": 215,
+          "miniTexte": "Signé Benjamin Chapin (l'acteur s'est attribué le scénario, la production et la réalisation), _The Lincoln Cycle_ est considéré aujourd'hui comme la première œuvre encore visible de John Stahl, constituée de dix courts épisodes sur la vie du président Abraham Lincoln.",
           "status": 1,
           "copies": [
             {
@@ -3679,6 +6132,7 @@
           "realisateurs": "John M. Stahl",
           "annee": 1919,
           "duree": 61,
+          "miniTexte": "Le procès d'un homme de la classe ouvrière, accusé de meurtre, dans lequel une célèbre romancière est désignée pour devenir la première femme jurée de New York. Fort de son point de vue féminin en 1919, un mélo muet, judiciaire, progressiste, avec rebondissement à la clé.",
           "status": 1,
           "copies": [
             {
@@ -3714,13 +6168,15 @@
           "realisateurs": "John M. Stahl",
           "annee": 1921,
           "duree": 88,
+          "miniTexte": "Le jour de ses noces, Norma révèle un secret à son futur époux : elle est mère d'un enfant né hors mariage. L'homme, révolté, se promet de tuer le géniteur. Une variation du mélodrame maternel, qui met en vedette un petit garçon à la recherche d'un père.",
           "status": 1,
           "copies": [
             {
               "idCopie": 29641,
               "duree": 88
             }
-          ]
+          ],
+          "idFilmBoxoffice": 22247
         }
       ]
     },
@@ -3748,13 +6204,42 @@
           "realisateurs": "John M. Stahl",
           "annee": 1922,
           "duree": 87,
+          "miniTexte": "Une femme abandonne mari et bébé, en quête d'une vie meilleure dans la grande ville. Annoncé comme un drame domestique, _The Song of Life_ se distingue par une réflexion sur la pauvreté (thème rare dans l'œuvre de Stahl) et par sa mise en scène particulièrement réaliste.",
           "status": 1,
           "copies": [
             {
               "idCopie": 29642,
               "duree": 87
             }
-          ]
+          ],
+          "idFilmBoxoffice": 268975
+        }
+      ]
+    },
+    {
+      "idSeance": 194693,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3777,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 33001,
+      "typeEvenement": 14,
+      "dateHeure": "2025-07-05T16:45:00",
+      "typeConference": "Dialogue",
+      "idSalle": "GF",
+      "duree": 75,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 33001,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Jean-François Rauger",
+          "duree": 75
         }
       ]
     },
@@ -3797,6 +6282,329 @@
             }
           ],
           "idFilmBoxoffice": 4310
+        }
+      ]
+    },
+    {
+      "idSeance": 188872,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1005,
+          "idCategorie": 3781,
+          "titreCycle": "Nasty Women",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33036,
+      "typeEvenement": 13,
+      "libelleEvenement": "NASTY WOMEN",
+      "dateHeure": "2025-06-11T20:00:00",
+      "idSalle": "GF",
+      "typeSeance": 44,
+      "theorique": true,
+      "mention": "Ouverture de la rétrospective",
+      "items": []
+    },
+    {
+      "idSeance": 188909,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1005,
+          "idCategorie": 3781,
+          "titreCycle": "Nasty Women",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33036,
+      "typeEvenement": 13,
+      "libelleEvenement": "NASTY WOMEN",
+      "dateHeure": "2025-06-12T18:30:00",
+      "idSalle": "JE",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 194694,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1005,
+          "idCategorie": 3781,
+          "titreCycle": "Nasty Women",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33036,
+      "typeEvenement": 13,
+      "libelleEvenement": "NASTY WOMEN",
+      "dateHeure": "2025-06-12T20:30:00",
+      "idSalle": "JE",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 188951,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1005,
+          "idCategorie": 3781,
+          "titreCycle": "Nasty Women",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33036,
+      "typeEvenement": 13,
+      "libelleEvenement": "NASTY WOMEN",
+      "dateHeure": "2025-06-13T18:30:00",
+      "idSalle": "JE",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 194695,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1005,
+          "idCategorie": 3781,
+          "titreCycle": "Nasty Women",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33036,
+      "typeEvenement": 13,
+      "libelleEvenement": "NASTY WOMEN",
+      "dateHeure": "2025-06-13T20:30:00",
+      "idSalle": "JE",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 188993,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1005,
+          "idCategorie": 3781,
+          "titreCycle": "Nasty Women",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33036,
+      "typeEvenement": 13,
+      "libelleEvenement": "NASTY WOMEN",
+      "dateHeure": "2025-06-14T15:00:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 188994,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1005,
+          "idCategorie": 3781,
+          "titreCycle": "Nasty Women",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33036,
+      "typeEvenement": 13,
+      "libelleEvenement": "NASTY WOMEN",
+      "dateHeure": "2025-06-14T18:30:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 188995,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1005,
+          "idCategorie": 3781,
+          "titreCycle": "Nasty Women",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33036,
+      "typeEvenement": 13,
+      "libelleEvenement": "NASTY WOMEN",
+      "dateHeure": "2025-06-14T20:30:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 194696,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1005,
+          "idCategorie": 3781,
+          "titreCycle": "Nasty Women",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33036,
+      "typeEvenement": 13,
+      "libelleEvenement": "NASTY WOMEN",
+      "dateHeure": "2025-06-15T17:30:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 189014,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1005,
+          "idCategorie": 3781,
+          "titreCycle": "Nasty Women",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33036,
+      "typeEvenement": 13,
+      "libelleEvenement": "NASTY WOMEN",
+      "dateHeure": "2025-06-15T19:30:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 189849,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33037,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-17T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 83182,
+          "titre": "Opération Goldman",
+          "titreVo": "Operazione Goldman",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1965,
+          "duree": 90,
+          "generique": "Anthony Eisley, Wandisa Guida, Diana Lorys",
+          "miniTexte": "En pleine James Bond mania, Margheriti s'essaie au film d'espionnage avec l'enquête à rebondissements d'un agent playboy, croquée comme une bande dessinée déjantée. De la séduction à l'action, son héros évolue dans un réjouissant royaume de carton-pâte où maquettes et autres modèles réduits jouent la carte du charme vintage.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29473,
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 234555
+        }
+      ]
+    },
+    {
+      "idSeance": 194707,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33039,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-17T20:45:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155168,
+          "titre": "Planète errante",
+          "art": "La",
+          "titreVo": "Pianeta errante",
+          "artVo": "Il",
+          "realisateurs": "Antonio Margheriti",
+          "annee": 1966,
+          "duree": 80,
+          "generique": "Giacomo Rossi Stuart, Ombretta Colli, Halina Zalewska",
+          "miniTexte": "Des cosmonautes sont envoyés dans l'espace pour enquêter sur les cataclysmes qui ravagent la Terre. Dans la lignée de _La Planète des hommes perdus_, Margheriti insuffle une tension dramatique et joue sur l'imagerie futuriste, avec ce troisième épisode de la tétralogie de SF Gamma Un, fidèle aux effets spéciaux fétiches du cinéaste.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 29561,
+              "duree": 80,
+              "format": "16 mm",
+              "version": "VA",
+              "langCopie": "ENG"
+            }
+          ],
+          "idFilmBoxoffice": 14565
+        }
+      ]
+    },
+    {
+      "idSeance": 189936,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 993,
+          "idCategorie": 3747,
+          "titreCycle": "Antonio Margheriti",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33041,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-19T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 42786,
+          "titre": "Il était une fois la révolution",
+          "titreVo": "Giù la testa",
+          "realisateurs": "Sergio Leone",
+          "annee": 1970,
+          "duree": 153,
+          "generique": "Rod Steiger, James Coburn, Vivienne Chandler",
+          "synopsis": "Juan Miranda rêve depuis longtemps de dévaliser la banque centrale de Mesa Verde au Mexique. Il voit en John Mallory, expert en explosif et combattant révolutionnaire irlandais, le complice idéal.",
+          "miniTexte": "Pour le second volet de la Trilogie du temps, Leone s'empare de la révolution mexicaine dans une fresque grandiose en forme de fable picaresque, construite sur la théâtralité et le lyrisme d'une mise en scène somptueuse, mais aussi la puissance de sa réflexion politique. Les adieux du cinéaste au western, emmenés par les prestations truculentes de Rod Steiger et James Coburn.",
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 15820,
+              "duree": 153,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 15714,
+              "duree": 153,
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 398
         }
       ]
     }

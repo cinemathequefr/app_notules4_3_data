@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-14T12:03:04.498Z",
+  "updatedAt": "2025-02-17T18:00:16.216Z",
   "data": [
     {
       "idSeance": 188170,
@@ -3235,10 +3235,9 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29424,
+              "idCopie": 29684,
               "duree": 25,
-              "format": "35 mm",
-              "langCopie": "FRE"
+              "format": "35 mm"
             }
           ],
           "idFilmBoxoffice": 3503
@@ -3634,6 +3633,7 @@
           "titreVo": "On the Beach",
           "realisateurs": "Stanley Kramer",
           "annee": 1959,
+          "duree": 134,
           "generique": "Gregory Peck, Anthony Perkins, Ava Gardner",
           "adaptation": "D'après le roman _Le Dernier rivage_ de Nevil Shute.",
           "synopsis": "Après la guerre atomique, les derniers survivants sont l'équipage d'un sous-marin américain et des habitants de l'Australie que n'ont pas encore atteints les nuages radioactifs.",
@@ -3642,9 +3642,10 @@
           "copies": [
             {
               "idCopie": 29670,
-              "duree": 0,
+              "duree": 134,
               "format": "35 mm",
-              "version": "VO"
+              "version": "VO",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 31437
