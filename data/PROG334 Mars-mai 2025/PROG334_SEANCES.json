@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-14T12:03:01.028Z",
+  "updatedAt": "2025-02-19T15:43:16.773Z",
   "data": [
     {
       "idSeance": 185394,
@@ -4906,21 +4906,12 @@
           "realisateurs": "Robert Wise",
           "annee": 1979,
           "dureeStd": 132,
-          "duree": 132,
+          "duree": 137,
           "generique": "William Shatner, Leonard Nimoy, DeForest Kelley",
           "adaptation": "D'après la série télévisée _Star Trek_ de Gene Roddenberry.",
           "miniTexte": "Le passage de _Star Trek_ du petit au grand écran. Avec des effets spéciaux révolutionnaires pour l'époque, l'équipage de l'USS Enterprise embarque pour une aventure cosmique de haut vol, qui mêle ambition et contemplation. Derrière les vaisseaux et autres paysages spatiaux, l'heure est à la réflexion sur l'évolution technologique et aux percées de l'intelligence artificielle.",
           "status": 2,
           "copies": [
-            {
-              "idCopie": 29339,
-              "duree": 132,
-              "format": "35 mm",
-              "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "Autres",
-              "selected": true
-            },
             {
               "idCopie": 29668,
               "duree": 137,
@@ -8311,6 +8302,14 @@
           "status": 2,
           "copies": [
             {
+              "idCopie": 29688,
+              "duree": 60,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
+            {
               "idCopie": 29527,
               "duree": 60,
               "format": "DCP",
@@ -8389,6 +8388,14 @@
           "miniTexte": "Figure influente auprès des notables locaux, un gangster mégalo séduit une mondaine pour s'élever socialement. Chantage, magouilles, trahisons : un mélo policier, d'après la pièce d'Edgar Wallace inspirée de la vie d'Al Capone. Somptueusement habillée par Edith Head, Anna May Wong reprend le rôle, déjà tenu sur les planches, de l'amie orientale, fidèle mais délaissée. Avec aussi Hedda Hopper, fameuse chroniqueuse du Tout-Hollywood.",
           "status": 2,
           "copies": [
+            {
+              "idCopie": 29687,
+              "duree": 70,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "selected": true
+            },
             {
               "idCopie": 29389,
               "duree": 70,
@@ -11347,7 +11354,7 @@
       ]
     },
     {
-      "idSeance": 190355,
+      "idSeance": 190356,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -11359,7 +11366,7 @@
       ],
       "idEvenement": 32255,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-15T16:45:00",
+      "dateHeure": "2025-03-19T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -11408,7 +11415,7 @@
       ]
     },
     {
-      "idSeance": 190356,
+      "idSeance": 194708,
       "idProg": 334,
       "idCycleCategories": [
         {
@@ -11420,8 +11427,8 @@
       ],
       "idEvenement": 32255,
       "typeEvenement": 13,
-      "dateHeure": "2025-03-19T18:00:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-03-24T19:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -14793,7 +14800,7 @@
             {
               "idCopie": 29399,
               "duree": 20,
-              "format": "35 mm",
+              "format": "DCP",
               "intertitres": "INT. ALL.",
               "stDemande": true
             }

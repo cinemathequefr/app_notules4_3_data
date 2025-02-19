@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-19T10:05:07.122Z",
+  "updatedAt": "2025-02-19T15:43:11.052Z",
   "data": [
     {
       "idSeance": 194577,
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "idSeance": 189745,
+      "idSeance": 194721,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -126,12 +126,18 @@
           "idCategorie": 3671,
           "titreCycle": "Wes Anderson",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 972,
+          "idCategorie": 3708,
+          "titreCycle": "Wes Anderson",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 31959,
-      "typeEvenement": 13,
-      "dateHeure": "2025-07-12T14:30:00",
+      "dateHeure": "2025-06-28T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -157,6 +163,13 @@
             }
           ],
           "idFilmBoxoffice": 29188
+        },
+        {
+          "ordre": 2,
+          "idConf": 33043,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Marc Cerisuelo",
+          "duree": 90
         }
       ]
     },
@@ -847,7 +860,7 @@
       ],
       "idEvenement": 32607,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-11T20:45:00",
+      "dateHeure": "2025-07-11T21:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -929,7 +942,7 @@
       ],
       "idEvenement": 32614,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-12T20:00:00",
+      "dateHeure": "2025-07-12T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1276,7 +1289,7 @@
       ],
       "idEvenement": 32692,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-11T18:30:00",
+      "dateHeure": "2025-07-11T19:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1883,7 +1896,7 @@
       ]
     },
     {
-      "idSeance": 189574,
+      "idSeance": 189439,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -1895,8 +1908,8 @@
       ],
       "idEvenement": 32767,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-06T14:30:00",
-      "idSalle": "HL",
+      "dateHeure": "2025-07-02T18:30:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -1969,7 +1982,7 @@
           ]
         }
       ],
-      "mention": "Ouverture de la rétrospective"
+      "mention": "Ouverture de la rétrospective. Séance présentée par Pascal-Alex Vincent"
     },
     {
       "idSeance": 189326,
@@ -2094,7 +2107,7 @@
       ]
     },
     {
-      "idSeance": 194691,
+      "idSeance": 189440,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -2106,8 +2119,8 @@
       ],
       "idEvenement": 32772,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-14T19:00:00",
-      "idSalle": "HL",
+      "dateHeure": "2025-07-02T20:30:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -2180,7 +2193,7 @@
       ],
       "idEvenement": 32774,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-06T17:00:00",
+      "dateHeure": "2025-07-06T18:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2318,7 +2331,7 @@
       ]
     },
     {
-      "idSeance": 189367,
+      "idSeance": 194722,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -2326,12 +2339,18 @@
           "idCategorie": 3757,
           "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 997,
+          "idCategorie": 3783,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32778,
-      "typeEvenement": 13,
-      "dateHeure": "2025-06-28T14:30:00",
+      "dateHeure": "2025-07-06T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -2351,6 +2370,13 @@
               "sousTitres": "STF"
             }
           ]
+        },
+        {
+          "ordre": 2,
+          "idConf": 33044,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Pascal-Alex Vincent",
+          "duree": 75
         }
       ]
     },
@@ -2562,7 +2588,7 @@
       ],
       "idEvenement": 32784,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-06T19:15:00",
+      "dateHeure": "2025-07-06T20:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -2667,6 +2693,56 @@
             }
           ],
           "idFilmBoxoffice": 12438
+        }
+      ]
+    },
+    {
+      "idSeance": 194728,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 978,
+          "idCategorie": 3680,
+          "titreCycle": "Histoire permanente du cinéma",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32799,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-24T16:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 47472,
+          "titre": "Adieu Bonaparte",
+          "titreVo": "Al-wedaa ya Bonaparte",
+          "titreNx": "الوداع يابونابرت",
+          "realisateurs": "Youssef Chahine",
+          "annee": 1984,
+          "dureeStd": 115,
+          "duree": 115,
+          "generique": "Mohsen Mohieddine, Mohsena Tewfik, Patrice Chéreau, Michel Piccoli",
+          "synopsis": "Avide de puissance et de gloire, Bonaparte entame la campagne d'Égypte. Loin de ces préoccupations guerrières, Caffarelli, l'un de ses généraux, part à la découverte de ce pays et de son âme. Il va s'opposer à l'action destructrice de Bonaparte.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 2107,
+              "duree": 115,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 9293,
+              "duree": 115,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 38
         }
       ]
     },
@@ -2829,32 +2905,6 @@
           "adaptation": "D'après la pièce _L'Affaire Danton_ de Stanislawa Przybyszewska.",
           "synopsis": "Été 1793 : le Comité de salut public, à l'instigation de Robespierre, instaure la Terreur. La famine réapparaît, entraînant la révolte, et les têtes tombent. Danton, regagnant Paris, s'oppose à Robespierre.",
           "status": 2
-        }
-      ]
-    },
-    {
-      "idSeance": 194626,
-      "idProg": 335,
-      "idCycleCategories": [
-        {
-          "idCycle": 978,
-          "idCategorie": 3680,
-          "titreCycle": "Histoire permanente du cinéma",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32820,
-      "typeEvenement": 13,
-      "dateHeure": "2025-07-24T16:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48236,
-          "titre": "Effraction",
-          "realisateurs": "Daniel Duval",
-          "annee": 1982,
-          "status": 0
         }
       ]
     },
@@ -4083,6 +4133,7 @@
       "typeEvenement": 13,
       "dateHeure": "2025-07-09T20:00:00",
       "idSalle": "HL",
+      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -4106,7 +4157,8 @@
           ],
           "idFilmBoxoffice": 32713
         }
-      ]
+      ],
+      "mention": "Ouverture de la rétrospective"
     },
     {
       "idSeance": 194687,
@@ -4121,7 +4173,7 @@
       ],
       "idEvenement": 32916,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-12T18:30:00",
+      "dateHeure": "2025-07-12T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4135,7 +4187,7 @@
           "duree": 132,
           "generique": "Chen Shiang-chyi, Ni Shujun, Wang Weiming",
           "miniTexte": "Critique mordante du miracle économique taïwanais, _Confusion chez Confucius_ brosse le portrait d'une jeune génération – entrepreneurs, artistes, intellectuels – qui se heurte aux valeurs morales dans une société obsédée par l'argent et le statut social.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29620,
@@ -4150,7 +4202,7 @@
       ]
     },
     {
-      "idSeance": 189663,
+      "idSeance": 194717,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -4162,7 +4214,7 @@
       ],
       "idEvenement": 32917,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-10T18:00:00",
+      "dateHeure": "2025-07-14T19:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4174,7 +4226,7 @@
           "realisateurs": "Edward Yang",
           "annee": 1985,
           "duree": 115,
-          "generique": "Hou Hsiao-Hsien, Tsai Chin, Lai Teh-nan",
+          "generique": "Hou Hsiao-hsien, Tsai Chin, Lai Teh-nan",
           "miniTexte": "Au cœur de la capitale, les errances et les conflits d'un couple deviennent une méditation poétique et politique sur la société taïwanaise, à l'heure de basculer dans la modernité mondialisée. Yang confie à Hou Hsiao-hsien le rôle d'une ancienne star de baseball désœuvrée, incarnation d'une génération en perte de repère.",
           "status": 2,
           "copies": [
@@ -4191,7 +4243,7 @@
       ]
     },
     {
-      "idSeance": 189763,
+      "idSeance": 194716,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -4203,7 +4255,7 @@
       ],
       "idEvenement": 32918,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-13T14:30:00",
+      "dateHeure": "2025-07-17T20:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4244,7 +4296,7 @@
       ],
       "idEvenement": 32919,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-11T19:00:00",
+      "dateHeure": "2025-07-11T19:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4258,7 +4310,7 @@
           "duree": 237,
           "generique": "Chang Chen, Zhang Guozhu, Wang Ju-an",
           "miniTexte": "Avec son titre emprunté aux paroles d'une chanson d'Elvis Presley, _A Brighter Summer Day_ est une chronique bouleversante de la jeunesse du cinéaste dans le Taïwan des années 60 (Formose). Marquée par les tensions entre populations locales et immigrés du continent, l'influence grandissante de la culture américaine, et la violence des gangs d'adolescents, une œuvre monumentale d'une portée universelle, et l'un des films les plus importants du cinéma asiatique moderne.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29619,
@@ -4273,7 +4325,7 @@
       ]
     },
     {
-      "idSeance": 189853,
+      "idSeance": 194714,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -4281,12 +4333,18 @@
           "idCategorie": 3767,
           "titreCycle": "Edward Yang",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 1001,
+          "idCategorie": 3784,
+          "titreCycle": "Edward Yang",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32920,
-      "typeEvenement": 13,
-      "dateHeure": "2025-07-17T20:15:00",
+      "dateHeure": "2025-07-12T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -4297,7 +4355,7 @@
           "annee": 2000,
           "generique": "Wu Nianzhen, Issey Ogata, Elaine Jin",
           "miniTexte": "Monument discret du siècle naissant, primé à Cannes pour sa mise en scène, _Yi Yi_ (littéralement « un par un » ou « l'un après l'autre ») suit une famille de la classe moyenne, prise dans la frénésie urbaine de Taipei. Observateur appliqué, Edward Yang, qui commence son récit par un mariage et le clôt par des funérailles, porte un regard sensible sur les regrets et les espoirs de trois générations, tandis que chacune, à sa manière, traverse une crise existentielle. D'une composition rigoureuse, géométrique, un tableau saisissant sur les relations humaines, une épopée familiale, ample et chaleureuse, aux résonances universelles.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 22717,
@@ -4316,6 +4374,13 @@
             }
           ],
           "idFilmBoxoffice": 25300
+        },
+        {
+          "ordre": 2,
+          "idConf": 33046,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Jean-Michel Frodon",
+          "duree": 60
         }
       ]
     },
@@ -4332,21 +4397,22 @@
       ],
       "idEvenement": 32921,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-10T20:30:00",
+      "dateHeure": "2025-07-10T19:00:00",
       "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
           "idFilm": 112477,
           "titre": "Terrorizers",
+          "art": "The",
           "titreVo": "Kong bu fen zi",
           "titreNx": "恐怖分子",
           "realisateurs": "Edward Yang",
           "annee": 1986,
           "duree": 109,
-          "generique": "Cora Miao, Wang An, Li-chun Li",
+          "generique": "Cora Miao, Wang An, Lee Li-chun",
           "miniTexte": "Une délinquante, une romancière en crise, un photographe désabusé... Sous l'influence du cinéma d'Antonioni, plusieurs récits s'entrecroisent sur fond de thriller métaphysique. Témoin d'une urbanisation déshumanisée, Yang capte la froideur et le vide existentiel de Taipei, dans une critique de la déconnexion sociale d'un monde émietté. Léopard d'argent à Locarno, la vision d'un cinéaste révolté, à l'inventivité sidérante.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29623,
@@ -4385,9 +4451,9 @@
           "realisateurs": "Tao Te-Chen, Edward Yang, Ko I-Chen, Chang Yi",
           "annee": 1982,
           "duree": 106,
-          "generique": "Shi Anni, Zhang Yingzhen, Wang Qiguang",
+          "generique": "Shi An-ni, Zhang Yingzhen, Wang Qiguang",
           "miniTexte": "En rupture avec le cinéma commercial de l'époque, les prémices du Nouveau cinéma taïwanais, dans un film à sketches qui décrit différentes périodes de la vie à Taïwan, de l'enfance à l'âge adulte. Edward Yang signe le segment _Expectations_ sur l'adolescence, sa toute première réalisation.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29618,
@@ -4400,6 +4466,42 @@
           "idFilmBoxoffice": 231223
         }
       ]
+    },
+    {
+      "idSeance": 189707,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3770,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Autour de l'animation japonaise"
+        }
+      ],
+      "idEvenement": 32925,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-11T19:00:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 152345,
+          "titre": "Satoshi Kon, l'illusionniste",
+          "realisateurs": "Pascal-Alex Vincent",
+          "annee": 2021,
+          "duree": 82,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29632,
+              "duree": 82,
+              "format": "DCP",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ],
+      "mention": "Séance présentée par Pascal-Alex Vincent"
     },
     {
       "idSeance": 188572,
@@ -5068,6 +5170,7 @@
       "typeEvenement": 13,
       "dateHeure": "2025-05-29T20:00:00",
       "idSalle": "HL",
+      "typeSeance": 44,
       "items": [
         {
           "ordre": 1,
@@ -5098,7 +5201,8 @@
           ],
           "idFilmBoxoffice": 22367
         }
-      ]
+      ],
+      "mention": "Ouverture de la rétrospective"
     },
     {
       "idSeance": 194705,
@@ -5311,7 +5415,7 @@
       ]
     },
     {
-      "idSeance": 194659,
+      "idSeance": 194719,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -5319,12 +5423,18 @@
           "idCategorie": 3775,
           "titreCycle": "John Stahl",
           "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 1004,
+          "idCategorie": 3782,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Rencontres et conférences"
         }
       ],
       "idEvenement": 32970,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-31T20:30:00",
+      "dateHeure": "2025-06-07T14:30:00",
       "idSalle": "HL",
+      "typeAssoc": 118,
       "items": [
         {
           "ordre": 1,
@@ -5351,6 +5461,13 @@
             }
           ],
           "idFilmBoxoffice": 22371
+        },
+        {
+          "ordre": 2,
+          "idConf": 33042,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Charlotte Garson",
+          "duree": 90
         }
       ]
     },
@@ -5395,6 +5512,33 @@
             }
           ],
           "idFilmBoxoffice": 22371
+        }
+      ]
+    },
+    {
+      "idSeance": 194720,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1004,
+          "idCategorie": 3775,
+          "titreCycle": "John Stahl",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32971,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-31T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 97155,
+          "titre": "Our Wife",
+          "realisateurs": "John M. Stahl",
+          "annee": 1941,
+          "miniTexte": "Le dilemme sentimental d'un compositeur divorcé : choisir entre une fiancée inspirante et une ex-femme manipulatrice, bien décidée à le reconquérir depuis son récent succès. Une romance triangulaire, où toutes les ruses sont permises, qui trouve le bon équilibre entre mélo et comédie satirique.",
+          "status": 1
         }
       ]
     },
@@ -5845,7 +5989,7 @@
           "idCycle": 1004,
           "idCategorie": 3776,
           "titreCycle": "John Stahl",
-          "titreSousCycle": "Remakes des films de John Stahl"
+          "titreSousCycle": "Remakes"
         }
       ],
       "idEvenement": 32983,
@@ -5889,7 +6033,7 @@
           "idCycle": 1004,
           "idCategorie": 3776,
           "titreCycle": "John Stahl",
-          "titreSousCycle": "Remakes des films de John Stahl"
+          "titreSousCycle": "Remakes"
         }
       ],
       "idEvenement": 32984,
@@ -5923,7 +6067,7 @@
           "idCycle": 1004,
           "idCategorie": 3776,
           "titreCycle": "John Stahl",
-          "titreSousCycle": "Remakes des films de John Stahl"
+          "titreSousCycle": "Remakes"
         }
       ],
       "idEvenement": 32985,
@@ -5965,7 +6109,7 @@
           "idCycle": 1004,
           "idCategorie": 3776,
           "titreCycle": "John Stahl",
-          "titreSousCycle": "Remakes des films de John Stahl"
+          "titreSousCycle": "Remakes"
         }
       ],
       "idEvenement": 32986,
@@ -6005,7 +6149,7 @@
           "idCycle": 1004,
           "idCategorie": 3776,
           "titreCycle": "John Stahl",
-          "titreSousCycle": "Remakes des films de John Stahl"
+          "titreSousCycle": "Remakes"
         }
       ],
       "idEvenement": 32987,
@@ -6046,7 +6190,7 @@
           "idCycle": 1004,
           "idCategorie": 3776,
           "titreCycle": "John Stahl",
-          "titreSousCycle": "Remakes des films de John Stahl"
+          "titreSousCycle": "Remakes"
         }
       ],
       "idEvenement": 32988,
@@ -6269,9 +6413,9 @@
           "annee": 1984,
           "dureeStd": 93,
           "duree": 100,
-          "generique": "Chi-Kuang Wang, Shu-tien Li, Chun Ku, Mei Fang",
+          "generique": "Wang Chi-kuang, Li Shu-tien, Chun Ku, Mei Fang",
           "synopsis": "Leur mère étant à l'hôpital, deux enfants quittent Taipei et vont passer quelques semaines chez leur grand-père à la campagne. Un été lumineux, gorgé de soleil et de rires. En apparence seulement, car le monde des adultes se révèle aux enfants, tandis que celui de l'enfance insouciante s'éloigne peu à peu.",
-          "status": 1,
+          "status": 2,
           "copies": [
             {
               "idCopie": 29649,
@@ -6572,7 +6716,7 @@
       ],
       "idEvenement": 33041,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-19T20:30:00",
+      "dateHeure": "2025-07-19T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -6605,6 +6749,622 @@
             }
           ],
           "idFilmBoxoffice": 398
+        }
+      ]
+    },
+    {
+      "idSeance": 194712,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1001,
+          "idCategorie": 3784,
+          "titreCycle": "Edward Yang",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 33045,
+      "typeEvenement": 14,
+      "dateHeure": "2025-07-10T21:00:00",
+      "typeConference": "Dialogue",
+      "idSalle": "HL",
+      "duree": 75,
+      "items": [
+        {
+          "ordre": 1,
+          "idConf": 33045,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Wafa Ghermani",
+          "duree": 75
+        }
+      ]
+    },
+    {
+      "idSeance": 189893,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3785,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33049,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-18T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31079,
+          "titre": "Avant de t'aimer",
+          "titreVo": "Not Wanted",
+          "realisateurs": "Elmer Clifton, Ida Lupino",
+          "annee": 1949,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 194724,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3785,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33050,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-20T18:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80323,
+          "titre": "Never Fear",
+          "realisateurs": "Ida Lupino",
+          "annee": 1950,
+          "generique": "Sally Forrest, Keefe Brasselle, Hugh O'Brian",
+          "synopsis": "La carrière de Carol Williams, jeune danseuse prometteuse, est fauchée nette par la polio. Hospitalisée, elle tourne le dos à son fiancé et sombre dans la dépression. Grâce à d'autres patients, elle remonte peu à peu la pente...",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 189934,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3785,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33051,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-19T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 77543,
+          "titre": "Voyage de la peur",
+          "art": "Le",
+          "titreVo": "Hitch-hiker",
+          "artVo": "The",
+          "realisateurs": "Ida Lupino",
+          "annee": 1953,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 189952,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3785,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33052,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-20T14:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 75644,
+          "titre": "Outrage",
+          "realisateurs": "Ida Lupino",
+          "annee": 1950,
+          "generique": "Mala Powers, Tod Andrews, Robert Clarke",
+          "synopsis": "La vie d'Ann Walton bascule le jour où elle est violée sur le chemin de son travail. Traumatisée, la jeune femme se réfugie dans un petit village où elle est recueillie et aidée par un pasteur.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 190129,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3785,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33053,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-26T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34821,
+          "titre": "Trouble with Angels",
+          "art": "The",
+          "realisateurs": "Ida Lupino",
+          "annee": 1965,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 194725,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3785,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33054,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-20T20:30:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80324,
+          "titre": "Hard, Fast and Beautiful",
+          "realisateurs": "Ida Lupino",
+          "annee": 1951,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 189815,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3785,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33055,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-16T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34585,
+          "titre": "Bigamist",
+          "art": "The",
+          "realisateurs": "Ida Lupino",
+          "annee": 1953,
+          "status": 0
+        }
+      ],
+      "mention": "Ouverture de la rétrospective"
+    },
+    {
+      "idSeance": 189969,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3786,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Ida Lupino actrice"
+        }
+      ],
+      "idEvenement": 33056,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-21T20:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36814,
+          "titre": "Grande Évasion",
+          "art": "La",
+          "titreVo": "High Sierra",
+          "realisateurs": "Raoul Walsh",
+          "annee": 1940,
+          "generique": "Ida Lupino, Humphrey Bogart, Alan Curtis",
+          "adaptation": "D'après le roman _High Sierra_ de W. R. Burnett.",
+          "synopsis": "Avec l'idée d'organiser un casse ambitieux, Big Mac fait sortir Roy Earle de prison. Celui-ci, devenu son débiteur, accepte de participer à ce hold-up qui doit les rendre riches, mais croise la route de la belle Velma.",
+          "miniTexte": "Avec Roy Earle, célèbre gangster chargé d'organiser un nouveau casse à sa sortie de prison, Humphrey Bogart sublime la figure du loser magnifique. Walsh l'éloigne de la ville – et par-là même du cadre du film noir –, pour lui faire traverser les grands espaces qu'il affectionne. Une sierra éclatante de soleil, cadre originel du western, où l'ennemi public devient un hors-la-loi romantique, à la recherche d'une nature providentielle. Avec Ida Lupino, il forme le couple walshien par excellence, épris de quiétude et de liberté, dans l'impossibilité pourtant d'échapper au destin. Deux héros condamnés que le cinéaste transposera quelques années plus tard dans un remake, _La Fille du désert_. Un western, forcément.",
+          "commentaire": "Pour son premier grand rôle au cinéma, Humphrey Bogart met en service la figure du loser magnifique. Raoul Walsh le pousse hors de la ville et de ses ruelles lugubres – et par là même du cadre du film noir –, vers les grands espaces de la sierra, éclatants de soleil ou sous un ciel constellé d'étoiles. Une nature lumineuse et luxuriante qui contraste avec la vision sombre de son existence. La présence éblouissante d'Ida Lupino, un suspense haletant et de folles poursuites automobiles aiguisent cette histoire aux accents de western, jusqu'au final vertigineux. Un grand film sur la quête de liberté, que Walsh reprendra huit ans plus tard avec _La Fille du désert_.",
+          "status": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 189968,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3786,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Ida Lupino actrice"
+        }
+      ],
+      "idEvenement": 33057,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-21T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36877,
+          "titre": "Une femme dangereuse",
+          "titreVo": "They Drive by Night",
+          "realisateurs": "Raoul Walsh",
+          "annee": 1940,
+          "generique": "George Raft, Ann Sheridan, Humphrey Bogart",
+          "adaptation": "D'après le roman _Long Haul_ d'A.I. Bezzerides.",
+          "synopsis": "Deux frères dirigeants d'une entreprise de transport sont soupçonnés de l'assassinat de leur concurrent.",
+          "miniTexte": "Évocation de la _working class_ des années de crise, le film bascule dans le drame sentimental et judiciaire. La jeune Ida Lupino réussit en beauté son entrée à la Warner et en devient une nouvelle icône.",
+          "status": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 190006,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3786,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Ida Lupino actrice"
+        }
+      ],
+      "idEvenement": 33058,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-23T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 31527,
+          "titre": "Vaisseau fantôme",
+          "art": "Le",
+          "titreVo": "Sea Wolf",
+          "artVo": "The",
+          "realisateurs": "Michael Curtiz",
+          "annee": 1941,
+          "dureeStd": 100,
+          "generique": "Edward G. Robinson, Ida Lupino, John Garfield",
+          "adaptation": "D'après le roman _Le Loup des mers_ de Jack London.",
+          "synopsis": "1900. Au large de San Francisco, un pickpocket en fuite, une évadée de prison et un écrivain naufragé sont retenus à bord du Fantôme par le despotique Capitaine Wolf, qui terrorise son équipage.",
+          "commentaire": "Cinquième adaptation à l'écran du _Loup des mers_ de Jack London sur la dizaine produites depuis 1913, la version de l'ultra-prolifique Michael Curtiz demeure inoubliable. Hongrois débauché par la Warner et pilier du studio (de 1926 à 1954), le réalisateur de _Casablanca_ fait une parenthèse dans sa période Errol Flynn et manœuvre, avec un art consommé, un voyage en enfer à bord du _Fantôme_. De savants mouvements d'appareils entre cordages et cales humides dévoilent le sinistre navire qui concentre un équipage d'affreux damnés et perce l'épais brouillard, tandis que la tension monte. Dans un de ses plus illustres rôles de méchant, le légendaire Edward G. Robinson, délesté de ses guêtres de gangster, incarne le capitaine Wolf, tyran fou et cruel qui applique le vers de Milton : « Mieux vaut régner en enfer que servir au paradis », écho à l'offensive nazie. Éclatants dans de sublimes gros plans, Ida Lupino (la seule femme du casting) et John Garfield (en rebelle inventé de toutes pièces par le scénariste Robert Rossen) éclipsent le héros. Film d'aventure aux accents mélodramatiques, _Le Vaisseau fantôme navigue_ dans des eaux troubles, baignées de fantastique et nimbées de la noirceur ambiguë qui imprègne les productions hollywoodiennes d'alors, du script à la photo. Sol Polito, qui œuvre avec Curtiz depuis six ans à la lumière, et le réalisateur Byron Haskin, aux effets spéciaux, font des prodiges. Les images fascinantes, d'une splendeur visuelle inouïe, n'en finiront pas de nous hanter.\n\nBlandine Étienne",
+          "status": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 190007,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3786,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Ida Lupino actrice"
+        }
+      ],
+      "idEvenement": 33059,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-23T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 80342,
+          "titre": "Man I Love",
+          "art": "The",
+          "realisateurs": "Raoul Walsh",
+          "annee": 1946,
+          "generique": "Ida Lupino, Robert Alda, Andrea King",
+          "adaptation": "D'après le roman _Night Shift_ de Maritta Wolff.",
+          "synopsis": "De retour chez elle pour Noël, la chanteuse Petey Brown découvre que ses frères et sœurs sont impliqués dans des affaires de pègre.",
+          "miniTexte": "Entre polar et romance musicale, un mélo d'une rare modernité féministe qui relate l'histoire d'une chanteuse de bar new-yorkaise, partie rompre sa solitude dans les night-clubs de L.A. L'une des inspirations de Martin Scorsese pour _New York, New York_.",
+          "status": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 190038,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3786,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Ida Lupino actrice"
+        }
+      ],
+      "idEvenement": 33060,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-24T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34892,
+          "titre": "Femme aux cigarettes",
+          "art": "La",
+          "titreVo": "Road House",
+          "realisateurs": "Jean Negulesco",
+          "annee": 1948,
+          "generique": "Ida Lupino, Cornel Wilde, Richard Widmark",
+          "synopsis": "Un propriétaire de boîte de nuit engage une chanteuse de charme et essaie de la séduire, contre l'avis de son gérant.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 194726,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3786,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Ida Lupino actrice"
+        }
+      ],
+      "idEvenement": 33061,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-24T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 73564,
+          "titre": "Maison dans l'ombre",
+          "art": "La",
+          "titreVo": "On Dangerous Ground",
+          "realisateurs": "Nicholas Ray",
+          "annee": 1952,
+          "generique": "Ida Lupino, Robert Ryan, Ward Bond",
+          "adaptation": "D'après le roman _Le Cœur et l'esprit_ de Gerald Butler.",
+          "synopsis": "Un policier aux méthodes violentes aide un shérif de campagne à retrouver Danny, un déséquilibré dont il vient de rencontrer la sœur, une jeune et séduisante aveugle.",
+          "status": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 189939,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3786,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Ida Lupino actrice"
+        }
+      ],
+      "idEvenement": 33062,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-19T18:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 35913,
+          "titre": "Ici brigade criminelle",
+          "titreVo": "Private Hell 36",
+          "realisateurs": "Don Siegel",
+          "annee": 1953,
+          "generique": "Ida Lupino, Steve Cochran, Dean Jagger",
+          "synopsis": "Deux policiers mettent la main sur une forte somme d'argent volé. L'un d'eux décide de garde le butin. L'autre refuse.",
+          "status": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 189940,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3786,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Ida Lupino actrice"
+        }
+      ],
+      "idEvenement": 33063,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-19T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 36748,
+          "titre": "Femmes en prison",
+          "titreVo": "Women's Prison",
+          "realisateurs": "Lewis Seiler",
+          "annee": 1954,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 189892,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3786,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Ida Lupino actrice"
+        }
+      ],
+      "idEvenement": 33064,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-18T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34077,
+          "titre": "Cinquième victime",
+          "art": "La",
+          "titreVo": "While the City Sleeps",
+          "realisateurs": "Fritz Lang",
+          "annee": 1956,
+          "generique": "Dana Andrews, Rhonda Fleming, George Sanders, Howard Duff",
+          "adaptation": "D'après le roman _The Bloody Spur_ de Charles Einstein.",
+          "synopsis": "Les journalistes d'un grand quotidien sont en compétition pour découvrir l'identité d'un tueur en série.",
+          "commentaire": "Sur fond d'enquête criminelle, portrait au vitriol du monde de la presse et de ses luttes internes. Dans la salle de rédaction, Lang orchestre un ballet virtuose, interprété par une flopée de personnages truculents, tel une métaphore du capitalisme américain, où tous les coups bas sont permis.",
+          "status": 2
+        }
+      ]
+    },
+    {
+      "idSeance": 190128,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3786,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Ida Lupino actrice"
+        }
+      ],
+      "idEvenement": 33065,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-26T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 29901,
+          "titre": "Grand couteau",
+          "art": "Le",
+          "titreVo": "Big Knife",
+          "artVo": "The",
+          "realisateurs": "Robert Aldrich",
+          "annee": 1955,
+          "generique": "Jack Palance, Ida Lupino, Wendell Corey",
+          "synopsis": "« Une nouvelle ère s'ouvrit, personnifiée par un homme : Robert Aldrich. (...) Aldrich prouve à nouveau à Hollywood que la primauté de l'auteur de films est payante lorsqu'on le laisse maître de ses moyens d'action et que la liberté qu'avaient connue les grands pionniers du cinéma américain était la cause de sa suprématie commerciale. »",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 194727,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3786,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Ida Lupino actrice"
+        }
+      ],
+      "idEvenement": 33066,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-27T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 44758,
+          "titre": "Junior Bonner, le dernier bagarreur",
+          "titreVo": "Junior Bonner",
+          "realisateurs": "Sam Peckinpah",
+          "annee": 1971,
+          "generique": "Steve McQueen, Robert Preston, Ida Lupino, Ben Johnson",
+          "synopsis": "Junior Bonner, cowboy fauché va participer à un rodéo dans sa ville natale où il retrouve sa famille.",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 190083,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3786,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Ida Lupino actrice"
+        }
+      ],
+      "idEvenement": 33067,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-25T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 32229,
+          "titre": "Pluie du diable",
+          "art": "La",
+          "titreVo": "Devil's Rain",
+          "artVo": "The",
+          "realisateurs": "Robert Fuest",
+          "annee": 1975,
+          "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 190084,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1006,
+          "idCategorie": 3786,
+          "titreCycle": "Ida Lupino",
+          "titreSousCycle": "Ida Lupino actrice"
+        }
+      ],
+      "idEvenement": 33068,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-25T21:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 55072,
+          "titre": "Soudain les monstres",
+          "titreVo": "Food of the Gods",
+          "artVo": "The",
+          "realisateurs": "Bert I. Gordon",
+          "annee": 1976,
+          "status": 0
         }
       ]
     }
