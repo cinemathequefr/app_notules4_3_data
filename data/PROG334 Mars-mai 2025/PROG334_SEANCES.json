@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-19T15:43:16.773Z",
+  "updatedAt": "2025-02-20T12:16:27.507Z",
   "data": [
     {
       "idSeance": 185394,
@@ -2854,6 +2854,8 @@
       "typeEvenement": 13,
       "dateHeure": "2025-05-23T20:30:00",
       "idSalle": "HL",
+      "idSeanceAssoc": 187740,
+      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,
@@ -6670,7 +6672,7 @@
           "titreVo": "Broken Lullaby",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1932,
-          "duree": 76,
+          "duree": 77,
           "generique": "Lionel Barrymore, Nancy Carroll, Phillips Holmes, Louise Carter",
           "adaptation": "D'après la pièce _L'Homme que j'ai tué_ de Maurice Rostand.",
           "synopsis": "Rongé par la culpabilité, un jeune homme qui en a tué un autre à la guerre vient trouver la famille de sa victime un an après.",
@@ -6679,7 +6681,7 @@
           "copies": [
             {
               "idCopie": 29592,
-              "duree": 76,
+              "duree": 77,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
@@ -6714,7 +6716,7 @@
           "titreVo": "Broken Lullaby",
           "realisateurs": "Ernst Lubitsch",
           "annee": 1932,
-          "duree": 76,
+          "duree": 77,
           "generique": "Lionel Barrymore, Nancy Carroll, Phillips Holmes, Louise Carter",
           "adaptation": "D'après la pièce _L'Homme que j'ai tué_ de Maurice Rostand.",
           "synopsis": "Rongé par la culpabilité, un jeune homme qui en a tué un autre à la guerre vient trouver la famille de sa victime un an après.",
@@ -6723,7 +6725,7 @@
           "copies": [
             {
               "idCopie": 29592,
-              "duree": 76,
+              "duree": 77,
               "format": "35 mm",
               "version": "VO",
               "langCopie": "ENG",
@@ -9038,7 +9040,7 @@
             {
               "idCopie": 29118,
               "duree": 97,
-              "format": "35 mm",
+              "format": "Numérique",
               "version": "VO",
               "stDemande": true
             }
@@ -9080,7 +9082,7 @@
               "duree": 80,
               "format": "DCP",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 2669
@@ -9206,7 +9208,7 @@
               "duree": 95,
               "format": "DCP",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 92
@@ -9249,7 +9251,7 @@
               "duree": 95,
               "format": "DCP",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 92
@@ -9291,7 +9293,7 @@
               "duree": 95,
               "format": "DCP",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 37786
@@ -9400,18 +9402,19 @@
           "titre": "Claro",
           "realisateurs": "Glauber Rocha",
           "annee": 1975,
-          "duree": 110,
+          "duree": 107,
           "generique": "Juliet Berto, Tony Scott, Carmelo Bene",
           "synopsis": "Film improvisé mêlant acteurs professionnels et amateurs dans les rues de Rome.",
           "miniTexte": "À la fin de son exil européen, Rocha tourne dans les rues de Rome pour proposer une vision brésilienne de la capitale italienne. Un essai épique et politique, qui se veut, selon ses termes, « un témoignage de colonisé sur une terre de colonisation ».",
           "status": 2,
           "copies": [
             {
-              "idCopie": 29326,
-              "duree": 110,
-              "format": "DCP",
+              "idCopie": 3785,
+              "duree": 107,
+              "format": "35 mm",
               "version": "VO",
-              "stDemande": true
+              "langCopie": "POR",
+              "sousTitres": "STF"
             }
           ]
         }
@@ -9453,7 +9456,7 @@
               "duree": 160,
               "format": "DCP",
               "version": "VO",
-              "stDemande": true
+              "sousTitres": "STF"
             }
           ],
           "idFilmBoxoffice": 186413
@@ -11209,19 +11212,17 @@
           "titre": "Pi",
           "realisateurs": "Darren Aronofsky",
           "annee": 1998,
-          "duree": 84,
           "generique": "Sean Gullette, Mark Margolis, Ben Shenkman",
           "synopsis": "Un mathématicien paranoïaque cherche le chiffre clé qui permettrait de percer les mystères de l'existence. Il est alors courtisé par une secte et une firme de Wall Street.",
           "miniTexte": "L'obsession d'un mathématicien pour le nombre π le pousse à sa perte. Récompensé par le Prix de la mise en scène à Sundance, le premier long métrage d'Aronofsky confronte l'univers formel des chiffres à l'agitation du monde réel. De l'asocialité à la paranoïa, son héros incarne l'arrivée du virtuel, vécue comme une intrusion angoissante. Un essai percutant, qui convoque Lynch, Lang et Murnau.",
           "status": 2,
           "copies": [
             {
-              "idCopie": 6567,
-              "duree": 84,
-              "format": "35 mm",
+              "idCopie": 29691,
+              "duree": 0,
+              "format": "DCP",
               "version": "VO",
-              "langCopie": "ENG",
-              "sousTitres": "STF"
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 13351
@@ -11407,6 +11408,7 @@
               "duree": 115,
               "format": "DCP",
               "version": "VO",
+              "sousTitres": "STF",
               "stDemande": true
             }
           ],
@@ -11468,6 +11470,7 @@
               "duree": 115,
               "format": "DCP",
               "version": "VO",
+              "sousTitres": "STF",
               "stDemande": true
             }
           ],
@@ -12211,6 +12214,8 @@
       "typeConference": "Leçon de cinéma",
       "idSalle": "HL",
       "duree": 90,
+      "idSeanceAssoc": 188326,
+      "typeAssoc": 117,
       "items": [
         {
           "ordre": 1,

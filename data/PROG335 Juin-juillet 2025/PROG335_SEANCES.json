@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-19T15:43:11.052Z",
+  "updatedAt": "2025-02-20T12:16:21.765Z",
   "data": [
     {
       "idSeance": 194577,
@@ -435,7 +435,7 @@
       ],
       "idEvenement": 32158,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-28T17:30:00",
+      "dateHeure": "2025-05-28T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -479,7 +479,7 @@
       ],
       "idEvenement": 32159,
       "typeEvenement": 13,
-      "dateHeure": "2025-05-28T20:30:00",
+      "dateHeure": "2025-05-28T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -1667,7 +1667,7 @@
       ]
     },
     {
-      "idSeance": 189514,
+      "idSeance": 194734,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -1679,7 +1679,7 @@
       ],
       "idEvenement": 32761,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-04T18:00:00",
+      "dateHeure": "2025-07-04T20:00:00",
       "idSalle": "HL",
       "items": [
         {
@@ -1708,7 +1708,7 @@
       ]
     },
     {
-      "idSeance": 189515,
+      "idSeance": 194733,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -1720,8 +1720,8 @@
       ],
       "idEvenement": 32762,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-04T20:00:00",
-      "idSalle": "HL",
+      "dateHeure": "2025-07-02T20:30:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -1896,7 +1896,7 @@
       ]
     },
     {
-      "idSeance": 189439,
+      "idSeance": 194730,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -1908,8 +1908,8 @@
       ],
       "idEvenement": 32767,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-02T18:30:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-07-04T18:00:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -1983,6 +1983,51 @@
         }
       ],
       "mention": "Ouverture de la rétrospective. Séance présentée par Pascal-Alex Vincent"
+    },
+    {
+      "idSeance": 189660,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 997,
+          "idCategorie": 3757,
+          "titreCycle": "Le cinéma d'animation japonais, 25 indispensables",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32768,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-10T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 65008,
+          "titre": "Perfect Blue",
+          "realisateurs": "Satoshi Kon",
+          "annee": 1997,
+          "duree": 81,
+          "adaptation": "D'après le roman _Perfect Blue : Métamorphose d'une idole_ de Yoshikazu Takeuchi.",
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29569,
+              "duree": 81,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29615,
+              "duree": 81,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 189326,
@@ -2107,7 +2152,7 @@
       ]
     },
     {
-      "idSeance": 189440,
+      "idSeance": 194735,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -2119,7 +2164,7 @@
       ],
       "idEvenement": 32772,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-02T20:30:00",
+      "dateHeure": "2025-07-02T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3303,8 +3348,16 @@
           "art": "La",
           "realisateurs": "Claude Goretta",
           "annee": 1976,
+          "duree": 108,
           "adaptation": "D'après le roman _La Dentellière_ de Pascal Lainé.",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29693,
+              "duree": 108,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },
@@ -3565,11 +3618,19 @@
           "titre": "Son nom de Venise dans Calcutta désert",
           "realisateurs": "Marguerite Duras",
           "annee": 1976,
+          "duree": 120,
           "generique": "Delphine Seyrig, Nicole Hiss, Sylvie Nuytten",
           "synopsis": "Reprenant la bande-son de son film _India Song_, Marguerite Duras y greffe des images nouvelles proposant une longue réflexion visuelle sur la mort.",
           "miniTexte": "Un faux remake d'_India Song_, qui reprend les lieux et la musique du film original pour questionner la mémoire et le passage du temps. Dans les ruines du palais Rothschild, les acteurs ont disparu et sont désormais remplacés par des visions fantomatiques, des voix entrecoupées de mélodies d'époque. De panoramiques en travellings, Duras travaille sur le ressassement, la grâce contenue dans les images qui subsistent, et privilégie la remise à nu par l'épure. Un voyage hypnotisant sur la manière dont les mots résistent et continuent à vivre.",
           "commentaire": "« Le référent ne serait donc plus que la mémoire de la matière filmique. Une mémoire volatile, sans fond, qui ne serait portée que par une impulsion d'écriture dont les intensités se consumeraient, sans reste. Évocation charriant sans fin ses retombées matérielles. » (Jean-Pierre Oudart)",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 17747,
+              "duree": 120,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },
@@ -3625,7 +3686,15 @@
           "titre": "Femmes au soleil",
           "realisateurs": "Liliane Dreyfus",
           "annee": 1973,
-          "status": 0
+          "duree": 94,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29692,
+              "duree": 94,
+              "format": "35 mm"
+            }
+          ]
         }
       ]
     },
@@ -3652,9 +3721,34 @@
           "titreVo": "Voltati Eugenio",
           "realisateurs": "Luigi Comencini",
           "annee": 1979,
+          "duree": 105,
           "generique": "Francesco Bonelli, Saverio Marconi, Bernard Blier, Dalila Di Lazzaro",
           "synopsis": "A l'occasion de la fugue de leur fils de dix ans, un couple séparé revit son passé et ses échecs.",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29700,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 29701,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            },
+            {
+              "idCopie": 29702,
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -3706,7 +3800,7 @@
           "idFilm": 75120,
           "titre": "Human Nature",
           "realisateurs": "Michel Gondry",
-          "annee": 2000,
+          "annee": 2001,
           "duree": 96,
           "generique": "Tim Robbins, Patricia Arquette, Rhys Ifans",
           "status": 1,
@@ -3724,7 +3818,8 @@
               "idCopie": 29609,
               "duree": 96
             }
-          ]
+          ],
+          "idFilmBoxoffice": 28830
         }
       ]
     },
@@ -3749,7 +3844,7 @@
           "idFilm": 91738,
           "titre": "Eternal Sunshine of the Spotless Mind",
           "realisateurs": "Michel Gondry",
-          "annee": 2003,
+          "annee": 2004,
           "duree": 108,
           "generique": "Jim Carrey, Kate Winslet, Tom Wilkinson",
           "status": 1,
@@ -3762,7 +3857,8 @@
               "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 40191
         }
       ]
     },
@@ -3800,7 +3896,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 109827
         }
       ]
     },
@@ -3826,7 +3923,7 @@
           "titre": "Science des rêves",
           "art": "La",
           "realisateurs": "Michel Gondry",
-          "annee": 2005,
+          "annee": 2006,
           "duree": 105,
           "generique": "Gael García Bernal, Charlotte Gainsbourg, Alain Chabat",
           "synopsis": "Venant tout juste d'arriver en France, Stéphane s'ennuie dans son métier fastidieux. Il va se réfugier dans un monde fait de rêves et tomber amoureux de sa voisine Stéphanie.",
@@ -3848,7 +3945,8 @@
               "idCopie": 29612,
               "duree": 105
             }
-          ]
+          ],
+          "idFilmBoxoffice": 36287
         }
       ]
     },
@@ -3874,7 +3972,7 @@
           "titre": "Soyez sympas, rembobinez",
           "titreVo": "Be Kind Rewind",
           "realisateurs": "Michel Gondry",
-          "annee": 2006,
+          "annee": 2008,
           "duree": 102,
           "generique": "Jack Black, Mos Def, Danny Glover",
           "status": 1,
@@ -3889,7 +3987,8 @@
               "idCopie": 29614,
               "duree": 0
             }
-          ]
+          ],
+          "idFilmBoxoffice": 110281
         }
       ]
     },
@@ -3915,7 +4014,7 @@
           "titre": "Épine dans le cœur",
           "art": "L'",
           "realisateurs": "Michel Gondry",
-          "annee": 2008,
+          "annee": 2009,
           "duree": 86,
           "generique": "Suzette Gondry, Jean-Yves Gondry",
           "status": 1,
@@ -3924,7 +4023,8 @@
               "idCopie": 29624,
               "duree": 86
             }
-          ]
+          ],
+          "idFilmBoxoffice": 145898
         }
       ]
     },
@@ -3950,7 +4050,7 @@
           "titre": "Green Hornet",
           "art": "The",
           "realisateurs": "Michel Gondry",
-          "annee": 2010,
+          "annee": 2011,
           "generique": "Seth Rogen, Jay Chou, Cameron Diaz, Christoph Waltz",
           "adaptation": "D'après la série radiophonique _Le Frelon Vert_ de George W. Trendle.",
           "status": 1,
@@ -3972,7 +4072,8 @@
               "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 28983
         }
       ]
     },
@@ -3998,7 +4099,7 @@
           "titre": "We and the I",
           "art": "The",
           "realisateurs": "Michel Gondry",
-          "annee": 2011,
+          "annee": 2012,
           "duree": 103,
           "generique": "Michael Brodie, Teresa Lynn, Raymond Delgado",
           "status": 1,
@@ -4009,7 +4110,8 @@
               "version": "VO",
               "langCopie": "ENG"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 179165
         }
       ]
     },
@@ -4035,7 +4137,7 @@
           "titre": "Écume des jours",
           "art": "L'",
           "realisateurs": "Michel Gondry",
-          "annee": 2012,
+          "annee": 2013,
           "duree": 94,
           "generique": "Romain Duris, Audrey Tautou, Gad Elmaleh",
           "adaptation": "D'après le roman _L'Écume des jours_ de Boris Vian.",
@@ -4046,7 +4148,8 @@
               "duree": 94,
               "langCopie": "FRE"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 196832
         }
       ]
     },
@@ -4070,6 +4173,7 @@
           "ordre": 1,
           "idFilm": 123096,
           "titre": "Conversation animée avec Noam Chomsky",
+          "titreVo": "Is the Man Who Is Tall Happy? An Animated Conversation with Noam Chomsky",
           "realisateurs": "Michel Gondry",
           "annee": 2013,
           "duree": 85,
@@ -4080,7 +4184,8 @@
               "idCopie": 29627,
               "duree": 85
             }
-          ]
+          ],
+          "idFilmBoxoffice": 218570
         }
       ]
     },
@@ -4105,7 +4210,7 @@
           "idFilm": 127330,
           "titre": "Microbe et Gasoil",
           "realisateurs": "Michel Gondry",
-          "annee": 2014,
+          "annee": 2015,
           "duree": 103,
           "generique": "Ange Dargent, Théophile Baquet, Audrey Tautou",
           "status": 1,
@@ -4114,7 +4219,8 @@
               "idCopie": 29628,
               "duree": 103
             }
-          ]
+          ],
+          "idFilmBoxoffice": 228727
         }
       ]
     },
@@ -5432,7 +5538,7 @@
         }
       ],
       "idEvenement": 32970,
-      "dateHeure": "2025-06-07T14:30:00",
+      "dateHeure": "2025-06-08T14:30:00",
       "idSalle": "HL",
       "typeAssoc": 118,
       "items": [
@@ -6430,6 +6536,42 @@
       ]
     },
     {
+      "idSeance": 189327,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33012,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-27T19:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 29319,
+          "titre": "Tarzan et la cité perdue",
+          "titreVo": "Tarzan and the Lost City",
+          "realisateurs": "Carl Schenkel",
+          "annee": 1997,
+          "duree": 83,
+          "generique": "Casper Van Dien, Jane March, Steven Waddington",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 28922,
+              "duree": 83
+            }
+          ],
+          "idFilmBoxoffice": 17882
+        }
+      ]
+    },
+    {
       "idSeance": 188872,
       "idProg": 335,
       "idCycleCategories": [
@@ -6820,7 +6962,7 @@
       "idEvenement": 33050,
       "typeEvenement": 13,
       "dateHeure": "2025-07-20T18:30:00",
-      "idSalle": "HL",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -6877,7 +7019,7 @@
       "idEvenement": 33052,
       "typeEvenement": 13,
       "dateHeure": "2025-07-20T14:30:00",
-      "idSalle": "HL",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -6932,7 +7074,7 @@
       "idEvenement": 33054,
       "typeEvenement": 13,
       "dateHeure": "2025-07-20T20:30:00",
-      "idSalle": "HL",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -7365,6 +7507,117 @@
           "realisateurs": "Bert I. Gordon",
           "annee": 1976,
           "status": 0
+        }
+      ]
+    },
+    {
+      "idSeance": 189895,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33070,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-18T21:15:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 49678,
+          "titre": "Chasse à mort",
+          "titreVo": "Death Hunt",
+          "realisateurs": "Peter Hunt",
+          "annee": 1980,
+          "duree": 97,
+          "generique": "Charles Bronson, Lee Marvin, Angie Dickinson",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29694,
+              "duree": 97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189894,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33071,
+      "typeEvenement": 13,
+      "dateHeure": "2025-07-18T19:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 34053,
+          "titre": "Bison blanc",
+          "art": "Le",
+          "titreVo": "White Buffalo",
+          "artVo": "The",
+          "realisateurs": "J. Lee Thompson",
+          "annee": 1976,
+          "duree": 97,
+          "generique": "Charles Bronson, Jack Warden, Will Sampson, Kim Novak",
+          "adaptation": "D'après le roman _The White Buffalo_ de Richard Sale.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29695,
+              "duree": 97
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 189328,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 14,
+          "idCategorie": 3384,
+          "titreCycle": "Cinéma bis",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33075,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-27T21:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 66204,
+          "titre": "Tarzan et la révolte de la jungle",
+          "titreVo": "Tarzan's Jungle Rebelion",
+          "realisateurs": "William Witney",
+          "annee": 1967,
+          "duree": 90,
+          "generique": "Ron Ely, Lloyd Haynes",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29698,
+              "duree": 90,
+              "format": "16 mm",
+              "version": "VO",
+              "langCopie": "ENG"
+            }
+          ]
         }
       ]
     }
