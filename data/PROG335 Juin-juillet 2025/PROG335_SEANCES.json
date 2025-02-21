@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-21T14:33:20.377Z",
+  "updatedAt": "2025-02-21T16:34:38.276Z",
   "data": [
     {
       "idSeance": 188949,
@@ -3923,16 +3923,18 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 29611,
+              "idCopie": 15972,
               "duree": 105,
               "format": "35 mm",
               "version": "VO",
+              "sousTitres": "STF",
               "selected": true
             },
             {
-              "idCopie": 15972,
+              "idCopie": 29611,
               "duree": 105,
-              "format": "35 mm"
+              "format": "35 mm",
+              "version": "VO"
             },
             {
               "idCopie": 29612,
@@ -5940,16 +5942,22 @@
           "artVo": "The",
           "realisateurs": "John M. Stahl",
           "annee": 1947,
-          "duree": 123,
+          "duree": 115,
           "miniTexte": "Adaptation d'un roman-fleuve à succès, l'ascension et la chute d'un immigrant irlandais, qui achète sa place dans la haute société créole de La Nouvelle- Orléans, au cœur d'un Sud esclavagiste, à la veille de la Guerre de Sécession. Succession de scènes somptueuses (bal masqué, jardins opulents), le film vaut autant pour sa reconstitution historique (dans la veine d'_Autant en emporte le vent_) que pour son intrigue à rebondissements, où les personnages ambigus naviguent entre ambition, cynisme et préjugés.",
           "status": 1,
           "copies": [
             {
+              "idCopie": 29721,
+              "duree": 115,
+              "format": "35 mm",
+              "version": "VO",
+              "selected": true
+            },
+            {
               "idCopie": 29646,
               "duree": 123,
               "format": "16 mm",
-              "version": "VO",
-              "selected": true
+              "version": "VO"
             },
             {
               "idCopie": 29647,
@@ -5987,16 +5995,22 @@
           "artVo": "The",
           "realisateurs": "John M. Stahl",
           "annee": 1947,
-          "duree": 123,
+          "duree": 115,
           "miniTexte": "Adaptation d'un roman-fleuve à succès, l'ascension et la chute d'un immigrant irlandais, qui achète sa place dans la haute société créole de La Nouvelle- Orléans, au cœur d'un Sud esclavagiste, à la veille de la Guerre de Sécession. Succession de scènes somptueuses (bal masqué, jardins opulents), le film vaut autant pour sa reconstitution historique (dans la veine d'_Autant en emporte le vent_) que pour son intrigue à rebondissements, où les personnages ambigus naviguent entre ambition, cynisme et préjugés.",
           "status": 1,
           "copies": [
             {
+              "idCopie": 29721,
+              "duree": 115,
+              "format": "35 mm",
+              "version": "VO",
+              "selected": true
+            },
+            {
               "idCopie": 29646,
               "duree": 123,
               "format": "16 mm",
-              "version": "VO",
-              "selected": true
+              "version": "VO"
             },
             {
               "idCopie": 29647,
@@ -7998,11 +8012,26 @@
       ],
       "idEvenement": 33108,
       "typeEvenement": 13,
-      "libelleEvenement": "CHINOISES TITRE8",
       "dateHeure": "2025-05-31T21:30:00",
       "idSalle": "GF",
-      "theorique": true,
-      "items": []
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155202,
+          "titre": "Guo Ran",
+          "realisateurs": "Li Dongmei",
+          "annee": 2024,
+          "duree": 90,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29720,
+              "duree": 90,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
     },
     {
       "idSeance": 194750,
