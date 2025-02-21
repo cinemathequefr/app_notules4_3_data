@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-20T12:16:21.765Z",
+  "updatedAt": "2025-02-21T09:41:04.920Z",
   "data": [
     {
       "idSeance": 194577,
@@ -506,49 +506,6 @@
             }
           ],
           "idFilmBoxoffice": 49956
-        }
-      ]
-    },
-    {
-      "idSeance": 194612,
-      "idProg": 335,
-      "idCycleCategories": [
-        {
-          "idCycle": 978,
-          "idCategorie": 3680,
-          "titreCycle": "Histoire permanente du cinéma",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32166,
-      "typeEvenement": 13,
-      "dateHeure": "2025-05-31T15:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 42345,
-          "titre": "Parfum de femme",
-          "titreVo": "Profumo di donna",
-          "realisateurs": "Dino Risi",
-          "annee": 1974,
-          "duree": 103,
-          "generique": "Vittorio Gassman, Alessandro Momo, Agostina Belli",
-          "adaptation": "D'après le roman _Parfum de femme_ de Giovanni Arpino.",
-          "synopsis": "Un jeune officier d'ordonnance est chargé de tenir compagnie à un ancien capitaine devenu aveugle, obsédé par les femmes et tenté par le suicide.",
-          "miniTexte": "Magistral Vittorio Gassman dans le rôle d'un ancien capitaine aveugle, obsédé par les femmes. Un monstre de cynisme et de vulnérabilité, décrit avec finesse par Dino Risi, tout au long d'un périple italien, qui mêle l'humour, le drame et la satire sociale.",
-          "commentaire": "Un portrait à l'eau-forte qui traduit l'état d'esprit d'un homme refusant de voir ce que son infirmité lui prend, à savoir sa fierté, son assurance, sa virilité et son autorité. Si Fausto joue les comiques, c'est pour mieux dissimuler son amertume. Impérial, agressif et angoissé, Vittorio Gassman l'interprète avec un immense talent. Un rôle, récompensé au Festival de Cannes, plein de nuances et de force, pour un film à la fois très cruel et très tendre. Avec _Parfum de femme_, Dino Risi apparaît dès lors comme un clown triste. « C'est certainement un film plus grave que d'habitude pour moi, et plutôt que de comédie à l'italienne, il faudrait peut-être parler ici de tragédie à l'italienne. » Une comédie triste réussie, une œuvre populaire, à la fois divertissante et subtilement critique, une recette d'alchimiste dont seul Risi a le secret.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 21324,
-              "duree": 103,
-              "format": "DCP",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 1792
         }
       ]
     },
@@ -1590,7 +1547,7 @@
       ],
       "idEvenement": 32749,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-06T20:30:00",
+      "dateHeure": "2025-06-06T21:00:00",
       "idSalle": "JE",
       "items": [
         {
@@ -1997,7 +1954,7 @@
       ],
       "idEvenement": 32768,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-10T19:00:00",
+      "dateHeure": "2025-07-10T20:45:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2833,7 +2790,7 @@
       ]
     },
     {
-      "idSeance": 189967,
+      "idSeance": 194788,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -2845,7 +2802,7 @@
       ],
       "idEvenement": 32811,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-21T16:00:00",
+      "dateHeure": "2025-07-21T15:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2855,8 +2812,18 @@
           "titreVo": "Cross Creek",
           "realisateurs": "Martin Ritt",
           "annee": 1982,
+          "duree": 127,
           "adaptation": "D'après le roman _Cross Creek_ de Marjorie Kinnan Rawlings.",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29715,
+              "duree": 127,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -2882,21 +2849,28 @@
           "titre": "Belle captive",
           "art": "La",
           "realisateurs": "Alain Robbe-Grillet",
-          "annee": 1982,
+          "annee": 1983,
           "duree": 90,
           "status": 0,
           "copies": [
             {
               "idCopie": 29598,
               "duree": 90,
+              "format": "35 mm",
+              "selected": true
+            },
+            {
+              "idCopie": 29718,
+              "duree": 90,
               "format": "35 mm"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 138
         }
       ]
     },
     {
-      "idSeance": 194625,
+      "idSeance": 194786,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -2908,7 +2882,7 @@
       ],
       "idEvenement": 32818,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-18T16:00:00",
+      "dateHeure": "2025-07-17T16:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2917,15 +2891,29 @@
           "titre": "Cap Canaille",
           "realisateurs": "Juliet Berto, Jean-Henri Roger",
           "annee": 1982,
+          "duree": 103,
           "generique": "Juliet Berto, Richard Bohringer, Jean-Claude Brialy",
           "synopsis": "Les années 80, à Marseille. Un magnat de l'immobilier fait incendier une colline. Celle-ci appartient à une jeune femme dont le père, qui trempait dans le trafic de drogues, s'est récemment fait assassiner. Deux journalistes décident d'enquêter sur cette affaire.",
           "status": 1,
+          "copies": [
+            {
+              "idCopie": 29716,
+              "duree": 103,
+              "format": "35 mm",
+              "selected": true
+            },
+            {
+              "idCopie": 29717,
+              "duree": 103,
+              "format": "35 mm"
+            }
+          ],
           "idFilmBoxoffice": 6345
         }
       ]
     },
     {
-      "idSeance": 194624,
+      "idSeance": 194787,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -2937,7 +2925,7 @@
       ],
       "idEvenement": 32819,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-17T16:00:00",
+      "dateHeure": "2025-07-18T16:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -2946,15 +2934,23 @@
           "titre": "Danton",
           "realisateurs": "Andrzej Wajda",
           "annee": 1982,
+          "duree": 136,
           "generique": "Gérard Depardieu, Wojciech Pszoniak, Patrice Chéreau",
           "adaptation": "D'après la pièce _L'Affaire Danton_ de Stanislawa Przybyszewska.",
           "synopsis": "Été 1793 : le Comité de salut public, à l'instigation de Robespierre, instaure la Terreur. La famine réapparaît, entraînant la révolte, et les têtes tombent. Danton, regagnant Paris, s'oppose à Robespierre.",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 7942,
+              "duree": 136,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },
     {
-      "idSeance": 189813,
+      "idSeance": 194783,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -2976,9 +2972,17 @@
           "art": "L'",
           "realisateurs": "Patrice Chéreau, Jean-François Pierrard",
           "annee": 1982,
+          "duree": 109,
           "generique": "Jean-Hugues Anglade, Vittorio Mezzogiorno, Roland Bertin",
           "synopsis": "Henri, un jeune homme ordinaire, croise par hasard dans une gare parisienne Jean, un homme plus âgé impliqué dans le milieu de la prostitution. Ressentant de la passion pour cet homme plus âgé, Henri tente de se prostituer pour gagner son amour.",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 9723,
+              "duree": 109,
+              "format": "35 mm"
+            }
+          ]
         }
       ]
     },
@@ -3040,7 +3044,7 @@
       ]
     },
     {
-      "idSeance": 190002,
+      "idSeance": 194789,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -3062,14 +3066,22 @@
           "art": "La",
           "realisateurs": "Alain Resnais",
           "annee": 1982,
+          "duree": 111,
           "generique": "Vittorio Gassman, Ruggero Raimondi, Fanny Ardant",
           "synopsis": "Au lendemain de la Première Guerre mondiale, le comte Forbek présente à ses amis la maquette d'un château dont il veut faire le temple du bonheur.",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 20412,
+              "duree": 111,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },
     {
-      "idSeance": 189435,
+      "idSeance": 194772,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -3081,7 +3093,7 @@
       ],
       "idEvenement": 32826,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-02T15:30:00",
+      "dateHeure": "2025-07-10T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3200,7 +3212,7 @@
       ]
     },
     {
-      "idSeance": 194622,
+      "idSeance": 194773,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -3212,7 +3224,7 @@
       ],
       "idEvenement": 32830,
       "typeEvenement": 13,
-      "dateHeure": "2025-07-10T16:00:00",
+      "dateHeure": "2025-07-02T16:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3251,10 +3263,20 @@
           "titreVo": "Ordinary People",
           "realisateurs": "Robert Redford",
           "annee": 1979,
+          "duree": 124,
           "generique": "Donald Sutherland, Mary Tyler Moore, Judd Hirsch",
           "adaptation": "D'après le roman _Ordinary People_ de Judith Guest.",
           "synopsis": "Calvin et Beth Jarrett forment en apparence un couple modèle d'américains. Mais la réalité est tout autre: leur fils aîné Buck s'est noyé en faisant du dériveur avec son jeune frère Conrad.",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 22050,
+              "duree": 124,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -3280,9 +3302,18 @@
           "titre": "Fame",
           "realisateurs": "Alan Parker",
           "annee": 1979,
+          "duree": 133,
           "generique": "Irene Cara, Lee Curreri, Eddie Barth",
           "synopsis": "Dans la prestigieuse école d'art du spectacle de New York, tous les élèves sont motivés par leur ambition de devenir célèbres. Mais, à l'issu de la formation, rares sont ceux qui atteindront la célébrité.",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 16616,
+              "duree": 133,
+              "format": "DCP",
+              "version": "VO"
+            }
+          ]
         }
       ]
     },
@@ -3326,7 +3357,7 @@
       ]
     },
     {
-      "idSeance": 188833,
+      "idSeance": 194766,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -3362,7 +3393,7 @@
       ]
     },
     {
-      "idSeance": 189211,
+      "idSeance": 194770,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -3374,7 +3405,7 @@
       ],
       "idEvenement": 32839,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-23T16:00:00",
+      "dateHeure": "2025-06-23T15:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3383,9 +3414,19 @@
           "titre": "Julia",
           "realisateurs": "Fred Zinnemann",
           "annee": 1976,
+          "duree": 117,
           "generique": "Vanessa Redgrave, Jane Fonda, Jason Robards",
           "synopsis": "Lillian Hellman part en Europe sur les traces de son amie Julia, militante antinazie qui a disparu, peu de temps avant la Seconde Guerre Mondiale.",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 15959,
+              "duree": 117,
+              "format": "35 mm",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -3414,14 +3455,34 @@
           "artVo": "The",
           "realisateurs": "Clint Eastwood",
           "annee": 1977,
+          "duree": 108,
           "generique": "Clint Eastwood, Sondra Locke, Pat Hingle",
           "synopsis": "Le policier Ben Shockley est chargé de convoyer un suspect de Las Vegas à Phoenix. Il s'apercoit qu'il s'agit en réalité d'une femme que l'on cherche à supprimer à tout prix.",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 12178,
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF",
+              "selected": true
+            },
+            {
+              "idCopie": 12179,
+              "duree": 108,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "ENG",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
     {
-      "idSeance": 188679,
+      "idSeance": 194765,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -3433,7 +3494,7 @@
       ],
       "idEvenement": 32841,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-04T16:00:00",
+      "dateHeure": "2025-06-04T15:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3444,10 +3505,20 @@
           "titreVo": "All the President's Men",
           "realisateurs": "Alan J. Pakula",
           "annee": 1976,
+          "duree": 138,
           "generique": "Dustin Hoffman, Robert Redford, Jack Warden, Martin Balsam, Jason Robbards",
           "adaptation": "D'après le livre _All the President's Men_ de Carl Bernstein et Bob Woodward.",
           "synopsis": "Bob Woodward et Carl Bernstein, journalistes au _Washington Post_, dévoilent les détails du scandale du Watergate qui mènera à la démission du président Richard Nixon.",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 14593,
+              "duree": 138,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -3479,7 +3550,7 @@
       ]
     },
     {
-      "idSeance": 188644,
+      "idSeance": 194764,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -3491,7 +3562,7 @@
       ],
       "idEvenement": 32843,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-02T17:00:00",
+      "dateHeure": "2025-06-02T16:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3502,44 +3573,25 @@
           "titreVo": "Schatten der Engel",
           "realisateurs": "Daniel Schmid",
           "annee": 1975,
+          "duree": 101,
           "generique": "Ingrid Caven, Rainer Werner Fassbinder, Klaus Löwitsch",
           "adaptation": "D'après la pièce _L'ordure, la ville et la mort_ de Rainer Werner Fassbinder.",
           "synopsis": "Lily Brest, une prostituée trop belle pour les bas-fonds de Franfort où elle travaille, est sous la coupe d'un souteneur brutal. Un jour, elle rencontre un riche Juif, qui devient son principal client.",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 8213,
+              "duree": 101,
+              "format": "35 mm",
+              "version": "VO",
+              "langCopie": "GER"
+            }
+          ]
         }
       ]
     },
     {
-      "idSeance": 194614,
-      "idProg": 335,
-      "idCycleCategories": [
-        {
-          "idCycle": 978,
-          "idCategorie": 3680,
-          "titreCycle": "Histoire permanente du cinéma",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 32844,
-      "typeEvenement": 13,
-      "dateHeure": "2025-06-06T16:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 48237,
-          "titre": "Ombre des châteaux",
-          "art": "L'",
-          "realisateurs": "Daniel Duval",
-          "annee": 1976,
-          "generique": "Philippe Léotard, Albert Dray, Zoé Chauveau, Stéphane Bouy",
-          "synopsis": "Dans une banlieue du nord de la France vit la famille Capello, immigrés italiens qui survivent en fabriquant et en vendant des pacotilles de foire. Les trois enfants rêvent d'aller au Canada et sont prêts à tout pour y parvenir.",
-          "status": 0
-        }
-      ]
-    },
-    {
-      "idSeance": 194616,
+      "idSeance": 194769,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -3561,9 +3613,20 @@
           "titreVo": "Chinesisches Roulette",
           "realisateurs": "Rainer Werner Fassbinder",
           "annee": 1976,
+          "duree": 86,
           "generique": "Margit Carstensen, Anna Karina, Ulli Lommel",
           "synopsis": "Un homme et son épouse se retrouvent avec leurs amants respectifs dans une maison de campagne...",
-          "status": 0
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 14093,
+              "duree": 86,
+              "format": "DCP",
+              "version": "VO",
+              "langCopie": "GER",
+              "sousTitres": "STF"
+            }
+          ]
         }
       ]
     },
@@ -3597,7 +3660,7 @@
       ]
     },
     {
-      "idSeance": 194615,
+      "idSeance": 194767,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -3635,7 +3698,7 @@
       ]
     },
     {
-      "idSeance": 189057,
+      "idSeance": 194768,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -3657,10 +3720,18 @@
           "art": "L'",
           "realisateurs": "Agnès Varda",
           "annee": 1976,
+          "duree": 120,
           "generique": "Thérèse Liotard, Valérie Mairesse, Ali Raffi",
           "synopsis": "À Paris, en 1962, Pauline est une jeune femme de 17 ans, qui chante dans une chorale et caresse secrètement l'espoir de devenir chanteuse yéyé. Suzanne, sa meilleure amie, enceinte pour la troisième fois, se désespère de la mort brutale de son petit ami.",
           "miniTexte": "Chronique des luttes pour le droit à l'avortement, _L'une chante, l'autre pas_ est le long métrage de Varda le plus ouvertement engagé en faveur de la liberté des femmes à disposer de leur corps. Détournant la forme de la comédie musicale, il met en scène l'émancipation de deux amies très différentes mais toujours solidaires.",
-          "status": 2
+          "status": 2,
+          "copies": [
+            {
+              "idCopie": 17082,
+              "duree": 120,
+              "format": "DCP"
+            }
+          ]
         }
       ]
     },
@@ -3699,7 +3770,7 @@
       ]
     },
     {
-      "idSeance": 194618,
+      "idSeance": 194771,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -3711,7 +3782,7 @@
       ],
       "idEvenement": 32850,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-26T16:00:00",
+      "dateHeure": "2025-06-26T16:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -3824,7 +3895,7 @@
       ]
     },
     {
-      "idSeance": 194683,
+      "idSeance": 194777,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -3836,7 +3907,7 @@
       ],
       "idEvenement": 32856,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-19T20:15:00",
+      "dateHeure": "2025-06-20T20:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3863,7 +3934,7 @@
       ]
     },
     {
-      "idSeance": 189213,
+      "idSeance": 194778,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -3875,8 +3946,8 @@
       ],
       "idEvenement": 32857,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-23T20:00:00",
-      "idSalle": "GF",
+      "dateHeure": "2025-06-21T18:30:00",
+      "idSalle": "HL",
       "items": [
         {
           "ordre": 1,
@@ -3951,7 +4022,7 @@
       ]
     },
     {
-      "idSeance": 189137,
+      "idSeance": 194774,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -3963,7 +4034,7 @@
       ],
       "idEvenement": 32859,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-20T20:15:00",
+      "dateHeure": "2025-06-22T14:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -3993,7 +4064,43 @@
       ]
     },
     {
-      "idSeance": 189180,
+      "idSeance": 194782,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 998,
+          "idCategorie": 3761,
+          "titreCycle": "Michel Gondry",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 32861,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-25T18:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 104643,
+          "titre": "Tokyo!",
+          "realisateurs": "Michel Gondry, Leos Carax, Bong Joon-ho",
+          "annee": 2008,
+          "duree": 90,
+          "status": 1,
+          "copies": [
+            {
+              "idCopie": 29705,
+              "duree": 90,
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ],
+          "idFilmBoxoffice": 126663
+        }
+      ]
+    },
+    {
+      "idSeance": 194779,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -4005,8 +4112,8 @@
       ],
       "idEvenement": 32862,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-21T18:30:00",
-      "idSalle": "HL",
+      "dateHeure": "2025-06-23T20:00:00",
+      "idSalle": "GF",
       "items": [
         {
           "ordre": 1,
@@ -4041,7 +4148,7 @@
       ],
       "idEvenement": 32863,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-21T20:30:00",
+      "dateHeure": "2025-06-21T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4078,7 +4185,7 @@
       ]
     },
     {
-      "idSeance": 189197,
+      "idSeance": 194781,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -4090,7 +4197,7 @@
       ],
       "idEvenement": 32864,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-22T18:30:00",
+      "dateHeure": "2025-06-22T20:45:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4116,7 +4223,7 @@
       ]
     },
     {
-      "idSeance": 189198,
+      "idSeance": 194780,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -4128,7 +4235,7 @@
       ],
       "idEvenement": 32865,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-22T20:45:00",
+      "dateHeure": "2025-06-22T18:30:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4190,7 +4297,7 @@
       ]
     },
     {
-      "idSeance": 189196,
+      "idSeance": 194776,
       "idProg": 335,
       "idCycleCategories": [
         {
@@ -4202,7 +4309,7 @@
       ],
       "idEvenement": 32867,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-22T14:30:00",
+      "dateHeure": "2025-06-19T20:15:00",
       "idSalle": "HL",
       "items": [
         {
@@ -4766,7 +4873,7 @@
       ],
       "idEvenement": 32951,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-07T18:15:00",
+      "dateHeure": "2025-06-07T18:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4837,7 +4944,7 @@
       ],
       "idEvenement": 32953,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-02T20:00:00",
+      "dateHeure": "2025-06-02T20:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4872,7 +4979,7 @@
       ],
       "idEvenement": 32954,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-09T18:00:00",
+      "dateHeure": "2025-06-09T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -4942,7 +5049,7 @@
       ],
       "idEvenement": 32958,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-09T20:00:00",
+      "dateHeure": "2025-06-09T20:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6336,7 +6443,7 @@
       ],
       "idEvenement": 32989,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-06T17:00:00",
+      "dateHeure": "2025-06-06T18:30:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6406,7 +6513,7 @@
       ],
       "idEvenement": 32991,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-08T17:30:00",
+      "dateHeure": "2025-06-08T17:00:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6443,7 +6550,7 @@
       ],
       "idEvenement": 32992,
       "typeEvenement": 13,
-      "dateHeure": "2025-06-02T18:00:00",
+      "dateHeure": "2025-06-02T18:15:00",
       "idSalle": "GF",
       "items": [
         {
@@ -6739,7 +6846,7 @@
       "idEvenement": 33036,
       "typeEvenement": 13,
       "libelleEvenement": "NASTY WOMEN",
-      "dateHeure": "2025-06-15T17:30:00",
+      "dateHeure": "2025-06-15T18:30:00",
       "idSalle": "GF",
       "theorique": true,
       "items": []
@@ -6758,7 +6865,7 @@
       "idEvenement": 33036,
       "typeEvenement": 13,
       "libelleEvenement": "NASTY WOMEN",
-      "dateHeure": "2025-06-15T19:30:00",
+      "dateHeure": "2025-06-15T20:30:00",
       "idSalle": "GF",
       "theorique": true,
       "items": []
@@ -6922,6 +7029,41 @@
       ]
     },
     {
+      "idSeance": 194723,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3773,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Hôtel du Parc"
+        }
+      ],
+      "idEvenement": 33048,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-16T21:15:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155192,
+          "titre": "Hôtel du Parc: La guerre civile",
+          "realisateurs": "Pierre Beuchot",
+          "annee": 1992,
+          "duree": 100,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29689,
+              "duree": 100,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 189893,
       "idProg": 335,
       "idCycleCategories": [
@@ -6944,7 +7086,8 @@
           "titreVo": "Not Wanted",
           "realisateurs": "Elmer Clifton, Ida Lupino",
           "annee": 1949,
-          "status": 0
+          "status": 0,
+          "idFilmBoxoffice": 130801
         }
       ]
     },
@@ -7110,7 +7253,8 @@
           "art": "The",
           "realisateurs": "Ida Lupino",
           "annee": 1953,
-          "status": 0
+          "status": 0,
+          "idFilmBoxoffice": 90812
         }
       ],
       "mention": "Ouverture de la rétrospective"
@@ -7175,7 +7319,8 @@
           "adaptation": "D'après le roman _Long Haul_ d'A.I. Bezzerides.",
           "synopsis": "Deux frères dirigeants d'une entreprise de transport sont soupçonnés de l'assassinat de leur concurrent.",
           "miniTexte": "Évocation de la _working class_ des années de crise, le film bascule dans le drame sentimental et judiciaire. La jeune Ida Lupino réussit en beauté son entrée à la Warner et en devient une nouvelle icône.",
-          "status": 2
+          "status": 2,
+          "idFilmBoxoffice": 3689
         }
       ]
     },
@@ -7511,6 +7656,41 @@
       ]
     },
     {
+      "idSeance": 189021,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 11,
+          "idCategorie": 3773,
+          "titreCycle": "Séances spéciales",
+          "titreSousCycle": "Hôtel du Parc"
+        }
+      ],
+      "idEvenement": 33069,
+      "typeEvenement": 13,
+      "dateHeure": "2025-06-16T19:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155193,
+          "titre": "Hôtel du Parc : La révolution nationale ",
+          "realisateurs": "Pierre Beuchot",
+          "annee": 1992,
+          "duree": 100,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29690,
+              "duree": 100,
+              "format": "35 mm",
+              "langCopie": "FRE"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "idSeance": 189895,
       "idProg": 335,
       "idCycleCategories": [
@@ -7620,6 +7800,612 @@
           ]
         }
       ]
+    },
+    {
+      "idSeance": 194762,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1009,
+          "idCategorie": 3790,
+          "titreCycle": "12 cinéastes chinoises",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33099,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-30T18:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155195,
+          "titre": "Her Story",
+          "realisateurs": "Yihui Shao",
+          "annee": 2025,
+          "duree": 123,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29713,
+              "duree": 123,
+              "format": "DCP",
+              "version": "VO",
+              "sousTitres": "STF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194757,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1009,
+          "idCategorie": 3790,
+          "titreCycle": "12 cinéastes chinoises",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33100,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-28T20:00:00",
+      "idSalle": "HL",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155196,
+          "titre": "Woman Demon Human",
+          "realisateurs": "Huang Shuqin",
+          "annee": 1987,
+          "duree": 118,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29712,
+              "duree": 118,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194761,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1009,
+          "idCategorie": 3790,
+          "titreCycle": "12 cinéastes chinoises",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33101,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-31T17:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155197,
+          "titre": "All Ears",
+          "realisateurs": "Liu Jiayin",
+          "annee": 2023,
+          "duree": 120,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29709,
+              "duree": 120,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194759,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1009,
+          "idCategorie": 3790,
+          "titreCycle": "12 cinéastes chinoises",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33102,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-29T20:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155198,
+          "titre": "Send Me to the Clouds",
+          "realisateurs": "Teng Congcong",
+          "annee": 2019,
+          "duree": 99,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29711,
+              "duree": 99,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194760,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1009,
+          "idCategorie": 3790,
+          "titreCycle": "12 cinéastes chinoises",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33104,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-31T15:00:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 117285,
+          "titre": "Tin shui wai dik yat yu ye",
+          "realisateurs": "Ann Hui",
+          "annee": 2008,
+          "duree": 90,
+          "generique": "Hee-Ching Paw, Chun-lung Leung",
+          "synopsis": "Kwai, veuve, la cinquantaine, a une rélation compliquée avec son fils, qui ne parle pas. Kwai rencontre alors au supermarché où elle travaille Grand-mère Leung. Les deux femmes, voisines et collègues, vont progressivement partager leurs solitudes.",
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 12498,
+              "duree": 90,
+              "format": "Numérique",
+              "version": "VO"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194758,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1009,
+          "idCategorie": 3790,
+          "titreCycle": "12 cinéastes chinoises",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33105,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-29T18:30:00",
+      "idSalle": "GF",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155199,
+          "titre": "Qinchun ji",
+          "realisateurs": "Zhang Nuanxin",
+          "annee": 1985,
+          "duree": 92,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29710,
+              "duree": 92,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194763,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1009,
+          "idCategorie": 3790,
+          "titreCycle": "12 cinéastes chinoises",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33107,
+      "typeEvenement": 13,
+      "dateHeure": "2025-05-30T20:30:00",
+      "idSalle": "JE",
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 155201,
+          "titre": "Chinatown Cha-Cha",
+          "realisateurs": "Luka Yuanyuan Yang",
+          "annee": 2024,
+          "duree": 85,
+          "status": 0,
+          "copies": [
+            {
+              "idCopie": 29708,
+              "duree": 85,
+              "format": "DCP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "idSeance": 194749,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1009,
+          "idCategorie": 3790,
+          "titreCycle": "12 cinéastes chinoises",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33108,
+      "typeEvenement": 13,
+      "libelleEvenement": "CHINOISES TITRE8",
+      "dateHeure": "2025-05-31T21:30:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 194750,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1009,
+          "idCategorie": 3790,
+          "titreCycle": "12 cinéastes chinoises",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33109,
+      "typeEvenement": 13,
+      "libelleEvenement": "CHINOISES TITRE 9",
+      "dateHeure": "2025-06-01T17:30:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 194751,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1009,
+          "idCategorie": 3790,
+          "titreCycle": "12 cinéastes chinoises",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33110,
+      "typeEvenement": 13,
+      "libelleEvenement": "CHINOISES TITRE 10",
+      "dateHeure": "2025-06-01T19:30:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 194752,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1009,
+          "idCategorie": 3790,
+          "titreCycle": "12 cinéastes chinoises",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33111,
+      "typeEvenement": 13,
+      "libelleEvenement": "CHINOISES TITRE11",
+      "dateHeure": "2025-06-04T18:30:00",
+      "idSalle": "JE",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 194753,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1009,
+          "idCategorie": 3790,
+          "titreCycle": "12 cinéastes chinoises",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33112,
+      "typeEvenement": 13,
+      "libelleEvenement": "CHINOISES TITRE12",
+      "dateHeure": "2025-06-04T20:30:00",
+      "idSalle": "JE",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 188718,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1008,
+          "idCategorie": 3789,
+          "titreCycle": "64e Semaine de la critique",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33113,
+      "typeEvenement": 13,
+      "libelleEvenement": "COMPÉTITION LM1",
+      "dateHeure": "2025-06-05T18:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 188719,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1008,
+          "idCategorie": 3789,
+          "titreCycle": "64e Semaine de la critique",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33114,
+      "typeEvenement": 13,
+      "libelleEvenement": "COMPÉTITION LM2",
+      "dateHeure": "2025-06-05T20:30:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 188758,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1008,
+          "idCategorie": 3789,
+          "titreCycle": "64e Semaine de la critique",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33115,
+      "typeEvenement": 13,
+      "libelleEvenement": "COMPÉTITION LM3",
+      "dateHeure": "2025-06-06T18:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 188759,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1008,
+          "idCategorie": 3789,
+          "titreCycle": "64e Semaine de la critique",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33116,
+      "typeEvenement": 13,
+      "libelleEvenement": "COMPÉTITION LM4",
+      "dateHeure": "2025-06-06T20:30:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 188818,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1008,
+          "idCategorie": 3789,
+          "titreCycle": "64e Semaine de la critique",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33117,
+      "typeEvenement": 13,
+      "libelleEvenement": "COMPÉTITION LM5",
+      "dateHeure": "2025-06-07T14:30:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 188801,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1008,
+          "idCategorie": 3789,
+          "titreCycle": "64e Semaine de la critique",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33118,
+      "typeEvenement": 13,
+      "libelleEvenement": "COMPÉTITION LM6",
+      "dateHeure": "2025-06-07T18:30:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 188803,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1008,
+          "idCategorie": 3789,
+          "titreCycle": "64e Semaine de la critique",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33119,
+      "typeEvenement": 13,
+      "libelleEvenement": "COMPÉTITION LM7",
+      "dateHeure": "2025-06-07T21:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 188681,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1008,
+          "idCategorie": 3789,
+          "titreCycle": "64e Semaine de la critique",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33120,
+      "typeEvenement": 13,
+      "libelleEvenement": "SEANCE D'OUVERTURE",
+      "dateHeure": "2025-06-04T20:00:00",
+      "idSalle": "HL",
+      "typeSeance": 44,
+      "theorique": true,
+      "mention": "Ouverture de la rétrospective",
+      "items": []
+    },
+    {
+      "idSeance": 194754,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1008,
+          "idCategorie": 3789,
+          "titreCycle": "64e Semaine de la critique",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33121,
+      "typeEvenement": 13,
+      "libelleEvenement": "SEANCE DE CLÔTURE",
+      "dateHeure": "2025-06-09T20:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 188819,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1008,
+          "idCategorie": 3789,
+          "titreCycle": "64e Semaine de la critique",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33122,
+      "typeEvenement": 13,
+      "libelleEvenement": "SÉANCE SPÉCIALE LM1",
+      "dateHeure": "2025-06-08T17:30:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 188820,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1008,
+          "idCategorie": 3789,
+          "titreCycle": "64e Semaine de la critique",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33123,
+      "typeEvenement": 13,
+      "libelleEvenement": "SÉANCE SPÉCIALE LM2",
+      "dateHeure": "2025-06-08T20:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 188804,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1008,
+          "idCategorie": 3789,
+          "titreCycle": "64e Semaine de la critique",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33124,
+      "typeEvenement": 13,
+      "libelleEvenement": "COMPÉTITION CM1",
+      "dateHeure": "2025-06-07T15:00:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 194755,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1008,
+          "idCategorie": 3789,
+          "titreCycle": "64e Semaine de la critique",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33125,
+      "typeEvenement": 13,
+      "libelleEvenement": "COMPÉTITION CM2",
+      "dateHeure": "2025-06-06T16:00:00",
+      "idSalle": "GF",
+      "theorique": true,
+      "items": []
+    },
+    {
+      "idSeance": 194756,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 1008,
+          "idCategorie": 3789,
+          "titreCycle": "64e Semaine de la critique",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33126,
+      "typeEvenement": 13,
+      "libelleEvenement": "CM. SÉANCE SPÉCIALE",
+      "dateHeure": "2025-06-09T18:00:00",
+      "idSalle": "HL",
+      "theorique": true,
+      "items": []
     }
   ]
 }

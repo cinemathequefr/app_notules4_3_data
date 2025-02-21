@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-02-19T10:06:52.375Z",
+  "updatedAt": "2025-02-21T09:41:43.148Z",
   "data": [
     {
       "idSeance": 188170,
@@ -1328,11 +1328,12 @@
           "status": 2,
           "copies": [
             {
-              "idCopie": 29580,
+              "idCopie": 29134,
               "duree": 84,
               "format": "DCP",
               "version": "VO",
-              "sousTitres": "STF"
+              "langCopie": "SPA",
+              "stDemande": true
             }
           ],
           "idFilmBoxoffice": 3213
@@ -2410,7 +2411,7 @@
           "titre": "Polar",
           "realisateurs": "Jacques Bral",
           "annee": 1984,
-          "duree": 97,
+          "duree": 102,
           "generique": "Jean-François Balmer, Sandra Montaigu, Pierre Santini",
           "adaptation": "D'après le roman _Morgue pleine_ de Jean-Patrick Manchette.",
           "miniTexte": "Extirpé du roman _Morgue pleine_ de Jean-Patrick Manchette, le détective de Bral est un loup solitaire pathétique, impliqué dans une affaire criminelle. Plus que par l'intrigue en toile d'araignée, le film éblouit par son atmosphère blafarde et ses décors étiolés, par son utilisation de la voix off en guise de monologue intérieur. Œil tombant, mine cafardeuse, l'excellent Jean-François Balmer déroule le fil d'un récit qui se meut en histoire d'amour, où chacun révèle son incapacité à trouver sa place dans la société.",
@@ -2418,7 +2419,7 @@
           "copies": [
             {
               "idCopie": 29322,
-              "duree": 97,
+              "duree": 102,
               "format": "DCP"
             }
           ],
