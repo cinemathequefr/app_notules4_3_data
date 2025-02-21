@@ -1,45 +1,6 @@
 {
-  "updatedAt": "2025-02-21T09:41:04.920Z",
+  "updatedAt": "2025-02-21T14:33:20.377Z",
   "data": [
-    {
-      "idSeance": 194577,
-      "idProg": 335,
-      "idCycleCategories": [
-        {
-          "idCycle": 14,
-          "idCategorie": 3384,
-          "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31723,
-      "typeEvenement": 13,
-      "dateHeure": "2025-06-20T21:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 33015,
-          "titre": "Passagers de l'angoisse",
-          "art": "Les",
-          "titreVo": "Stranded",
-          "realisateurs": "Tex Fuller",
-          "annee": 1987,
-          "duree": 80,
-          "generique": "Ione Skye, Maureen O'Sullivan, Joe Morton",
-          "status": 0,
-          "copies": [
-            {
-              "idCopie": 28792,
-              "duree": 80,
-              "format": "35 mm",
-              "version": "VF"
-            }
-          ],
-          "idFilmBoxoffice": 320257
-        }
-      ]
-    },
     {
       "idSeance": 188949,
       "idProg": 335,
@@ -74,46 +35,6 @@
             }
           ],
           "idFilmBoxoffice": 110289
-        }
-      ]
-    },
-    {
-      "idSeance": 194576,
-      "idProg": 335,
-      "idCycleCategories": [
-        {
-          "idCycle": 14,
-          "idCategorie": 3384,
-          "titreCycle": "Cinéma bis",
-          "titreSousCycle": "Les films"
-        }
-      ],
-      "idEvenement": 31853,
-      "typeEvenement": 13,
-      "dateHeure": "2025-06-20T19:00:00",
-      "idSalle": "GF",
-      "items": [
-        {
-          "ordre": 1,
-          "idFilm": 30274,
-          "titre": "Future Cop",
-          "titreVo": "Trancers",
-          "realisateurs": "Charles Band",
-          "annee": 1984,
-          "duree": 77,
-          "generique": "Tim Thomerson, Helen Hunt, Telma Hopkins",
-          "miniTexte": "Double dose d'apocalypse chez le prolifique Charles Band, où se rencontrent flics, criminels et créatures bizarres. L'univers punk _eighties_ est porté à son paroxysme dans _Future Cop_, pêle-mêle de _gunfights_ et de poursuites au cœur d'un Los Angeles dévasté, qui lorgne copieusement sur _Blade Runner_. L'occasion pour Helen Hunt de décrocher son premier grand rôle à l'écran. Explosions de voitures et motos volantes prennent la suite dans _Metalstorm_, mélange hybride entre _Mad Max_ et _Les Aventuriers de l'arche perdue_, qui laisse à Jeffrey Byron un boulevard de cabotinage à sillonner.",
-          "status": 2,
-          "copies": [
-            {
-              "idCopie": 28907,
-              "duree": 77,
-              "format": "35 mm",
-              "version": "VO",
-              "sousTitres": "STF"
-            }
-          ],
-          "idFilmBoxoffice": 199597
         }
       ]
     },
@@ -571,7 +492,7 @@
           "ordre": 1,
           "idFilm": 111333,
           "titre": "Avec Django, la mort est là",
-          "titreVo": "Joko invoca Dio... e muori",
+          "titreVo": "Joko – Invoca Dio... e muori",
           "realisateurs": "Antonio Margheriti",
           "annee": 1968,
           "duree": 90,
@@ -2770,7 +2691,7 @@
           "titre": "Agnès de Dieu",
           "titreVo": "Agnes of God",
           "realisateurs": "Norman Jewison",
-          "annee": 1984,
+          "annee": 1985,
           "duree": 98,
           "generique": "Jane Fonda, Anne Bancroft, Meg Tilly",
           "adaptation": "D'après la pièce _Agnès de Dieu_ de John Pielmeier.",
@@ -2785,7 +2706,8 @@
               "langCopie": "ENG",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1490
         }
       ]
     },
@@ -2897,13 +2819,13 @@
           "status": 1,
           "copies": [
             {
-              "idCopie": 29716,
+              "idCopie": 29717,
               "duree": 103,
               "format": "35 mm",
               "selected": true
             },
             {
-              "idCopie": 29717,
+              "idCopie": 29719,
               "duree": 103,
               "format": "35 mm"
             }
@@ -7821,10 +7743,12 @@
           "ordre": 1,
           "idFilm": 155195,
           "titre": "Her Story",
-          "realisateurs": "Yihui Shao",
-          "annee": 2025,
+          "titreVo": "Hao dongxi",
+          "titreNx": "好东西",
+          "realisateurs": "Shao Yihui",
+          "annee": 2024,
           "duree": 123,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29713,
@@ -7833,7 +7757,8 @@
               "version": "VO",
               "sousTitres": "STF"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 1000014591
         }
       ]
     },
@@ -7857,10 +7782,12 @@
           "ordre": 1,
           "idFilm": 155196,
           "titre": "Woman Demon Human",
+          "titreVo": "Ren gui qing",
+          "titreNx": "人·鬼·情",
           "realisateurs": "Huang Shuqin",
           "annee": 1987,
           "duree": 118,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29712,
@@ -7891,10 +7818,12 @@
           "ordre": 1,
           "idFilm": 155197,
           "titre": "All Ears",
+          "titreVo": "Bu xu ci xing",
+          "titreNx": "不虚此行",
           "realisateurs": "Liu Jiayin",
           "annee": 2023,
           "duree": 120,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29709,
@@ -7925,10 +7854,12 @@
           "ordre": 1,
           "idFilm": 155198,
           "titre": "Send Me to the Clouds",
+          "titreVo": "Song wo shang qingyun",
+          "titreNx": "送我上青云",
           "realisateurs": "Teng Congcong",
           "annee": 2019,
           "duree": 99,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29711,
@@ -7958,13 +7889,17 @@
         {
           "ordre": 1,
           "idFilm": 117285,
-          "titre": "Tin shui wai dik yat yu ye",
+          "titre": "Way We Are",
+          "art": "The",
+          "titreVo": "Tianshuiwei de ri yu ye",
+          "titreNx": "天水圍的日與夜",
           "realisateurs": "Ann Hui",
           "annee": 2008,
+          "dureeStd": 90,
           "duree": 90,
           "generique": "Hee-Ching Paw, Chun-lung Leung",
-          "synopsis": "Kwai, veuve, la cinquantaine, a une rélation compliquée avec son fils, qui ne parle pas. Kwai rencontre alors au supermarché où elle travaille Grand-mère Leung. Les deux femmes, voisines et collègues, vont progressivement partager leurs solitudes.",
-          "status": 0,
+          "synopsis": "Kwai, veuve, la cinquantaine, a une rélation compliquée avec son fils, qui ne parle pas. Kwai rencontre alors au supermarché où elle travaille grand-mère Leung. Les deux femmes, voisines et collègues, vont progressivement partager leurs solitudes.",
+          "status": 1,
           "copies": [
             {
               "idCopie": 12498,
@@ -7972,7 +7907,8 @@
               "format": "Numérique",
               "version": "VO"
             }
-          ]
+          ],
+          "idFilmBoxoffice": 203998
         }
       ]
     },
@@ -7995,11 +7931,14 @@
         {
           "ordre": 1,
           "idFilm": 155199,
-          "titre": "Qinchun ji",
+          "titre": "Ode à la jeunesse",
+          "art": "L'",
+          "titreVo": "Qingchun ji",
+          "titreNx": "青春祭 ",
           "realisateurs": "Zhang Nuanxin",
           "annee": 1985,
           "duree": 92,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29710,
@@ -8030,10 +7969,12 @@
           "ordre": 1,
           "idFilm": 155201,
           "titre": "Chinatown Cha-Cha",
+          "titreVo": "Nuren shijie",
+          "titreNx": "女人世界",
           "realisateurs": "Luka Yuanyuan Yang",
           "annee": 2024,
           "duree": 85,
-          "status": 0,
+          "status": 1,
           "copies": [
             {
               "idCopie": 29708,
@@ -8406,6 +8347,195 @@
       "idSalle": "HL",
       "theorique": true,
       "items": []
+    },
+    {
+      "idSeance": 194796,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 525,
+          "idCategorie": 3792,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3792,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33132,
+      "dateHeure": "2025-06-19T19:00:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 38069,
+          "titre": "Bonjour",
+          "titreVo": "Ohayō",
+          "titreNx": "お早う",
+          "realisateurs": "Yasujirō Ozu",
+          "annee": 1959,
+          "generique": "Kōji Shidara, Masahiko Shimazu, Chishū Ryū, Kuniko Miyake",
+          "ageMinimal": 10,
+          "synopsis": "Dans la banlieue de Tokyo, deux jeunes garçons réclament une télévision à leurs parents qui refusent et leur demandent de se taire. Les deux frères entament alors une grève de la parole.",
+          "commentaire": "Réalisé en 1959, parmi les cinq chefs-d'œuvre en couleur du maître Yasujirō Ozu, _Bonjour_ dépeint la vie quotidienne d'un petit quartier de banlieue pris dans le changement technologique né de l'après-guerre. Ozu aura, tout au long de sa carrière, évolué avec la société et son environnement en réadaptant les thèmes qu'il a travaillés et en y insufflant le renouveau contemporain. Réalisé en écho à _Gosses de Tokyo_ (1932), où les enfants entamaient une grève de la faim pour protester contre l'inconstance de l'autorité de leur père, à leurs yeux un pleutre devant son patron, les enfants de _Bonjour_ décident de prendre au mot leur père qui leur intime de « la boucler » en se lançant dans une grève de la parole. Face à la manière autoritaire des adultes de mettre fin à la discussion sur l'achat d'un téléviseur, les deux gamins protestent ; plus qu'une simple bouderie capricieuse, ils manifestent ainsi leur égoïsme et leur insolence insouciante, moquant aussi des adultes qui parlent pour ne rien dire. Le film est mis en scène à la manière d'une chronique tendre et sensible, montrant une société traditionnelle confrontée aux mutations qui la traversent, avec l'arrivée des équipements ménagers modernes, l'apprentissage de l'anglais par les écoliers, et la télévision, symbole de la crise qui va toucher le microcosme de cette petite banlieue tranquille. Mais la révolte des enfants apparaît bien plus troublante et inquiétante en tant que bouleversement des habitudes que l'arrivée imminente de la modernité dans le quotidien des familles ; la disparition des salutations matinales quotidiennes entre voisins perturbe et sème le trouble. Le film, léger et drôle, ne manque pas de toucher par le soin et la délicatesse des attentions du réalisateur à l'égard des protagonistes et des spectateurs.\r\n\r\nMatthieu Grimault",
+          "status": 2
+        },
+        {
+          "ordre": 2,
+          "idConf": 33133,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Frédéric Bonnaud",
+          "duree": 90
+        }
+      ]
+    },
+    {
+      "idSeance": 194798,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 525,
+          "idCategorie": 3792,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 525,
+          "idCategorie": 3792,
+          "titreCycle": "Ciné-club de Frédéric Bonnaud",
+          "titreSousCycle": "Les films"
+        }
+      ],
+      "idEvenement": 33134,
+      "dateHeure": "2025-07-03T19:00:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "ordre": 1,
+          "idFilm": 43947,
+          "titre": "Sandra",
+          "titreVo": "Vaghe stelle dell'orsa",
+          "realisateurs": "Luchino Visconti",
+          "annee": 1964,
+          "generique": "Claudia Cardinale, Jean Sorel, Marie Bell",
+          "synopsis": "De retour à Volterra, sa ville natale de Toscane, Sandra, une riche héritière, veut rendre hommage à son père, mort dans le camp de concentration d'Auschwitz. Son mari, un Américain, découvre que Sandra et son frère Gianni ont un secret.",
+          "status": 0
+        },
+        {
+          "ordre": 2,
+          "idConf": 33135,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Frédéric Bonnaud",
+          "duree": 75
+        }
+      ]
+    },
+    {
+      "idSeance": 194801,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3793,
+          "titreCycle": "Parlons cinéma... avec Maud Ameline",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3111,
+          "titreCycle": "Parlons cinéma... avec Maud Ameline",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 33136,
+      "dateHeure": "2025-06-12T19:00:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "ordre": 1
+        },
+        {
+          "ordre": 2,
+          "idConf": 33140,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Maud Ameline",
+          "duree": 90
+        }
+      ]
+    },
+    {
+      "idSeance": 194803,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3793,
+          "titreCycle": "Parlons cinéma... avec Maud Ameline",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3111,
+          "titreCycle": "Parlons cinéma... avec Maud Ameline",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 33137,
+      "dateHeure": "2025-06-20T19:00:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "ordre": 1
+        },
+        {
+          "ordre": 2,
+          "idConf": 33141,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Maud Ameline",
+          "duree": 90
+        }
+      ]
+    },
+    {
+      "idSeance": 194805,
+      "idProg": 335,
+      "idCycleCategories": [
+        {
+          "idCycle": 152,
+          "idCategorie": 3793,
+          "titreCycle": "Parlons cinéma... avec Maud Ameline",
+          "titreSousCycle": "Les films"
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 3111,
+          "titreCycle": "Parlons cinéma... avec Maud Ameline",
+          "titreSousCycle": "Rencontres et conférences"
+        }
+      ],
+      "idEvenement": 33138,
+      "dateHeure": "2025-06-26T19:00:00",
+      "idSalle": "GF",
+      "typeAssoc": 118,
+      "items": [
+        {
+          "ordre": 1
+        },
+        {
+          "ordre": 2,
+          "idConf": 33139,
+          "idTypeConf": 16,
+          "titre": "Dialogue avec Maud Ameline",
+          "duree": 90
+        }
+      ]
     }
   ]
 }
